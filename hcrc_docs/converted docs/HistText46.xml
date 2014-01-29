@@ -357,7 +357,7 @@ Dept</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="language">English</field>
 <field name="call_number">540 .P54g</field>
-<field name="state_country">Philadelphia</field>
+<field name="state_country">Pennsylvania</field>
 <field name="grade_level_group">High school</field>
 </doc>
 
@@ -374,7 +374,7 @@ Dept</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="language">English</field>
 <field name="call_number">540 .P54c</field>
-<field name="state_country">Philadelphia</field>
+<field name="state_country">Pennsylvania</field>
 <field name="grade_level_group">High school</field>
 </doc>
 

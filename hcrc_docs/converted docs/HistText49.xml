@@ -115,7 +115,7 @@ live longer?</field>
 <field name="pub_place">Oakland, CA</field>
 <field name="language">English</field>
 <field name="call_number">612 .O11c 1947</field>
-<field name="state_country">Oakland</field>
+<field name="state_country">California</field>
 <field name="grade_level_number">11th grade</field>
 <field name="grade_level_group">12th grade</field>
 </doc>
@@ -134,7 +134,7 @@ live longer?</field>
 <field name="pub_place">Oakland, CA</field>
 <field name="language">English</field>
 <field name="call_number">612 .O11c 1951</field>
-<field name="state_country">Oakland</field>
+<field name="state_country">California</field>
 <field name="grade_level_number">11th grade</field>
 <field name="grade_level_group">12th grade</field>
 </doc>
