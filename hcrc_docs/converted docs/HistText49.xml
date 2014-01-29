@@ -1,0 +1,1851 @@
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of California, Berkeley. Elementary School Science
+Project</field>
+<field name="title">What am I? A unit on human physiology. Teacher's manual</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">54</field>
+<field name="keywords">Physiology</field>
+<field name="keywords">Human anatomy</field>
+<field name="keywords">Embryology</field>
+<field name="abstract">v. 1. How I began.</field>
+<field name="edition">Preliminary</field>
+<field name="publisher">University of California</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .E38w v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles City School District</field>
+<field name="title">Physiology 1 and 2 : outline course of study</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">96</field>
+<field name="keywords">Physiology</field>
+<field name="series_title">Los Angeles City School District. Publication</field>
+<field name="series_vol">SC-604</field>
+<field name="publisher">Los Angeles City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .L87p v. 1</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles City School District</field>
+<field name="title">Physiology teacher's handbook</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="keywords">Physiology</field>
+<field name="series_title">Los Angeles City School District. Publication</field>
+<field name="series_vol">SC-605</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Los Angeles City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .L87p v. 2</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nashville (Tennessee) City Schools</field>
+<field name="title">Five friends: a resource unit for second grade</field>
+<field name="year">1963</field>
+<field name="date">04/1963</field>
+<field name="pages">21</field>
+<field name="keywords">Senses and sensation</field>
+<field name="series_title">Nashville (Tennessee) City Schools. Social studies</field>
+<field name="publisher">Nashville (Tennessee) City Schools</field>
+<field name="pub_place">Nashville, TN</field>
+<field name="language">English</field>
+<field name="call_number">612 .N25f</field>
+<field name="state_country">Tennessee</field>
+<field name="grade_level_group">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oregon State Board of Health</field>
+<field name="title">Films for professional use, 1954</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">10</field>
+<field name="keywords">Hygiene</field>
+<field name="keywords">Film catalogs</field>
+<field name="notes">10 p. 24 cm.; Other Titles: Professional film catalog</field>
+<field name="publisher">Oregon State Board of Health</field>
+<field name="pub_place">Portland, OR</field>
+<field name="language">English</field>
+<field name="call_number">610 .O66p SC _ Oregon</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="title">Unit xiii - a life problem unit: how will biological-medical research help me to
+live longer?</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">7</field>
+<field name="keywords">Medical research</field>
+<field name="publisher">Commonwealth of Pennsylvania Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="language">English</field>
+<field name="call_number">610 .P41h</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Course of study: physiology i-ii, grades 11 and 12</field>
+<field name="year">1947</field>
+<field name="date">12/1947</field>
+<field name="pages">59</field>
+<field name="keywords">Physiology</field>
+<field name="series_title">Oakland (California) Public Schools. Science 1947-1</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .O11c 1947</field>
+<field name="state_country">Oakland</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Physiology teacher's handbook, supplement to physiology i-ii (Science
+1947-1)</field>
+<field name="year">1951</field>
+<field name="date">12/1951</field>
+<field name="pages">68</field>
+<field name="keywords">Physiology</field>
+<field name="series_title">Oakland (California) Public Schools. SB Science 1951-1</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .O11c 1951</field>
+<field name="state_country">Oakland</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Port Arthur (Texas) Independent School District</field>
+<field name="title">Teacher's guide for physiology, grades eleven and twelve</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">101</field>
+<field name="keywords">Physiology</field>
+<field name="publisher">Port Arthur (Texas) Independent School District</field>
+<field name="pub_place">Poet Arthur, TX</field>
+<field name="language">English</field>
+<field name="call_number">612 .P83t</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="title">Science unit: the human body, grade five</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">10</field>
+<field name="keywords">Physiology</field>
+<field name="publisher">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="pub_place">Racine, WI</field>
+<field name="language">English</field>
+<field name="call_number">612 .R12h</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Tentative course of study in physiology 5, 6 senior high schools</field>
+<field name="year">1963</field>
+<field name="date">09/1963</field>
+<field name="pages">35</field>
+<field name="keywords">Physiology</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .S12p</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Rumsey, Darrell W.</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A guide for physiology: 1-2</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">83</field>
+<field name="keywords">Physiology</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .S19g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Walworth County (Wisconsin) School</field>
+<field name="title">Blood, the lifestream of the body: unit on blood, heart, circulation</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">6</field>
+<field name="keywords">Blood circulation</field>
+<field name="publisher">Walworth County (Wisconsin) School</field>
+<field name="language">English</field>
+<field name="call_number">612 .W24b</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Walworth County (Wisconsin) School</field>
+<field name="title">Hold your breath</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="keywords">Respiration</field>
+<field name="publisher">Walworth County (Wisconsin) School</field>
+<field name="language">English</field>
+<field name="call_number">612 .W24h</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Walworth County (Wisconsin) School</field>
+<field name="title">Our busy bones</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">6</field>
+<field name="keywords">Blood circulation</field>
+<field name="publisher">Walworth County (Wisconsin) School</field>
+<field name="language">English</field>
+<field name="call_number">612 .W24o</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Walworth County (Wisconsin) School</field>
+<field name="title">Unit on "the senses"</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">14</field>
+<field name="keywords">Senses and sensation</field>
+<field name="publisher">Walworth County (Wisconsin) School</field>
+<field name="language">English</field>
+<field name="call_number">612 .W24u</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ricketts, Grace</field>
+<field name="corp_author">Alameda County (California) Schools</field>
+<field name="title">How do our bodies change as we grow up: resource materials and activities for
+grades 5 through 8</field>
+<field name="year">1949</field>
+<field name="date">Spring, 1949</field>
+<field name="keywords">Human body</field>
+<field name="series_title">Family life education bulletin</field>
+<field name="series_vol">1</field>
+<field name="publisher">Alameda County (California) Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .A31h</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_group">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Association for Health, Physical Education, and
+Recreation</field>
+<field name="title">Sex education resource unit, grades 5, 6, or 7</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">16</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Sex instruction</field>
+<field name="notes">16 p. ; 20 cm.; Genre/Form: Bibliography.</field>
+<field name="publisher">American Association for Health, Physical Education, and Recreation</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .A51s v. 2</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_group">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Association for Health, Physical Education, and
+Recreation</field>
+<field name="title">Sex education : resource unit, grades K, 1, 2, 3, 4</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">23</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">23 p. ; 23 cm.; Genre/Form: Bibliography.; Note(s): Cover title./ Bibliography
+(including film): p. 9-23.</field>
+<field name="publisher">American Association for Health, Physical Education and Recreation</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .A51s v. 1</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_group">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schwartz, William F.</field>
+<field name="corp_author">American Association for Health, Physical Education, and
+Recreation</field>
+<field name="title">Teacher's handbook on venereal disease education</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">152</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Sexually transmitted diseases</field>
+<field name="notes">vii; illus.; Genre/Form: Handbooks, manuals, etc.; Note(s): Appendix B is an
+exact reproduction of the separately published Student's manual on venereal disease; facts about
+syphilis and gonorrhea./ Includes bibliography.; Other Titles: Venereal disease education</field>
+<field name="publisher">American Association for Health, Physical Education, and Recreation</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .A51t</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sex Information and Education Council of the United States</field>
+<field name="corp_author">American Alliance for Health, Physical Education, and Recreation</field>
+<field name="title">A Resource guide in sex education for the mentally retarded. A joint project of
+the Sex Information and Education Council of the United States and the American Alliance for Health,
+Physical Education, and Recreation</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">55</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="notes">55 p. 24 cm.; Note(s): Includes bibliographical references (p. 37-54).</field>
+<field name="publisher">American Association for Health, Physical Education and Recreation and Sex
+Information and Education Council of the U.S</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .A51r</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Association for Health, Physical Education and Recreation</field>
+<field name="title">Veneral disease : resource unit senior high school</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">11</field>
+<field name="keywords">Sexually transmitted diseases</field>
+<field name="publisher">American Association for Health, Physical Education and Recreation</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .A51v</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">E. C. Brown Trust</field>
+<field name="title">Human growth film guide for teachers and discussion leaders</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="keywords">Growth</field>
+<field name="keywords">Sex instruction</field>
+<field name="abstract">Provides the biological facts of sex as a part of human growth and
+development.</field>
+<field name="notes">Note(s): Live./ Last inspected: 1981. Condition complete; good./ Copyright: E.C.
+Brown Trust Fund, (Harry K. Newburn, administration) ; Dec. 1, 1947</field>
+<field name="publisher">E. C. Brown Trust</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .B88h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">E. C. Brown Trust</field>
+<field name="title">A report on the film Human growth</field>
+<field name="pages">24</field>
+<field name="keywords">Growth</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Motion pictures in education</field>
+<field name="publisher">E. C. Brown Trust</field>
+<field name="pub_place">Eugene, OR</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .B88h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Public Health</field>
+<field name="title">Venereal disease information for educators</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">46</field>
+<field name="keywords">Sexually transmitted diseases</field>
+<field name="publisher">California State Department of Public Health</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .C151v</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stein, Bill</field>
+<field name="author">Wold, Nan</field>
+<field name="author">Stende, Linda</field>
+<field name="title">Sex education for the mentally retarded : a resource curriculum for program
+development</field>
+<field name="year">1975</field>
+<field name="date">09/1975</field>
+<field name="pages">45</field>
+<field name="keywords">Children with mental disabilities</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Curricula</field>
+<field name="notes">45 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaf 45).;
+Responsibility: by Bill Stein, Nan Wold, Linda Stende.</field>
+<field name="publisher">California State Department of Health</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .C152s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Youth Authority</field>
+<field name="title">Family life education : curriculum guide</field>
+<field name="year">1974</field>
+<field name="date">01/1974</field>
+<field name="pages">217</field>
+<field name="keywords">Family life education</field>
+<field name="keywords">Sex instruction</field>
+<field name="notes">ill. ; 28 cm.; Note(s): "January, 1974."/ Includes bibliographical references
+(p. 135-141).</field>
+<field name="publisher">California Youth Authority</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .C155f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Child Study Association of America</field>
+<field name="title">When children ask about sex</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="pages">39</field>
+<field name="keywords">Sex instruction</field>
+<field name="notes">39 p. 22 cm.; Note(s): Bibliography: p. 38-40.; Responsibility: by the staff of
+the Child Study Association of America. Foreword by Marianne Kris.</field>
+<field name="edition">3d</field>
+<field name="publisher">Child Study Association of America</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .C53w</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">International Cellucotton Products Company. Education Department</field>
+<field name="title">Teaching guide: menstrual education</field>
+<field name="keywords">Menstruation</field>
+<field name="publisher">International Cellucotton Products Company</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .I61m no. 1</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">International Cellucotton Products Company. Education Department</field>
+<field name="title">"You're a young lady now"</field>
+<field name="year">1952</field>
+<field name="date">1952-1953</field>
+<field name="keywords">Menstruation</field>
+<field name="publisher">International Cellucotton Products Company</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .I61m no. 2</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">International Cellucotton Products Company. Education Department</field>
+<field name="title">Very personally yours</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="keywords">Menstruation</field>
+<field name="publisher">International Cellucotton Products Company</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .I61m no. 3</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">International Cellucotton Products Company. Education Department</field>
+<field name="title">That day is here again</field>
+<field name="year">1944</field>
+<field name="date">1944</field>
+<field name="pages">23</field>
+<field name="keywords">Menstruation</field>
+<field name="publisher">International Cellucotton Products Company</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .I61m no. 4</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bultena, Louis</field>
+<field name="title">Sex and family education in high school</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="pages">32</field>
+<field name="keywords">Sex instruction</field>
+<field name="notes">32 p. 26 cm.; Note(s): Suggested materials for sex and family education: p.
+24-32.</field>
+<field name="series_title">Educational service studies</field>
+<field name="issue">1</field>
+<field name="publisher">Iowa State Teachers College</field>
+<field name="pub_place">Cedar Falls, IA</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .I64s</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Education</field>
+<field name="title">A Broadly representative bibliography of materials on sex education. Sex
+education bibliography materials and sources for teachers : a selected list</field>
+<field name="year">1969</field>
+<field name="date">01/1969</field>
+<field name="pages">10</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Teaching aids</field>
+<field name="notes">[1]; ges ; 28 cm; Note(s): Caption title./ "January, 1969."</field>
+<field name="publisher">Michigan State Department of Education</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .M62s</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Education</field>
+<field name="title">A Broadly representative bibliography of materials on sex education. A selected
+bibliography of sex education for elementary grades</field>
+<field name="year">1969</field>
+<field name="date">01/1969</field>
+<field name="pages">5</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Bibliography</field>
+<field name="notes">[1]; ges ; 28 cm; Note(s): Caption title./ "January, 1969."</field>
+<field name="publisher">Michigan State Department of Education</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .M62s</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Education</field>
+<field name="title">A Broadly representative bibliography of materials on sex education. Sex
+education bibliography, middle school : a selected list</field>
+<field name="year">1969</field>
+<field name="date">01/1969</field>
+<field name="pages">4</field>
+<field name="keywords">Sex instruction</field>
+<field name="keywords">Bibliography</field>
+<field name="keywords">Sex instruction literature</field>
+<field name="notes">[1]; ges ; 28 cm; Note(s): Caption title./ "January, 1969."</field>
+<field name="publisher">Michigan State Department of Education</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .M62s</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnetonka (Minnesota) School District 276</field>
+<field name="title">A guide for the human sexuality curriculum, grades K-12</field>
+<field name="year">1969</field>
+<field name="date">06/1969</field>
+<field name="pages">358</field>
+<field name="keywords">Sex instruction</field>
+<field name="edition">Revised</field>
+<field name="publisher">Minnetonka (Minnesota) School District 276</field>
+<field name="pub_place">Excelsior, MN</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .M66g</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Benell, Florence Belle</field>
+<field name="title">An educational approach to venereal disease control; a VD education guide for
+grades 7 through 12</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="pages">26</field>
+<field name="keywords">Sexually transmitted diseases</field>
+<field name="notes">v; ill. 28 cm.; Note(s): "A National Press publication."/ Bibliography: p.
+25-26.; Responsibility: [by] Florence B. Benell.</field>
+<field name="publisher">National Press Publication</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .N27e</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">Guidelines for family life and sex education, grades K-12</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">96</field>
+<field name="keywords">Family life education</field>
+<field name="keywords">Sex instruction</field>
+<field name="notes">vii; ges 22 x 29 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Minnesota State Department of Education. Curriculum bulletin,</field>
+<field name="series_vol">32</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .M659g</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Personal Products Corporation</field>
+<field name="title">Educational portfolio on menstrual hygiene</field>
+<field name="year">1957</field>
+<field name="date">1957?</field>
+<field name="keywords">Menstruation</field>
+<field name="abstract">This portfolio contains: Anatomical chart--Teacher's general guide for
+menstrual hygiene--Growing up and liking it--It's so much easier when you know--Sally and Mary and
+Kate wondered--How shall I tell my daughter?</field>
+<field name="notes">unbd. v. 29 cm.</field>
+<field name="publisher">Personal Products Corporation</field>
+<field name="pub_place">Milltown, NJ</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .P46e</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Unified School District</field>
+<field name="title">Health education guide : grades three through four</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">32</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Alameda (California) Unified School District</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .A313g v.2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_group">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arizona State Department of Public Information</field>
+<field name="title">Health guide for elementary schools of Arizona</field>
+<field name="year">1963</field>
+<field name="date">1963?</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Arizona State Department of Public Information</field>
+<field name="pub_place">Phoenix, AZ</field>
+<field name="language">English</field>
+<field name="call_number">613 .A71h</field>
+<field name="state_country">Arizona</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arkansas Joint Committee on School Health</field>
+<field name="title">A guide for coordinating school health programs in Arkansas : Report of the
+School Health Workshop sponsored by the Joint Committee on Health Education of the Arkansas State
+Board of Health [and] the Arkansas State Dept. of Education</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">27</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Petit Jean Health Education Workshop (6th : 1953)</field>
+<field name="publisher">Arkansas Joint Committee on School Health</field>
+<field name="pub_place">Little Rock, AR</field>
+<field name="language">English</field>
+<field name="call_number">613 .A72g</field>
+<field name="state_country">Arkansas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Growing up : social health and education guide : grade 6</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">104</field>
+<field name="keywords">Growth</field>
+<field name="keywords">Sex instruction</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">612.4 .S19g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Akron (Ohio) Public Schools</field>
+<field name="title">Health safety, eleventh grade</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">99</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Akron (Ohio) Public Schools</field>
+<field name="pub_place">Akron, OH</field>
+<field name="language">English</field>
+<field name="call_number">613 .A29h</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arkansas State Board of Health</field>
+<field name="corp_author">Arkansas State Department of Education</field>
+<field name="title">A guide for school health programs in Arkansas</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="pages">38</field>
+<field name="keywords">School health services</field>
+<field name="keywords">Health education</field>
+<field name="notes">38 p.; Note(s): Published jointly with the Arkansas State Dept. of
+Education.</field>
+<field name="publisher">Arkansas State Board of Health</field>
+<field name="pub_place">Little Rock, AR</field>
+<field name="language">English</field>
+<field name="call_number">613 .A72gu</field>
+<field name="state_country">Arkansas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Atchison (Kansas) Public Schools</field>
+<field name="title">How do you keep well? (a resource unit for the primary grades)</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="pages">8</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Atchison (Kansas) Public Schools</field>
+<field name="pub_place">Atchison, KS</field>
+<field name="language">English</field>
+<field name="call_number">613 .A86h</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Beverly Hills (California) Unified School District</field>
+<field name="title">Course of study and instructional guide: health education for grades 5 -
+12</field>
+<field name="year">1964</field>
+<field name="date">09/1964</field>
+<field name="pages">174</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Beverly Hills (California) Unified School District. Curriculum
+bulletin</field>
+<field name="series_vol">27</field>
+<field name="publisher">Beverly Hills (California) Unified School District</field>
+<field name="pub_place">Beverly Hills, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .B57c</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Butte County (California) Office of Superintendent of Schools</field>
+<field name="corp_author">Butte County (California) Department of Public Health</field>
+<field name="title">Guidebook for school health</field>
+<field name="year">1961</field>
+<field name="date">1957</field>
+<field name="pages">34</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Butte County (California) Office of Superintendent of Schools</field>
+<field name="pub_place">Oroville, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .B98g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">A guide for vision screening in California public schools</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">22</field>
+<field name="keywords">School health services</field>
+<field name="keywords">Vision tests</field>
+<field name="notes">vii, 22 p.; Note(s): Issued in conjunction with the California State Dept. of
+Public Health and the State Advisory Committee on Vision Screening of School Children./ Earlier ed.
+issued by the Study Committee on Vision Testing of the State Joint Committee on School Health./
+Bibliography: p. 22-[23]; Other Titles: Vision screening in California public schools</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .C15g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Joint Committee on School Health</field>
+<field name="title">Dental health education teaching guide</field>
+<field name="year">1956</field>
+<field name="date">04/1956</field>
+<field name="pages">32</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Dental care</field>
+<field name="notes">32 p.; Responsibility: California State Joint Committee on School
+Health.</field>
+<field name="publisher">California State Joint Committee on School Health</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .C15d</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fodor, John T.</field>
+<field name="author">Gmur, Ben C.</field>
+<field name="author">Sutton, Wilfred C.</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Framework for health instruction in California public schools : kindergarten
+through grade twelve</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">56</field>
+<field name="keywords">Health education</field>
+<field name="notes">viii; ges ; 22 x 28 cm; Note(s): Adopted by the California State Board of
+Education.; Responsibility: prepared by John T. Fodor, Ben C. Gmur, Wilfred C. Sutton, codirectors
+of the Health Framework Project ; coordinated by Patricia J. Hill.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .C15f</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) Public Schools</field>
+<field name="title">Living with yourself and others; a teacher's guide to health education</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">207</field>
+<field name="keywords">Health education</field>
+<field name="notes">207 p. 28 cm.</field>
+<field name="publisher">Chicago (Illinois) Public Schools</field>
+<field name="pub_place">Illinois, IL</field>
+<field name="language">English</field>
+<field name="call_number">613 .C53L</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Course of study in health and safety for senior high schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">246</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Safety education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">246 p. illus. 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Cincinnati Public Schools. Curriculum bulletin</field>
+<field name="series_vol">233</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="language">English</field>
+<field name="call_number">613 .C57h</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Colorado State Department of Education. Advisory Committee on School
+Health</field>
+<field name="title">The children you teach: their growth and health; an overview of the school
+health program</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">20</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">613 .C71c</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Means, Louis E.</field>
+<field name="title">Health, physical education, and recreation in California junior colleges, a
+study of programs, services and facilities</field>
+<field name="year">1960</field>
+<field name="date">05/1960</field>
+<field name="pages">102</field>
+<field name="keywords">Physical education and training</field>
+<field name="keywords">Health education</field>
+<field name="notes">xviii; ges 23 cm.</field>
+<field name="series_title">Bulletin of the California State Dept. of Education</field>
+<field name="series_vol">29</field>
+<field name="issue">6</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .C152h</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chattanooga (Tennessee) Public Schools</field>
+<field name="title">A plan of study in the Chattanooga Public Schools for ninth grade: citizenship
+emphasizing health</field>
+<field name="keywords">Health education</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Chattanooga (Tennessee) Public Schools</field>
+<field name="pub_place">Chattanooga, TN</field>
+<field name="language">English</field>
+<field name="call_number">613 .C49p</field>
+<field name="state_country">Tennessee</field>
+<field name="grade_level_group">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+<field name="title">Health: course of study elementary education</field>
+<field name="year">1957</field>
+<field name="date">1957-1958</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+<field name="pub_place">Clairton, PA</field>
+<field name="language">English</field>
+<field name="call_number">613 .C58h</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+<field name="title">Health &amp;physical education: course of study secondary education</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="pages">56</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+<field name="pub_place">Clairton, PA</field>
+<field name="language">English</field>
+<field name="call_number">613 .C58hp</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">Health education, grades iv-vi: elementary school tentative course of
+study</field>
+<field name="year">1953</field>
+<field name="date">01/1953</field>
+<field name="pages">18</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">613 .C63h</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Colorado State Department of Education</field>
+<field name="corp_author">Colorado Advisory Committee on School Health</field>
+<field name="title">Community resources for school health</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">12</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">613 .C71cr</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Dental Association</field>
+<field name="title">Dental health facts for teachers</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">30</field>
+<field name="keywords">Dental care</field>
+<field name="publisher">American Dental Association</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">613 .C71d</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Byler, Ruth V.</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Health education : grades 7-12</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">10</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Connecticut State Department of Education. Curriculum bulletin
+series</field>
+<field name="series_vol">6</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CN</field>
+<field name="language">English</field>
+<field name="call_number">613 .C749h</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Colorado State Department of Education</field>
+<field name="corp_author">Colorado State Department of Public Health</field>
+<field name="title">Vision and hearing of Colorado school children : a manual of suggestions and
+procedures for the vision and hearing screening of school children</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">28</field>
+<field name="keywords">Vision tests</field>
+<field name="keywords">Hearing tests</field>
+<field name="notes">iv; ges : illustrations ; 28 cm; Responsibility: prepared by Colorado State Dept
+of Education in cooperation with Colorado State Dept. of Public Health.</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver CO</field>
+<field name="language">English</field>
+<field name="call_number">613 .C71v</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="corp_author">Connecticut State Department of Health</field>
+<field name="title">Suggestions for the nurse in the school health program</field>
+<field name="year">1953</field>
+<field name="date">1953 DP - 67</field>
+<field name="keywords">School health services</field>
+<field name="keywords">School nursing</field>
+<field name="notes">67 pages ; 28 cm; Note(s): Includes bibliographical references.; Responsibility:
+Connecticut State Department of Education, Connecticut State Department of Health.</field>
+<field name="edition">Revision 1953</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CN</field>
+<field name="language">English</field>
+<field name="call_number">613 .C749s</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Colorado State Department of Education</field>
+<field name="title">Highways to health and safety : a curriculum guide for health and safety
+education in the high schools of Colorado</field>
+<field name="year">1950</field>
+<field name="date">09/1950</field>
+<field name="pages">82</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">School hygiene</field>
+<field name="notes">82 pages : illustrations ; 22 cm</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">613 .C71h</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johannis, Norma</field>
+<field name="author">Doster, Mildred</field>
+<field name="author">Cochrane, Robert</field>
+<field name="corp_author">Colorado State Department of Education</field>
+<field name="title">Providing a healthful school environment: standards and procedures</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">8</field>
+<field name="keywords">School hygiene</field>
+<field name="publisher">Colorado State Department of Education</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">613 .C71p</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education. Bureau of School and Community
+Services</field>
+<field name="title">Toward better health education for Connecticut youth; a state guide for local
+curriculum development in health education for secondary schools of Connecticut</field>
+<field name="year">1955</field>
+<field name="date">01/1955</field>
+<field name="pages">38</field>
+<field name="keywords">Health education</field>
+<field name="notes">v, 38 p.; Note(s): Cover title.</field>
+<field name="series_title">Connecticut State Department of Education. Bureau of School and Community
+Services. Bulletin</field>
+<field name="series_vol">66</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">613 .C749t</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Contra Costa County (California) Schools</field>
+<field name="title">Health services for school children: let's take a look</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">47</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Contra Costa County (California) Schools</field>
+<field name="pub_place">Martinez, CA</field>
+<field name="language">English</field>
+<field name="call_number">612 .C75h</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Health, physical education, recreation, and driver education program</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">3</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="keywords">Automobile driver education</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">613 .D14h</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Health-science : grades one through 8 : curriculum guide</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">134</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Dallas (Texas) Independent School District. Curriculum bulletin
+series</field>
+<field name="notes">134 p. ; cm</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">613 .D14hs</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_group">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Special services: the school health service program content and scope</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">7</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="language">English</field>
+<field name="call_number">613 .D14s</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Hints for health teaching</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">65</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">613 .F41hi v. 1</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Spears, William R.</field>
+<field name="author">McNiff, Louise</field>
+<field name="corp_author">Denver (Colorado) Public Schools. Department of General Curriculum
+Services</field>
+<field name="title">What - why - how</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="pages">19</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">61.3 .F41hi v. 2</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">Health interests of children; report of a research study of health interests and
+needs of children as a basis for health instruction, kindergarten through grade twelve</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="pages">121</field>
+<field name="keywords">Health education</field>
+<field name="notes">2 p. l., iii-x; 1 illus., diagrs. 23 cm.; Note(s): "Resource materials": p.
+121.</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="language">English</field>
+<field name="call_number">613 .D41h</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Detroit (Michigan) Public Schools. Department of Health and Physical
+Education</field>
+<field name="title">A guide for health instruction in elementary schools</field>
+<field name="year">1947</field>
+<field name="date">02/1947</field>
+<field name="pages">22</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Detroit (Michigan) Public Schools</field>
+<field name="pub_place">Detroit, MI</field>
+<field name="language">English</field>
+<field name="call_number">613 .D48g</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">A program of health services for Florida Schools. Florida program for
+improvement of schools</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="pages">85</field>
+<field name="keywords">School health services</field>
+<field name="notes">85 pages forms 23 cm.; Responsibility: Sponsored jointly by Florida State Dept.
+of Education and Florida State Board of Health.</field>
+<field name="series_title">Florida State Department of Education. Bulletin</field>
+<field name="series_vol">4D</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">613 .F63p</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Florida State Department of Education</field>
+<field name="title">A guide to teaching effective living; a course in health and safety education
+for senior high schools</field>
+<field name="year">1950</field>
+<field name="date">05/1950</field>
+<field name="pages">341</field>
+<field name="keywords">Health education</field>
+<field name="notes">iv; ges illustrations.; Other Titles: Teaching effective living</field>
+<field name="series_title">Florida program for improvement of schools. Bulletin</field>
+<field name="series_vol">4-B</field>
+<field name="publisher">Florida State Department of Education</field>
+<field name="pub_place">Tallahassee, FL</field>
+<field name="language">English</field>
+<field name="call_number">613 .F63g</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Padgett, Elsie</field>
+<field name="author">Covington, Harrison</field>
+<field name="title">The case of the whispering class;</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="pages">56</field>
+<field name="keywords">Hygiene</field>
+<field name="notes">[4]; ill. 23 cm.; Note(s): "Publication made possible by a grant from the Alfred
+P. Sloan Foundation, Inc."/ "Some helpful references": p. 55-56.; Responsibility: illus. by Harrison
+Covington.</field>
+<field name="publisher">University of Florida Project in Applied Economics, College of
+Education</field>
+<field name="pub_place">Gainesville, FL</field>
+<field name="language">English</field>
+<field name="call_number">613 .F64c</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">East Baton Rouge Parish (Louisiana) Public Schools</field>
+<field name="title">Health, physical education, and safety program for junior-senior high schools of
+East Baton Rouge Parish</field>
+<field name="year">1964</field>
+<field name="date">08/1964</field>
+<field name="pages">5</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="publisher">East Baton Rouge Parish (Louisiana) Public Schools</field>
+<field name="pub_place">Baton Rouge, LA</field>
+<field name="language">English</field>
+<field name="call_number">613 .E13h</field>
+<field name="state_country">Louisiana</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Makers of Fleischmann and Royal Products</field>
+<field name="title">Teacher's guides and student's leaflets for opening the door to health</field>
+<field name="date">1956?</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Makers of Fleischmann and Royal Products</field>
+<field name="language">English</field>
+<field name="call_number">613 .F59t</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Public Schools</field>
+<field name="title">People who keep us well: a resource unit for second grade children</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">17</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Flint (Michigan) Public Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="language">English</field>
+<field name="call_number">613 .F62p</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Public Schools</field>
+<field name="title">Personal security education (health and safety): senior high school grade 10
+tentative course</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">36</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Flint (Michigan) Public Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="language">English</field>
+<field name="call_number">613 .F62pe</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Flint (Michigan) Public Schools. Health and Safety Study Committee</field>
+<field name="title">Sources of free and inexpensive industrial materials health and safety</field>
+<field name="year">1958</field>
+<field name="date">09/1958</field>
+<field name="pages">16</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Flint (Michigan) Public Schools</field>
+<field name="pub_place">Flint, MI</field>
+<field name="language">English</field>
+<field name="call_number">613 .F62s</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A guide for health coordinators</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">6</field>
+<field name="keywords">School hygiene</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .F88g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A tentative guide to the Fresno City Schools health program, kindergarten-grade
+1, dental health</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">68</field>
+<field name="keywords">School hygiene</field>
+<field name="edition">Revised</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .F88t v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_group">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A tentative guide to the Fresno City Schools health program, dental health and
+nutrition, grade ii</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">59</field>
+<field name="keywords">School hygiene</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .F88t v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A tentative guide to the Fresno City Schools health program, grade iii, dental
+health, nutrition, safety and accident prevention</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">97</field>
+<field name="keywords">School hygiene</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .F88t v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A tentative guide to the Fresno City Schools health program, grade 4, dental
+health, safety and accident prevention, community health</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">129</field>
+<field name="keywords">School hygiene</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .F88t v. 4</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A tentative guide to the Fresno City Schools health program, grade 5, dental
+health, personality needs and personal health, community health</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">107</field>
+<field name="keywords">School hygiene</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .F88t v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno (California) City Unified School District</field>
+<field name="title">A tentative guide to the Fresno City Schools health program, grade 6, dental
+health, personality needs, personal health</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">107</field>
+<field name="keywords">School hygiene</field>
+<field name="publisher">Fresno (California) City Unified School District</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .F88t v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Audio-visual materials supplementary texts for health and safety education and
+science</field>
+<field name="year">1948</field>
+<field name="date">09/1948</field>
+<field name="pages">65</field>
+<field name="keywords">School hygiene</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">The classroom teacher and the school health program</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">10</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">The classroom teacher and the school health program</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">10</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89h v. 3</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">The classroom teacher and the school health program</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">10</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89s 1954</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">The classroom teacher and the school health program</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">10</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89s</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Handbook of health activities, first grade</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">32</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89h v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Handbook of health activities, second grade</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">15</field>
+<field name="keywords">Health education</field>
+<field name="notes">Includes kits: plays, poems, bibliography</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89h v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Handbook of health activities, third grade</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">15</field>
+<field name="keywords">Health education</field>
+<field name="notes">Includes kits: poems, songs, and stories</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89h v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Handbook of health activities, sixth grade</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">24</field>
+<field name="keywords">Health education</field>
+<field name="notes">Includes kits of suggested activities</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89h v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Suggestions for school health and safety</field>
+<field name="pages">80</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89s</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fresno County (California) Schools</field>
+<field name="title">Suggested school health and safety policies for Fresno County schools</field>
+<field name="year">1954</field>
+<field name="date">06/1954</field>
+<field name="pages">75</field>
+<field name="keywords">Health education</field>
+<field name="edition">Revised</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .F89s 1954</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Greensboro (North Carolina) Public Schools</field>
+<field name="title">Health and physical education</field>
+<field name="year">1955</field>
+<field name="date">05/1955</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Greensboro (North Carolina) Public Schools</field>
+<field name="pub_place">Greensboro, NC</field>
+<field name="language">English</field>
+<field name="call_number">613 .G81h</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Georgia State Department of Public Health</field>
+<field name="corp_author">Georgia State Department of Education</field>
+<field name="title">School health guide</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">79</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Georgia State Department of Education</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">613 .G35s</field>
+<field name="state_country">Georgia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hawaii (Territory) Department of Public Instruction</field>
+<field name="title">Handbook on school health services</field>
+<field name="date">1956?</field>
+<field name="pages">18</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Hawaii Department of Public Instruction</field>
+<field name="pub_place">Honolulu, HI</field>
+<field name="language">English</field>
+<field name="call_number">613 .H38h</field>
+<field name="state_country">Hawaii</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hawaii (Territory) Department of Public Instruction</field>
+<field name="title">Suggestions for health education in grades 7-9: report of Health Education
+Workshop, Hawaii District Schools, August 7-18, 1950, Hilo, Hawaii</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="pages">30</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Hawaii (Territory) Department of Public Instruction</field>
+<field name="pub_place">Honolulu, HI</field>
+<field name="language">English</field>
+<field name="call_number">613 .H38s</field>
+<field name="state_country">Hawaii</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_group">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hawaii (Territory) Department of Public Instruction</field>
+<field name="title">School health policy</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">8</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Hawaii (Territory) Department of Public Instruction</field>
+<field name="pub_place">Honolulu, HI</field>
+<field name="language">English</field>
+<field name="call_number">613 .H38sc</field>
+<field name="state_country">Hawaii</field>
+</doc>
+</add>

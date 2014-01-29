@@ -1,0 +1,1485 @@
+
+
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Science, grade one
+Y1  - 1961
+D1  - 1961
+SP  - 53
+KW  - Science
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19c v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Science, grade two
+Y1  - 1961
+D1  - 1961
+SP  - 56
+KW  - Science
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19c v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Science, grade three
+Y1  - 1961
+D1  - 1961
+SP  - 43
+KW  - Science
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19c v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Science, grade four
+Y1  - 1961
+D1  - 1961
+SP  - 43
+KW  - Science
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19c v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Science, grade five
+Y1  - 1961
+D1  - 1961
+SP  - 45
+KW  - Science
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19c v. 5
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Science, grade six
+Y1  - 1961
+D1  - 1961
+SP  - 52
+KW  - Science
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19c v. 6
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Cupp, Easter E.
+A2  - San Diego (California) City Schools
+T1  - Guide for eighth grade science
+Y1  - 1959
+D1  - 1959
+SP  - 255
+KW  - Science
+ED  - Revised
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19g
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Gregory, John J.
+A1  - Perkins, Frances
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching general science 1-2
+Y1  - 1969
+D1  - 08/1969
+SP  - 245
+KW  - Science
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19g 1969
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - McCommins, Robert
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching general science 1-2 (grade 9 or 10)
+Y1  - 1961
+D1  - 1961
+SP  - 239
+KW  - Science
+ED  - Revised
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19gs v. 1
+SC  - California
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Frankston, Morris
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching general science 4
+Y1  - 1961
+D1  - 1961
+SP  - 183
+KW  - Science
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19gs v. 2
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Department of Education
+T1  - San Diego Zoo educational programs
+Y1  - 1964
+D1  - 06/1964
+SP  - 11
+KW  - Zoology
+N1  - 11 pages : illustrations ; 23 cm.; Note(s): Cover title./ "April 1963, reprinted June 1964."
+T2  - Community educational resources
+PB  - San Diego County (California) Department of Education
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S191sc
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino (California) City Schools
+T1  - Science guide, grade two
+SP  - 82
+KW  - Science
+PB  - San Bernardino (California) City Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 519 .S192s v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino (California) City Schools
+T1  - Science guide, grade four
+SP  - 108
+KW  - Science
+PB  - San Bernardino (California) City Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 519 .S192s v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino (California) City Schools
+T1  - Science guide, grade six
+SP  - 144
+KW  - Science
+PB  - San Bernardino (California) City Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 519 .S192s v. 6
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Department of Education
+T1  - Science - grades one through eight, course of study
+Y1  - 1960
+D1  - 06/1960
+SP  - 81
+KW  - Science
+PB  - San Diego County (California) Department of Education
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S194s
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Silva, Joanna
+A1  - Sims, Janet
+A2  - San Francisco (California) Unified School District
+T1  - Social understanding through science, k-4
+Y1  - 1970
+D1  - Summer, 1970
+SP  - 69
+KW  - Science
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 519 .S194st
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - San Luis Obispo County (California) Schools
+T1  - 7th and 8th grade science couse of study, teacher's guide
+Y1  - 1961
+D1  - 1961
+SP  - 214
+KW  - Science
+PB  - San Luis Obispo County (California) Schools
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 519 .S195s
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Ross, Fred
+A2  - San Jose (California) Unified School District
+T1  - A suggested science guide for summer school, 1961, grades 4-5-6
+Y1  - 1961
+D1  - Summer, 1961
+SP  - 27
+KW  - Science
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 519 .S195sj
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Division of Education
+T1  - Science guide: resource unit for grades 7 and 8
+Y1  - 1958
+D1  - 1958
+SP  - 162
+KW  - Science
+PB  - San Mateo County (California) Division of Education
+CY  - Redwood City, CA
+LA  - English
+CN  - 519 .S196s
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District. Elementary School Department
+T1  - Science teaching guide : third and fourth grades
+Y1  - 1949
+SP  - 39
+KW  - Science
+N1  - x; ges ; 23 cm.; Note(s): On cover: Dept. of elementary schools.; Responsibility: by the Elementary School Dept.
+T2  - San Fransisco science series
+V1  - 2
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 519 .S22s v. 2
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Office of Education
+T1  - Science; teachers' guide grades K-8
+Y1  - 1964
+D1  - 11/1964
+SP  - 96
+KW  - Science
+N1  - ii, 96 l. ill. 28 cm.
+PB  - Santa Clara County (California) Office of Education
+CY  - San Jose, CA
+LA  - English
+CN  - 519 .S22s
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher guide for science, grades one and two
+Y1  - 1952
+D1  - 08/1952
+SP  - 38
+KW  - Science
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 519 .S23t v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher guide for science, grade three
+Y1  - 1952
+D1  - 08/1952
+SP  - 37
+KW  - Science
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 519 .S23t v. 2
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Brinckerhoff, Richard F.
+A2  - Science Research Associates
+T1  - Smashing the sound barrier; the story of men and machines flying faster than the speed of sound ..
+Y1  - 1954
+D1  - 1954
+SP  - 48
+KW  - Aeronautics
+KW  - Aerodynamics
+N1  - 48 p.; Note(s): Cover title.
+T2  - Modern world of science series; Variation: Modern world of science series.
+PB  - Science Research Associates
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .S413m v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Brown, Roger K.
+A1  - Clark, Barbara B.
+A1  - Dodds, Bernard F.
+A2  - University of Illinois at Urbana-Champaign
+A2  - School Science Curriculum Project
+T1  - Beans and biology
+Y1  - 1965
+D1  - 1965
+SP  - 88
+KW  - Science experiments
+N1  - vi; ill. ; 28 cm.; Note(s): On cover: Teaching guide--apparatus guide.; Responsibility: Roger K. Brown, Barbara B. Clark, Bernard F. Dodds.
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 519 .S366s v. 1
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Burnett, R. Will
+A1  - Brandwein, Paul
+A2  - Science Research Associates
+T1  - Operation moon; facts we'll need to know when we travel to other worlds
+Y1  - 1955
+D1  - 1955
+SP  - 48
+KW  - Space flight to the moon
+N1  - 48 p.; Note(s): Cover title.; Responsibility: [by] Raymond Will Burnett. Paul Brandwein, consulting editor.
+T2  - Modern world of science series
+PB  - Science Research Associates
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .S413m v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Burnett, R. Will
+A2  - Science Research Associates
+T1  - How long do you want to live?
+Y1  - 1954
+D1  - 1954
+SP  - 48
+KW  - Longevity
+KW  - Hygiene
+N1  - 48 p. ill.; Responsibility: [By] Raymond Will Burnett; sketches by Don Merrick.
+T2  - Modern world of science series
+PB  - Science Research Associates
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .S413m v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Frost, George R.
+A2  - Science Research Associates
+T1  - The short interval timer
+Y1  - 1966
+D1  - 1966
+SP  - 11
+KW  - Science
+KW  - Measuring instruments
+N1  - ill. ; 28 cm.; Note(s): School Science Curriculum Project.
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 519 .S366s v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Sherman, Robert Clyde
+A1  - Brandwein, Paul
+T1  - Life and death of the soil; the story of the land and its importance to man
+Y1  - 1955
+D1  - 1955
+SP  - 48
+KW  - Soils
+KW  - Soil conservation
+N1  - 48 p. illus. 22 cm.; Note(s): Bibliography : p. 48.
+T2  - SRA modern world of science series
+PB  - Science Research Associates
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .S413m v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Gorn, Saul
+A1  - Manheimer, Wallace
+A1  - Brandwein, Paul
+T1  - The electronic brain and what it can do
+Y1  - 1956
+D1  - 1956
+SP  - 64
+KW  - Computers
+N1  - 64 p. illus. 22 cm.; Responsibility: by Saul Gorn and Wallace Manheimer. Paul F. Brandwein, consulting editor.
+T2  - SRA modern world of science series
+PB  - Science Research Associates
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .S413m v. 7
+ER  - 
+
+TY  - BOOK
+A1  - Montagu, Ashley
+A1  - Brandwein, Paul
+T1  - Modern man
+Y1  - 1956
+D1  - 1956
+SP  - 48
+KW  - Human beings
+N1  - ill. ; 22 cm.; Responsibility: by Ashley Montagu.
+PB  - Science Research Associates
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .S413m v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Stollberg, Robert
+A1  - Brandwein, Paul
+T1  - You and TV; how a television picture gets from the studio to you
+Y1  - 1955
+D1  - 1955
+SP  - 55
+KW  - Television
+N1  - 55 p. illus. 22 cm.; Responsibility: Paul Brandwein, consulting editor.
+T2  - SRA modern world of science series
+PB  - Science Research Associates
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .S413m v. 6
+ER  - 
+
+TY  - BOOK
+A2  - Scranton (Pennsylvania?) Public Schools
+T1  - Science in the elementary grades, kindergarten - grade vi
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Scranton (Pennsylvania?) Public Schools
+CY  - Scranton, PA?
+LA  - English
+CN  - 519 .S43s
+SC  - Pennsylvania
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia (California) Union High School District
+T1  - Laboratory general science: physical science section: course guide
+Y1  - 1960
+D1  - 09/1960
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Sequoia (California) Union High School District
+LA  - English
+CN  - 519 .S47L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee Mission (Kansas) District High School
+T1  - Outline course of study in general science (9th grade)
+Y1  - 1961
+D1  - 1961
+SP  - 134
+KW  - Science
+PB  - Shawnee Mission (Kansas) District High School
+CY  - Shawnee Mission, KS
+LA  - English
+CN  - 519 .S52o
+SC  - Kansas
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Sheboygan (Wisconsin) Public Schools
+T1  - Elementary science curriculum guide
+Y1  - 1963
+D1  - 06/1963
+SP  - 122
+KW  - Science
+PB  - Sheboygan (Wisconsin) Public Schools
+CY  - Sheboygan, WI
+LA  - English
+CN  - 519 .S53c
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Rauwerdink, Warren
+A1  - Obbink, Sarah
+A1  - Opgenorth, Conrad
+A1  - Prinsen, LaVern
+A1  - Stegemeyer, Earl
+A1  - Vruwink, Arlene
+T1  - Science bibliography
+Y1  - 1957
+D1  - 04/1957
+SP  - 9
+KW  - Science
+KW  - Bibliography
+PB  - Sheboygan County Schools
+LA  - English
+CN  - 519 .S53s
+ER  - 
+
+TY  - BOOK
+A1  - Rood, Wanda
+T1  - Sciences in the Shorewood Elementary Schools
+KW  - Science
+T2  - Science experiences for intermediate children
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 519 .S559s v. 1
+SC  - Wisconsin
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Litscher, Donna M.
+T1  - Sciences in the Shorewood Elementary Schools
+KW  - Science
+T2  - Science experiences for intermediate children
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 519 .S559s v. 2
+SC  - Wisconsin
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Wierschem, John
+T1  - Sciences in the Shorewood Elementary Schools
+KW  - Science
+T2  - Science experiences for intermediate children
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 519 .S559s v. 3
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Wierschem, John
+T1  - Sciences in the Shorewood Elementary Schools
+KW  - Science
+T2  - Science experiences for intermediate children
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 519 .S559s v. 4
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sioux City (Iowa) Public Schools
+T1  - General science resource guide, grade 9
+Y1  - 1954
+D1  - 05/1954
+SP  - 67
+KW  - Science
+PB  - Sioux City (Iowa) Public Schools
+CY  - Sioux City, IA
+LA  - English
+CN  - 519 .S61g
+SC  - Iowa
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - South Bay (California) Union High School District
+T1  - Tentative guide for high school science, grades 9-12
+Y1  - 1960
+D1  - 1960-1961
+SP  - 150
+KW  - Science
+PB  - South Bay (California) Union High School District
+CY  - Redondo Beach, CA
+LA  - English
+CN  - 519 .S71t
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - General science for secondary schools : ninth grade
+Y1  - 1960
+D1  - 07/1960
+SP  - 131
+KW  - Curricula
+KW  - Science
+N1  - 131 pages ; 23 cm.
+T2  - South Dakota State Department of Public Instruction. Bulletin
+V1  - 45A
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 519 .S72s v. 2
+SC  - South Dakota
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Elliott, William G.
+A2  - South Dakota State Department of Public Instruction
+T1  - 8th grade science : course of study bulletin
+Y1  - 1960
+D1  - 07/1960
+SP  - 79
+KW  - Science
+N1  - 79 pages ; 24 cm.; Note(s): On cover: Science, course of study and teachers guide for 8th grade science./ Includes bibliographical references (pages 73-79).; Other Titles: Science, course of study and teachers guide for 8th grade science; Responsibility: edited under the supervision of William G. Elliott.
+T2  - South Dakota State Department of Public Instruction. Course of study bulletin
+V1  - 44A
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 519 .S72s v. 1
+SC  - South Dakota
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - South Huntington (New York) Schools. Division of Academic Services
+T1  - Science in the elementary school, grades k-6, a guide for teachers
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - South Huntington (New York) Schools
+CY  - Huntington Station, NY
+LA  - English
+CN  - 519 .S726s
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sparta (Wisconsin) Public Schools
+T1  - Elementary science curriculum bulletin
+Y1  - 1956
+D1  - 1956-1958
+KW  - Science
+PB  - Sparta (Wisconsin) Public Schools
+CY  - Sparta, WI
+LA  - English
+CN  - 519 .S73e
+SC  - Wisconsin
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Springfield Township (Pennsylvania) Elementary Schools
+T1  - Fourth grade science
+Y1  - 1963
+D1  - 1963
+SP  - 67
+KW  - Science
+PB  - Springfield Township (Pennsylvania) Elementary Schools
+LA  - English
+CN  - 519 .S77s
+SC  - Pennsylvania
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Stamford Connecticut Public Schools
+T1  - Curriculum guide for junior high schools: science, grade seven
+Y1  - 1954
+D1  - 1954
+SP  - 24
+KW  - Science
+PB  - Stamford Connecticut Public Schools
+CY  - Stamford, CT
+LA  - English
+CN  - 519 .S777c v. 1
+SC  - Connecticut
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Stamford Connecticut Public Schools
+T1  - Curriculum guide for junior high schools: science, grade eight
+Y1  - 1954
+D1  - 1954
+SP  - 35
+KW  - Science
+PB  - Stamford Connecticut Public Schools
+CY  - Stamford, CT
+LA  - English
+CN  - 519 .S777c v. 2
+SC  - Connecticut
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Hurd, Paul DeHart
+T1  - Shell merit fellowships for college and university science teachers at Stanford University
+Y1  - 1970
+D1  - Summer, 1970
+SP  - 117
+KW  - Science teachers
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 519 .S78c
+ER  - 
+
+TY  - BOOK
+A1  - Weaton, Jeremy A.
+T1  - From superstition to supersonics: a resource unit for world history on the history of science
+Y1  - 1963
+D1  - Winter quarter, 1963
+SP  - 52
+KW  - Science
+KW  - History
+N1  - Education 296b
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 519 .S78f
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Schools
+A2  - Modesto (California) City Schools
+T1  - High school physical science: a teachers' guide
+SP  - 60
+KW  - Science
+T2  - Stanislaus County (California) Schools. Curriculum bulletin
+V1  - 3
+PB  - Stanislaus County (California) Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 519 .S781h
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Schools
+A2  - Modesto (California) City Schools
+T1  - The science teacher and the more able student
+SP  - 28
+KW  - Science
+T2  - Stanislaus County (California) Schools. Curriculum bulletin
+V1  - 1
+PB  - Stanislaus County (California) Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 519 .S781s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Schools
+T1  - Suggestions for using Arithmetic we use, sixth grade
+Y1  - 1949
+D1  - 02/1949
+SP  - 34
+KW  - Arithmetic
+PB  - Ventura County (California) Schools
+LA  - English
+CN  - 511.2 .V46s v. 4
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Elementary science; resource bulletin
+Y1  - 1970
+D1  - 1970
+SP  - 90
+KW  - Science
+N1  - vii; illus. 26 cm.; Note(s): Includes bibliographies.
+T2  - Bulletin (Texas Education Agency)
+V1  - 695
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 519 .T35e
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - JOUR
+A2  - Statham Laboratories Incorporated
+T1  - Bulletin
+Y1  - 1956
+D1  - 1956
+KW  - Science
+PB  - Statham Laboratories Incorporated
+CY  - Los Angeles, CA
+LA  - English
+CN  - 519 .S79c v. 1-4
+ER  - 
+
+TY  - JOUR
+A2  - Statham Laboratories Incorporated
+T1  - Instrument notes
+Y1  - 1948
+D1  - 1948-1957
+KW  - Science
+PB  - Statham Laboratories Incorporated
+CY  - Los Angeles, CA
+LA  - English
+CN  - 519 .S79c v. 5
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Physical science: resource guide
+Y1  - 1972
+D1  - 1972
+KW  - Science
+T2  - Texas Education Agency. Bulletin
+V1  - 725
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 519 .T35p v. 1-2
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Science, grades 1-9, suggested lists of principles and terms
+Y1  - 1961
+D1  - 02/1961
+SP  - 106
+KW  - Science
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 519 .T35s
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Brownell, Samuel M.
+T1  - The Detroit science education story
+Y1  - 1957
+D1  - 12/1957
+SP  - 20
+KW  - Science
+PB  - Thomas Alva Edison Foundation
+CY  - New York, NY
+LA  - English
+CN  - 519 .T45s v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Paul E.
+A1  - Sprague, Newton G.
+T1  - The Indianapolis science education story
+Y1  - 1957
+D1  - 12/1957
+SP  - 19
+KW  - Science
+PB  - Thomas Alva Edison Foundation
+CY  - New York, NY
+LA  - English
+CN  - 519 .T45s v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Harlow, James G.
+A1  - Spencer, Lyle M.
+T1  - The Indianapolis science education story
+Y1  - 1957
+D1  - 12/1957
+SP  - 19
+KW  - Science
+PB  - Thomas Alva Edison Foundation
+CY  - New York, NY
+LA  - English
+CN  - 519 .T45s v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Rickover, H. G.
+T1  - The education of our talented children
+Y1  - 1957
+D1  - 02/1957
+KW  - Science
+PB  - Thomas Alva Edison Foundation
+CY  - New York, NY
+LA  - English
+CN  - 519 .T45s v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Roe, Anne
+T1  - Science begins at home
+Y1  - 1959
+D1  - 1959
+KW  - Science
+PB  - Thomas Alva Edison Foundation
+CY  - New York, NY
+LA  - English
+CN  - 519 .T45s v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Connor, John T.
+A1  - Raubinger, Frederick M.
+A1  - Probst, George E.
+A1  - Urrows, Henry
+T1  - School-industry cooperation for better science education in New Jersey
+Y1  - 1959
+D1  - 1959
+SP  - 32
+KW  - Science
+PB  - Thomas Alva Edison Foundation
+CY  - New York, NY
+LA  - English
+CN  - 519 .T45s v. 7
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Koelsche, Charles L.
+T1  - The status of secondary science education in the state of Ohio
+Y1  - 1958
+D1  - 1958?
+SP  - 29
+KW  - Science
+N1  - 29 p. 24 cm.
+PB  - Research Foundation, University of Toledo
+CY  - Toledo, OH
+LA  - English
+CN  - 519 .T64s
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Science and mathematics in the Tulsa Public Schools
+Y1  - 1957
+D1  - 1957-1958
+SP  - 34
+KW  - Science
+KW  - Mathematics
+T2  - Our Tulsa schools
+V1  - 13
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 519 .T92s
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Union Springs (New York) Central School
+T1  - Elementary science outline, introduction
+Y1  - 1959
+D1  - 1959
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Union Springs (New York) Central School
+CY  - Union Springs, NY
+LA  - English
+CN  - 519 .U54e
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - National Science Foundation (United States)
+T1  - Course and curriculum improvement projects: mathematics, science, engineering
+Y1  - 1966
+D1  - 09/1966
+SP  - 118
+KW  - Science
+KW  - Bibliography
+N1  - v; 27 cm.; Note(s): "NSF 66-22."/ On cover: Elementary school, secondary school, college & university./ "Curriculum studies, textbooks, laboratory guides, resource materials for teachers, supplementary materials for students, equipment development, films."
+PB  - Superintendent of Documents, United States Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 519 .U56c
+ER  - 
+
+TY  - BOOK
+A2  - Utah State University. Elementary School Science Project
+T1  - Science for first grade; a manual for teachers
+Y1  - 1964
+D1  - 08/1964
+SP  - 114
+KW  - Science
+N1  - iii, 114, 35 l. ill.
+ED  - Trial
+PB  - Utah State University. Elementary School Science Project
+CY  - Logan, UT
+LA  - English
+CN  - 519 .U89s v. 1
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Utah State University. Elementary School Science Project
+T1  - Biological supplement to accompany Science for first grade; a manual for teachers
+Y1  - 1964
+D1  - 1964
+SP  - 45
+KW  - Science
+KW  - Biology
+ED  - Preliminary trial
+PB  - Utah State University. Elementary School Science Project
+CY  - Logan, UT
+LA  - English
+CN  - 519 .U89s v. 2
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Using equipment in the science program
+Y1  - 1953
+D1  - 02/1953
+SP  - 6
+KW  - Science
+T2  - Teaching aids
+V1  - 3
+PB  - Utah State Department of Public Instruction
+LA  - English
+CN  - 519 .U89u
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Department of Education. Division of Instruction
+T1  - Science in grades I-VI in Vermont
+Y1  - 1960
+D1  - 1960
+SP  - 135
+KW  - Science
+N1  - xvi; ges : illustrations ; 23 cm; Note(s): Includes bibliographical references.; Responsibility: Division of Instruction, Vermont State Dept. of Education.
+PB  - Vermont State Department of Education. Division of Instruction
+CY  - Montpelier, VT
+LA  - English
+CN  - 519 .V52s
+SC  - Vermont
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Vessel, Matthew F.
+A1  - Applegarth, Arnold G.
+T1  - Experiences with living things; a guide to understanding the common western plants and animals
+Y1  - 1957
+D1  - 1957
+SP  - 195
+KW  - Natural history
+N1  - 195 p. ill. 28 cm.; Note(s): Includes bibliographical references and index.; Responsibility: by Matthew F. Vessel and Arnold G. Applegarth.
+PB  - Fearon Publishers
+CY  - San Francisco, CA
+LA  - English
+CN  - 519 .V58e
+ER  - 
+
+TY  - BOOK
+A1  - Vessel, Matthew F.
+A1  - Wong, Herbert
+T1  - How to stimulate your science program; a guide to simple science activities
+Y1  - 1957
+D1  - 1957
+SP  - 32
+KW  - Science
+N1  - 32 p. ill. 25 cm.; Responsibility: by Matthew F. Vessel and Herbert Wong. Illustrated by Robert Walker and Henry Kappelhof.
+PB  - Fearon Publishers
+CY  - San Francisco, CA
+LA  - English
+CN  - 519 .V58h
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Suggested outlines for science, grades eight and nine
+Y1  - 1962
+D1  - 1962
+KW  - Science
+N1  - [49] p. 28 cm.; Note(s): Cover title./ Various paginations.
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 519 .V81s
+SC  - Virginia
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Tentative curriculum guide : grades seven, eight, nine, science
+Y1  - 1959
+D1  - 1959
+SP  - 100
+KW  - Science
+N1  - ill. ; 28 cm.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 519 .W31s v. 1
+SC  - Washington
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Public Schools of the District of Columbia
+T1  - General science: a guide for the teaching of science, seventh grade
+Y1  - 1960
+D1  - 1960
+SP  - 107
+KW  - Science
+PB  - Public Schools of the District of Columbia
+CY  - Washington, DC
+LA  - English
+CN  - 519 .W319s v. 1
+SC  - District of Columbia
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Public Schools of the District of Columbia
+T1  - General science: a guide for the teaching of science, eighth grade
+Y1  - 1959
+D1  - 1959
+SP  - 62
+KW  - Science
+PB  - Public Schools of the District of Columbia
+CY  - Washington, DC
+LA  - English
+CN  - 519 .W319s v. 2
+SC  - District of Columbia
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Public Schools of the District of Columbia
+T1  - General science: a guide for the teaching of science, ninth grade
+Y1  - 1959
+D1  - 1959
+SP  - 82
+KW  - Science
+PB  - Public Schools of the District of Columbia
+CY  - Washington, DC
+LA  - English
+CN  - 519 .W319s v. 3
+SC  - District of Columbia
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Horen, Adeline
+A1  - Watson, Rebecca
+A2  - Waukesha (Wisconsin) Schools
+T1  - Science, grades 1-3
+KW  - Science
+PB  - Waukesha (Wisconsin) Schools
+CY  - Waukesha, WI
+LA  - English
+CN  - 519 .W35s
+SC  - Wisconsin
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Wausau (Wisconsin) District Public Schools
+T1  - Instructional guide for the teaching of science, primary through senior high
+Y1  - 1965
+D1  - 1965
+SP  - 218
+KW  - Science
+PB  - Wausau (Wisconsin) District Public Schools
+CY  - Wausau, WI
+LA  - English
+CN  - 519 .W351i
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Wellesley (Massachusetts) Public Schools
+T1  - Science in the public schools
+Y1  - 1957
+D1  - 1957
+SP  - 35
+KW  - Science
+T2  - Report of the Wellesley Public Schools
+PB  - Wellesley (Massachusetts) Public Schools
+CY  - Wellesley, MA
+LA  - English
+CN  - 519 .W45s
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A1  - Larsen, James Arthur
+A2  - University of Wisconsin
+T1  - Exploring the unknown; research at the University of Wisconsin
+Y1  - 1958
+D1  - 06/1958
+SP  - 94
+KW  - Research
+KW  - Higher education
+N1  - 94 p. illus. 28 cm.; Note(s): "Published for the University of Wisconsin with funds provided by the Wisconsin Alumni Research Foundation."
+PB  - University of Wisconsin
+CY  - Madison, WI
+LA  - English
+CN  - 519 .W81r
+SC  - Wisconsin
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Wyandotte (Michigan) Public Schools
+T1  - Science curriculum guide
+Y1  - 1956
+D1  - 09/1956
+SP  - 51
+KW  - Science
+KW  - Curricula
+PB  - Wyandotte (Michigan) Public Schools
+CY  - Wyandotte, MI
+LA  - English
+CN  - 519 .W97s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Rex M.
+A2  - West Virginia State Department of Education
+T1  - Science-- : a source book for elementary teachers, grades 1-6
+Y1  - 1961
+D1  - 1961
+SP  - 189
+KW  - Science
+N1  - 189 pages : illustrations ; 23 cm; Note(s): Compiled under the direction of Rex M. Smith, State Superintendent of Schools./ Includes bibliographical references (pages 179-184).; Responsibility: Division of Instruction, [West Virginia] State Dept. of Education.
+PB  - West Virginia State Department of Educatio
+CY  - Charleston, WV
+LA  - English
+CN  - 519 .W51s
+SC  - West Virginia
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 19: science
+SP  - 22
+KW  - Science
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 519 .W51sc
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Western Wisconsin Schoolmasters Club
+T1  - Ninth grade science resource units
+Y1  - 1959
+D1  - 1959-1960
+KW  - Science
+N1  - 1 v. (various pagings)
+PB  - Western Wisconsin Schoolmasters Club
+LA  - English
+CN  - 519 .W53n
+SC  - Wisconsin
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Wilmington (Delaware) Board of Public Education. Division of Elementary Education
+T1  - Discovery through science ; a supplementary bulletin
+Y1  - 1954
+D1  - 1954
+SP  - 179
+KW  - Science
+N1  - 179 p. ; 29 cm
+PB  - Wilmington (Delaware) Board of Public Education
+CY  - Wilmington, DE
+LA  - English
+CN  - 519 .W74d
+SC  - Delaware
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wilmington (Delaware) Public Schools. Curriculum Service Center
+T1  - General science; grades seven, eight, and nine
+Y1  - 1959
+D1  - 01/1959
+KW  - Science
+N1  - 1 v. (various pagings) 29 cm.; Note(s): At head of title: Guiding learning in the secondary school.
+PB  - Wilmington (Delaware) Public Schools
+CY  - Wilmington, DE
+LA  - English
+CN  - 519 .W74g
+SC  - Delaware
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - United States Department of Health, Education and Welfare
+T1  - Experimenting in elementary science
+Y1  - 1957
+D1  - 1957
+SP  - 7
+KW  - Science
+T2  - U.S. Department of Health, Education and Welfare. Education Briefs
+V1  - 12
+ED  - 1957
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 519 .U58e
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - U.S. Department of Health, Education and Welfare
+T1  - Professional literature for teachers of elementary science
+Y1  - 1958
+D1  - 02/1958
+SP  - 10
+KW  - Science
+T2  - U.S. Department of Health, Education and Welfare. Education Briefs
+V1  - 3
+ED  - 1958
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 519 .U58p
+G1  - Elementary
+ER  - 
+

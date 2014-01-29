@@ -1,0 +1,946 @@
+
+
+
+TY  - BOOK
+A2  - Alabama Educational Television Network
+T1  - Television teaching of general chemistry [High school] 1st semester, 1960-61. 10:00-10:30 A.M. Mondays, Wednesdays, and Fridays
+Y1  - 1961
+D1  - 1960-1961
+SP  - 60
+KW  - Television in education
+KW  - Chemistry
+N1  - 60 p. ; 22 cm.
+T2  - Alabama TV Schooltime
+PB  - Broadcasting Services, University of Alabama
+CY  - Tuscaloosa, AL
+LA  - English
+CN  - 540 .A31c 1960-1961
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Educational Television Network
+T1  - Television teaching of general chemistry [High school] First semester, 1959-1960. 10:00-10:30 A.M. Mondays, Wednesdays, and Fridays
+Y1  - 1959
+D1  - 1959-1960
+SP  - 60
+KW  - Television in education
+KW  - Chemistry
+N1  - 60 p. ; 22 cm.
+T2  - Alabama TV Schooltime
+PB  - Broadcasting Services, University of Alabama
+CY  - Tuscaloosa, AL
+LA  - English
+CN  - 540 .A31c 1959-1960
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools. School Committee
+T1  - Courses of study in chemistry and physics for senior high schools
+Y1  - 1956
+D1  - 1956
+SP  - 41
+KW  - Physics
+KW  - Chemistry
+N1  - 41 p. ; 23 cm.; Responsibility: the School Committee of the City of Boston.
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 7
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 540 .B74c
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Alabama
+T1  - Effectiveness of instruction by television in teaching high school chemistry in Alabama schools; a pilot study designed to determine the effectiveness of instruction by television under varied conditions in schools in Alabama
+Y1  - 1961
+D1  - 1961
+SP  - 18
+KW  - Chemistry
+KW  - Television in education
+N1  - 18 p. illus.; Note(s): "The research ... was supported by a grant from the United States Office of Education, Dept. of Health, Education, and Welfare." Cooperative Research Project, Title VII, no. 302H.
+PB  - University of Alabama
+LA  - English
+CN  - 540 .A31c v. 2
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - A tentative course of study in chemistry for the senior high school
+Y1  - 1950
+D1  - 1950
+SP  - 136
+KW  - Chemistry
+PB  - Baltimore County (Maryland) Public Schools
+CY  - Towson, MD
+LA  - English
+CN  - 540 .B19t
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in chemistry, grades xi and xii
+Y1  - 1953
+D1  - 06/1953
+SP  - 46
+KW  - Chemistry
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 540 .B87c
+SC  - Massachusetts
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Final report of the junior college workshops in chemistry
+Y1  - 1961
+D1  - 06/1961
+SP  - 16
+KW  - Chemistry
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 540 .C15c
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Chemistry, a supplement to the Teaching guide for science : a tentative program for the secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 177
+KW  - Chemistry
+N1  - ill. ; 22 x 28 cm.; Note(s): Includes bibliographical references (p. 169-173).
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 540 .C53c
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - The curriculum in chemistry
+Y1  - 1948
+D1  - 01/1948
+SP  - 47
+KW  - Chemistry
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 540 .C63c
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Des Moines (Iowa) Public Schools
+T1  - Curriculum bulletin: chemistry
+Y1  - 1956
+D1  - 08/1956
+SP  - 46
+KW  - Chemistry
+PB  - Des Moines (Iowa) Public Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 540 .D44c
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Public Schools
+T1  - Chemistry : handbook for teachers
+Y1  - 1964
+D1  - 1964
+SP  - 70
+KW  - Chemistry
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 55-57).; Responsibility: Fort Worth Public Schools.
+T2  - Fort Worth (Texas) Public Schools. Curriculum bulletin
+V1  - 273
+PB  - Fort Worth (Texas) Public Schools
+CY  - Fort Worth, TX
+LA  - English
+CN  - 540 .F73c
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Sanderson, R. T.
+A2  - State University of Iowa. Bureau of Audio-Visual Instruction
+T1  - Principles and construction of new chemistry teaching aids : information to supplement a series of three motion picture films
+Y1  - 1961
+D1  - 1961?
+SP  - 35
+KW  - Chemistry
+KW  - Audio-visual materials
+N1  - ill. ; 25 cm.; Note(s): Cover title./ Supplements three films: 1. Atomic models, valences, and the periodic table; 2. New models of molecules, ions, and crystals : their construction and general use in teaching chemistry; 3. A special set of models for introducing chemistry./ Includes bibliographical references.; Responsibility: by R.T. Sanderson.
+PB  - Bureau of Audio-visual Instruction, Extension Division, State University of Iowa
+CY  - Iowa City, IA
+LA  - English
+CN  - 540 .I64p
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools, Division of Instructional Services
+T1  - Instructional guide for chemistry
+Y1  - 1960
+D1  - 1960
+KW  - Chemistry
+N1  - 1 v. (various pagings)
+T2  - Los Angeles (California) City Schools. Experimental publication
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 540 .L87i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - JOUR
+A2  - Manufacturing Chemists' Association (U.S.)
+T1  - Scientific experiments in chemistry
+Y1  - 1958
+D1  - 1958
+KW  - Chemistry
+KW  - Laboratory manuals
+AB  - v.1. Teacher information sheet.-v.2. Student guide
+N1  - 2 v. illus. 28 cm.
+PB  - Manufacturing Chemists' Association
+CY  - Washington, DC
+LA  - English
+CN  - 540 .M29s
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) Secondary Schools
+T1  - Course of study science department: resources units - chemistry 11b-11a, 12b-12a
+Y1  - 1955
+D1  - 1955
+SP  - 119
+KW  - Chemistry
+PB  - Modesto (California) Secondary Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 540 .M69c
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Applied chemistry for high school students
+Y1  - 1949
+D1  - 1948-1949
+SP  - 79
+KW  - Chemistry
+T2  - New York City Board of Education. Curriculum bulletin, 1948-49 series
+V1  - 2
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 540 .N53a 1948-49
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Applied chemistry for high schools
+Y1  - 1959
+D1  - 1958-1959
+SP  - 70
+KW  - Chemistry
+T2  - New York City Board of Education. Curriculum bulletin, 1958-59 series
+V1  - 15
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 540 .N53a 1958-59
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Using chemicals : a resource unit for a course in physical science
+Y1  - 1956
+D1  - 1956
+SP  - 87
+KW  - Chemistry
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references.
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 540 .N532u
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Chemistry and physics : an outline of the scope of content and related understandings of the courses of study
+Y1  - 1957
+D1  - 1957
+SP  - 72
+KW  - Chemistry
+KW  - Physics
+N1  - ill. ; 23 cm.
+PB  - Bureau of Secondary Curriculum Development, New York State Education Dept
+CY  - Albany, NY
+LA  - English
+CN  - 540 .N532c v. 1
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - General chemistry
+Y1  - 1959
+D1  - 1959
+SP  - 67
+KW  - Chemistry
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 540 .P54g
+SC  - Philadelphia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - College preparatory chemistry
+Y1  - 1958
+D1  - 1958
+SP  - 118
+KW  - Chemistry
+ED  - Tentative
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 540 .P54c
+SC  - Philadelphia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science: chemistry and atoms - grade 6
+Y1  - 1961
+D1  - 09/1961
+SP  - 28
+KW  - Chemistry
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 540 .R12c
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - Physical and chemical change: a comprehensive science unit for the Richmond elementary schools
+Y1  - 1964
+D1  - 09/1964
+SP  - 67
+KW  - Chemistry
+PB  - Richmond (California) Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 540 .R53p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Denson, Paul F.
+A1  - Nordstrom, Robert W.
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching advanced chemistry 1-2, grade 11
+Y1  - 1969
+D1  - 1969
+SP  - 44
+KW  - Chemistry
+N1  - p. ; cm.; Note(s): Revised 1969./ Advisory Committee: Clifford T. Fredrickson, John J. Gregory, S.L. Giuliani, Chairman.; Responsibility: prepared by Paul F. Denson and Robert W. Nordstrom.
+ED  - Revised
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 540 .S19a
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District. Secondary Schools Curriculum Laboratory
+T1  - Selected experiments for chemistry
+Y1  - 1957
+D1  - Fall, 1957
+SP  - 29
+KW  - Chemistry
+T2  - San Francisco (California) Unified School District. Curricular material
+V1  - 4201
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 540 .S19s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) High School District
+T1  - Outline of study for the beginning course in chemistry
+Y1  - 1962
+D1  - 1962
+SP  - 179
+KW  - Chemistry
+PB  - Shawnee-Mission (Kansas) High School District
+CY  - Shawnee Mission, KS
+LA  - English
+CN  - 540 .S53o
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+A2  - South Dakota State College
+A2  - Chemistry and Physics Workshops
+T1  - Course of study for secondary chemistry and physics
+Y1  - 1960
+D1  - 1960
+SP  - 221
+KW  - Curricula
+KW  - Chemistry
+KW  - Physics
+N1  - 221 pages ; 23 cm.; Note(s): Cover title: Chemistry anp physics course of study and teachers guide for secondary schools.; Other Titles: Chemistry and physics course of study and teachers guide for secondary schools; Responsibility: Chemistry and physics workshops, South Dakota State College, Brookings, S.D.
+T2  - South Dakota State Department of Public Instruction. Bulletin
+V1  - 81
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 540 .S72c
+SC  - South Dakota
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - Chemistry laboratory problems
+Y1  - 1962
+D1  - 1962-1963
+SP  - 70
+KW  - Chemistry
+ED  - Experimental
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 540 .S75c
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+T1  - Origin of the world and properties of the universe
+N1  - Elementary School Science, Dr. Hone
+KW  - Science
+LA  - English
+CN  - 540 .S78o
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Curriculum guide for beginning chemistry
+Y1  - 1962
+D1  - 1962
+SP  - 109
+KW  - Chemistry
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 540 .T92c
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Washington State tentative curriculum guide for chemistry, 1960
+Y1  - 1960
+D1  - 1960
+SP  - 49
+KW  - Chemistry
+N1  - ill. ; 28 cm.; Note(s): Cover title: Curriculum guide, high school chemistry./ Includes bibliographical references.; Other Titles: Curriculum guide, high school chemistry
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 540 .W31c
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Westport (Connecticut) Board of Education. Department of Science
+T1  - Chemistry, course of study, 1961-62.
+Y1  - 1961
+D1  - 1961-1962
+KW  - Chemistry
+N1  - 1 v. (various pagings)
+PB  - Westport (Connecticut) Board of Education
+CY  - Westport, CT
+LA  - English
+CN  - 540 .W53c
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Egenhoff, Elisabeth L.
+T1  - De argento vivo : historic documents on quicksilver and its recovery in California prior to 1860
+Y1  - 1953
+D1  - 1953
+SP  - 144
+KW  - Mercury
+KW  - Mines and mineral resources
+N1  - ill., map, facsims. ; 23 cm.; Genre/Form: Early works.; Note(s): Includes facsimiles of early works relating to quicksilver./ Supplement to the California Journal of Mines and Geology for October, 1953./ Includes bibliographical references.
+PB  - California State Department of Natural Resources
+CY  - San Francisco, CA
+LA  - English
+CN  - 550 .C15d v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Final report of the junior college workshops in geology
+Y1  - 1961
+D1  - 1961
+SP  - 77
+KW  - Geology
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 550 .C153g
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Earth science syllabus
+Y1  - 1970
+D1  - 1970
+SP  - 50
+KW  - Earth sciences
+N1  - xviii; ; 28 cm.; Responsibility: University of the State of New York, State Education Department, Bureau of Secondary Curriculum Development.
+ED  - 1970
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 550 .N53e 1970
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Earth science handbook : experiments, demonstrations, and other activities suggested for earth science, space, the atmosphere, earth, geology, meteorology [and] astronomy
+Y1  - 1961
+D1  - 1961
+SP  - 224
+KW  - Earth sciences
+KW  - Curricula
+KW  - Geology
+KW  - Meteorology
+KW  - Astronomy
+N1  - ill., diagrs., maps ; 23 cm.; Note(s): Bibliography: p. 223-224.
+PB  - University of the State of New York
+CY  - Bismarck, ND
+LA  - English
+CN  - 550 .N53e 1961
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Earth science curriculum guide
+Y1  - 1963
+D1  - 1963
+SP  - 201
+KW  - Earth sciences
+N1  - ii; ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: Department of Secondary Education, Lakewood Public Schools.
+ED  - 3d
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 550 .L19s
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. Department of Curriculum Development
+T1  - Short course in geology-ecology: Wisconsin's topographic and plant characteristics interacting with man
+SP  - 12
+KW  - Geology
+PB  - Madison (Wisconsin) Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 550 .M18w
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Marple, Mildred Fisher
+A1  - Brown, Walter C.
+A2  - Ohio Division of Geological Survey
+T1  - Handbook for teachers of earth science
+Y1  - 1955
+D1  - 1955
+SP  - 61
+KW  - Earth sciences
+N1  - ill., maps ; 28 cm.; Note(s): Includes bibliographical references (p. 55-59).; Responsibility: by Mildred Fisher Marple and Walter C. Brown.
+T2  - Ohio Division of Geological Survey. Information circular
+V1  - 15
+PB  - State of Ohio, Dept. of Natural Resources, Division of Geological Survey
+CY  - Columbus, OH
+LA  - English
+CN  - 550 .O37h
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Rocks and minerals: a teacher's guide for constructing and operating a rock and mineral identification laboratory
+Y1  - 1959
+D1  - 02/1959
+SP  - 13
+KW  - Geology
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 550 .O63r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Linder, Wade
+A1  - Bartholomew, Rolland B.
+A2  - Palo Alto (California) Unified School District
+T1  - A teaching guide for earth science teachers
+Y1  - 1960
+D1  - Summer, 1960
+SP  - 74
+KW  - Earth sciences
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 550 .P18t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: earth, grade five
+Y1  - 1961
+D1  - 09/1961
+SP  - 39
+KW  - Earth sciences
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 550 .R12g v. 2
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: earth, grade one
+Y1  - 1961
+D1  - 09/1961
+SP  - 6
+KW  - Earth sciences
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 550 .R12g v. 1
+SC  - Wisconsin
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, Harlan L.
+A2  - San Diego (California) City Schools
+T1  - A guide to rocks, minerals, and fossils of San Diego
+Y1  - 1957
+D1  - 1957
+SP  - 75
+KW  - Rocks
+KW  - Mineralogy
+N1  - v; ill. ; 22 x 27 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Harlan L. Wilson.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 550 .S19g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) District High Schools
+T1  - Unified studies: rocks and minerals
+Y1  - 1959
+D1  - 1959
+SP  - 11
+KW  - Earth sciences
+PB  - Shawnee-Mission (Kansas) District High Schools
+CY  - Merriam, KS
+LA  - English
+CN  - 550 .S53r
+SC  - Kansas
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Shell Oil Company
+T1  - Let's collect rocks
+Y1  - 1960
+D1  - 1960
+SP  - 17
+KW  - Rocks
+N1  - ill. ; 22 cm.; Responsibility: [Shell Oil Company].
+PB  - Shell Oil Company
+LA  - English
+CN  - 550 .S54L
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - Earth science, eighth grade
+Y1  - 1961
+D1  - 1961
+SP  - 28
+KW  - Earth sciences
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 550 .S76e
+SC  - Washington
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - von Mueller, Karl
+T1  - The rock club manual: how to organize and operate a gem, mineral, prospecting, or treasure club
+Y1  - 1956
+D1  - 1956
+SP  - 94
+KW  - Earth sciences
+PB  - Gazette Publishing Company
+CY  - Los Angeles, CA
+LA  - English
+CN  - 550 .V94r
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Metals, rocks & minerals
+Y1  - 1956
+D1  - 1956
+KW  - Earth sciences
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 550 .W24m
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Joseph, Alexander
+T1  - The international geophysical year
+SP  - 22
+KW  - Geophysics
+PB  - Grolier Society Inc.
+CY  - New York, NY
+LA  - English
+CN  - 551 .G87i
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Oceanography (for elementary schools)
+N1  - Prepared by the Texas Gulf Coast Science Educational Resources Center
+SP  - 81
+KW  - Oceanography
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 551 .H84o
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Marine Science Education Center
+T1  - Marine science for first grade
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 1
+SC  - Florida
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Marine Science Education Center
+T1  - Marine science for second grade
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 2
+SC  - Florida
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Marine Science Education Center
+T1  - Marine science for third grade
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 3
+SC  - Florida
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Marine Science Education Center
+T1  - Marine science for fourth grade
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 4
+SC  - Florida
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Marine Science Education Center
+T1  - Marine science for fifth grade
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 5
+SC  - Florida
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Marine Science Education Center
+T1  - Marine science education center guidebook
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+N1  - ESEA Title III PL89-10 a PACE project
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 6
+SC  - Florida
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Carothers, Patricia W.
+A1  - Heaney, Marilynn G.
+T1  - Marine biology
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 7
+SC  - Florida
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Marine Science Education Center
+T1  - Eighth grade science unit: chemistry of the ocean and river
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 8
+SC  - Florida
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Carothers, Patricia W.
+A1  - Kirkland, Gary G.
+T1  - Marine biology
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 9
+SC  - Florida
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+T1  - Fish identification manual
+Y1  - 1972
+D1  - 1972
+KW  - Marine sciences
+PB  - Marine Science Education Center
+CY  - Mayport, FL
+LA  - English
+CN  - 551 .M33m v. 10
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Shelter Island (New York) High School
+T1  - Marine science course materials
+Y1  - 1971
+D1  - 1971-1972
+KW  - Marine sciences
+AB  - 1: Basic course outline - marine science; 2: Field trip checklist; 3: Marine science discoveries; 4: Sea frontiers list; 5: periodicals list; 6: Marine science films; 7: Film strips; 8: Film loops; 9: Marine science bibliography
+PB  - Shelter Island (New York) High School
+CY  - Shelter Island, NY
+LA  - English
+CN  - 551 .S54n nos. 1-9
+SC  - New York
+ER  - 
+

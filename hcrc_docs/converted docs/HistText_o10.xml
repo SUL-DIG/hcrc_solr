@@ -19,7 +19,7 @@
             with the Cooperative Reserarch Division of the United States Office of Education, effective prior to
             July 14, 1965 (Project HS-045)."</field>
         <field name="state_country">Minnesota</field>
-    </doc>
+   </doc>
     
     <doc>
         <field name="type">Book</field>
@@ -36,7 +36,7 @@
         <field name="call_number">323 .N531i v. 3</field>
         <field name="state_country">New York</field>
         <field name="grade_level_number">12th grade</field>
-    </doc>
+   </doc>
     
     <doc>
         <field name="type">Book</field>
@@ -54,7 +54,7 @@
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
         <field name="grade_level_number">6th grade</field>
-    </doc>
+   </doc>
     
     <doc>
         <field name="type">Book</field>
@@ -76,7 +76,7 @@
             revolutionary world (University of the State of New York).; Responsibility: by Ward
             Morehouse.</field>
         <field name="state_country">New York</field>
-    </doc>
+   </doc>
     
     <doc>
         <field name="type">Book</field>
@@ -90,7 +90,7 @@
         <field name="pages">36</field>
         <field name="call_number">327 .U69i</field>
         <field name="notes">Memo. Special Issue.</field>
-    </doc>
+   </doc>
     
     <doc>
         <field name="type">Book</field>
@@ -104,7 +104,7 @@
         <field name="pages">76</field>
         <field name="call_number">327 .P85i v. 1</field>
         <field name="state_country">Oregon</field>
-    </doc>
+   </doc>
     
     <doc>
         <field name="type">Book</field>
@@ -118,7 +118,7 @@
         <field name="pages">13</field>
         <field name="call_number">371.45 .L21i</field>
         <field name="state_country">Texas</field>
-    </doc>
+   </doc>
     
     <doc>
         <field name="type">Book</field>
@@ -136,5 +136,5 @@
         <field name="call_number">370.21 .N55i</field>
         <field name="notes">iv; 29 cm.</field>
         <field name="state_country">New York</field>
-    </doc>
+   </doc>
 </add>

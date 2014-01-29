@@ -13,7 +13,7 @@
 <field name="call_number">511.6 .A61m</field>
 <field name="state_country">Michigan</field>
 <field name="grade_level_group">High school</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -65,7 +65,7 @@
 <field name="language">English</field>
 <field name="call_number">511.6 .C15m</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -86,7 +86,7 @@ Education</field>
 <field name="grade_level_number">10th grade</field>
 <field name="grade_level_number">11th grade</field>
 <field name="grade_level_number">12th grade</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -103,7 +103,7 @@ Education</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C152n</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -125,7 +125,7 @@ Education</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C15L</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -142,7 +142,7 @@ Education</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C53b v. 1</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High schools </field>
+<field name="grade_level_group">High schools</field>
 </doc>
 
 <doc>
@@ -160,7 +160,7 @@ p.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C53b v. 2</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High schools </field>
+<field name="grade_level_group">High schools</field>
 </doc>
 
 <doc>
@@ -218,7 +218,7 @@ p.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C58m</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -251,7 +251,7 @@ schools and members of school boards</field>
 <field name="pub_place">Princeton, NJ</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C69p v. 1</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -267,7 +267,7 @@ structure</field>
 <field name="publisher">College Entrance Examination Board</field>
 <field name="pub_place">Princeton, NJ</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .C69p v. 2 </field>
+<field name="call_number">511.6 .C69p v. 2</field>
 </doc>
 
 <doc>
@@ -282,7 +282,7 @@ structure</field>
 <field name="publisher">College Entrance Examination Board</field>
 <field name="pub_place">Princeton, NJ</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .C69p v. 3 </field>
+<field name="call_number">511.6 .C69p v. 3</field>
 </doc>
 
 <doc>
@@ -300,7 +300,7 @@ preparatory mathematics</field>
 <field name="pub_place">Princeton, NJ</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C69p v. 4</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -322,7 +322,7 @@ Andrew J. Dubois.</field>
 <field name="pub_place">Denver, CO</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C71m v. 1</field>
-<field name="state_country">Colorado </field>
+<field name="state_country">Colorado</field>
 </doc>
 
 <doc>
@@ -338,7 +338,7 @@ Program in Mathematics</field>
 <field name="pub_place">Berkeley, CA</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .C73b</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -356,7 +356,7 @@ Education.</field>
 <field name="publisher">Conference Board of the Mathematical Sciences</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .C74o </field>
+<field name="call_number">511.6 .C74o</field>
 </doc>
 
 <doc>
@@ -373,7 +373,7 @@ Education.</field>
 <field name="pub_place">Miami, FL</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .D12e</field>
-<field name="state_country">Florida </field>
+<field name="state_country">Florida</field>
 </doc>
 
 <doc>
@@ -388,7 +388,7 @@ Education.</field>
 <field name="pub_place">Dallas, TX</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .D14m</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -408,7 +408,7 @@ Colorado, Dept. of Civil Engineering, Denver Center.</field>
 <field name="pub_place">Denver, CO</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .D41c</field>
-<field name="state_country">Colorado </field>
+<field name="state_country">Colorado</field>
 </doc>
 
 <doc>
@@ -428,7 +428,7 @@ Curriculum Services.</field>
 <field name="pub_place">Denver, CO</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .D41m v. 1-6</field>
-<field name="state_country">Colorado </field>
+<field name="state_country">Colorado</field>
 </doc>
 
 <doc>
@@ -443,7 +443,7 @@ Curriculum Services.</field>
 <field name="pub_place">Detroit, MI</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .D48d</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -457,7 +457,7 @@ Curriculum Services.</field>
 <field name="pub_place">Flint, MI</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .F62p</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -491,7 +491,7 @@ Board of Education.</field>
 <field name="pub_place">Grand Island, NE</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .G75m</field>
-<field name="state_country">Nebraska </field>
+<field name="state_country">Nebraska</field>
 </doc>
 
 <doc>
@@ -527,7 +527,7 @@ Board of Education.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .G55m v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -543,7 +543,7 @@ Board of Education.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .G55m v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -563,7 +563,7 @@ Taylor.</field>
 <field name="pub_place">Franklin Park, IL</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .F81c</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -598,7 +598,7 @@ bibliographies.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .H84m</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -615,7 +615,7 @@ bibliographies.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 1</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -633,7 +633,7 @@ pronumerals</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 2</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -650,7 +650,7 @@ pronumerals</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 3</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -668,7 +668,7 @@ pairs</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 4</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -686,7 +686,7 @@ functions</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 5</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -702,7 +702,7 @@ functions</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 1</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -719,7 +719,7 @@ manipulation</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 2</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -735,7 +735,7 @@ manipulation</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .I29h v. 3</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -756,7 +756,7 @@ bulletin</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .K16c</field>
 <field name="state_country">Missouri</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -775,7 +775,7 @@ Development</field>
 <field name="pub_place">Frankfort, KS</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .K37n</field>
-<field name="state_country">Kentucky </field>
+<field name="state_country">Kentucky</field>
 </doc>
 
 <doc>
@@ -792,7 +792,7 @@ Development</field>
 <field name="call_number">511.6 .K39r</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Middle school</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -807,7 +807,7 @@ Development</field>
 <field name="pub_place">Seattle, WA</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .K55c</field>
-<field name="state_country">Washington </field>
+<field name="state_country">Washington</field>
 </doc>
 
 <doc>
@@ -846,7 +846,7 @@ Wright, et al.</field>
 <field name="pub_place">Long Beach, CA</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .L84p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -859,7 +859,7 @@ Wright, et al.</field>
 <field name="keywords">Mathematics</field>
 <field name="publisher">Longview (Washington?) Public Schools</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .L85m </field>
+<field name="call_number">511.6 .L85m</field>
 </doc>
 
 <doc>
@@ -875,7 +875,7 @@ Wright, et al.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .L86m</field>
 <field name="state_country">New Mexico</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -908,7 +908,7 @@ Wright, et al.</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .L87ac</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -929,7 +929,7 @@ Services</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .L87i v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -950,7 +950,7 @@ Services</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .L87i v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -971,7 +971,7 @@ Services</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .L87i v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1030,7 +1030,7 @@ kindergarten, grades one and two, an instructional bulletin</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M27m</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1046,7 +1046,7 @@ kindergarten, grades one and two, an instructional bulletin</field>
 <field name="pub_place">Baltimore, MD</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M39h</field>
-<field name="state_country">Maryland </field>
+<field name="state_country">Maryland</field>
 </doc>
 
 <doc>
@@ -1061,7 +1061,7 @@ kindergarten, grades one and two, an instructional bulletin</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M391u</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1086,7 +1086,7 @@ Services. Publication</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .L87im</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1101,7 +1101,7 @@ Services. Publication</field>
 <field name="pub_place">Midland, TX</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M63m</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -1120,7 +1120,7 @@ schools.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M42m</field>
 <field name="state_country">United Kingdom</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1139,7 +1139,7 @@ Committee on Science Mathematics ..."/ Includes bibliographical references (page
 <field name="pub_place">Lansing, MI</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M62f</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -1157,7 +1157,7 @@ Committee on Science Mathematics ..."/ Includes bibliographical references (page
 <field name="pub_place">St. Paul, MN</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M66c</field>
-<field name="state_country">Minnesota </field>
+<field name="state_country">Minnesota</field>
 </doc>
 
 <doc>
@@ -1198,7 +1198,7 @@ Program in Mathematics</field>
 <field name="pub_place">Berkeley, CA</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M426b</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -1261,7 +1261,7 @@ Schools</field>
 <field name="pub_place">Rockville, MD</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .M78r</field>
-<field name="state_country">Maryland </field>
+<field name="state_country">Maryland</field>
 </doc>
 
 <doc>
@@ -1278,7 +1278,7 @@ Schools</field>
 <field name="pub_place">Brooklyn, NY</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .A86n</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -1295,6 +1295,6 @@ schools of Portland, Oregon</field>
 <field name="pub_place">Portland, OR</field>
 <field name="call_number">428.2 .P85e</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 </add>

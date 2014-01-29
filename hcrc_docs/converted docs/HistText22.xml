@@ -33,7 +33,7 @@ through grade twelve</field>
 <field name="pub_place">Denver, CO</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M29p</field>
-<field name="state_country">Colorado </field>
+<field name="state_country">Colorado</field>
 </doc>
 
 <doc>
@@ -92,7 +92,7 @@ English.</field>
 <field name="call_number">428.2 .M61w</field>
 <field name="state_country">Michigan</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -107,7 +107,7 @@ English.</field>
 <field name="pub_place">Midland, TX</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M63e</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -124,7 +124,7 @@ English.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M65L</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -318,7 +318,7 @@ report</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M69en</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -335,7 +335,7 @@ Schools Division</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M69 eng v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -352,7 +352,7 @@ Schools Division</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M69 eng v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -369,7 +369,7 @@ Schools Division</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M69 eng v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -384,7 +384,7 @@ Schools Division</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M689L</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -402,7 +402,7 @@ County Public Schools.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M78e v. 1-2</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -417,7 +417,7 @@ County Public Schools.</field>
 <field name="pub_place">Rockville, MD</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .M78p</field>
-<field name="state_country">Maryland </field>
+<field name="state_country">Maryland</field>
 </doc>
 
 <doc>
@@ -441,7 +441,7 @@ procedures</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277c</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -461,7 +461,7 @@ Responsibility: Robert B. Carruthers.</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277bu</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -480,7 +480,7 @@ Committee on Classroom Practices, 1969/1970-</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Champaign, Ill</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277cL v. 3-15 </field>
+<field name="call_number">428.2 .N277cL v. 3-15</field>
 </doc>
 
 <doc>
@@ -499,7 +499,7 @@ L. Evertts, editor.</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277d</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -520,7 +520,7 @@ Council of Teachers of English. Oscar M. Haugh, Chairman.</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277i </field>
+<field name="call_number">428.2 .N277i</field>
 </doc>
 
 <doc>
@@ -540,7 +540,7 @@ English Curriculum.</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277ec </field>
+<field name="call_number">428.2 .N277ec</field>
 </doc>
 
 <doc>
@@ -559,7 +559,7 @@ Responsibility: prepared by the Committee on High School-College Articulation.</
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 N277h</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -631,7 +631,7 @@ English.; Responsibility: edited by Richard Ohmann and W.B. Coley.</field>
 <field name="pub_place">Urbana, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277ie</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -652,7 +652,7 @@ Fifth Conference on English Education, March 30-April 1, 1967. Selected addresse
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277m </field>
+<field name="call_number">428.2 .N277m</field>
 </doc>
 
 <doc>
@@ -668,7 +668,7 @@ Elgin.</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Urbana, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277p </field>
+<field name="call_number">428.2 .N277p</field>
 </doc>
 
 <doc>
@@ -685,7 +685,7 @@ to write</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Bethesda, MD</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277ss </field>
+<field name="call_number">428.2 .N277ss</field>
 </doc>
 
 <doc>
@@ -705,7 +705,7 @@ references.; Other Titles: English institutes for elementary teachers.</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277so</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -727,7 +727,7 @@ T. Petty.</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277s </field>
+<field name="call_number">428.2 .N277s</field>
 </doc>
 
 <doc>
@@ -747,7 +747,7 @@ centers.</field>
 <field name="pub_place">Champaign, IL</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N277su</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -849,11 +849,11 @@ sentence</field>
 Kenneth L. Pike.--"Lingustic theory as an aid to invention.", by Hubert M. English.--"A linguistic
 analogy in literary criticism", by Alan B. Howes.</field>
 <field name="notes">24 p. 24 cm.; Note(s): "Reprinted from College Composition and Communication,
-May and October, 1964."; Responsibility: by Kenneth L. Pike, Hubert M. English [and] Alan B. Howes. </field>
+May and October, 1964."; Responsibility: by Kenneth L. Pike, Hubert M. English [and] Alan B. Howes.</field>
 <field name="publisher">National Council of Teachers of English</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .N277st </field>
+<field name="call_number">428.2 .N277st</field>
 </doc>
 
 <doc>
@@ -921,7 +921,7 @@ including a list of suggested films</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N531L v. 2a</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -940,7 +940,7 @@ series</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N531L v. 2</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -956,7 +956,7 @@ series</field>
 <field name="keywords">Curricula</field>
 <field name="keywords">Writing</field>
 <field name="notes">ix; ill. ; 23 cm.; Note(s): Includes bibliographical references.</field>
-<field name="series_title">Curriculum bulletin (New York (N.Y.) ;; 1958-59 ser., </field>
+<field name="series_title">Curriculum bulletin (New York (N.Y.) ;; 1958-59 ser.,</field>
 <field name="series_vol">9</field>
 <field name="publisher">New York (New York) Board of Education</field>
 <field name="pub_place">New York, NY</field>
@@ -986,7 +986,7 @@ Development</field>
 <field name="pub_place">Albany, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N532ew</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -1006,7 +1006,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N532h</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1024,7 +1024,7 @@ Development</field>
 <field name="pub_place">Albany, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N532el</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -1101,7 +1101,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N532hu</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1171,11 +1171,11 @@ school</field>
 <field name="series_vol">1</field>
 <field name="edition">Rev.</field>
 <field name="publisher">New York State English Council</field>
-<field name="pub_place">Oswego, NY </field>
+<field name="pub_place">Oswego, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N533r</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1196,7 +1196,7 @@ Responsibility: [by] Robert W. DeLancey.</field>
 <field name="pub_place">Syracuse, NY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N533L</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -1212,7 +1212,7 @@ Responsibility: [by] Robert W. DeLancey.</field>
 <field name="pub_place">Wellington, NZ</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N54g</field>
-<field name="state_country">New Zealand </field>
+<field name="state_country">New Zealand</field>
 </doc>
 
 <doc>
@@ -1233,7 +1233,7 @@ Wade.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N533c</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1249,7 +1249,7 @@ Wade.</field>
 <field name="pub_place">Newark, DE</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N55c</field>
-<field name="state_country">Delaware </field>
+<field name="state_country">Delaware</field>
 </doc>
 
 <doc>
@@ -1268,7 +1268,7 @@ Wade.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N56c v. 1</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1287,7 +1287,7 @@ Wade.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N56c v. 2</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1306,6 +1306,6 @@ school)</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .N86e</field>
 <field name="state_country">North Dakota</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 </add>

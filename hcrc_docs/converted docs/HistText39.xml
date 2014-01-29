@@ -17,7 +17,7 @@
 <field name="language">English</field>
 <field name="call_number">519 .C748s</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -61,7 +61,7 @@
 <field name="language">English</field>
 <field name="call_number">519 .C76e v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -250,7 +250,7 @@ elementary science; Conservation of energy sequence</field>
 <field name="language">English</field>
 <field name="call_number">519 .C78s v. 4</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -324,7 +324,7 @@ and School Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .D12j</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -339,7 +339,7 @@ and School Services</field>
 <field name="pub_place">Dallas, TX</field>
 <field name="language">English</field>
 <field name="call_number">519 .D14s</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -355,7 +355,7 @@ and School Services</field>
 <field name="publisher">Science Service</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">519 .D26s </field>
+<field name="call_number">519 .D26s</field>
 </doc>
 
 <doc>
@@ -491,7 +491,7 @@ and School Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .D44p</field>
 <field name="state_country">Iowa</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -528,7 +528,7 @@ and School Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .D61e</field>
 <field name="state_country">District of Columbia</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -591,7 +591,7 @@ and School Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .D88s 1954 v. 7</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -606,7 +606,7 @@ and School Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .D88s 1958 v. 7</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -649,7 +649,7 @@ and School Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .E23c</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -705,7 +705,7 @@ teachers</field>
 <field name="language">English</field>
 <field name="call_number">519 .E58s v. 2</field>
 <field name="state_country">New Jersey</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -720,7 +720,7 @@ teachers</field>
 <field name="language">English</field>
 <field name="call_number">519 .E58s v. 3</field>
 <field name="state_country">New Jersey</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -736,7 +736,7 @@ teachers</field>
 <field name="language">English</field>
 <field name="call_number">519 .F16c</field>
 <field name="state_country">New Jersey</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -752,7 +752,7 @@ teachers</field>
 <field name="pub_place">Fairfax, VA</field>
 <field name="language">English</field>
 <field name="call_number">519 .F166p</field>
-<field name="state_country">Virginia </field>
+<field name="state_country">Virginia</field>
 </doc>
 
 <doc>
@@ -764,7 +764,7 @@ teachers</field>
 <field name="pub_place">Flint, MI</field>
 <field name="language">English</field>
 <field name="call_number">519 .F62t</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -785,7 +785,7 @@ brief guide to the teaching of science in the secondary schools.</field>
 <field name="language">English</field>
 <field name="call_number">519 .F63g</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -904,7 +904,7 @@ chemistry, physics, conservation</field>
 <field name="language">English</field>
 <field name="call_number">519 .F88a</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -921,7 +921,7 @@ Teachers Association.</field>
 <field name="publisher">National Science Teachers Association</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">519 .F99i </field>
+<field name="call_number">519 .F99i</field>
 </doc>
 
 <doc>
@@ -1010,7 +1010,7 @@ Teachers Association.</field>
 <field name="language">English</field>
 <field name="call_number">519 .G35s v. 1</field>
 <field name="state_country">Georgia</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1027,7 +1027,7 @@ Teachers Association.</field>
 <field name="call_number">519 .G35s v. 2</field>
 <field name="state_country">Georgia</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1041,7 +1041,7 @@ Teachers Association.</field>
 <field name="publisher">Glendale-River Hills (Wisconsin) Schools</field>
 <field name="language">English</field>
 <field name="call_number">519 .G551s</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -1080,7 +1080,7 @@ teachers: kindergarten - grade vi</field>
 <field name="language">English</field>
 <field name="call_number">519 .G751g 1963-64 v. 1</field>
 <field name="state_country">Utah</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1097,7 +1097,7 @@ schools</field>
 <field name="language">English</field>
 <field name="call_number">519 .G751g 1963-64 v. 2</field>
 <field name="state_country">Utah</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1137,7 +1137,7 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 <field name="pub_place">Great Neck, NY</field>
 <field name="language">English</field>
 <field name="call_number">519 .G78sp</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -1220,7 +1220,7 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 <field name="publisher">Green Bay Public Schools</field>
 <field name="language">English</field>
 <field name="call_number">519 .G79s v. 1</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1231,7 +1231,7 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 <field name="publisher">Green Bay Public Schools</field>
 <field name="language">English</field>
 <field name="call_number">519 .G79s v. 2</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1247,7 +1247,7 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 <field name="language">English</field>
 <field name="call_number">519 .H63s</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1262,6 +1262,6 @@ and the human body -- Light and sound -- Physical and chemical changes -- Plants
 <field name="language">English</field>
 <field name="call_number">519 .H64s</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 </add>

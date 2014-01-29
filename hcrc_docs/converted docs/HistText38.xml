@@ -60,7 +60,7 @@ Brandwein.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A31j</field>
 <field name="state_country">Alabama</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -76,7 +76,7 @@ Brandwein.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A311i</field>
 <field name="state_country">Alabama</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -92,7 +92,7 @@ Brandwein.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A311s v. 1</field>
 <field name="state_country">Alabama</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -108,7 +108,7 @@ Brandwein.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A311s v. 2</field>
 <field name="state_country">Alabama</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -124,7 +124,7 @@ Brandwein.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A311sL</field>
 <field name="state_country">Alabama</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -140,7 +140,7 @@ Brandwein.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A32e</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -158,7 +158,7 @@ Brandwein.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A33s v. 1</field>
 <field name="state_country">Canada</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -211,7 +211,7 @@ Group)</field>
 <field name="pub_place">Carbondale, IL</field>
 <field name="language">English</field>
 <field name="call_number">519 .A43t</field>
-<field name="state_country">Illinois </field>
+<field name="state_country">Illinois</field>
 </doc>
 
 <doc>
@@ -267,14 +267,14 @@ Group)</field>
 <field name="pages">72</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-14A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 1A</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -285,14 +285,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="date">1965</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-14B</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 1B</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -304,14 +304,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="pages">99</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-15A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 2A</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -322,14 +322,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="date">1965</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-15A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 2B</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -341,14 +341,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="pages">99</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-16A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 3A</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -359,14 +359,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="date">1965</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-16B</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 3B</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -378,14 +378,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="pages">101</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-19A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 4A</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -396,14 +396,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="date">1965</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-19B</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 4B</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -415,14 +415,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="pages">101</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-20A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 5A</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -433,14 +433,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="date">1965</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-20B</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 5B</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -452,14 +452,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="pages">99</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-21A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 6A</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -470,14 +470,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="date">1965</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-21B</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 6B</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -489,14 +489,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="pages">105</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-23A</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 6A</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -507,14 +507,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="date">1965</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">65-23B</field>
 <field name="edition">3d experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s v. 6B</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -526,14 +526,14 @@ schools.; Responsibility: American Association for the Advancement of Science. <
 <field name="pages">275</field>
 <field name="keywords">Science</field>
 <field name="notes">v. : ill. ; 28 cm.; Note(s): On cover: Prepared for testing in elementary
-schools.; Responsibility: American Association for the Advancement of Science. </field>
+schools.; Responsibility: American Association for the Advancement of Science.</field>
 <field name="series_title">AAAS miscellaneous publication</field>
 <field name="series_vol">67-13</field>
 <field name="edition">4th experimental</field>
 <field name="publisher">American Association for the Advancement of Science</field>
 <field name="language">English</field>
 <field name="call_number">519 .A512s 1967 v. 7</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -551,7 +551,7 @@ Drummond, Jr.</field>
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Columbus, OH</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 2 </field>
+<field name="call_number">519 .A513s v. 2</field>
 </doc>
 
 <doc>
@@ -569,7 +569,7 @@ Drummond, Jr.</field>
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Columbus, OH</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 1 </field>
+<field name="call_number">519 .A513s v. 1</field>
 </doc>
 
 <doc>
@@ -585,7 +585,7 @@ Drummond, Jr.</field>
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Middletown, CT</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s 1962 v. 4 </field>
+<field name="call_number">519 .A513s 1962 v. 4</field>
 </doc>
 
 <doc>
@@ -601,7 +601,7 @@ Drummond, Jr.</field>
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Middletown, CT</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s 1968 v. 4 </field>
+<field name="call_number">519 .A513s 1968 v. 4</field>
 </doc>
 
 <doc>
@@ -618,7 +618,7 @@ Drummond, Jr.</field>
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Middletown, CT</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 3 </field>
+<field name="call_number">519 .A513s v. 3</field>
 </doc>
 
 <doc>
@@ -639,7 +639,7 @@ publication</field>
 Education</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">519 .A512se </field>
+<field name="call_number">519 .A512se</field>
 </doc>
 
 <doc>
@@ -657,7 +657,7 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Columbus, OH</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 9 </field>
+<field name="call_number">519 .A513s v. 9</field>
 </doc>
 
 <doc>
@@ -675,7 +675,7 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Columbus, OH</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 8 </field>
+<field name="call_number">519 .A513s v. 8</field>
 </doc>
 
 <doc>
@@ -692,7 +692,7 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 <field name="publisher">American Education Publications, Education Center</field>
 <field name="pub_place">Columbus, OH</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 5 </field>
+<field name="call_number">519 .A513s v. 5</field>
 </doc>
 
 <doc>
@@ -706,7 +706,7 @@ Houston."; Responsibility: Original content created by Thomas G. Aylesworth.</fi
 <field name="publisher">American Education Publications, Education Center</field>
 <field name="pub_place">Columbus, OH</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 6 </field>
+<field name="call_number">519 .A513s v. 6</field>
 </doc>
 
 <doc>
@@ -726,7 +726,7 @@ Responsibility: Rudolph Haffner and Jeffrey Baker.</field>
 <field name="publisher">American Education Publications</field>
 <field name="pub_place">Middletown, CT</field>
 <field name="language">English</field>
-<field name="call_number">519 .A513s v. 7 </field>
+<field name="call_number">519 .A513s v. 7</field>
 </doc>
 
 <doc>
@@ -798,7 +798,7 @@ Responsibility: Rudolph Haffner and Jeffrey Baker.</field>
 <field name="language">English</field>
 <field name="call_number">519 .A71s</field>
 <field name="state_country">Arizona</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -817,7 +817,7 @@ Education</field>
 <field name="language">English</field>
 <field name="call_number">519 .A72s</field>
 <field name="state_country">Arkansas</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -833,7 +833,7 @@ Education</field>
 <field name="pub_place">Atlanta, GA</field>
 <field name="language">English</field>
 <field name="call_number">519 .A88h</field>
-<field name="state_country">Georgia </field>
+<field name="state_country">Georgia</field>
 </doc>
 
 <doc>
@@ -851,7 +851,7 @@ Education</field>
 <field name="language">English</field>
 <field name="call_number">519 .B19g</field>
 <field name="state_country">Maryland</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1046,7 +1046,7 @@ resources, geology, machines</field>
 <field name="language">English</field>
 <field name="call_number">519 .B45s v. 2</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1064,7 +1064,7 @@ resources, geology, machines</field>
 <field name="pub_place">Beverly Hills, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .B57s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1084,7 +1084,7 @@ resources, geology, machines</field>
 <field name="language">English</field>
 <field name="call_number">519 .B66s</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1103,7 +1103,7 @@ resources, geology, machines</field>
 <field name="language">English</field>
 <field name="call_number">519 .B74c v. 1</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1121,7 +1121,7 @@ resources, geology, machines</field>
 <field name="language">English</field>
 <field name="call_number">519 .B74c v. 2</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1137,7 +1137,7 @@ resources, geology, machines</field>
 <field name="language">English</field>
 <field name="call_number">519 .B85s</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1234,7 +1234,7 @@ resources, geology, machines</field>
 <field name="pub_place">Dubuque, IA</field>
 <field name="language">English</field>
 <field name="call_number">519 .B88e</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1249,7 +1249,7 @@ resources, geology, machines</field>
 <field name="language">English</field>
 <field name="call_number">519 .B88t</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1298,7 +1298,7 @@ children</field>
 <field name="language">English</field>
 <field name="call_number">519 .B92p</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1338,7 +1338,7 @@ and general science section</field>
 <field name="language">English</field>
 <field name="call_number">519 .B92t v. 1</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1356,7 +1356,7 @@ section</field>
 <field name="language">English</field>
 <field name="call_number">519 .B92t v. 2</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1433,7 +1433,7 @@ Responsibility: Robert L. Woodward, project coordinator, consultant.</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .C15i</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1497,7 +1497,7 @@ of the California Association of Secondary School Curriculum Co-ordinators.</fie
 <field name="language">English</field>
 <field name="call_number">519 .C15si</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1517,7 +1517,7 @@ by the California State Board of Education.</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .C15sf</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1538,7 +1538,7 @@ Instruction in the High Schools.</field>
 <field name="language">English</field>
 <field name="call_number">519 .C15s v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1555,7 +1555,7 @@ Instruction in the High Schools.</field>
 <field name="language">English</field>
 <field name="call_number">519 .C15p</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -1591,7 +1591,7 @@ library and audio-visual materials, grades K-8</field>
 <field name="year">1967</field>
 <field name="date">1967</field>
 <field name="pages">39</field>
-<field name="keywords">Science </field>
+<field name="keywords">Science</field>
 <field name="publisher">California Association of County Superintendents of Schools</field>
 <field name="pub_place">Hayward, CA</field>
 <field name="language">English</field>
@@ -1672,7 +1672,7 @@ schools</field>
 <field name="language">English</field>
 <field name="call_number">519 .C53c v. 1-2</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1766,7 +1766,7 @@ grades 7 and 8</field>
 <field name="language">English</field>
 <field name="call_number">519 .C58g v. 1</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1782,7 +1782,7 @@ grades 7 and 8</field>
 <field name="language">English</field>
 <field name="call_number">519 .C58g v. 2</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1798,6 +1798,6 @@ grades 7 and 8</field>
 <field name="language">English</field>
 <field name="call_number">519 .C59j</field>
 <field name="state_country">Nevada</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 </add>

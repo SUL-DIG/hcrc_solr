@@ -1,0 +1,1058 @@
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama Educational Television Network</field>
+<field name="title">Television teaching of general chemistry [High school] 1st semester, 1960-61.
+10:00-10:30 A.M. Mondays, Wednesdays, and Fridays</field>
+<field name="year">1961</field>
+<field name="date">1960-1961</field>
+<field name="pages">60</field>
+<field name="keywords">Television in education</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">60 p. ; 22 cm.</field>
+<field name="series_title">Alabama TV Schooltime</field>
+<field name="publisher">Broadcasting Services, University of Alabama</field>
+<field name="pub_place">Tuscaloosa, AL</field>
+<field name="language">English</field>
+<field name="call_number">540 .A31c 1960-1961</field>
+<field name="state_country">Alabama</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama Educational Television Network</field>
+<field name="title">Television teaching of general chemistry [High school] First semester,
+1959-1960. 10:00-10:30 A.M. Mondays, Wednesdays, and Fridays</field>
+<field name="year">1959</field>
+<field name="date">1959-1960</field>
+<field name="pages">60</field>
+<field name="keywords">Television in education</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">60 p. ; 22 cm.</field>
+<field name="series_title">Alabama TV Schooltime</field>
+<field name="publisher">Broadcasting Services, University of Alabama</field>
+<field name="pub_place">Tuscaloosa, AL</field>
+<field name="language">English</field>
+<field name="call_number">540 .A31c 1959-1960</field>
+<field name="state_country">Alabama</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Boston (Massachusetts) Public Schools. School Committee</field>
+<field name="title">Courses of study in chemistry and physics for senior high schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">41</field>
+<field name="keywords">Physics</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">41 p. ; 23 cm.; Responsibility: the School Committee of the City of
+Boston.</field>
+<field name="series_title">Boston (Massachusetts) Public Schools. School document</field>
+<field name="series_vol">7</field>
+<field name="publisher">Boston Public Schools</field>
+<field name="pub_place">Boston, MA</field>
+<field name="language">English</field>
+<field name="call_number">540 .B74c</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Alabama</field>
+<field name="title">Effectiveness of instruction by television in teaching high school chemistry in
+Alabama schools; a pilot study designed to determine the effectiveness of instruction by television
+under varied conditions in schools in Alabama</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">18</field>
+<field name="keywords">Chemistry</field>
+<field name="keywords">Television in education</field>
+<field name="notes">18 p. illus.; Note(s): "The research ... was supported by a grant from the
+United States Office of Education, Dept. of Health, Education, and Welfare." Cooperative Research
+Project, Title VII, no. 302H.</field>
+<field name="publisher">University of Alabama</field>
+<field name="language">English</field>
+<field name="call_number">540 .A31c v. 2</field>
+<field name="state_country">Alabama</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Baltimore County (Maryland) Public Schools</field>
+<field name="title">A tentative course of study in chemistry for the senior high school</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="pages">136</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Baltimore County (Maryland) Public Schools</field>
+<field name="pub_place">Towson, MD</field>
+<field name="language">English</field>
+<field name="call_number">540 .B19t</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Brookline (Massachusetts) Public Schools</field>
+<field name="title">Course of study in chemistry, grades xi and xii</field>
+<field name="year">1953</field>
+<field name="date">06/1953</field>
+<field name="pages">46</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">540 .B87c</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Final report of the junior college workshops in chemistry</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="pages">16</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">540 .C15c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) Public Schools</field>
+<field name="title">Chemistry, a supplement to the Teaching guide for science : a tentative program
+for the secondary schools</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">177</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">ill. ; 22 x 28 cm.; Note(s): Includes bibliographical references (p.
+169-173).</field>
+<field name="publisher">Chicago (Illinois) Public Schools</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">540 .C53c</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland (Ohio) Public Schools</field>
+<field name="title">The curriculum in chemistry</field>
+<field name="year">1948</field>
+<field name="date">01/1948</field>
+<field name="pages">47</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Cleveland (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="call_number">540 .C63c</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Des Moines (Iowa) Public Schools</field>
+<field name="title">Curriculum bulletin: chemistry</field>
+<field name="year">1956</field>
+<field name="date">08/1956</field>
+<field name="pages">46</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Des Moines (Iowa) Public Schools</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">540 .D44c</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fort Worth (Texas) Public Schools</field>
+<field name="title">Chemistry : handbook for teachers</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">70</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 55-57).;
+Responsibility: Fort Worth Public Schools.</field>
+<field name="series_title">Fort Worth (Texas) Public Schools. Curriculum bulletin</field>
+<field name="series_vol">273</field>
+<field name="publisher">Fort Worth (Texas) Public Schools</field>
+<field name="pub_place">Fort Worth, TX</field>
+<field name="language">English</field>
+<field name="call_number">540 .F73c</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Sanderson, R. T.</field>
+<field name="corp_author">State University of Iowa. Bureau of Audio-Visual Instruction</field>
+<field name="title">Principles and construction of new chemistry teaching aids : information to
+supplement a series of three motion picture films</field>
+<field name="year">1961</field>
+<field name="date">1961?</field>
+<field name="pages">35</field>
+<field name="keywords">Chemistry</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="notes">ill. ; 25 cm.; Note(s): Cover title./ Supplements three films: 1. Atomic models,
+valences, and the periodic table; 2. New models of molecules, ions, and crystals : their
+construction and general use in teaching chemistry; 3. A special set of models for introducing
+chemistry./ Includes bibliographical references.; Responsibility: by R.T. Sanderson.</field>
+<field name="publisher">Bureau of Audio-visual Instruction, Extension Division, State University of
+Iowa</field>
+<field name="pub_place">Iowa City, IA</field>
+<field name="language">English</field>
+<field name="call_number">540 .I64p</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools, Division of Instructional
+Services</field>
+<field name="title">Instructional guide for chemistry</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="series_title">Los Angeles (California) City Schools. Experimental publication</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">540 .L87i</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Journal</field>
+<field name="corp_author">Manufacturing Chemists' Association (U.S.)</field>
+<field name="title">Scientific experiments in chemistry</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Chemistry</field>
+<field name="keywords">Laboratory manuals</field>
+<field name="abstract">v.1. Teacher information sheet.-v.2. Student guide</field>
+<field name="notes">2 v. illus. 28 cm.</field>
+<field name="publisher">Manufacturing Chemists' Association</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">540 .M29s</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) Secondary Schools</field>
+<field name="title">Course of study science department: resources units - chemistry 11b-11a,
+12b-12a</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">119</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Modesto (California) Secondary Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">540 .M69c</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Applied chemistry for high school students</field>
+<field name="year">1949</field>
+<field name="date">1948-1949</field>
+<field name="pages">79</field>
+<field name="keywords">Chemistry</field>
+<field name="series_title">New York City Board of Education. Curriculum bulletin, 1948-49
+series</field>
+<field name="series_vol">2</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">540 .N53a 1948-49</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Applied chemistry for high schools</field>
+<field name="year">1959</field>
+<field name="date">1958-1959</field>
+<field name="pages">70</field>
+<field name="keywords">Chemistry</field>
+<field name="series_title">New York City Board of Education. Curriculum bulletin, 1958-59
+series</field>
+<field name="series_vol">15</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">540 .N53a 1958-59</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Using chemicals : a resource unit for a course in physical science</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">87</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Includes bibliographical references.</field>
+<field name="publisher">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">540 .N532u</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Chemistry and physics : an outline of the scope of content and related
+understandings of the courses of study</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">72</field>
+<field name="keywords">Chemistry</field>
+<field name="keywords">Physics</field>
+<field name="notes">ill. ; 23 cm.</field>
+<field name="publisher">Bureau of Secondary Curriculum Development, New York State Education
+Dept</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">540 .N532c v. 1</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">General chemistry</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">67</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">540 .P54g</field>
+<field name="state_country">Philadelphia</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">College preparatory chemistry</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">118</field>
+<field name="keywords">Chemistry</field>
+<field name="edition">Tentative</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">540 .P54c</field>
+<field name="state_country">Philadelphia</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="title">Science: chemistry and atoms - grade 6</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">28</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="pub_place">Racine, WI</field>
+<field name="language">English</field>
+<field name="call_number">540 .R12c</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Richmond (California) Public Schools</field>
+<field name="title">Physical and chemical change: a comprehensive science unit for the Richmond
+elementary schools</field>
+<field name="year">1964</field>
+<field name="date">09/1964</field>
+<field name="pages">67</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Richmond (California) Public Schools</field>
+<field name="pub_place">Richmond, CA</field>
+<field name="language">English</field>
+<field name="call_number">540 .R53p</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Denson, Paul F.</field>
+<field name="author">Nordstrom, Robert W.</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Guide for teaching advanced chemistry 1-2, grade 11</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">44</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">p. ; cm.; Note(s): Revised 1969./ Advisory Committee: Clifford T. Fredrickson,
+John J. Gregory, S.L. Giuliani, Chairman.; Responsibility: prepared by Paul F. Denson and Robert W.
+Nordstrom.</field>
+<field name="edition">Revised</field>
+<field name="publisher">San Diego City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">540 .S19a</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (California) Unified School District. Secondary Schools
+Curriculum Laboratory</field>
+<field name="title">Selected experiments for chemistry</field>
+<field name="year">1957</field>
+<field name="date">Fall, 1957</field>
+<field name="pages">29</field>
+<field name="keywords">Chemistry</field>
+<field name="series_title">San Francisco (California) Unified School District. Curricular
+material</field>
+<field name="series_vol">4201</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">540 .S19s</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shawnee-Mission (Kansas) High School District</field>
+<field name="title">Outline of study for the beginning course in chemistry</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">179</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Shawnee-Mission (Kansas) High School District</field>
+<field name="pub_place">Shawnee Mission, KS</field>
+<field name="language">English</field>
+<field name="call_number">540 .S53o</field>
+<field name="state_country">Kansas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">South Dakota State Department of Public Instruction</field>
+<field name="corp_author">South Dakota State College</field>
+<field name="corp_author">Chemistry and Physics Workshops</field>
+<field name="title">Course of study for secondary chemistry and physics</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">221</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Chemistry</field>
+<field name="keywords">Physics</field>
+<field name="notes">221 pages ; 23 cm.; Note(s): Cover title: Chemistry anp physics course of study
+and teachers guide for secondary schools.; Other Titles: Chemistry and physics course of study and
+teachers guide for secondary schools; Responsibility: Chemistry and physics workshops, South Dakota
+State College, Brookings, S.D.</field>
+<field name="series_title">South Dakota State Department of Public Instruction. Bulletin</field>
+<field name="series_vol">81</field>
+<field name="publisher">South Dakota State Department of Public Instruction</field>
+<field name="pub_place">Pierre, SD</field>
+<field name="language">English</field>
+<field name="call_number">540 .S72c</field>
+<field name="state_country">South Dakota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Spokane (Washington) Public Schools</field>
+<field name="title">Chemistry laboratory problems</field>
+<field name="year">1962</field>
+<field name="date">1962-1963</field>
+<field name="pages">70</field>
+<field name="keywords">Chemistry</field>
+<field name="edition">Experimental</field>
+<field name="publisher">Spokane (Washington) Public Schools</field>
+<field name="pub_place">Spokane, WA</field>
+<field name="language">English</field>
+<field name="call_number">540 .S75c</field>
+<field name="state_country">Washington</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Origin of the world and properties of the universe</field>
+<field name="notes">Elementary School Science, Dr. Hone</field>
+<field name="keywords">Science</field>
+<field name="language">English</field>
+<field name="call_number">540 .S78o</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">Curriculum guide for beginning chemistry</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">109</field>
+<field name="keywords">Chemistry</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">540 .T92c</field>
+<field name="state_country">Oklahoma</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washington State Superintendent of Public Instruction</field>
+<field name="title">Washington State tentative curriculum guide for chemistry, 1960</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">49</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Cover title: Curriculum guide, high school chemistry./
+Includes bibliographical references.; Other Titles: Curriculum guide, high school chemistry</field>
+<field name="publisher">Washington State Superintendent of Public Instruction</field>
+<field name="pub_place">Olympia, WA</field>
+<field name="language">English</field>
+<field name="call_number">540 .W31c</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Westport (Connecticut) Board of Education. Department of Science</field>
+<field name="title">Chemistry, course of study, 1961-62.</field>
+<field name="year">1961</field>
+<field name="date">1961-1962</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Westport (Connecticut) Board of Education</field>
+<field name="pub_place">Westport, CT</field>
+<field name="language">English</field>
+<field name="call_number">540 .W53c</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Egenhoff, Elisabeth L.</field>
+<field name="title">De argento vivo : historic documents on quicksilver and its recovery in
+California prior to 1860</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">144</field>
+<field name="keywords">Mercury</field>
+<field name="keywords">Mines and mineral resources</field>
+<field name="notes">ill., map, facsims. ; 23 cm.; Genre/Form: Early works.; Note(s): Includes
+facsimiles of early works relating to quicksilver./ Supplement to the California Journal of Mines
+and Geology for October, 1953./ Includes bibliographical references.</field>
+<field name="publisher">California State Department of Natural Resources</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">550 .C15d v. 3</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Final report of the junior college workshops in geology</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">77</field>
+<field name="keywords">Geology</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">550 .C153g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Earth science syllabus</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">50</field>
+<field name="keywords">Earth sciences</field>
+<field name="notes">xviii; ; 28 cm.; Responsibility: University of the State of New York, State
+Education Department, Bureau of Secondary Curriculum Development.</field>
+<field name="edition">1970</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">550 .N53e 1970</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Earth science handbook : experiments, demonstrations, and other activities
+suggested for earth science, space, the atmosphere, earth, geology, meteorology [and]
+astronomy</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">224</field>
+<field name="keywords">Earth sciences</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Geology</field>
+<field name="keywords">Meteorology</field>
+<field name="keywords">Astronomy</field>
+<field name="notes">ill., diagrs., maps ; 23 cm.; Note(s): Bibliography: p. 223-224.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Bismarck, ND</field>
+<field name="language">English</field>
+<field name="call_number">550 .N53e 1961</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lakewood (Ohio) Public Schools</field>
+<field name="title">Earth science curriculum guide</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">201</field>
+<field name="keywords">Earth sciences</field>
+<field name="notes">ii; ill. ; 28 cm.; Note(s): Includes bibliographical references.;
+Responsibility: Department of Secondary Education, Lakewood Public Schools.</field>
+<field name="edition">3d</field>
+<field name="publisher">Lakewood (Ohio) Public Schools</field>
+<field name="pub_place">Lakewood, OH</field>
+<field name="language">English</field>
+<field name="call_number">550 .L19s</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Madison (Wisconsin) Public Schools. Department of Curriculum
+Development</field>
+<field name="title">Short course in geology-ecology: Wisconsin's topographic and plant
+characteristics interacting with man</field>
+<field name="pages">12</field>
+<field name="keywords">Geology</field>
+<field name="publisher">Madison (Wisconsin) Public Schools</field>
+<field name="pub_place">Madison, WI</field>
+<field name="language">English</field>
+<field name="call_number">550 .M18w</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Marple, Mildred Fisher</field>
+<field name="author">Brown, Walter C.</field>
+<field name="corp_author">Ohio Division of Geological Survey</field>
+<field name="title">Handbook for teachers of earth science</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">61</field>
+<field name="keywords">Earth sciences</field>
+<field name="notes">ill., maps ; 28 cm.; Note(s): Includes bibliographical references (p. 55-59).;
+Responsibility: by Mildred Fisher Marple and Walter C. Brown.</field>
+<field name="series_title">Ohio Division of Geological Survey. Information circular</field>
+<field name="series_vol">15</field>
+<field name="publisher">State of Ohio, Dept. of Natural Resources, Division of Geological
+Survey</field>
+<field name="pub_place">Columbus, OH</field>
+<field name="language">English</field>
+<field name="call_number">550 .O37h</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange County (California) Superintendent of Schools</field>
+<field name="title">Rocks and minerals: a teacher's guide for constructing and operating a rock and
+mineral identification laboratory</field>
+<field name="year">1959</field>
+<field name="date">02/1959</field>
+<field name="pages">13</field>
+<field name="keywords">Geology</field>
+<field name="publisher">Orange County (California) Superintendent of Schools</field>
+<field name="pub_place">Santa Ana, CA</field>
+<field name="language">English</field>
+<field name="call_number">550 .O63r</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Linder, Wade</field>
+<field name="author">Bartholomew, Rolland B.</field>
+<field name="corp_author">Palo Alto (California) Unified School District</field>
+<field name="title">A teaching guide for earth science teachers</field>
+<field name="year">1960</field>
+<field name="date">Summer, 1960</field>
+<field name="pages">74</field>
+<field name="keywords">Earth sciences</field>
+<field name="publisher">Palo Alto (California) Unified School District</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="language">English</field>
+<field name="call_number">550 .P18t</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="title">Science unit: earth, grade five</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">39</field>
+<field name="keywords">Earth sciences</field>
+<field name="publisher">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="pub_place">Racine, WI</field>
+<field name="language">English</field>
+<field name="call_number">550 .R12g v. 2</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="title">Science unit: earth, grade one</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">6</field>
+<field name="keywords">Earth sciences</field>
+<field name="publisher">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="pub_place">Racine, WI</field>
+<field name="language">English</field>
+<field name="call_number">550 .R12g v. 1</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wilson, Harlan L.</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A guide to rocks, minerals, and fossils of San Diego</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">75</field>
+<field name="keywords">Rocks</field>
+<field name="keywords">Mineralogy</field>
+<field name="notes">v; ill. ; 22 x 27 cm.; Note(s): Includes bibliographical references.;
+Responsibility: prepared by Harlan L. Wilson.</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">550 .S19g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shawnee-Mission (Kansas) District High Schools</field>
+<field name="title">Unified studies: rocks and minerals</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">11</field>
+<field name="keywords">Earth sciences</field>
+<field name="publisher">Shawnee-Mission (Kansas) District High Schools</field>
+<field name="pub_place">Merriam, KS</field>
+<field name="language">English</field>
+<field name="call_number">550 .S53r</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shell Oil Company</field>
+<field name="title">Let's collect rocks</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">17</field>
+<field name="keywords">Rocks</field>
+<field name="notes">ill. ; 22 cm.; Responsibility: [Shell Oil Company].</field>
+<field name="publisher">Shell Oil Company</field>
+<field name="language">English</field>
+<field name="call_number">550 .S54L</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Spokane (Washington) Public Schools</field>
+<field name="title">Earth science, eighth grade</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">28</field>
+<field name="keywords">Earth sciences</field>
+<field name="publisher">Spokane (Washington) Public Schools</field>
+<field name="pub_place">Spokane, WA</field>
+<field name="language">English</field>
+<field name="call_number">550 .S76e</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">von Mueller, Karl</field>
+<field name="title">The rock club manual: how to organize and operate a gem, mineral, prospecting,
+or treasure club</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">94</field>
+<field name="keywords">Earth sciences</field>
+<field name="publisher">Gazette Publishing Company</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">550 .V94r</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Walworth County (Wisconsin) Schools</field>
+<field name="title">Metals, rocks &amp;minerals</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="keywords">Earth sciences</field>
+<field name="publisher">Walworth County (Wisconsin) Schools</field>
+<field name="language">English</field>
+<field name="call_number">550 .W24m</field>
+<field name="state_country">Wisconsin</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Joseph, Alexander</field>
+<field name="title">The international geophysical year</field>
+<field name="pages">22</field>
+<field name="keywords">Geophysics</field>
+<field name="publisher">Grolier Society Inc.</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">551 .G87i</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Houston (Texas) Independent School District</field>
+<field name="title">Oceanography (for elementary schools)</field>
+<field name="notes">Prepared by the Texas Gulf Coast Science Educational Resources Center</field>
+<field name="pages">81</field>
+<field name="keywords">Oceanography</field>
+<field name="publisher">Houston (Texas) Independent School District</field>
+<field name="pub_place">Houston, TX</field>
+<field name="language">English</field>
+<field name="call_number">551 .H84o</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marine Science Education Center</field>
+<field name="title">Marine science for first grade</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 1</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">1st grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marine Science Education Center</field>
+<field name="title">Marine science for second grade</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 2</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">2nd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marine Science Education Center</field>
+<field name="title">Marine science for third grade</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 3</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marine Science Education Center</field>
+<field name="title">Marine science for fourth grade</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 4</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marine Science Education Center</field>
+<field name="title">Marine science for fifth grade</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 5</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marine Science Education Center</field>
+<field name="title">Marine science education center guidebook</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="notes">ESEA Title III PL89-10 a PACE project</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 6</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carothers, Patricia W.</field>
+<field name="author">Heaney, Marilynn G.</field>
+<field name="title">Marine biology</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 7</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marine Science Education Center</field>
+<field name="title">Eighth grade science unit: chemistry of the ocean and river</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 8</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carothers, Patricia W.</field>
+<field name="author">Kirkland, Gary G.</field>
+<field name="title">Marine biology</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 9</field>
+<field name="state_country">Florida</field>
+<field name="grade_level_group">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Fish identification manual</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="publisher">Marine Science Education Center</field>
+<field name="pub_place">Mayport, FL</field>
+<field name="language">English</field>
+<field name="call_number">551 .M33m v. 10</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shelter Island (New York) High School</field>
+<field name="title">Marine science course materials</field>
+<field name="year">1971</field>
+<field name="date">1971-1972</field>
+<field name="keywords">Marine sciences</field>
+<field name="abstract">1: Basic course outline - marine science; 2: Field trip checklist; 3: Marine
+science discoveries; 4: Sea frontiers list; 5: periodicals list; 6: Marine science films; 7: Film
+strips; 8: Film loops; 9: Marine science bibliography</field>
+<field name="publisher">Shelter Island (New York) High School</field>
+<field name="pub_place">Shelter Island, NY</field>
+<field name="language">English</field>
+<field name="call_number">551 .S54n nos. 1-9</field>
+<field name="state_country">New York</field>
+</doc>
+
+</add>

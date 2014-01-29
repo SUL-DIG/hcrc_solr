@@ -16,7 +16,7 @@
         <field name="notes">iii; ill. ; 28 cm.; Note(s): Includes bibliographical references.;
             Responsibility: by Shoreline School District No. 412.</field>
         <field name="state_country">Washington</field>
-    </doc>
+   </doc>
 
     <doc>
         <field name="type">Book</field>
@@ -33,7 +33,7 @@
         <field name="language">English</field>
         <field name="call_number">323 .B51i</field>
         <field name="state_country">California</field>
-    </doc>
+   </doc>
 
     <doc>
         <field name="type">Book</field>
@@ -52,5 +52,5 @@
             28-40).</field>
         <field name="state_country">New York</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>
+   </doc>
 </add>

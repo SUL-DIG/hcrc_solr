@@ -15,7 +15,7 @@
 <field name="publisher">Northern Illinois University</field>
 <field name="pub_place">DeKalb, IL</field>
 <field name="language">English</field>
-<field name="call_number">519 .I29o </field>
+<field name="call_number">519 .I29o</field>
 </doc>
 
 <doc>
@@ -35,7 +35,7 @@ Curriculum Program</field>
 <field name="language">English</field>
 <field name="call_number">519 .I291s</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -55,7 +55,7 @@ Curriculum Program</field>
 <field name="language">English</field>
 <field name="call_number">519 .I381f</field>
 <field name="state_country">Indiana</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -70,7 +70,7 @@ Curriculum Program</field>
 <field name="language">English</field>
 <field name="call_number">519 .I291h</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -129,7 +129,7 @@ Titles: Secondary science curriculum; Responsibility: edited by Robert E. Yeager
 <field name="language">English</field>
 <field name="call_number">519 .I64s</field>
 <field name="state_country">Iowa</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -196,7 +196,7 @@ education program</field>
 <field name="pub_place">Frankfort, KY</field>
 <field name="language">English</field>
 <field name="call_number">519 .K37i</field>
-<field name="state_country">Kentucky </field>
+<field name="state_country">Kentucky</field>
 </doc>
 
 <doc>
@@ -213,7 +213,7 @@ education program</field>
 <field name="pub_place">Frankfort, KY</field>
 <field name="language">English</field>
 <field name="call_number">519 .K37n</field>
-<field name="state_country">Kentucky </field>
+<field name="state_country">Kentucky</field>
 </doc>
 
 <doc>
@@ -229,7 +229,7 @@ education program</field>
 <field name="pub_place">Bakersfield, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .K39r</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -351,7 +351,7 @@ studies-science bulletin</field>
 <field name="publisher">Kewaunee Mfg.</field>
 <field name="pub_place">Adrian, MI</field>
 <field name="language">English</field>
-<field name="call_number">519 .K44k </field>
+<field name="call_number">519 .K44k</field>
 </doc>
 
 <doc>
@@ -364,7 +364,7 @@ studies-science bulletin</field>
 <field name="language">English</field>
 <field name="call_number">519 .L18g</field>
 <field name="state_country">Louisiana</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -524,7 +524,7 @@ references.; Responsibility: La Marque Independent School District.</field>
 <field name="language">English</field>
 <field name="call_number">519 .L34e</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -575,7 +575,7 @@ experiments</field>
 <field name="language">English</field>
 <field name="call_number">519 .L75s</field>
 <field name="state_country">Missouri</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -703,7 +703,7 @@ experiments</field>
 <field name="pub_place">Longview, WA?</field>
 <field name="language">English</field>
 <field name="call_number">519 .L85s</field>
-<field name="state_country">Washington </field>
+<field name="state_country">Washington</field>
 </doc>
 
 <doc>
@@ -720,7 +720,7 @@ experiments</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87a</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -737,7 +737,7 @@ teaching science in the elementary schools : tentative</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87e</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -757,7 +757,7 @@ teaching science in the elementary schools : tentative</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87a 1967 v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -777,7 +777,7 @@ teaching science in the elementary schools : tentative</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87a 1967 v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -797,7 +797,7 @@ teaching science in the elementary schools : tentative</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87a 1967 v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -814,7 +814,7 @@ teaching science in the elementary schools : tentative</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87i</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -832,7 +832,7 @@ teaching science in the elementary schools : tentative</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87ig</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -850,7 +850,7 @@ teaching science in the elementary schools : tentative</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87o</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -872,7 +872,7 @@ Services</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -893,7 +893,7 @@ Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .L87sc</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -909,7 +909,7 @@ Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .L871s v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -925,7 +925,7 @@ Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .L871s v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -940,7 +940,7 @@ Services</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .L873s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -956,7 +956,7 @@ Services</field>
 <field name="language">English</field>
 <field name="call_number">519 .L873s</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -979,7 +979,7 @@ of the earth.--pt. 2. Light and sound; magnets and electricity; machines and how
 <field name="language">English</field>
 <field name="call_number">519 .L88s v. 1-5</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -996,7 +996,7 @@ of the earth.--pt. 2. Light and sound; magnets and electricity; machines and how
 <field name="language">English</field>
 <field name="call_number">519 .L91e</field>
 <field name="state_country">New Mexico</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1012,7 +1012,7 @@ of the earth.--pt. 2. Light and sound; magnets and electricity; machines and how
 <field name="language">English</field>
 <field name="call_number">519 .L98c</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 </add>

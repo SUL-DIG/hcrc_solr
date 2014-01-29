@@ -286,7 +286,7 @@
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .T35e</field>
-<field name="state_country">Texas </field>
+<field name="state_country">Texas</field>
 </doc>
 
 <doc>
@@ -305,7 +305,7 @@ phase elective English curriculum.</field>
 <field name="pub_place">Trenton, MI</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .T79p</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -321,7 +321,7 @@ phase elective English curriculum.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .T89t</field>
 <field name="state_country">Arizona</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -336,7 +336,7 @@ phase elective English curriculum.</field>
 <field name="pub_place">Visalia, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 T91e</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -351,7 +351,7 @@ phase elective English curriculum.</field>
 <field name="pub_place">Visalia, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .T91t</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -386,7 +386,7 @@ phase elective English curriculum.</field>
 <field name="series_vol">350-112</field>
 <field name="publisher">United States Dependent School European Area</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .U58e </field>
+<field name="call_number">428.2 .U58e</field>
 </doc>
 
 <doc>
@@ -403,7 +403,7 @@ high</field>
 <field name="pub_place">University City, MO</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .U59g</field>
-<field name="state_country">Missouri </field>
+<field name="state_country">Missouri</field>
 </doc>
 
 <doc>
@@ -497,7 +497,7 @@ Elementary Schools</field>
 <field name="pub_place">Waukesha, WI</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W35L</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -534,7 +534,7 @@ Elementary Schools</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W51L v. 2</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -566,7 +566,7 @@ Elementary Schools</field>
 <field name="keywords">Language arts</field>
 <field name="publisher">WVASCD Region II, West Virginia</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .W513L </field>
+<field name="call_number">428.2 .W513L</field>
 </doc>
 
 <doc>
@@ -680,7 +680,7 @@ bulletin</field>
 <field name="pub_place">Madison, WI</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W81b</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -700,7 +700,7 @@ bulletin</field>
 <field name="pub_place">Madison, WI</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W81u</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -720,7 +720,7 @@ activity of the Wisconsin Language Arts Curriculum Project.</field>
 <field name="pub_place">Madison, WI</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W81e v. 1</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -743,7 +743,7 @@ Curriculum Project.</field>
 <field name="pub_place">Madison, WI</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W81e v. 3</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -764,7 +764,7 @@ activity of the Wisconsin English-Language-Arts Curriculum Project.</field>
 <field name="pub_place">Madison, WI</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W81e v. 2</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -785,7 +785,7 @@ Responsibility: by Harry H. Hoffman ; edited by Edna L. Furness.</field>
 Wyoming</field>
 <field name="pub_place">Laramie, WY</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .W98e </field>
+<field name="call_number">428.2 .W98e</field>
 </doc>
 
 <doc>
@@ -803,7 +803,7 @@ Viscount.</field>
 <field name="publisher">Teacher's College Press</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .W94k </field>
+<field name="call_number">428.2 .W94k</field>
 </doc>
 
 <doc>
@@ -821,7 +821,7 @@ Titles: English curriculum guide.; Responsibility: [Wyoming Education Dept.].</f
 <field name="pub_place">Cheyenne, WY</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .W96c</field>
-<field name="state_country">Wyoming </field>
+<field name="state_country">Wyoming</field>
 </doc>
 
 <doc>
@@ -835,7 +835,7 @@ County</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .Y54c</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -852,7 +852,7 @@ grades</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .Y54L v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -870,7 +870,7 @@ intermediate grades</field>
 <field name="call_number">428.2 .Y54L v. 2</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -887,7 +887,7 @@ grades</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .Y54L v. 3</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 </add>

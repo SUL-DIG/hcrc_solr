@@ -9,7 +9,7 @@
 <field name="publisher">Creative Publishing House of Oxford, Inc.</field>
 <field name="pub_place">Oxford, OH</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .C91g </field>
+<field name="call_number">511.2 .C91g</field>
 </doc>
 
 <doc>
@@ -29,7 +29,7 @@ Education</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .N51a</field>
 <field name="state_country">New Jersey</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -144,7 +144,7 @@ living</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .N96m</field>
 <field name="state_country">United Kingdom</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -165,7 +165,7 @@ Responsibility: [Prepared by Mark B. Scurrah].</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .N53r</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -182,7 +182,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .N53t</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -200,7 +200,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .N53d</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Pre-K </field>
+<field name="grade_level_group">Pre-K</field>
 </doc>
 
 <doc>
@@ -225,7 +225,7 @@ Elementary Education, New York State Education Dept.</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .N53m</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -242,7 +242,7 @@ Elementary Education, New York State Education Dept.</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .N53b</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -347,7 +347,7 @@ arithmetic for grade six</field>
 <field name="publisher">University of Oregon. School of Education</field>
 <field name="pub_place">Eugene, OR</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .O66u </field>
+<field name="call_number">511.2 .O66u</field>
 </doc>
 
 <doc>
@@ -360,7 +360,7 @@ arithmetic for grade six</field>
 <field name="pub_place">Phoenix, AZ</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .O81b</field>
-<field name="state_country">Arizona </field>
+<field name="state_country">Arizona</field>
 </doc>
 
 <doc>
@@ -476,7 +476,7 @@ Schools.</field>
 <field name="language">English</field>
 <field name="call_number">511.2 P85k</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -493,7 +493,7 @@ Schools</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .P54a 1963</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -529,7 +529,7 @@ Curriculum Committee</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .P54f</field>
-<field name="state_country">Pennsylvania </field>
+<field name="state_country">Pennsylvania</field>
 </doc>
 
 <doc>
@@ -548,7 +548,7 @@ Curriculum Committee</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .P54n</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -566,7 +566,7 @@ Elementary Curriculum</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .P65n</field>
 <field name="state_country">Florida</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -582,7 +582,7 @@ Elementary Curriculum</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .P84a</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -622,7 +622,7 @@ Elementary Curriculum</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .P85r</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -653,7 +653,7 @@ session)</field>
 <field name="keywords">Mathematics</field>
 <field name="publisher">Ravenswood City School District</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .R25c </field>
+<field name="call_number">511.2 .R25c</field>
 </doc>
 
 <doc>
@@ -729,7 +729,7 @@ school</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .R67g</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -767,7 +767,7 @@ school</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .R811c</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -891,7 +891,7 @@ school</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .R88a</field>
 <field name="state_country">Michigan</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -974,7 +974,7 @@ division (grades iv-vi)</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .S19g</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -1014,7 +1014,7 @@ Interim Committee on the Public Education System</field>
 <field name="pub_place">San Diego, CA</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .S19i</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1071,7 +1071,7 @@ six)</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .S32m</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1092,7 +1092,7 @@ teaching of arithmetic</field>
 <field name="publisher">Bureau of School Service, School of Education, Syracuse University</field>
 <field name="pub_place">Syracuse, NY</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .S99t </field>
+<field name="call_number">511.2 .S99t</field>
 </doc>
 
 <doc>
@@ -1111,7 +1111,7 @@ teaching of arithmetic</field>
 <field name="publisher">Scott, Foresman and Company</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .S42c </field>
+<field name="call_number">511.2 .S42c</field>
 </doc>
 
 <doc>
@@ -1122,7 +1122,7 @@ teaching of arithmetic</field>
 <field name="publisher">Scott, Foresman and Company</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .S42t </field>
+<field name="call_number">511.2 .S42t</field>
 </doc>
 
 <doc>
@@ -1136,7 +1136,7 @@ to a meaningful program this fall</field>
 <field name="publisher">Scott, Foresman and Company</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .S42t </field>
+<field name="call_number">511.2 .S42t</field>
 </doc>
 
 <doc>
@@ -1150,7 +1150,7 @@ to a meaningful program this fall</field>
 <field name="publisher">Scott, Foresman and Company</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .S42t </field>
+<field name="call_number">511.2 .S42t</field>
 </doc>
 
 <doc>
@@ -1164,7 +1164,7 @@ cards</field>
 <field name="publisher">Scott, Foresman and Company</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">511.2 .S42t </field>
+<field name="call_number">511.2 .S42t</field>
 </doc>
 
 <doc>
@@ -1253,7 +1253,7 @@ numbers, part ii</field>
 <field name="pub_place">Stockton, CA</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .S86i pt. ii</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1269,7 +1269,7 @@ Division of State and Local School Systems</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .U58a</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1335,7 +1335,7 @@ Department</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">511.2 .U59L</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1401,7 +1401,7 @@ Committee on Mathematics."/ "Sources of information and materials": l. 42-43.</f
 <field name="language">English</field>
 <field name="call_number">511.2 .W31g</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -1416,7 +1416,7 @@ Committee on Mathematics."/ "Sources of information and materials": l. 42-43.</f
 <field name="language">English</field>
 <field name="call_number">511.2 .W63t</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>

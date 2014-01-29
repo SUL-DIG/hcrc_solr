@@ -1,0 +1,1675 @@
+
+
+
+
+TY  - BOOK
+A2  - University of California, Berkeley. Elementary School Science Project
+T1  - What am I? A unit on human physiology. Teacher's manual
+Y1  - 1963
+D1  - 1963
+SP  - 54
+KW  - Physiology
+KW  - Human anatomy
+KW  - Embryology
+AB  - v. 1. How I began.
+ED  - Preliminary
+PB  - University of California
+CY  - Berkeley, CA
+LA  - English
+CN  - 612 .E38w v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles City School District
+T1  - Physiology 1 and 2 : outline course of study
+Y1  - 1964
+D1  - 1964
+SP  - 96
+KW  - Physiology
+T2  - Los Angeles City School District. Publication
+V1  - SC-604
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 612 .L87p v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles City School District
+T1  - Physiology teacher's handbook
+Y1  - 1964
+D1  - 1964
+KW  - Physiology
+T2  - Los Angeles City School District. Publication
+V1  - SC-605
+N1  - 1 v. (various pagings)
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 612 .L87p v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Nashville (Tennessee) City Schools
+T1  - Five friends: a resource unit for second grade
+Y1  - 1963
+D1  - 04/1963
+SP  - 21
+KW  - Senses and sensation
+T2  - Nashville (Tennessee) City Schools. Social studies
+PB  - Nashville (Tennessee) City Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 612 .N25f
+SC  - Tennessee
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Board of Health
+T1  - Films for professional use, 1954
+Y1  - 1954
+D1  - 1954
+SP  - 10
+KW  - Hygiene
+KW  - Film catalogs
+N1  - 10 p. 24 cm.; Other Titles: Professional film catalog
+PB  - Oregon State Board of Health
+CY  - Portland, OR
+LA  - English
+CN  - 610 .O66p
+SC  _ Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Unit xiii - a life problem unit: how will biological-medical research help me to live longer?
+Y1  - 1951
+D1  - 1951
+SP  - 7
+KW  - Medical research
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 610 .P41h
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Course of study: physiology i-ii, grades 11 and 12
+Y1  - 1947
+D1  - 12/1947
+SP  - 59
+KW  - Physiology
+T2  - Oakland (California) Public Schools. Science 1947-1
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 612 .O11c 1947
+SC  - Oakland
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Physiology teacher's handbook, supplement to physiology i-ii (Science 1947-1)
+Y1  - 1951
+D1  - 12/1951
+SP  - 68
+KW  - Physiology
+T2  - Oakland (California) Public Schools. SB Science 1951-1
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 612 .O11c 1951
+SC  - Oakland
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Port Arthur (Texas) Independent School District
+T1  - Teacher's guide for physiology, grades eleven and twelve
+Y1  - 1955
+D1  - 1955
+SP  - 101
+KW  - Physiology
+PB  - Port Arthur (Texas) Independent School District
+CY  - Poet Arthur, TX
+LA  - English
+CN  - 612 .P83t
+SC  - Texas
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: the human body, grade five
+Y1  - 1961
+D1  - 09/1961
+SP  - 10
+KW  - Physiology
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 612 .R12h
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Tentative course of study in physiology 5, 6 senior high schools
+Y1  - 1963
+D1  - 09/1963
+SP  - 35
+KW  - Physiology
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 612 .S12p
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rumsey, Darrell W.
+A2  - San Diego (California) City Schools
+T1  - A guide for physiology: 1-2
+Y1  - 1960
+D1  - 1960
+SP  - 83
+KW  - Physiology
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 612 .S19g
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) School
+T1  - Blood, the lifestream of the body: unit on blood, heart, circulation
+Y1  - 1956
+D1  - 1956
+SP  - 6
+KW  - Blood circulation
+PB  - Walworth County (Wisconsin) School
+LA  - English
+CN  - 612 .W24b
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) School
+T1  - Hold your breath
+Y1  - 1956
+D1  - 1956
+KW  - Respiration
+PB  - Walworth County (Wisconsin) School
+LA  - English
+CN  - 612 .W24h
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) School
+T1  - Our busy bones
+Y1  - 1956
+D1  - 1956
+SP  - 6
+KW  - Blood circulation
+PB  - Walworth County (Wisconsin) School
+LA  - English
+CN  - 612 .W24o
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) School
+T1  - Unit on "the senses"
+Y1  - 1956
+D1  - 1956
+SP  - 14
+KW  - Senses and sensation
+PB  - Walworth County (Wisconsin) School
+LA  - English
+CN  - 612 .W24u
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Ricketts, Grace
+A2  - Alameda County (California) Schools
+T1  - How do our bodies change as we grow up: resource materials and activities for grades 5 through 8
+Y1  - 1949
+D1  - Spring, 1949
+KW  - Human body
+T2  - Family life education bulletin
+V1  - 1
+PB  - Alameda County (California) Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 612.4 .A31h
+SC  - California
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Sex education resource unit, grades 5, 6, or 7
+Y1  - 1967
+D1  - 1967
+SP  - 16
+KW  - Bibliography
+KW  - Sex instruction
+N1  - 16 p. ; 20 cm.; Genre/Form: Bibliography.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 612.4 .A51s v. 2
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Sex education : resource unit, grades K, 1, 2, 3, 4
+Y1  - 1969
+D1  - 1969
+SP  - 23
+KW  - Sex instruction
+KW  - Bibliography
+N1  - 23 p. ; 23 cm.; Genre/Form: Bibliography.; Note(s): Cover title./ Bibliography (including film): p. 9-23.
+PB  - American Association for Health, Physical Education and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 612.4 .A51s v. 1
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, William F.
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Teacher's handbook on venereal disease education
+Y1  - 1965
+D1  - 1965
+SP  - 152
+KW  - Sex instruction
+KW  - Sexually transmitted diseases
+N1  - vii; illus.; Genre/Form: Handbooks, manuals, etc.; Note(s): Appendix B is an exact reproduction of the separately published Student's manual on venereal disease; facts about syphilis and gonorrhea./ Includes bibliography.; Other Titles: Venereal disease education 
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 612.4 .A51t
+ER  - 
+
+TY  - BOOK
+A2  - Sex Information and Education Council of the United States
+A2  - American Alliance for Health, Physical Education, and Recreation
+T1  - A Resource guide in sex education for the mentally retarded. A joint project of the Sex Information and Education Council of the United States and the American Alliance for Health, Physical Education, and Recreation
+Y1  - 1971
+D1  - 1971
+SP  - 55
+KW  - Sex instruction
+KW  - Children with mental disabilities
+N1  - 55 p. 24 cm.; Note(s): Includes bibliographical references (p. 37-54).
+PB  - American Association for Health, Physical Education and Recreation and Sex Information and Education Council of the U.S
+CY  - Washington, DC
+LA  - English
+CN  - 612.4 .A51r
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education and Recreation
+T1  - Veneral disease : resource unit senior high school
+Y1  - 1967
+D1  - 1967
+SP  - 11
+KW  - Sexually transmitted diseases
+PB  - American Association for Health, Physical Education and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 612.4 .A51v
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - E. C. Brown Trust
+T1  - Human growth film guide for teachers and discussion leaders
+Y1  - 1947
+D1  - 1947
+KW  - Growth
+KW  - Sex instruction
+AB  - Provides the biological facts of sex as a part of human growth and development.
+N1  - Note(s): Live./ Last inspected: 1981. Condition complete; good./ Copyright: E.C. Brown Trust Fund, (Harry K. Newburn, administration) ; Dec. 1, 1947 
+PB  - E. C. Brown Trust
+CY  - Eugene, OR
+LA  - English
+CN  - 612.4 .B88h
+ER  - 
+
+TY  - BOOK
+A2  - E. C. Brown Trust
+T1  - A report on the film Human growth
+SP  - 24
+KW  - Growth
+KW  - Sex instruction
+KW  - Motion pictures in education
+PB  - E. C. Brown Trust
+CY  - Eugene, OR
+LA  - English
+CN  - 612.4 .B88h
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Public Health
+T1  - Venereal disease information for educators
+Y1  - 1965
+D1  - 1965
+SP  - 46
+KW  - Sexually transmitted diseases
+PB  - California State Department of Public Health
+CY  - Berkeley, CA
+LA  - English
+CN  - 612.4 .C151v
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Stein, Bill
+A1  - Wold, Nan
+A1  - Stende, Linda
+T1  - Sex education for the mentally retarded : a resource curriculum for program development
+Y1  - 1975
+D1  - 09/1975
+SP  - 45
+KW  - Children with mental disabilities
+KW  - Sex instruction
+KW  - Curricula
+N1  - 45 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaf 45).; Responsibility: by Bill Stein, Nan Wold, Linda Stende.
+PB  - California State Department of Health
+CY  - Sacramento, CA
+LA  - English
+CN  - 612.4 .C152s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Youth Authority
+T1  - Family life education : curriculum guide
+Y1  - 1974
+D1  - 01/1974
+SP  - 217
+KW  - Family life education
+KW  - Sex instruction
+N1  - ill. ; 28 cm.; Note(s): "January, 1974."/ Includes bibliographical references (p. 135-141).
+PB  - California Youth Authority
+CY  - Sacramento, CA
+LA  - English
+CN  - 612.4 .C155f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Child Study Association of America
+T1  - When children ask about sex
+Y1  - 1953
+D1  - 07/1953
+SP  - 39
+KW  - Sex instruction
+N1  - 39 p. 22 cm.; Note(s): Bibliography: p. 38-40.; Responsibility: by the staff of the Child Study Association of America. Foreword by Marianne Kris.
+ED  - 3d
+PB  - Child Study Association of America
+CY  - New York, NY
+LA  - English
+CN  - 612.4 .C53w
+ER  - 
+
+TY  - BOOK
+A2  - International Cellucotton Products Company. Education Department
+T1  - Teaching guide: menstrual education
+KW  - Menstruation
+PB  - International Cellucotton Products Company
+CY  - Chicago, IL
+LA  - English
+CN  - 612.4 .I61m no. 1
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - International Cellucotton Products Company. Education Department
+T1  - "You're a young lady now"
+Y1  - 1952
+D1  - 1952-1953
+KW  - Menstruation
+PB  - International Cellucotton Products Company
+CY  - Chicago, IL
+LA  - English
+CN  - 612.4 .I61m no. 2
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - International Cellucotton Products Company. Education Department
+T1  - Very personally yours
+Y1  - 1953
+D1  - 1953
+KW  - Menstruation
+PB  - International Cellucotton Products Company
+CY  - Chicago, IL
+LA  - English
+CN  - 612.4 .I61m no. 3
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - International Cellucotton Products Company. Education Department
+T1  - That day is here again
+Y1  - 1944
+D1  - 1944
+SP  - 23
+KW  - Menstruation
+PB  - International Cellucotton Products Company
+CY  - Chicago, IL
+LA  - English
+CN  - 612.4 .I61m no. 4
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Bultena, Louis
+T1  - Sex and family education in high school
+Y1  - 1955
+D1  - 08/1955
+SP  - 32
+KW  - Sex instruction
+N1  - 32 p. 26 cm.; Note(s): Suggested materials for sex and family education: p. 24-32.
+T2  - Educational service studies
+IS  - 1
+PB  - Iowa State Teachers College
+CY  - Cedar Falls, IA
+LA  - English
+CN  - 612.4 .I64s
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education
+T1  - A Broadly representative bibliography of materials on sex education. Sex education bibliography materials and sources for teachers : a selected list
+Y1  - 1969
+D1  - 01/1969
+SP  - 10
+KW  - Sex instruction
+KW  - Bibliography
+KW  - Teaching aids
+N1  - [1]; ges ; 28 cm; Note(s): Caption title./ "January, 1969."
+PB  - Michigan State Department of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 612.4 .M62s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education
+T1  - A Broadly representative bibliography of materials on sex education. A selected bibliography of sex education for elementary grades
+Y1  - 1969
+D1  - 01/1969
+SP  - 5
+KW  - Sex instruction
+KW  - Bibliography
+N1  - [1]; ges ; 28 cm; Note(s): Caption title./ "January, 1969."
+PB  - Michigan State Department of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 612.4 .M62s
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education
+T1  - A Broadly representative bibliography of materials on sex education. Sex education bibliography, middle school : a selected list
+Y1  - 1969
+D1  - 01/1969
+SP  - 4
+KW  - Sex instruction
+KW  - Bibliography
+KW  - Sex instruction literature
+N1  - [1]; ges ; 28 cm; Note(s): Caption title./ "January, 1969."
+PB  - Michigan State Department of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 612.4 .M62s
+SC  - Michigan
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Minnetonka (Minnesota) School District 276
+T1  - A guide for the human sexuality curriculum, grades K-12
+Y1  - 1969
+D1  - 06/1969
+SP  - 358
+KW  - Sex instruction
+ED  - Revised
+PB  - Minnetonka (Minnesota) School District 276
+CY  - Excelsior, MN
+LA  - English
+CN  - 612.4 .M66g
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Benell, Florence Belle
+T1  - An educational approach to venereal disease control; a VD education guide for grades 7 through 12
+Y1  - 1965
+D1  - 1965
+SP  - 26
+KW  - Sexually transmitted diseases
+N1  - v; ill. 28 cm.; Note(s): "A National Press publication."/ Bibliography: p. 25-26.; Responsibility: [by] Florence B. Benell.
+PB  - National Press Publication
+CY  - Palo Alto, CA
+LA  - English
+CN  - 612.4 .N27e
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Guidelines for family life and sex education, grades K-12
+Y1  - 1970
+D1  - 1970
+SP  - 96
+KW  - Family life education
+KW  - Sex instruction
+N1  - vii; ges 22 x 29 cm.; Note(s): Includes bibliographical references.
+T2  - Minnesota State Department of Education. Curriculum bulletin,
+V1  - 32
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 612.4 .M659g
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Personal Products Corporation
+T1  - Educational portfolio on menstrual hygiene
+Y1  - 1957
+D1  - 1957?
+KW  - Menstruation
+AB  - This portfolio contains: Anatomical chart--Teacher's general guide for menstrual hygiene--Growing up and liking it--It's so much easier when you know--Sally and Mary and Kate wondered--How shall I tell my daughter?
+N1  - unbd. v. 29 cm.
+PB  - Personal Products Corporation
+CY  - Milltown, NJ
+LA  - English
+CN  - 612.4 .P46e
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Health education guide : grades three through four
+Y1  - 1957
+D1  - 1957
+SP  - 32
+KW  - Health education
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 613 .A313g v.2
+SC  - California
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Information
+T1  - Health guide for elementary schools of Arizona
+Y1  - 1963
+D1  - 1963?
+KW  - Health education
+PB  - Arizona State Department of Public Information
+CY  - Phoenix, AZ
+LA  - English
+CN  - 613 .A71h
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas Joint Committee on School Health
+T1  - A guide for coordinating school health programs in Arkansas : Report of the School Health Workshop sponsored by the Joint Committee on Health Education of the Arkansas State Board of Health [and] the Arkansas State Dept. of Education
+Y1  - 1953
+D1  - 1953
+SP  - 27
+KW  - Health education
+T2  - Petit Jean Health Education Workshop (6th : 1953)
+PB  - Arkansas Joint Committee on School Health
+CY  - Little Rock, AR
+LA  - English
+CN  - 613 .A72g
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Growing up : social health and education guide : grade 6
+Y1  - 1963
+D1  - 1963
+SP  - 104
+KW  - Growth
+KW  - Sex instruction
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 612.4 .S19g
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Akron (Ohio) Public Schools
+T1  - Health safety, eleventh grade
+Y1  - 1954
+D1  - 1954
+SP  - 99
+KW  - Health education
+PB  - Akron (Ohio) Public Schools
+CY  - Akron, OH
+LA  - English
+CN  - 613 .A29h
+SC  - Ohio
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Board of Health
+A2  - Arkansas State Department of Education
+T1  - A guide for school health programs in Arkansas
+Y1  - 1950
+D1  - 1950
+SP  - 38
+KW  - School health services
+KW  - Health education
+N1  - 38 p.; Note(s): Published jointly with the Arkansas State Dept. of Education.
+PB  - Arkansas State Board of Health
+CY  - Little Rock, AR
+LA  - English
+CN  - 613 .A72gu
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Atchison (Kansas) Public Schools
+T1  - How do you keep well? (a resource unit for the primary grades)
+Y1  - 1946
+D1  - 1946
+SP  - 8
+KW  - Health education
+PB  - Atchison (Kansas) Public Schools
+CY  - Atchison, KS
+LA  - English
+CN  - 613 .A86h
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - Course of study and instructional guide: health education for grades 5 - 12
+Y1  - 1964
+D1  - 09/1964
+SP  - 174
+KW  - Health education
+T2  - Beverly Hills (California) Unified School District. Curriculum bulletin
+V1  - 27
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 613 .B57c
+SC  - California
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Office of Superintendent of Schools
+A2  - Butte County (California) Department of Public Health
+T1  - Guidebook for school health
+Y1  - 1961
+D1  - 1957
+SP  - 34
+KW  - School health services
+PB  - Butte County (California) Office of Superintendent of Schools
+CY  - Oroville, CA
+LA  - English
+CN  - 613 .B98g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A guide for vision screening in California public schools
+Y1  - 1964
+D1  - 1964
+SP  - 22
+KW  - School health services
+KW  - Vision tests
+N1  - vii, 22 p.; Note(s): Issued in conjunction with the California State Dept. of Public Health and the State Advisory Committee on Vision Screening of School Children./ Earlier ed. issued by the Study Committee on Vision Testing of the State Joint Committee on School Health./ Bibliography: p. 22-[23]; Other Titles: Vision screening in California public schools
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613 .C15g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Joint Committee on School Health
+T1  - Dental health education teaching guide
+Y1  - 1956
+D1  - 04/1956
+SP  - 32
+KW  - Health education
+KW  - Dental care
+N1  - 32 p.; Responsibility: California State Joint Committee on School Health.
+PB  - California State Joint Committee on School Health
+CY  - Sacramento, CA
+LA  - English
+CN  - 613 .C15d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Fodor, John T.
+A1  - Gmur, Ben C.
+A1  - Sutton, Wilfred C.
+A2  - California State Department of Education
+T1  - Framework for health instruction in California public schools : kindergarten through grade twelve
+Y1  - 1970
+D1  - 1970
+SP  - 56
+KW  - Health education
+N1  - viii; ges ; 22 x 28 cm; Note(s): Adopted by the California State Board of Education.; Responsibility: prepared by John T. Fodor, Ben C. Gmur, Wilfred C. Sutton, codirectors of the Health Framework Project ; coordinated by Patricia J. Hill.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613 .C15f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Living with yourself and others; a teacher's guide to health education
+Y1  - 1954
+D1  - 1954
+SP  - 207
+KW  - Health education
+N1  - 207 p. 28 cm.
+PB  - Chicago (Illinois) Public Schools
+CY  - Illinois, IL
+LA  - English
+CN  - 613 .C53L
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study in health and safety for senior high schools
+Y1  - 1956
+D1  - 1956
+SP  - 246
+KW  - Health education
+KW  - Safety education
+KW  - Curricula
+N1  - 246 p. illus. 28 cm.; Note(s): Includes bibliographical references.
+T2  - Cincinnati Public Schools. Curriculum bulletin
+V1  - 233
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 613 .C57h
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education. Advisory Committee on School Health
+T1  - The children you teach: their growth and health; an overview of the school health program
+Y1  - 1962
+D1  - 1962
+SP  - 20
+KW  - School health services
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 613 .C71c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Means, Louis E.
+T1  - Health, physical education, and recreation in California junior colleges, a study of programs, services and facilities
+Y1  - 1960
+D1  - 05/1960
+SP  - 102
+KW  - Physical education and training
+KW  - Health education
+N1  - xviii; ges 23 cm.
+T2  - Bulletin of the California State Dept. of Education
+V1  - 29
+IS  - 6
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613 .C152h
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Chattanooga (Tennessee) Public Schools
+T1  - A plan of study in the Chattanooga Public Schools for ninth grade: citizenship emphasizing health
+KW  - Health education
+N1  - 1 v. (various pagings)
+PB  - Chattanooga (Tennessee) Public Schools
+CY  - Chattanooga, TN
+LA  - English
+CN  - 613 .C49p
+SC  - Tennessee
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Health: course of study elementary education
+Y1  - 1957
+D1  - 1957-1958
+KW  - Health education
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 613 .C58h
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Health & physical education: course of study secondary education
+Y1  - 1962
+D1  - 1962-1963
+SP  - 56
+KW  - Health education
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 613 .C58hp
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Health education, grades iv-vi: elementary school tentative course of study
+Y1  - 1953
+D1  - 01/1953
+SP  - 18
+KW  - Health education
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 613 .C63h
+SC  - Ohio
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+A2  - Colorado Advisory Committee on School Health
+T1  - Community resources for school health
+Y1  - 1962
+D1  - 1962
+SP  - 12
+KW  - School health services
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 613 .C71cr
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - American Dental Association
+T1  - Dental health facts for teachers
+Y1  - 1960
+D1  - 1960
+SP  - 30
+KW  - Dental care
+PB  - American Dental Association
+CY  - Chicago, IL
+LA  - English
+CN  - 613 .C71d
+ER  - 
+
+TY  - BOOK
+A1  - Byler, Ruth V.
+A2  - Connecticut State Department of Education
+T1  - Health education : grades 7-12
+Y1  - 1958
+D1  - 09/1958
+SP  - 10
+KW  - Health education
+T2  - Connecticut State Department of Education. Curriculum bulletin series
+V1  - 6
+PB  - Connecticut State Department of Education
+CY  - Hartford, CN
+LA  - English
+CN  - 613 .C749h
+SC  - Connecticut
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+A2  - Colorado State Department of Public Health
+T1  - Vision and hearing of Colorado school children : a manual of suggestions and procedures for the vision and hearing screening of school children
+Y1  - 1961
+D1  - 1961
+SP  - 28
+KW  - Vision tests
+KW  - Hearing tests
+N1  - iv; ges : illustrations ; 28 cm; Responsibility: prepared by Colorado State Dept of Education in cooperation with Colorado State Dept. of Public Health.
+ED  - Rev.
+PB  - Colorado State Department of Education
+CY  - Denver CO
+LA  - English
+CN  - 613 .C71v
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+A2  - Connecticut State Department of Health
+T1  - Suggestions for the nurse in the school health program
+Y1  - 1953
+D1  - 1953
+DP  - 67
+KW  - School health services
+KW  - School nursing
+N1  - 67 pages ; 28 cm; Note(s): Includes bibliographical references.; Responsibility: Connecticut State Department of Education, Connecticut State Department of Health.
+ED  - Revision 1953
+PB  - Connecticut State Department of Education
+CY  - Hartford, CN
+LA  - English
+CN  - 613 .C749s
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Highways to health and safety : a curriculum guide for health and safety education in the high schools of Colorado
+Y1  - 1950
+D1  - 09/1950
+SP  - 82
+KW  - Curricula
+KW  - School hygiene
+N1  - 82 pages : illustrations ; 22 cm
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 613 .C71h
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Johannis, Norma
+A1  - Doster, Mildred
+A1  - Cochrane, Robert
+A2  - Colorado State Department of Education
+T1  - Providing a healthful school environment: standards and procedures
+Y1  - 1962
+D1  - 1962
+SP  - 8
+KW  - School hygiene
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 613 .C71p
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of School and Community Services
+T1  - Toward better health education for Connecticut youth; a state guide for local curriculum development in health education for secondary schools of Connecticut
+Y1  - 1955
+D1  - 01/1955
+SP  - 38
+KW  - Health education
+N1  - v, 38 p.; Note(s): Cover title.
+T2  - Connecticut State Department of Education. Bureau of School and Community Services. Bulletin
+V1  - 66
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 613 .C749t
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Schools
+T1  - Health services for school children: let's take a look
+Y1  - 1954
+D1  - 1954
+SP  - 47
+KW  - School health services
+PB  - Contra Costa County (California) Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 612 .C75h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Health, physical education, recreation, and driver education program
+Y1  - 1959
+D1  - 09/1959
+SP  - 3
+KW  - Health education
+KW  - Physical education and training
+KW  - Automobile driver education
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613 .D14h
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Health-science : grades one through 8 : curriculum guide
+Y1  - 1958
+D1  - 1958
+SP  - 134
+KW  - Health education
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+N1  - 134 p. ; cm
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613 .D14hs
+SC  - Texas
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Special services: the school health service program content and scope
+Y1  - 1959
+D1  - 09/1959
+SP  - 7
+KW  - Health education
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613 .D14s
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Hints for health teaching
+Y1  - 1963
+D1  - 1963
+SP  - 65
+KW  - Health education
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 613 .F41hi v. 1
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Spears, William R.
+A1  - McNiff, Louise
+A2  - Denver (Colorado) Public Schools. Department of General Curriculum Services
+T1  - What - why - how
+Y1  - 1963
+D1  - 1963-1964
+SP  - 19
+KW  - Health education
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 61.3 .F41hi v. 2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Health interests of children; report of a research study of health interests and needs of children as a basis for health instruction, kindergarten through grade twelve
+Y1  - 1947
+D1  - 1947
+SP  - 121
+KW  - Health education
+N1  - 2 p. l., iii-x; 1 illus., diagrs. 23 cm.; Note(s): "Resource materials": p. 121.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 613 .D41h
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools. Department of Health and Physical Education
+T1  - A guide for health instruction in elementary schools
+Y1  - 1947
+D1  - 02/1947
+SP  - 22
+KW  - Health education
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 613 .D48g
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A program of health services for Florida Schools. Florida program for improvement of schools
+Y1  - 1953
+D1  - 07/1953
+SP  - 85
+KW  - School health services
+N1  - 85 pages forms 23 cm.; Responsibility: Sponsored jointly by Florida State Dept. of Education and Florida State Board of Health.
+T2  - Florida State Department of Education. Bulletin
+V1  - 4D
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613 .F63p
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide to teaching effective living; a course in health and safety education for senior high schools
+Y1  - 1950
+D1  - 05/1950
+SP  - 341
+KW  - Health education
+N1  - iv; ges illustrations.; Other Titles: Teaching effective living 
+T2  - Florida program for improvement of schools. Bulletin
+V1  - 4-B
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613 .F63g
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Padgett, Elsie
+A1  - Covington, Harrison
+T1  - The case of the whispering class;
+Y1  - 1947
+D1  - 1947
+SP  - 56
+KW  - Hygiene
+N1  - [4]; ill. 23 cm.; Note(s): "Publication made possible by a grant from the Alfred P. Sloan Foundation, Inc."/ "Some helpful references": p. 55-56.; Responsibility: illus. by Harrison Covington.
+PB  - University of Florida Project in Applied Economics, College of Education
+CY  - Gainesville, FL
+LA  - English
+CN  - 613 .F64c
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - East Baton Rouge Parish (Louisiana) Public Schools
+T1  - Health, physical education, and safety program for junior-senior high schools of East Baton Rouge Parish
+Y1  - 1964
+D1  - 08/1964
+SP  - 5
+KW  - Health education
+KW  - Physical education and training
+PB  - East Baton Rouge Parish (Louisiana) Public Schools
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 613 .E13h
+SC  - Louisiana
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Makers of Fleischmann and Royal Products
+T1  - Teacher's guides and student's leaflets for opening the door to health
+D1  - 1956?
+KW  - Health education
+PB  - Makers of Fleischmann and Royal Products
+LA  - English
+CN  - 613 .F59t
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - People who keep us well: a resource unit for second grade children
+Y1  - 1956
+D1  - 1956
+SP  - 17
+KW  - Health education
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 613 .F62p
+SC  - Michigan
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - Personal security education (health and safety): senior high school grade 10 tentative course
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Health education
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 613 .F62pe
+SC  - Michigan
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools. Health and Safety Study Committee
+T1  - Sources of free and inexpensive industrial materials health and safety
+Y1  - 1958
+D1  - 09/1958
+SP  - 16
+KW  - Health education
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 613 .F62s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A guide for health coordinators
+Y1  - 1953
+D1  - 09/1953
+SP  - 6
+KW  - School hygiene
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A tentative guide to the Fresno City Schools health program, kindergarten-grade 1, dental health
+Y1  - 1954
+D1  - 1954
+SP  - 68
+KW  - School hygiene
+ED  - Revised
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88t v. 1
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A tentative guide to the Fresno City Schools health program, dental health and nutrition, grade ii
+Y1  - 1952
+D1  - 1952
+SP  - 59
+KW  - School hygiene
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88t v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A tentative guide to the Fresno City Schools health program, grade iii, dental health, nutrition, safety and accident prevention
+Y1  - 1953
+D1  - 1953
+SP  - 97
+KW  - School hygiene
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88t v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A tentative guide to the Fresno City Schools health program, grade 4, dental health, safety and accident prevention, community health
+Y1  - 1954
+D1  - 1954
+SP  - 129
+KW  - School hygiene
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88t v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A tentative guide to the Fresno City Schools health program, grade 5, dental health, personality needs and personal health, community health
+Y1  - 1955
+D1  - 1955
+SP  - 107
+KW  - School hygiene
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88t v. 5
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - A tentative guide to the Fresno City Schools health program, grade 6, dental health, personality needs, personal health
+Y1  - 1956
+D1  - 1956
+SP  - 107
+KW  - School hygiene
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88t v. 6
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Audio-visual materials supplementary texts for health and safety education and science
+Y1  - 1948
+D1  - 09/1948
+SP  - 65
+KW  - School hygiene
+KW  - Audio-visual materials
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - The classroom teacher and the school health program
+Y1  - 1957
+D1  - 1957
+SP  - 10
+KW  - School health services
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - The classroom teacher and the school health program
+Y1  - 1954
+D1  - 1954
+SP  - 10
+KW  - School health services
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89h v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - The classroom teacher and the school health program
+Y1  - 1954
+D1  - 1954
+SP  - 10
+KW  - School health services
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89s 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - The classroom teacher and the school health program
+Y1  - 1957
+D1  - 1957
+SP  - 10
+KW  - School health services
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Handbook of health activities, first grade
+Y1  - 1956
+D1  - 1956
+SP  - 32
+KW  - Health education
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89h v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Handbook of health activities, second grade
+Y1  - 1956
+D1  - 1956
+SP  - 15
+KW  - Health education
+N1  - Includes kits: plays, poems, bibliography
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89h v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Handbook of health activities, third grade
+Y1  - 1956
+D1  - 1956
+SP  - 15
+KW  - Health education
+N1  - Includes kits: poems, songs, and stories
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89h v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Handbook of health activities, sixth grade
+Y1  - 1958
+D1  - 1958
+SP  - 24
+KW  - Health education
+N1  - Includes kits of suggested activities
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89h v. 6
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Suggestions for school health and safety
+SP  - 80
+KW  - Health education
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Suggested school health and safety policies for Fresno County schools
+Y1  - 1954
+D1  - 06/1954
+SP  - 75
+KW  - Health education
+ED  - Revised
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 613 .F89s 1954
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Greensboro (North Carolina) Public Schools
+T1  - Health and physical education
+Y1  - 1955
+D1  - 05/1955
+KW  - Health education
+KW  - Physical education and training
+N1  - 1 v. (various pagings)
+PB  - Greensboro (North Carolina) Public Schools
+CY  - Greensboro, NC
+LA  - English
+CN  - 613 .G81h
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Public Health
+A2  - Georgia State Department of Education
+T1  - School health guide
+Y1  - 1955
+D1  - 1955
+SP  - 79
+KW  - School health services
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 613 .G35s
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Handbook on school health services
+D1  - 1956?
+SP  - 18
+KW  - School health services
+PB  - Hawaii Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 613 .H38h
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Suggestions for health education in grades 7-9: report of Health Education Workshop, Hawaii District Schools, August 7-18, 1950, Hilo, Hawaii
+Y1  - 1950
+D1  - 1950
+SP  - 30
+KW  - Health education
+PB  - Hawaii (Territory) Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 613 .H38s
+SC  - Hawaii
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - School health policy
+Y1  - 1953
+D1  - 09/1953
+SP  - 8
+KW  - School health services
+PB  - Hawaii (Territory) Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 613 .H38sc
+SC  - Hawaii
+ER  - 

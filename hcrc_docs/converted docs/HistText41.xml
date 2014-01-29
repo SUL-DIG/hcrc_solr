@@ -135,7 +135,7 @@ Schools.</field>
 <field name="pub_place">Madison, WI</field>
 <field name="language">English</field>
 <field name="call_number">519 .M18s</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -155,7 +155,7 @@ Schools.</field>
 <field name="language">English</field>
 <field name="call_number">519 .M22s</field>
 <field name="state_country">Maine</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -173,7 +173,7 @@ science. [Student book]</field>
 <field name="publisher">Manufacturing Chemists' Association</field>
 <field name="pub_place">New York, NY</field>
 <field name="language">English</field>
-<field name="call_number">519 .M29s </field>
+<field name="call_number">519 .M29s</field>
 </doc>
 
 <doc>
@@ -186,7 +186,7 @@ science. [Student book]</field>
 <field name="publisher">Maple Dale - Indian Hill (Wisconsin) Schools</field>
 <field name="language">English</field>
 <field name="call_number">519 .M291s</field>
-<field name="state_country">Wisconsin </field>
+<field name="state_country">Wisconsin</field>
 </doc>
 
 <doc>
@@ -260,7 +260,7 @@ elementary school teachers</field>
 <field name="publisher">Mary Melrose Williams Science Foundation</field>
 <field name="language">English</field>
 <field name="call_number">519 .M39o</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -663,7 +663,7 @@ contributions ;; ser. II</field>
 <field name="publisher">Western Michigan College of Education</field>
 <field name="pub_place">Kalamazoo, MI</field>
 <field name="language">English</field>
-<field name="call_number">519 .M62s </field>
+<field name="call_number">519 .M62s</field>
 </doc>
 
 <doc>
@@ -683,7 +683,7 @@ contributions ; series II</field>
 <field name="publisher">Graduate Division, Western Michigan College of Education</field>
 <field name="pub_place">Kalamazoo, MI</field>
 <field name="language">English</field>
-<field name="call_number">519 .M62u </field>
+<field name="call_number">519 .M62u</field>
 </doc>
 
 <doc>
@@ -702,7 +702,7 @@ contributions ; series II</field>
 <field name="pub_place">Lansing, MI</field>
 <field name="language">English</field>
 <field name="call_number">519 .M62g</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -722,7 +722,7 @@ Instruction</field>
 <field name="call_number">519 .M65s v. 1</field>
 <field name="state_country">Wisconsin</field>
 <field name="grade_level_number">Kindergarten</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -741,7 +741,7 @@ Instruction</field>
 <field name="language">English</field>
 <field name="call_number">519 .M65s v. 2</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -828,7 +828,7 @@ Minnesota</field>
 <field name="language">English</field>
 <field name="call_number">519 .M664m</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -843,7 +843,7 @@ Minnesota</field>
 <field name="pub_place">Minneapolis, MN</field>
 <field name="language">English</field>
 <field name="call_number">519 .M665f</field>
-<field name="state_country">Minnesota </field>
+<field name="state_country">Minnesota</field>
 </doc>
 
 <doc>
@@ -860,7 +860,7 @@ guide</field>
 <field name="language">English</field>
 <field name="call_number">519 .M665s v. 1</field>
 <field name="state_country">Minnesota</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -956,7 +956,7 @@ guide</field>
 <field name="language">English</field>
 <field name="call_number">519 .M69a</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -971,7 +971,7 @@ guide</field>
 <field name="pub_place">Modesto, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .M69g</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -1060,7 +1060,7 @@ guide</field>
 <field name="pub_place">Rockville, MD</field>
 <field name="language">English</field>
 <field name="call_number">519 .M78p</field>
-<field name="state_country">Maryland </field>
+<field name="state_country">Maryland</field>
 </doc>
 
 <doc>
@@ -1075,6 +1075,6 @@ guide</field>
 <field name="pub_place">Hayward, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .M92s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 </add>

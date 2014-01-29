@@ -1,0 +1,976 @@
+
+
+
+
+TY  - BOOK
+A2  - Alabama Educational Television Network
+T1  - High school biology for television. Fall, 1960. 9:00-9:30 a.m. Monday-Thursday
+Y1  - 1960
+D1  - Fall, 1960
+SP  - 61
+KW  - Television in education
+KW  - Biology
+N1  - 61 p. ; 22 cm.; Note(s): "From the Birmingham Area Educational Television Association. Through the facilities of the Alabama Educational Television Network."
+T2  - Alabama TV Schooltime
+ED  - Rev. ed.
+PB  - Alabama Educational Television Network
+CY  - Birmingham, AL
+LA  - English
+CN  - 570 .A31b v. 1
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Educational Television Network
+T1  - High school biology for television. Spring 1961. 9:00-9:30 A.M. Monday-Thursday
+Y1  - 1960
+D1  - Spring, 1961
+SP  - 59
+KW  - Television in education
+KW  - Biology
+N1  - 61 p. ; 22 cm.; Note(s): "Produced by the Birmingham Area Educational Television Association, a part of the Alabama Educational Television Network."
+T2  - Alabama TV Schooltime
+ED  - Rev. ed.
+PB  - Alabama Educational Television Network
+CY  - Birmingham, AL
+LA  - English
+CN  - 570 .A31b v. 2
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Community High Schools
+T1  - Resource guide for general biological science : section I-IV
+Y1  - 1951
+D1  - 09/1951
+KW  - Biology
+N1  - 4 v. 
+PB  - Atlanta (Georgia) Community High Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 570 .A88r v. 1-4
+SC  - Georgia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Andrews, Ted F.
+T1  - BSCS materials for preparation of inservice teachers of biology
+Y1  - 1964
+D1  - 1964
+SP  - 77
+KW  - Biology
+N1  - 77 p. ill. 23 cm.; Note(s): Includes bibliographical references (p. 65-70).
+T2  - Biological Science Curriculum Study special publication
+V1  - 3
+PB  - Biological Sciences Curriculum Study
+CY  - Boulder, CO
+LA  - English
+CN  - 570 .B61bs
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hurd, Paul DeHart
+T1  - The teaching of biology in selected European elementary ans secondary schools: aids - biological sciences curriculum study
+Y1  - 1959
+D1  - 10/1959
+SP  - 52
+KW  - Biology
+KW  - Teaching
+CY  - Boulder, CO
+LA  - English
+CN  - 570 .B61t
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - A preliminary outline for biology
+Y1  - 1959
+D1  - 1959
+KW  - Biology
+N1  - 1 v. (various pagings) illus. 29 cm.; Other Titles: Biology in public schools
+PB  - Baltimore County (Maryland) Public Schools
+CY  - Towson, MD
+LA  - English
+CN  - 570 .B19p
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Grobman, Arnold B.
+A1  - Hurd, Paul DeHart
+A1  - Klinge, Paul
+A1  - Lawler, Margaret McKibben
+A1  - Palmer, Elra
+T1  - BSCS biology implementation in the schools
+Y1  - 1964
+D1  - 06/1964
+SP  - 94
+KW  - Biology
+T2  - Biological Sciences Curriculum Study Bulletin
+V1  - 3
+PB  - Biological Sciences Curriculum Study
+CY  - Boulder, CO
+LA  - English
+CN  - 570 . B61b v. 3
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Liebherr, Harold G.
+A1  - Peterson, Glen E.
+T1  - The teacher and BSCS special materials
+Y1  - 1966
+D1  - 1966
+SP  - 70
+KW  - Biology
+KW  - Teaching
+N1  - ix; illus.; Note(s): Includes bibliographical references.; Responsibility: Edited by Harold G. Liebherr [and] Glen E. Peterson.
+T2  - Biological Sciences Curriculum Study. Special publication
+V1  - 4
+PB  - American Institute of Biological Sciences
+CY  - Boulder, CO
+LA  - English
+CN  - 570 .B61t
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools. School Committee
+T1  - Course of study in biology for senior high schools
+Y1  - 1956
+D1  - 1956
+SP  - 88
+KW  - Biology
+N1  - 88 p. ; 23 cm.; Responsibility: the School Committee of the City of Boston.
+T2  - Boston (Massachusetts) Public School. School document
+V1  - 9
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 570 .B74c
+SC  - Massachusetts
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A1  - Boyd, Helen Warner
+T1  - Successful devices in teaching biology
+Y1  - 1957
+D1  - 1957
+SP  - 211
+KW  - Biology
+N1  - 211 p. illus. 28 cm.; Note(s): Includes bibliographies.
+PB  - J.Weston Walch
+CY  - Portland, ME
+LA  - English
+CN  - 570 .B78s
+ER  - 
+
+TY  - BOOK
+A1  - Bartlett, Warren L.
+A1  - Bruce, Katherine
+A1  - Hollingworth, Leland G.
+A1  - Keene, Irving C.
+A2  - Committee on the Course of Study in Biology
+T1  - Course of study in biology, grade 10
+Y1  - 1955
+D1  - 06/1955
+SP  - 87
+KW  - Biology
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 570 .B87c
+SC  - Massachusetts
+G2  - 10th
+ER  -  
+
+TY  - BOOK
+A1  - Byrne, Harry M.
+A1  - Lawson, Russell D.
+A2  - California State Department of Education. Bureau of Junior College Education
+T1  - Final report of the junior college workshops in Biology: a program for the improvement of instruction in mathematics and the sciences in the junior colleges of California
+Y1  - 1961
+D1  - 1961
+SP  - 48
+KW  - Biology
+N1  - 33 l. 28 cm.; Other Titles: Program for the improvement of instruction in mathematics and the sciences in the junior colleges of California; Responsibility: Co-Chairmen: Harry M. Byrne [and] Russell D. Lawson.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 570 .C15b
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Cedar Falls (Iowa) Community Schools
+T1  - Life science : 8th grade : a course of study in three levels
+Y1  - 1965
+D1  - 09/1965
+KW  - Life sciences
+PB  - Cedar Falls (Iowa) Community School
+CY  - Cedar Falls, IA
+LA  - English
+CN  - 570 .C38L
+SC  - Iowa
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - University of Chicago. Graduate School of Education
+T1  - Using modern knowledge to teach evolution in high school : as seen by participants in the high-school conference of the Darwin Centennial Celebration at the University of Chicago, November 24-28, 1959
+Y1  - 1960
+D1  - 1960
+SP  - 35
+KW  - Evolution
+AB  - Using modern knowledge to teach evolution in high school / by John C. Mayfield -- Evolution in the high school curriculum / by Sir Julian Huxley -- Modern readings on evolution : a list of books for the use of teachers -- List of conference members.
+N1  - v; ; 23 cm.; Genre/Form: Conference proceedings.; Note(s): Includes bibliographical references (p. 29-31).
+T2  - National Conference for High School Biology Teachers (1959 : University of Chicago); Darwin Centennial Celebration ; (1959 :; University of Chicago)
+PB  - Graduate School of Education, University of Chicago
+CY  - Chicago, IL
+LA  - English
+CN  - 570 .C53u
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Biology; a supplement to the Teaching guide for science, a tentative program for the secondary schools
+Y1  - 1961
+D1  - 1961
+SP  - 247
+KW  - Biology
+N1  - 247 p. ill. 22 x 28 cm.; Note(s): Bibliographies: p. 225-246.
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 570 .C532b
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Low, John
+A1  - Sternig, John
+A1  - Vordenberg, Kenneth
+A1  - Grate, John
+T1  - Studying living things
+Y1  - 1961
+D1  - 1961
+SP  - 12
+KW  - Biology
+PB  - F. E. Compton & Company
+CY  - Chicago, IL
+LA  - English
+CN  - 570 .C73L
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - Biology 1 and 2
+Y1  - 1965
+D1  - 08/1965
+SP  - 127
+KW  - Biology
+PB  - Culver City (California) Unified School District
+CY  - Culver City, CA
+LA  - English
+CN  - 570 .C96b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Davis, David W.
+T1  - Microbiology; an outline guide for a twelve weeks course
+Y1  - 1956
+D1  - 1956
+SP  - 43
+KW  - Bacteriology
+PB  - F. A. Davis
+CY  - Philadelphia, PA
+LA  - English
+CN  - 570 .D26m
+ER  - 
+
+TY  - BOOK
+A2  - Des Moines (Iowa) Public Schools
+T1  - Outline biology course (tentative)
+Y1  - 1956
+D1  - 07/1956
+KW  - Biology
+N1  - 1 v. (various pagings)
+PB  - Des Moines (Iowa) Public Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 570 .D46o
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Texas Gulf Coast Science Educational Resources Center
+T1  - Embryology
+Y1  - 1968
+D1  - 05/1968
+SP  - 57
+KW  - Embryology
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 570 .H84e
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Bullington, Robert A.
+T1  - Teaching biology with the mosquito minnow
+Y1  - 1947
+D1  - 1947
+SP  - 3
+KW  - Biology
+PB  - Northern Illinois University
+CY  - DeKalb, IL
+LA  - English
+CN  - 570 .I29t v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Bullington, Robert A.
+T1  - Using the mosquito in teaching biology
+Y1  - 1947
+D1  - 1947
+SP  - 5
+KW  - Biology
+PB  - Northern Illinois University
+CY  - DeKalb, IL
+LA  - English
+CN  - 570 .I29t v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Jefferson County (Colorado) Public Schools
+T1  - Life science guide : junior high school
+Y1  - 1966
+D1  - 1966
+KW  - Life sciences
+N1  - 293 leaves in various foliations : ill. ; 29 cm.; Note(s): Includes bibliographical references.; Responsibility: Jefferson County Public Schools.
+ED  - Rev. ed.
+PB  - Jefferson County (Colorado) Public Schools
+CY  - Lakewood, CO
+LA  - English
+CN  - 570 .J45L
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Lockland (Ohio) Public Schools
+T1  - Biological sciences curriculum guide
+Y1  - 1968
+D1  - 1968
+SP  - 187
+KW  - Biology
+N1  - 187 p. ; 28 cm.; Note(s): Cover title: Secondary science curriculum guide./ Includes bibliographical references.; Other Titles: Secondary science curriculum guide; Responsibility: Lockland Public Schools, Lockland, Ohio.
+PB  - Lockland (Ohio) Public School
+CY  - Lockland, OH
+LA  - English
+CN  - 570 .L81b
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Biology 2 : outline course of study
+KW  - Biology
+Y1  - 1963
+D1  - 1963
+SP  - 69
+ED  - Experimental
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 570 .L87b v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Biology 1; outline course of study
+Y1  - 1963
+D1  - 1963
+SP  - 84
+KW  - Biology
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 570 .L87b v. 1
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Laboratory investigations in the life sciences for the junior high school
+D1  - 1960s
+KW  - Life sciences
+N1  - approximately 150 pages ; 28 cm; Note(s): Loose-leaf.; Responsibility: prepared by Don Darling [and others].
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 570 .M66L
+SC  - Minnesota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Minute plants and animals : a resource unit for elementary schools ; grade 6
+Y1  - 1960
+SP  - 38
+KW  - Biology
+N1  - vi; ill. ; 28 cm.; Responsibility: Milwaukee Public Schools, Division of Curriculum and Instruction, Dept. of Elementary and Secondary Education.
+T2  - Milwaukee (Wisconsin) Public Schools. Science education.
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 570 .M66m
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Biology: course of study
+Y1  - 1957
+D1  - 1957-1958
+SP  - 51
+KW  - Biology
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 570 .M69b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Lebanon School District (Pittsburgh, Pennsylvania)
+T1  - The curriculum guide for advanced placement biology
+Y1  - 1965
+D1  - 1965
+KW  - Biology
+PB  - Mt. Lebanon School District
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 570 .M91c
+SC  - Pennsylvania
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New Hampshire State Department of Education
+T1  - Biology
+Y1  - 1959
+D1  - 1959
+SP  - 99
+KW  - Biology
+N1  - 99 pages ; 23 cm
+PB  - New Hampshire State Department of Education
+CY  - Concord, NH
+LA  - English
+CN  - 570 .N51b
+SC  - New Hampshire
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Living things
+Y1  - 1959
+D1  - 1958-1959
+SP  - 101
+KW  - Life sciences
+N1  - 101 p. ill. 23 cm.
+T2  - Science: grades k-6. Curriculum bulletin
+V1  - 2
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 570 .N52L
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative guide : tenth-grade science. Biology
+Y1  - 1954
+D1  - 07/1954
+KW  - Biology
+N1  - 1 v. (various pagings) ; cm
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 570 .O11t
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Paden, John
+A1  - Hogard, B. W.
+A1  - Costley Clifford
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Course of study in biology
+Y1  - 1950
+D1  - 08/1950
+KW  - Biology
+N1  - Professional workshop, Oklahoma City Public Schools, August 28-31, 1950
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 570 .O41c
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Orange (Texas) Independent School District
+T1  - Tentative course of study in biology
+Y1  - 1945
+D1  - 1945
+SP  - 90
+KW  - Biology
+KW  - Curricula
+N1  - 90 leaves ; 28 cm.; Note(s): Includes bibliographies.
+T2  - Orange (Texas) Independent School District. Curriculum bulletin
+V1  - 433
+PB  - Orange (Texas) Independent School District
+CY  - Orange, TX
+LA  - English
+CN  - 570 .O63b
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Biology : topics and understandings for a course of study in the science of living things
+Y1  - 1958
+D1  - 1958
+SP  - 62
+KW  - Biology 
+AB  - Science flow chart -- Course of study. Unity in living things -- Interrelationships of living things -- Survival of living things -- Biology in everyday life.
+N1  - 62 p. illus. 23 cm.; Note(s): "H659r-O57-12,500."
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 570 .N53b
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Nelson, Clifford R.
+T1  - About me: a science unit for ninth grade boys and girls
+Y1  - 1959
+D1  - 09/1959
+SP  - 73
+KW  - Heredity
+PB  - Newton Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 570 .N56a
+SC  - Massachusetts
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools
+T1  - Living things: a primary unit
+Y1  - 1962
+D1  - 1962
+KW  - Biology
+PB  - Newton (Massachusetts) Public Schools
+CY  - Newton, MA
+LA  - English
+CN  - 570 .N56L
+SC  - Massachusetts
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Franco, Frank
+A1  - Zirkes, Melvin
+T1  - Course of study: applied life sciences
+Y1  - 1971
+D1  - 1971
+KW  - Biology
+PB  - Park Ridge (New Jersey) High School
+CY  - Park Ridge, NJ
+LA  - English
+CN  - 570 .P23a
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-visual Serivice
+T1  - Life science material
+Y1  - 1953
+D1  - 09/1953
+SP  - 78
+KW  - Biology
+PB  - Pasadena (California) City Schools. Audio-visual Serivice
+CY  - Pasadena, CA
+LA  - English
+CN  - 570 .P27L
+SC  - California
+ER  - 
+
+TY  - GEN
+A1  - Dvergsten, Denneth
+T1  - Biology -- an ecological approach
+Y1  - 1962
+D1  - 1962
+SP  - 95
+KW  - Ecology
+KW  - Biology
+PB  - Roseville (Minnesota) Schools
+CY  - Roseville, MN
+LA  - English
+CN  - 570 .R81b
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the teaching of general biology
+Y1  - 1959
+D1  - 1959
+SP  - 37
+KW  - Biology
+ED  - Tentative
+PB  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 570 .P54g
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - College preparatory biology
+Y1  - 1961
+D1  - 1961
+SP  - 99
+KW  - Biology
+N1  - xiv; ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Biology.
+ED  - Tentative
+PB  - Curriculum Office, Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 570 .P54c
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Port Arthur (Texas) Independent School District
+T1  - Life science : seventh grade: a teaching guide for life science teachers
+Y1  - 1961
+D1  - 1961
+SP  - 115
+KW  - Life sciences
+N1  - xxi; ill. ; 22 x 35 cm.; Other Titles: Life science : curriculum guide
+PB  - Port Arthur (Texas) Independent School District
+CY  - Port Arthur, TX
+LA  - English
+CN  - 570 .P83L
+SC  - Texas
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: microlife, sixth grade
+Y1  - 1961
+D1  - 09/1961
+SP  - 5
+KW  - Biology
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 570 .R12m
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - Teaching guide for biology, 10th year
+Y1  - 1955
+D1  - 09/1955
+SP  - 173
+KW  - Biology
+PB  - Richmond (California) Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 570 .R53g
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Saint Paul (Minnesota) Public Schools
+T1  - Biology : concepts, topics, experiments, references: a curriculum guide for biology and biology "A" classes
+Y1  - 1966
+D1  - 09/1966
+SP  - 26
+KW  - Biology
+N1  - iii; ; 22 x 28 cm.; Note(s): Cover title.; Responsibility: Curriculum Office, St. Paul Public Schools.
+T2  - Saint Paul (Minnesota) Public Schools. Curriculum publication
+V1  - 309
+PB  - Saint Paul (Minnesota) Public Schools
+CY  - St. Paul, MN
+LA  - English
+CN  - 570 .S15b
+SC  - Minnesota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A guide for teaching general science 3
+Y1  - 1969
+D1  - 1969
+SP  - 153
+KW  - Science
+KW  - Biology
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 570 .S19g v. 1
+SC  - California
+G1  - Middle school
+ER  -
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Supplement to A guide for teaching general science 3
+Y1  - 1969
+D1  - 1969
+SP  - 100
+KW  - Science
+KW  - Biology
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 570 .S19g v. 2
+SC  - California
+G1  - Middle school
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - Production through reproduction: genetics
+Y1  - 1964
+D1  - 09/1964
+SP  - 48
+KW  - Genetics
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 570 .S44p
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) District High Schools
+T1  - Unified studies: how do plants and animals grow?  7th required
+Y1  - 1959
+D1  - 1959
+KW  - Biology
+PB  - Shawnee-Mission (Kansas) District High Schools
+CY  - Merriam, KS
+LA  - English
+CN  - 570 .S53h
+SC  - Kansas
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) High School District
+T1  - Outline of study for the beginning course in biology: book a
+Y1  - 1962
+D1  - 1962
+SP  - 139
+KW  - Biology
+PB  - Shawnee-Mission (Kansas) High School District
+CY  - Merriam, KS
+LA  - English
+CN  - 570 .S53o v. 1
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) High School District
+T1  - Outline of study for the beginning course in biology: book b
+Y1  - 1962
+D1  - 1962
+KW  - Biology
+PB  - Shawnee-Mission (Kansas) High School District
+CY  - Merriam, KS
+LA  - English
+CN  - 570 .S53o v. 2
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) High School District
+T1  - Biology supplement
+Y1  - 1962
+D1  - 1962
+SP  - 219
+KW  - Biology
+PB  - Shawnee-Mission (Kansas) High School District
+CY  - Merriam, KS
+LA  - English
+CN  - 570 .S53o v. 3
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - Course of study bulletin for biology
+Y1  - 1960
+D1  - 07/1960
+SP  - 88
+KW  - Curricula
+KW  - Biology
+N1  - 88 pages ; 23 cm.; Note(s): Cover title: Biology course of study and teachers guide for secondary schools.; Other Titles: Biology course of study and teachers guide for secondary schools
+T2  - South Dakota State Department of Public Instruction. Bulletin
+V1  - 46A
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 570 .S72b
+SC  - South Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Life science : an activity guide
+Y1  - 1972
+D1  - 1972
+SP  - 91
+KW  - Biology
+KW  - Laboratory manuals
+N1  - vi; ill. ; 28 cm.; Responsibility: Texas Education Agency.
+T2  - Texas Education Agency. Bulletin
+V1  - 723
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 570 .T35L
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Curriculum guide for beginning biology
+Y1  - 1962
+D1  - 1962
+SP  - 73
+KW  - Biology
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 570 .T92c
+SC  - Oklahoma
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - Biology curriculum guide : experiments, demonstrations and other activities suggested for biology and framework
+Y1  - 1961
+D1  - 1961
+SP  - 334
+KW  - Biology
+N1  - iii; ges : illustrations ; 23 cm; Note(s): "The guide has been adapted from the Biology Course of Study (1958) abd Biology Handbook (1960) published by the New York State Education Department"--Page 2./ Includes bibliographical references (pages 285-286) and index.; Responsibility: Vermont State Dept. of Education, Division of Instruction.
+PB  - Vermont State Department of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 570 .V52c
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Vessel, Matthew F.
+A1  - Wong, Herbert H.
+T1  - Prehistoric life
+Y1  - 1959
+D1  - 1959
+SP  - 13
+KW  - Paleontology
+N1  - 13 p. ill. (some col.) 22 cm.; Responsibility: by Matthew F. Vessel and Herbert H. Wong.
+T2  - Fearon science education series
+V1  - M-1
+PB  - Fearon Publishers
+CY  - San Francisco, CA
+LA  - English
+CN  - 570 .V58p
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Washington State tentative curriculum guide for biology
+Y1  - 1960
+D1  - 1960
+SP  - 104
+KW  - Biology
+N1  - ill. ; 28 cm.; Note(s): Cover title: Curriculum guide, biology, high school./ Bibliography: p. 102-104.; Other Titles: Curriculum guide, biology, high school.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 570 .W31b
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Clock, Charles J.
+A2  - West Hartford (Connecticut) Public Schools
+T1  - An initial assessment of advance placement biology in the 10th and 12th grades
+Y1  - 1970
+D1  - 10/1970
+SP  - 8
+KW  - Biology
+PB  - West Hartford (Connecticut) Public Schools
+CY  - West Hartford, CT
+LA  - English
+CN  - 570 .W51i
+SC  - Connecticut
+G2  - 10th
+G2  - 12th
+ER  - 

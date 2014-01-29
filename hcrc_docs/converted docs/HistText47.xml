@@ -1,0 +1,1079 @@
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama Educational Television Network</field>
+<field name="title">High school biology for television. Fall, 1960. 9:00-9:30 a.m.
+Monday-Thursday</field>
+<field name="year">1960</field>
+<field name="date">Fall, 1960</field>
+<field name="pages">61</field>
+<field name="keywords">Television in education</field>
+<field name="keywords">Biology</field>
+<field name="notes">61 p. ; 22 cm.; Note(s): "From the Birmingham Area Educational Television
+Association. Through the facilities of the Alabama Educational Television Network."</field>
+<field name="series_title">Alabama TV Schooltime</field>
+<field name="edition">Rev. ed.</field>
+<field name="publisher">Alabama Educational Television Network</field>
+<field name="pub_place">Birmingham, AL</field>
+<field name="language">English</field>
+<field name="call_number">570 .A31b v. 1</field>
+<field name="state_country">Alabama</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama Educational Television Network</field>
+<field name="title">High school biology for television. Spring 1961. 9:00-9:30 A.M.
+Monday-Thursday</field>
+<field name="year">1960</field>
+<field name="date">Spring, 1961</field>
+<field name="pages">59</field>
+<field name="keywords">Television in education</field>
+<field name="keywords">Biology</field>
+<field name="notes">61 p. ; 22 cm.; Note(s): "Produced by the Birmingham Area Educational Television
+Association, a part of the Alabama Educational Television Network."</field>
+<field name="series_title">Alabama TV Schooltime</field>
+<field name="edition">Rev. ed.</field>
+<field name="publisher">Alabama Educational Television Network</field>
+<field name="pub_place">Birmingham, AL</field>
+<field name="language">English</field>
+<field name="call_number">570 .A31b v. 2</field>
+<field name="state_country">Alabama</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Atlanta (Georgia) Community High Schools</field>
+<field name="title">Resource guide for general biological science : section I-IV</field>
+<field name="year">1951</field>
+<field name="date">09/1951</field>
+<field name="keywords">Biology</field>
+<field name="notes">4 v.</field>
+<field name="publisher">Atlanta (Georgia) Community High Schools</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">570 .A88r v. 1-4</field>
+<field name="state_country">Georgia</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Andrews, Ted F.</field>
+<field name="title">BSCS materials for preparation of inservice teachers of biology</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">77</field>
+<field name="keywords">Biology</field>
+<field name="notes">77 p. ill. 23 cm.; Note(s): Includes bibliographical references (p.
+65-70).</field>
+<field name="series_title">Biological Science Curriculum Study special publication</field>
+<field name="series_vol">3</field>
+<field name="publisher">Biological Sciences Curriculum Study</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="language">English</field>
+<field name="call_number">570 .B61bs</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hurd, Paul DeHart</field>
+<field name="title">The teaching of biology in selected European elementary ans secondary schools:
+aids - biological sciences curriculum study</field>
+<field name="year">1959</field>
+<field name="date">10/1959</field>
+<field name="pages">52</field>
+<field name="keywords">Biology</field>
+<field name="keywords">Teaching</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="language">English</field>
+<field name="call_number">570 .B61t</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Baltimore County (Maryland) Public Schools</field>
+<field name="title">A preliminary outline for biology</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="keywords">Biology</field>
+<field name="notes">1 v. (various pagings) illus. 29 cm.; Other Titles: Biology in public
+schools</field>
+<field name="publisher">Baltimore County (Maryland) Public Schools</field>
+<field name="pub_place">Towson, MD</field>
+<field name="language">English</field>
+<field name="call_number">570 .B19p</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Grobman, Arnold B.</field>
+<field name="author">Hurd, Paul DeHart</field>
+<field name="author">Klinge, Paul</field>
+<field name="author">Lawler, Margaret McKibben</field>
+<field name="author">Palmer, Elra</field>
+<field name="title">BSCS biology implementation in the schools</field>
+<field name="year">1964</field>
+<field name="date">06/1964</field>
+<field name="pages">94</field>
+<field name="keywords">Biology</field>
+<field name="series_title">Biological Sciences Curriculum Study Bulletin</field>
+<field name="series_vol">3</field>
+<field name="publisher">Biological Sciences Curriculum Study</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="language">English</field>
+<field name="call_number">570 . B61b v. 3</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Liebherr, Harold G.</field>
+<field name="author">Peterson, Glen E.</field>
+<field name="title">The teacher and BSCS special materials</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">70</field>
+<field name="keywords">Biology</field>
+<field name="keywords">Teaching</field>
+<field name="notes">ix; illus.; Note(s): Includes bibliographical references.; Responsibility:
+Edited by Harold G. Liebherr [and] Glen E. Peterson.</field>
+<field name="series_title">Biological Sciences Curriculum Study. Special publication</field>
+<field name="series_vol">4</field>
+<field name="publisher">American Institute of Biological Sciences</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="language">English</field>
+<field name="call_number">570 .B61t</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Boston (Massachusetts) Public Schools. School Committee</field>
+<field name="title">Course of study in biology for senior high schools</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">88</field>
+<field name="keywords">Biology</field>
+<field name="notes">88 p. ; 23 cm.; Responsibility: the School Committee of the City of
+Boston.</field>
+<field name="series_title">Boston (Massachusetts) Public School. School document</field>
+<field name="series_vol">9</field>
+<field name="publisher">Boston (Massachusetts) Public Schools</field>
+<field name="pub_place">Boston, MA</field>
+<field name="language">English</field>
+<field name="call_number">570 .B74c</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">High schools</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Boyd, Helen Warner</field>
+<field name="title">Successful devices in teaching biology</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">211</field>
+<field name="keywords">Biology</field>
+<field name="notes">211 p. illus. 28 cm.; Note(s): Includes bibliographies.</field>
+<field name="publisher">J.Weston Walch</field>
+<field name="pub_place">Portland, ME</field>
+<field name="language">English</field>
+<field name="call_number">570 .B78s</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bartlett, Warren L.</field>
+<field name="author">Bruce, Katherine</field>
+<field name="author">Hollingworth, Leland G.</field>
+<field name="author">Keene, Irving C.</field>
+<field name="corp_author">Committee on the Course of Study in Biology</field>
+<field name="title">Course of study in biology, grade 10</field>
+<field name="year">1955</field>
+<field name="date">06/1955</field>
+<field name="pages">87</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Brookline (Massachusetts) Public Schools</field>
+<field name="pub_place">Brookline, MA</field>
+<field name="language">English</field>
+<field name="call_number">570 .B87c</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Byrne, Harry M.</field>
+<field name="author">Lawson, Russell D.</field>
+<field name="corp_author">California State Department of Education. Bureau of Junior College
+Education</field>
+<field name="title">Final report of the junior college workshops in Biology: a program for the
+improvement of instruction in mathematics and the sciences in the junior colleges of
+California</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">48</field>
+<field name="keywords">Biology</field>
+<field name="notes">33 l. 28 cm.; Other Titles: Program for the improvement of instruction in
+mathematics and the sciences in the junior colleges of California; Responsibility: Co-Chairmen:
+Harry M. Byrne [and] Russell D. Lawson.</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .C15b</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cedar Falls (Iowa) Community Schools</field>
+<field name="title">Life science : 8th grade : a course of study in three levels</field>
+<field name="year">1965</field>
+<field name="date">09/1965</field>
+<field name="keywords">Life sciences</field>
+<field name="publisher">Cedar Falls (Iowa) Community School</field>
+<field name="pub_place">Cedar Falls, IA</field>
+<field name="language">English</field>
+<field name="call_number">570 .C38L</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Chicago. Graduate School of Education</field>
+<field name="title">Using modern knowledge to teach evolution in high school : as seen by
+participants in the high-school conference of the Darwin Centennial Celebration at the University of
+Chicago, November 24-28, 1959</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">35</field>
+<field name="keywords">Evolution</field>
+<field name="abstract">Using modern knowledge to teach evolution in high school / by John C.
+Mayfield -- Evolution in the high school curriculum / by Sir Julian Huxley -- Modern readings on
+evolution : a list of books for the use of teachers -- List of conference members.</field>
+<field name="notes">v; ; 23 cm.; Genre/Form: Conference proceedings.; Note(s): Includes
+bibliographical references (p. 29-31).</field>
+<field name="series_title">National Conference for High School Biology Teachers (1959 : University
+of Chicago); Darwin Centennial Celebration ; (1959 :; University of Chicago)</field>
+<field name="publisher">Graduate School of Education, University of Chicago</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">570 .C53u</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Chicago (Illinois) Public Schools</field>
+<field name="title">Biology; a supplement to the Teaching guide for science, a tentative program for
+the secondary schools</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">247</field>
+<field name="keywords">Biology</field>
+<field name="notes">247 p. ill. 22 x 28 cm.; Note(s): Bibliographies: p. 225-246.</field>
+<field name="publisher">Chicago (Illinois) Public Schools</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">570 .C532b</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Low, John</field>
+<field name="author">Sternig, John</field>
+<field name="author">Vordenberg, Kenneth</field>
+<field name="author">Grate, John</field>
+<field name="title">Studying living things</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">12</field>
+<field name="keywords">Biology</field>
+<field name="publisher">F. E. Compton &amp;Company</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="language">English</field>
+<field name="call_number">570 .C73L</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Culver City (California) Unified School District</field>
+<field name="title">Biology 1 and 2</field>
+<field name="year">1965</field>
+<field name="date">08/1965</field>
+<field name="pages">127</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Culver City (California) Unified School District</field>
+<field name="pub_place">Culver City, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .C96b</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Davis, David W.</field>
+<field name="title">Microbiology; an outline guide for a twelve weeks course</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">43</field>
+<field name="keywords">Bacteriology</field>
+<field name="publisher">F. A. Davis</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">570 .D26m</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Des Moines (Iowa) Public Schools</field>
+<field name="title">Outline biology course (tentative)</field>
+<field name="year">1956</field>
+<field name="date">07/1956</field>
+<field name="keywords">Biology</field>
+<field name="notes">1 v. (various pagings)</field>
+<field name="publisher">Des Moines (Iowa) Public Schools</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">570 .D46o</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Gulf Coast Science Educational Resources Center</field>
+<field name="title">Embryology</field>
+<field name="year">1968</field>
+<field name="date">05/1968</field>
+<field name="pages">57</field>
+<field name="keywords">Embryology</field>
+<field name="publisher">Houston (Texas) Independent School District</field>
+<field name="pub_place">Houston, TX</field>
+<field name="language">English</field>
+<field name="call_number">570 .H84e</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bullington, Robert A.</field>
+<field name="title">Teaching biology with the mosquito minnow</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="pages">3</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Northern Illinois University</field>
+<field name="pub_place">DeKalb, IL</field>
+<field name="language">English</field>
+<field name="call_number">570 .I29t v. 1</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bullington, Robert A.</field>
+<field name="title">Using the mosquito in teaching biology</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="pages">5</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Northern Illinois University</field>
+<field name="pub_place">DeKalb, IL</field>
+<field name="language">English</field>
+<field name="call_number">570 .I29t v. 2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Jefferson County (Colorado) Public Schools</field>
+<field name="title">Life science guide : junior high school</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="keywords">Life sciences</field>
+<field name="notes">293 leaves in various foliations : ill. ; 29 cm.; Note(s): Includes
+bibliographical references.; Responsibility: Jefferson County Public Schools.</field>
+<field name="edition">Rev. ed.</field>
+<field name="publisher">Jefferson County (Colorado) Public Schools</field>
+<field name="pub_place">Lakewood, CO</field>
+<field name="language">English</field>
+<field name="call_number">570 .J45L</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lockland (Ohio) Public Schools</field>
+<field name="title">Biological sciences curriculum guide</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">187</field>
+<field name="keywords">Biology</field>
+<field name="notes">187 p. ; 28 cm.; Note(s): Cover title: Secondary science curriculum guide./
+Includes bibliographical references.; Other Titles: Secondary science curriculum guide;
+Responsibility: Lockland Public Schools, Lockland, Ohio.</field>
+<field name="publisher">Lockland (Ohio) Public School</field>
+<field name="pub_place">Lockland, OH</field>
+<field name="language">English</field>
+<field name="call_number">570 .L81b</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Biology 2 : outline course of study</field>
+<field name="keywords">Biology</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">69</field>
+<field name="edition">Experimental</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .L87b v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Biology 1; outline course of study</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">84</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .L87b v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">Laboratory investigations in the life sciences for the junior high
+school</field>
+<field name="date">1960s</field>
+<field name="keywords">Life sciences</field>
+<field name="notes">approximately 150 pages ; 28 cm; Note(s): Loose-leaf.; Responsibility: prepared
+by Don Darling [and others].</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">570 .M66L</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Milwaukee (Wisconsin) Public Schools</field>
+<field name="title">Minute plants and animals : a resource unit for elementary schools ; grade
+6</field>
+<field name="year">1960</field>
+<field name="pages">38</field>
+<field name="keywords">Biology</field>
+<field name="notes">vi; ill. ; 28 cm.; Responsibility: Milwaukee Public Schools, Division of
+Curriculum and Instruction, Dept. of Elementary and Secondary Education.</field>
+<field name="series_title">Milwaukee (Wisconsin) Public Schools. Science education.</field>
+<field name="publisher">Milwaukee (Wisconsin) Public Schools</field>
+<field name="pub_place">Milwaukee, WI</field>
+<field name="language">English</field>
+<field name="call_number">570 .M66m</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Modesto (California) City Schools</field>
+<field name="title">Biology: course of study</field>
+<field name="year">1957</field>
+<field name="date">1957-1958</field>
+<field name="pages">51</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Modesto (California) City Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .M69b</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mt. Lebanon School District (Pittsburgh, Pennsylvania)</field>
+<field name="title">The curriculum guide for advanced placement biology</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Mt. Lebanon School District</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">570 .M91c</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Hampshire State Department of Education</field>
+<field name="title">Biology</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">99</field>
+<field name="keywords">Biology</field>
+<field name="notes">99 pages ; 23 cm</field>
+<field name="publisher">New Hampshire State Department of Education</field>
+<field name="pub_place">Concord, NH</field>
+<field name="language">English</field>
+<field name="call_number">570 .N51b</field>
+<field name="state_country">New Hampshire</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Living things</field>
+<field name="year">1959</field>
+<field name="date">1958-1959</field>
+<field name="pages">101</field>
+<field name="keywords">Life sciences</field>
+<field name="notes">101 p. ill. 23 cm.</field>
+<field name="series_title">Science: grades k-6. Curriculum bulletin</field>
+<field name="series_vol">2</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">570 .N52L</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Oakland (California) Public Schools</field>
+<field name="title">Tentative guide : tenth-grade science. Biology</field>
+<field name="year">1954</field>
+<field name="date">07/1954</field>
+<field name="keywords">Biology</field>
+<field name="notes">1 v. (various pagings) ; cm</field>
+<field name="publisher">Oakland (California) Public Schools</field>
+<field name="pub_place">Oakland, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .O11t</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Paden, John</field>
+<field name="author">Hogard, B. W.</field>
+<field name="author">Costley Clifford</field>
+<field name="corp_author">Oklahoma City (Oklahoma) Public Schools</field>
+<field name="title">Course of study in biology</field>
+<field name="year">1950</field>
+<field name="date">08/1950</field>
+<field name="keywords">Biology</field>
+<field name="notes">Professional workshop, Oklahoma City Public Schools, August 28-31, 1950</field>
+<field name="publisher">Oklahoma City (Oklahoma) Public Schools</field>
+<field name="pub_place">Oklahoma City, OK</field>
+<field name="language">English</field>
+<field name="call_number">570 .O41c</field>
+<field name="state_country">Oklahoma</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Orange (Texas) Independent School District</field>
+<field name="title">Tentative course of study in biology</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="pages">90</field>
+<field name="keywords">Biology</field>
+<field name="keywords">Curricula</field>
+<field name="notes">90 leaves ; 28 cm.; Note(s): Includes bibliographies.</field>
+<field name="series_title">Orange (Texas) Independent School District. Curriculum bulletin</field>
+<field name="series_vol">433</field>
+<field name="publisher">Orange (Texas) Independent School District</field>
+<field name="pub_place">Orange, TX</field>
+<field name="language">English</field>
+<field name="call_number">570 .O63b</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Biology : topics and understandings for a course of study in the science of
+living things</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">62</field>
+<field name="keywords">Biology</field>
+<field name="abstract">Science flow chart -- Course of study. Unity in living things --
+Interrelationships of living things -- Survival of living things -- Biology in everyday
+life.</field>
+<field name="notes">62 p. illus. 23 cm.; Note(s): "H659r-O57-12,500."</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">570 .N53b</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Nelson, Clifford R.</field>
+<field name="title">About me: a science unit for ninth grade boys and girls</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">73</field>
+<field name="keywords">Heredity</field>
+<field name="publisher">Newton Public Schools</field>
+<field name="pub_place">Newton, MA</field>
+<field name="language">English</field>
+<field name="call_number">570 .N56a</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_group">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Newton (Massachusetts) Public Schools</field>
+<field name="title">Living things: a primary unit</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Newton (Massachusetts) Public Schools</field>
+<field name="pub_place">Newton, MA</field>
+<field name="language">English</field>
+<field name="call_number">570 .N56L</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_group">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Franco, Frank</field>
+<field name="author">Zirkes, Melvin</field>
+<field name="title">Course of study: applied life sciences</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Park Ridge (New Jersey) High School</field>
+<field name="pub_place">Park Ridge, NJ</field>
+<field name="language">English</field>
+<field name="call_number">570 .P23a</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pasadena (California) City Schools. Audio-visual Serivice</field>
+<field name="title">Life science material</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">78</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Pasadena (California) City Schools. Audio-visual Serivice</field>
+<field name="pub_place">Pasadena, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .P27L</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">GEN</field>
+<field name="author">Dvergsten, Denneth</field>
+<field name="title">Biology -- an ecological approach</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">95</field>
+<field name="keywords">Ecology</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Roseville (Minnesota) Schools</field>
+<field name="pub_place">Roseville, MN</field>
+<field name="language">English</field>
+<field name="call_number">570 .R81b</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">A guide to the teaching of general biology</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">37</field>
+<field name="keywords">Biology</field>
+<field name="edition">Tentative</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">570 .P54g</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Curriculum Office</field>
+<field name="title">College preparatory biology</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">99</field>
+<field name="keywords">Biology</field>
+<field name="notes">xiv; ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles:
+Biology.</field>
+<field name="edition">Tentative</field>
+<field name="publisher">Curriculum Office, Philadelphia Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="language">English</field>
+<field name="call_number">570 .P54c</field>
+<field name="state_country">Pennsylvania</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Port Arthur (Texas) Independent School District</field>
+<field name="title">Life science : seventh grade: a teaching guide for life science teachers</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">115</field>
+<field name="keywords">Life sciences</field>
+<field name="notes">xxi; ill. ; 22 x 35 cm.; Other Titles: Life science : curriculum guide</field>
+<field name="publisher">Port Arthur (Texas) Independent School District</field>
+<field name="pub_place">Port Arthur, TX</field>
+<field name="language">English</field>
+<field name="call_number">570 .P83L</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="title">Science unit: microlife, sixth grade</field>
+<field name="year">1961</field>
+<field name="date">09/1961</field>
+<field name="pages">5</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Racine County (Wisconsin) Unified School District No. 1</field>
+<field name="pub_place">Racine, WI</field>
+<field name="language">English</field>
+<field name="call_number">570 .R12m</field>
+<field name="state_country">Wisconsin</field>
+<field name="grade_level_group">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Richmond (California) Public Schools</field>
+<field name="title">Teaching guide for biology, 10th year</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="pages">173</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Richmond (California) Public Schools</field>
+<field name="pub_place">Richmond, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .R53g</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Saint Paul (Minnesota) Public Schools</field>
+<field name="title">Biology : concepts, topics, experiments, references: a curriculum guide for
+biology and biology "A" classes</field>
+<field name="year">1966</field>
+<field name="date">09/1966</field>
+<field name="pages">26</field>
+<field name="keywords">Biology</field>
+<field name="notes">iii; ; 22 x 28 cm.; Note(s): Cover title.; Responsibility: Curriculum Office,
+St. Paul Public Schools.</field>
+<field name="series_title">Saint Paul (Minnesota) Public Schools. Curriculum publication</field>
+<field name="series_vol">309</field>
+<field name="publisher">Saint Paul (Minnesota) Public Schools</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">570 .S15b</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">A guide for teaching general science 3</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">153</field>
+<field name="keywords">Science</field>
+<field name="keywords">Biology</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .S19g v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego (California) City Schools</field>
+<field name="title">Supplement to A guide for teaching general science 3</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">100</field>
+<field name="keywords">Science</field>
+<field name="keywords">Biology</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .S19g v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Seattle (Washington) Public Schools</field>
+<field name="title">Production through reproduction: genetics</field>
+<field name="year">1964</field>
+<field name="date">09/1964</field>
+<field name="pages">48</field>
+<field name="keywords">Genetics</field>
+<field name="publisher">Seattle (Washington) Public Schools</field>
+<field name="pub_place">Seattle, WA</field>
+<field name="language">English</field>
+<field name="call_number">570 .S44p</field>
+<field name="state_country">Washington</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shawnee-Mission (Kansas) District High Schools</field>
+<field name="title">Unified studies: how do plants and animals grow? 7th required</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Shawnee-Mission (Kansas) District High Schools</field>
+<field name="pub_place">Merriam, KS</field>
+<field name="language">English</field>
+<field name="call_number">570 .S53h</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shawnee-Mission (Kansas) High School District</field>
+<field name="title">Outline of study for the beginning course in biology: book a</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">139</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Shawnee-Mission (Kansas) High School District</field>
+<field name="pub_place">Merriam, KS</field>
+<field name="language">English</field>
+<field name="call_number">570 .S53o v. 1</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shawnee-Mission (Kansas) High School District</field>
+<field name="title">Outline of study for the beginning course in biology: book b</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Shawnee-Mission (Kansas) High School District</field>
+<field name="pub_place">Merriam, KS</field>
+<field name="language">English</field>
+<field name="call_number">570 .S53o v. 2</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shawnee-Mission (Kansas) High School District</field>
+<field name="title">Biology supplement</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">219</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Shawnee-Mission (Kansas) High School District</field>
+<field name="pub_place">Merriam, KS</field>
+<field name="language">English</field>
+<field name="call_number">570 .S53o v. 3</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">South Dakota State Department of Public Instruction</field>
+<field name="title">Course of study bulletin for biology</field>
+<field name="year">1960</field>
+<field name="date">07/1960</field>
+<field name="pages">88</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Biology</field>
+<field name="notes">88 pages ; 23 cm.; Note(s): Cover title: Biology course of study and teachers
+guide for secondary schools.; Other Titles: Biology course of study and teachers guide for secondary
+schools</field>
+<field name="series_title">South Dakota State Department of Public Instruction. Bulletin</field>
+<field name="series_vol">46A</field>
+<field name="publisher">South Dakota State Department of Public Instruction</field>
+<field name="pub_place">Pierre, SD</field>
+<field name="language">English</field>
+<field name="call_number">570 .S72b</field>
+<field name="state_country">South Dakota</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency</field>
+<field name="title">Life science : an activity guide</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">91</field>
+<field name="keywords">Biology</field>
+<field name="keywords">Laboratory manuals</field>
+<field name="notes">vi; ill. ; 28 cm.; Responsibility: Texas Education Agency.</field>
+<field name="series_title">Texas Education Agency. Bulletin</field>
+<field name="series_vol">723</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">570 .T35L</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+<field name="title">Curriculum guide for beginning biology</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">73</field>
+<field name="keywords">Biology</field>
+<field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+<field name="pub_place">Tulsa, OK</field>
+<field name="language">English</field>
+<field name="call_number">570 .T92c</field>
+<field name="state_country">Oklahoma</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Vermont State Department of Education</field>
+<field name="title">Biology curriculum guide : experiments, demonstrations and other activities
+suggested for biology and framework</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">334</field>
+<field name="keywords">Biology</field>
+<field name="notes">iii; ges : illustrations ; 23 cm; Note(s): "The guide has been adapted from the
+Biology Course of Study (1958) abd Biology Handbook (1960) published by the New York State Education
+Department"--Page 2./ Includes bibliographical references (pages 285-286) and index.;
+Responsibility: Vermont State Dept. of Education, Division of Instruction.</field>
+<field name="publisher">Vermont State Department of Education</field>
+<field name="pub_place">Montpelier, VT</field>
+<field name="language">English</field>
+<field name="call_number">570 .V52c</field>
+<field name="state_country">Vermont</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Vessel, Matthew F.</field>
+<field name="author">Wong, Herbert H.</field>
+<field name="title">Prehistoric life</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">13</field>
+<field name="keywords">Paleontology</field>
+<field name="notes">13 p. ill. (some col.) 22 cm.; Responsibility: by Matthew F. Vessel and Herbert
+H. Wong.</field>
+<field name="series_title">Fearon science education series</field>
+<field name="series_vol">M-1</field>
+<field name="publisher">Fearon Publishers</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="language">English</field>
+<field name="call_number">570 .V58p</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Washington State Superintendent of Public Instruction</field>
+<field name="title">Washington State tentative curriculum guide for biology</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">104</field>
+<field name="keywords">Biology</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Cover title: Curriculum guide, biology, high school./
+Bibliography: p. 102-104.; Other Titles: Curriculum guide, biology, high school.</field>
+<field name="publisher">Washington State Superintendent of Public Instruction</field>
+<field name="pub_place">Olympia, WA</field>
+<field name="language">English</field>
+<field name="call_number">570 .W31b</field>
+<field name="state_country">Washington</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Clock, Charles J.</field>
+<field name="corp_author">West Hartford (Connecticut) Public Schools</field>
+<field name="title">An initial assessment of advance placement biology in the 10th and 12th
+grades</field>
+<field name="year">1970</field>
+<field name="date">10/1970</field>
+<field name="pages">8</field>
+<field name="keywords">Biology</field>
+<field name="publisher">West Hartford (Connecticut) Public Schools</field>
+<field name="pub_place">West Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">570 .W51i</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_group">12th grade</field>
+</doc>
+</add>

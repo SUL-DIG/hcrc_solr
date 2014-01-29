@@ -12,7 +12,7 @@
 <field name="language">English</field>
 <field name="call_number">428.2 .S12co</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -27,7 +27,7 @@
 <field name="pub_place">St. Louis, MO</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S13v</field>
-<field name="state_country">Missouri </field>
+<field name="state_country">Missouri</field>
 </doc>
 
 <doc>
@@ -42,7 +42,7 @@ compositions)</field>
 <field name="pub_place">St. Paul, MN</field>
 <field name="language">English</field>
 <field name="call_number">428.2 S14c</field>
-<field name="state_country">Minnesota </field>
+<field name="state_country">Minnesota</field>
 </doc>
 
 <doc>
@@ -85,7 +85,7 @@ Stuart E. Karzen, Josephine M. Kirkland, Kathleen B. Wittgow.</field>
 <field name="pub_place">St. Paul, MN</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S14s</field>
-<field name="state_country">Minnesota </field>
+<field name="state_country">Minnesota</field>
 </doc>
 
 <doc>
@@ -249,7 +249,7 @@ Language Arts Steering Committee. Approved by the Board of Education.</field>
 <field name="date">09/1962</field>
 <field name="keywords">English language</field>
 <field name="abstract">Volume i: kindergarten through grade three; Volume ii: grades four through
-eight </field>
+eight</field>
 <field name="notes">2 v.</field>
 <field name="publisher">San Diego (California) City Schools</field>
 <field name="pub_place">San Diego, CA</field>
@@ -257,7 +257,7 @@ eight </field>
 <field name="call_number">428.2 S194o</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -273,7 +273,7 @@ eight </field>
 <field name="language">English</field>
 <field name="call_number">428.2 S1952L</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -290,7 +290,7 @@ California)</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S1953t</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -372,7 +372,7 @@ Office of Education.</field>
 <field name="call_number">428.2 .S23L</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -434,7 +434,7 @@ English.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S47a v. 1 1961</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -451,7 +451,7 @@ English.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S47a v. 2 1961</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -469,7 +469,7 @@ English.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S47a v. 2 1969</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -486,7 +486,7 @@ English.</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S47a v. 3 1962</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -505,7 +505,7 @@ skills</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S47s</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -524,7 +524,7 @@ al.].</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S53c</field>
 <field name="state_country">Kansas</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -578,7 +578,7 @@ al.].</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S53L v. 4</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -643,7 +643,7 @@ al.].</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S55L v. 1</field>
 <field name="state_country">Wisconsin</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -832,7 +832,7 @@ schools</field>
 <field name="pub_place">Springfield, MO</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S77L</field>
-<field name="state_country">Missouri </field>
+<field name="state_country">Missouri</field>
 </doc>
 
 <doc>
@@ -847,7 +847,7 @@ schools</field>
 <field name="pub_place">Modesto, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S78a</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -863,7 +863,7 @@ schools</field>
 <field name="pub_place">Modesto, CA</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S78a</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -923,7 +923,7 @@ schools</field>
 <field name="publisher">Steck-Vaughn Company</field>
 <field name="pub_place">Austin, TX</field>
 <field name="language">English</field>
-<field name="call_number">428.2 .S81w </field>
+<field name="call_number">428.2 .S81w</field>
 </doc>
 
 <doc>
@@ -939,6 +939,6 @@ schools</field>
 <field name="language">English</field>
 <field name="call_number">428.2 .S89s</field>
 <field name="state_country">Connecticut</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 </add>

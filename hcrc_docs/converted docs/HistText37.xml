@@ -14,7 +14,7 @@
 <field name="language">English</field>
 <field name="call_number">511.6 .N27eL v. 1</field>
 <field name="grade_level_group">Elementary</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -31,7 +31,7 @@ Responsibility: by Mary Potter and Virgil Mallory.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27e </field>
+<field name="call_number">511.6 .N27e</field>
 </doc>
 
 <doc>
@@ -48,7 +48,7 @@ Ransom.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">513 .N27g </field>
+<field name="call_number">513 .N27g</field>
 </doc>
 
 <doc>
@@ -65,7 +65,7 @@ Ransom.</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N27eL v. 2</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -85,7 +85,7 @@ Robert Vollmar, and Philop Peak.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27h v. 4 </field>
+<field name="call_number">511.6 .N27h v. 4</field>
 </doc>
 
 <doc>
@@ -101,10 +101,10 @@ Robert Vollmar, and Philop Peak.</field>
 <field name="series_title">National Council of Teachers of Mathematics. How to series</field>
 <field name="series_vol">5</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
-<field name="pub_place">Washington, DC </field>
+<field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N27h</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -120,7 +120,7 @@ Robert Vollmar, and Philop Peak.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27gu v. 1 </field>
+<field name="call_number">511.6 .N27gu v. 1</field>
 </doc>
 
 <doc>
@@ -136,9 +136,9 @@ Lauren G. Woodby.</field>
 <field name="series_title">National Council of Teachers of Mathematics. How to series</field>
 <field name="series_vol">3</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
-<field name="pub_place">Washington, DC </field>
+<field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">%11.6 .N27gu v. 3 </field>
+<field name="call_number">%11.6 .N27gu v. 3</field>
 </doc>
 
 <doc>
@@ -158,7 +158,7 @@ Olander.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27h v. 1 </field>
+<field name="call_number">511.6 .N27h v. 1</field>
 </doc>
 
 <doc>
@@ -176,7 +176,7 @@ Olander.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27h v. 2 </field>
+<field name="call_number">511.6 .N27h v. 2</field>
 </doc>
 
 <doc>
@@ -191,7 +191,7 @@ Olander.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27gu v. 2 </field>
+<field name="call_number">511.6 .N27gu v. 2</field>
 </doc>
 
 <doc>
@@ -209,7 +209,7 @@ Committee</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N27m</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -224,7 +224,7 @@ Committee</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27pa </field>
+<field name="call_number">511.6 .N27pa</field>
 </doc>
 
 <doc>
@@ -243,7 +243,7 @@ etc.)</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .N27r </field>
+<field name="call_number">511.6 .N27r</field>
 </doc>
 
 <doc>
@@ -262,7 +262,7 @@ Vance. Contributors: Julius H. Hlavaty, Richard S. Pieters [and] Leroy Sachs.</f
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N27p</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -410,7 +410,7 @@ Department</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N53i</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -429,7 +429,7 @@ Development</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N53m v. 1</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -449,7 +449,7 @@ mathematics</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N53g</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -581,7 +581,7 @@ the Bureau of Mathematics Education and the Office of Title 1, ESEA.</field>
 <field name="pub_place">Albany, NY</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .N53ma</field>
-<field name="state_country">New York </field>
+<field name="state_country">New York</field>
 </doc>
 
 <doc>
@@ -695,7 +695,7 @@ the Bureau of Mathematics Education and the Office of Title 1, ESEA.</field>
 <field name="pub_place">Harrisburg, PA</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .P41c</field>
-<field name="state_country">Pennsylvania </field>
+<field name="state_country">Pennsylvania</field>
 </doc>
 
 <doc>
@@ -714,7 +714,7 @@ Hodge, superintendent.</field>
 <field name="publisher">Oklahoma State Department of Education</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .O41i</field>
-<field name="state_country">Oklahoma </field>
+<field name="state_country">Oklahoma</field>
 </doc>
 
 <doc>
@@ -730,7 +730,7 @@ Hodge, superintendent.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .O42i</field>
 <field name="state_country">Oklahoma</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -748,7 +748,7 @@ Technical Personnel</field>
 <field name="pub_place">Paris, France</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .O67s</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -945,7 +945,7 @@ Schools.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .P54s v. 2</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -965,7 +965,7 @@ Office, Philadelphia Public Schools.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .P54s v. 1</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1002,7 +1002,7 @@ Schools.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .P54s v. 3</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1036,7 +1036,7 @@ mathematics program</field>
 <field name="pub_place">Portland, OR</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .P85g v. 2</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -1052,7 +1052,7 @@ mathematics program</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .P85g v. 3</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1075,7 +1075,7 @@ Hoel, Lloyd B. Williams.</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .P85m</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1182,7 +1182,7 @@ ideas for teachers</field>
 <field name="pub_place">London, UK</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .S37c</field>
-<field name="state_country">United Kingdom </field>
+<field name="state_country">United Kingdom</field>
 </doc>
 
 <doc>
@@ -1200,7 +1200,7 @@ Carolina Education Association.</field>
 <field name="pub_place">Columbia, SC</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .S72m</field>
-<field name="state_country">South Carolina </field>
+<field name="state_country">South Carolina</field>
 </doc>
 
 <doc>
@@ -1267,7 +1267,7 @@ Universities."</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .T35f</field>
 <field name="state_country">Texas</field>
-<field name="grade_level_group">Postsecondary </field>
+<field name="grade_level_group">Postsecondary</field>
 </doc>
 
 <doc>
@@ -1301,7 +1301,7 @@ bibliographical references.; Responsibility: prepared by Juanita Anderson ... [e
 <field name="publisher">U.S. Government Printing Office</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">511.6 .U59t </field>
+<field name="call_number">511.6 .U59t</field>
 </doc>
 
 <doc>
@@ -1394,7 +1394,7 @@ Mathematics of the State Offcie of Public Instruction."</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .W31g</field>
 <field name="state_country">Washington</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1428,7 +1428,7 @@ Mathematics of the State Offcie of Public Instruction."</field>
 <field name="publisher">West Virginia State Department of Education</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .W51m</field>
-<field name="state_country">West Virginia </field>
+<field name="state_country">West Virginia</field>
 </doc>
 
 <doc>
@@ -1463,7 +1463,7 @@ Mathematics of the State Offcie of Public Instruction."</field>
 <field name="pub_place">Wyandotte, MI</field>
 <field name="language">English</field>
 <field name="call_number">511.6 .W97m</field>
-<field name="state_country">Michigan </field>
+<field name="state_country">Michigan</field>
 </doc>
 
 <doc>
@@ -1501,7 +1501,7 @@ algebra students</field>
 <field name="pub_place">Princeton, NJ</field>
 <field name="language">English</field>
 <field name="call_number">512 .C68c</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1569,7 +1569,7 @@ pupils</field>
 <field name="pub_place">Fort Worth, TX</field>
 <field name="language">English</field>
 <field name="call_number">512 .F73a</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1588,7 +1588,7 @@ Services.</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="language">English</field>
 <field name="call_number">512 .L87a v. 2</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1607,7 +1607,7 @@ Services.</field>
 <field name="language">English</field>
 <field name="call_number">512 .L87a v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1622,7 +1622,7 @@ Services.</field>
 <field name="publisher">Creative Publications</field>
 <field name="pub_place">Palo Alto, CA</field>
 <field name="language">English</field>
-<field name="call_number">513 .C91g </field>
+<field name="call_number">513 .C91g</field>
 </doc>
 
 <doc>
@@ -1663,7 +1663,7 @@ Teaching Committee of the Mathematical Association, and adopted by the Teaching 
 <field name="pub_place">London, UK</field>
 <field name="language">English</field>
 <field name="call_number">512 .M42t</field>
-<field name="state_country">United Kingdom </field>
+<field name="state_country">United Kingdom</field>
 </doc>
 
 <doc>
@@ -1679,7 +1679,7 @@ Teaching Committee of the Mathematical Association, and adopted by the Teaching 
 <field name="language">English</field>
 <field name="call_number">512 .O11a 1958</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1695,7 +1695,7 @@ Teaching Committee of the Mathematical Association, and adopted by the Teaching 
 <field name="language">English</field>
 <field name="call_number">512 .O11a 1962</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1711,7 +1711,7 @@ Teaching Committee of the Mathematical Association, and adopted by the Teaching 
 <field name="language">English</field>
 <field name="call_number">512 .O11at</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1727,7 +1727,7 @@ Teaching Committee of the Mathematical Association, and adopted by the Teaching 
 <field name="language">English</field>
 <field name="call_number">512 .O11at</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1761,7 +1761,7 @@ algebra</field>
 <field name="call_number">512 .S12c</field>
 <field name="state_country">California</field>
 <field name="grade_level_group">Middle school</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1776,7 +1776,7 @@ algebra</field>
 <field name="pub_place">Tyler, TX</field>
 <field name="language">English</field>
 <field name="call_number">512 .T98c v. 1</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>
@@ -1791,7 +1791,7 @@ algebra</field>
 <field name="pub_place">Tyler, TX</field>
 <field name="language">English</field>
 <field name="call_number">512 .T98c v. 2</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1808,7 +1808,7 @@ geometry exhibition at the Museum of Science and Industry</field>
 <field name="publisher">Karl Menger</field>
 <field name="pub_place">Chicago, IL</field>
 <field name="language">English</field>
-<field name="call_number">513 .I29y </field>
+<field name="call_number">513 .I29y</field>
 </doc>
 
 <doc>
@@ -1855,7 +1855,7 @@ Marion I. Walter.</field>
 <field name="publisher">National Council of Teachers of Mathematics</field>
 <field name="pub_place">Washington, DC</field>
 <field name="language">English</field>
-<field name="call_number">513 .N27b </field>
+<field name="call_number">513 .N27b</field>
 </doc>
 
 <doc>
@@ -1871,7 +1871,7 @@ Marion I. Walter.</field>
 <field name="language">English</field>
 <field name="call_number">513 .O11g</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -1886,7 +1886,7 @@ Marion I. Walter.</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="language">English</field>
 <field name="call_number">513.1 .P54p</field>
-<field name="state_country">Pennsylvania </field>
+<field name="state_country">Pennsylvania</field>
 </doc>
 
 <doc>
@@ -1902,7 +1902,7 @@ year combined course (tentative)</field>
 <field name="pub_place">Philadelphia, PA</field>
 <field name="language">English</field>
 <field name="call_number">513.1 .P54p 1960 supp.</field>
-<field name="state_country">Pennsylvania </field>
+<field name="state_country">Pennsylvania</field>
 </doc>
 
 <doc>
@@ -1938,7 +1938,7 @@ trigonometry, and calculus</field>
 <field name="keywords">Calculus</field>
 <field name="notes">Ed. 343</field>
 <field name="language">English</field>
-<field name="call_number">513 .S78t </field>
+<field name="call_number">513 .S78t</field>
 </doc>
 
 <doc>
@@ -1961,7 +1961,7 @@ trigonometry, and calculus</field>
 <field name="publisher">Wesleyan University</field>
 <field name="pub_place">Middletown, CT</field>
 <field name="language">English</field>
-<field name="call_number">513 .W51m </field>
+<field name="call_number">513 .W51m</field>
 </doc>
 
 <doc>
@@ -1993,7 +1993,7 @@ trigonometry, and calculus</field>
 <field name="language">English</field>
 <field name="call_number">513.3 .O11s</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -2009,7 +2009,7 @@ trigonometry, and calculus</field>
 <field name="language">English</field>
 <field name="call_number">513.3 .O11t</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -2025,7 +2025,7 @@ trigonometry, and calculus</field>
 <field name="language">English</field>
 <field name="call_number">514 .P54p</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -2043,6 +2043,6 @@ calculus, grade 12</field>
 <field name="language">English</field>
 <field name="call_number">516 .B87c</field>
 <field name="state_country">Massachusetts</field>
-<field name="grade_level_number">12 </field>
+<field name="grade_level_number">12</field>
 </doc>
 </add>

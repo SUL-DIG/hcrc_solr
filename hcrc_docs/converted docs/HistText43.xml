@@ -12,7 +12,7 @@
 <field name="language">English</field>
 <field name="call_number">519 .P179e v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -216,7 +216,7 @@ six</field>
 <field name="language">English</field>
 <field name="call_number">519 .P27e</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -231,7 +231,7 @@ six</field>
 <field name="pub_place">Pasadena, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .P27p</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -248,7 +248,7 @@ six</field>
 <field name="language">English</field>
 <field name="call_number">519 .P41e</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -290,7 +290,7 @@ Education, Pennsylvania Department of Education.</field>
 <field name="language">English</field>
 <field name="call_number">519 .P41s</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -305,7 +305,7 @@ Education, Pennsylvania Department of Education.</field>
 <field name="pub_place">Harrisburg, PA</field>
 <field name="language">English</field>
 <field name="call_number">519 .P41t</field>
-<field name="state_country">Pennsylvania </field>
+<field name="state_country">Pennsylvania</field>
 </doc>
 
 <doc>
@@ -320,7 +320,7 @@ Education, Pennsylvania Department of Education.</field>
 <field name="language">English</field>
 <field name="call_number">519 .P54e</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -353,7 +353,7 @@ Education, Pennsylvania Department of Education.</field>
 <field name="language">English</field>
 <field name="call_number">519 .P54sc 1964-66 v. 1</field>
 <field name="state_country">Pennsylvania</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -386,7 +386,7 @@ Education, Pennsylvania Department of Education.</field>
 <field name="publisher">Educational Services Incorporated</field>
 <field name="pub_place">Watertown, MA</field>
 <field name="language">English</field>
-<field name="call_number">519 .P58t </field>
+<field name="call_number">519 .P58t</field>
 </doc>
 
 <doc>
@@ -420,7 +420,7 @@ Education, Pennsylvania Department of Education.</field>
 <field name="pub_place">Pomona, CA</field>
 <field name="language">English</field>
 <field name="call_number">519 .P78s</field>
-<field name="state_country">California </field>
+<field name="state_country">California</field>
 </doc>
 
 <doc>
@@ -430,7 +430,7 @@ Education, Pennsylvania Department of Education.</field>
 <field name="year">1945</field>
 <field name="date">1945</field>
 <field name="pages">39</field>
-<field name="keywords">Science </field>
+<field name="keywords">Science</field>
 <field name="notes">ill. cm.; Note(s): At head of title: School district of Philadelphia./ "Readings
 in science for the elementary school teacher": p. 36-39.</field>
 <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
@@ -438,7 +438,7 @@ in science for the elementary school teacher": p. 36-39.</field>
 <field name="language">English</field>
 <field name="call_number">519 .P54s</field>
 <field name="state_country">Philadelphia</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -525,7 +525,7 @@ three</field>
 <field name="pub_place">Portland, OR</field>
 <field name="language">English</field>
 <field name="call_number">519 .P85a</field>
-<field name="state_country">Oregon </field>
+<field name="state_country">Oregon</field>
 </doc>
 
 <doc>
@@ -542,7 +542,7 @@ Portland, Oregon</field>
 <field name="language">English</field>
 <field name="call_number">519 .P85se</field>
 <field name="state_country">Oregon</field>
-<field name="grade_level_group">High school </field>
+<field name="grade_level_group">High school</field>
 </doc>
 
 <doc>
@@ -574,7 +574,7 @@ secondary teachers)</field>
 <field name="language">English</field>
 <field name="call_number">519 .P86s v. 1</field>
 <field name="state_country">Virginia</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -627,7 +627,7 @@ Central School District No. 2.</field>
 <field name="language">English</field>
 <field name="call_number">519 .R17p</field>
 <field name="state_country">New York</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -720,7 +720,7 @@ Council of California Science Teacher Organizations</field>
 <field name="language">English</field>
 <field name="call_number">519 .R68k</field>
 <field name="state_country">Illinois</field>
-<field name="grade_level_number">Kindergarten </field>
+<field name="grade_level_number">Kindergarten</field>
 </doc>
 
 <doc>
@@ -907,7 +907,7 @@ Council of California Science Teacher Organizations</field>
 <field name="language">English</field>
 <field name="call_number">519 .S12c v. 1</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Elementary </field>
+<field name="grade_level_group">Elementary</field>
 </doc>
 
 <doc>
@@ -923,7 +923,7 @@ Council of California Science Teacher Organizations</field>
 <field name="language">English</field>
 <field name="call_number">519 .S12c v. 2</field>
 <field name="state_country">California</field>
-<field name="grade_level_group">Middle school </field>
+<field name="grade_level_group">Middle school</field>
 </doc>
 
 <doc>

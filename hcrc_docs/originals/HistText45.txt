@@ -1,0 +1,1842 @@
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Final report of the junior college workshops in astronomy
+Y1  - 1961
+D1  - 06/1961
+SP  - 15
+KW  - Astronomy
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 520 .C15a
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Jefferson County (Colorado) School District
+T1  - Astro-geo science
+KW  - Astronomy
+N1  - 2 v. ; V. 2 is student guide
+PB  - Jefferson County (Colorado) School District
+LA  - English
+CN  - 520 .J45a v. 1-2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Science: grades K-6. Earth in Space
+Y1  - 1959
+D1  - 1959
+SP  - 55
+KW  - Astronomy
+AB  - Science: grades K-6. Earth in Space. New York (N.Y.). Board of Education. 1959 English Book Board of Ed. NYC,
+N1  - Other Titles: Earth in Space 
+PB  - New York (New York) Board of Education
+CY  - New York
+LA  - English
+CN  - 520 .N531e
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Schmidt, Victor E.
+A2  - New York State Education Department. Bureau of Elementary Curriculum Development
+T1  - Science for children : area 6, energy from the sun ; area 8, earth and sky
+Y1  - 1959
+D1  - 1959
+SP  - 27
+KW  - Science
+KW  - Astronomy
+N1  - ill. ; 23 cm.; Other Titles: Energy from the sun; Earth and sky; Responsibility: Victor E. Schmidt.
+PB  - New York State Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 520 .N53en
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Exploring space : a resource unit for a course in physical science
+Y1  - 1957
+D1  - 1957
+SP  - 94
+KW  - Astronomy
+KW  - Physics
+AB  - Preteaching checklist -- The earth's atmosphere -- Exploring space from the earth -- Exploring outer space -- Equipment and supplies -- Films.
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 93-94).
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 520 .N53e
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Unified School District
+T1  - Rotary Chabot Planetarium : manual for teachers and classes
+Y1  - 1964
+D1  - 09/1964
+SP  - 31
+KW  - Astronomy
+KW  - Astronomical observatories
+N1  - vi; ill., maps ; 28 cm.; Note(s): A guide written by the school district intended to assist teachers with teaching students about celestial objects and, in particular, to teach about the Chabot Science Center facility founded by Oakland resident Anthony Chabot.; Responsibility: [Oakland Unified School District].
+ED  - 1st
+PB  - Oakland (California) Unified School District
+CY  - Oakland, CA
+LA  - English
+CN  - 520 .O11r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: astronomy, grade two
+Y1  - 1961
+D1  - 09/1961
+SP  - 11
+KW  - Astronomy
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 520 .R12a v. 1
+SC  - Wisconsin
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: the sun, moon, earth, grade four
+Y1  - 1961
+D1  - 09/1961
+SP  - 22
+KW  - Astronomy
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 520 .R12a v. 2
+SC  - Wisconsin
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: astronomy, grade six
+Y1  - 1961
+D1  - 09/1961
+SP  - 11
+KW  - Astronomy
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 520 .R12a v. 3
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Jones, Esther
+A2  - Shorewood (Wisconsin) Public Schools
+T1  - Science instruction in the elementary school: what is in the sky?, grade 2
+KW  - Astronomy
+T2  - Shorewood Public Schools. Instructional bulletin
+PB  - Shorewood (Wisconsin) Public Schools
+CY  - Shorewood, WI
+LA  - English
+CN  - 520 .S55w
+SC  - Wisconsin
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - A Study of weather and the seasons : grade 1
+Y1  - 1960
+D1  - 03/1960
+SP  - 38
+KW  - Weather
+N1  - ill., music ; 28 cm.; Note(s): Work draft./ Includes bibliographical references (p. 38).; Responsibility: Chula Vista City School District.
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 521.2 .C55s
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Teaching science in the elementary school: weather, a resource unit for primary, intermediate and upper grades
+Y1  - 1957
+D1  - 1957
+KW  - Weather
+ED  - Revised
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 521.2 .M65w
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Geer, Ira W.
+A2  - National School Weather Project
+T1  - Weather study : a guide for conducting a school weather study utilizing televised weather maps
+Y1  - 1975
+D1  - 1975
+SP  - 14
+KW  - Weather forecasting
+KW  - Meteorology
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 10-12).; Responsibility: Ira. W. Geer, Director, National School Weather Project, State University of New York, Brockport.
+PB  - Research Foundation of the State University of New York
+CY  - Brockport, NY
+LA  - English
+CN  - 521.2 .N533w
+ER  - 
+
+TY  - BOOK
+A1  - Vessel, Matthew F.
+T1  - What is space?
+Y1  - 1959
+D1  - 1959
+SP  - 14
+KW  - Space and time
+N1  - 14 p. illus. 22 cm.; Responsibility: By Matthew F. Vessel and Herbert H. Wong.
+T2  - Fearon science education series 
+V1  - P-1
+PB  - Fearon Publishers
+CY  - San Francisco, CA
+LA  - English
+CN  - 520 .V58w
+ER  - 
+
+TY  - BOOK
+A1  - Amundsen, Hildure L.
+A2  - Portland (Oregon) Public Schools
+T1  - To what extent is weather controllable?: a unit for teachers in secondary schools in general science, ninth grade level
+SP  - 31
+KW  - Weather
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 521.2 .P85t
+SC  - Oregon
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: air and weather, grade one
+Y1  - 1961
+D1  - 09/1961
+SP  - 12
+KW  - Weather
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 521.2 .R12a v. 1
+SC  - Wisconsin
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: air and weather, grade three
+Y1  - 1961
+D1  - 09/1961
+SP  - 23
+KW  - Weather
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 521.2 .R12a v. 2
+SC  - Wisconsin
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: air and weather, grade five
+Y1  - 1961
+D1  - 09/1961
+SP  - 17
+KW  - Weather
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 521.2 .R12a v. 3
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Aviation Education
+T1  - Our air age; a general high school course on aviation
+Y1  - 1947-1948
+KW  - Aeronautics
+AB  - unit 1. Community problems and aviation.--unit 2. Aircraft structures and problems of flight.--unit 3. Navigation and meteorology for air world geography.--unit 4. Vocational problems and aviation.--unit 5. National and international aspects of aviation.
+N1  - 5 v. 28 cm.; Note(s): Includes bibliographies.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 521.9 .C14o v. 1-5
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Sams, W. Earl
+A2  - California State Department of Education. Bureau of Secondary Education
+T1  - Aviation education and the space age; a guide for teachers
+Y1  - 1958
+D1  - 05/1958
+KW  - Aeronautics
+SP  - 67
+N1  - xi, 66 [1] p. ill.; Note(s): Bibliography: p. 64-[67].; Responsibility: prepared by W. Earl Sams, consultant in secondary education, Bureau of Secondary Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 521.9 .C14a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, Harlan L.
+A2  - San Diego (California) City Schools
+T1  - Guide to weather and climate of San Diego
+Y1  - 1959
+D1  - 1959
+SP  - 145
+KW  - Weather
+N1  - vi; 22 x 27 cm.; Responsibility: Prepared by Harlan L. Wilson.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 521.2 .S19g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) District High Schools
+T1  - How does weather affect us? 7th grade optional
+Y1  - 1959
+D1  - 1959
+SP  - 15
+KW  - Weather
+PB  - Shawnee-Mission (Kansas) District High Schools
+CY  - Merriam, KS
+LA  - English
+CN  - 521.2 .S53h
+SC  - Kansas
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Tangley Oaks Education Center, Lake Bluff, Illinois
+T1  - Weather unit developed at Tangley Oaks Laboratory School
+KW  - Weather
+PB  - Tangley Oaks Education Center
+CY  - Lake Bluff, IL
+LA  - English
+CN  - 521.2 .T16w
+SC  - Illinois
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - American Association of School Administrators. Aviation Education Committee
+T1  - Aviation education in the schools
+Y1  - 1956
+D1  - 1956
+KW  - Aeronautics
+PB  - National Aviation Education Council
+CY  - Washington, DC
+LA  - English
+CN  - 521.9 .A51a
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Report of the California aviation education workshops, summer 1953
+Y1  - 1954
+D1  - 1954
+SP  - 75
+KW  - Aeronautics
+N1  - 75 pages : illustrations; Other Titles: California aviation education workshops
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 521.9 .C14r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Freed, Nettie S.
+A2  - Colorado State Department of Education
+T1  - Colorado youth looks to the skies : a curriculum guide for air age education in the schools of Colorado
+Y1  - 1949
+D1  - 04/1949
+SP  - 77
+KW  - Aeronautics
+N1  - 77 pages : illustrations ; 28 cm; Note(s): Includes bibliographical references.; Responsibility: Nettie S. Freed, State Dept. of Education.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 521.9 .C71c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Airplanes and airports : a unit of work for second grade social studies
+Y1  - 1969
+D1  - 1969
+SP  - 112
+KW  - Social sciences
+KW  - Airplanes
+KW  - Airports
+N1  - ill. ; 22 x 27 cm.
+PB  - Long Beach Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 521.9 .L84a
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Miller, Robert Bruce
+T1  - Space horizons unlimited : with classroom trip to the moon
+Y1  - 1957
+D1  - 1957
+SP  - 30
+KW  - Interplanetary voyages
+N1  - ill. ; 22 cm.; Responsibility: by Bruce Miller.
+PB  - Bruce Miller
+CY  - Riverside, CA
+LA  - English
+CN  - 521.9 .M64s
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Division of Resources and Development. Aviation section
+T1  - Air age handbook for teachers in Missouri public schools
+Y1  - 1950
+D1  - 1950?
+KW  - Aeronautics
+N1  - 28 p. ill. 28 cm.; Note(s): Cover title.
+PB  - Missouri State Division of Resources and Development
+CY  - Kansas City, MO
+LA  - English
+CN  - 521.9 .M678a v. 2
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+A2  - Missouri Committee on Aviation Education
+T1  - Air age education in Missouri public schools : programs recommended for elementary schools, secondary schools and colleges
+Y1  - 1945
+D1  - 1945
+SP  - 53
+KW  - Aeronautics
+N1  - 53 pages : illustrations ; 23 cm; Note(s): Includes bibliographical references (pages 34-47).; Responsibility: by the Missouri Committee on Aviation Education.
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 521.9 .M678a v. 1
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A1  - Moore, Meta
+A2  - Mississippi Aeronautics Commission
+T1  - Air age education in Mississippi
+Y1  - 1954
+D1  - 1954
+SP  - 133
+KW  - Aeronautics
+N1  - 133 p. illus.; Responsibility: Illustrated by Dorothy N. Simmons and Ruth Oridge. Approved by State Department of Education.
+PB  - Mississippi Aeronautics Commission
+CY  - Jackson, MS
+LA  - English
+CN  - 521.9 .M67a
+SC  - Mississippi
+ER  - 
+
+TY  - BOOK
+A2  - National Aerospace Education Council (U.S.). Planning and Advisory Board. Materials of Instruction Production Program
+T1  - Look to the sky : a picture book of aviation for boys and girls with questions to discuss with the children and concepts to be developed by the teacher
+Y1  - 1953
+D1  - 08/1953
+SP  - 32
+KW  - Airplanes
+KW  - Juvenile literature
+KW  - Aeronautics
+N1  - ill. ; 22 x 28 cm.; Responsibility: prepared ... by the members of the 1953 Production Conference of the NAEC Planning and Advisory Board's Materials of Instruction Production Program: Elsie Allen ... [et al.] ; edited by the Planning and Advisory Board and its Evaluation Committee: Abbott Bucher ... [et al.].
+T2  - Aviation education
+PB  - National Aerospace Education Council
+CY  - Washington, DC
+LA  - English
+CN  - 521.9 .N27L
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Marshall, Jane N.
+A2  - National Aviation Education Council (U.S.)
+T1  - Free and inexpensive pictures, pamphlets and packets for air/space age education
+Y1  - 1958
+D1  - 09/1958
+SP  - 16
+KW  - Astronautics
+KW  - Bibliography
+PB  - National Aviation Education Council
+CY  - Washington, D.C
+LA  - English
+CN  - 521.9 .N27f
+ER  - 
+
+TY  - BOOK
+A1  - Marshall, Jane N.
+A2  - National Aviation Education Council (U.S.)
+T1  - Free and inexpensive pictures, pamphlets and packets for air/space age education
+Y1  - 1961
+D1  - 12/1961
+SP  - 35
+KW  - Astronautics
+KW  - Bibliography
+ED  - Fourth
+PB  - National Aviation Education Council
+CY  - Washington, D.C
+LA  - English
+CN  - 521.9 .N27f ed. 4
+ER  - 
+
+TY  - BOOK
+A1  - Marshall, Jane N.
+A2  - National Aerospace Education Council (U.S.)
+T1  - Aviation education bibliography (Elementary school)
+Y1  - 1959
+D1  - 11/1959
+KW  - Aeronautics
+KW  - Juvenile literature
+KW  - Bibliography
+N1  - 34 p. ill.
+ED  - 3d ed.
+PB  - National Aerospace Education Council
+CY  - Washington, DC
+LA  - English
+CN  - 521.9 .N27av 1959
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - National Aerospace Education Council (U.S.). Materials of Instruction Committee
+T1  - Aviation education bibliography (elementary school)
+Y1  - 1957
+D1  - 12/1957
+SP  - 19
+KW  - Aeronautics
+KW  - Bibliography
+N1  - 19 p. ill. 28 cm.
+ED  - Rev. ed., and including a new supplementary section "Air age teaching aids"
+PB  - National Aerospace Education Council
+CY  - Washington, DC
+LA  - English
+CN  - 521.9 .N27av
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - United States. National Aeronautics and Space Administration
+A2  - National Aerospace Education Council
+T1  - A bibliography of aerospace books and teaching aids for secondary school students and teachers
+Y1  - 1961
+D1  - 1961
+SP  - 41
+KW  - Aeronautics
+KW  - Bibliography
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 521.9 .N27b
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Aviation mechanics for vocational high schools
+Y1  - 1960
+D1  - 1960
+SP  - 133
+KW  - Airplane maintenance and repair
+N1  - 133 p. ill. 23 cm.; Note(s): Includes bibliographical references.
+T2  - New York (New York) Board of Education. Curriculum bulletin.; 1957-58 ser.
+V1  - 5
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 521.9 .N53a
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-visual Service
+T1  - Aeronautics
+Y1  - 1953
+D1  - 09/1953
+SP  - 10
+KW  - Aeronautics
+PB  - Pasadena (California) City Schools. Audio-visual Service
+CY  - Pasadena, CA
+LA  - English
+CN  - 521.9 .P27a
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - Elementary science: space travel
+Y1  - 1959
+D1  - 09/1959
+SP  - 61
+KW  - Aeronautics
+PB  - Richmond (California) Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 521.9 .R53s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Albert Valentine
+A2  - South Carolina Aeronautics Commission
+T1  - Air age education in South Carolina
+Y1  - 1954
+D1  - 1954
+SP  - 126
+KW  - Aeronautics
+N1  - iv; illus. 23 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by A.V. Thomas, director aviation education.
+PB  - South Carolina Aeronautics Commission
+CY  - Columbia, SC
+LA  - English
+CN  - 521.9 .S71a
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Koepke, Charles A.
+A1  - Harrell, Roger
+A2  - Stanislaus County (California) Schools
+A2  - Modesto (California) City Schools
+T1  - The flight of man: a resource unit of physical science
+Y1  - 1961
+D1  - 1961
+SP  - 74
+KW  - Aeronautics
+PB  - Stanislaus County (California) Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 521.9 .S78f
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+T1  - Flying is for the birds
+SP  - 14
+KW  - Aeronautics
+N1  - Unit for Education 296b
+LA  - English
+CN  - 521.9 .S781f
+ER  - 
+
+TY  - BOOK
+A1  - Sheedy, Rosalie
+A1  - Thomson, Margaret
+A1  - Johnson, Carl
+A1  - Nicholas, Charice
+A1  - Lovich, Martha
+T1  - Man in space
+Y1  - 1962
+D1  - Summer, 1962
+KW  - Aeronautics
+PB  - Stanford University, School of Education
+CY  - Stanford, CA
+LA  - English
+CN  - 521.9 .S781m
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+A2  - Vermont Aeronautics Commission
+T1  - Aviation education
+Y1  - 1951
+D1  - 07/1951
+SP  - 57
+KW  - Aeronautics
+N1  - 57 p. ; cm;
+PB  - Vermont State Department of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 521.9 .V52a
+ER  - 
+
+TY  - BOOK
+A1  - Vessel, Matthew F.
+A1  - Wong, Herbert
+T1  - Journey into space
+Y1  - 1959
+D1  - 1959
+SP  - 14
+KW  - Science
+KW  - Space flight
+N1  - 14 p. illus. 22 cm.; Responsibility: by Matthew F. Vessel and Herbert H. Wong.
+T2  - Fearon science education series
+V1  - P-2
+PB  - Fearon Publishers
+CY  - San Francisco, CA
+LA  - English
+CN  - 521.9 .V58j
+ER  - 
+
+TY  - BOOK
+A2  - Miami University (Oxford, Ohio)
+A2  - National Aviation Education Workshop
+T1  - Aviation education: a selected and annotated bibliography
+Y1  - 1957
+D1  - 1957
+SP  - 35
+KW  - Aeronautics
+KW  - Bibliography
+PB  - National Aviation Education Workshop
+CY  - Washington, DC
+LA  - English
+CN  - 521.9 .U59a
+ER  - 
+
+TY  - BOOK
+A2  - Auburn University
+A2  - Alabama Educational Television Network
+T1  - Program guide for high school physics, 1960-61 over channels 2-7-10
+Y1  - 1960
+D1  - 1960-1961
+KW  - Physics
+PB  - Auburn University
+CY  - Auburn, AL
+LA  - English
+CN  - 530 .A31p
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Beloit (Wisconsin) Public Schools
+T1  - Physics secondary PSSC
+Y1  - 1964
+D1  - 08/1964
+SP  - 15
+KW  - Physics
+T2  - Beloit (Wisconsin) Public Schools. Bulletin
+V1  - 73
+PB  - Beloit (Wisconsin) Public Schools
+CY  - Beloit, WI
+LA  - English
+CN  - 530 .B45p
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hollingworth, Leland G
+A1  - Lowe, Carroll H
+A1  - Wells, E. Montgomery
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in physics, grade 12
+Y1  - 1954
+D1  - 07/1954
+SP  - 86
+KW  - Physics
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 530 .B87c
+SC  - Massachusetts
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Final report of the junior college workshops in physics
+Y1  - 1961
+D1  - 06/1961
+SP  - 21
+KW  - Physics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 530 .C15p
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Engelhart, Max D.
+A1  - Schwachtgen, Edward C.
+A1  - Nee, Mary M.
+T1  - The Chicago public schools television instruction experiment in high school physics
+SP  - 9
+KW  - Physics
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 530 .C53c
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) City Board of Education
+T1  - Supplement to teaching guide for science: physics for the secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 341
+KW  - Physics
+PB  - Chicago (Illinois) City Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 530 .C53p
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Technical physics central high school, grade 12
+Y1  - 1962
+D1  - 1962
+SP  - 79
+KW  - Physics
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 257
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 530 .C57t
+SC  - Ohio
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Applied physics for high schools
+Y1  - 1952
+D1  - 1952-1953
+SP  - 143
+KW  - Physics
+N1  - 143 p. ill. 23 cm.; Note(s): Includes bibliographical references.
+T2  - New York (New York) Board of Education. Curriculum bulletin,; 1952-53 ser.
+V1  - 11
+PB  - New York (New York) Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 530 .N52a
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Office of Curriculum
+T1  - College preparatory physics : (tentative)
+Y1  - 1961
+D1  - 1961
+SP  - 64
+KW  - Physics
+N1  - 64 p. ; 28 cm.; Responsibility: School District of Philadelphia, Office of Curriculum.
+PB  - Philadelphia (Pennsylvania) School District. Office of Curriculum
+CY  - Philadelphia, PA
+LA  - English
+CN  - 530 .P54c
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modern Learning Aids
+T1  - Unique teaching films for physics now available to all schools
+KW  - Physics
+KW  - Motion pictures in education
+PB  - Modern Learning Aids
+CY  - New York, NY
+LA  - English
+CN  - 530 .P58p
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Curriculum guide for physics
+Y1  - 1962
+D1  - 1962
+SP  - 175
+KW  - Physics
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 530 .T92c
+SC  - Oklahoma
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - Physics curriculum guide
+Y1  - 1961
+D1  - 1961
+SP  - 278
+KW  - Physics
+PB  - Vermont State Department of Education
+LA  - English
+CN  - 530 .V52p
+SC  - Vermont
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Washington State tentative curriculum guide for physics : high school, 1960
+Y1  - 1960
+D1  - 1960
+SP  - 88
+KW  - Physics
+N1  - ill. ; 28 cm.; Note(s): Cover title: Curriculum guide, high school physics./ Includes bibliographical references.; Other Titles: Curriculum guide, high school physics
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 530 .W31p v. 1
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Physics handbook
+Y1  - 1960
+D1  - 1960
+SP  - 245
+KW  - Physics
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 530 .W31p v. 2
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Physics Film Research Committee
+A2  - Wisconsin Physics Film Research Project
+T1  - Pupils' study guide: physics film evaluation project
+SP  - 165
+N1  - For use with the Encyclopaedia Britannica film course physics taught by Dr. Harvey White
+KW  - Physics
+PB  - University of Wisconsin. University Extension Division. School of Education
+LA  - English
+CN  - 530 .W81p v. 1
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Wisconsin Physics Film Research Committee
+A2  - Wisconsin Physics Film Research Project
+T1  - Teachers' manual: physics film evaluation project
+SP  - 100
+N1  - For use with the Encyclopaedia Britannica film course physics taught by Dr. Harvey White
+KW  - Physics
+PB  - University of Wisconsin. University Extension Division. School of Education
+LA  - English
+CN  - 530 .W81p v. 2
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Science in action: force, energy and power
+Y1  - 1962
+D1  - 1962
+SP  - 26
+KW  - Physics
+ED  - Experimental
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 531 .P41f
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Energy
+Y1  - 1956
+D1  - 1956
+KW  - Physics
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 531 .W24e
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - West Hartford (Connecticut) Public Schools
+T1  - Energy, grades 1-6
+Y1  - 1962
+D1  - 1962
+SP  - 50
+KW  - Physics
+PB  - West Hartford (Connecticut) Public Schools
+CY  - West Hartford, CT
+LA  - English
+CN  - 531 .W52s
+SC  - Connecticut
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education. Division of Elementary Schools
+T1  - Science, grades K-6: 4. Sound and light in communication
+Y1  - 1958
+D1  - 1958-59
+KW  - Sound
+KW  - Light
+T2  - New York City Board of Education. Curriculum bulletin (New York, N.Y.). 1958-1959 series
+V1  - 2
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 534 .N53s
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - Elementary school science : air
+Y1  - 1956
+D1  - 09/1956
+SP  - 26
+KW  - Air
+N1  - xi; ill. ; 22 x 28 cm.; Note(s): Cover title./ "A comprehensive science unit for the Richmond Elementary Schools."/ "Committee: Margaret O'Brien, Barbara Silvis, Charles Coulter."/ "September, 1956."/ Includes bibliographical references (p. 25).; Other Titles: Air; Responsibility: Richmond Public Schools.
+PB  - Richmond Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 533 .R53a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: sound, grade two
+Y1  - 1961
+D1  - 09/1961
+SP  - 7
+KW  - Sound
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 534 .R12s v. 1
+SC  - Wisconsin
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: sound, grade four
+Y1  - 1961
+D1  - 09/1961
+SP  - 5
+KW  - Sound
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 534 .R12s v. 2
+SC  - Wisconsin
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: sound and hearing, grade six
+Y1  - 1961
+D1  - 09/1961
+SP  - 13
+KW  - Sound
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 534 .R12s v. 3
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - Elementary school science : sound
+Y1  - 1956
+D1  - 09/1956
+SP  - 14
+KW  - Sound
+PB  - Richmond Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 534 .R53s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - A teaching guide on sound
+Y1  - 1956
+D1  - 1956
+SP  - 9
+KW  - Sound
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 534 .W24t
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Course for optical technicians, a workbook for apprentice optical technicians
+Y1  - 1952
+D1  - 1952
+SP  - 91
+KW  - Lenses
+KW  - Opticians
+N1  - 91 p. 28 cm.; Other Titles: Optical technicians, Course for
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 535 .C15c v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Tests to accompany course for optical technicians : a series of objective tests covering the topics in the workbook for apprentice optical technicians
+Y1  - 1952
+D1  - 1952
+SP  - 70
+KW  - Lenses
+KW  - Opticians
+N1  - 70 S.; Responsibility: prep. by the Instructional Materials Laboratory.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 535 .C15c v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: light, grade two
+Y1  - 1961
+D1  - 09/1961
+SP  - 8
+KW  - Light
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 535 .R12L v. 1
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: light and seeing, grade four
+Y1  - 1961
+D1  - 09/1961
+SP  - 6
+KW  - Light
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 535 .R12L v. 2
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: light and seeing, grade six
+Y1  - 1961
+D1  - 09/1961
+SP  - 17
+KW  - Light
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 535 .R12L v. 3
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Helps on light
+Y1  - 1956
+D1  - 1956
+SP  - 9
+KW  - Light
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 535 .W24L
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - Electricity - electronics: Arizona industrial arts curriculum guide for intermediate and secondary level programs
+Y1  - 1967
+D1  - Fall, 1967
+SP  - 47
+KW  - Industrial arts
+KW  - Electricity
+KW  - Electronics
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 537 .A71e
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - A study of magnetism and electricity, grade 5
+Y1  - 1960
+D1  - 12/1960
+SP  - 38
+KW  - Magnetism
+KW  - Electricity
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 537 .C55s
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - A guide for students: junior high school science: ninth grade: unit vi - magnetism and electricity
+Y1  - 1950
+D1  - 02/1950
+SP  - 11
+KW  - Magnetism
+KW  - Electricity
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 537 .C63g
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (California) Unified School District
+T1  - Electricity, level ii: an instructional guide for junior and senior high school pupils
+Y1  - 1960
+D1  - 1960
+SP  - 16
+KW  - Electricity
+PB  - Glendale (California) Unified School District
+CY  - Glendale, CA
+LA  - English
+CN  - 537 .G55e
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Glendora (California) School District
+T1  - Curriculum guide: electricity, sixth grade - science unit
+Y1  - 1957
+D1  - 09/1957
+KW  - Electricity
+PB  - Glendora (California) School District
+CY  - Glendora, CA
+LA  - English
+CN  - 537 .G56e
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Hayden, Robert J.
+A1  - Patten, Larry D.
+A1  - Stromberg, Harold
+A2  - Long Beach (California) Unified School District
+T1  - Industrial education course outline : electronics 3-4
+Y1  - 1969
+D1  - 1969
+SP  - 27
+KW  - Industrial arts
+KW  - Electronics
+N1  - ill. ; 28 cm.; Responsibility: prepared by Robert J. Hayden, Larry D. Patten, Harold Stromberg.
+PB  - Long Beach Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 537 .L84e v. 1
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial education course outline: electronics 5-6, occupational
+Y1  - 1967
+D1  - 1967
+SP  - 17
+KW  - Industrial arts
+KW  - Electronics
+PB  - Long Beach Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 537 .L84e v. 2
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for electricity : junior high school industrial arts
+Y1  - 1967
+D1  - 1967
+SP  - 59
+KW  - Electricity
+KW  - Industrial arts
+N1  - viii, 59; ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-627
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 537 .L87i
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Industrial Education
+T1  - Syllabus in vocational-technical subjects: electricity and electronics
+Y1  - 1960
+D1  - 1960
+SP  - 23
+KW  - Electricity
+KW  - Electronics
+N1  - 23 p. 23 cm.
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 537 .N53e
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Science: grades K-6. 1. Magnetism and electricity
+Y1  - 1958
+D1  - 1958-1959
+SP  - 39
+KW  - Magnetism
+KW  - Electricity
+T2  - New York City Board of Education. Curriculum bulletin, 1958-59 series
+V1  - 2a
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 537 .N532m
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Syllabus in technical subjects: technical electricity
+Y1  - 1953
+D1  - 05/1953
+SP  - 16
+KW  - Electrical engineering
+N1  - 16 p. 23 cm.
+T2  - University of the State of New York. Bulletin
+V1  - 1419
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 537 .N53s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Industrial Arts Education
+T1  - Industrial arts syllabus in general electricity
+Y1  - 1956
+D1  - 1956
+SP  - 95
+KW  - Electricity
+N1  - 95 p. illus. 23 cm.
+PB  - University of the State of New York. Bureau of Industrial Arts Education
+CY  - Albany, NY
+LA  - English
+CN  - 537 .N53g
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Using electricity; a resource unit for a course in physical science
+Y1  - 1953
+D1  - 1953
+SP  - 120
+KW  - Electricity
+KW  - Science
+N1  - 120 p. ill., diagrs. 23 cm.
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 537 .N53u
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Starr, John W.
+T1  - Electricity and magnetism
+Y1  - 1959
+D1  - 08/1959
+SP  - 13
+KW  - Electricity
+KW  - Magnetism
+T2  - University of Oregon. School of Education. Curriculum Bulletin
+V1  - 15
+IS  - 196
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 537 .O66e
+ER  - 
+
+TY  - BOOK
+A1  - Mayer, Olive
+A1  - St. John, Clinton
+T1  - Hydroelectric dam and generator, teachers manual
+Y1  - 1958
+D1  - 1958
+SP  - 48
+KW  - Electricity
+PB  - Product Design Co.
+CY  - Redwood City, CA
+LA  - English
+CN  - 537 .P96h
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: electricity, grade one
+Y1  - 1961
+D1  - 09/1961
+SP  - 6
+KW  - Electricity
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 537 .R12e v. 1
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: electricity, grade three
+Y1  - 1961
+D1  - 09/1961
+SP  - 16
+KW  - Electricity
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 537 .R12e v. 2
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: electricity, grade six
+Y1  - 1961
+D1  - 09/1961
+SP  - 35
+KW  - Electricity
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 537 .R12e v. 3
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: magnets, grade one
+Y1  - 1961
+D1  - 09/1961
+SP  - 7
+KW  - Magnetism
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 537 .R12m v. 1
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: electricity, grade four
+Y1  - 1961
+D1  - 09/1961
+SP  - 13
+KW  - Electricity
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 537 .R12m v. 2
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo (New York) Central School District No. 2
+T1  - Elementary science guide for the classroom teachers: electricity and magnetism
+Y1  - 1962
+D1  - 1962
+SP  - 163
+KW  - Electricity
+KW  - Magnetism
+PB  - Ramapo (New York) Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 537 .R17e
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in radio service : part 4: workbook
+Y1  - 1952
+D1  - 1952
+SP  - 95
+KW  - Radio
+N1  - 95 p.; Other Titles: Radio service.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 538.1 .C14cr v.7
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in radio service : part 4: tests
+Y1  - 1952
+D1  - 1952
+SP  - 65
+KW  - Radio
+N1  - 95 p.; Other Titles: Radio service.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 538.1 .C14cr v.8
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in radio service : part 3: workbook
+Y1  - 1951
+D1  - 1951
+SP  - 107
+KW  - Radio
+N1  - 107 p.; Other Titles: Radio service.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 538.1 .C14cr v. 5
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in radio service : part 3: tests
+Y1  - 1951
+D1  - 1951
+SP  - 104
+KW  - Radio
+N1  - 107 p.; Other Titles: Radio service.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 538.1 .C14cr v. 6
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Radio mechanics for vocational high schools
+Y1  - 1956
+D1  - 1956-1957
+SP  - 152
+KW  - Radio
+T2  - New York City Board of Education. Curriculum bulletin. 1956-57 ser.
+V1  - 11
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 538.1 .N53r
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Willits, Dorothy
+A1  - Maves, Harold
+A1  - Griffin, Robert
+A2  - Richmond (California) Public Schools
+T1  - Magnetism and electricity: a comprehensive science unit
+Y1  - 1957
+D1  - 09/1957
+KW  - Electricity
+KW  - Magnetism
+PB  - Richmond (California) Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 537 .R53m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - Experiences in magnetism
+Y1  - 1962
+D1  - 09/1962
+SP  - 16
+KW  - Magnetism
+T2  - Spokane (Washington) Public Schools. Elementary curriculum materials: science
+V1  - 7
+IS  - 4
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 537 .S76e
+SC  - Washington
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - American Telephone & Telegraph Co.
+T1  - Telephone activities in the elementary grades, a teacher's guide
+Y1  - 1958
+D1  - 1958
+SP  - 87
+KW  - Telephone
+PB  - American Telephone & Telegraph Co.
+LA  - English
+CN  - 537.8 .A51t
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Nose, K.
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Radio and electronics course for secondary schools, teacher's manual
+Y1  - 1956
+D1  - Summer, 1956
+SP  - 32
+KW  - Radio
+KW  - Electronics
+N1  - Education 294, Stanford University, Summer 1956, Instructor: Dr. Paul DeHart Hurd
+PB  - Hawaii (Territory) Department of Public Instruction
+LA  - English
+CN  - 538 .H38r
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Electronics i, ii, and iii course outline and activities
+Y1  - 1959
+D1  - 07/1959
+SP  - 13
+KW  - Electronics
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 538 .O11e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Board of Education
+T1  - New energy horizons
+Y1  - 1961
+D1  - 1961
+SP  - 48
+KW  - Energy industries
+PB  - Baltimore County (Maryland) Board of Education
+CY  - Towson, MD
+LA  - English
+CN  - 539 .B19n
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Atomic energy: a study unit on the development and use of the energy from atomic nuclei
+Y1  - 1953
+D1  - 1953
+SP  - 10
+KW  - Nuclear energy
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 1
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 539 .B74a
+SC  - Boston
+ER  - 
+
+TY  - BOOK
+A1  - Lansdown, Brenda
+T1  - Workbook of scientific thinking: no. 1: the chemical background of the atom
+Y1  - 1950
+D1  - 1950
+SP  - 68
+KW  - Nuclear energy
+PB  - Dalton School, Inc.
+CY  - New York, NY
+LA  - English
+CN  - 539 .D15w v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Lansdown, Brenda
+T1  - Workbook of scientific thinking: no. 2: the electro-magnetic background of the atom
+Y1  - 1951
+D1  - 1951
+SP  - 90
+KW  - Nuclear energy
+PB  - Dalton School, Inc.
+CY  - New York, NY
+LA  - English
+CN  - 539 .D15w v. 2
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Living with the atom, a teaching unit on atomic energy
+Y1  - 1952
+D1  - 1952
+SP  - 68
+KW  - Nuclear energy
+N1  - 68 p. ill. 23 cm.
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 539 .N53L
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Schmidt, Walter C.
+T1  - A primer of atomic energy: a unit for physics
+Y1  - 1955
+D1  - 1955
+SP  - 17
+KW  - Nuclear energy
+KW  - Physics
+T2  - San Francisco (California) Unified School District. Curricular materials catalogue
+V1  - 4202
+PB  - San Francisco Unified School District. Secondary Schools Curriculum Laboratory
+CY  - San Francisco, CA
+LA  - English
+CN  - 539 .S19p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Union Springs (New York) Central School
+T1  - A basic study unit on nuclear physics
+Y1  - 1959
+D1  - 05/1959
+SP  - 4
+KW  - Nuclear physics
+PB  - Union Springs (New York) Central School
+CY  - Union Springs, NY
+LA  - English
+CN  - 539 .U56b
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - United State Atomic Energy Commission
+T1  - Teaching with radioisotopes
+Y1  - 1959
+D1  - 01/1959
+SP  - 60
+KW  - Nuclear physics
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 539 .U57t
+ER  - 
+
+TY  - BOOK
+A1  - Woodburn, John H.
+A1  - Obourn, Ellsworth S.
+T1  - Nuclear science teaching aids and activities
+Y1  - 1959
+D1  - 05/1959
+SP  - 73
+KW  - Nuclear physics
+KW  - Teaching aids
+N1  - v; ill. ; 26 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s): Bibliography: p. 50-55./ "Prepared for the Office of Civil and Defense Mobilization by The Department of Health, Education, and Welfare Office of Education."/ Also available via the World Wide Web from HathiTrust Digital Library website.; General Info: Other format available: Online version:; United States. Office of Education.; Nuclear science teaching aids and activities.; Washington [U.S. Govt. Print. Off.] 1959; Responsibility: John H. Woodburn, Science Services Consultant, 1956-57 Civil Defense Education Project ; edited by Ellsworth S. Obourn.
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 539 .U59n
+ER  - 
+
