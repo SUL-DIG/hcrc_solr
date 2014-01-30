@@ -575,7 +575,7 @@ language</field>
 <field name="year">1969</field>
 <field name="date">1969</field>
 <field name="keywords">Spanish language</field>
-<field name="keywords">Second language acquisitions</field>
+<field name="keywords">Second language acquisition</field>
 <field name="notes">1 v. (various pagings) illus. 28 cm.; Note(s): At head of title: FLICS.</field>
 <field name="series_title">Foreign language innovative curricula studies; Bilingual curriculum
 development.</field>
@@ -618,7 +618,7 @@ instructional bulletin</field>
 <field name="date">1970</field>
 <field name="pages">131</field>
 <field name="keywords">English language</field>
-<field name="keywords">Second language acquisitions</field>
+<field name="keywords">Second language acquisition</field>
 <field name="notes">viii; ill. ; 28 cm.; Note(s): Cover title./ Half title: The tutor in English as
 a second language./ Includes bibliographical references (p. 129-131).; Other Titles: English as a
 second language; Tutor in English as a second language; Responsibility: Los Angeles City Schools,
@@ -640,7 +640,7 @@ second language or second dialect for Spanish-background children</field>
 <field name="date">1969</field>
 <field name="pages">71</field>
 <field name="keywords">English language</field>
-<field name="keywords">Second language acquisitions</field>
+<field name="keywords">Second language acquisition</field>
 <field name="notes">volumes : illustrations ; 28 cm; Note(s): "These materials were developed by the
 Migrant Program of the Michigan Dept. of Education."; Other Titles: Standard English as a second
 language or second dialect for Spanish-background children</field>
@@ -736,7 +736,7 @@ by Paul L. Dillon, Jr.</field>
 <field name="date">1968</field>
 <field name="pages">90</field>
 <field name="keywords">English language</field>
-<field name="keywords">Second language acquisitions</field>
+<field name="keywords">Second language acquisition</field>
 <field name="notes">v; 28 cm.; Responsibility: Prepared by Russell V. Kleitsch.</field>
 <field name="publisher">San Diego (California) City Schools</field>
 <field name="pub_place">San Diego, CA</field>
@@ -873,7 +873,6 @@ references (p. 136-138).; Responsibility: edited by Sirarpi Ohannessian and Will
 prepared at the Center for Applied Linguistics for the Bureau of Indian Affairs of the United States
 Department of the Interior.</field>
 <field name="series_title">Curriculum bulletin (Washington, D.C.)</field>
-<field name="keywords">6</field>
 <field name="publisher">Office of the Assistant Commissioner for Education, U.S. Bureau of Indian
 Affairs</field>
 <field name="pub_place">Washington, DC</field>

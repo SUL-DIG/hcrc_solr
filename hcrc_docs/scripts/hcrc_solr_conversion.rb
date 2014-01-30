@@ -29,8 +29,7 @@ replace_G2 = '</field><field name="grade_level_number">'
 replace_AB = '</field><field name="abstract">'
 replace_ER = '</field></doc>'
 replace_amp = '&amp;'
-replace_space = '">'
-replace_space2 = '<'
+replace_endspace = '</'
 
 # Adding grades.
 add_1g = '<field name="grade_level_number">1st grade</field>'
@@ -50,9 +49,9 @@ replace_JOUR = '<field name="type">Journal'
 replace_highschools = '>High school<'
 replace_middleschools = '>Middle school<'
 replace_elementaryschools = '>Elementary school<'
+replace_sla = '>Second language acquisition<'
 replacerem_ty = '<doc><field name="type">'
 replacerem_gl = '</field><field name="grade_level_number">'
-replaceth = 'th grade<'
 
 #Add <add> tags.
 File.open(new_file,'w') do |fo|
@@ -66,24 +65,202 @@ File.open(new_file,'a') do |f|
   f.puts "</add>"
 end
 
-#Replace columns with SOLR xml tags.
-outdata = File.read(filename).gsub(/TY  -/, "#{replace_TY}").gsub(/\nA1  -/, "#{replace_A1}").gsub(/\nA2  -/, "#{replace_A2}").gsub(/\nT1  -/, "#{replace_T1}").gsub(/\nY1  -/, "#{replace_Y1}").gsub(/\nSP  -/, "#{replace_SP}").gsub(/\nKW  -/, "#{replace_KW}").gsub(/\nN1  -/, "#{replace_N1}").gsub(/\nPB  -/, "#{replace_PB}").gsub(/\nCY  -/, "#{replace_CY}").gsub(/\nLA  -/, "#{replace_LA}").gsub(/\nD1  -/, "#{replace_D1}").gsub(/\nCN  -/, "#{replace_CN}").gsub(/\nSC  -/, "#{replace_SC}").gsub(/\nT2  -/, "#{replace_T2}").gsub(/\nV1  -/, "#{replace_V1}").gsub(/\nV2  -/, "#{replace_V2}").gsub(/\nIS  -/, "#{replace_IS}").gsub(/\nED  -/, "#{replace_ED}").gsub(/\nG1  -/, "#{replace_G1}").gsub(/\nG2  -/, "#{replace_G2}").gsub(/\nAB  -/, "#{replace_AB}").gsub(/ER  -/, "#{replace_ER}").gsub(/\tER/, "#{replace_ER}").gsub(/"> /, "#{replace_space}").gsub(/& /, "#{replace_amp}")
+#Doing replacements for type.
+outdata = File.read(new_file).gsub(/TY\s\s-\s/, "#{replace_TY}").gsub(/TY\s\s_\s/, "#{replacerem_ty}").gsub(/Ty\s\s-\s/, "#{replacerem_ty}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for authors.
+outdata = File.read(new_file).gsub(/\nA1\s\s-\s/, "#{replace_A1}").gsub(/\nA2\s\s-\s/, "#{replace_A2}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for title and series title.
+outdata = File.read(new_file).gsub(/\nT1\s\s-\s/, "#{replace_T1}").gsub(/\nT2\s\s-\s/, "#{replace_T2}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for year.
+outdata = File.read(new_file).gsub(/\nY1\s\s-\s/, "#{replace_Y1}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for pages.
+outdata = File.read(new_file).gsub(/\nSP\s\s-\s/, "#{replace_SP}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for keywords.
+outdata = File.read(new_file).gsub(/\nKW\s\s-\s/, "#{replace_KW}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for notes.
+outdata = File.read(new_file).gsub(/\nN1\s\s-\s/, "#{replace_N1}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for publisher and publication place.
+outdata = File.read(new_file).gsub(/\nPB\s\s-\s/, "#{replace_PB}").gsub(/\nCY\s\s-\s/, "#{replace_CY}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for languages.
+outdata = File.read(new_file).gsub(/\nLA\s\s-\s/, "#{replace_LA}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for date.
+outdata = File.read(new_file).gsub(/\nD1\s\s-\s/, "#{replace_D1}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for call number.
+outdata = File.read(new_file).gsub(/\nCN\s\s-\s/, "#{replace_CN}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for state/country.
+outdata = File.read(new_file).gsub(/\nSC\s\s-\s/, "#{replace_SC}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for volume, issue, and edition.
+outdata = File.read(new_file).gsub(/\nV1\s\s-\s/, "#{replace_V1}").gsub(/\nV2\s\s-\s/, "#{replace_V2}").gsub(/\nIS\s\s-\s/, "#{replace_IS}").gsub(/\nED\s\s-\s/, "#{replace_ED}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for grade level information.
+outdata = File.read(new_file).gsub(/\nG1\s\s-\s/, "#{replace_G1}").gsub(/\nG2\s\s-\s/, "#{replace_G2}").gsub(/G3\s\s-\s/, "#{replacerem_gl}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for abstract.
+outdata = File.read(new_file).gsub(/\nAB\s\s-\s/, "#{replace_AB}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end  
+
+#Doing replacements for end of document.
+outdata = File.read(new_file).gsub(/ER\s\s-\s/, "#{replace_ER}").gsub(/\tER/, "#{replace_ER}").gsub(/&/, "#{replace_amp}")
 File.open(new_file, 'w') do |out|
   out << outdata
 end  
 
 puts "Columns have been converted to solr document tags."
 
-#Doing grade replacements
-outdata = File.read(new_file).gsub(/TY  _ /, "#{replacerem_ty}").gsub(/Ty  - /, "#{replacerem_ty}").gsub(/G3  - /, "#{replacerem_gl}").gsub(/<field name="grade_level_number">1st<\/field>/, "#{add_1g}").gsub(/<field name="grade_level_number">2nd<\/field>/, "#{add_2g}").gsub(/<field name="grade_level_number">3rd<\/field>/, "#{add_3g}").gsub(/<field name="grade_level_number">4th<\/field>/, "#{add_4g}").gsub(/<field name="grade_level_number">5th<\/field>/, "#{add_5g}").gsub(/<field name="grade_level_number">6th<\/field>/, "#{add_6g}").gsub(/<field name="grade_level_number">7th<\/field>/, "#{add_7g}").gsub(/<field name="grade_level_number">8th<\/field>/, "#{add_8g}").gsub(/<field name="grade_level_number">9th<\/field>/, "#{add_9g}").gsub(/<field name="grade_level_number">9th <\/field>/, "#{add_9g}").gsub(/<field name="grade_level_number">10th<\/field>/, "#{add_10g}").gsub(/<field name="grade_level_number">11th<\/field>/, "#{add_11g}").gsub(/<field name="grade_level_number">12th<\/field>/, "#{add_12g}").gsub(/<field name="type">BOOK/, "#{replace_BOOK}").gsub(/<field name="type">JOUR/, "#{replace_JOUR}").gsub(/>High schools</, "#{replace_highschools}").gsub(/>Middle schools</, "#{replace_middleschools}").gsub(/>Elementary schools</, "#{replace_elementaryschools}")
+
+#Doing replacements for 1st grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">1st<\/field>/, "#{add_1g}")
 File.open(new_file, 'w') do |out|
   out << outdata
-end  
+end 
+
+#Doing replacements for 2nd grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">2nd<\/field>/, "#{add_2g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 3rd grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">3rd<\/field>/, "#{add_3g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 4th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">4th<\/field>/, "#{add_4g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 5th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">5th<\/field>/, "#{add_5g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 6th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">6th<\/field>/, "#{add_6g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 7th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">7th<\/field>/, "#{add_7g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 8th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">8th<\/field>/, "#{add_8g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 9th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">9th<\/field>/, "#{add_9g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 10th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">10th<\/field>/, "#{add_10g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 11th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">11th<\/field>/, "#{add_11g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for 12th grade.
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">12th<\/field>/, "#{add_12g}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
 puts "Grade level has been systematically fixed."
 
-File.open(new_file,'a') do |f|
-  f.puts "</add>"
-end
+#Doing replacements for capitalized types.
+outdata = File.read(new_file).gsub(/<field name="type">BOOK/, "#{replace_BOOK}").gsub(/<field name="type">JOUR/, "#{replace_JOUR}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for grade level group plurals.
+outdata = File.read(new_file).gsub(/>High schools</, "#{replace_highschools}").gsub(/>Middle schools</, "#{replace_middleschools}").gsub(/>Elementary schools</, "#{replace_elementaryschools}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for keyword plurals.
+outdata = File.read(new_file).gsub(/>Second language acquisitions</, "#{replace_sla}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
+
+#Doing replacements for extra space before closing tag.
+outdata = File.read(new_file).gsub(/\s</, "#{replace_endspace}")
+File.open(new_file, 'w') do |out|
+  out << outdata
+end 
 
 require 'fileutils'
 Dir.glob(new_file) do |f|

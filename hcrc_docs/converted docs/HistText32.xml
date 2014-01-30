@@ -1383,7 +1383,8 @@ Marie-France Cauvin.</field>
 <field name="publisher">Nuffield Foundation</field>
 <field name="pub_place">London, UK</field>
 <field name="language">English</field>
-<field name="language">French CN - 440 .N96n v. 2</field>
+<field name="language">French</field> 
+<field name="call_number">440 .N96n v. 2</field>
 <field name="state_country">United Kingdom</field>
 </doc>
 

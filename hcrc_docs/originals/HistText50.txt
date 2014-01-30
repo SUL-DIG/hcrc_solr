@@ -1,0 +1,1293 @@
+
+
+
+
+TY  - BOOK
+A1  - Fishback, Woodson W.
+A1  - Jackson, Chester O.
+A1  - Stafford, George T.
+T1  - Designing modern health education experiences for youth; suggested guide for secondary schools
+Y1  - 1953
+D1  - 09/1953
+SP  - 162
+KW  - Health education
+KW  - School health services
+N1  - 162 p.; Note(s): Illinois curriculum program bulletin no. 20./ Includes bibliographical references.; Responsibility: ed. by Woodson W. Fishback [et al.].
+T2  - Illinois. Office of the Superintendent of Public Instruction. Circular series A,; no. 51; Illinois Curriculum Program. Bulletin
+V1  - 20
+PB  - Illinois State Department of Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 613 .I29d
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Curriculum Program
+A2  - Illinois Joint Committee on School Health
+T1  - Guidelines for school health programs
+Y1  - 1961
+D1  - 07/1961
+SP  - 111
+KW  - Health education
+N1  - ix; illus.; Responsibility: Sponsored by the Illinois Joint Committee on School Health.
+T2  - Illinois State Curriculum Program Administration and supervision series. Bulletin; A-2
+PB  - Illinois State Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 613 .I29g
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - A guide for health education in Indiana schools; a tentative course of study for kindergarten through high school
+Y1  - 1956
+D1  - 1956
+SP  - 315
+KW  - Hygiene
+KW  - Health education
+N1  - 315 p. ill.; Note(s): 1962 ed. has title: A guide for health and safety education in Indiana schools.; Responsibility: prepared by a central committee.
+T2  - Indiana State Department of public instruction. Bulletin
+V1  - 219
+PB  - Indiana State Department of public instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 613 .I39g
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - A plan of health education for the rural and elementary schools of Iowa
+Y1  - 1946
+D1  - 1946
+SP  - 139
+KW  - Health education
+T2  - Iowa Elementary Teachers' Handbook
+V1  - 7
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 613 .I64p
+SC  - Iowa
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gjerde, Waldemar
+T1  - An annotated bibliography of selected curriculum materials in health and physical education
+Y1  - 1949
+D1  - 01/1949
+SP  - 20
+KW  - Health education
+KW  - Physical education and training
+T2  - Iowa State Teachers College. Bibliography
+V1  - 1
+PB  - Iowa State Teachers College
+CY  - Cedar Falls, IA
+LA  - English
+CN  - 613 .I65s
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Joint Committee on Health Problems in Education
+A2  - National Education Association
+A2  - American Medical Association
+T1  - Health appraisal of school children : standards for determining the health status of school children, through the cooperation of parents, teachers, physicians, dentists, nurses, and others
+Y1  - 1948
+D1  - 1948
+SP  - 27
+KW  - School medical examinations
+N1  - 27 p. ; 23 cm.; Responsibility: A report edited by Dean F. Smiley and Fred V. Hein.
+PB  - National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 613 .J74h
+ER  - 
+
+TY  - BOOK
+A2  - Joint Committee on Health Problems in Education
+A2  - National Education Association
+A2  - American Medical Association
+T1  - Health aspects of the school lunch program
+Y1  - 1962
+D1  - 1962
+KW  - National school lunch program
+N1  - 30 p. ill. 22 cm.; Note(s): Bibliography: p. 28-30.
+ED  - 2nd
+PB  - National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 613 .J74hl
+ER  - 
+
+TY  - BOOK
+A2  - Joliet Township (Illinois) High School and Junior College
+T1  - Status of health education
+Y1  - 1952
+D1  - 03/1952
+KW  - Health education
+PB  - Joliet Township (Illinois) High School and Junior College
+CY  - Joliet, IL
+LA  - English
+CN  - 613 .J75s
+SC  - Illinois
+G1  - High school
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Health education in the elementary school
+Y1  - 1948
+D1  - 1948
+SP  - 159
+KW  - Health education
+KW  - Curricula
+N1  - ill. ; 24 cm.; Note(s): "Selected series of textbooks": p. 156-158./ Includes bibliographical references.
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, KS
+LA  - English
+CN  - 613 .K16h
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - A program of health services for Kentucky schools
+Y1  - 1955
+D1  - 09/1955
+KW  - School health services
+N1  - p. 123-152 : ill., forms ; 23 cm.; Note(s): At head of title: Commonwealth of Kentucky./ Prepared jointly by the State Department of Education and the State Department of Health -- Foreword.
+T2  - Kentucky State Department of Education. Educational bulletin
+V1  - 23
+IS  - 3
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 613 .K36p
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Hamilton, R. W.
+A2  - University of Kentucky. Bureau of School Service
+T1  - Health and happiness Mother goose rhymes
+Y1  - 1941
+D1  - 1941
+SP  - 18
+KW  - Readers
+KW  - Health education
+N1  - 2 p. l.; , 1 l. 23 cm.; Note(s): "One of several books about food and health."--2d prelim. leaf.; Other Titles: Mother Goose rhymes. Health and happiness; Responsibility: by R.W. Hamilton. Published by Bureau of school service, University of Kentucky as a part of an experiment in applied economics made possible by a grant from the Alfred P. Sloan foundation.
+PB  - University of Kentucky. Bureau of School Service
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 613 .K37h
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Schools. Joint School Health
+T1  - A handbook for school health services
+SP  - 41
+KW  - School health services
+PB  - Kern County (California) Schools
+LA  - English
+CN  - 613 .K39h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Schools. Joint School Health
+T1  - A vision conservation program for Kern County schools
+Y1  - 1957
+D1  - 01/1957
+SP  - 8
+KW  - Vision tests
+PB  - Kern County (California) Schools
+LA  - English
+CN  - 613 .K39v
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Teacher's guide to : health program : upper elementary level: tentative until revision fall 1952-53
+Y1  - 1951
+D1  - 1951-1952
+KW  - Health education
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 613 .L19t v. 2
+ER  - 
+
+TY  - BOOK
+A2  - La Marque (Texas) Independent School District
+T1  - A suggested guide for the teaching of health education: grade nine
+Y1  - 1962
+D1  - 1962
+SP  - 5
+KW  - Health education
+PB  - La Marque (Texas) Independent School District
+CY  - La Marque, TX
+LA  - English
+CN  - 613 .L21s
+SC  - Texas
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - La Mesa-Spring Valley (California) School District
+T1  - Health guide
+SP  - 53
+KW  - School health services
+KW  - Physical education and training
+PB  - La Mesa-Spring Valley (California) School District
+CY  - La Mesa, CA
+LA  - English
+CN  - 613 .L22h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Health guide for primary grades
+Y1  - 1963
+D1  - 1963
+SP  - 123
+KW  - Health education
+N1  - 123 p. ; 28 cm.; Responsibility: prepared by Rowena A. Coan ... [et al.].
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 613 .L84h v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Health guide for intermediate grades
+Y1  - 1967
+D1  - 1967
+SP  - 167
+KW  - Health education
+N1  - 123 p. ; 28 cm.; Responsibility: prepared by Rowena A. Coan ... [et al.].
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 613 .L84h v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Health, junior high school : an instructional guide
+Y1  - 1969
+D1  - 1969
+SP  - 220
+KW  - Health education
+N1  - x; ; 28 cm.; Note(s): Text parallel to spine./ Includes bibliographical references.; Responsibility: Los Angeles City Schools, Division of Instructional Planning and Services, Instructional Planning Branch.
+T2  - School publication (Los Angeles City School District)
+V1  - X-86
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 613 .L87h 1969
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Instructional guide: health, senior high school
+Y1  - 1966
+D1  - 1966
+SP  - 367
+KW  - Health education
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-617
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 613 .L87i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Health in the elementary schools, an instructional guide
+Y1  - 1959
+D1  - 1959
+SP  - 360
+KW  - Health education
+N1  - xvii; ill.; Note(s): Includes bibliographies.
+T2  - Los Angeles (California) City School District. Publication
+V1  - EC-201
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 613 .L87h
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Growing healthfully; a tentative guide in health and safety instruction for elementary schools
+Y1  - 1952
+D1  - 1952
+SP  - 170
+KW  - Health education
+N1  - 170 pages 28 cm.; Responsibility: Prepared by the Health Education Workshop Group, Louisiana State University. Issued by Shelby M. Jackson and S.J. Phillips.
+T2  - Louisiana State Department of Education, Bulletin
+V1  - 731
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 613 .L88g
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cann, Margaret Jane
+T1  - Madera County health handbook for teachers
+KW  - Health education
+PB  - Madera County (California) Schools
+LA  - English
+CN  - 613 .M17h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Memphis (Tennessee) Board of Education
+T1  - Course of study [for] Memphis city schools: health education
+Y1  - 1958
+D1  - 1958
+KW  - Health education
+PB  - Memphis (Tennessee) Board of Education
+CY  - Memphis, TN
+LA  - English
+CN  - 613 .M53c
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Schools
+T1  - Health instruction guide for classroom teachers of the elementary schools of Merced County
+Y1  - 1952
+D1  - 09/1952
+SP  - 69
+KW  - Health education
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 613 .M55h
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - New adventures in meeting health problems
+Y1  - 1955
+D1  - 1955-1957
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Living and working together
+Y1  - 1957
+D1  - 10/1957
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 6
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Living and working together: suggested student activities and projects
+Y1  - 1957
+D1  - 10/1957
+KW  - Health education
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Recent progress in medicine and public health
+Y1  - 1957
+D1  - 09/1957
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 7
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Recent progress in medicine and public health: suggested student activities and projects
+Y1  - 1957
+D1  - 09/1957
+KW  - Health education
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Meeting the challenge of extreme heat and cold
+Y1  - 1956
+D1  - 09/1956
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 6
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Meeting the challenge of extreme heat and cold: suggested student activities and projects
+Y1  - 1956
+D1  - 09/1956
+KW  - Health education
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Exploring the air above us
+Y1  - 1956
+D1  - 04/1956
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 5
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Exploring the air above us: suggested student activities and projects
+Y1  - 1956
+D1  - 04/1956
+KW  - Health education
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Exploring the mysteries of the sea
+Y1  - 1955
+D1  - 12/1955
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 1
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Exploring the mysteries of the sea: suggested student activities and projects
+Y1  - 1955
+D1  - 12/1955
+KW  - Health education
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Using atomic energy in the service of mankind
+Y1  - 1955
+D1  - 09/1955
+KW  - Nuclear energy
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 3
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Using atomic energy in the service of mankind: suggested student activities and projects
+Y1  - 1955
+D1  - 09/1955
+KW  - Nuclear energy
+KW  - Health education
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Exploring the health potentialities of military service
+Y1  - 1955
+D1  - 04/1955
+KW  - Military service
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 1
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Military service and the home
+Y1  - 1955
+D1  - 04/1955
+KW  - Military service
+KW  - Health education
+T2  - Health bulletin for teachers
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - The challenge of military service
+Y1  - 1955
+D1  - 04/1955
+KW  - Military service
+KW  - Health education
+T2  - Health bulletin for teachers
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - Finding solutions to problems of military medicine
+Y1  - 1955
+D1  - 05/1955
+KW  - Military service
+KW  - Health education
+T2  - Health bulletin for teachers
+V1  - 26
+IS  - 2
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Life Insurance Company
+T1  - The challenge of military service and Finding solutions to problems of military medicine: suggested student activities and projects 
+Y1  - 1955
+D1  - 04/1955
+KW  - Military service
+KW  - Health education
+T2  - Health bulletin for teachers
+PB  - Metropolitan Life Insurance Company
+LA  - English
+CN  - 613 .M59h
+ER  - 
+
+TY  - BOOK
+A2  - Midland (Texas) Independent School District
+T1  - Health, safety, and physical education, grades 1-12
+Y1  - 1962
+D1  - 1962
+SP  - 61
+KW  - Health education
+KW  - Physical education and training
+KW  - Safety education
+PB  - Midland (Texas) Independent School District
+CY  - Midland, TX
+LA  - English
+CN  - 613 .M63h
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide for teaching health, physical education [and] recreation, grades 7-12
+Y1  - 1960
+D1  - 1960
+SP  - 111
+KW  - Health education
+KW  - Physical education and training
+KW  - Recreation
+N1  - 111 p. ; 28 cm.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 613 .M65h v. 2
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide for teaching health, physical education, recreation, kgn.-grade 6
+Y1  - 1958
+D1  - 1958
+SP  - 305
+KW  - Health education
+KW  - Physical education and training
+KW  - Recreation
+N1  - 305 p. 28 cm.; Note(s): Cover title: Health, physical education, recreation, kgn.-Grade 6./ Bibliography: p. 303-305.; Other Titles: Health, physical education, recreation, kgn.-grade 6.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 613 .M65h v. 1
+SC  - Minnesota
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Individual and community health, efficiency for living; junior high school health and safety education
+Y1  - 1946
+D1  - 1946
+SP  - 334
+KW  - Health education
+KW  - Public health
+KW  - Hygiene 
+N1  - 334 pages.; Note(s): Includes bibliographical references (pages 327-334).
+T2  - Minnesota State Department of Education. Curriculum bulletin
+V1  - 10
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 613 .M66i v. 1
+SC  - Minnesota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Individual and community health; efficiency for living : senior high school, health and safety education
+Y1  - 1946
+D1  - 1946
+SP  - 407
+KW  - Public health
+KW  - Health education
+KW  - Hygiene 
+N1  - 407 p. ; 23 cm.; Note(s): Curriculum bulletin no.14./ Bibliography : p. [401]-407.
+T2  - Minnesota State Department of Education. Curriculum bulletin
+V1  - 14
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 613 .M66i v. 2
+SC  - Minnesota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Growing up for efficient everyday living : elementary school, grades 1-8, health, physical education and safety
+Y1  - 1946
+D1  - 1946
+SP  - 203
+KW  - Public health
+KW  - Physical education and training
+N1  - 203 pages ; 23 cm.; Note(s): "Code VIII-A-E-I."/ Includes bibliographical references (pages 17-24).
+T2  - Minnesota State Department of Education. Curriculum bulletin
+V1  - 2
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 613 .M66g
+SC  - Minnesota
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Health
+T1  - Health information materials : pamphlets, radio scripts, newspaper articles
+Y1  - 1953
+D1  - 1953-1954
+SP  - 33
+KW  - Public health
+KW  - Health education
+N1  - 33 pages ; 28 cm; Note(s): Cover title./ Prepared by Public Health Education Section.
+PB  - Minnesota State Department of Health
+CY  - Minneapolis, MN
+LA  - English
+CN  - 613 .M66h
+SC  - Minnesota State Department of Health
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Division of Dental Health
+T1  - Dental health for children : a booklet for teachers
+Y1  - 1949
+D1  - 1949
+SP  - 24
+KW  - Dental care
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: the Minnesota Department of Health, Division of Dental Health.
+PB  - Minnesota State Department of Health, Division of Dental Health
+CY  - Minneapolis, MN
+LA  - English
+CN  - 613 .M66d
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Mississippi State Division of Instruction
+T1  - Health education for Mississippi high schools
+Y1  - 1952
+D1  - 01/1952
+SP  - 176
+KW  - Health education
+N1  - 176 pages 23 cm.
+T2  - Mississippi school bulletin
+V1  - 133
+PB  - Mississippi State Division of Instruction
+CY  - Jackson, MS
+LA  - English
+CN  - 613 .M67h
+SC  - Mississippi
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Montebello (California) Unified School District
+T1  - Health and physical education in the elementary schools
+Y1  - 1950
+D1  - 09/1950
+SP  - 66
+KW  - Health education
+KW  - Physical education and training
+PB  - Montebello (California) Unified School District
+CY  - Montebello, CA
+LA  - English
+CN  - 613 .M77h
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Manual of health services for Monterey County schools
+Y1  - 1969
+D1  - 09/1969
+SP  - 80
+KW  - School health services
+PB  - Monterey County (California) Schools
+LA  - English
+CN  - 613 .M78m
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Course of study : grades 7-12 : health education
+Y1  - 1953
+D1  - 09/1953
+SP  - 177
+KW  - Health education
+PB  - Montgomery County (Maryland) Public Schools
+LA  - English
+CN  - 613 .M787h
+SC  - Maryland
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Nashville (Tennessee) City Public Schools
+T1  - Suggested guide for health instruction through integration in secondary schools
+Y1  - 1952
+D1  - 1952
+SP  - 197
+KW  - Health education
+PB  - Nashville (Tennessee) City Public Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 613 .N24s
+SC  - Tennessee
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nashville (Tennessee) City Public Schools
+T1  - A teacher's guide for health instruction in elementary grades
+Y1  - 1953
+D1  - 1953
+SP  - 119
+KW  - Health education
+PB  - Nashville (Tennessee) City Public Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 613 .N24su
+SC  - Tennessee
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - National Committee on School Health Policies (U.S.)
+A2  - National Education Association of the United States
+A2  - American Medical Association
+T1  - Suggested school health policies
+Y1  - 1966
+D1  - 1966
+SP  - 54
+KW  - School hygiene
+ED  - 4th
+PB  - American Medical Association
+CY  - Washington, DC
+LA  - English
+CN  - 613 .N271s
+ER  - 
+
+TY  - BOOK
+A2  - National Conference for Cooperation in Health Education. National Committee on School Health Policies
+T1  - Suggested school health policies; a charter for school health
+Y1  - 1945
+D1  - 1945
+SP  - 46
+KW  - School hygiene
+N1  - 46 p.; Note(s): First printed 1945./ "Selective source bibliography": p. [43]-46./ Also issued online.
+PB  - Health Education Council
+CY  - New York, NY
+LA  - English
+CN  - 613 .N27s
+ER  - 
+
+TY  - BOOK
+A1  - Schneider, Elsa
+T1  - Health, physical education and recreation in small schools; principles and procedures of administration
+Y1  - 1948
+D1  - 10/1948
+SP  - 67
+KW  - Physical education and training
+KW  - Rural schools
+KW  - School hygiene
+N1  - 67 p.; Note(s): "Distributed to members of the Department of Rural Education as the 1948 Yearbook."/ Also issued online.; Responsibility: Ed. by Elsa Schneider.
+PB  - National Education Association of the United States
+CY  - Washington, DC
+LA  - English
+CN  - 613 .N27h
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education. Division of Curriculum and Instruction
+T1  - A guide for health education in the secondary school
+Y1  - 1955
+D1  - 1955
+SP  - 121
+KW  - Hygiene
+KW  - Health education
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 613 .N52h v. 2
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education. Division of Elementary Education
+A2  - New Jersey State Division of Health, Safety, and Physical Education
+T1  - Health education in the elementary school
+Y1  - 1955
+D1  - 1955
+SP  - 128
+KW  - Health education
+N1  - 128 pages : illustrations ; 23 cm.; Note(s): "Leadership provided by ... Divisions of Health, Safety, and Physical Education and Elementary Education."--Page 3./ Includes bibliographical references (pages 115-127).
+T2  - New Jersey State Department of Education. Elementary school bulletin
+V1  - 18
+ED  - Rev.
+PB  - New Jersey State Department of Education
+CY  - Trenton NJ
+LA  - English
+CN  - 613 .N52h v. 1
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - Curriculum guide for the elementary schools of New Mexico: health, physical education, recreation, safety
+Y1  - 1950
+D1  - 1950
+SP  - 139
+KW  - Health education
+KW  - Physical education and training
+KW  - Safety education
+T2  - New Mexico State Department of Education. Bulletin
+V1  - 13
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 613 .N53c
+SC  - New Mexico
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+A2  - New Mexico State Department of Public Health
+T1  - Handbook for school nurses in New Mexico
+Y1  - 1954
+D1  - 1954
+SP  - 76
+KW  - School nursing
+N1  - 76 p. ill.; Responsibility: Prepared jointly by New Mexico Dept. of Education [and] New Mexico Dept. of Public Health, approved by New Mexico Advisory Committee on School Health.
+T2  - New Mexico State Department of Education. Bulletin
+V1  - 23
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 613 .N52ha
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - New York State Department of Education
+T1  - Strand 1, physical health : disease prevention and control for grades 10, 11, and 12
+Y1  - 1969
+D1  - 1969
+SP  - 27
+KW  - Health education
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53h v. 3
+SC  - New York
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York State Department of Education
+T1  - Strand 1, physical health : health status for grades 7, 8, and 9
+Y1  - 1969
+D1  - 1969
+SP  - 32
+KW  - Health education
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53h v. 2
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Strand 2, socialogical health problems : A. alcohol, B. drugs and narcotics, C. smoking, grades 7, 8, 9
+Y1  - 1967
+D1  - 1967
+SP  - 91
+KW  - Alcoholism
+KW  - Drug abuse
+KW  - Smoking
+KW  - Health education
+N1  - viii; ill. ; 22 x 28 cm.; Note(s): Cover title./ "Prototype curriculum materials for the elementary and seconday grades."/ On t.p.: Health curriculum materials./ Includes bibliographies.; Other Titles: Sociological health problems, grades 7, 8, 9,; Prototype curriculum materials for the elementary and secondary grades.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53h v. 4
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - The consumer and his health dollar; one of a series in expanded programs of consumer education
+Y1  - 1972
+D1  - 1972
+SP  - 73
+KW  - Health education
+N1  - vi; 28 cm.; Responsibility: Printed through the use of ESEA Title I funds.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53c
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Health curriculum materials, grades 10, 11, 12 : strand IV, environmental and community health, world health
+Y1  - 1970
+D1  - 1970
+SP  - 50
+KW  - Health education
+KW  - Environmental health
+KW  - Public health
+N1  - vii; ; 22 x 28 cm.; Note(s): "Prototype curriculum materials for the elementary and secondary grades."/ "Special edition for evaluation and discussion."/ "Multimedia resources": p. 49-52.; Responsibility: University of the State of New York, State Education Department, Bureau of Secondary Curriculum Development.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53h v. 5
+SC  - New York
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Health curriculum materials [for] grades 7, 8, 9: strand IV, environmental and community health, consumer health education
+Y1  - 1969
+D1  - 1969
+SP  - 39
+KW  - Health education
+KW  - Environmental health
+KW  - Public health
+N1  - vi; ; 22 x 28 cm.; Note(s): "Prototype curriculum materials for the elementary and secondary grades."/ "Special edition for evaluation and discussion."/ Includes bibliographical references (p. 41-69).; Other Titles: Prototype curriculum materials for the elementary and secondary grades; Responsibility: University of the State of New York, State Education Department, Bureau of Secondary Curriculum Development.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53h v. 6
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Suggested guidelines for the development of courses of study in health education for junior and senior high schools
+Y1  - 1970
+D1  - 1970
+SP  - 35
+KW  - Health education
+N1  - iv; ; 28 cm.; Note(s): At head of title: Health: prototype curriculum materials for the elementary and secondary grades.; Other Titles: Health: prototype curriculum materials for the elementary and secondary grades
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53h v. 1
+SC  - New York
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Strand V, Education for survival. Safety education, grades 7, 8, 9
+Y1  - 1970
+D1  - 1970
+SP  - 36
+KW  - Safety education
+N1  - vii; ; 22 x 28 cm.; Note(s): Includes bibliographical references (p. 32-36).; Other Titles: Education for survival; Safety education
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N53h v. 7
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Health guidance in elementary schools
+Y1  - 1960
+D1  - 1959-1960
+KW  - School health services
+T2  - New York City Board of Education. Curriculum bulletin
+V1  - 7
+ED  - Rev. ed.
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 613 .N532h 1959-1960 v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Guide for health counselors
+Y1  - 1960
+D1  - 1960
+SP  - 104
+KW  - School health services
+KW  - Health education
+T2  - New York City Board of Education. Curriculum bulletin; 1952-53 ser.
+V1  - 3
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 613 .N532g
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Health guidance in elementary schools
+Y1  - 1955
+D1  - 1954-1955
+SP  - 36
+KW  - School health services
+T2  - New York City Board of Education. Curriculum bulletin,; 1954-55 series
+V1  - 3
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 613 .N532h 1954-1955 v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Health, Physical Education, and Recreation
+T1  - The New York State physical fitness test for boys and girls,, grades 4-12; a manual for teachers of physical education
+Y1  - 1958
+D1  - 1958
+SP  - 62
+KW  - Physical fitness and training
+KW  - Tests
+ED  - Experimental
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613 .N531p
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - McCain, Madeleine
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study : health
+Y1  - 1960
+D1  - 1960
+SP  - 38
+KW  - Health education
+N1  - iv, [2]; ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Other Titles: Health; Responsibility: by Madeleine McCain and Committee.
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 613 .N86he
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Health guidance and health service in secondary schools
+Y1  - 1956
+D1  - 1955-1956
+SP  - 68
+KW  - School hygiene
+T2  - New York City Board of Education. Curriculum bulletin, 1955-56 series
+V1  - 8
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 613 .N532h 1955-56 v. 2
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk (Virginia) City Public Schools
+T1  - Health education for elementary schools: a guidebook for teachers
+Y1  - 1967
+D1  - 1967
+SP  - 392
+KW  - Health education
+PB  - Norfolk (Virginia) City Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 613 .N83h
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Public Schools
+T1  - Health education
+Y1  - 1953
+D1  - 1953
+SP  - 409
+KW  - Health education
+N1  - 409 pages : illustrations ; 23 cm.; Note(s): Includes bibliographical references (pages 358-363).; Health education.; Raleigh, N.C. : State Superintendent of Public Instruction, [1953]
+T2  - North Carolina State Public Schools. Publication
+V1  - 287
+PB  - North Carolina State Public Schools
+CY  - Raleigh, NC
+LA  - English
+CN  - 613 .N86h
+SC  - North Carolina
+ER  - 
