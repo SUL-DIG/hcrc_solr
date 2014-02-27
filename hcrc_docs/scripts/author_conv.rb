@@ -1,0 +1,2 @@
+system 'cd ../converted_needs_author; for file in *.xml; do java -jar ../scripts/SaxonHE9-5-1-4J/saxon9he.jar "$file" ../scripts/author_extract.xslt -o:"$file"; done'
+puts "Authors now have an additional field displaying names in natural order."

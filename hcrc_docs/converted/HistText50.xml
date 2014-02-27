@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Fishback, Woodson W.</field><field name="author_nat">Woodson W. Fishback</field>
+<field name="author">Jackson, Chester O.</field><field name="author_nat">Chester O. Jackson</field>
+<field name="author">Stafford, George T.</field><field name="author_nat">George T. Stafford</field>
+<field name="title">Designing modern health education experiences for youth; suggested guide for
+secondary schools</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">162</field>
+<field name="keywords">Health education</field>
+<field name="keywords">School health services</field>
+<field name="notes">162 p.; Note(s): Illinois curriculum program bulletin no. 20./ Includes
+bibliographical references.; Responsibility: ed. by Woodson W. Fishback [et al.].</field>
+<field name="series_title">Illinois. Office of the Superintendent of Public Instruction. Circular
+series A,; no. 51; Illinois Curriculum Program. Bulletin</field>
+<field name="series_vol">20</field>
+<field name="publisher">Illinois State Department of Public Instruction</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="language">English</field>
+<field name="call_number">613 .I29d</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois State Curriculum Program</field>
+<field name="corp_author">Illinois Joint Committee on School Health</field>
+<field name="title">Guidelines for school health programs</field>
+<field name="year">1961</field>
+<field name="date">07/1961</field>
+<field name="pages">111</field>
+<field name="keywords">Health education</field>
+<field name="notes">ix; illus.; Responsibility: Sponsored by the Illinois Joint Committee on School
+Health.</field>
+<field name="series_title">Illinois State Curriculum Program Administration and supervision series.
+Bulletin; A-2</field>
+<field name="publisher">Illinois State Curriculum Program</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="language">English</field>
+<field name="call_number">613 .I29g</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Indiana State Department of Public Instruction</field>
+<field name="title">A guide for health education in Indiana schools; a tentative course of study for
+kindergarten through high school</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">315</field>
+<field name="keywords">Hygiene</field>
+<field name="keywords">Health education</field>
+<field name="notes">315 p. ill.; Note(s): 1962 ed. has title: A guide for health and safety
+education in Indiana schools.; Responsibility: prepared by a central committee.</field>
+<field name="series_title">Indiana State Department of public instruction. Bulletin</field>
+<field name="series_vol">219</field>
+<field name="publisher">Indiana State Department of public instruction</field>
+<field name="pub_place">Indianapolis, IN</field>
+<field name="language">English</field>
+<field name="call_number">613 .I39g</field>
+<field name="state_country">Indiana</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Iowa State Department of Public Instruction</field>
+<field name="title">A plan of health education for the rural and elementary schools of Iowa</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="pages">139</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Iowa Elementary Teachers' Handbook</field>
+<field name="series_vol">7</field>
+<field name="publisher">Iowa State Department of Public Instruction</field>
+<field name="pub_place">Des Moines, IA</field>
+<field name="language">English</field>
+<field name="call_number">613 .I64p</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gjerde, Waldemar</field><field name="author_nat">Waldemar Gjerde</field>
+<field name="title">An annotated bibliography of selected curriculum materials in health and
+physical education</field>
+<field name="year">1949</field>
+<field name="date">01/1949</field>
+<field name="pages">20</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="series_title">Iowa State Teachers College. Bibliography</field>
+<field name="series_vol">1</field>
+<field name="publisher">Iowa State Teachers College</field>
+<field name="pub_place">Cedar Falls, IA</field>
+<field name="language">English</field>
+<field name="call_number">613 .I65s</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Joint Committee on Health Problems in Education</field>
+<field name="corp_author">National Education Association</field>
+<field name="corp_author">American Medical Association</field>
+<field name="title">Health appraisal of school children : standards for determining the health
+status of school children, through the cooperation of parents, teachers, physicians, dentists,
+nurses, and others</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="pages">27</field>
+<field name="keywords">School medical examinations</field>
+<field name="notes">27 p. ; 23 cm.; Responsibility: A report edited by Dean F. Smiley and Fred V.
+Hein.</field>
+<field name="publisher">National Education Association</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">613 .J74h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Joint Committee on Health Problems in Education</field>
+<field name="corp_author">National Education Association</field>
+<field name="corp_author">American Medical Association</field>
+<field name="title">Health aspects of the school lunch program</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="keywords">National school lunch program</field>
+<field name="notes">30 p. ill. 22 cm.; Note(s): Bibliography: p. 28-30.</field>
+<field name="edition">2nd</field>
+<field name="publisher">National Education Association</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">613 .J74hl</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Joliet Township (Illinois) High School and Junior College</field>
+<field name="title">Status of health education</field>
+<field name="year">1952</field>
+<field name="date">03/1952</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Joliet Township (Illinois) High School and Junior College</field>
+<field name="pub_place">Joliet, IL</field>
+<field name="language">English</field>
+<field name="call_number">613 .J75s</field>
+<field name="state_country">Illinois</field>
+<field name="grade_level_group">High school</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kansas City (Missouri) Public Schools</field>
+<field name="title">Health education in the elementary school</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="pages">159</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">ill. ; 24 cm.; Note(s): "Selected series of textbooks": p. 156-158./ Includes
+bibliographical references.</field>
+<field name="publisher">Kansas City (Missouri) Public Schools</field>
+<field name="pub_place">Kansas City, KS</field>
+<field name="language">English</field>
+<field name="call_number">613 .K16h</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kentucky State Department of Education</field>
+<field name="title">A program of health services for Kentucky schools</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="keywords">School health services</field>
+<field name="notes">p. 123-152 : ill., forms ; 23 cm.; Note(s): At head of title: Commonwealth of
+Kentucky./ Prepared jointly by the State Department of Education and the State Department of Health
+-- Foreword.</field>
+<field name="series_title">Kentucky State Department of Education. Educational bulletin</field>
+<field name="series_vol">23</field>
+<field name="issue">3</field>
+<field name="publisher">Kentucky State Department of Education</field>
+<field name="pub_place">Frankfort, KY</field>
+<field name="language">English</field>
+<field name="call_number">613 .K36p</field>
+<field name="state_country">Kentucky</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hamilton, R. W.</field><field name="author_nat">R. W. Hamilton</field>
+<field name="corp_author">University of Kentucky. Bureau of School Service</field>
+<field name="title">Health and happiness Mother goose rhymes</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="pages">18</field>
+<field name="keywords">Readers</field>
+<field name="keywords">Health education</field>
+<field name="notes">2 p. l.; , 1 l. 23 cm.; Note(s): "One of several books about food and
+health."--2d prelim. leaf.; Other Titles: Mother Goose rhymes. Health and happiness; Responsibility:
+by R.W. Hamilton. Published by Bureau of school service, University of Kentucky as a part of an
+experiment in applied economics made possible by a grant from the Alfred P. Sloan
+foundation.</field>
+<field name="publisher">University of Kentucky. Bureau of School Service</field>
+<field name="pub_place">Ann Arbor, MI</field>
+<field name="language">English</field>
+<field name="call_number">613 .K37h</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Schools. Joint School Health</field>
+<field name="title">A handbook for school health services</field>
+<field name="pages">41</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Kern County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .K39h</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kern County (California) Schools. Joint School Health</field>
+<field name="title">A vision conservation program for Kern County schools</field>
+<field name="year">1957</field>
+<field name="date">01/1957</field>
+<field name="pages">8</field>
+<field name="keywords">Vision tests</field>
+<field name="publisher">Kern County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .K39v</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lakewood (Ohio) Public Schools</field>
+<field name="title">Teacher's guide to : health program : upper elementary level: tentative until
+revision fall 1952-53</field>
+<field name="year">1951</field>
+<field name="date">1951-1952</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Lakewood (Ohio) Public Schools</field>
+<field name="pub_place">Lakewood, OH</field>
+<field name="language">English</field>
+<field name="call_number">613 .L19t v. 2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Marque (Texas) Independent School District</field>
+<field name="title">A suggested guide for the teaching of health education: grade nine</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">5</field>
+<field name="keywords">Health education</field>
+<field name="publisher">La Marque (Texas) Independent School District</field>
+<field name="pub_place">La Marque, TX</field>
+<field name="language">English</field>
+<field name="call_number">613 .L21s</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_number">9th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">La Mesa-Spring Valley (California) School District</field>
+<field name="title">Health guide</field>
+<field name="pages">53</field>
+<field name="keywords">School health services</field>
+<field name="keywords">Physical education and training</field>
+<field name="publisher">La Mesa-Spring Valley (California) School District</field>
+<field name="pub_place">La Mesa, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .L22h</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Health guide for primary grades</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">123</field>
+<field name="keywords">Health education</field>
+<field name="notes">123 p. ; 28 cm.; Responsibility: prepared by Rowena A. Coan ... [et
+al.].</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .L84h v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Long Beach (California) Unified School District</field>
+<field name="title">Health guide for intermediate grades</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">167</field>
+<field name="keywords">Health education</field>
+<field name="notes">123 p. ; 28 cm.; Responsibility: prepared by Rowena A. Coan ... [et
+al.].</field>
+<field name="publisher">Long Beach (California) Unified School District</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .L84h v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">Health, junior high school : an instructional guide</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">220</field>
+<field name="keywords">Health education</field>
+<field name="notes">x; ; 28 cm.; Note(s): Text parallel to spine./ Includes bibliographical
+references.; Responsibility: Los Angeles City Schools, Division of Instructional Planning and
+Services, Instructional Planning Branch.</field>
+<field name="series_title">School publication (Los Angeles City School District)</field>
+<field name="series_vol">X-86</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .L87h 1969</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">Instructional guide: health, senior high school</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">367</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">SC-617</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .L87i</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Instructional
+Services</field>
+<field name="title">Health in the elementary schools, an instructional guide</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">360</field>
+<field name="keywords">Health education</field>
+<field name="notes">xvii; ill.; Note(s): Includes bibliographies.</field>
+<field name="series_title">Los Angeles (California) City School District. Publication</field>
+<field name="series_vol">EC-201</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .L87h</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Louisiana State Department of Education</field>
+<field name="title">Growing healthfully; a tentative guide in health and safety instruction for
+elementary schools</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">170</field>
+<field name="keywords">Health education</field>
+<field name="notes">170 pages 28 cm.; Responsibility: Prepared by the Health Education Workshop
+Group, Louisiana State University. Issued by Shelby M. Jackson and S.J. Phillips.</field>
+<field name="series_title">Louisiana State Department of Education, Bulletin</field>
+<field name="series_vol">731</field>
+<field name="publisher">Louisiana State Department of Education</field>
+<field name="pub_place">Baton Rouge, LA</field>
+<field name="language">English</field>
+<field name="call_number">613 .L88g</field>
+<field name="state_country">Louisiana</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cann, Margaret Jane</field><field name="author_nat">Margaret Jane Cann</field>
+<field name="title">Madera County health handbook for teachers</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Madera County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .M17h</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Memphis (Tennessee) Board of Education</field>
+<field name="title">Course of study [for] Memphis city schools: health education</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Memphis (Tennessee) Board of Education</field>
+<field name="pub_place">Memphis, TN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M53c</field>
+<field name="state_country">Tennessee</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Merced County (California) Schools</field>
+<field name="title">Health instruction guide for classroom teachers of the elementary schools of
+Merced County</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="pages">69</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Merced County (California) Schools</field>
+<field name="pub_place">Merced, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .M55h</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">New adventures in meeting health problems</field>
+<field name="year">1955</field>
+<field name="date">1955-1957</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Living and working together</field>
+<field name="year">1957</field>
+<field name="date">10/1957</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">6</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Living and working together: suggested student activities and projects</field>
+<field name="year">1957</field>
+<field name="date">10/1957</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Recent progress in medicine and public health</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">7</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Recent progress in medicine and public health: suggested student activities and
+projects</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Meeting the challenge of extreme heat and cold</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">6</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Meeting the challenge of extreme heat and cold: suggested student activities and
+projects</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Exploring the air above us</field>
+<field name="year">1956</field>
+<field name="date">04/1956</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">5</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Exploring the air above us: suggested student activities and projects</field>
+<field name="year">1956</field>
+<field name="date">04/1956</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Exploring the mysteries of the sea</field>
+<field name="year">1955</field>
+<field name="date">12/1955</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">1</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Exploring the mysteries of the sea: suggested student activities and
+projects</field>
+<field name="year">1955</field>
+<field name="date">12/1955</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Using atomic energy in the service of mankind</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="keywords">Nuclear energy</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">3</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Using atomic energy in the service of mankind: suggested student activities and
+projects</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="keywords">Nuclear energy</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Exploring the health potentialities of military service</field>
+<field name="year">1955</field>
+<field name="date">04/1955</field>
+<field name="keywords">Military service</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">1</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Military service and the home</field>
+<field name="year">1955</field>
+<field name="date">04/1955</field>
+<field name="keywords">Military service</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">The challenge of military service</field>
+<field name="year">1955</field>
+<field name="date">04/1955</field>
+<field name="keywords">Military service</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">Finding solutions to problems of military medicine</field>
+<field name="year">1955</field>
+<field name="date">05/1955</field>
+<field name="keywords">Military service</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="series_vol">26</field>
+<field name="issue">2</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Metropolitan Life Insurance Company</field>
+<field name="title">The challenge of military service and Finding solutions to problems of military
+medicine: suggested student activities and projects</field>
+<field name="year">1955</field>
+<field name="date">04/1955</field>
+<field name="keywords">Military service</field>
+<field name="keywords">Health education</field>
+<field name="series_title">Health bulletin for teachers</field>
+<field name="publisher">Metropolitan Life Insurance Company</field>
+<field name="language">English</field>
+<field name="call_number">613 .M59h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Midland (Texas) Independent School District</field>
+<field name="title">Health, safety, and physical education, grades 1-12</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="pages">61</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="keywords">Safety education</field>
+<field name="publisher">Midland (Texas) Independent School District</field>
+<field name="pub_place">Midland, TX</field>
+<field name="language">English</field>
+<field name="call_number">613 .M63h</field>
+<field name="state_country">Texas</field>
+</doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">A guide for teaching health, physical education [and] recreation, grades
+7-12</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">111</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="keywords">Recreation</field>
+<field name="notes">111 p. ; 28 cm.</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M65h v. 2</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+<field name="title">A guide for teaching health, physical education, recreation, kgn.-grade
+6</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">305</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="keywords">Recreation</field>
+<field name="notes">305 p. 28 cm.; Note(s): Cover title: Health, physical education, recreation,
+kgn.-Grade 6./ Bibliography: p. 303-305.; Other Titles: Health, physical education, recreation,
+kgn.-grade 6.</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M65h v. 1</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">Individual and community health, efficiency for living; junior high school
+health and safety education</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="pages">334</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Public health</field>
+<field name="keywords">Hygiene</field>
+<field name="notes">334 pages.; Note(s): Includes bibliographical references (pages
+327-334).</field>
+<field name="series_title">Minnesota State Department of Education. Curriculum bulletin</field>
+<field name="series_vol">10</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M66i v. 1</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">Individual and community health; efficiency for living : senior high school,
+health and safety education</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="pages">407</field>
+<field name="keywords">Public health</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Hygiene</field>
+<field name="notes">407 p. ; 23 cm.; Note(s): Curriculum bulletin no.14./ Bibliography : p.
+[401]-407.</field>
+<field name="series_title">Minnesota State Department of Education. Curriculum bulletin</field>
+<field name="series_vol">14</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M66i v. 2</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Education</field>
+<field name="title">Growing up for efficient everyday living : elementary school, grades 1-8,
+health, physical education and safety</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="pages">203</field>
+<field name="keywords">Public health</field>
+<field name="keywords">Physical education and training</field>
+<field name="notes">203 pages ; 23 cm.; Note(s): "Code VIII-A-E-I."/ Includes bibliographical
+references (pages 17-24).</field>
+<field name="series_title">Minnesota State Department of Education. Curriculum bulletin</field>
+<field name="series_vol">2</field>
+<field name="publisher">Minnesota State Department of Education</field>
+<field name="pub_place">St. Paul, MN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M66g</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Department of Health</field>
+<field name="title">Health information materials : pamphlets, radio scripts, newspaper
+articles</field>
+<field name="year">1953</field>
+<field name="date">1953-1954</field>
+<field name="pages">33</field>
+<field name="keywords">Public health</field>
+<field name="keywords">Health education</field>
+<field name="notes">33 pages ; 28 cm; Note(s): Cover title./ Prepared by Public Health Education
+Section.</field>
+<field name="publisher">Minnesota State Department of Health</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M66h</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minnesota State Division of Dental Health</field>
+<field name="title">Dental health for children : a booklet for teachers</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="pages">24</field>
+<field name="keywords">Dental care</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility:
+the Minnesota Department of Health, Division of Dental Health.</field>
+<field name="publisher">Minnesota State Department of Health, Division of Dental Health</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="language">English</field>
+<field name="call_number">613 .M66d</field>
+<field name="state_country">Minnesota</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mississippi State Division of Instruction</field>
+<field name="title">Health education for Mississippi high schools</field>
+<field name="year">1952</field>
+<field name="date">01/1952</field>
+<field name="pages">176</field>
+<field name="keywords">Health education</field>
+<field name="notes">176 pages 23 cm.</field>
+<field name="series_title">Mississippi school bulletin</field>
+<field name="series_vol">133</field>
+<field name="publisher">Mississippi State Division of Instruction</field>
+<field name="pub_place">Jackson, MS</field>
+<field name="language">English</field>
+<field name="call_number">613 .M67h</field>
+<field name="state_country">Mississippi</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Montebello (California) Unified School District</field>
+<field name="title">Health and physical education in the elementary schools</field>
+<field name="year">1950</field>
+<field name="date">09/1950</field>
+<field name="pages">66</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="publisher">Montebello (California) Unified School District</field>
+<field name="pub_place">Montebello, CA</field>
+<field name="language">English</field>
+<field name="call_number">613 .M77h</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Monterey County (California) Schools</field>
+<field name="title">Manual of health services for Monterey County schools</field>
+<field name="year">1969</field>
+<field name="date">09/1969</field>
+<field name="pages">80</field>
+<field name="keywords">School health services</field>
+<field name="publisher">Monterey County (California) Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .M78m</field>
+<field name="state_country">California</field>
+</doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Montgomery County (Maryland) Public Schools</field>
+<field name="title">Course of study : grades 7-12 : health education</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="pages">177</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Montgomery County (Maryland) Public Schools</field>
+<field name="language">English</field>
+<field name="call_number">613 .M787h</field>
+<field name="state_country">Maryland</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nashville (Tennessee) City Public Schools</field>
+<field name="title">Suggested guide for health instruction through integration in secondary
+schools</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">197</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Nashville (Tennessee) City Public Schools</field>
+<field name="pub_place">Nashville, TN</field>
+<field name="language">English</field>
+<field name="call_number">613 .N24s</field>
+<field name="state_country">Tennessee</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nashville (Tennessee) City Public Schools</field>
+<field name="title">A teacher's guide for health instruction in elementary grades</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">119</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Nashville (Tennessee) City Public Schools</field>
+<field name="pub_place">Nashville, TN</field>
+<field name="language">English</field>
+<field name="call_number">613 .N24su</field>
+<field name="state_country">Tennessee</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Committee on School Health Policies (U.S.)</field>
+<field name="corp_author">National Education Association of the United States</field>
+<field name="corp_author">American Medical Association</field>
+<field name="title">Suggested school health policies</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">54</field>
+<field name="keywords">School hygiene</field>
+<field name="edition">4th</field>
+<field name="publisher">American Medical Association</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">613 .N271s</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Conference for Cooperation in Health Education. National
+Committee on School Health Policies</field>
+<field name="title">Suggested school health policies; a charter for school health</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="pages">46</field>
+<field name="keywords">School hygiene</field>
+<field name="notes">46 p.; Note(s): First printed 1945./ "Selective source bibliography": p.
+[43]-46./ Also issued online.</field>
+<field name="publisher">Health Education Council</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N27s</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Schneider, Elsa</field><field name="author_nat">Elsa Schneider</field>
+<field name="title">Health, physical education and recreation in small schools; principles and
+procedures of administration</field>
+<field name="year">1948</field>
+<field name="date">10/1948</field>
+<field name="pages">67</field>
+<field name="keywords">Physical education and training</field>
+<field name="keywords">Rural schools</field>
+<field name="keywords">School hygiene</field>
+<field name="notes">67 p.; Note(s): "Distributed to members of the Department of Rural Education as
+the 1948 Yearbook."/ Also issued online.; Responsibility: Ed. by Elsa Schneider.</field>
+<field name="publisher">National Education Association of the United States</field>
+<field name="pub_place">Washington, DC</field>
+<field name="language">English</field>
+<field name="call_number">613 .N27h</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Jersey State Department of Education. Division of Curriculum and
+Instruction</field>
+<field name="title">A guide for health education in the secondary school</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">121</field>
+<field name="keywords">Hygiene</field>
+<field name="keywords">Health education</field>
+<field name="publisher">New Jersey State Department of Education</field>
+<field name="pub_place">Trenton, NJ</field>
+<field name="language">English</field>
+<field name="call_number">613 .N52h v. 2</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Jersey State Department of Education. Division of Elementary
+Education</field>
+<field name="corp_author">New Jersey State Division of Health, Safety, and Physical
+Education</field>
+<field name="title">Health education in the elementary school</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">128</field>
+<field name="keywords">Health education</field>
+<field name="notes">128 pages : illustrations ; 23 cm.; Note(s): "Leadership provided by ...
+Divisions of Health, Safety, and Physical Education and Elementary Education."--Page 3./ Includes
+bibliographical references (pages 115-127).</field>
+<field name="series_title">New Jersey State Department of Education. Elementary school
+bulletin</field>
+<field name="series_vol">18</field>
+<field name="edition">Rev.</field>
+<field name="publisher">New Jersey State Department of Education</field>
+<field name="pub_place">Trenton NJ</field>
+<field name="language">English</field>
+<field name="call_number">613 .N52h v. 1</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Mexico State Department of Education</field>
+<field name="title">Curriculum guide for the elementary schools of New Mexico: health, physical
+education, recreation, safety</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="pages">139</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Physical education and training</field>
+<field name="keywords">Safety education</field>
+<field name="series_title">New Mexico State Department of Education. Bulletin</field>
+<field name="series_vol">13</field>
+<field name="publisher">New Mexico State Department of Education</field>
+<field name="pub_place">Santa Fe, NM</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53c</field>
+<field name="state_country">New Mexico</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Mexico State Department of Education</field>
+<field name="corp_author">New Mexico State Department of Public Health</field>
+<field name="title">Handbook for school nurses in New Mexico</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">76</field>
+<field name="keywords">School nursing</field>
+<field name="notes">76 p. ill.; Responsibility: Prepared jointly by New Mexico Dept. of Education
+[and] New Mexico Dept. of Public Health, approved by New Mexico Advisory Committee on School
+Health.</field>
+<field name="series_title">New Mexico State Department of Education. Bulletin</field>
+<field name="series_vol">23</field>
+<field name="publisher">New Mexico State Department of Education</field>
+<field name="pub_place">Santa Fe, NM</field>
+<field name="language">English</field>
+<field name="call_number">613 .N52ha</field>
+<field name="state_country">New Mexico</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State Department of Education</field>
+<field name="title">Strand 1, physical health : disease prevention and control for grades 10, 11,
+and 12</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">27</field>
+<field name="keywords">Health education</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53h v. 3</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York State Department of Education</field>
+<field name="title">Strand 1, physical health : health status for grades 7, 8, and 9</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">32</field>
+<field name="keywords">Health education</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53h v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Strand 2, socialogical health problems : A. alcohol, B. drugs and narcotics, C.
+smoking, grades 7, 8, 9</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">91</field>
+<field name="keywords">Alcoholism</field>
+<field name="keywords">Drug abuse</field>
+<field name="keywords">Smoking</field>
+<field name="keywords">Health education</field>
+<field name="notes">viii; ill. ; 22 x 28 cm.; Note(s): Cover title./ "Prototype curriculum materials
+for the elementary and seconday grades."/ On t.p.: Health curriculum materials./ Includes
+bibliographies.; Other Titles: Sociological health problems, grades 7, 8, 9,; Prototype curriculum
+materials for the elementary and secondary grades.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53h v. 4</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">The consumer and his health dollar; one of a series in expanded programs of
+consumer education</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">73</field>
+<field name="keywords">Health education</field>
+<field name="notes">vi; 28 cm.; Responsibility: Printed through the use of ESEA Title I
+funds.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53c</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Health curriculum materials, grades 10, 11, 12 : strand IV, environmental and
+community health, world health</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">50</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Environmental health</field>
+<field name="keywords">Public health</field>
+<field name="notes">vii; ; 22 x 28 cm.; Note(s): "Prototype curriculum materials for the elementary
+and secondary grades."/ "Special edition for evaluation and discussion."/ "Multimedia resources": p.
+49-52.; Responsibility: University of the State of New York, State Education Department, Bureau of
+Secondary Curriculum Development.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53h v. 5</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Health curriculum materials [for] grades 7, 8, 9: strand IV, environmental and
+community health, consumer health education</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">39</field>
+<field name="keywords">Health education</field>
+<field name="keywords">Environmental health</field>
+<field name="keywords">Public health</field>
+<field name="notes">vi; ; 22 x 28 cm.; Note(s): "Prototype curriculum materials for the elementary
+and secondary grades."/ "Special edition for evaluation and discussion."/ Includes bibliographical
+references (p. 41-69).; Other Titles: Prototype curriculum materials for the elementary and
+secondary grades; Responsibility: University of the State of New York, State Education Department,
+Bureau of Secondary Curriculum Development.</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53h v. 6</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Suggested guidelines for the development of courses of study in health education
+for junior and senior high schools</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">35</field>
+<field name="keywords">Health education</field>
+<field name="notes">iv; ; 28 cm.; Note(s): At head of title: Health: prototype curriculum materials
+for the elementary and secondary grades.; Other Titles: Health: prototype curriculum materials for
+the elementary and secondary grades</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53h v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Middle school</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum
+Development</field>
+<field name="title">Strand V, Education for survival. Safety education, grades 7, 8, 9</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">36</field>
+<field name="keywords">Safety education</field>
+<field name="notes">vii; ; 22 x 28 cm.; Note(s): Includes bibliographical references (p. 32-36).;
+Other Titles: Education for survival; Safety education</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N53h v. 7</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Health guidance in elementary schools</field>
+<field name="year">1960</field>
+<field name="date">1959-1960</field>
+<field name="keywords">School health services</field>
+<field name="series_title">New York City Board of Education. Curriculum bulletin</field>
+<field name="series_vol">7</field>
+<field name="edition">Rev. ed.</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N532h 1959-1960 v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Guide for health counselors</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">104</field>
+<field name="keywords">School health services</field>
+<field name="keywords">Health education</field>
+<field name="series_title">New York City Board of Education. Curriculum bulletin; 1952-53
+ser.</field>
+<field name="series_vol">3</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N532g</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Health guidance in elementary schools</field>
+<field name="year">1955</field>
+<field name="date">1954-1955</field>
+<field name="pages">36</field>
+<field name="keywords">School health services</field>
+<field name="series_title">New York City Board of Education. Curriculum bulletin,; 1954-55
+series</field>
+<field name="series_vol">3</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N532h 1954-1955 v. 1</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Division of Health, Physical
+Education, and Recreation</field>
+<field name="title">The New York State physical fitness test for boys and girls,, grades 4-12; a
+manual for teachers of physical education</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">62</field>
+<field name="keywords">Physical fitness and training</field>
+<field name="keywords">Tests</field>
+<field name="edition">Experimental</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N531p</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McCain, Madeleine</field><field name="author_nat">Madeleine McCain</field>
+<field name="corp_author">North Carolina State Board of Education</field>
+<field name="title">A guide to curriculum study : health</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">38</field>
+<field name="keywords">Health education</field>
+<field name="notes">iv, [2]; ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.;
+Other Titles: Health; Responsibility: by Madeleine McCain and Committee.</field>
+<field name="publisher">North Carolina State Board of Education</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">613 .N86he</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York City Board of Education</field>
+<field name="title">Health guidance and health service in secondary schools</field>
+<field name="year">1956</field>
+<field name="date">1955-1956</field>
+<field name="pages">68</field>
+<field name="keywords">School hygiene</field>
+<field name="series_title">New York City Board of Education. Curriculum bulletin, 1955-56
+series</field>
+<field name="series_vol">8</field>
+<field name="publisher">New York City Board of Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">613 .N532h 1955-56 v. 2</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Norfolk (Virginia) City Public Schools</field>
+<field name="title">Health education for elementary schools: a guidebook for teachers</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">392</field>
+<field name="keywords">Health education</field>
+<field name="publisher">Norfolk (Virginia) City Public Schools</field>
+<field name="pub_place">Norfolk, VA</field>
+<field name="language">English</field>
+<field name="call_number">613 .N83h</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Public Schools</field>
+<field name="title">Health education</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="pages">409</field>
+<field name="keywords">Health education</field>
+<field name="notes">409 pages : illustrations ; 23 cm.; Note(s): Includes bibliographical references
+(pages 358-363).; Health education.; Raleigh, N.C. : State Superintendent of Public Instruction,
+[1953]</field>
+<field name="series_title">North Carolina State Public Schools. Publication</field>
+<field name="series_vol">287</field>
+<field name="publisher">North Carolina State Public Schools</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">613 .N86h</field>
+<field name="state_country">North Carolina</field>
+</doc>
+</add>

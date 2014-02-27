@@ -1,0 +1,2270 @@
+
+
+
+
+TY  - BOOK
+A2  - University of Minnesota. School of Nursing
+T1  - Minnesota rural nursing programs for students in nursing
+Y1  - 1952
+D1  - 1952
+SP  - 35
+KW  - Nursing
+PB  - University of Minnesota. School of Nursing
+CY  - Minneapolis, MN
+LA  - English
+CN  - 613.2 .M66m
+SC  - Minnesota
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Nursing and child care for high schools
+Y1  - 1955
+D1  - 1954-1955
+SP  - 86
+KW  - Nursing
+KW  - Child care
+N1  - 86 p. illus. 23 cm.
+T2  - New York City Board of Education. Curriculum bulletin, 1954-55 series
+V1  - 8
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 613.2 .N53n
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - W.K. Kellogg Foundation
+T1  - An experience in practical nurse education
+Y1  - 1957
+D1  - 1957?
+SP  - 63
+KW  - Practical nursing
+KW  - Nursing education
+N1  - iii; ill. ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: W.K. Kellogg Foundation.
+PB  - W.K. Kellogg Foundation
+CY  - Battle Creek, MI
+LA  - English
+CN  - 613.2 .K29e
+ER  - 
+
+TY  - BOOK
+A1  - West, Margaret Despard
+A1  - Hawkins, Christy
+T1  - Nursing schools at the mid-century;
+Y1  - 1950
+D1  - 1950
+SP  - 88
+KW  - Nursing
+KW  - Nursing education
+N1  - xv; ill.; Responsibility: a report prepared under the auspices of the Subcommittee on School Data Analysis for the National Committee for the Improvement of Nursing Services, by Margaret West and Christy Hawkins.
+PB  - National Committee for the Improvement of Nursing Services
+CY  - New York, NY
+LA  - English
+CN  - 613.2 .N27n
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Practical nursing for high schools
+Y1  - 1962
+D1  - 1962
+SP  - 453
+KW  - Practical nursing
+KW  - Nursing
+T2  - New York City Board of Education Curriculum bulletin,; 1960-1961 series
+V1  - 10
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 613.2 .N53p
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Robinson, Catherine M.
+T1  - Handbook for nurses: secondary schools
+Y1  - 1967
+D1  - 1967
+SP  - 51
+KW  - School nursing
+PB  - Harris Publishing Company
+CY  - San Jose, CA
+LA  - English
+CN  - 613.2 .S19h v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency. Division of Guidance Services
+T1  - Guide for administrators and school nurses in the school health program
+Y1  - 1975
+D1  - 1975
+SP  - 76
+KW  - School hygiene
+KW  - Health education
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 74-76).; Responsibility: Texas Education Agency.
+T2  - Texas Education Agency. Division of Guidance Services. Bulletin
+V1  - 752
+PB  - Texas Education Agency. Division of Guidance Services
+CY  - Austin, TX
+LA  - English
+CN  - 613.2 .T35g
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - United States Federal Security Agency. Division of Vocational Education
+T1  - Practical nursing : an analysis of the practical nurse occupation with suggestions for the organization of training programs
+Y1  - 1947
+C1  - 1947
+SP  - 144
+KW  - Practical nursing
+N1  - vi; ill. ; 29 cm.
+T2  - United States Federal Security Agency. Division of Vocational Education. Misc.
+V1  - 8
+PB  - United States Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 613.2 .U58p v. 1
+ER  - 
+
+TY  - BOOK
+A2  - United States Federal Security Agency. Division of Vocational Education
+T1  - Practical nursing curriculum : suggestions for developing a program of instruction based upon the analysis of the practical nurse occupation
+Y1  - 1950
+D1  - 1950
+SP  - 140
+KW  - Practical nursing
+KW  - Nursing education
+N1  - vi; ; 29 cm.
+T2  - United States Federal Security Agency. Division of Vocational Education. Misc.
+V1  - 11
+PB  - United States Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 613.2 .U58p v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) School District
+T1  - Boys physical education handbook, grades 7 and 8
+Y1  - 1963
+D1  - 1963
+SP  - 133
+KW  - Physical education and training
+N1  - 133 pages : illustrations ; 15 x 22 cm; Responsibility: developed by the Hayward School District.
+PB  - Alameda County School Department
+CY  - Hayward, CA
+LA  - English
+CN  - 613.4 .A31b
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - The Development of basic motor skills : teaching guide for primary physical education
+Y1  - 1968
+D1  - 1968
+SP  - 59
+KW  - Movement education
+KW  - Perceptual-motor learning
+KW  - Physical education and training
+N1  - i; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 58-59).; Responsibility: Alameda County School Department.
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 613.4 .A31d
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Capon, Jack
+T1  - Perceptual-motor lesson plans : basic and "practical" lesson plans for perceptual-motor programs in pre-school and elementary grades
+Y1  - 1975
+D1  - 1975
+SP  - 72
+KW  - Perceptual-motor learning
+N1  - ill. ; 28 cm.; Responsibility: by Jack Capon ; editor, Frank Alexander ; artist, John Lewis.
+ED  - 3rd
+PB  - Front Row Experience
+CY  - Alameda, CA
+LA  - English
+CN  - 613.4 .A309p
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools. Department of Health, Education, Physical Education and Recreation
+T1  - Teachers' outline for the physical education program
+Y1  - 1951
+D1  - 09/1951
+SP  - 16
+KW  - Physical education and training
+PB  - Alameda County (California) School
+CY  - Oakland, CA
+LA  - English
+CN  - 613.4 .A31t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Sanders, Mardel R.
+A2  - Alameda County (California) Schools
+T1  - A teaching unit on safety in physical education
+SP  - 21
+KW  - Physical education and training
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 613.4 .A31te
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Saalwaechter, Gene
+T1  - Physical education games for grades 1-6
+Y1  - 1953
+D1  - 1953
+SP  - 54
+KW  - Physical education and training
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 613.4 .A318p
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Albany (California) Unified School District
+T1  - Physical education: course of study for Albany high school
+Y1  - 1949
+D1  - 01/1949
+SP  - 31
+KW  - Physical education and training
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 613.4 .A32p
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - The Best of Challenge, v. 2
+Y1  - 1974
+D1  - 1974
+SP  - 174
+KW  - Physical education and training
+KW  - Children with disabilities
+KW  - Recreation
+N1  - vi; ill. 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Challenge (Washington, D.C.)
+PB  - American Association for Health, Physical Education and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51be v. 2
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - The Best of Challenge
+Y1  - 1971
+D1  - 1971
+SP  - 224
+KW  - Physical education and training
+KW  - Children with disabilities
+KW  - Recreation
+N1  - v. illus. 28 cm.; Note(s): Includes bibliographical references./ Also issued online.; Other Titles: Challenge (Washington, D.C.)
+PB  - American Association for Health, Physical Education and Recreation 
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51be v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Werner, George I.
+T1  - After-school games and sports, grades 4, 5, 6
+Y1  - 1964
+D1  - 1964
+SP  - 55
+KW  - Games
+KW  - Sports
+N1  - 55 p. illus. (part col.) 23 cm.; Note(s): Bibliography: p. 51-54.; Responsibility: by George I. Werner.
+T2  - The Classroom teacher series in health education, physical education, and recreation
+V1  - 6
+PB  - American Association for Health, Physical Education and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51a
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, Holly
+T1  - Workbook : fundamentals of athletic training for women
+Y1  - 1974
+D1  - 1974
+SP  - 267
+KW  - Sports injuries
+KW  - Women athletes
+N1  - ix; ill. ; 28 cm.; Note(s): "AAHPER publications."/ Includes bibliographical references.; Other Titles: Fundamentals of athletic training for women; Responsibility: Holly Wilson ; text illustrated by Michael "Pete" Engle and David Wright.
+T2  - AAHPER publications
+PB  - National Association for Girls and Women in Sports
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A49f
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Essentials of a quality elementary school physical education program
+Y1  - 1970
+D1  - 1970
+KW  - Physical education and training
+N1  - [16] p. 23 x 10 cm.; Note(s): "A position paper."/ Cover title./ Includes bibliographical references.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51e
+ER  - 
+
+TY  - BOOK
+A1  - Ashton, Dudley
+A1  - Irey, Charlotte
+A2  - American Association for Health, Physical Education, and Recreation
+A2  - Council for Facilities, Equipment, and Supplies
+T1  - Dance facilities
+Y1  - 1972
+D1  - 1972
+SP  - 22
+KW  - Dance equipment and supplies
+N1  - v; illus. 23 cm.; Responsibility: Editors: Dudley Ashton [and] Charlotte Irey.
+PB  - Council for Facilities, Equipment, and Supplies, American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51d
+ER  - 
+
+TY  - BOOK
+A1  - Jaeger, Eloise
+A2  - American Association for Health, Physical Education, and Recreation. Physical Education Division
+T1  - Guide to excellence for physical education in colleges and universities : a position paper
+Y1  - 1970
+D1  - 1970
+KW  - Physical education and training
+KW  - College sports
+N1  - [12] p. ; 23 x 11 cm.; Note(s): Cover title./ "Physical Education Division Committee ... Eloise Jaeger (chairman)"--P. [11].; Responsibility: [prepared by a committee of the Physical Education Division of AAHPER].
+PB  - American Association for Health, Physical Education, and Recreation. Physical Education Division
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51g
+ER  - 
+
+TY  - BOOK
+A2  - Joint Committee on Athletic Competition for Children of Elementary and Junior High School Age
+T1  - Desirable athletic competition for children; joint committee report
+Y1  - 1952
+D1  - 1952
+SP  - 46
+KW  - Physical education and training
+N1  - 46 p. illus. 23 cm.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51d
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Kidd, Frances M.
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Guidelines for secondary school physical education : a position paper
+Y1  - 1970
+D1  - 1970
+KW  - Physical education and training
+N1  - [12] p. ; 23 x 10 cm.; Note(s): Cover title./ Frances M. Kidd, chairman.; Responsibility: [by the American Association for Health, Physical Education, and Recreation].
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51gs
+ER  - 
+
+TY  - BOOK
+A1  - Turner, Mary Ann
+T1  - League Constitution and bylaws for girls' interscholastic programs (suggested guide)
+SP  - 54
+KW  - Women athletes
+PB  - National Association for Girls and Women in Sports
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A49L
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education and Recreation. Division for Girls and Women's Sports
+T1  - Handbook for teaching basketball officiating
+Y1  - 1969
+D1  - 1969
+SP  - 17
+KW  - Basketball
+PB  - American Association for Health, Physical Education and Recreation. Division for Girls and Women's Sports
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51h
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Kinesiology IV
+Y1  - 1974
+D1  - 1974
+SP  - 57
+KW  - Kinesiology
+KW  - Physical education and training
+N1  - iv; ill. 26 cm.; Note(s): Includes bibliographical references.; Responsibility: Published by the Committee on Kinesiology of the Physical Education Department, American Association for Health, Physical Education, and Recreation.
+T2  - AAHPER publications
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51k
+ER  - 
+
+TY  - BOOK
+A1  - Jessup, Harvey M.
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - The Little known Olympic sports
+Y1  - 1972
+D1  - 1972
+SP  - 72
+KW  - Sports
+KW  - Olympic sports
+N1  - 72 p. illus. 29 cm.; Note(s): "This series of articles originally appeared in the 1971-72 issues of the Journal of health, physical education, recreation."; Other Titles: Olympic sports; Journal of health, physical education, recreation.; Responsibility: Edited by Harvey M. Jessup for the AAHPER Division of Men's Athletics.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51L
+ER  - 
+
+TY  - BOOK
+A1  - Shannon, Elizabeth
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Manual for teaching western riding
+Y1  - 1970
+D1  - 1970
+SP  - 69
+KW  - Horsemanship
+AB  - pt. I. Basic goals of riding ; Characteristics of a basic position ; Design of position ; Styles of holding reins ; Use of the snaffle bridle ; Standing position ; Elementary control -- pt. II. On a moving horse -- Teaching the standing position -- Teaching standing position for riding regular trot and posting -- Developing confidence and skill at the trot -- Practice in control at the walk and trot -- Theory of position -- Practicing standing position at a walk and trot without holding mane -- Teaching the position for the jog-trot -- Use of bearing rein if alternate reining method has been used -- Circles and turns at regular trot -- Circles and turns at a jog -- First trail ride -- Beginning the lope -- Mechanics of the walk and aids for increasing speed of the walk -- Mechanics of regular trot -- Mechanics of jog-trot -- Jog-trot and change of speeds -- Change of speeds at trot for control -- More trail riding -- Diagonals -- Mechanics and leads of a lope -- Aids for obtaining leads -- Aids for maintaining the lope -- Loping on trail rides.
+N1  - 69 p. illus. 28 cm.; Responsibility: Illustrated by Norma Mason.
+PB  - National Riding Committee, Western Division, American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51m
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Official softball scorebook
+Y1  - 1965
+D1  - 1965
+KW  - Softball
+N1  - 1 v. ill. 23 x 29 cm.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51of
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Physical education for superintendents, supervisors, principals, directors of physical education, teachers, parents
+SP  - 16
+KW  - Physical education and training
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51p
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports. Basketball Committee
+T1  - Official basketball scorebook
+Y1  - 1963
+D1  - 1963
+KW  - Basketball
+KW  - Women athletes
+N1  - 1 v. : ill. ; 22 x 28 cm.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51o
+ER  - 
+
+TY  - BOOK
+A2  - Joint Committee of the Lifetime Sports Education Project and the Project on Recreation and Fitness for the Mentally Retarded
+T1  - Physical activities for the mentally retarded; ideas for instruction
+Y1  - 1968
+D1  - 1968
+SP  - 137
+KW  - Physical education and training
+KW  - Children with mental disabilities
+N1  - 137 p. illus. 28 cm.; Note(s): Bibliography: p. 133-137.
+PB  - Project on Recreation and Fitness for the Mentally Retarded
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51ph
+ER  - 
+
+TY  - BOOK
+A2  - Lifetime Sports Education Project
+T1  - New ideas for bowling instruction
+Y1  - 1970
+D1  - 1970
+SP  - 96
+KW  - Bowling
+N1  - 96 p. illus. 28 cm.; Note(s): Bibliography: p. 91-92.
+PB  - Lifetime Sports Education Project
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51n
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Promising practices in elementary school physical education; report of the Conference for Teachers and Supervisors of Elementary School Physical Education
+Y1  - 1969
+D1  - 1969
+SP  - 117
+KW  - Physical education and training
+N1  - viii; illus. 23 cm.; Genre/Form: Conference proceedings.; Note(s): Bibliography: p. 93-97.
+T2  - Conference for Teachers and Supervisors of Elementary School Physical Education (1968 : Washington, D.C.)
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51pro
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Professional preparation in aquatics education--curriculum guidelines
+Y1  - 1974
+D1  - 1974
+SP  - 148
+KW  - Aquatic sports
+AB  - Professional standards for the physical educator -- Professional standards for the aquatics instructor : General standards for the aquatics instructor ; Instructor of swimming ; Instructor of springboard diving ; Instructor of swimming for the handicapped ; Instructor of skin and SCUBA diving ; Instructor of small craft and open water activity ; Instructor of competitive swimming ; Instructor of synchronized swimming ; Instructor of water polo ; Instructor of lifeguarding ; Instructor of aquatics facilities management -- Professional standards for the aquatics specialist -- Professional standards for the aquatics administrator.
+N1  - ix; illus. 23 cm.; Genre/Form: Conference proceedings.; Note(s): Sponsored by the Aquatics Council of the General Division of AAHPER./ Includes bibliographies.
+T2  - National Symposium on Professional Preparation in Aquatics Education (3rd : 1973 : Minneapolis, Minn.)
+PB  - American Association for Health, Physical Education and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51pra
+ER  - 
+
+TY  - BOOK
+A1  - Buell, Charles E.
+T1  - Physical education and recreation for the visually handicapped
+Y1  - 1973
+D1  - 1973
+SP  - 67
+KW  - Recreation
+KW  - Blind
+KW  - Physical education and training
+N1  - 67 p. illus. 23 cm.; Note(s): Bibliography: p. 57-67.; Responsibility: [by] Charles E. Buell.
+PB  - American Association for Health, Physical Education, and Education
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51pr
+ER  - 
+
+TY  - BOOK
+A1  - McCoy, Mary E.
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Recreational games and sports
+Y1  - 1963
+D1  - 1963
+SP  - 76
+KW  - Sports for women
+N1  - iv; illus. 23 cm.; Note(s): Bibliography: p. 75-76.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51r
+ER  - 
+
+TY  - BOOK
+A1  - Clement, Annie
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected aquatics articles
+Y1  - 1971
+D1  - 1971
+SP  - 128
+KW  - Swimming
+N1  - 128 p. illus. 17 cm.; Note(s): "Articles, taken primarily from the 1963-1969 DGWS Aquatic guides."/ Includes bibliographies.; Responsibility: Annie Clement, editor.
+T2  - Sports articles reprint series
+ED  - 2d
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Felshin, Janet
+A1  - O'Brien, Catherine
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected softball articles.
+Y1  - 1969
+D1  - 1969
+SP  - 111
+KW  - Softball
+N1  - 111 p. illus. 17 cm.; Note(s): "Collection of articles from 1962-1970 DGWS softball guides."/ First published in 1955 under title: Selected articles in softball./ Includes bibliographies.; Responsibility: Jan Felshin and Catherine O'Brien, editors.
+T2  - Sports articles reprint series
+ED  - 3d
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Harder, Lois
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected riding articles
+Y1  - 1969
+D1  - 1969
+SP  - 128
+KW  - Horsemanship
+KW  - Show riding
+N1  - 128 p. illus. 17 cm.; Note(s): "Articles from 1950-1970 ... Archery-riding guides [of the Girls and Women's Sports of the American Association for Health, Physical Education, and Recreation]"/ Also issued online.; Other Titles: Archery, riding guide.; Responsibility: Lois Harder, ed.
+T2  - Sports articles reprint series
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Herndon, Myrtis E.
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Selected fencing articles
+Y1  - 1971
+D1  - 1971
+SP  - 128
+KW  - Fencing
+N1  - 128 p. illus. 17 cm.; Note(s): Includes bibliographical references.
+T2  - Sports articles reprint series
+ED  - 1st
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Bowers, Carolyn O.
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected gymnastics articles
+Y1  - 1971
+D1  - 1971
+SP  - 128
+KW  - Gymnastics for women
+N1  - 128 p. illus. 17 cm.; Note(s): "Collection of articles from 1963-1972 DGWS Gymnastics guides."; Other Titles: Gymnastics guide.; Responsibility: Carolyn O. Bowers, editor.
+T2  - Sports articles reprint series
+ED  - 1st
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Harkins, Dorothy
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected track and field articles
+Y1  - 1972
+D1  - 1972
+SP  - 128
+KW  - Track and field for women
+N1  - 128 p. illus. 17 cm.; Note(s): "Collection of articles from 1962-1970 Track and field guides and from National Institute Proceedings."/ Includes bibliographies.; Other Titles: Track and field guide.
+T2  - Sports articles reprint series
+ED  - 1st
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 11
+ER  - 
+
+TY  - BOOK
+A1  - Richey, Betty
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected field hockey and lacrosse articles
+Y1  - 1963
+D1  - 1963
+SP  - 128
+KW  - Field hockey
+KW  - Lacrosse
+N1  - 128 p. illus. 17 cm.; Responsibility: Betty Richey, editor.6
+T2  - Sports articles reprint series
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 10
+ER  - 
+
+TY  - BOOK
+A1  - Sevy, Ruth
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected soccer and speedball articles; a collection of articles by outstanding authorities on soccer and speedball for girls and women from 1935-64 DGWS guides
+Y1  - 1963
+D1  - 1963
+SP  - 128
+KW  - Soccer for women
+KW  - Speedball
+N1  - 128 p. ill. 17 cm.
+T2  - Sports articles reprint series
+ED  - 2d ed.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 9
+ER  - 
+
+TY  - BOOK
+A1  - Thorpe, Jo Anne
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Selected volleyball articles
+Y1  - 1970
+D1  - 1970
+SP  - 144
+KW  - Volleyball
+N1  - 144 p. ill. 17 cm.; Note(s): Bibliography: p. 139-140./ Also issued online.; Responsibility: From 1959-1969 DGWS volleyball guides ... a special project of the Publications Committee of the Division for Girls and Women's Sports.
+T2  - Sports articles reprint series; Variation: Sports articles reprint series.
+ED  - 3d
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51se v. 7
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Archery-golf guide. 1972/74-
+Y1  - 1972
+D1  - 1972
+SP  - 159
+KW  - Archery
+KW  - Golf for women
+N1  - v. illus. 17 cm. biennial.; Note(s): "With official rules."/ Continues, in part, Archery, riding guide./ Running title, 1972/74- DGW'S archery-golf guide.; Other Titles: DOW'S archery-golf guide.
+T2  - Sports library for girls and women
+PB  - Division for Girls and Women's Sports, American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A515p v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Boetel, Norma
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Basketball guide, July 1974 - July 1975, with official rules
+Y1  - 1974
+D1  - 1974
+SP  - 168
+KW  - Basketball for women
+N1  - 168 p., ill., 18 cm.
+T2  - Sports library for Girls and Women
+PB  - Division for Girls and Women's Sports, American Association for Health, Physical Education and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Midtlyng, Joanna
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Aquatics guide, June 1973 - June 1975 : with official rules
+Y1  - 1973
+D1  - 1973
+SP  - 191
+KW  - Aquatic sports
+KW  - Swimming
+N1  - ill. ; 17 cm.; Responsibility: edited by Joanna Midtlyng.
+T2  - Sports library for girls and women
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Stein, Julian
+A1  - Klappholz, Lowell A.
+A2  - Joseph P. Kennedy, Jr. Foundation
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Special Olympics instructional manual ... from beginners to champions
+Y1  - 1972
+D1  - 1972
+SP  - 138
+KW  - Physical education and training
+KW  - Children with mental disabilities
+KW  - Recreation
+N1  - vi; illus. 28 cm.; Note(s): Commissioned by the Joseph P. Kennedy, Jr. Foundation./ Includes bibliographies.; Responsibility: [by] Julian U. Stein [and] Lowell A. Klappholz.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51so
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Bowling-fencing guide, January 1973-January 1975
+Y1  - 1973
+D1  - 1973
+KW  - Bowling
+KW  - Fencing
+N1  - v. : ill. ; 17 cm.
+T2  - Sports library for girls and women
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 4
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Field hockey-lacrosse guide, June 1972-June 1974-
+Y1  - 1972
+D1  - 1972
+SP  - 176
+KW  - Field hockey
+KW  - Lacrosse
+N1  - v. : ill. ; 17 cm. biennial.
+T2  - Sports library for girls and women
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 5
+ER  - 
+
+TY  - BOOK
+A2  - National Association for Girls & Women in Sport
+T1  - NAGWS guide, basketball August 1975 - August 1976 : with official rules
+Y1  - 1975
+D1  - 1975
+SP  - 126
+KW  - Basketball for women
+N1  - ill. ; 17 cm.; Other Titles: Basketball guide, 1975-1976.; Responsibility: National Association for Girls and Women in Sport ; Sue Pernice, chairperson ; editor, Norma Boetel.
+T2  - Sports library for girls and women.; American Alliance for Health, Physical Education, and Recreation.; AAHPER publications.
+PB  - American Alliance for Health Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Wallace, Lu
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Gymnastics guide, June 1973-June 1975, with official rules
+Y1  - 1973
+D1  - 1973
+SP  - 176
+KW  - Gymnastics for women
+N1  - 176 p., ill., 18 cm.
+T2  - Sports library for girls and women
+PB  - Division for Girls and Women's Sports, American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - english
+CN  - 613.4 .A51sp v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Cox, Keturah
+A1  - Erbaugh, Sarah
+A1  - Hewatt, Carolyn
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Soccer-Speedball flag football guide, June 1972 - June 1974
+Y1  - 1972
+D1  - 1972
+SP  - 176
+KW  - Soccer for women
+KW  - Speedball
+PB  - American Association for Health, Physical Education and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Claussen, Connie
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Softball guide, January 1972-January 1974
+Y1  - 1972
+D1  - 1972
+SP  - 168
+KW  - Softball
+KW  - Sports for women
+N1  - 168 p. ill.; Other Titles: Softball guide.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 9
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Tennis-Badminton-Squash guide, June 1974 - June 1976
+Y1  - 1974
+D1  - 1974
+SP  - 192
+KW  - Badminton (Game)
+KW  - Tennis
+KW  - Squash (Game)
+N1  - 192 pages : illustrations ; 17 cm.; Responsibility: ed. : Patricia Sherman, tennis ; Doris Henderson, badminton, and Marigold A. Edwards, squash.
+T2  - Sports library for girls and women
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 10
+ER  - 
+
+TY  - BOOK
+A1  - Lemen, Mildred
+A1  - Washburn, Jo
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Outing activities and winter sports guide, July 1973 - July 1975, with official rules
+Y1  - 1973
+D1  - 1973
+SP  - 157
+KW  - Outdoor activities and winter sports for women
+N1  - 157 p., ill. 17 cm.; Note(s): Prepared by the Association's Division for Girls and Women's Sports./ Mildred Lemen is the editor for Outing Activities and Jo Washburn is the editor for Winter Sports.
+T2  - Sports library for girls and women
+PB  - American Association for Health, Physical Educatiion, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 7
+ER  - 
+
+TY  - BOOK
+A1  - Wakefield, Frances
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Track and field guide including cross country, January 1972 - January 1974
+Y1  - 1972
+D1  - 1972
+SP  - 168
+KW  - Track and field
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 11
+ER  - 
+
+TY  - BOOK
+A1  - Higgins, Lynne P.
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Volleyball guide, June 1973 - June 1975; with official rules and standards
+Y1  - 1973
+D1  - 1973
+SP  - 159
+KW  - Volleyball for women
+N1  - 159 p., ill., 18 cm.; Note(s): Includes index.; Responsibility: Higgins, Lynne P., Editor.
+T2  - Sports library for Girls and Women
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 12
+ER  - 
+
+TY  - BOOK
+A1  - Pernice, Sue
+A1  - Polvino, Geri
+A2  - American Association for Health, Physical Education, and Recreation. National Association for Girls & Women in Sport
+T1  - Volleyball guide, June 1975 - June 1977; with official rules
+Y1  - 1975
+D1  - 1975
+SP  - 138
+KW  - Volleyball for women
+T2  - Sports library for Girls and Women
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51sp v. 12
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Swimming technique charts
+Y1  - 1971
+D1  - 1971
+SP  - 12
+KW  - Swimming
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51t v. 3
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Badminton technique charts
+Y1  - 1964
+D1  - 1964
+SP  - 11
+KW  - Badminton (Game)
+N1  - 11 charts
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51t v. 1
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Softball technique charts
+Y1  - 1963
+D1  - 1963
+SP  - 11
+KW  - Softball
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51t v. 2
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation. Division for Girls and Women's Sports
+T1  - Tennis technique charts
+Y1  - 1964
+D1  - 1964
+SP  - 11
+KW  - Tennis
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51t v. 4
+ER  - 
+
+TY  - BOOK
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Trends in elementary school physical education
+Y1  - 1968
+D1  - 05/1968
+SP  - 24
+KW  - Physical education and training
+N1  - 24 p. ill. 28 cm.; Note(s): Cover title./ Most of the material appeared originally in the Journal of health, physical education, recreation between January 1967 and June 1970./ "Books from England on movement education" p. 16.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51tr
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education. Elementary School Council. Physical Education Committee
+T1  - Physical education, a guide for elementary schools, Arkansas
+Y1  - 1961
+D1  - 1961
+SP  - 92
+KW  - Physical education and training
+N1  - 92 p. ill. 23 cm.; Responsibility: Prepared by a special committee of the Arkansas Elementary Council.
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AR
+LA  - English
+CN  - 613.4 .A72p v. 1
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education. Elementary School Council. Physical Education Committee
+T1  - Physical education, a guide for secondary schools, Arkansas
+Y1  - 1956
+D1  - 1956
+SP  - 35
+KW  - Physical education and training
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AR
+LA  - English
+CN  - 613.4 .A72p v. 2
+SC  - Arkansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Shay, Clayton
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Skills test manual: volleyball for boys and girls
+Y1  - 1969
+D1  - 1969
+SP  - 36
+KW  - Volleyball
+KW  - Athletic ability
+N1  - 36 p. ill.; Note(s): Prepared for the Sports Skills Project Committee of the Research Council of the American Association for Health, Physical Education, and Recreation.
+T2  - AAHPER sports skills tests
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 613.4 .A51v
+ER  - 
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - Guide to the minimum program of physical education activities, fourth grade
+SP  - 87
+KW  - Physical education and training
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 613.4 .A53g
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - Course of study in physical education for elementary schools
+Y1  - 1957
+D1  - 09/1957
+SP  - 82
+KW  - Physical education and training
+T2  - Beverly Hills (California) Unified School District. Curriculum bulletin
+V1  - 17
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 613.4 .B57c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Bloomfield (New Jersey) Public Schools
+T1  - A child grows and develops
+Y1  - 1951
+D1  - 09/1951
+KW  - Growth
+KW  - Child development
+PB  - Bloomfield (New Jersey) Public Schools
+CY  - Bloomfield, NJ
+LA  - English
+CN  - 613.4 .B65c
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools. School Committee
+T1  - Course in physical education for grades I, II, III
+Y1  - 1954
+D1  - 1954
+SP  - 89
+KW  - Physical education and training
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 3
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 613.4 .B74c
+SC  - Massachusetts
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools. School Committee
+T1  - Course of study in physical education for boys grades vii-xii
+Y1  - 1957
+D1  - 1957
+SP  - 57
+KW  - Physical education and training
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 7
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 613.4 .B74co
+SC  - Massachusetts
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Fearon, Jack
+A2  - Bronxville (New York) School
+T1  - Course of study in physical education for the Bronxville school, k thru 12
+Y1  - 1964
+D1  - 09/1964
+SP  - 38
+KW  - Physical education and training
+PB  - Bronxville (New York) School
+CY  - Bronxville, NY
+LA  - English
+CN  - 613.4 .B87c
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Broward County (Florida) Schools
+T1  - A guide-book for teachers of physical education in the junior high schools
+Y1  - 1958
+D1  - 1958
+SP  - 88
+KW  - Physical education and training
+PB  - Broward County (Florida) Schools
+LA  - English
+CN  - 613.4 .B88g
+SC  - Florida
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Schools
+T1  - Physical education teaching guide, k-2
+Y1  - 1959
+D1  - 1959
+SP  - 58
+KW  - Physical education and training
+PB  - Butte County (California) Schools
+CY  - Oroville, CA
+LA  - English
+CN  - 613.4 .B98p
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Physical Education Curriculum Framework and Criteria Committee
+T1  - Physical education framework for California public schools, kindergarten through grade twelve
+Y1  - 1973
+D1  - 1973
+SP  - 87
+KW  - Physical education and training
+N1  - vii; 23 cm.; Note(s): Bibliography: p. 83-87.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Dexter, Genevie
+A2  - California State Department of Education
+T1  - Instruction of physically handicapped minors in remedial physical education
+Y1  - 1969
+D1  - 1969
+SP  - 33
+KW  - Physical education and training
+KW  - Children with disabilities
+N1  - v; 23 cm.; Note(s): Prepared for the Bureau of Health Education, Physical Education, and Recreation.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15i 1969
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Dexter, Genevie
+A2  - California State Department of Education
+T1  - Instruction of physically handicapped minors in remedial physical education. Prepared for the Bureau of Health Education, Physical Education, Athletics, and Recreation
+Y1  - 1970
+D1  - 1970
+SP  - 31
+KW  - Physical education and training
+KW  - Children with disabilities
+N1  - iv; 23 cm.; Note(s): Includes bibliographical references.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15i 1970
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Dexter, Genevie
+A2  - California State Department of Education
+T1  - Instruction of physically handicapped pupils in remedial physical education
+Y1  - 1973
+D1  - 1973
+SP  - 31
+KW  - Physical education and training
+KW  - Children with disabilities
+N1  - iv; 23 cm; Note(s): Includes bibliographical references.; Responsibility: prepared by Genevie Dexter.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15i 1973
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Health Education, Physical Education and Recreation
+T1  - Activities suitable for small spaces indoors
+Y1  - 1952
+D1  - 1952
+SP  - 6
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15pa
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Health Education, Physical Education and Recreation
+T1  - Ways of providing leadership education through physical education classes
+SP  - 4
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15pa
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Health Education, Physical Education and Recreation
+T1  - What is a well-balanced physical education program for elementary schools
+Y1  - 1953
+D1  - 12/1953
+SP  - 3
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15pa
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Health Education, Physical Education and Recreation
+T1  - Standards for coeducational activities for the secondary schools of California
+Y1  - 1951
+D1  - 05/1951
+SP  - 4
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15pa
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Health Education, Physical Education and Recreation
+T1  - Proposed junior college physical education curriculum
+SP  - 5
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15pa
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - Los Angeles State College
+T1  - Workshop in physical education for elementary school teachers, Los Angeles State College, June-July 1952
+Y1  - 1952
+D1  - 1953
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15pa
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California Association for Supervision and Curriculum Development
+T1  - Organizing and conducting intramural programs, play days, sports days, field days. Grades 4-8
+Y1  - 1954
+D1  - 1954
+SP  - 75
+KW  - Intramural sports
+N1  - 75 p. illus.
+PB  - California Association for Supervision and Curriculum Development
+LA  - English
+CN  - 613.4 .C152o
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Health Education, Physical Education, and Recreation
+T1  - Physical fitness through physical education for California secondary school boys
+Y1  - 1953
+D1  - 1953
+SP  - 76
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15pf
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Chase, Nelda
+A2  - Cedar Falls (Iowa) Community School District
+T1  - Physical education for senior high girls : a curriculum guide
+Y1  - 1967
+D1  - 1967
+SP  - 134
+KW  - Physical education and training
+KW  - Women athletes
+N1  - 134 leaves : ill. ; 28 cm.; Note(s): Includes bibliographical references (leaves 133-134).; Responsibility: prepared by Nelda Chase.
+PB  - Cedar Falls (Iowa) Community Schools
+CY  - Cedar Falls, IA
+LA  - English
+CN  - 613.4 .C38p
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Children's Music Center
+T1  - Dance: recommended records, books and instruments for rhythms, folk, square, modern, and social dance
+Y1  - 1959
+D1  - 1959
+SP  - 23
+KW  - Dance
+KW  - Catalogs
+PB  - Children's Music Center
+CY  - Los Angeles, CA
+LA  - English
+CN  - 613.4 .C53d
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Physical educational program, grades 9-12, boys
+Y1  - 1951
+D1  - 1951
+SP  - 103
+KW  - Physical education and training
+N1  - 103 p. tables. 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Course of study, physical education, boys, grades 9-12
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 214
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 613.4 .C57p v. 1
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Physical educational program, grades 9-12, girls
+Y1  - 1952
+D1  - 1952
+SP  - 204
+KW  - Physical education and training
+N1  - 204 p. tables. 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Course of study, physical education, boys, grades 9-12
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 215
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 613.4 .C57p v. 2
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Intramural manual (physical activities)
+Y1  - 1947
+D1  - 1947
+SP  - 112
+KW  - Intramural sports
+N1  - 112 p. ill. 28 cm.; Note(s): Bibliography: p. 106-112.
+T2  - Cincinnati Public Schools. Curriculum bulletin
+V1  - 217
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 613.4 .C57i
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Willis, Benjamin C.
+T1  - Teaching guide for health and physical education. An outline of essential health and physical education activities, preschool through junior college
+Y1  - 1956
+D1  - 1956
+SP  - 76
+KW  - Physical education and training
+N1  - iv; ill. 25 cm.
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 613.4 .C53t
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study elementary education: physical education
+Y1  - 1957
+D1  - 1957-1958
+KW  - Physical education and training
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 613.4 .C58p
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Clark County (Nevada) School District
+T1  - Junior high school curriculum guide: girls' physical education
+Y1  - 1958
+D1  - 1958
+SP  - 119
+KW  - Physical education and training
+PB  - Clark County (Nevada) School District
+CY  - Las Vegas, NV
+LA  - English
+CN  - 613.4 .C59j
+SC  - Nevada
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Bureau of Physical Welfare
+T1  - Physical education course of study, Cleveland Elementary Schools, Primary Division
+Y1  - 1946
+D1  - 1946
+SP  - 223
+KW  - Physical education and training
+N1  - 223 p. ill. 31 cm.
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 613.4 .C63p v. 1
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Bureau of Physical Welfare
+T1  - Physical education course of study : Cleveland Elementary Schools, Upper Elementary Division
+Y1  - 1948
+D1  - 1948
+SP  - 391
+KW  - Physical education and training
+N1  - 391 pages : illustrations, music ; 31 cm; Note(s): At head of title: Cleveland Public Schools.; Responsibility: Charles H. Lake [and others].
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 613.4 .C63p v. 2
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Bureau of Physical Welfare
+T1  - Physical education course of study : Cleveland Elementary Schools, Upper Elementary Division, related activities
+Y1  - 1948
+D1  - 1948
+SP  - 85
+KW  - Physical education and training
+N1  - 85 pages : illustrations, music ; 31 cm; Note(s): At head of title: Cleveland Public Schools.; Responsibility: Charles H. Lake [and others].
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 613.4 .C63p v. 3
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Physical education course of study for boys in junior and senior high schools, grades seven through twelve
+Y1  - 1955
+D1  - 09/1955
+SP  - 118
+KW  - Physical education and training
+N1  - 118 p. 27 cm.; Note(s): Cover title: Teachers guide for boys physical education, junior and senior high schools./ Bibliography: p. 118.; Other Titles: Teachers guide for boys physical education, junior and senior high schools.
+PB  - Bureau of Physical Welfare, Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 613.4 .C63t
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Byler, Ruth V.
+A2  - Connecticut State Department of Education
+T1  - Physical education, grades 7-12
+Y1  - 1958
+D1  - 11/1958
+SP  - 17
+KW  - Physical education and training
+T2  - Connecticut State Department of Education. Curriculum bulletin series
+V1  - 11
+ED  - Tentative
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 613.4 .C75p
+SC  - Connecticut
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Cureton, Thomas
+T1  - Improvement of psychological states by means of exercise-fitness programs
+Y1  - 1963
+D1  - 02/1963
+KW  - Physical education and training
+N1  - Reprinted from Journal of the Association for Physical and Mental Rehabilitation
+PB  - Association for Physical and Mental Rehabilitation
+LA  - English
+CN  - 613.4 .C95p #38
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Physical Education Departments
+A2  - Greater Cleveland Safety Council. Schools Division
+T1  - Physical education safety
+Y1  - 1950
+D1  - 1950
+SP  - 40
+KW  - Physical education and training
+N1  - 40 p. ; 28 cm.; Responsibility: prepared by Physical Educations Departments of the Greater Cleveland Public Schools.
+PB  - Greater Cleveland Safety Council, Schools Division
+CY  - Cleveland, OH
+LA  - English
+CN  - 613.4 .C63pe
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Manual of classroom games for elementary schools
+Y1  - 1954
+D1  - 1954
+SP  - 77
+KW  - Games
+N1  - 77 p. ill. 28 cm.
+T2  - Dade County (Florida) Public Schools. Curriculum Bulletin No. 5D
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 613.4 .D12m
+SC  - Florida
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Source material for physical education in the elementary school; a supplement to Florida State Department of Education adopted text
+Y1  - 1950
+D1  - 06/1950
+SP  - 69
+KW  - Physical education and training
+T2  - Teaching physical education in the elementary school
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 613.4 .D12s
+SC  - Florida
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Physical education, health instruction, and driver education and training : curriculum guide
+Y1  - 1953
+D1  - 1953
+SP  - 25
+KW  - Physical education and training
+KW  - Health education
+KW  - Automobile driver education
+N1  - 25 p.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613.4 .D14p 1953
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Physical education, health instruction, and driver education and training : curriculum guide
+Y1  - 1958
+D1  - 1958
+SP  - 25
+KW  - Physical education and training
+KW  - Health education
+KW  - Automobile driver education
+N1  - 25 p.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613.4 .D14p 1958
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Physical education, health instruction, and driver education and training : resource materials
+Y1  - 1953
+D1  - 1953
+SP  - 96
+KW  - Physical education and training
+KW  - Health education
+KW  - Automobile driver education
+N1  - 96 p.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613.4 .D14pr 1953
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Physical education, health instruction, and driver education and training : resource materials
+Y1  - 1958
+D1  - 1958
+SP  - 96
+KW  - Physical education and training
+KW  - Health education
+KW  - Automobile driver education
+N1  - 96 p.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613.4 .D14pr 1958
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) City Schools
+T1  - Physical education, elementary schools
+Y1  - 1961
+D1  - 09/1961
+SP  - 174
+KW  - Physical education and training
+N1  - ii; ill. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: Dayton Public Schools.
+PB  - Dayton (Ohio) City Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 613.4 .D27p v. 1
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) City Schools
+T1  - Physical education; high schools
+Y1  - 1962
+D1  - 03/1962
+SP  - 377
+KW  - Physical education and training
+N1  - vii; illus. 28 cm.; Note(s): Cover title.
+PB  - Dayton (Ohio) City Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 613.4 .D27p v. 2
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Ayars, George W.
+A2  - Delaware State Department of Public Instruction. Division of Health, Physical, and Driver Education
+T1  - Sport skills and other physical education activities
+Y1  - 1952
+D1  - 1952
+SP  - 158
+KW  - Physical education and training
+N1  - 158 pages : illustrations ; 23 cm.; Note(s): Includes bibliographical references (pages 156-158).
+T2  - Delaware State Department of Public Instruction. Bulletin
+V1  - 83-52
+ED  - Rev.
+PB  - Delaware State Department of Public Instruction
+LA  - English
+CN  - 613.4 .D34s
+SC  - Delaware
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Physical education guide for the use of teachers of physical education for boys in the junior and senior high schools
+Y1  - 1955
+D1  - 1955
+SP  - 84
+KW  - Physical education and training
+N1  - ill. ; 28 cm.; Other Titles: Guide for the use of teachers of physical education for boys in the junior and senior high schools
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 613.4 .D41p v. 4
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Physical education guide for the use of teachers of physical education in the elementary school
+Y1  - 1951
+D1  - 1951
+SP  - 359
+KW  - Physical education and training
+N1  - ill. ; 28 cm.; Note(s): Stock no. 93816./ Includes bibliographical references.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 613.4 .D41p v. 1
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Physical education guide for the use of teachers of physical education in the junior high school
+Y1  - 1950
+D1  - 1950
+SP  - 297
+KW  - Physical education and training
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 613.4 .D41p v. 2
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Physical education guide for the use of teachers of physical education for girls in senior high school
+Y1  - 1949
+D1  - 1949
+SP  - 213
+KW  - Physical education and training
+N1  - iv, 213 l. illus.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 613.4 .D41p v. 3
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Division of Instructional Services
+T1  - Sensitivity in action
+Y1  - 1968
+D1  - 1968
+SP  - 29
+KW  - Physical education and training
+N1  - ill. ; 16 x 23 cm.; Responsibility: prepared by the Dept. of Health Education, Division of Instructional Services, Denver Public Schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 613.4 .D41s
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools. Department of Health and Physical Education
+T1  - Exploration of basic movements in physical education, for self-contained classroom teachers and specialists
+Y1  - 1960
+D1  - 1960
+SP  - 21
+KW  - Physical education and training
+KW  - Movement education
+N1  - v; ges illustrations 25 cm.; Note(s): "Board of Education of the City of Detroit"--Title page verso.
+T2  - Detroit (Michigan) Public Schools. Publication
+V1  - 4-322 TCH
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 613.4 .D48e
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Duarte (California) Unified School District
+T1  - Physical education handbook: testing can be fun
+KW  - Physical fitness
+KW  - Tests
+PB  - Duarte (California) Unified School District
+CY  - Duarte, CA
+LA  - English
+CN  - 613.4 .D86p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools. Department of Physical Education
+T1  - Course of study, elementary schools, grades 1-6
+Y1  - 1955
+D1  - 06/1955
+SP  - 104
+KW  - Physical education and training
+PB  - Duluth (Minnesota) Public Schools
+CY  - Duluth, MN
+LA  - English
+CN  - 613.4 .D88c
+SC  - Minnesota
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools. Department of Physical Education
+T1  - Play activities in the kindergarten
+Y1  - 1956
+D1  - 09/1956
+SP  - 66
+KW  - Physical education and training
+PB  - Duluth (Minnesota) Public Schools
+CY  - Duluth, MN
+LA  - English
+CN  - 613.4 .D88p
+SC  - Minnesota
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Track and field
+Y1  - 1975
+D1  - 1975
+KW  - Track and field
+N1  - 137 p. in various pagings. : ill. ; 28 cm.
+T2  - Project C.O.P.E. : curriculum objectives for physical education
+V1  - 6
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 6
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Gymnastics
+Y1  - 1975
+D1  - 1975
+KW  - Gymnastics
+N1  - 241 p. in various pagings. : ill. ; 28 cm.
+T2  - Project C.O.P.E. : curriculum objectives for physical education
+V1  - 5
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 5
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - The body
+Y1  - 1975
+D1  - 1975
+KW  - Human body
+KW  - Physical fitness
+N1  - 73 p. in various pagings. : ill. ; 28 cm.
+T2  - Project C.O.P.E. : curriculum objectives for physical education
+V1  - 1
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 2
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Team games
+Y1  - 1975
+D1  - 1975
+KW  - Group games
+N1  - 153 p. in various pagings. : ill. ; 28 cm.
+T2  - Project C.O.P.E. : curriculum objectives for physical education
+V1  - 4
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 4
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Lifetime sports
+Y1  - 1975
+D1  - 1975
+KW  - Curricula
+KW  - Sports
+AB  - Angling.-Archery.-Badminton.-Bowling.-Fencing.-Golf.-Tennis.-Paddle ball.
+N1  - 1 volume (paged irregularly) ; 28 cm.; Other Titles: Angling; Archery; Badminton; Bowling; Fencing; Golf; Tennis; Paddle ball; Responsibility: produced for the Florida department of education by a consortium of writers and consultants employed by the Duval County Board of Public Instruction from the Florida State University, the University of North Florida, Duval County and the state at large.
+T2  - Project C.O.P.E. Curriculum objectives for physical education.
+V1  - 3
+PB  - State of Florida Board of Trustees of Internal Improvement Trust Fund
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 3
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Aquatics
+Y1  - 1975
+D1  - 1975
+KW  - Curricula
+KW  - Aquatic sports
+AB  - Drownproofing.-Swimming.-Lifesaving.-Aquatic art.
+N1  - 1 volume (paged irregularly) ; 28 cm.; Other Titles: Drownproofing; Swimming; Lifesaving; Responsibility: produced for the Florida department of education by a consortium of writers and consultants employed by the Duval County Board of Public Instruction from the Florida State University, the University of North Florida, Duval County and the state at large.
+T2  - Project C.O.P.E. Curriculum objectives for physical education
+V1  - 8
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 8
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Project C.O.P.E.: introductory manual
+Y1  - 1975
+SP  - 23
+EP  - 23
+KW  - Curricula
+KW  - Physical education and training
+N1  - iii; ges ; 28 cm; Responsibility: produced for the Florida department of education by a consortium of writers and consultants employed by the Duval County Board of Public Instruction from the Florida State University, the University of North Florida, Duval County and the state at large.
+T2  - Project C.O.P.E. Curriculum objectives for physical education.
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 1
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Movements and dance concepts
+Y1  - 1975
+D1  - 1975
+KW  - Curricula
+KW  - Dance
+AB  - Fundamentals for movement.-Creative dance.-Folk, square, and social dance.-Special rhythmic activities.
+N1  - 1 volume (paged irregularly) ; 28 cm.; Responsibility: produced for the Florida department of education by a consortium of writers and consultants employed by the Duval County Board of Public Instruction from the Florida State University, the University of North Florida, Duval County and the state at large.
+T2  - Project C.O.P.E. Curriculum objectives for physical education
+V1  - 7
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 7
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Recreational sports : Combatives
+Y1  - 1975
+D1  - 1975
+KW  - Curricula
+KW  - Games
+AB  - Recreational games -- active and quiet.-Self defense techniques.-Wrestling.
+N1  - 1 volume (paged irregularly) ; 28 cm.; Other Titles: Recreational games - active and quiet; Self defense techniques; Wrestling; Responsibility: produced for the Florida department of education by a consortium of writers and consultants employed by the Duval County Board of Public Instruction from the Florida State University, the University of North Florida, Duval County and the state at large.
+T2  - Project C.O.P.E. Curriculum objectives for physical education
+V1  - 9
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63p v. 9
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Facilities for physical education
+Y1  - 1954
+D1  - 1954
+SP  - 73
+KW  - Gymnasiums
+T2  - Florida State Department of Education. Bulletin
+V1  - 13A
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 613.4 .F63f
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+T1  - Folks like fun
+SP  - 58
+KW  - Music
+LA  - English
+CN  - 613.4 .F66f
+ER  - 
+
+TY  - BOOK
+A2  - Fort Benton (Montana) Public Schools
+T1  - Physical education curriculum guide: pilot program
+SP  - 46
+KW  - Physical education and training
+PB  - Fort Benton (Montana) Public Schools
+CY  - Fort Benton, MT
+LA  - English
+CN  - 613.4 .F73p
+SC  - Montana
+ER  - 
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Boys' flag football fundamentals
+Y1  - 1964
+D1  - 1964
+SP  - 16
+KW  - Football
+PB  - Fountain Valley (California) School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 613.4 .F77b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Galesburg (Illinois) Community Unit School District No. 205
+T1  - Elementary physical education course of study
+Y1  - 1957
+D1  - 1957
+KW  - Physical education and training
+PB  - Galesburg (Illinois) Community Unit School District No. 205
+CY  - Galesburg, IL
+LA  - English
+CN  - 613.4 .G15e
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A guide to physical education activities in the elementary school
+Y1  - 1964
+D1  - 1964
+SP  - 159
+KW  - Physical education and training
+PB  - Granite School District
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 613.4 .G75g
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Greensboro (North Carolina) Public Schools
+T1  - Basic activities guide, grades 1-6 physical education
+SP  - 72
+D1  - 1958?
+KW  - Physical education and training
+ED  - Revised
+PB  - Greensboro (North Carolina) Public Schools
+CY  - Greensboro, NC
+LA  - English
+CN  - 613.4 .G81b
+SC  - North Carolina
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Greensboro (North Carolina) Public Schools
+T1  - Experimental testing project: physical education, grades 3, 4, 5, 6
+Y1  - 1958
+D1  - 06/1958
+SP  - 41
+KW  - Physical education and training
+PB  - Greensboro (North Carolina) Public Schools
+CY  - Greensboro, NC
+LA  - English
+CN  - 613.4 .G81b
+SC  - North Carolina
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Falk, Bernie V.
+A2  - Grosse Pointe (Michigan) School System
+T1  - Physical education for early elementary children
+Y1  - 1955
+D1  - 1955
+SP  - 106
+KW  - Physical education and training
+PB  - Grosse Pointe (Michigan) School System
+CY  - Grosse Point, MI
+LA  - English
+CN  - 613.4 .G87p
+SC  - Michigan
+G1  - Elementary
+ER  - 
+

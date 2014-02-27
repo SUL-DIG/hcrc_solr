@@ -1,0 +1,1172 @@
+
+
+
+
+TY  - BOOK
+A1  - Bechtel, P. C.
+A1  - Garrison, R. M.
+A1  - Landis, Paul E.
+A2  - Ohio State Department of Education. Division of Health, Physical Education, Recreation, and Safety
+T1  - A handbook for health education teachers
+Y1  - 1956
+D1  - 1956
+SP  - 56
+KW  - Health education 
+KW  - Teaching aids
+N1  - ill.; Responsibility: Prepared by P. C. Bechtel, under the direction of R. M. Garrison and Paul E. Landis.
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 613 .O37h
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Williams, Catharine
+A2  - Ohio State University. Teaching Aids Laboratory
+T1  - Sources of teaching material for health education
+Y1  - 1951
+D1  - 1951
+SP  - 11
+KW  - Health education
+PB  - Ohio State University. Teaching Aids Laboratory
+CY  - Columbus, OH
+LA  - English
+CN  - 613 .O38s
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Education
+T1  - Health education in Oklahoma elementary schools, grades K-6
+Y1  - 1967
+D1  - 1967
+SP  - 65
+KW  - Health education
+N1  - vi; ges ; 23 cm; Note(s): "Recommendations of the State Health Committee of the Oklahoma Improvement Commission and Oklahoma State Dept. of Health."; Responsibility: Oklahoma State Dept. of Education.
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 613 .O41h
+SC  - Oklahoma
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Dental Society. Woman's Auxiliary
+T1  - Yours for keeps
+Y1  - 1957
+D1  - 10/1957
+SP  - 117
+KW  - Dental care
+N1  - 117 p. illus. 23 cm.
+PB  - Orange County (California) Dental Society
+LA  - English
+CN  - 613 .O62y v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Dental Society. Woman's Auxiliary
+T1  - Yours for keeps: teacher resource book
+Y1  - 1957
+D1  - 09/1957
+SP  - 54
+KW  - Dental care
+PB  - Orange County (California) Dental Society
+LA  - English
+CN  - 613 .O62y v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Guidelines for school health, Orange County schools
+Y1  - 1960
+D1  - 1960
+SP  - 121
+KW  - School hygiene
+KW  - School nursing
+T2  - Orange County (California) Superintendent of Schools. Bulletin
+V1  - 118
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 613 .O62g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Mosquito abatement
+Y1  - 1958
+D1  - 09/1958
+SP  - 13
+KW  - Mosquito control
+T2  - Orange County (California) Superintendent of Schools. Community resource guide
+V1  - 1
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 613 .O62m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange (Texas) Public Schools
+T1  - Tentative course of study in health and physical education, grades one and six
+Y1  - 1943
+D1  - 1943
+SP  - 116
+KW  - Health education
+KW  - Physical education and training
+T2  - Orange (Texas) Public Schools. Curriculum bulletin
+V1  - 249
+PB  - Orange (Texas) Public Schools
+CY  - Orange, TX
+LA  - English
+CN  - 613 .O63t
+SC  - Texas
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Health materials and resources for Oregon teachers
+Y1  - 1958
+D1  - 1958
+SP  - 54
+KW  - Health education
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 613 .O66hm
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Paper Cup & Container Institute. Public Health Committee
+T1  - Cups through the centuries
+Y1  - 1953
+D1  - 1953
+KW  - Drinking cups
+PB  - Paper Cup & Container Institute. Public Health Committee
+CY  - New York, NY
+LA  - English
+CN  - 613 .P21c
+ER  -
+
+TY  - BOOK
+A2  - Paper Cup & Container Institute. Public Health Committee
+T1  - Teachers tell how they use Cups through the centuries
+Y1  - 1953
+D1  - 1953?
+KW  - Drinking cups
+KW  - Health education
+PB  - Paper Cup & Container Institute. Public Health Committee
+CY  - New York, NY
+LA  - English
+CN  - 613 .P21c
+ER  -
+
+TY  - BOOK
+A2  - Paper Cup & Container Institute. Public Health Committee
+T1  - On every lip
+Y1  - 1945
+D1  - 1945
+KW  - Drinking cups
+KW  - Health education
+PB  - Paper Cup & Container Institute. Public Health Committee
+CY  - New York, NY
+LA  - English
+CN  - 613 .P21c
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Handbook for health instruction in Oregon elementary schools
+Y1  - 1952
+D1  - 1952
+SP  - 103
+KW  - Health education
+N1  - v; 23 cm.; Note(s): "A revision of the Tentative manual, State of Oregon elementary schools, health instruction issued in 1945."
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 613 .O66h
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+A2  - Oregon State Board of Health
+T1  - Health services for the school-age child in Oregon
+Y1  - 1951
+D1  - 1951
+SP  - 78
+KW  - School hygiene
+N1  - 78 p. ill.; Responsibility: Issued by the State Department of Education, Salem, and the State Board of Health, Portland.
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 613 .O66he
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Life adjustment through health, physical education and recreation
+Y1  - 1948
+D1  - 1948-1949
+SP  - 72
+KW  - Counseling
+T2  - Pasadena (California) City Schools. Secondary curriculum publication
+V1  - 17
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 613 .P27L
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Health
+Y1  - 1953
+D1  - 09/1953
+SP  - 4
+KW  - Health education
+KW  - Audio-visual materials
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 613 .P27h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - School health services : a report
+Y1  - 1955
+D1  - 1955
+SP  - 39
+KW  - School hygiene
+N1  - ix; ; 28 cm.; Note(s): Pa. State Docs. class. no. PGA 88.2:S372h; Responsibility: of the Joint State Government Commission to the General Assembly of the Commonwealth of Pennsylvania, session of 1955.
+PB  - Pennsylvania. General Assembly. Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 613 .P41s
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District
+T1  - Course of study in health education, grades 1, 2, and 3 with kindergarten introduction
+Y1  - 1959
+D1  - 1959
+SP  - 77
+KW  - Health education
+PB  - Philadelphia (Pennsylvania) School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613 .P54h v. 1
+SC  - Pennsylvania
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District
+T1  - Course of study in health education, grades 4, 5, and 6
+Y1  - 1963
+D1  - 1963
+SP  - 87
+KW  - Health education
+PB  - Philadelphia (Pennsylvania) School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613 .P54h v. 2
+SC  - Pennsylvania
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District
+T1  - Course of study in health education, grades 7, 8, and 9
+Y1  - 1959
+D1  - 1959
+SP  - 144
+KW  - Health education
+PB  - Philadelphia (Pennsylvania) School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613 .P54h v. 3
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Division of Special Education
+T1  - Health and safety. Level 2 : curriculum guide for the retarded educable
+Y1  - 1961
+D1  - 1961
+SP  - 176
+KW  - Health education
+KW  - Children with mental disabilities
+PB  - Philadelphia (Pennsylvania) Public Schools. Division of Special Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613 .P54he v. 2
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Division of Special Education
+T1  - Health and safety, level 1 : curriculum guide for the retarded educable
+Y1  - 1962
+D1  - 1962
+SP  - 91
+KW  - Children with mental disabilities
+KW  - Health education
+N1  - xv; ; 28 cm.; Note(s): Mimeographed.; Responsibility: School District of Philadelphia.
+PB  - School District of Philadelphia, Pennsylvania. Division of Special Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613 .P54he v. 1
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Division of Special Education
+T1  - Health and safety resource materials for the retarded educable
+Y1  - 1961
+D1  - 1961
+SP  - 38
+KW  - Children with mental disabilities
+KW  - Health education
+PB  - School District of Philadelphia, Pennsylvania. Division of Special Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613 .P54he v. 3
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Phoenix (Arizona) Elementary Schools
+T1  - Science and social science guide: health and safety: grade i
+SP  - 13
+KW  - Health education
+PB  - Phoenix (Arizona) Elementary Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 613 .P57h
+SC  - Arizona
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - A resource unit in health education for the mentally retarded high school student
+SP  - 73
+KW  - Children with mental disabilities
+KW  - Health education
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 613 .P85r
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Proctor & Gamble Company
+T1  - Tom visits the dentist: a unit on dental health: part 1 for primary grades
+Y1  - 1957
+D1  - 1957
+SP  - 8
+KW  - Dental care
+PB  - Proctor & Gamble Company
+CY  - Cincinnati, OH
+LA  - English
+CN  - 613 .P96u
+ER  - 
+
+TY  - BOOK
+A2  - Proctor & Gamble Company
+T1  - The way to a smile: a unit on dental health: part 2 intermediate and upper grades
+Y1  - 1957
+D1  - 1957
+SP  - 8
+KW  - Dental care
+PB  - Proctor & Gamble Company
+CY  - Cincinnati, OH
+LA  - English
+CN  - 613 .P96u
+ER  - 
+
+TY  - BOOK
+A2  - Proctor & Gamble Company
+T1  - Teaching suggestions for Tom visits the dentist: a unit on dental health and The way to a smile
+Y1  - 1957
+D1  - 1957
+SP  - 4
+KW  - Dental care
+PB  - Proctor & Gamble Company
+CY  - Cincinnati, OH
+LA  - English
+CN  - 613 .P96u
+ER  - 
+
+TY  - BOOK
+A2  - Racine (Wisconsin) Unified School District No. 1
+T1  - Science unit: health, kindergarten
+Y1  - 1961
+D1  - 09/1961
+SP  - 6
+KW  - Health education
+PB  - Racine (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 613 .R12h
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Traenkenschuh, Amelia
+A1  - Bredar, Loretta
+A1  - McCormick, Drucilla
+T1  - Guide for health teaching, kindergarten through junior high school
+Y1  - 1957
+D1  - 1957
+SP  - 10
+KW  - Health education
+PB  - Rock Island (Illinois) Public Schools
+CY  - Rock Island, IL
+LA  - English
+CN  - 613 .R68g
+SC  - Illinois
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - A guide to activities in health education for the first grade
+Y1  - 1948
+D1  - 1948
+SP  - 30
+KW  - Health education
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 613 .S17g
+SC  - Utah
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Health: grades one through eight: course of study
+Y1  - 1956
+D1  - 09/1956
+SP  - 70
+KW  - Health education
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 613 .S194h
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+A2  - Santa Barbara County (California) Health Department
+T1  - School health manual: information and suggestions for the use of public school teachers and public health nurses
+Y1  - 1946
+D1  - 09/1946
+SP  - 22
+KW  - Health education
+PB  - Santa Barbara County (California) Department of Education
+LA  - English
+CN  - 613 .S22s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Health Department. Health Education Division
+T1  - Catalog: pamphlets, posters, films
+Y1  - 1957
+D1  - 04/1957
+SP  - 44
+KW  - Health education
+KW  - Catalog
+PB  - Santa Clara County (California) Health Department
+CY  - San Jose, CA
+LA  - English
+CN  - 613 .S229c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) School Health Council
+T1  - Santa Clara County school health policies guide
+Y1  - 1960
+D1  - 06/1960
+SP  - 31
+KW  - School health services
+PB  - Santa Clara County (California) School Health Council
+LA  - English
+CN  - 613 .S23s
+SC  - California
+ER  - 
+
+TY  - Book
+A2  - Santa Cruz County (California) Schools
+T1  - Health guide for the elementary schools
+Y1  - 1952
+D1  - 1952
+SP  - 96
+KW  - School health services
+PB  - Santa Cruz County (California) Schools
+CY  - Santa Cruz, CA
+LA  - English
+CN  - 613 .S23g
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Scott, Foresman and Company Educational Publishers
+T1  - A program in health and personal development
+KW  - Health education
+PB  - Scott, Foresman and Company Educational Publishers
+CY  - San Francisco, CA
+LA  - English
+CN  - 613 .S42p
+ER  - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - School nurse's manual
+Y1  - 1952
+D1  - 09/1952
+SP  - 72
+KW  - School health services
+PB  - Sonoma County (California) Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 613 .S69s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - Health course of study for the Spokane elementary schools
+SP  - 99
+KW  - Health education
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 613 .S76h
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Stapleton, George Wallace
+T1  - Free learning materials for implementing a science resource unit in health
+Y1  - 1955
+D1  - 1955
+KW  - Health education
+N1  - For Education 294, Dr. Hurd.
+PB  - Stanford University School of Education
+CY  - Stanford, CA
+LA  - English
+CN  - 613 .S78f
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District. Department of Health, Physical Education and Recreation
+T1  - Health instruction guide and teaching aid, grades K-6
+Y1  - 1953
+D1  - 07/1953
+SP  - 87
+KW  - Health education
+T2  - Stockton (California) Unified School District. Curriculum bulletin
+V1  - 34
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 613 .S86h
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District. Department of Health, Physical Education and Recreation
+T1  - Health instruction guide grades K-6: a guide for elementary classroom teachers
+Y1  - 1969
+D1  - 1969
+SP  - 222
+KW  - Health education
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 613 .S86h 1969
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Health education, kindergarten
+KW  - Health education
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613 .S95h v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Health education, first grade
+KW  - Health education
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613 .S95h v. 2
+SC  - Wisconsin
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Health education, second grade
+KW  - Health education
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613 .S95h v. 3
+SC  - Wisconsin
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Health education, third grade
+KW  - Health education
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613 .S95h v. 4
+SC  - Wisconsin
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Health education, fourth grade
+KW  - Health education
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613 .S95h v. 5
+SC  - Wisconsin
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Health education, fifth grade
+KW  - Health education
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613 .S95h v. 6
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Health education, sixth grade
+KW  - Health education
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613 .S95h v. 7
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Chapman, A. L.
+A1  - Bodine, Willis R.
+T1  - The score at the end of the 9th inning
+Y1  - 1949
+D1  - 07/1949
+SP  - 75
+KW  - Health education
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 613 .T355h v. 3
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Spears, Lewis
+A1  - Haag, Jessie Helen
+T1  - A checklist: appraising the elementary and secondary school health program
+Y1  - 1951
+D1  - 04/1951
+KW  - School hygiene
+N1  - 28 p. 23 cm.; Other Titles: Appraising the elementary and secondary school health program.; Responsibility: prepared by Lewis Spears, Jessie Helen Haag and a committee of school administrators.
+T2  - Texas Education Agency. Bulletin 
+V1  - 519
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 613 .T35c
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Elementary school health education curriculum guide
+Y1  - 1971
+D1  - 1971
+SP  - 201
+KW  - Health education
+N1  - ix; 26 cm.; Note(s): "TEA-129."
+T2  - Texas Education Agency. Bulletin
+V1  - 715
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 613 .T35h
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Department of Health
+T1  - The school nurse at work; a joint project of the State Department of Education and the State Department of Health
+Y1  - 1954
+D1  - 1954
+SP  - 70
+KW  - School nursing
+N1  - viii; ges illustrations, forms 23 cm.
+T2  - Texas Education Agency. Bulletin
+V1  - 561
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 613 .T35s
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Bodine, W. R.
+T1  - Healthy living in our county, 1950-51 radio scripts
+Y1  - 1950
+D1  - 1950-1951
+SP  - 138
+KW  - Health education
+PB  - University of Texas
+LA  - English
+CN  - 613 .T355h v. 1
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Bodine, W. R.
+T1  - Healthy living in our county, teacher's guide
+Y1  - 1950
+D1  - 1950-1951
+SP  - 43
+KW  - Health education
+PB  - University of Texas
+LA  - English
+CN  - 613 .T355h v. 2
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Byrd, Oliver Erasmus
+A1  - Kebric, Burt M.
+T1  - Health instruction guide, Tulare County elementary schools
+Y1  - 1950
+D1  - 1950
+SP  - 139
+KW  - Health education
+N1  - 139 p.; Note(s): Includes bibliographical references.; Responsibility: Edited by Oliver E. Byrd [and] Burt M. Kebric.
+PB  - Tulare County (California) Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 613 .T91h
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Kilander, Holger Frederick
+T1  - Health instruction in the secondary schools : an inquiry into its organization and administration
+Y1  - 1951
+D1  - 1951
+SP  - 20
+KW  - Health education
+N1  - iv; ; 23 cm.; Responsibility: by H.F. Kilander.
+T2  - Federal Security Agency, Office of Education. Pamphlet
+V1  - 110
+PB  - U.S. Federal Security Agency, Office of Education
+CY  - Washington, D.C
+LA  - English
+CN  - 613 .U58h
+ER  - 
+
+TY  - BOOK
+A1  - Price, Bronson
+T1  - School health services : a selective review of evaluative studies
+Y1  - 1957
+D1  - 1957
+SP  - 149
+KW  - School health services
+KW  - School hygiene
+KW  - Child health services
+N1  - vii; ; 24 cm.; Note(s): "References": p. 125-137.; Responsibility: Bronson Price ... 
+T2  - Children's Bureau publication
+V1  - 362
+PB  - U.S. Department of Health, Education, and Welfare, Social Security Administration, Children's Bureau
+CY  - Washington, DC
+LA  - English
+CN  - 613 .U57s
+ER  - 
+
+TY  - BOOK
+A1  - Steinhaus, Arthur H.
+T1  - More firepower for health education
+Y1  - 1945
+D1  - 1945
+SP  - 50
+KW  - Health education
+N1  - ill. ; 23 cm.; Note(s): Responsibility: by Arthur H Steinhaus.
+T2  - Office of Education. Bulletin / Office of Education ;; 1945
+V1  - 2
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 613 .U58m
+ER  - 
+
+TY  - BOOK
+A1  - Schneider, Elsa
+A1  - McNeely, Simon A.
+T1  - Teachers contribute to child health
+Y1  - 1951
+D1  - 1951
+SP  - 44
+KW  - Health education
+N1  - iv; ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 42-44).; Responsibility: by Elsa Schneider and Simon A. McNeely.
+T2  - United States. Office of Education. Bulletin ; 1951
+V1  - 8
+PB  - U.S. Department of Heath, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 613 .U58te
+ER  - 
+
+TY  - BOOK
+A1  - Stafford, Frank S.
+A1  - Kilander, Holger Frederick
+T1  - Teacher education for the improvement of school health programs : a summary report of two demonstration workshops -- suggested standards for the professional health education of teachers
+Y1  - 1948
+D1  - 1948
+SP  - 38
+KW  - Health education
+N1  - viii; ill. ; 23 cm.; Note(s): Responsibility: by Frank S. Stafford and H.F. Kilander.
+T2  - U. S. Office of Education. Bulletin ;; 1949
+V1  - 16
+PB  - Federal Security Agency, U.S. Office of Education
+CY  - Washington, DC
+LA  - English
+CN  - 613 .U58t
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education
+T1  - Health education, grades I-VII
+Y1  - 1956
+D1  - 1956
+SP  - 107
+KW  - Health education
+KW  - School hygiene
+KW  - Curricula
+N1  - v; ges 23 cm.; Note(s): First ed. issued in 1948 as Bulletin of the State Board of Education v. 30, no. 5./ Includes bibliographical references (pages 106-107).
+T2  - Virginia State Board of Education. Bulletin
+V1  - 30
+IS  - 10
+ED  - 2d ed., rev
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 613 .V81h v. 1
+SC  - Virginia
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education
+A2  - Virginia State Department of Health
+T1  - Health manual for schools
+Y1  - 1967
+D1  - 1967
+SP  - 39
+KW  - School hygiene
+KW  - Health education
+PB  - Virginia State Department of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 613 .V81hm
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Conservation of human resources
+Y1  - 1950
+D1  - 1950
+KW  - Health education
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 613 .W24c
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Man vs disease
+Y1  - 1955
+D1  - 1955-1956
+SP  - 10
+KW  - Health education
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 613 .W24m
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Personal health: we grow up
+Y1  - 1956
+D1  - 1956
+KW  - Health education
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 613 .W24p
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Resource unit on preventing and controlling communicable diseases of children: primary grades
+Y1  - 1955
+D1  - 1955
+KW  - Health education
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 613 .W24r
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Warren (Ohio) City Schools. Department of Pupil Personnel Services
+T1  - Health services
+Y1  - 1958
+D1  - 1958
+SP  - 17
+KW  - School health services
+PB  - Warren (Ohio) City Schools
+CY  - Warren, OH
+LA  - English
+CN  - 613 .W28s v. 1
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Warren (Ohio) City Schools. Department of Pupil Personnel Services
+T1  - Dental services
+Y1  - 1958
+D1  - 1958
+SP  - 17
+KW  - School health services
+PB  - Warren (Ohio) City Schools
+CY  - Warren, OH
+LA  - English
+CN  - 613 .W28s v. 2
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Planning for effective education: health and physical education for elementary and junior high school
+Y1  - 1952
+D1  - 1952
+SP  - 35
+KW  - Health education
+KW  - Physical education and training
+PB  - Washington State Superintendent of Public Instruction
+LA  - English
+CN  - 613 .W31h
+SC  - Washington
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Clock, Charles J.
+A2  - West Hartford (Connecticut) Public Schools
+T1  - Evaluation of the health education program
+Y1  - 1970
+D1  - 06/1970
+KW  - Health education
+T2  - West Hartford (Connecticut) Public Schools. Service bulletin
+V1  - 33
+PB  - West Hartford (Connecticut) Public Schools
+CY  - West Hartford, CT
+LA  - English
+CN  - 613 .W50e
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 8: health
+Y1  - 1970
+D1  - 1970
+SP  - 26
+KW  - Health education
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 613 .W51h
+SC  - West Virginia
+CY  - Charleston, WV
+LA  - English
+CN  - 613 .W51h
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Sources of health education aids
+Y1  - 1955
+D1  - 1955
+SP  - 30
+KW  - Health education
+KW  - Teaching aids
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 613 .W51s
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Winslow, Charles-Edward Amory
+T1  - A teacher's manual accompanying the Winslow health and hygiene charts
+Y1  - 1952
+D1  - 1952
+SP  - 83
+KW  - Health education
+KW  - Teaching aids
+PB  - Denoyer-Geppert Company
+CY  - Chicago, IL
+LA  - English
+CN  - 613 .W77t
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative School Health Program
+A2  - Wisconsin State Board of Health
+T1  - Wisconsin handbook on health for the elementary teacher
+Y1  - 1953
+D1  - 1953
+SP  - 142
+KW  - Health education
+N1  - forms ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Wisconsin Cooperative School Health Program.
+ED  - Repr. 1953
+PB  - Wisconsin State Board of Health
+CY  - Madison, WI
+LA  - English
+CN  - 613 .W81w
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Board of Health
+A2  - State Medical Society of Wisconsin. Committee on Hearing Defects
+A2  - Wisconsin Cooperative School Health Program
+T1  - Help them hear : a teacher's guide on hearing
+Y1  - 1950
+D1  - 08/1950
+SP  - 16
+KW  - Hearing disorders in children
+KW  - Deafness prevention
+KW  - Health education
+N1  - ill. ; 22 cm.; Note(s): "Approved by Committee on Hearing Defects of the State Medical Society."/ "Reprinted April 1951."/ Includes bibliographical references (p. 14-16).; Other Titles: Teacher's guide on hearing; Responsibility: Wisconsin Cooperative School Health Program ; developed by the Wisconsin State Board of Health.
+PB  - Bureau for Handicapped Children and State Board of Health
+CY  - Madison, WI
+LA  - English
+CN  - 613 .W81h
+SC  - Wisconsin
+ER  - 
+

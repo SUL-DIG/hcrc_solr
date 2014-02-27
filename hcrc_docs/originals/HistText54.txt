@@ -1,0 +1,1229 @@
+
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The California physical fitness pentathlon
+Y1  - 1942
+D1  - 11/1942
+SP  - 25
+KW  - Physical education and training
+T2  - California State Department of Education. Bulletin
+V1  - 11
+IS  - 8
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Ostrander, Raymond H.
+A2  - California State Department of Education. Bureau of Health Education, Physical Education and Recreation
+T1  - Our schools-- community recreation programs and their relation to schools
+Y1  - 1953
+D1  - 05/1953
+SP  - 11
+KW  - Recreation
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15o
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of School Buildings and Grounds
+T1  - Planning the indoor physical education facilities for central schools
+Y1  - 1946
+D1  - 09/1946
+SP  - 12
+KW  - Physical education and training
+KW  - Gymnasiums
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613.4 .N53p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The California physical fitness pentathlon
+Y1  - 1942
+D1  - 11/1942
+SP  - 25
+KW  - Physical education and training
+T2  - California State Department of Education. Bulletin
+V1  - 11
+IS  - 8
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District. Junior High School Physical Education
+T1  - Junior high school calendar: guide for physical education
+Y1  - 1953
+D1  - 1953
+SP  - 23
+KW  - Physical education and training
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 613.4 .P18j
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Leydecker, Ernie
+A1  - Bow, Robert
+A1  - Leslie, Dave
+A2  - Palo Alto (California) Unified School District.
+T1  - Curriculum guide: physical education for boys, grades 7-12
+Y1  - 1962
+D1  - Summer, 1962
+SP  - 74
+KW  - Physical education and training
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 613.4 .P18p
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District.
+T1  - Curriculum guide: physical education for girls, grades 7-12
+Y1  - 1963
+D1  - 1963
+SP  - 113
+KW  - Physical education and training
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 613.4 .P18pe
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Physical education materials
+Y1  - 1953
+D1  - 09/1953
+SP  - 4
+KW  - Physical education and training
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 613.4 .P27p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania, Department of Commerce, State Planning Board
+T1  - A Pennsylvania recreation manual
+Y1  - 1950
+D1  - 1950
+SP  - 48
+KW  - Recreation
+T2  - Commonwealth of Pennsylvania, Department of Commerce, State Planning Board, Planning and Zoning, Powers and Procedures
+V1  - 5
+ED  - Rev.
+PB  - Commonwealth of Pennsylvania, Department of Commerce, State Planning Board
+CY  - Harrisburg, PA
+LA  - English
+CN  - 613.4 .P41r
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Division of Physical and Health Education
+T1  - Course of study in physical education, grades three and four
+Y1  - 1950
+D1  - 1950
+SP  - 170
+KW  - Physical education and training
+N1  - iii; ill. ; 23 cm.; Note(s): At head of title: School District of Philadelphia. The Board of Public Education.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54c v. 2
+SC  - Pennsylvania
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Division of Physical and Health Education
+T1  - Course of study in physical education, grades one and two
+Y1  - 1951
+D1  - 1951
+SP  - 224
+KW  - Physical education and training
+N1  - ix; ill., music ; 23 cm.; Note(s): At head of title: School District of Philadelphia.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54c v. 1
+SC  - Pennsylvania
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Division of Physical and Health Education
+T1  - Course of study in physical education, grades five and six
+Y1  - 1950
+D1  - 1950
+SP  - 162
+KW  - Physical education and training
+N1  - iii; ill. ; 23 cm.; Note(s): At head of title: School District of Philadelphia. The Board of Public Education.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54c v. 3
+SC  - Pennsylvania
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Phi Delta Pi, Theta Chapter
+T1  - Bibliography of reference material pertaining to physical education, health, & recreation
+KW  - Physical education and training
+KW  - Bibliography
+PB  - Phi Delta Pi, Theta Chapter
+CY  - Ithaca, NY
+LA  - English
+CN  - 613.4 .P53b
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Program in physical education: junior high schools, part 1 - boys
+Y1  - 1961
+D1  - 1961
+SP  - 123
+KW  - Physical education and training
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54p v. 1
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Program in physical education: junior high schools, part 1 - girls
+Y1  - 1961
+D1  - 1961
+SP  - 153
+KW  - Physical education and training
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54p v. 2
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Program in physical education: senior high and vocational-technical schools - boys
+Y1  - 1960
+D1  - 1960
+SP  - 76
+KW  - Physical education and training
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54p v. 3
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Program in physical education: senior high and vocational-technical schools - girls
+Y1  - 1961
+D1  - 1961
+SP  - 122
+KW  - Physical education and training
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54p v. 4
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Division of Physical and Health Education
+T1  - Program in individual remedial physical education
+Y1  - 1962
+D1  - 1962
+SP  - 110
+KW  - Physical education and training
+ED  - Second
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54r
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Division of Physical and Health Education
+T1  - Rules for the control and management of boys' interschool athletics, senior high and technical high schools
+Y1  - 1964
+D1  - 03/1964
+SP  - 113
+KW  - Physical education and training
+PB  - Philadelphia (Pennsylvania) School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54ru
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Kraft, Eve F.
+T1  - A teacher's guide to group tennis instruction
+Y1  - 1969
+D1  - 1969
+SP  - 64
+KW  - Tennis
+N1  - 64 p. ill. 28 cm.; Note(s): Cover title./ "Selected reference list: " p. 64 and [3] of covers.; Other Titles: Group tennis instruction
+PB  - Princeton Community Tennis Program
+CY  - Princeton, NJ
+LA  - English
+CN  - 613.4 .P95t v. 1
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Kraft, Eve F.
+A1  - Conroy, John J.
+T1  - The tennis workbook
+Y1  - 1969
+D1  - 1969
+SP  - 52
+KW  - Tennis
+N1  - ill., 28 cm.; Note(s): Cover title./ Unit 1. For beginners and advanced beginners, by John J. Conroy and Eve F. Kraft.
+ED  - Rev.
+PB  - Scholastic Coach Book Services
+CY  - Englewood Cliffs, NJ
+LA  - English
+CN  - 613.4 .P95t v. 2
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study in physical education, grade 1a
+Y1  - 1947
+D1  - 1947
+SP  - 48
+KW  - Physical education and training
+PB  - Providence (Rhode Island) Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 613.4 .P96c v. 1
+SC  - Rhode Island
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study in physical education, grade 1b
+Y1  - 1947
+D1  - 1947
+SP  - 45
+KW  - Physical education and training
+PB  - Providence (Rhode Island) Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 613.4 .P96c v. 2
+SC  - Rhode Island
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study in physical education, grade 2
+Y1  - 1947
+D1  - 1947
+SP  - 47
+KW  - Physical education and training
+PB  - Providence (Rhode Island) Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 613.4 .P96c v. 3
+SC  - Rhode Island
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study in physical education, grade 3
+Y1  - 1947
+D1  - 1947
+SP  - 33
+KW  - Physical education and training
+PB  - Providence (Rhode Island) Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 613.4 .P96c v. 4
+SC  - Rhode Island
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study in physical education, grade 4
+Y1  - 1947
+D1  - 1947
+SP  - 32
+KW  - Physical education and training
+PB  - Providence (Rhode Island) Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 613.4 .P96c v. 5
+SC  - Rhode Island
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study in physical education, grade 5
+Y1  - 1947
+D1  - 1947
+SP  - 43
+KW  - Physical education and training
+PB  - Providence (Rhode Island) Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 613.4 .P96c v. 6
+SC  - Rhode Island
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study in physical education, grade 6
+Y1  - 1947
+D1  - 1947
+SP  - 43
+KW  - Physical education and training
+PB  - Providence (Rhode Island) Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 613.4 .P96c v. 7
+SC  - Rhode Island
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Raleigh (North Carolina) Public Schools
+T1  - Physical education in the grades: a guide for teachers
+Y1  - 1958
+D1  - 1958-1959
+SP  - 26
+KW  - Physical education and training
+T2  - Raleigh (North Carolina) Public Schools. Curriculum bulletin
+V1  - 1
+PB  - Raleigh (North Carolina) Public Schools
+CY  - Raleigh, NC
+LA  - English
+CN  - 613.4 .R16p
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Klippel, Charlotte K.
+A2  - Ramapo (New York) Central School District No. 2
+T1  - Suggested outline: girls physical education, grades 7-12, part 1
+Y1  - 1964
+D1  - 1964
+SP  - 39
+KW  - Physical education and training
+PB  - Ramapo (New York) Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 613.4 .R17p v. 2
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo (New York) Central School District No. 2
+T1  - Suggested outline: girls physical education, grades 7-12, part 2
+Y1  - 1964
+D1  - 1964
+SP  - [26]
+KW  - Physical education and training
+PB  - Ramapo (New York) Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 613.4 .R17p v. 3
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Rock Island (Illinois) Public Schools
+T1  - Physical education guide, Kindergarten through grade XII
+Y1  - 1956
+D1  - 1956
+KW  - Physical education and training
+N1  - 1 v. (various pagings) ; cm
+ED  - Rev
+PB  - Rock Island (Illinois) Public Schools
+CY  - Rock Island, IL
+LA  - English
+CN  - 613.4 .R68p
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Rocky River High School
+T1  - Guide to the athletic program
+Y1  - 1967
+D1  - 09/1967
+SP  - 37
+KW  - Physical education and training
+PB  - Rocky River High School
+LA  - English
+CN  - 613.4 .R681g
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study in physical education, fourth, fifth and sixth grades
+Y1  - 1952
+D1  - 10/1952
+SP  - 136
+KW  - Physical education and training
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .S12c v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Rope jumping supplement to Course of study in physical education for elementary schools
+Y1  - 1959
+D1  - 03/1959
+SP  - 10
+KW  - Rope skipping
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .S12c v. 2a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study in physical education for junior high school girls
+Y1  - 1950
+D1  - 09/1950
+SP  - 91
+KW  - Physical education and training
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .S12c v. 3
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - JOUR
+A2  - Sacramento (California) City Unified School District
+T1  - Physical education
+Y1  - 1954
+D1  - 06/1954
+KW  - Physical education and training
+V1  - 3
+IS  - 4
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .S12p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Physical education - grade two: curriculum guide
+Y1  - 1962
+D1  - 1962
+SP  - 85
+KW  - Physical education and training
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 613.4 .S19c v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Physical education - grade one: curriculum guide
+Y1  - 1962
+D1  - 1962
+SP  - 91
+KW  - Physical education and training
+KW  - Curricula
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 613.4 .S19c v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Schaefer, Doris
+A1  - Paine, Miriam
+A2  - San Diego (California) City Schools
+T1  - A guide for teaching girls' physical education in the secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 395
+KW  - Physical education and training
+N1  - ix; ill. ; 28 cm.; Responsibility: prepared by Doris Schaefer; revision by Miriam Paine.
+ED  - Rev.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 613.4 .S19g
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Bode, Fred R.
+A1  - Dawson, Daniel T.
+A1  - Stephens, Ruth B.
+A1  - Lamb, Thurman O.
+T1  - Games for fifth and sixth grades
+Y1  - 1945
+D1  - 1945
+SP  - 25
+KW  - Games
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 613.4 .S19ga
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Alkire, E. Russell
+A2  - San Diego (California) City Schools
+T1  - A guidebook for physical education in the primary grades
+Y1  - 1955
+D1  - 1955
+SP  - 207
+KW  - Physical education and training
+ED  - Rev.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 613.4 .S19p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia (California) Union High School District
+T1  - A teacher's guide to the girls' physical education program
+Y1  - 1964
+D1  - 1964
+SP  - 199
+KW  - Physical education and training
+PB  - Sequoia (California) Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 613.4 .S47p v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Schonberg, Harriett
+T1  - May I have this dance? A graded course in ballroom classes for young people
+Y1  - 1958
+D1  - 1958
+SP  - 99
+KW  - Dance
+PB  - Kamin Publishers
+CY  - New York, NY
+LA  - English
+CN  - 613.4 .S36m
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools. Physical Education Department
+T1  - Teaching guide for physical education, grades one-six
+Y1  - 1955
+D1  - 1955
+SP  - 108
+KW  - Physical education and training
+N1  - 9+ 108 pages illustrations; Responsibility: Approved by the Board of Education, Spokane Public Schools.
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 613.4 .S76t
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Gammon, George A.
+T1  - A current catalog of physical education audio visual materials
+Y1  - 1951
+D1  - 03/1951
+SP  - 21
+KW  - Physical education and training
+KW  - Audio-visual materials
+PB  - Solano County (California) Superintendent of Schools
+CY  - Fairfield, CA
+LA  - English
+CN  - 613.4 .S68c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Gammon, George A.
+T1  - A teaching guide for physical education in the elementary schools
+Y1  - 1949
+D1  - 10/1949
+SP  - 63
+KW  - Physical education and training
+PB  - Solano County (California) Superintendent of Schools
+CY  - Fairfield, CA
+LA  - English
+CN  - 613.4 .S68c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Missouri) Public Schools
+T1  - Boys' physical education (junior-senior high school level)
+Y1  - 1956
+D1  - 09/1956
+SP  - 39
+KW  - Physical education and training
+T2  - Springfield (Missouri) Public Schools. Instructional guidelines bulletin
+V1  - 9
+PB  - Springfield (Missouri) Public Schools
+CY  - Springfield, MO
+LA  - English
+CN  - 613.4 .S77p v. 1
+SC  - Missouri
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Girls' physical education secondary level (grades 7-12)
+Y1  - 1956
+D1  - 09/1956
+SP  - 58
+KW  - Physical education and training
+T2  - Springfield (Missouri) Public Schools. Instructional guidelines bulletin
+V1  - 10
+PB  - Springfield (Missouri) Public Schools
+CY  - Springfield, MO
+LA  - English
+CN  - 613.4 .S77p v. 2
+SC  - Missouri
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District
+T1  - Physical education for boys and girls, junior high
+Y1  - 1964
+D1  - 07/1964
+SP  - 49
+KW  - Physical education and training
+T2  - Stockton (California) Unified School District. Curriculum bulletin
+V1  - 172
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 613.4 .S86p
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stoneham (Massachusetts) Public Schools
+T1  - A course of study: physical education for grades 1-12
+SP  - 158
+KW  - Physical education and training
+PB  - Stoneham (Massachusetts) Public Schools
+CY  - Stoneham, MA
+LA  - English
+CN  - 613.4 .S87c
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A1  - Bromley, R. J.
+A1  - Munro, Helen F.
+T1  - Kindergarten physical education
+KW  - Physical education and training
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613.4 .S95p v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Bromley, R. J.
+A1  - Munro, Helen F.
+T1  - Physical education, grade 1
+KW  - Physical education and training
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613.4 .S95p v. 2
+SC  - Wisconsin
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Bromley, R. J.
+T1  - Physical education, second grade
+KW  - Physical education and training
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613.4 .S95p v. 3
+SC  - Wisconsin
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Bromley, R. J.
+T1  - Physical education, third grade
+KW  - Physical education and training
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613.4 .S95p v. 4
+SC  - Wisconsin
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Bromley, R. J.
+T1  - Physical education, fourth grade
+KW  - Physical education and training
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613.4 .S95p v. 5
+SC  - Wisconsin
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Bromley, R. J.
+T1  - Intermediate physical education, fifth grade
+KW  - Physical education and training
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613.4 .S95p v. 6
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Bromley, R. J.
+T1  - Physical education, sixth grade
+KW  - Physical education and training
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 613.4 .S95p v. 7
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Physical education in the elementary school: third grade
+Y1  - 1970
+D1  - 1970
+KW  - Physical education and training
+N1  - 259-338 p. illus. 26 cm.; Note(s): Bibliography: p. 335.
+T2  - Texas Education Agency. Bulletin
+V1  - 700
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 613.4 .T35p
+SC  - Texas
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Physical education manual
+KW  - Physical education and training
+N1  - 1 v. (various pagings)
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 613.4 .T91p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A teacher's guide for physical education in the elementary school
+Y1  - 1957
+D1  - 1957
+SP  - 69
+KW  - Physical education and training
+N1  - ii, 69 leaves : ill. ; 28 cm.; Note(s): Cover title: Physical education in the elementary school: a teacher's guide./ Includes bibliographical references (p. 66-69).; Other Titles: Physical education in the elementary school; Responsibility: developed through the cooperative efforts of the physical education teachers in the elementary schools ; Helen C. Corrubia, supervisor.
+ED  - Rev
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 613.4 .T92p
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - A teacher's guide for posture and body mechanics in the junior high school
+Y1  - 1961
+D1  - 1961
+SP  - 33
+KW  - Physical education and training
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 613.4 .T92t
+SC  - Oklahoma
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Watson, Helen B.
+T1  - Recreational folk and square dances
+Y1  - 1960
+D1  - 05/1960
+SP  - 35
+KW  - Folk dancing
+KW  - Square dancing
+T2  - University of Tennessee extension series
+V1  - 36
+IS  - 1
+PB  - University of Tennessee
+CY  - Knoxville, TN
+LA  - English
+CN  - 613.4 .T29r
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for physical education (junior high girls), grades 7-9
+Y1  - 1964
+D1  - 08/1964
+SP  - 54
+KW  - Physical education and training
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 613.4 .T98c v. 1
+SC  - Texas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for physical education (senior high girls), grades 10-12
+Y1  - 1964
+D1  - 08/1964
+SP  - 38
+KW  - Physical education and training
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 613.4 .T98c v. 2
+SC  - Texas
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - United States Gymnastics Federation
+T1  - Age-group gymnastics workbook
+Y1  - 1964
+D1  - 1964
+SP  - 90
+KW  - Gymnastics
+PB  - United States Gymnastics Federation
+CY  - Tucson, AZ
+LA  - English
+CN  - 613.4 .U57a
+ER  - 
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Physical education for Elementary Schools
+Y1  - 1949
+D1  - 1949
+SP  - 32
+KW  - Physical education and training
+N1  - 32 pages ; 28 cm; Responsibility: Utah State Dept of Public Instruction.
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 613.4 .U89p
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education. Division of Elementary and Special Education
+T1  - Physical education: kindergarten through grade seven
+Y1  - 1969
+D1  - 07/1969
+SP  - 378
+KW  - Physical education and training
+N1  - vii; illus. 23 cm.; Note(s): Bibliography: p. 347-372.
+PB  - Virginia State Department of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 613.4 .V81p 1969 v. 1
+SC  - Virginia
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education.
+T1  - Physical education for Virginia secondary schools
+Y1  - 1968
+D1  - 1968
+SP  - 338
+KW  - Physical education and training
+N1  - vii; ill. 23 cm.; Note(s): "Reprint: July 1968."/ Bibliography: p. 325-332.
+T2  - Virginia State Department of Education.  [Publications]
+V1  - 47
+IS  - 9
+ED  - 2d ed., rev
+PB  - Virginia State Department of Education. 
+CY  - Richmond, VA
+LA  - English
+CN  - 613.4 .V81p 1969 v. 2
+SC  - Virginia
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Physical education, grades 8-12
+Y1  - 1955
+D1  - 09/1955
+SP  - 435
+KW  - Physical education and training
+KW  - Curricula
+T2  - Virginia State Board of Education. Bulletin
+V1  - 38
+IS  - 4
+PB  - Commonwealth of Virginia, Division of Purchase and Printing
+CY  - Richmond, VA
+LA  - English
+CN  - 613.4 .V81p
+SC  - Virginia
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Games and activities manual
+Y1  - 1962
+D1  - 1962
+SP  - 106
+KW  - Games
+KW  - Physical education and training
+PB  - Walworth (Wisconsin) County Schools
+CY  - Elkhorn, WI
+LA  - English
+CN  - 613.4 .W24g
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Walworth (Wisconsin) County Schools
+T1  - Physical education curriculum guide
+Y1  - 1964
+D1  - 1964
+SP  - 67
+KW  - Curricula
+KW  - Physical education and training
+PB  - Walworth (Wisconsin) County Schools
+CY  - Elkhorn, WI
+LA  - English
+CN  - 613.4 .W24p
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Webster Groves (Missouri) School District
+T1  - Aids to teaching physical education in the elementary schools, games, grades 1-6
+Y1  - 1954
+D1  - 1954
+SP  - 73
+KW  - Physical education and training
+PB  - Webster Groves (Missouri) School District
+CY  - Webster Groves, MO
+LA  - English
+CN  - 613.4 .W37a
+SC  - Missouri
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A1  - Clock, Charles J.
+T1  - Longitudinal analysis of physical fitness data, grade 7 through 12
+Y1  - 1971
+D1  - 01/1971
+KW  - Physical fitness
+T2  - West Hartford (Connecticut) Public Schools. Service bulletin
+V1  - 22
+PB  - West Hartford (Connecticut) Public Schools
+CY  - West Hartford, CT
+LA  - English
+CN  - 613.4 .W49L
+SC  - Connecticut
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 16: physical education
+Y1  - 1970
+D1  - 1970
+SP  - 17
+KW  - Physical education and training
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 613.4 .W50p
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Dennis, David M.
+A1  - Marriage, Bonnie M.
+T1  - WRI T-L
+Y1  - 1966
+D1  - 1966
+SP  - 38
+KW  - Physical education and training
+PB  - Western New Mexico University
+CY  - Silver City, NM
+LA  - English
+CN  - 613.4 .W51p
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - Winnetka (Illinois) Public Schools
+T1  - Handbook of the physical education program in the Winnetka public schools
+Y1  - 1955
+D1  - 1955
+SP  - 73
+KW  - Physical education and training
+PB  - Winnetka (Illinois) Public Schools
+CY  - Winnetka, IL
+LA  - English
+CN  - 613.4 .W77h
+SC  - Illinois
+ER  - 
