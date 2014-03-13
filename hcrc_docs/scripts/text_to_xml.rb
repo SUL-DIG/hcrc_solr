@@ -24,6 +24,7 @@ replace_G1 = '</field><field name="grade_level_group">'
 replace_G2 = '</field><field name="grade_level_number">'
 replace_AB = '</field><field name="abstract">'
 replace_ER = '</field></doc>'
+remove_end_space = '</'
 replacerem_ty = '<doc><field name="type">'
 replacerem_gl = '</field><field name="grade_level_number">'
 
@@ -125,7 +126,7 @@ File.open(new_file, 'w') do |out|
 end  
 
 #Doing replacements for end of document.
-outdata = File.read(new_file).gsub(/ER\s\s-\s/, "#{replace_ER}").gsub(/\tER/, "#{replace_ER}")
+outdata = File.read(new_file).gsub(/ER\s\s-\s/, "#{replace_ER}").gsub(/\tER/, "#{replace_ER}").gsub(/\t<\//, "#{remove_end_space}").gsub(/ <\//, "#{remove_end_space}")
 File.open(new_file, 'w') do |out|
   out << outdata
 end  
@@ -148,7 +149,7 @@ add_11g = '<field name="grade_level_number">11th grade</field>'
 add_12g = '<field name="grade_level_number">12th grade</field>'
 
 #Doing replacements for 1st grade.
-outdata = File.read(new_file).gsub(/<field name="grade_level_number">1st<\/field>/, "#{add_1g}")
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">1st<\/field>/, "#{add_1g}").gsub(/<field name="grade_level_number">1st\t<\/field>/, "#{add_1g}")
 File.open(new_file, 'w') do |out|
   out << outdata
 end 
@@ -178,7 +179,7 @@ File.open(new_file, 'w') do |out|
 end 
 
 #Doing replacements for 6th grade.
-outdata = File.read(new_file).gsub(/<field name="grade_level_number">6th<\/field>/, "#{add_6g}")
+outdata = File.read(new_file).gsub(/<field name="grade_level_number">6th<\/field>/, "#{add_6g}").gsub(/<field name="grade_level_number">6th\t<\/field>/, "#{add_6g}")
 File.open(new_file, 'w') do |out|
   out << outdata
 end 

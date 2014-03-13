@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <add>
+
+
+
+
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">University of Minnesota. School of Nursing</field>
@@ -13,7 +17,7 @@
         <field name="language">English</field>
         <field name="call_number">613.2 .M66m</field>
         <field name="state_country">Minnesota</field>
-        <field name="grade_level_group">Postsecondary </field>
+        <field name="grade_level_group">Postsecondary</field>
     </doc>
 
     <doc>
@@ -34,7 +38,7 @@
         <field name="language">English</field>
         <field name="call_number">613.2 .N53n</field>
         <field name="state_country">New York</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -51,7 +55,7 @@
         <field name="publisher">W.K. Kellogg Foundation</field>
         <field name="pub_place">Battle Creek, MI</field>
         <field name="language">English</field>
-        <field name="call_number">613.2 .K29e </field>
+        <field name="call_number">613.2 .K29e</field>
     </doc>
 
     <doc>
@@ -72,7 +76,7 @@
         <field name="publisher">National Committee for the Improvement of Nursing Services</field>
         <field name="pub_place">New York, NY</field>
         <field name="language">English</field>
-        <field name="call_number">613.2 .N27n </field>
+        <field name="call_number">613.2 .N27n</field>
     </doc>
 
     <doc>
@@ -92,7 +96,7 @@
         <field name="language">English</field>
         <field name="call_number">613.2 .N53p</field>
         <field name="state_country">New York</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -107,7 +111,7 @@
         <field name="publisher">Harris Publishing Company</field>
         <field name="pub_place">San Jose, CA</field>
         <field name="language">English</field>
-        <field name="call_number">613.2 .S19h v. 1 </field>
+        <field name="call_number">613.2 .S19h v. 1</field>
     </doc>
 
     <doc>
@@ -129,7 +133,7 @@
         <field name="pub_place">Austin, TX</field>
         <field name="language">English</field>
         <field name="call_number">613.2 .T35g</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -148,7 +152,7 @@
         <field name="publisher">United States Government Printing Office</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.2 .U58p v. 1 </field>
+        <field name="call_number">613.2 .U58p v. 1</field>
     </doc>
 
     <doc>
@@ -169,7 +173,7 @@
         <field name="publisher">United States Government Printing Office</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.2 .U58p v. 2 </field>
+        <field name="call_number">613.2 .U58p v. 2</field>
     </doc>
 
     <doc>
@@ -188,7 +192,7 @@
         <field name="call_number">613.4 .A31b</field>
         <field name="state_country">California</field>
         <field name="grade_level_number">7th grade</field>
-        <field name="grade_level_number">8th </field>
+        <field name="grade_level_number">8th grade</field>
     </doc>
 
     <doc>
@@ -209,7 +213,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .A31d</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -228,7 +232,7 @@
         <field name="publisher">Front Row Experience</field>
         <field name="pub_place">Alameda, CA</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A309p </field>
+        <field name="call_number">613.4 .A309p</field>
     </doc>
 
     <doc>
@@ -244,7 +248,7 @@
         <field name="pub_place">Oakland, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .A31t</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -259,7 +263,7 @@
         <field name="pub_place">Hayward, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .A31te</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -281,7 +285,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -297,7 +301,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .A32p</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -317,7 +321,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51be v. 2 </field>
+        <field name="call_number">613.4 .A51be v. 2</field>
     </doc>
 
     <doc>
@@ -333,10 +337,11 @@
         <field name="keywords">Recreation</field>
         <field name="notes">v. illus. 28 cm.; Note(s): Includes bibliographical references./ Also
             issued online.; Other Titles: Challenge (Washington, D.C.)</field>
-        <field name="publisher">American Association for Health, Physical Education and Recreation </field>
+        <field name="publisher">American Association for Health, Physical Education and
+            Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51be v. 1 </field>
+        <field name="call_number">613.4 .A51be v. 1</field>
     </doc>
 
     <doc>
@@ -361,7 +366,7 @@
         <field name="call_number">613.4 .A51a</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -382,7 +387,7 @@
         <field name="publisher">National Association for Girls and Women in Sports</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A49f </field>
+        <field name="call_number">613.4 .A49f</field>
     </doc>
 
     <doc>
@@ -400,7 +405,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51e </field>
+        <field name="call_number">613.4 .A51e</field>
     </doc>
 
     <doc>
@@ -423,7 +428,7 @@
             Association for Health, Physical Education, and Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51d </field>
+        <field name="call_number">613.4 .A51d</field>
     </doc>
 
     <doc>
@@ -445,7 +450,7 @@
             Physical Education Division</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51g </field>
+        <field name="call_number">613.4 .A51g</field>
     </doc>
 
     <doc>
@@ -465,7 +470,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .A51d</field>
         <field name="grade_level_group">Elementary</field>
-        <field name="grade_level_group">Middle school </field>
+        <field name="grade_level_group">Middle school</field>
     </doc>
 
     <doc>
@@ -486,7 +491,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51gs </field>
+        <field name="call_number">613.4 .A51gs</field>
     </doc>
 
     <doc>
@@ -500,7 +505,7 @@
         <field name="publisher">National Association for Girls and Women in Sports</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A49L </field>
+        <field name="call_number">613.4 .A49L</field>
     </doc>
 
     <doc>
@@ -516,7 +521,7 @@
             Division for Girls and Women's Sports</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51h </field>
+        <field name="call_number">613.4 .A51h</field>
     </doc>
 
     <doc>
@@ -537,7 +542,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51k </field>
+        <field name="call_number">613.4 .A51k</field>
     </doc>
 
     <doc>
@@ -561,7 +566,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51L </field>
+        <field name="call_number">613.4 .A51L</field>
     </doc>
 
     <doc>
@@ -593,7 +598,7 @@
             for Health, Physical Education, and Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51m </field>
+        <field name="call_number">613.4 .A51m</field>
     </doc>
 
     <doc>
@@ -609,7 +614,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51of </field>
+        <field name="call_number">613.4 .A51of</field>
     </doc>
 
     <doc>
@@ -624,7 +629,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51p </field>
+        <field name="call_number">613.4 .A51p</field>
     </doc>
 
     <doc>
@@ -641,7 +646,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51o </field>
+        <field name="call_number">613.4 .A51o</field>
     </doc>
 
     <doc>
@@ -659,7 +664,7 @@
         <field name="publisher">Project on Recreation and Fitness for the Mentally Retarded</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51ph </field>
+        <field name="call_number">613.4 .A51ph</field>
     </doc>
 
     <doc>
@@ -674,7 +679,7 @@
         <field name="publisher">Lifetime Sports Education Project</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51n </field>
+        <field name="call_number">613.4 .A51n</field>
     </doc>
 
     <doc>
@@ -696,7 +701,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51pro </field>
+        <field name="call_number">613.4 .A51pro</field>
     </doc>
 
     <doc>
@@ -726,7 +731,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51pra </field>
+        <field name="call_number">613.4 .A51pra</field>
     </doc>
 
     <doc>
@@ -746,7 +751,7 @@
             Education</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51pr </field>
+        <field name="call_number">613.4 .A51pr</field>
     </doc>
 
     <doc>
@@ -765,7 +770,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51r </field>
+        <field name="call_number">613.4 .A51r</field>
     </doc>
 
     <doc>
@@ -788,7 +793,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 1 </field>
+        <field name="call_number">613.4 .A51se v. 1</field>
     </doc>
 
     <doc>
@@ -814,7 +819,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 5 </field>
+        <field name="call_number">613.4 .A51se v. 5</field>
     </doc>
 
     <doc>
@@ -838,7 +843,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 4 </field>
+        <field name="call_number">613.4 .A51se v. 4</field>
     </doc>
 
     <doc>
@@ -860,7 +865,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 3 </field>
+        <field name="call_number">613.4 .A51se v. 3</field>
     </doc>
 
     <doc>
@@ -883,7 +888,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 8 </field>
+        <field name="call_number">613.4 .A51se v. 8</field>
     </doc>
 
     <doc>
@@ -906,7 +911,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 11 </field>
+        <field name="call_number">613.4 .A51se v. 11</field>
     </doc>
 
     <doc>
@@ -927,7 +932,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 10 </field>
+        <field name="call_number">613.4 .A51se v. 10</field>
     </doc>
 
     <doc>
@@ -951,7 +956,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 9 </field>
+        <field name="call_number">613.4 .A51se v. 9</field>
     </doc>
 
     <doc>
@@ -975,7 +980,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51se v. 7 </field>
+        <field name="call_number">613.4 .A51se v. 7</field>
     </doc>
 
     <doc>
@@ -996,7 +1001,7 @@
             Health, Physical Education, and Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A515p v. 2 </field>
+        <field name="call_number">613.4 .A515p v. 2</field>
     </doc>
 
     <doc>
@@ -1016,7 +1021,7 @@
             Health, Physical Education and Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 3 </field>
+        <field name="call_number">613.4 .A51sp v. 3</field>
     </doc>
 
     <doc>
@@ -1037,7 +1042,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 1 </field>
+        <field name="call_number">613.4 .A51sp v. 1</field>
     </doc>
 
     <doc>
@@ -1064,7 +1069,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51so </field>
+        <field name="call_number">613.4 .A51so</field>
     </doc>
 
     <doc>
@@ -1082,7 +1087,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 4 </field>
+        <field name="call_number">613.4 .A51sp v. 4</field>
     </doc>
 
     <doc>
@@ -1101,7 +1106,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 5 </field>
+        <field name="call_number">613.4 .A51sp v. 5</field>
     </doc>
 
     <doc>
@@ -1122,7 +1127,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 3 </field>
+        <field name="call_number">613.4 .A51sp v. 3</field>
     </doc>
 
     <doc>
@@ -1142,7 +1147,7 @@
             Health, Physical Education, and Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">english</field>
-        <field name="call_number">613.4 .A51sp v. 6 </field>
+        <field name="call_number">613.4 .A51sp v. 6</field>
     </doc>
 
     <doc>
@@ -1165,7 +1170,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 8 </field>
+        <field name="call_number">613.4 .A51sp v. 8</field>
     </doc>
 
     <doc>
@@ -1185,7 +1190,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 9 </field>
+        <field name="call_number">613.4 .A51sp v. 9</field>
     </doc>
 
     <doc>
@@ -1206,7 +1211,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 10 </field>
+        <field name="call_number">613.4 .A51sp v. 10</field>
     </doc>
 
     <doc>
@@ -1231,7 +1236,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 7 </field>
+        <field name="call_number">613.4 .A51sp v. 7</field>
     </doc>
 
     <doc>
@@ -1250,7 +1255,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 11 </field>
+        <field name="call_number">613.4 .A51sp v. 11</field>
     </doc>
 
     <doc>
@@ -1272,7 +1277,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 12 </field>
+        <field name="call_number">613.4 .A51sp v. 12</field>
     </doc>
 
     <doc>
@@ -1293,7 +1298,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51sp v. 12 </field>
+        <field name="call_number">613.4 .A51sp v. 12</field>
     </doc>
 
     <doc>
@@ -1309,7 +1314,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51t v. 3 </field>
+        <field name="call_number">613.4 .A51t v. 3</field>
     </doc>
 
     <doc>
@@ -1326,7 +1331,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51t v. 1 </field>
+        <field name="call_number">613.4 .A51t v. 1</field>
     </doc>
 
     <doc>
@@ -1342,7 +1347,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51t v. 2 </field>
+        <field name="call_number">613.4 .A51t v. 2</field>
     </doc>
 
     <doc>
@@ -1358,7 +1363,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51t v. 4 </field>
+        <field name="call_number">613.4 .A51t v. 4</field>
     </doc>
 
     <doc>
@@ -1377,7 +1382,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51tr </field>
+        <field name="call_number">613.4 .A51tr</field>
     </doc>
 
     <doc>
@@ -1396,7 +1401,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .A72p v. 1</field>
         <field name="state_country">Arkansas</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -1413,7 +1418,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .A72p v. 2</field>
         <field name="state_country">Arkansas</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -1436,7 +1441,7 @@
             Recreation</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .A51v </field>
+        <field name="call_number">613.4 .A51v</field>
     </doc>
 
     <doc>
@@ -1451,7 +1456,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .A53g</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">4th </field>
+        <field name="grade_level_number">4th grade</field>
     </doc>
 
     <doc>
@@ -1470,7 +1475,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .B57c</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -1485,7 +1490,7 @@
         <field name="pub_place">Bloomfield, NJ</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .B65c</field>
-        <field name="state_country">New Jersey </field>
+        <field name="state_country">New Jersey</field>
     </doc>
 
     <doc>
@@ -1505,7 +1510,7 @@
         <field name="state_country">Massachusetts</field>
         <field name="grade_level_number">1st grade</field>
         <field name="grade_level_number">2nd grade</field>
-        <field name="grade_level_number">3rd </field>
+        <field name="grade_level_number">3rd grade</field>
     </doc>
 
     <doc>
@@ -1528,7 +1533,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th </field>
+        <field name="grade_level_number">12th grade</field>
     </doc>
 
     <doc>
@@ -1546,7 +1551,7 @@
         <field name="pub_place">Bronxville, NY</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .B87c</field>
-        <field name="state_country">New York </field>
+        <field name="state_country">New York</field>
     </doc>
 
     <doc>
@@ -1562,7 +1567,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .B88g</field>
         <field name="state_country">Florida</field>
-        <field name="grade_level_group">Middle school </field>
+        <field name="grade_level_group">Middle school</field>
     </doc>
 
     <doc>
@@ -1580,7 +1585,7 @@
         <field name="state_country">California</field>
         <field name="grade_level_number">Kindergarten</field>
         <field name="grade_level_number">1st grade</field>
-        <field name="grade_level_number">2nd </field>
+        <field name="grade_level_number">2nd grade</field>
     </doc>
 
     <doc>
@@ -1598,7 +1603,7 @@
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C15p</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -1619,7 +1624,7 @@
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C15i 1969</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -1640,7 +1645,7 @@
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C15i 1970</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -1661,7 +1666,7 @@
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C15i 1973</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -1677,7 +1682,7 @@
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C15pa</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -1692,7 +1697,7 @@
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C15pa</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -1710,7 +1715,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C15pa</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -1728,7 +1733,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C15pa</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -1743,7 +1748,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C15pa</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">Postsecondary </field>
+        <field name="grade_level_group">Postsecondary</field>
     </doc>
 
     <doc>
@@ -1760,7 +1765,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C15pa</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -1782,7 +1787,7 @@
         <field name="grade_level_number">5th grade</field>
         <field name="grade_level_number">6th grade</field>
         <field name="grade_level_number">7th grade</field>
-        <field name="grade_level_number">8th </field>
+        <field name="grade_level_number">8th grade</field>
     </doc>
 
     <doc>
@@ -1799,7 +1804,7 @@
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C15pf</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -1819,7 +1824,7 @@
         <field name="pub_place">Cedar Falls, IA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C38p</field>
-        <field name="state_country">Iowa </field>
+        <field name="state_country">Iowa</field>
     </doc>
 
     <doc>
@@ -1835,7 +1840,7 @@
         <field name="publisher">Children's Music Center</field>
         <field name="pub_place">Los Angeles, CA</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .C53d </field>
+        <field name="call_number">613.4 .C53d</field>
     </doc>
 
     <doc>
@@ -1858,7 +1863,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th </field>
+        <field name="grade_level_number">12th grade</field>
     </doc>
 
     <doc>
@@ -1881,7 +1886,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th </field>
+        <field name="grade_level_number">12th grade</field>
     </doc>
 
     <doc>
@@ -1899,7 +1904,7 @@
         <field name="pub_place">Cincinnati, OH</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C57i</field>
-        <field name="state_country">Ohio </field>
+        <field name="state_country">Ohio</field>
     </doc>
 
     <doc>
@@ -1917,7 +1922,7 @@
         <field name="publisher">Chicago (Illinois) Public Schools</field>
         <field name="pub_place">Chicago, IL</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .C53t </field>
+        <field name="call_number">613.4 .C53t</field>
     </doc>
 
     <doc>
@@ -1932,7 +1937,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C58p</field>
         <field name="state_country">Pennsylvania</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -1948,7 +1953,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C59j</field>
         <field name="state_country">Nevada</field>
-        <field name="grade_level_group">Middle school </field>
+        <field name="grade_level_group">Middle school</field>
     </doc>
 
     <doc>
@@ -1967,7 +1972,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C63p v. 1</field>
         <field name="state_country">Ohio</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -1987,7 +1992,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C63p v. 2</field>
         <field name="state_country">Ohio</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2007,7 +2012,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .C63p v. 3</field>
         <field name="state_country">Ohio</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2032,7 +2037,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th </field>
+        <field name="grade_level_number">12th grade</field>
     </doc>
 
     <doc>
@@ -2059,7 +2064,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th </field>
+        <field name="grade_level_number">12th grade</field>
     </doc>
 
     <doc>
@@ -2075,7 +2080,7 @@
             Rehabilitation</field>
         <field name="publisher">Association for Physical and Mental Rehabilitation</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .C95p #38 </field>
+        <field name="call_number">613.4 .C95p #38</field>
     </doc>
 
     <doc>
@@ -2094,7 +2099,7 @@
         <field name="pub_place">Cleveland, OH</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .C63pe</field>
-        <field name="state_country">Ohio </field>
+        <field name="state_country">Ohio</field>
     </doc>
 
     <doc>
@@ -2113,7 +2118,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D12m</field>
         <field name="state_country">Florida</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2131,7 +2136,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D12s</field>
         <field name="state_country">Florida</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2152,7 +2157,7 @@
         <field name="pub_place">Dallas, TX</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D14p 1953</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -2173,7 +2178,7 @@
         <field name="pub_place">Dallas, TX</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D14p 1958</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -2194,7 +2199,7 @@
         <field name="pub_place">Dallas, TX</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D14pr 1953</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -2215,7 +2220,7 @@
         <field name="pub_place">Dallas, TX</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D14pr 1958</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -2233,7 +2238,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D27p v. 1</field>
         <field name="state_country">Ohio</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2250,7 +2255,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D27p v. 2</field>
         <field name="state_country">Ohio</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -2272,7 +2277,7 @@
         <field name="publisher">Delaware State Department of Public Instruction</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D34s</field>
-        <field name="state_country">Delaware </field>
+        <field name="state_country">Delaware</field>
     </doc>
 
     <doc>
@@ -2289,7 +2294,7 @@
         <field name="publisher">Denver (Colorado) Public Schools</field>
         <field name="pub_place">Denver, CO</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .D41p v. 4 </field>
+        <field name="call_number">613.4 .D41p v. 4</field>
     </doc>
 
     <doc>
@@ -2308,7 +2313,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D41p v. 1</field>
         <field name="state_country">Colorado</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2325,7 +2330,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D41p v. 2</field>
         <field name="state_country">Colorado</field>
-        <field name="grade_level_group">Middle school </field>
+        <field name="grade_level_group">Middle school</field>
     </doc>
 
     <doc>
@@ -2343,7 +2348,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D41p v. 3</field>
         <field name="state_country">Colorado</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -2361,7 +2366,7 @@
         <field name="pub_place">Denver, CO</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D41s</field>
-        <field name="state_country">Colorado </field>
+        <field name="state_country">Colorado</field>
     </doc>
 
     <doc>
@@ -2383,7 +2388,7 @@
         <field name="pub_place">Detroit, MI</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D48e</field>
-        <field name="state_country">Michigan </field>
+        <field name="state_country">Michigan</field>
     </doc>
 
     <doc>
@@ -2396,7 +2401,7 @@
         <field name="pub_place">Duarte, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .D86p</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -2418,7 +2423,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -2435,7 +2440,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .D88p</field>
         <field name="state_country">Minnesota</field>
-        <field name="grade_level_number">Kindergarten </field>
+        <field name="grade_level_number">Kindergarten</field>
     </doc>
 
     <doc>
@@ -2453,7 +2458,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 6</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2471,7 +2476,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 5</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2490,7 +2495,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 2</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2508,7 +2513,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 4</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2534,7 +2539,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 3</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2558,7 +2563,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 8</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2579,7 +2584,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 1</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2603,7 +2608,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 7</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2628,7 +2633,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63p v. 9</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2645,7 +2650,7 @@
         <field name="pub_place">Tallahassee, FL</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F63f</field>
-        <field name="state_country">Florida </field>
+        <field name="state_country">Florida</field>
     </doc>
 
     <doc>
@@ -2654,7 +2659,7 @@
         <field name="pages">58</field>
         <field name="keywords">Music</field>
         <field name="language">English</field>
-        <field name="call_number">613.4 .F66f </field>
+        <field name="call_number">613.4 .F66f</field>
     </doc>
 
     <doc>
@@ -2667,7 +2672,7 @@
         <field name="pub_place">Fort Benton, MT</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F73p</field>
-        <field name="state_country">Montana </field>
+        <field name="state_country">Montana</field>
     </doc>
 
     <doc>
@@ -2682,7 +2687,7 @@
         <field name="pub_place">Huntington Beach, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .F77b</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -2698,7 +2703,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .G15e</field>
         <field name="state_country">Illinois</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2715,7 +2720,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .G75g</field>
         <field name="state_country">Utah</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -2736,7 +2741,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -2756,7 +2761,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -2774,6 +2779,7 @@
         <field name="language">English</field>
         <field name="call_number">613.4 .G87p</field>
         <field name="state_country">Michigan</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
+
 </add>

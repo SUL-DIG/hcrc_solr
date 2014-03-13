@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <add>
+
+
+
+
     <doc>
         <field name="type">Book</field>
         <field name="author">Bechtel, P. C.</field>
@@ -14,7 +18,7 @@
         <field name="year">1956</field>
         <field name="date">1956</field>
         <field name="pages">56</field>
-        <field name="keywords">Health education </field>
+        <field name="keywords">Health education</field>
         <field name="keywords">Teaching aids</field>
         <field name="notes">ill.; Responsibility: Prepared by P. C. Bechtel, under the direction of
             R. M. Garrison and Paul E. Landis.</field>
@@ -22,7 +26,7 @@
         <field name="pub_place">Columbus, OH</field>
         <field name="language">English</field>
         <field name="call_number">613 .O37h</field>
-        <field name="state_country">Ohio </field>
+        <field name="state_country">Ohio</field>
     </doc>
 
     <doc>
@@ -39,7 +43,7 @@
         <field name="pub_place">Columbus, OH</field>
         <field name="language">English</field>
         <field name="call_number">613 .O38s</field>
-        <field name="state_country">Ohio </field>
+        <field name="state_country">Ohio</field>
     </doc>
 
     <doc>
@@ -64,7 +68,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -80,7 +84,7 @@
         <field name="publisher">Orange County (California) Dental Society</field>
         <field name="language">English</field>
         <field name="call_number">613 .O62y v. 1</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -95,7 +99,7 @@
         <field name="publisher">Orange County (California) Dental Society</field>
         <field name="language">English</field>
         <field name="call_number">613 .O62y v. 2</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -114,7 +118,7 @@
         <field name="pub_place">Santa Ana, CA</field>
         <field name="language">English</field>
         <field name="call_number">613 .O62g</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -132,7 +136,7 @@
         <field name="pub_place">Santa Ana, CA</field>
         <field name="language">English</field>
         <field name="call_number">613 .O62m</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -157,7 +161,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -172,7 +176,7 @@
         <field name="pub_place">Salem, OR</field>
         <field name="language">English</field>
         <field name="call_number">613 .O66hm</field>
-        <field name="state_country">Oregon </field>
+        <field name="state_country">Oregon</field>
     </doc>
 
     <doc>
@@ -186,7 +190,7 @@
         <field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field>
         <field name="pub_place">New York, NY</field>
         <field name="language">English</field>
-        <field name="call_number">613 .P21c </field>
+        <field name="call_number">613 .P21c</field>
     </doc>
     <doc>
         <field name="type">Book</field>
@@ -200,7 +204,7 @@
         <field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field>
         <field name="pub_place">New York, NY</field>
         <field name="language">English</field>
-        <field name="call_number">613 .P21c </field>
+        <field name="call_number">613 .P21c</field>
     </doc>
     <doc>
         <field name="type">Book</field>
@@ -214,7 +218,7 @@
         <field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field>
         <field name="pub_place">New York, NY</field>
         <field name="language">English</field>
-        <field name="call_number">613 .P21c </field>
+        <field name="call_number">613 .P21c</field>
     </doc>
     <doc>
         <field name="type">Book</field>
@@ -231,7 +235,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .O66h</field>
         <field name="state_country">Oregon</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -249,7 +253,7 @@
         <field name="pub_place">Salem, OR</field>
         <field name="language">English</field>
         <field name="call_number">613 .O66he</field>
-        <field name="state_country">Oregon </field>
+        <field name="state_country">Oregon</field>
     </doc>
 
     <doc>
@@ -269,7 +273,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .P27L</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -285,7 +289,7 @@
         <field name="pub_place">Pasadena, CA</field>
         <field name="language">English</field>
         <field name="call_number">613 .P27h</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -305,7 +309,7 @@
         <field name="pub_place">Harrisburg, PA</field>
         <field name="language">English</field>
         <field name="call_number">613 .P41s</field>
-        <field name="state_country">Pennsylvania </field>
+        <field name="state_country">Pennsylvania</field>
     </doc>
 
     <doc>
@@ -325,7 +329,7 @@
         <field name="grade_level_number">Kindergarten</field>
         <field name="grade_level_number">1st grade</field>
         <field name="grade_level_number">2nd grade</field>
-        <field name="grade_level_number">3rd </field>
+        <field name="grade_level_number">3rd grade</field>
     </doc>
 
     <doc>
@@ -343,7 +347,7 @@
         <field name="state_country">Pennsylvania</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -361,7 +365,7 @@
         <field name="state_country">Pennsylvania</field>
         <field name="grade_level_number">7th grade</field>
         <field name="grade_level_number">8th grade</field>
-        <field name="grade_level_number">9th </field>
+        <field name="grade_level_number">9th grade</field>
     </doc>
 
     <doc>
@@ -380,7 +384,7 @@
         <field name="pub_place">Philadelphia, PA</field>
         <field name="language">English</field>
         <field name="call_number">613 .P54he v. 2</field>
-        <field name="state_country">Pennsylvania </field>
+        <field name="state_country">Pennsylvania</field>
     </doc>
 
     <doc>
@@ -401,7 +405,7 @@
         <field name="pub_place">Philadelphia, PA</field>
         <field name="language">English</field>
         <field name="call_number">613 .P54he v. 1</field>
-        <field name="state_country">Pennsylvania </field>
+        <field name="state_country">Pennsylvania</field>
     </doc>
 
     <doc>
@@ -419,7 +423,7 @@
         <field name="pub_place">Philadelphia, PA</field>
         <field name="language">English</field>
         <field name="call_number">613 .P54he v. 3</field>
-        <field name="state_country">Pennsylvania </field>
+        <field name="state_country">Pennsylvania</field>
     </doc>
 
     <doc>
@@ -433,7 +437,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .P57h</field>
         <field name="state_country">Arizona</field>
-        <field name="grade_level_number">1st </field>
+        <field name="grade_level_number">1st grade</field>
     </doc>
 
     <doc>
@@ -449,7 +453,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .P85r</field>
         <field name="state_country">Oregon</field>
-        <field name="grade_level_group">High school </field>
+        <field name="grade_level_group">High school</field>
     </doc>
 
     <doc>
@@ -464,7 +468,7 @@
         <field name="publisher">Proctor &amp; Gamble Company</field>
         <field name="pub_place">Cincinnati, OH</field>
         <field name="language">English</field>
-        <field name="call_number">613 .P96u </field>
+        <field name="call_number">613 .P96u</field>
     </doc>
 
     <doc>
@@ -479,7 +483,7 @@
         <field name="publisher">Proctor &amp; Gamble Company</field>
         <field name="pub_place">Cincinnati, OH</field>
         <field name="language">English</field>
-        <field name="call_number">613 .P96u </field>
+        <field name="call_number">613 .P96u</field>
     </doc>
 
     <doc>
@@ -494,7 +498,7 @@
         <field name="publisher">Proctor &amp; Gamble Company</field>
         <field name="pub_place">Cincinnati, OH</field>
         <field name="language">English</field>
-        <field name="call_number">613 .P96u </field>
+        <field name="call_number">613 .P96u</field>
     </doc>
 
     <doc>
@@ -510,7 +514,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .R12h</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">Kindergarten </field>
+        <field name="grade_level_number">Kindergarten</field>
     </doc>
 
     <doc>
@@ -533,7 +537,7 @@
         <field name="call_number">613 .R68g</field>
         <field name="state_country">Illinois</field>
         <field name="grade_level_group">Elementary</field>
-        <field name="grade_level_group">Middle school </field>
+        <field name="grade_level_group">Middle school</field>
     </doc>
 
     <doc>
@@ -549,7 +553,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S17g</field>
         <field name="state_country">Utah</field>
-        <field name="grade_level_number">1st </field>
+        <field name="grade_level_number">1st grade</field>
     </doc>
 
     <doc>
@@ -572,7 +576,7 @@
         <field name="grade_level_number">5th grade</field>
         <field name="grade_level_number">6th grade</field>
         <field name="grade_level_number">7th grade</field>
-        <field name="grade_level_number">8th </field>
+        <field name="grade_level_number">8th grade</field>
     </doc>
 
     <doc>
@@ -588,7 +592,7 @@
         <field name="publisher">Santa Barbara County (California) Department of Education</field>
         <field name="language">English</field>
         <field name="call_number">613 .S22s</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -605,7 +609,7 @@
         <field name="pub_place">San Jose, CA</field>
         <field name="language">English</field>
         <field name="call_number">613 .S229c</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -619,7 +623,7 @@
         <field name="publisher">Santa Clara County (California) School Health Council</field>
         <field name="language">English</field>
         <field name="call_number">613 .S23s</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -635,7 +639,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S23g</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -646,7 +650,7 @@
         <field name="publisher">Scott, Foresman and Company Educational Publishers</field>
         <field name="pub_place">San Francisco, CA</field>
         <field name="language">English</field>
-        <field name="call_number">613 .S42p </field>
+        <field name="call_number">613 .S42p</field>
     </doc>
 
     <doc>
@@ -661,7 +665,7 @@
         <field name="pub_place">Santa Rosa, CA</field>
         <field name="language">English</field>
         <field name="call_number">613 .S69s</field>
-        <field name="state_country">California </field>
+        <field name="state_country">California</field>
     </doc>
 
     <doc>
@@ -675,7 +679,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S76h</field>
         <field name="state_country">Washington</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -691,7 +695,7 @@
         <field name="publisher">Stanford University School of Education</field>
         <field name="pub_place">Stanford, CA</field>
         <field name="language">English</field>
-        <field name="call_number">613 .S78f </field>
+        <field name="call_number">613 .S78f</field>
     </doc>
 
     <doc>
@@ -716,7 +720,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -739,7 +743,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -752,7 +756,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S95h v. 1</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">Kindergarten </field>
+        <field name="grade_level_number">Kindergarten</field>
     </doc>
 
     <doc>
@@ -765,7 +769,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S95h v. 2</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">1st </field>
+        <field name="grade_level_number">1st grade</field>
     </doc>
 
     <doc>
@@ -778,7 +782,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S95h v. 3</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">2nd </field>
+        <field name="grade_level_number">2nd grade</field>
     </doc>
 
     <doc>
@@ -791,7 +795,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S95h v. 4</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">3rd </field>
+        <field name="grade_level_number">3rd grade</field>
     </doc>
 
     <doc>
@@ -804,7 +808,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S95h v. 5</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">4th </field>
+        <field name="grade_level_number">4th grade</field>
     </doc>
 
     <doc>
@@ -817,7 +821,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S95h v. 6</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">5th </field>
+        <field name="grade_level_number">5th grade</field>
     </doc>
 
     <doc>
@@ -830,7 +834,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .S95h v. 7</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">6th </field>
+        <field name="grade_level_number">6th grade</field>
     </doc>
 
     <doc>
@@ -848,7 +852,7 @@
         <field name="pub_place">Austin, TX</field>
         <field name="language">English</field>
         <field name="call_number">613 .T355h v. 3</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -865,13 +869,13 @@
         <field name="notes">28 p. 23 cm.; Other Titles: Appraising the elementary and secondary
             school health program.; Responsibility: prepared by Lewis Spears, Jessie Helen Haag and
             a committee of school administrators.</field>
-        <field name="series_title">Texas Education Agency. Bulletin </field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
         <field name="series_vol">519</field>
         <field name="publisher">Texas Education Agency</field>
         <field name="pub_place">Austin, TX</field>
         <field name="language">English</field>
         <field name="call_number">613 .T35c</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -890,7 +894,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .T35h</field>
         <field name="state_country">Texas</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -910,7 +914,7 @@
         <field name="pub_place">Austin, TX</field>
         <field name="language">English</field>
         <field name="call_number">613 .T35s</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -925,7 +929,7 @@
         <field name="publisher">University of Texas</field>
         <field name="language">English</field>
         <field name="call_number">613 .T355h v. 1</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -940,7 +944,7 @@
         <field name="publisher">University of Texas</field>
         <field name="language">English</field>
         <field name="call_number">613 .T355h v. 2</field>
-        <field name="state_country">Texas </field>
+        <field name="state_country">Texas</field>
     </doc>
 
     <doc>
@@ -961,7 +965,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .T91h</field>
         <field name="state_country">California</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -980,7 +984,7 @@
         <field name="publisher">U.S. Federal Security Agency, Office of Education</field>
         <field name="pub_place">Washington, D.C</field>
         <field name="language">English</field>
-        <field name="call_number">613 .U58h </field>
+        <field name="call_number">613 .U58h</field>
     </doc>
 
     <doc>
@@ -996,14 +1000,14 @@
         <field name="keywords">School hygiene</field>
         <field name="keywords">Child health services</field>
         <field name="notes">vii; ; 24 cm.; Note(s): "References": p. 125-137.; Responsibility:
-            Bronson Price ... </field>
+            Bronson Price ...</field>
         <field name="series_title">Children's Bureau publication</field>
         <field name="series_vol">362</field>
         <field name="publisher">U.S. Department of Health, Education, and Welfare, Social Security
             Administration, Children's Bureau</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613 .U57s </field>
+        <field name="call_number">613 .U57s</field>
     </doc>
 
     <doc>
@@ -1022,7 +1026,7 @@
         <field name="publisher">U.S. Government Printing Office</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613 .U58m </field>
+        <field name="call_number">613 .U58m</field>
     </doc>
 
     <doc>
@@ -1043,7 +1047,7 @@
         <field name="publisher">U.S. Department of Heath, Education, and Welfare</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613 .U58te </field>
+        <field name="call_number">613 .U58te</field>
     </doc>
 
     <doc>
@@ -1066,7 +1070,7 @@
         <field name="publisher">Federal Security Agency, U.S. Office of Education</field>
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
-        <field name="call_number">613 .U58t </field>
+        <field name="call_number">613 .U58t</field>
     </doc>
 
     <doc>
@@ -1097,7 +1101,7 @@
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
         <field name="grade_level_number">6th grade</field>
-        <field name="grade_level_number">7th </field>
+        <field name="grade_level_number">7th grade</field>
     </doc>
 
     <doc>
@@ -1114,7 +1118,7 @@
         <field name="pub_place">Richmond, VA</field>
         <field name="language">English</field>
         <field name="call_number">613 .V81hm</field>
-        <field name="state_country">Virginia </field>
+        <field name="state_country">Virginia</field>
     </doc>
 
     <doc>
@@ -1127,7 +1131,7 @@
         <field name="publisher">Walworth County (Wisconsin) Schools</field>
         <field name="language">English</field>
         <field name="call_number">613 .W24c</field>
-        <field name="state_country">Wisconsin </field>
+        <field name="state_country">Wisconsin</field>
     </doc>
 
     <doc>
@@ -1141,7 +1145,7 @@
         <field name="publisher">Walworth County (Wisconsin) Schools</field>
         <field name="language">English</field>
         <field name="call_number">613 .W24m</field>
-        <field name="state_country">Wisconsin </field>
+        <field name="state_country">Wisconsin</field>
     </doc>
 
     <doc>
@@ -1154,7 +1158,7 @@
         <field name="publisher">Walworth County (Wisconsin) Schools</field>
         <field name="language">English</field>
         <field name="call_number">613 .W24p</field>
-        <field name="state_country">Wisconsin </field>
+        <field name="state_country">Wisconsin</field>
     </doc>
 
     <doc>
@@ -1168,7 +1172,7 @@
         <field name="publisher">Walworth County (Wisconsin) Schools</field>
         <field name="language">English</field>
         <field name="call_number">613 .W24r</field>
-        <field name="state_country">Wisconsin </field>
+        <field name="state_country">Wisconsin</field>
     </doc>
 
     <doc>
@@ -1184,7 +1188,7 @@
         <field name="pub_place">Warren, OH</field>
         <field name="language">English</field>
         <field name="call_number">613 .W28s v. 1</field>
-        <field name="state_country">Ohio </field>
+        <field name="state_country">Ohio</field>
     </doc>
 
     <doc>
@@ -1200,7 +1204,7 @@
         <field name="pub_place">Warren, OH</field>
         <field name="language">English</field>
         <field name="call_number">613 .W28s v. 2</field>
-        <field name="state_country">Ohio </field>
+        <field name="state_country">Ohio</field>
     </doc>
 
     <doc>
@@ -1218,7 +1222,7 @@
         <field name="call_number">613 .W31h</field>
         <field name="state_country">Washington</field>
         <field name="grade_level_group">Elementary</field>
-        <field name="grade_level_group">Middle school </field>
+        <field name="grade_level_group">Middle school</field>
     </doc>
 
     <doc>
@@ -1237,7 +1241,7 @@
         <field name="pub_place">West Hartford, CT</field>
         <field name="language">English</field>
         <field name="call_number">613 .W50e</field>
-        <field name="state_country">Connecticut </field>
+        <field name="state_country">Connecticut</field>
     </doc>
 
     <doc>
@@ -1255,7 +1259,7 @@
         <field name="pub_place">Charleston, WV</field>
         <field name="language">English</field>
         <field name="call_number">613 .W51h</field>
-        <field name="state_country">West Virginia </field>
+        <field name="state_country">West Virginia</field>
     </doc>
 
     <doc>
@@ -1271,7 +1275,7 @@
         <field name="pub_place">Charleston, WV</field>
         <field name="language">English</field>
         <field name="call_number">613 .W51s</field>
-        <field name="state_country">West Virginia </field>
+        <field name="state_country">West Virginia</field>
     </doc>
 
     <doc>
@@ -1288,7 +1292,7 @@
         <field name="publisher">Denoyer-Geppert Company</field>
         <field name="pub_place">Chicago, IL</field>
         <field name="language">English</field>
-        <field name="call_number">613 .W77t </field>
+        <field name="call_number">613 .W77t</field>
     </doc>
 
     <doc>
@@ -1308,7 +1312,7 @@
         <field name="language">English</field>
         <field name="call_number">613 .W81w</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_group">Elementary </field>
+        <field name="grade_level_group">Elementary</field>
     </doc>
 
     <doc>
@@ -1333,6 +1337,7 @@
         <field name="pub_place">Madison, WI</field>
         <field name="language">English</field>
         <field name="call_number">613 .W81h</field>
-        <field name="state_country">Wisconsin </field>
+        <field name="state_country">Wisconsin</field>
     </doc>
+
 </add>
