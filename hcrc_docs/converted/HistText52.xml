@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <add>
-
-
-
-
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">University of Minnesota. School of Nursing</field>
@@ -2781,5 +2777,4 @@
         <field name="state_country">Michigan</field>
         <field name="grade_level_group">Elementary</field>
     </doc>
-
 </add>

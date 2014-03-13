@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Suggestions related to emergency regulation requiring first aid and life
+            saving instruction in secondary schools</field>
+        <field name="year">1951</field>
+        <field name="date">05/1951</field>
+        <field name="pages">3</field>
+        <field name="keywords">First aid in illness and injury</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .C15s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bote, George S.</field>
+        <field name="author_nat">George S. Bote</field>
+        <field name="author">Laird, Dorothy Stephens</field>
+        <field name="author_nat">Dorothy Stephens Laird</field>
+        <field name="author">Snover, Phoebe Young</field>
+        <field name="author_nat">Phoebe Young Snover</field>
+        <field name="title">Roddy, the rat; a story of the spread of typhus fever and of ways of
+            getting rid of rats</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">72</field>
+        <field name="keywords">Rats as carriers of disease</field>
+        <field name="keywords">Rat extermination</field>
+        <field name="keywords">Typhus fever</field>
+        <field name="notes">72 p. illus. 23 cm.; Responsibility: by George S. Bote and Dorothy
+            Stephens Laird; illus. by Phoebe Young Snover.</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">University of Florida Sloan Project in Applied Economics</field>
+        <field name="pub_place">Gainesville, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .F63r</field>
+        <field name="state_country">Florida</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ericson, Evelyn</field>
+        <field name="author_nat">Evelyn Ericson</field>
+        <field name="title">Food insurance, "a guide to safe eating"</field>
+        <field name="year">1959</field>
+        <field name="date">09/1959</field>
+        <field name="pages">16</field>
+        <field name="keywords">Food handling</field>
+        <field name="series_title">Orange County (California) Schools. Community resource guide no
+            ii, Bulletin series s</field>
+        <field name="series_vol">104</field>
+        <field name="publisher">Orange County (California) Schools</field>
+        <field name="pub_place">Santa Ana, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .O63f</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State Board of Health</field>
+        <field name="title">Oregon laws relating to public health : supplement to 1947
+            edition</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="keywords">Public health</field>
+        <field name="publisher">Oregon State Board of Health</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .O66s</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Racine County (Wisconsin) Unified School District No. 1</field>
+        <field name="title">Science unit: community health, grade six</field>
+        <field name="year">1961</field>
+        <field name="date">09/1961</field>
+        <field name="pages">6</field>
+        <field name="keywords">Public health</field>
+        <field name="publisher">Racine County (Wisconsin) Unified School District No. 1</field>
+        <field name="pub_place">Racine, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .R12c</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Racine County (Wisconsin) Unified School District No. 1</field>
+        <field name="title">Science unit: first aid, grade five</field>
+        <field name="year">1961</field>
+        <field name="date">09/1961</field>
+        <field name="pages">15</field>
+        <field name="keywords">Public health</field>
+        <field name="keywords">First aid in illness and injury</field>
+        <field name="publisher">Racine County (Wisconsin) Unified School District No. 1</field>
+        <field name="pub_place">Racine, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .R12f</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">5th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">South Dakota State Department of Public Instruction</field>
+        <field name="title">A plan for first aid courses in schools : an essential course of study
+            towards the total education of the individual to prepare him to better enjoy a fruitful
+            life through development of desirable attitudes</field>
+        <field name="year">1952</field>
+        <field name="date">06/1952</field>
+        <field name="keywords">First aid in illness and injury</field>
+        <field name="notes">[4] pages : illustrations ; 22 cm.; Responsibility: State Department of
+            Public Instruction.</field>
+        <field name="series_title">South Dakota State Department of Public Instruction.
+            Bulletin</field>
+        <field name="series_vol">53</field>
+        <field name="publisher">South Dakota State Department of Public Instruction</field>
+        <field name="pub_place">Pierre, SD</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .S72p</field>
+        <field name="state_country">South Dakota</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Stephens, Dorothy C.</field>
+        <field name="author_nat">Dorothy C. Stephens</field>
+        <field name="title">Pineville high meets the challenge; a story of the effects of hookworm
+            and ways of treating and preventing the disease</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">54</field>
+        <field name="keywords">Public health</field>
+        <field name="keywords">Hookworm disease</field>
+        <field name="publisher">University of Florida Sloan Project in Applied Economics</field>
+        <field name="pub_place">Gainesville, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .F63p</field>
+        <field name="state_country">Florida</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Gise, Marilyn</field>
+        <field name="author_nat">Marilyn Gise</field>
+        <field name="title">Socialized medicine: resource unit</field>
+        <field name="year">1956</field>
+        <field name="date">Autumn, 1956</field>
+        <field name="pages">46</field>
+        <field name="keywords">Social medicine</field>
+        <field name="notes">For Dr. Richard E. Gross, Educ. 296a--Curriculum and Instruction in the
+            Social Studies</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .S78s</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ventura County (California) Schools</field>
+        <field name="title">Reminders and references in first aid</field>
+        <field name="keywords">First aid in illness and injury</field>
+        <field name="publisher">Ventura County (California) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">614 .V46r</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alameda County (California) Schools</field>
+        <field name="title">Dependency producing substances: a teaching unit grades one through
+            twelve</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">36</field>
+        <field name="keywords">Substance abuse</field>
+        <field name="publisher">Alameda County (California) School Department</field>
+        <field name="pub_place">Hayward, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .A31d</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alameda County (California) Schools</field>
+        <field name="title">A guide for instruction in alcohol and narcotics education</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">56</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="keywords">Narcotics</field>
+        <field name="publisher">Alameda County (California) Schools</field>
+        <field name="pub_place">Hayward, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .A31g</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Clarke, Kenneth S.</field>
+        <field name="author_nat">Kenneth S. Clarke</field>
+        <field name="title">Drugs and the coach</field>
+        <field name="year">1972</field>
+        <field name="date">1972</field>
+        <field name="pages">64</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Doping in sports</field>
+        <field name="keywords">Coaches (Athletics)</field>
+        <field name="notes">64 p. illus. 23 cm.; Note(s): Condensation of the proceedings of a
+            symposium conducted by the Health Sciences Dept. of Mankato State College in Nov. 1971.;
+            Responsibility: Editor: Kenneth S. Clarke.</field>
+        <field name="publisher">American Association for Health, Physical Education, and
+            Recreation</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .A51dr</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Levy, Marvin R.</field>
+        <field name="author_nat">Marvin R. Levy</field>
+        <field name="corp_author">National Institute of Mental Health (U.S.)</field>
+        <field name="corp_author">National Clearinghouse for Mental Health Information
+            (U.S.)</field>
+        <field name="title">Resource book for drug abuse education.</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">117</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="notes">117 p. 27 cm.; Note(s): Originally printed by the Government Printing
+            Office for the National Clearinghouse for Mental Health Information, U.S. Department of
+            Health, Education, and Welfare, Public Health Service, Health Services and Mental Health
+            Administration, National Institute of Mental Health, Chevy Chase, Md.</field>
+        <field name="publisher">American Association for Health, Physical Education, and
+            Recreation</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .A51r</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Smith, Kline &amp; French Laboratories</field>
+        <field name="corp_author">American Association for Health, Physical Education, and
+            Recreation</field>
+        <field name="title">Drug abuse : escape to nowhere: a guide for educators</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">104</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Narcotics</field>
+        <field name="keywords">Substance abuse</field>
+        <field name="notes">illus. ; 23 cm.; Note(s): Bibliography: p. 90-93.</field>
+        <field name="publisher">American Association for Health, Physical Education, and
+            Recreation</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .A51d</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Boston (Massachusetts) Public Schools</field>
+        <field name="title">Supplement to course of study in health education, grades VII-XII :
+            sociological health problems</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">31</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">31 p. ; 29 cm.; Other Titles: Sociological health problems</field>
+        <field name="series_title">Boston (Massachusetts) Public Schools. School document</field>
+        <field name="series_vol">14</field>
+        <field name="publisher">Boston (Massachusetts) Public Schools</field>
+        <field name="pub_place">Boston, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .B74s</field>
+        <field name="state_country">Massachusetts</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California Interagency Council on Cigarette Smoking and
+            Health</field>
+        <field name="title">Teachers resource kit on smoking and health grades 5 through 8 in
+            elementary schools</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="keywords">Smoking</field>
+        <field name="keywords">Cigarette habit</field>
+        <field name="abstract">Cigarette smoking and health, a review of studies by the California
+            State Department of Health -- Annotated list of resource materials -- Annotated list of
+            films and filmstrips -- Teachers guide on smoking and health, grades five through eight
+            in elementary schools.</field>
+        <field name="notes">Portfolio : illustrations; Other Titles: Cigarette smoking and
+            health</field>
+        <field name="publisher">California Interagency Council on Cigarette Smoking and
+            Health</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .C151t v. 1</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California Interagency Council on Cigarette Smoking and
+            Health</field>
+        <field name="title">Teachers resource kit on smoking and health grades 7 through 12 in
+            junior high schools and high schools</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="keywords">Smoking</field>
+        <field name="keywords">Cigarette habit</field>
+        <field name="abstract">Cigarette smoking and health, a review of studies by the California
+            State Department of Health -- Annotated list of resource materials -- Annotated list of
+            films and filmstrips -- Teachers guide on smoking and health grades seven through twelve
+            in junior high schools and high schools.</field>
+        <field name="notes">1 Portfolio : illustrations; Other Titles: Cigarette smoking and health;
+            Responsibility: California Interagency Council on Cigarette Smoking and Health.</field>
+        <field name="publisher">California Interagency Council on Cigarette Smoking and
+            Health</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .C151t v. 2</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="corp_author">California State Department of Public Health. Alcoholic
+            Rehabilitation Division</field>
+        <field name="corp_author">California State Department of Mental Hygiene</field>
+        <field name="title">Planning for alcohol education : proceedings of a conference, February
+            17-19, 1960, Asilomar conference grounds, Pacific Grove, California</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">43</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="notes">43 p. ; 28 cm.; Note(s): Sponsored by: California State Department of
+            Public Health, California State Department of Education and California State Department
+            of Mental Hygiene through technical assistance project funds from the National Institute
+            of Mental Health, United States Public Health Service./ Includes bibliographical
+            references (p. 13).; Responsibility: report prepared by Division of Alcoholic
+            Rehabilitation, Dept. of Public Health.</field>
+        <field name="series_title">Conference on Planning for Alcohol Education (1960 : Pacific
+            Grove, Calif.)</field>
+        <field name="publisher">California State Department of Public Health. Alcoholic
+            Rehabilitation Division</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .C15p</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Committee on Drugs</field>
+        <field name="corp_author">American School Health Association</field>
+        <field name="corp_author">Pharmaceutical Manufacturers Association</field>
+        <field name="title">Teaching about drugs; a curriculum guide, kindergarten through twelfth
+            year</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">207</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="notes">xiv; (p. 204-207 blank for "Notes") illus. (part col.) 28 cm.; Note(s):
+            Includes bibliographies.</field>
+        <field name="publisher">American School Health Association</field>
+        <field name="pub_place">Kent, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .A512t</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Carney, Richard E.</field>
+        <field name="author_nat">Richard E. Carney</field>
+        <field name="author">Cleary, Zella W.</field>
+        <field name="author_nat">Zella W. Cleary</field>
+        <field name="title">A report on the feasibility of using risk-taking attitudes as a basis
+            for programs to control and predict drug abuse</field>
+        <field name="year">1970</field>
+        <field name="date">04/1970</field>
+        <field name="pages">282</field>
+        <field name="keywords">Risk-taking behavior</field>
+        <field name="notes">3, xv; ill. 28 cm.; Note(s): Cover title: Risk-taking and drug abuse./
+            E.S.E.A. Title III project: "Innovative solution to teen and subteen-age drug abuse".
+            Project no. 68-5380; Grant no. 9-8-005380-0064 (056).; Other Titles: Risk-taking and
+            drug abuse.; Responsibility: by Richard E. Carney. Charts and tables by Zella W.
+            Cleary.</field>
+        <field name="publisher">Coronado (California) Unified School District</field>
+        <field name="pub_place">Coronado, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .C82r</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dade County (Florida) Public Schools</field>
+        <field name="title">Drugs and you, student handbook : junior high school</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">51</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="notes">vi; ; 28 cm.; Note(s): Includes bibliographical references (p. 50-51).;
+            Responsibility: Dade Conty Public Schools.</field>
+        <field name="series_title">Dade County (Florida) Public Schools. Instructional
+            publication</field>
+        <field name="series_vol">4G-2</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Dade County (Florida) Public Schools</field>
+        <field name="pub_place">Miami, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .D12d</field>
+        <field name="state_country">Florida</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Idaho State Department of Education</field>
+        <field name="title">Narcotics education in the public school curriculum</field>
+        <field name="date">1950s</field>
+        <field name="pages">14</field>
+        <field name="keywords">Narcotics</field>
+        <field name="publisher">Idaho State Department of Education</field>
+        <field name="pub_place">Boise, ID</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .I18h</field>
+        <field name="state_country">Idaho</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Drug Abuse Council</field>
+        <field name="corp_author">Los Angeles (California) City Schools</field>
+        <field name="title">Drug abuse control; administrative guidelines</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">14</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">Los Angeles (California) City Schools, Office of the
+            Superintendent</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .L87d</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kern County (California) Superintendent of Schools</field>
+        <field name="title">Outline for alcohol, narcotics and tobacco education in grades 4-8 : May
+            1956</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">17</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="keywords">Narcotics</field>
+        <field name="keywords">Smoking</field>
+        <field name="publisher">Kern County (California) Superintendent of Schools</field>
+        <field name="pub_place">Bakersfield, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .K39o</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Drug education in the elementary school : an instructional
+            bulletin</field>
+        <field name="year">1973</field>
+        <field name="date">1973</field>
+        <field name="pages">101</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="notes">vi; ill. ; 28 cm.; Responsibility: Instructional Planning
+            Division.</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .L87dr 1973</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Drug abuse in the elementary school; an instructional bulletin</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">55</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .L87da</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">My name is Bill X; a story of drug abuse</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">3</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Narcotics</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-679</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .L87s v. 1</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">My name is Don Q; a story of drug abuse</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">9</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Narcotics</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-680</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .L87s v. 2</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bloomquist, Edward R.</field>
+        <field name="author_nat">Edward R. Bloomquist</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Marijuana: social benefit or social detriment? An instructional bulletin
+            for health education teachers</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Narcotics</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">GC-16</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .L87m</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Tomlinson, T. R.</field>
+        <field name="author_nat">T. R. Tomlinson</field>
+        <field name="corp_author">Louisiana State University. College of Education. Bureau of
+            Educational Materials and Research</field>
+        <field name="title">The place of alcohol education in adult life, its relationship to, and
+            effects on the education of youth</field>
+        <field name="year">1956</field>
+        <field name="date">06/1956</field>
+        <field name="pages">48</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="series_title">Conference on Alcohol Education (2nd : 1956 : Louisiana State
+            University)</field>
+        <field name="publisher">Louisiana State University. College of Education</field>
+        <field name="pub_place">Baton Rouge, LA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .L88p</field>
+        <field name="state_country">Louisiana</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Maine State Department of Education</field>
+        <field name="title">Drug education in Maine</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">55</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="notes">55 p. 23 cm.; Note(s): Bibliography: p. 50-55.</field>
+        <field name="edition">Rev</field>
+        <field name="publisher">Maine State Department of Education</field>
+        <field name="pub_place">Augusta, ME</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .M22d</field>
+        <field name="state_country">Maine</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Marin County (California) Superintendent of Schools</field>
+        <field name="title">Drug abuse instructional guide: marijuana and LSD for high
+            school</field>
+        <field name="year">1967</field>
+        <field name="date">05/1967</field>
+        <field name="pages">26</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">Marin County (California) Superintendent of Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .M33d</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Michigan State Department of Education</field>
+        <field name="title">Drug education guidelines</field>
+        <field name="year">1973</field>
+        <field name="date">1973</field>
+        <field name="pages">42</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="notes">42 pages ; 23 cm; Note(s): Cover title.; Responsibility: Michigan Dept.
+            of Education.</field>
+        <field name="publisher">Michigan State Department of Education</field>
+        <field name="pub_place">Lansing, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .M62d</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Minnesota State Department of Education</field>
+        <field name="title">A guide for instruction in alcohol, tobacco and narcotics education.
+            Grades 1-12</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">63</field>
+        <field name="keywords">Substance-related disorders</field>
+        <field name="keywords">Narcotics</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="keywords">Tobacco</field>
+        <field name="series_title">Minnesota State Department of Education. Curriculum
+            bulletin</field>
+        <field name="series_vol">21</field>
+        <field name="publisher">Minnesota State Department of Education</field>
+        <field name="pub_place">St. Paul, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .M66g</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Burcat, William</field>
+        <field name="author_nat">William Burcat</field>
+        <field name="corp_author">New Jersey State Department of Education. Division of Curriculum
+            and Instruction</field>
+        <field name="corp_author">New Jersey State Department of Health</field>
+        <field name="title">Drug abuse : a reference for teachers</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">65</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="notes">i; ill. ; 23 cm.; Note(s): Includes bibliographical references (p.
+            60-63).; Responsibility: New Jersey State Dept. of Education, Division of Curriculum and
+            Instruction.</field>
+        <field name="edition">Rev. ed.</field>
+        <field name="publisher">New Jersey State Department of Education. Division of Curriculum and
+            Instruction</field>
+        <field name="pub_place">Trenton, NJ</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .N52d</field>
+        <field name="state_country">New Jersey</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Mississippi State Department of Education. Division of
+            Instruction</field>
+        <field name="title">Alcohol education handbook</field>
+        <field name="year">1957</field>
+        <field name="date">01/1957</field>
+        <field name="pages">48</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="notes">48 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 49).;
+            Responsibility: Division of Instruction, State Department of Education.</field>
+        <field name="series_title">Mississippi school bulletin</field>
+        <field name="series_vol">141</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Mississippi State Department of Education</field>
+        <field name="pub_place">Jackson, MS</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .M67a</field>
+        <field name="state_country">Mississippi</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Monroe, Margaret Ellen</field>
+        <field name="author_nat">Margaret Ellen Monroe</field>
+        <field name="author">Stewart, Jean Falconer</field>
+        <field name="author_nat">Jean Falconer Stewart</field>
+        <field name="title">Alcohol education for the layman; a bibliography</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">166</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="notes">viii; tables. 23 cm.; Genre/Form: Bibliography.; Responsibility:
+            selected and annotated by Margaret E. Monroe and Jean Stewart.</field>
+        <field name="publisher">Rutgers University Press</field>
+        <field name="pub_place">New Brunswick, NJ</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .M75a</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Binkley, Ed</field>
+        <field name="author_nat">Ed Binkley</field>
+        <field name="corp_author">Metropolitan Nashville (Tennessee) Public Schools</field>
+        <field name="title">Drug abuse survey of eighth and eleventh grade students of Metropolitan
+            Nashville, Tennessee</field>
+        <field name="year">1970</field>
+        <field name="date">05/1970</field>
+        <field name="pages">23</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">Metropolitan Nashville (Tennessee) Public Schools</field>
+        <field name="pub_place">Nashville, TN</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .N25d</field>
+        <field name="state_country">Tennessee</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rotter, George E.</field>
+        <field name="author_nat">George E. Rotter</field>
+        <field name="author">Dappen, Theodore R.</field>
+        <field name="author_nat">Theodore R. Dappen</field>
+        <field name="title">We study alcohol--tobacco--narcotics: a resource unit for teachers of
+            grades 7-8-9</field>
+        <field name="pages">40</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="keywords">Tobacco</field>
+        <field name="keywords">Narcotics</field>
+        <field name="publisher">Nebraska State Department of Education</field>
+        <field name="pub_place">Lincoln, NE</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .N36h</field>
+        <field name="state_country">Nebraska</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rappaport, Mary B.</field>
+        <field name="author_nat">Mary B. Rappaport</field>
+        <field name="title">Instruction regarding narcotics and habit-forming drugs : supplement to
+            the Health teaching syllabus for the junior and senior high schools</field>
+        <field name="year">1960</field>
+        <field name="date">02/1960</field>
+        <field name="pages">15</field>
+        <field name="keywords">Narcotics</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .N53i 1960</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rappaport, Mary B.</field>
+        <field name="author_nat">Mary B. Rappaport</field>
+        <field name="title">Instruction regarding narcotics and habit-forming drugs : supplement to
+            the Health teaching syllabus for the junior and senior high schools</field>
+        <field name="year">1952</field>
+        <field name="date">10/1952</field>
+        <field name="pages">15</field>
+        <field name="keywords">Narcotics</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .N53i 1952</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">What secondary schools can do about teenage narcotics addiction</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="keywords">Narcotics</field>
+        <field name="notes">27 p. 23 cm.; Note(s): Includes bibliography.</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin. 1956-57
+            series</field>
+        <field name="series_vol">3</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">Brooklyn, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .N532w</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Oklahoma. Workshop on Alcohol and Narcotics
+            Education</field>
+        <field name="corp_author">Oklahoma State Department of Education</field>
+        <field name="corp_author">Oklahoma State Department of Health</field>
+        <field name="title">Alcohol and narcotics education; curriculum bulletin, a guide for
+            teachers and students</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">57</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="keywords">Narcotics</field>
+        <field name="keywords">Substance abuse</field>
+        <field name="notes">vi, 57 p.; Responsibility: Prepared by Workshops on Alcohol and
+            Narcotics Education at the University of Oklahoma, summers of 1956 and 1957, under the
+            auspices of the State Dept. of Health [and] the State Dept. of Education.</field>
+        <field name="publisher">Oklahoma State Department of Health</field>
+        <field name="pub_place">Oklahoma City, OK</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .O42a</field>
+        <field name="state_country">Oklahoma</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Orange County (California) Schools</field>
+        <field name="title">Drug abuse education, elementary: a guide for teachers</field>
+        <field name="year">1969</field>
+        <field name="date">03/1969</field>
+        <field name="pages">29</field>
+        <field name="keywords">Narcotics</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">Orange County (California) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .O64d</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State System of Higher Education. Portland Extension
+            Center</field>
+        <field name="title">A resource unit in alcohol studies for secondary teachers</field>
+        <field name="year">1958</field>
+        <field name="date">06/1958</field>
+        <field name="pages">94</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="notes">94 l. 28 cm.; Note(s): Cover title./ Bibliography: leaves 88-94.;
+            Responsibility: Prepared by a workshop at Portland Extension Center.</field>
+        <field name="publisher">Oregon State System of Higher Education</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .O66r v. 1</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State Alcohol Education Committee</field>
+        <field name="title">Oregon's program of alcohol education and rehabilitation</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">16</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="publisher">Oregon State Alcohol Education Committee</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .O66r v. 2</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State Board of Education. Division of General, Special, and
+            Teacher Education</field>
+        <field name="title">Toward responsible drug education</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="abstract">[1] Grades K through 4.--[2] Grades 5 through 9.--[3] Grades 10
+            through 14.</field>
+        <field name="notes">3 v. ; 21 x 28 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: prepared by the Division of General, Special, and Teacher Education,
+            Oregon Board of Education, Alcohol and Drug Section, Mental Health Division.</field>
+        <field name="publisher">Oregon State Board of Education</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .O66t v. 1-3</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">Education about alcohol: a resource unit for seventh and eighth
+            grades</field>
+        <field name="pages">20</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="series_title">Portland (Oregon) Public Schools. Curriculum publications</field>
+        <field name="series_vol">HE-5r</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .P85e</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Mateo County (California) Juvenile Justice Commission</field>
+        <field name="title">Narcotics inquiry report</field>
+        <field name="year">1967</field>
+        <field name="date">11/1967</field>
+        <field name="pages">58</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Narcotics</field>
+        <field name="notes">ill.; Note(s): [S.l.], 1967. 58 p. : ill. ; 28 cm.</field>
+        <field name="series_title">Crime and juvenile delinquency</field>
+        <field name="series_vol">NC 47</field>
+        <field name="publisher">San Mateo County (California) Juvenile Justice Commission</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .S19n</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Seattle-King County (Washington) Youth Commission</field>
+        <field name="title">Syllabus on drug education</field>
+        <field name="year">1968</field>
+        <field name="date">04/1968</field>
+        <field name="pages">21</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="publisher">Seattle-King County (Washington) Youth Commission</field>
+        <field name="pub_place">Seattle, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .S44s v. 2</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nichols, William R.</field>
+        <field name="author_nat">William R. Nichols</field>
+        <field name="title">A teaching unit concerning alcohol and the high school student</field>
+        <field name="year">1961</field>
+        <field name="date">08/1961</field>
+        <field name="pages">15</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="notes">Education 118</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .S78t</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Reusswig, James M.</field>
+        <field name="author_nat">James M. Reusswig</field>
+        <field name="title">Harmful drugs - man's nightmare</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">11</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="series_title">Stockton (California) Unified School District. Curriculum
+            bulletin</field>
+        <field name="series_vol">205</field>
+        <field name="publisher">Stockton (California) Unified School District</field>
+        <field name="pub_place">Stockton, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .S86h</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brizendine, Donald K.</field>
+        <field name="author_nat">Donald K. Brizendine</field>
+        <field name="author">Hoog, Rita</field>
+        <field name="author_nat">Rita Hoog</field>
+        <field name="author">Rogers, J. Russell</field>
+        <field name="author_nat">J. Russell Rogers</field>
+        <field name="title">Course notes and suggestions for narcotics instruction</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="keywords">Narcotics</field>
+        <field name="publisher">Sweetwater Union High School District</field>
+        <field name="pub_place">Chula Vista, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .S97c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency. Division of Crime Prevention and Drug
+            Education</field>
+        <field name="title">Administrator's handbook for crime prevention and drug education</field>
+        <field name="year">1975</field>
+        <field name="date">07/1975</field>
+        <field name="pages">40</field>
+        <field name="keywords">Crime prevention</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Education and crime</field>
+        <field name="notes">v; ill. ; 28 cm.; Responsibility: Division of Crime Prevention and Drug
+            Education, Texas Education Agency.</field>
+        <field name="publisher">Texas Education Agency. Division of Crime Prevention and Drug
+            Education</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .T351a</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">American Cancer Society. Oregon Division</field>
+        <field name="corp_author">Oregon State Department of Education</field>
+        <field name="title">Let's teach the facts about cancer; a guide for the junior and senior
+            high school teacher. Supplement to units on communicable and non-communicable disease in
+            Oregon health instruction handbooks</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">36</field>
+        <field name="keywords">Cancer</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">36 pages illustrations 23 cm; Responsibility: Prepared in cooperation
+            with the State Dept. of Education and the General Extension Division, Oregon State
+            System of Higher Education, Portland.</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Oregon State Department of Education</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">616 .O66L</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency</field>
+        <field name="corp_author">Texas Commission on Alcoholism</field>
+        <field name="corp_author">Secondary school health education curriculum guide</field>
+        <field name="title">Introduction and basic area IX : use and abuse of tobacco, alcohol and
+            drugs</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">46</field>
+        <field name="keywords">Alcoholism</field>
+        <field name="keywords">Drug abuse</field>
+        <field name="keywords">Smoking</field>
+        <field name="notes">xi, 7; ; 25 cm.; Note(s): "Excerpts from Secondary school health
+            education curriculum guide, bulletin 691, 1970."/ Includes bibliographical references
+            (p. 37-46).; Other Titles: Use and abuse of tobacco, alcohol and drugs.; Responsibility:
+            Texas Education Agency.</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">615 .T351u</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Washington State Superintendent of Public Instruction</field>
+        <field name="corp_author">National Foundation for Infantile Paralysis</field>
+        <field name="title">Medicine in the making : polio vaccine field trials illustrate
+            scientific method at work : a resource unit for teachers</field>
+        <field name="year">1954</field>
+        <field name="date">05/1954</field>
+        <field name="pages">13</field>
+        <field name="keywords">Poliomyelitis vaccine</field>
+        <field name="notes">13 leaves ; 28 cm.; Note(s): "The 1954 immunization program [is]
+            sponsored by the National Foundation for Infantile Paralysis"--Leaf [1]./ "May, 1954.";
+            Other Titles: Polio vaccine field trials illustrate scientific method at work; Resource
+            unit for teachers</field>
+        <field name="publisher">State of Washington, Superintendent of Public Instruction</field>
+        <field name="pub_place">Olympia, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">616 .W31m</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wisconsin Cooperative School Health Program</field>
+        <field name="corp_author">Wisconsin Anti-Tuberculosis Association</field>
+        <field name="title">Learn and live : a teacher's guide for health education in tuberculosis
+            control</field>
+        <field name="year">1948</field>
+        <field name="date">10/1948</field>
+        <field name="pages">15</field>
+        <field name="keywords">Tuberculosis prevention</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">15 p. ; 23 cm.; Note(s): "This publication made possible by the
+            Wisconsin Anti-Tuberculosis Association."/ "October 1948."/ Includes bibliographical
+            references.; Other Titles: Teacher's guide for health education in tuberculosis control;
+            Responsibility: developed by Statewide Committee on Prevention and Control of Disease
+            Among School Children.</field>
+        <field name="series_title">Guides for better school health; Bulletin / Wisconsin Cooperative
+            School Health Program</field>
+        <field name="series_vol">7</field>
+        <field name="edition">2nd ed. (rev.)</field>
+        <field name="publisher">Wisconsin Cooperative School Health Program</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">616 .W81L</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Statewide Committee on Prevention and Control of Disease Among
+            School Children</field>
+        <field name="corp_author">Wisconsin Cooperative School Health Program. Cancer
+            Division</field>
+        <field name="title">Know cancer : a teacher's guide for health education in cancer
+            control</field>
+        <field name="year">1948</field>
+        <field name="date">09/1948</field>
+        <field name="pages">16</field>
+        <field name="keywords">Cancer</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">16 p. ; 23 cm.; Note(s): "Approved by the Wisconsin Division of the
+            American Cancer Society and the Wisconsin Cooperative Curriculum Guiding Committee."/
+            "September 1948."/ Includes bibliographical references (p. 15-16).; Other Titles:
+            Teacher's guide for health education in cancer control; Responsibility: developed by
+            Statewide Committees on Prevention and Control of Disease Among School Children [and]
+            Health and Safety Instruction.</field>
+        <field name="series_title">Guides for better school health</field>
+        <field name="publisher">Wisconsin Cooperative School Health Program. Cancer Division</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">616 .W81K</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Industrial
+            Education. Instructional Materials Laboratory</field>
+        <field name="title">Course for dental technicians : a workbook for apprentice dental
+            technicians</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">91</field>
+        <field name="keywords">Dentistry</field>
+        <field name="keywords">Dental instruments and apparatus</field>
+        <field name="keywords">Dental materials</field>
+        <field name="notes">ill.; Other Titles: Dental technicians.; Responsibility: prepared by the
+            Instructional Materials Laboratory.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">617 .C15c v. 1</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course for Dental Technicians, etc. Uniform Title:
+            Course for Dental Technicians, etc</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">68</field>
+        <field name="keywords">Dentistry</field>
+        <field name="keywords">Tests</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">617 .C15c v. 2</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of National
+            Defense Education Act Administration</field>
+        <field name="title">Final report of the junior college workshops in engineering: a program
+            for the improvement of instruction in mathematics and the sciences in the junior
+            colleges of California under NDEA, Tittle III</field>
+        <field name="year">1961</field>
+        <field name="date">06/1961</field>
+        <field name="pages">81</field>
+        <field name="keywords">Engineering</field>
+        <field name="notes">81 p. ill. 28 cm.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">620 .C15f</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in electric motor repair : part 3 : properties of electrical
+            circuits, alternating-current theory and equipment, and single-phase windings</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">47</field>
+        <field name="keywords">Electric circuits</field>
+        <field name="notes">47 p.; Other Titles: Electric motor repair.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">621 .C15c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chula Vista (California) City School District</field>
+        <field name="title">A study of machines and how they help us, grade 2</field>
+        <field name="year">1960</field>
+        <field name="date">10/1960</field>
+        <field name="pages">20</field>
+        <field name="keywords">Machinery</field>
+        <field name="notes">Work draft</field>
+        <field name="publisher">Chula Vista (California) City School District</field>
+        <field name="pub_place">Chula Vista, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">621 .C55s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno County (California) Schools</field>
+        <field name="title">Workers and machines they use: resource unit for second grade</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="keywords">Machinery</field>
+        <field name="notes">Reprinted 1957</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">621 .F88w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Mayer, Olive</field>
+        <field name="author_nat">Olive Mayer</field>
+        <field name="author">Hurd, Paul DeHart</field>
+        <field name="author_nat">Paul DeHart Hurd</field>
+        <field name="title">Water project pumps</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">72</field>
+        <field name="keywords">Water supply</field>
+        <field name="publisher">Production Design Co.</field>
+        <field name="pub_place">Redwood City, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">621 .M46w</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Racine County (Wisconsin) Unified School District #1</field>
+        <field name="title">Science unit: toys and tools, grade one</field>
+        <field name="year">1961</field>
+        <field name="date">09/1961</field>
+        <field name="pages">6</field>
+        <field name="keywords">Machinery</field>
+        <field name="keywords">Toys</field>
+        <field name="publisher">Racine County (Wisconsin) Unified School District #1</field>
+        <field name="pub_place">Racine, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">621 .R12s v. 1</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">1st grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Racine County (Wisconsin) Unified School District #1</field>
+        <field name="title">Science unit: simple machines, grade three</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">16</field>
+        <field name="keywords">Machinery</field>
+        <field name="publisher">Racine County (Wisconsin) Unified School District #1</field>
+        <field name="pub_place">Racine, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">621 .R12s v. 2</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Racine County (Wisconsin) Unified School District #1</field>
+        <field name="title">Science unit: heat and machines, grade five</field>
+        <field name="year">1961</field>
+        <field name="date">09/1961</field>
+        <field name="pages">20</field>
+        <field name="keywords">Machinery</field>
+        <field name="publisher">Racine County (Wisconsin) Unified School District #1</field>
+        <field name="pub_place">Racine, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">621 .R12s v. 3</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">5th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Mayer, Olive</field>
+        <field name="author_nat">Olive Mayer</field>
+        <field name="author">Hurd, Paul DeHart</field>
+        <field name="author_nat">Paul DeHart Hurd</field>
+        <field name="title">Water treatment plant</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">80</field>
+        <field name="keywords">Water supply</field>
+        <field name="publisher">Production Design Co.</field>
+        <field name="pub_place">Redwood City, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .M46w</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Michigan State Department of Conservation. Education
+            Division</field>
+        <field name="title">Water : an activities outline for use in schools</field>
+        <field name="year">1953</field>
+        <field name="date">01/1953</field>
+        <field name="pages">10</field>
+        <field name="keywords">Water conservation</field>
+        <field name="keywords">Hydrology</field>
+        <field name="notes">10 pages ; 28 cm; Note(s): Cover title./ "January 1953.";
+            Responsibility: Michigan Department of Conservation, Education Division.</field>
+        <field name="publisher">Michigan State Department of Conservation. Education
+            Division</field>
+        <field name="pub_place">Lansing, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .M62w v. 1</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Slaughter, Jean L.</field>
+        <field name="author_nat">Jean L. Slaughter</field>
+        <field name="author">Campbell, James M.</field>
+        <field name="author_nat">James M. Campbell</field>
+        <field name="corp_author">Michigan State Department of Conservation. Geological Survey
+            Division</field>
+        <field name="title">A few pointers on ground water supplies</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">44</field>
+        <field name="keywords">Water supply</field>
+        <field name="publisher">Michigan State Department of Conservation</field>
+        <field name="pub_place">Lansing, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .M62w v. 2</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Milwaukee (Wisconsin) Public Schools. Division of Curriculum and
+            Instruction</field>
+        <field name="title">Let's follow the raindrops: a resource unit on water for elementary and
+            secondary grades</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">52</field>
+        <field name="keywords">Water conservation</field>
+        <field name="series_title">Conservation education</field>
+        <field name="publisher">Milwaukee (Wisconsin) Public Schools</field>
+        <field name="pub_place">Milwaukee, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .M66L</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ericson, Evelyn</field>
+        <field name="author_nat">Evelyn Ericson</field>
+        <field name="title">Water "nature's miracle"</field>
+        <field name="year">1958</field>
+        <field name="date">09/1958</field>
+        <field name="pages">16</field>
+        <field name="keywords">Water supply</field>
+        <field name="series_title">Orange County (California) Superintendent of Schools. Community
+            resource guide</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">Orange County (California) Superintendent of Schools</field>
+        <field name="pub_place">Santa Ana, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .O63w</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bergamini, Yolanda Carmen</field>
+        <field name="author_nat">Yolanda Carmen Bergamini</field>
+        <field name="title">The Marysville levee system</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">18</field>
+        <field name="keywords">Flood control</field>
+        <field name="notes">ill., maps (some col.) ; 22 cm.; Responsibility: by Yolanda Carmen
+            Bergamini.</field>
+        <field name="publisher">Yuba County (California) Schools</field>
+        <field name="pub_place">Marysville, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .Y94m</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Richmond (California) Public Schools</field>
+        <field name="title">Elementary school science : water</field>
+        <field name="year">1956</field>
+        <field name="date">09/1956</field>
+        <field name="pages">19</field>
+        <field name="keywords">Science</field>
+        <field name="keywords">Water</field>
+        <field name="notes">xi; ill. ; 22 x 28 cm.; Note(s): Cover title./ "A comprehensive science
+            unit for the Richmond Elementary Schools. -- p. [i]./ "Committee: Lucille Franchi,
+            Robert Shogren, Doris Vertner."--P. [i]./ "September, 1956."/ Includes bibliographical
+            references (p. 16-18).; Other Titles: Water; Responsibility: Richmond Public
+            Schools.</field>
+        <field name="publisher">Richmond (California) Public Schools</field>
+        <field name="pub_place">Richmond, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .R53w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Water</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">16</field>
+        <field name="keywords">Water</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .W24w</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Vessel, Matthew F.</field>
+        <field name="author_nat">Matthew F. Vessel</field>
+        <field name="author">Wong, Herbert</field>
+        <field name="author_nat">Herbert Wong</field>
+        <field name="title">Water; a resource</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">14</field>
+        <field name="keywords">Science</field>
+        <field name="keywords">Water</field>
+        <field name="notes">14 p. illus. 22 cm.; Responsibility: by Matthew F. Vessel and Herbert H.
+            Wong.</field>
+        <field name="series_title">Fearon science education series</field>
+        <field name="series_vol">C-1</field>
+        <field name="publisher">Fearon Publishers</field>
+        <field name="pub_place">San Francisco, CSA</field>
+        <field name="language">English</field>
+        <field name="call_number">628 .V58w</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alameda County (California) Schools. Curriculum Materials
+            Center</field>
+        <field name="title">Secondary catalog of audio-visual materials: agriculture</field>
+        <field name="year">1957</field>
+        <field name="date">1957-1958</field>
+        <field name="pages">15</field>
+        <field name="keywords">Agriculture</field>
+        <field name="keywords">Audio-visual materials</field>
+        <field name="publisher">Alameda County (California) Schools. Curriculum Materials
+            Center</field>
+        <field name="pub_place">Hayward, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .A31c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Instructional guide for floriculture : junior high school
+            agriculture</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="keywords">Agriculture</field>
+        <field name="keywords">Floriculture</field>
+        <field name="notes">1 v. (various pagings) ; cm</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC635</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .L87if</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Instructional guide for general agriculture 1 and 2 ; horticulture 1, 2,
+            3, 4, 5, and 6 ; floriculture 1 and 2. : senior high school agriculture</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="keywords">Agriculture</field>
+        <field name="keywords">Horticulture</field>
+        <field name="keywords">Floriculture</field>
+        <field name="notes">1 v. (various pagings) : ill. ; 28 cm.; Note(s): Publication No.
+            SC-387./ Cover title: Instructional guide, senior high school agriculture.</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-387</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Los Angeles (California) City Schools, Division of Instructional
+            Services</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .L87i</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Martucci, Amelia</field>
+        <field name="author_nat">Amelia Martucci</field>
+        <field name="author">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="author_nat"/>
+        <field name="title">Small farms, social studies instructional guide, grade A2</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">187</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Farms</field>
+        <field name="keywords">Truck farming</field>
+        <field name="notes">v. ill.; Note(s): Includes bibliographical references.</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">EC-206</field>
+        <field name="publisher">Los Angeles (California) City Schools, Division of Instructional
+            Services</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .L87s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Western Illinois University. Department of Agriculture</field>
+        <field name="title">A functional program in agriculture for a state college</field>
+        <field name="year">1950</field>
+        <field name="date">10/1950</field>
+        <field name="pages">64</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="notes">64 pages illustrations 23 cm.; Responsibility: prepared by the Dept. of
+            Agriculture and the Office of Research and published under the direction of the
+            Committee on Research, Statistics, and Publications.</field>
+        <field name="series_title">Western Illinois University. Bulletin</field>
+        <field name="series_vol">30</field>
+        <field name="issue">2</field>
+        <field name="publisher">Western Illinois University. Department of Agriculture</field>
+        <field name="pub_place">Macomb, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .I29f</field>
+        <field name="state_country">Illinois</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Burton, Richard</field>
+        <field name="author_nat">Richard Burton</field>
+        <field name="author">Phillips, Chester</field>
+        <field name="author_nat">Chester Phillips</field>
+        <field name="author">Layton, Naomi</field>
+        <field name="author_nat">Naomi Layton</field>
+        <field name="author">Pendergast, thelma</field>
+        <field name="author_nat">thelma Pendergast</field>
+        <field name="title">The farm: a social studies unit for second grade</field>
+        <field name="year">1959</field>
+        <field name="date">11/1959</field>
+        <field name="pages">64</field>
+        <field name="keywords">Farms</field>
+        <field name="publisher">La Vista (California) District Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .L41f</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Juchem, Marguerite R.</field>
+        <field name="author_nat">Marguerite R. Juchem</field>
+        <field name="title">General agriculture: a teaching guide</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">64</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="publisher">Colorado State Department of Education</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .C71g</field>
+        <field name="state_country">Colorado</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno (California) City Schools</field>
+        <field name="title">First grade social studies: living on a farm</field>
+        <field name="year">1955</field>
+        <field name="date">04/1955</field>
+        <field name="pages">64</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="publisher">Fresno (California) City Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .F88L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Clark, Raymond McCallum</field>
+        <field name="author_nat">Raymond McCallum Clark</field>
+        <field name="author">Stump, William</field>
+        <field name="author_nat">William Stump</field>
+        <field name="author">Carter, Linton A.</field>
+        <field name="author_nat">Linton A. Carter</field>
+        <field name="author">Janes, Ray L.</field>
+        <field name="author_nat">Ray L. Janes</field>
+        <field name="author">Fennell, Richard A.</field>
+        <field name="author_nat">Richard A. Fennell</field>
+        <field name="author">Churchill, Boyd</field>
+        <field name="author_nat">Boyd Churchill</field>
+        <field name="author">Swenson, Richard</field>
+        <field name="author_nat">Richard Swenson</field>
+        <field name="author">Foth, H. D.</field>
+        <field name="author_nat">H. D. Foth</field>
+        <field name="corp_author">Michigan State University</field>
+        <field name="title">Collecting and preserving specimens for use in teaching
+            agriculture</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">24</field>
+        <field name="keywords">Agriculture</field>
+        <field name="keywords">Botanical specimens</field>
+        <field name="keywords">Zoological specimens</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: Raymond M. Clark ... [et al.].</field>
+        <field name="series_title">Michigan State University. Professional series bulletin</field>
+        <field name="series_vol">8</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Michigan State University</field>
+        <field name="pub_place">East Lansing, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M62c</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Minnesota. Institute of Agriculture</field>
+        <field name="title">How to photograph dairy animals</field>
+        <field name="keywords">Photography</field>
+        <field name="series_title">University of Minnesota. Institute of Agriculture. Information
+            service series</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">University of Minnesota. Institute of Agriculture</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M665i</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nelson, Jo</field>
+        <field name="author_nat">Jo Nelson</field>
+        <field name="author">Wolf, Ray</field>
+        <field name="author_nat">Ray Wolf</field>
+        <field name="corp_author">University of Minnesota. Institute of Agriculture</field>
+        <field name="title">So you're going on television</field>
+        <field name="keywords">Television</field>
+        <field name="series_title">University of Minnesota. Institute of Agriculture. Information
+            service series</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">University of Minnesota. Institute of Agriculture</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M665i</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Minnesota. Institute of Agriculture</field>
+        <field name="title">Check how your writing reads</field>
+        <field name="keywords">Writing</field>
+        <field name="series_title">University of Minnesota. Institute of Agriculture. Information
+            service series</field>
+        <field name="series_vol">3</field>
+        <field name="publisher">University of Minnesota. Institute of Agriculture</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M665i</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Minnesota. Institute of Agriculture</field>
+        <field name="title">Reporting 4-H club news</field>
+        <field name="keywords">Writing</field>
+        <field name="series_title">University of Minnesota. Institute of Agriculture. Information
+            service series</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">University of Minnesota. Institute of Agriculture</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M665i</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Minnesota. Institute of Agriculture</field>
+        <field name="title">Let's build a window display</field>
+        <field name="keywords">Show windows</field>
+        <field name="series_title">University of Minnesota. Institute of Agriculture. Information
+            service series</field>
+        <field name="series_vol">5</field>
+        <field name="publisher">University of Minnesota. Institute of Agriculture</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M665i</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Minnesota. Institute of Agriculture</field>
+        <field name="title">Telling your story with a booth</field>
+        <field name="keywords">Exhibitions</field>
+        <field name="series_title">University of Minnesota. Institute of Agriculture. Information
+            service series</field>
+        <field name="series_vol">6</field>
+        <field name="publisher">University of Minnesota. Institute of Agriculture</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M665i</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Missouri State Board of Education. State-wide Secondary Curriculum
+            Committee</field>
+        <field name="title">Science-agriculture curriculum guide, grades seven, eight and nine. 1957
+            tentative report</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">233</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">viii; ges illustrations 28 cm.; Note(s): Includes bibliographical
+            references (page 231).</field>
+        <field name="series_title">Missouri State Board of Education. Publication</field>
+        <field name="series_vol">105-G</field>
+        <field name="publisher">Missouri State Board of Educationn</field>
+        <field name="pub_place">Jefferson City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M67s</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Spence, Norwin</field>
+        <field name="author_nat">Norwin Spence</field>
+        <field name="author">Zaiger, Floyd</field>
+        <field name="author_nat">Floyd Zaiger</field>
+        <field name="author">Scheuber, Pius</field>
+        <field name="author_nat">Pius Scheuber</field>
+        <field name="author">Stanley, Harold</field>
+        <field name="author_nat">Harold Stanley</field>
+        <field name="author">Hanson, Walter</field>
+        <field name="author_nat">Walter Hanson</field>
+        <field name="author">Diekman, Stanley</field>
+        <field name="author_nat">Stanley Diekman</field>
+        <field name="corp_author">Modesto (California) City Schools</field>
+        <field name="title">Agriculture: course of study for the Modesto High School
+            District</field>
+        <field name="year">1956</field>
+        <field name="date">1956-1957</field>
+        <field name="pages">147</field>
+        <field name="keywords">Agriculture</field>
+        <field name="publisher">Modesto (California) City Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M69a 1956-57</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bowen, Homer</field>
+        <field name="author_nat">Homer Bowen</field>
+        <field name="author">Cosgrove, Russ</field>
+        <field name="author_nat">Russ Cosgrove</field>
+        <field name="author">Diekman, Stanley</field>
+        <field name="author_nat">Stanley Diekman</field>
+        <field name="author">Scheuber, Pius</field>
+        <field name="author_nat">Pius Scheuber</field>
+        <field name="author">Leal, Ed</field>
+        <field name="author_nat">Ed Leal</field>
+        <field name="author">Stanley, Harold</field>
+        <field name="author_nat">Harold Stanley</field>
+        <field name="author">Scheuber, Pius</field>
+        <field name="author_nat">Pius Scheuber</field>
+        <field name="author">Sypolt, Ted</field>
+        <field name="author_nat">Ted Sypolt</field>
+        <field name="corp_author">Modesto (California) City Schools</field>
+        <field name="title">Agriculture: course of study for the Modesto High School
+            District</field>
+        <field name="year">1962</field>
+        <field name="date">1962-1963</field>
+        <field name="pages">65</field>
+        <field name="keywords">Agriculture</field>
+        <field name="publisher">Modesto (California) City Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .M69a 1962-63</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">James, Gerald B.</field>
+        <field name="author_nat">Gerald B. James</field>
+        <field name="author">Porter, G. Herman</field>
+        <field name="author_nat">G. Herman Porter</field>
+        <field name="corp_author">North Carolina State Board of Education. Department of Curriculum
+            Study and Research</field>
+        <field name="title">A guide to curriculum study : agriculture</field>
+        <field name="year">1962</field>
+        <field name="date">10/1962</field>
+        <field name="pages">72</field>
+        <field name="keywords">Agriculture</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">xiii, 72; ges ; 28 cm; Note(s): Supplement inserted./ Cover title./
+            Includes bibliographical references.; Other Titles: Agriculture; Responsibility: by
+            Gerald B. James, G. Herman Porter.</field>
+        <field name="publisher">North Carolina State Board of Education. Department of Curriculum
+            Study and Research</field>
+        <field name="pub_place">Raleigh, NC</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .N86g</field>
+        <field name="state_country">North Carolina</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">North Carolina State Department of Public Instruction</field>
+        <field name="title">Vocational agricultural education in North Carolina public schools : a
+            statement of objectives, policies, requirements and responsibilities</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">24</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="notes">24 p. ; 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: prepared by state supervisors of vocational agriculture for
+            superintendents, principals, supervisors and teachers.</field>
+        <field name="series_title">North Carolina State Department of Public Instruction.
+            Publication</field>
+        <field name="series_vol">276</field>
+        <field name="publisher">North Carolina State Department of Public Instruction</field>
+        <field name="pub_place">Raleigh, NC</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .N86v</field>
+        <field name="state_country">North Carolina</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tyler (Texas) Independent School District</field>
+        <field name="title">Curriculum guide for vocational agriculture, grades 10-12</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">16</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="publisher">Tyler (Texas) Independent School District</field>
+        <field name="pub_place">Tyler, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .T98c</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ventura County (California) Board of Education</field>
+        <field name="title">The ranch : a sequence of experiences of ranch life in Ventura County
+            for grade two</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">112</field>
+        <field name="keywords">Ranch life</field>
+        <field name="keywords">Crops</field>
+        <field name="notes">[v] 109 leaves : ill. ; 29 cm.; Responsibility: Ventura County Board of
+            Education.</field>
+        <field name="edition">Rev</field>
+        <field name="publisher">Ventura County (California) Board of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .V46r</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">West Virginia State Department of Education</field>
+        <field name="title">Section 23: vocational agriculture</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">9</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="publisher">West Virginia State Department of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .W51v</field>
+        <field name="state_country">West Virginia</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">World Book Encyclopedia</field>
+        <field name="title">Farming unit teaching plan no. 53</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">16</field>
+        <field name="keywords">Agricultural education</field>
+        <field name="publisher">Field Enterprises, Inc.</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .W92f</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Yolo County (California) Schools. Curriculum Department</field>
+        <field name="title">2D - The farmer and his helpers</field>
+        <field name="year">1956</field>
+        <field name="date">09/1956</field>
+        <field name="pages">10</field>
+        <field name="keywords">Farms</field>
+        <field name="publisher">Yolo County (California) Schools. Curriculum Department</field>
+        <field name="language">English</field>
+        <field name="call_number">630 .Y54f</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+</add>

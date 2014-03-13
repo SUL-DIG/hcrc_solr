@@ -1,0 +1,1706 @@
+
+
+
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Suggestions related to emergency regulation requiring first aid and life saving instruction in secondary schools
+Y1  - 1951
+D1  - 05/1951
+SP  - 3
+KW  - First aid in illness and injury
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 614 .C15s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Bote, George S.
+A1  - Laird, Dorothy Stephens
+A1  - Snover, Phoebe Young
+T1  - Roddy, the rat; a story of the spread of typhus fever and of ways of getting rid of rats
+Y1  - 1949
+D1  - 1949
+SP  - 72
+KW  - Rats as carriers of disease
+KW  - Rat extermination
+KW  - Typhus fever
+N1  - 72 p. illus. 23 cm.; Responsibility: by George S. Bote and Dorothy Stephens Laird; illus. by Phoebe Young Snover.
+ED  - Rev.
+PB  - University of Florida Sloan Project in Applied Economics
+CY  - Gainesville, FL
+LA  - English
+CN  - 614 .F63r
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Ericson, Evelyn
+T1  - Food insurance, "a guide to safe eating"
+Y1  - 1959
+D1  - 09/1959
+SP  - 16
+KW  - Food handling
+T2  - Orange County (California) Schools. Community resource guide no ii, Bulletin series s
+V1  - 104
+PB  - Orange County (California) Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 614 .O63f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Board of Health
+T1  - Oregon laws relating to public health : supplement to 1947 edition
+Y1  - 1949
+D1  - 1949
+KW  - Public health
+PB  - Oregon State Board of Health
+CY  - Salem, OR
+LA  - English
+CN  - 614 .O66s
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: community health, grade six
+Y1  - 1961
+D1  - 09/1961
+SP  - 6
+KW  - Public health
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 614 .R12c
+SC  - Wisconsin
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: first aid, grade five
+Y1  - 1961
+D1  - 09/1961
+SP  - 15
+KW  - Public health
+KW  - First aid in illness and injury
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 614 .R12f
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - A plan for first aid courses in schools : an essential course of study towards the total education of the individual to prepare him to better enjoy a fruitful life through development of desirable attitudes
+Y1  - 1952
+D1  - 06/1952
+KW  - First aid in illness and injury
+N1  - [4] pages : illustrations ; 22 cm.; Responsibility: State Department of Public Instruction.
+T2  - South Dakota State Department of Public Instruction. Bulletin
+V1  - 53
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 614 .S72p
+SC  - South Dakota
+ER  - 
+
+TY  - BOOK
+A1  - Stephens, Dorothy C.
+T1  - Pineville high meets the challenge; a story of the effects of hookworm and ways of treating and preventing the disease
+Y1  - 1948
+D1  - 1948
+SP  - 54
+KW  - Public health
+KW  - Hookworm disease
+PB  - University of Florida Sloan Project in Applied Economics
+CY  - Gainesville, FL
+LA  - English
+CN  - 614 .F63p
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Gise, Marilyn
+T1  - Socialized medicine: resource unit
+Y1  - 1956
+D1  - Autumn, 1956
+SP  - 46
+KW  - Social medicine
+N1  - For Dr. Richard E. Gross, Educ. 296a--Curriculum and Instruction in the Social Studies
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 614 .S78s
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Schools
+T1  - Reminders and references in first aid
+KW  - First aid in illness and injury
+PB  - Ventura County (California) Schools
+LA  - English
+CN  - 614 .V46r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - Dependency producing substances: a teaching unit grades one through twelve
+Y1  - 1968
+D1  - 1968
+SP  - 36
+KW  - Substance abuse
+PB  - Alameda County (California) School Department
+CY  - Hayward, CA
+LA  - English
+CN  - 615 .A31d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - A guide for instruction in alcohol and narcotics education
+Y1  - 1958
+D1  - 1958
+SP  - 56
+KW  - Alcoholism
+KW  - Narcotics
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 615 .A31g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Clarke, Kenneth S.
+T1  - Drugs and the coach
+Y1  - 1972
+D1  - 1972
+SP  - 64
+KW  - Drug abuse
+KW  - Doping in sports
+KW  - Coaches (Athletics)
+N1  - 64 p. illus. 23 cm.; Note(s): Condensation of the proceedings of a symposium conducted by the Health Sciences Dept. of Mankato State College in Nov. 1971.; Responsibility: Editor: Kenneth S. Clarke.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 615 .A51dr
+ER  - 
+
+TY  - BOOK
+A1  - Levy, Marvin R.
+A2  - National Institute of Mental Health (U.S.)
+A2  - National Clearinghouse for Mental Health Information (U.S.)
+T1  - Resource book for drug abuse education.
+Y1  - 1969
+D1  - 1969
+SP  - 117
+KW  - Drug abuse
+N1  - 117 p. 27 cm.; Note(s): Originally printed by the Government Printing Office for the National Clearinghouse for Mental Health Information, U.S. Department of Health, Education, and Welfare, Public Health Service, Health Services and Mental Health Administration, National Institute of Mental Health, Chevy Chase, Md.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Washington, DC
+LA  - English
+CN  - 615 .A51r
+ER  - 
+
+TY  - BOOK
+A2  - Smith, Kline & French Laboratories
+A2  - American Association for Health, Physical Education, and Recreation
+T1  - Drug abuse : escape to nowhere: a guide for educators
+Y1  - 1967
+D1  - 1967
+SP  - 104
+KW  - Drug abuse
+KW  - Narcotics
+KW  - Substance abuse
+N1  - illus. ; 23 cm.; Note(s): Bibliography: p. 90-93.
+PB  - American Association for Health, Physical Education, and Recreation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 615 .A51d
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Supplement to course of study in health education, grades VII-XII : sociological health problems
+Y1  - 1968
+D1  - 1968
+SP  - 31
+KW  - Health education
+N1  - 31 p. ; 29 cm.; Other Titles: Sociological health problems
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 14
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 615 .B74s
+SC  - Massachusetts
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California Interagency Council on Cigarette Smoking and Health
+T1  - Teachers resource kit on smoking and health grades 5 through 8 in elementary schools
+Y1  - 1964
+D1  - 1964
+KW  - Smoking
+KW  - Cigarette habit
+AB  - Cigarette smoking and health, a review of studies by the California State Department of Health -- Annotated list of resource materials -- Annotated list of films and filmstrips -- Teachers guide on smoking and health, grades five through eight in elementary schools.
+N1  - Portfolio : illustrations; Other Titles: Cigarette smoking and health
+PB  - California Interagency Council on Cigarette Smoking and Health
+CY  - Sacramento, CA
+LA  - English
+CN  - 615 .C151t v. 1
+SC  - California
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - California Interagency Council on Cigarette Smoking and Health
+T1  - Teachers resource kit on smoking and health grades 7 through 12 in junior high schools and high schools
+Y1  - 1964
+D1  - 1964
+KW  - Smoking
+KW  - Cigarette habit
+AB  - Cigarette smoking and health, a review of studies by the California State Department of Health -- Annotated list of resource materials -- Annotated list of films and filmstrips -- Teachers guide on smoking and health grades seven through twelve in junior high schools and high schools.
+N1  - 1 Portfolio : illustrations; Other Titles: Cigarette smoking and health; Responsibility: California Interagency Council on Cigarette Smoking and Health.
+PB  - California Interagency Council on Cigarette Smoking and Health
+CY  - Sacramento, CA
+LA  - English
+CN  - 615 .C151t v. 2
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - California State Department of Public Health. Alcoholic Rehabilitation Division
+A2  - California State Department of Mental Hygiene
+T1  - Planning for alcohol education : proceedings of a conference, February 17-19, 1960, Asilomar conference grounds, Pacific Grove, California
+Y1  - 1960
+D1  - 1960
+SP  - 43
+KW  - Alcoholism
+N1  - 43 p. ; 28 cm.; Note(s): Sponsored by: California State Department of Public Health, California State Department of Education and California State Department of Mental Hygiene through technical assistance project funds from the National Institute of Mental Health, United States Public Health Service./ Includes bibliographical references (p. 13).; Responsibility: report prepared by Division of Alcoholic Rehabilitation, Dept. of Public Health.
+T2  - Conference on Planning for Alcohol Education (1960 : Pacific Grove, Calif.)
+PB  - California State Department of Public Health. Alcoholic Rehabilitation Division
+CY  - Sacramento, CA
+LA  - English
+CN  - 615 .C15p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Committee on Drugs
+A2  - American School Health Association
+A2  - Pharmaceutical Manufacturers Association
+T1  - Teaching about drugs; a curriculum guide, kindergarten through twelfth year
+Y1  - 1970
+D1  - 1970
+SP  - 207
+KW  - Drug abuse
+N1  - xiv; (p. 204-207 blank for "Notes") illus. (part col.) 28 cm.; Note(s): Includes bibliographies.
+PB  - American School Health Association
+CY  - Kent, OH
+LA  - English
+CN  - 615 .A512t
+ER  - 
+
+TY  - BOOK
+A1  - Carney, Richard E.
+A1  - Cleary, Zella W.
+T1  - A report on the feasibility of using risk-taking attitudes as a basis for programs to control and predict drug abuse
+Y1  - 1970
+D1  - 04/1970
+SP  - 282
+KW  - Risk-taking behavior
+N1  - 3, xv; ill. 28 cm.; Note(s): Cover title: Risk-taking and drug abuse./ E.S.E.A. Title III project: "Innovative solution to teen and subteen-age drug abuse". Project no. 68-5380; Grant no. 9-8-005380-0064 (056).; Other Titles: Risk-taking and drug abuse.; Responsibility: by Richard E. Carney. Charts and tables by Zella W. Cleary.
+PB  - Coronado (California) Unified School District
+CY  - Coronado, CA
+LA  - English
+CN  - 615 .C82r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Drugs and you, student handbook : junior high school
+Y1  - 1970
+D1  - 1970
+SP  - 51
+KW  - Drug abuse
+N1  - vi; ; 28 cm.; Note(s): Includes bibliographical references (p. 50-51).; Responsibility: Dade Conty Public Schools.
+T2  - Dade County (Florida) Public Schools. Instructional publication
+V1  - 4G-2
+ED  - Rev.
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 615 .D12d
+SC  - Florida
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Narcotics education in the public school curriculum
+D1  - 1950s
+SP  - 14
+KW  - Narcotics
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 615 .I18h
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Drug Abuse Council
+A2  - Los Angeles (California) City Schools
+T1  - Drug abuse control; administrative guidelines
+Y1  - 1970
+D1  - 1970
+SP  - 14
+KW  - Drug abuse
+PB  - Los Angeles (California) City Schools, Office of the Superintendent
+CY  - Los Angeles, CA
+LA  - English
+CN  - 615 .L87d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Superintendent of Schools
+T1  - Outline for alcohol, narcotics and tobacco education in grades 4-8 : May 1956
+Y1  - 1956
+D1  - 1956
+SP  - 17
+KW  - Alcoholism
+KW  - Narcotics
+KW  - Smoking
+PB  - Kern County (California) Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 615 .K39o
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Drug education in the elementary school : an instructional bulletin
+Y1  - 1973
+D1  - 1973
+SP  - 101
+KW  - Drug abuse
+N1  - vi; ill. ; 28 cm.; Responsibility: Instructional Planning Division.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 615 .L87dr 1973
+SC  - California
+G1  - Elementary school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Drug abuse in the elementary school; an instructional bulletin
+Y1  - 1970
+D1  - 1970
+SP  - 55
+KW  - Drug abuse
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 615 .L87da
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - My name is Bill X; a story of drug abuse
+Y1  - 1969
+D1  - 1969
+SP  - 3
+KW  - Drug abuse
+KW  - Narcotics
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-679
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 615 .L87s v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - My name is Don Q; a story of drug abuse
+Y1  - 1969
+D1  - 1969
+SP  - 9
+KW  - Drug abuse
+KW  - Narcotics
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-680
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 615 .L87s v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Bloomquist, Edward R.
+A2  - Los Angeles (California) City School District
+T1  - Marijuana: social benefit or social detriment? An instructional bulletin for health education teachers
+Y1  - 1968
+D1  - 1968
+KW  - Drug abuse
+KW  - Narcotics
+T2  - Los Angeles (California) City School District. Publication
+V1  - GC-16
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 615 .L87m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Tomlinson, T. R.
+A2  - Louisiana State University. College of Education. Bureau of Educational Materials and Research
+T1  - The place of alcohol education in adult life, its relationship to, and effects on the education of youth
+Y1  - 1956
+D1  - 06/1956
+SP  - 48
+KW  - Alcoholism 
+T2  - Conference on Alcohol Education (2nd : 1956 : Louisiana State University)
+PB  - Louisiana State University. College of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 615 .L88p
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Drug education in Maine
+Y1  - 1970
+D1  - 1970
+SP  - 55
+KW  - Drug abuse
+N1  - 55 p. 23 cm.; Note(s): Bibliography: p. 50-55.
+ED  - Rev
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 615 .M22d
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Superintendent of Schools
+T1  - Drug abuse instructional guide: marijuana and LSD for high school
+Y1  - 1967
+D1  - 05/1967
+SP  - 26
+KW  - Drug abuse
+PB  - Marin County (California) Superintendent of Schools
+LA  - English
+CN  - 615 .M33d
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education
+T1  - Drug education guidelines
+Y1  - 1973
+D1  - 1973
+SP  - 42
+KW  - Drug abuse
+N1  - 42 pages ; 23 cm; Note(s): Cover title.; Responsibility: Michigan Dept. of Education.
+PB  - Michigan State Department of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 615 .M62d
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - A guide for instruction in alcohol, tobacco and narcotics education. Grades 1-12
+Y1  - 1957
+D1  - 1957
+SP  - 63
+KW  - Substance-related disorders
+KW  - Narcotics
+KW  - Alcoholism
+KW  - Tobacco
+T2  - Minnesota State Department of Education. Curriculum bulletin
+V1  - 21
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 615 .M66g
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Burcat, William
+A2  - New Jersey State Department of Education. Division of Curriculum and Instruction
+A2  - New Jersey State Department of Health
+T1  - Drug abuse : a reference for teachers
+Y1  - 1968
+D1  - 1968
+SP  - 65
+KW  - Drug abuse
+N1  - i; ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 60-63).; Responsibility: New Jersey State Dept. of Education, Division of Curriculum and Instruction.
+ED  - Rev. ed.
+PB  - New Jersey State Department of Education. Division of Curriculum and Instruction
+CY  - Trenton, NJ
+LA  - English
+CN  - 615 .N52d
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Mississippi State Department of Education. Division of Instruction
+T1  - Alcohol education handbook
+Y1  - 1957
+D1  - 01/1957
+SP  - 48
+KW  - Alcoholism
+N1  - 48 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 49).; Responsibility: Division of Instruction, State Department of Education.
+T2  - Mississippi school bulletin
+V1  - 141
+ED  - Rev.
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 615 .M67a
+SC  - Mississippi
+ER  - 
+
+TY  - BOOK
+A1  - Monroe, Margaret Ellen
+A1  - Stewart, Jean Falconer
+T1  - Alcohol education for the layman; a bibliography
+Y1  - 1959
+D1  - 1959
+SP  - 166
+KW  - Bibliography
+KW  - Alcoholism
+N1  - viii; tables. 23 cm.; Genre/Form: Bibliography.; Responsibility: selected and annotated by Margaret E. Monroe and Jean Stewart.
+PB  - Rutgers University Press
+CY  - New Brunswick, NJ
+LA  - English
+CN  - 615 .M75a
+ER  - 
+
+TY  - BOOK
+A1  - Binkley, Ed
+A2  - Metropolitan Nashville (Tennessee) Public Schools
+T1  - Drug abuse survey of eighth and eleventh grade students of Metropolitan Nashville, Tennessee
+Y1  - 1970
+D1  - 05/1970
+SP  - 23
+KW  - Drug abuse
+PB  - Metropolitan Nashville (Tennessee) Public Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 615 .N25d
+SC  - Tennessee
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Rotter, George E.
+A1  - Dappen, Theodore R.
+T1  - We study alcohol--tobacco--narcotics: a resource unit for teachers of grades 7-8-9
+SP  - 40
+KW  - Alcoholism
+KW  - Tobacco
+KW  - Narcotics
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 615 .N36h
+SC  - Nebraska
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Rappaport, Mary B.
+T1  - Instruction regarding narcotics and habit-forming drugs : supplement to the Health teaching syllabus for the junior and senior high schools
+Y1  - 1960
+D1  - 02/1960
+SP  - 15
+KW  - Narcotics
+KW  - Drug abuse
+PB  - University of the State of New York
+CY  - Albany, NY 
+LA  - English
+CN  - 615 .N53i 1960
+SC  - New York
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rappaport, Mary B.
+T1  - Instruction regarding narcotics and habit-forming drugs : supplement to the Health teaching syllabus for the junior and senior high schools
+Y1  - 1952
+D1  - 10/1952
+SP  - 15
+KW  - Narcotics
+KW  - Drug abuse
+PB  - University of the State of New York
+CY  - Albany, NY 
+LA  - English
+CN  - 615 .N53i 1952
+SC  - New York
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - What secondary schools can do about teenage narcotics addiction
+Y1  - 1957
+D1  - 1957
+KW  - Narcotics
+N1  - 27 p. 23 cm.; Note(s): Includes bibliography.
+T2  - New York City Board of Education. Curriculum bulletin. 1956-57 series
+V1  - 3
+PB  - New York City Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 615 .N532w
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Oklahoma. Workshop on Alcohol and Narcotics Education
+A2  - Oklahoma State Department of Education
+A2  - Oklahoma State Department of Health
+T1  - Alcohol and narcotics education; curriculum bulletin, a guide for teachers and students
+Y1  - 1958
+D1  - 1958
+SP  - 57
+KW  - Alcoholism
+KW  - Narcotics
+KW  - Substance abuse
+N1  - vi, 57 p.; Responsibility: Prepared by Workshops on Alcohol and Narcotics Education at the University of Oklahoma, summers of 1956 and 1957, under the auspices of the State Dept. of Health [and] the State Dept. of Education.
+PB  - Oklahoma State Department of Health
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 615 .O42a
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Schools
+T1  - Drug abuse education, elementary: a guide for teachers
+Y1  - 1969
+D1  - 03/1969
+SP  - 29
+KW  - Narcotics
+KW  - Drug abuse
+PB  - Orange County (California) Schools
+LA  - English
+CN  - 615 .O64d
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State System of Higher Education. Portland Extension Center
+T1  - A resource unit in alcohol studies for secondary teachers
+Y1  - 1958
+D1  - 06/1958
+SP  - 94
+KW  - Alcoholism
+N1  - 94 l. 28 cm.; Note(s): Cover title./ Bibliography: leaves 88-94.; Responsibility: Prepared by a workshop at Portland Extension Center.
+PB  - Oregon State System of Higher Education
+CY  - Portland, OR
+LA  - English
+CN  - 615 .O66r v. 1
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Alcohol Education Committee
+T1  - Oregon's program of alcohol education and rehabilitation
+Y1  - 1959
+D1  - 1959
+SP  - 16
+KW  - Alcoholism
+PB  - Oregon State Alcohol Education Committee
+CY  - Portland, OR
+LA  - English
+CN  - 615 .O66r v. 2
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Board of Education. Division of General, Special, and Teacher Education
+T1  - Toward responsible drug education
+Y1  - 1970
+D1  - 1970
+KW  - Drug abuse
+AB  - [1] Grades K through 4.--[2] Grades 5 through 9.--[3] Grades 10 through 14.
+N1  - 3 v. ; 21 x 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by the Division of General, Special, and Teacher Education, Oregon Board of Education, Alcohol and Drug Section, Mental Health Division.
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 615 .O66t v. 1-3
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Education about alcohol: a resource unit for seventh and eighth grades
+SP  - 20
+KW  - Alcoholism
+T2  - Portland (Oregon) Public Schools. Curriculum publications
+V1  - HE-5r
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 615 .P85e
+SC  - Oregon
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Juvenile Justice Commission
+T1  - Narcotics inquiry report
+Y1  - 1967
+D1  - 11/1967
+SP  - 58
+KW  - Drug abuse
+KW  - Narcotics
+N1  - ill.; Note(s): [S.l.], 1967. 58 p. : ill. ; 28 cm.
+T2  - Crime and juvenile delinquency
+V1  - NC 47
+PB  - San Mateo County (California) Juvenile Justice Commission
+LA  - English
+CN  - 615 .S19n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Seattle-King County (Washington) Youth Commission
+T1  - Syllabus on drug education
+Y1  - 1968
+D1  - 04/1968
+SP  - 21
+KW  - Drug abuse
+PB  - Seattle-King County (Washington) Youth Commission
+CY  - Seattle, WA
+LA  - English
+CN  - 615 .S44s v. 2
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A1  - Nichols, William R.
+T1  - A teaching unit concerning alcohol and the high school student
+Y1  - 1961
+D1  - 08/1961
+SP  - 15
+KW  - Alcoholism
+N1  - Education 118
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 615 .S78t
+ER  - 
+
+TY  - BOOK 
+A1  - Reusswig, James M.
+T1  - Harmful drugs - man's nightmare
+Y1  - 1968
+D1  - 1968
+SP  - 11
+KW  - Drug abuse
+T2  - Stockton (California) Unified School District. Curriculum bulletin
+V1  - 205
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 615 .S86h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Brizendine, Donald K.
+A1  - Hoog, Rita
+A1  - Rogers, J. Russell
+T1  - Course notes and suggestions for narcotics instruction
+Y1  - 1967
+D1  - 1967
+KW  - Narcotics
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 615 .S97c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency. Division of Crime Prevention and Drug Education
+T1  - Administrator's handbook for crime prevention and drug education
+Y1  - 1975
+D1  - 07/1975
+SP  - 40
+KW  - Crime prevention
+KW  - Drug abuse
+KW  - Education and crime
+N1  - v; ill. ; 28 cm.; Responsibility: Division of Crime Prevention and Drug Education, Texas Education Agency.
+PB  - Texas Education Agency. Division of Crime Prevention and Drug Education
+CY  - Austin, TX
+LA  - English
+CN  - 615 .T351a
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - American Cancer Society. Oregon Division
+A2  - Oregon State Department of Education
+T1  - Let's teach the facts about cancer; a guide for the junior and senior high school teacher. Supplement to units on communicable and non-communicable disease in Oregon health instruction handbooks
+Y1  - 1956
+D1  - 1956
+SP  - 36
+KW  - Cancer
+KW  - Health education
+N1  - 36 pages illustrations 23 cm; Responsibility: Prepared in cooperation with the State Dept. of Education and the General Extension Division, Oregon State System of Higher Education, Portland.
+ED  - 2d
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 616 .O66L
+SC  - Oregon
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+A2  - Texas Commission on Alcoholism
+A2  - Secondary school health education curriculum guide
+T1  - Introduction and basic area IX : use and abuse of tobacco, alcohol and drugs
+Y1  - 1970
+D1  - 1970
+SP  - 46
+KW  - Alcoholism
+KW  - Drug abuse
+KW  - Smoking
+N1  - xi, 7; ; 25 cm.; Note(s): "Excerpts from Secondary school health education curriculum guide, bulletin 691, 1970."/ Includes bibliographical references (p. 37-46).; Other Titles: Use and abuse of tobacco, alcohol and drugs.; Responsibility: Texas Education Agency.
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 615 .T351u
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+A2  - National Foundation for Infantile Paralysis
+T1  - Medicine in the making : polio vaccine field trials illustrate scientific method at work : a resource unit for teachers
+Y1  - 1954
+D1  - 05/1954
+SP  - 13
+KW  - Poliomyelitis vaccine
+N1  - 13 leaves ; 28 cm.; Note(s): "The 1954 immunization program [is] sponsored by the National Foundation for Infantile Paralysis"--Leaf [1]./ "May, 1954."; Other Titles: Polio vaccine field trials illustrate scientific method at work; Resource unit for teachers
+PB  - State of Washington, Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 616 .W31m
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative School Health Program
+A2  - Wisconsin Anti-Tuberculosis Association
+T1  - Learn and live : a teacher's guide for health education in tuberculosis control
+Y1  - 1948
+D1  - 10/1948
+SP  - 15
+KW  - Tuberculosis prevention
+KW  - Health education
+N1  - 15 p. ; 23 cm.; Note(s): "This publication made possible by the Wisconsin Anti-Tuberculosis Association."/ "October 1948."/ Includes bibliographical references.; Other Titles: Teacher's guide for health education in tuberculosis control; Responsibility: developed by Statewide Committee on Prevention and Control of Disease Among School Children.
+T2  - Guides for better school health; Bulletin / Wisconsin Cooperative School Health Program
+V1  - 7
+ED  - 2nd ed. (rev.)
+PB  - Wisconsin Cooperative School Health Program
+CY  - Madison, WI
+LA  - English
+CN  - 616 .W81L
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Statewide Committee on Prevention and Control of Disease Among School Children
+A2  - Wisconsin Cooperative School Health Program. Cancer Division
+T1  - Know cancer : a teacher's guide for health education in cancer control
+Y1  - 1948
+D1  - 09/1948
+SP  - 16
+KW  - Cancer
+KW  - Health education
+N1  - 16 p. ; 23 cm.; Note(s): "Approved by the Wisconsin Division of the American Cancer Society and the Wisconsin Cooperative Curriculum Guiding Committee."/ "September 1948."/ Includes bibliographical references (p. 15-16).; Other Titles: Teacher's guide for health education in cancer control; Responsibility: developed by Statewide Committees on Prevention and Control of Disease Among School Children [and] Health and Safety Instruction.
+T2  - Guides for better school health
+PB  - Wisconsin Cooperative School Health Program. Cancer Division
+CY  - Madison, WI
+LA  - English
+CN  - 616 .W81K
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education. Instructional Materials Laboratory
+T1  - Course for dental technicians : a workbook for apprentice dental technicians
+Y1  - 1952
+D1  - 1952
+SP  - 91
+KW  - Dentistry
+KW  - Dental instruments and apparatus
+KW  - Dental materials
+N1  - ill.; Other Titles: Dental technicians.; Responsibility: prepared by the Instructional Materials Laboratory.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 617 .C15c v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course for Dental Technicians, etc. Uniform Title: Course for Dental Technicians, etc
+Y1  - 1952
+D1  - 1952
+SP  - 68
+KW  - Dentistry
+KW  - Tests
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 617 .C15c v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of National Defense Education Act Administration
+T1  - Final report of the junior college workshops in engineering: a program for the improvement of instruction in mathematics and the sciences in the junior colleges of California under NDEA, Tittle III
+Y1  - 1961
+D1  - 06/1961
+SP  - 81
+KW  - Engineering
+N1  - 81 p. ill. 28 cm.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 620 .C15f
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in electric motor repair : part 3 : properties of electrical circuits, alternating-current theory and equipment, and single-phase windings
+Y1  - 1949
+D1  - 1949
+SP  - 47
+KW  - Electric circuits
+N1  - 47 p.; Other Titles: Electric motor repair.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 621 .C15c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - A study of machines and how they help us, grade 2
+Y1  - 1960
+D1  - 10/1960
+SP  - 20
+KW  - Machinery
+N1  - Work draft
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 621 .C55s
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Workers and machines they use: resource unit for second grade
+Y1  - 1954
+D1  - 1954
+KW  - Machinery
+N1  - Reprinted 1957
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 621 .F88w
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Mayer, Olive
+A1  - Hurd, Paul DeHart
+T1  - Water project pumps
+Y1  - 1956
+D1  - 1956
+SP  - 72
+KW  - Water supply
+PB  - Production Design Co.
+CY  - Redwood City, CA
+LA  - English
+CN  - 621 .M46w
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District #1
+T1  - Science unit: toys and tools, grade one
+Y1  - 1961
+D1  - 09/1961
+SP  - 6
+KW  - Machinery
+KW  - Toys
+PB  - Racine County (Wisconsin) Unified School District #1
+CY  - Racine, WI
+LA  - English
+CN  - 621 .R12s v. 1
+SC  - Wisconsin
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District #1
+T1  - Science unit: simple machines, grade three
+Y1  - 1961
+D1  - 1961
+SP  - 16
+KW  - Machinery
+PB  - Racine County (Wisconsin) Unified School District #1
+CY  - Racine, WI
+LA  - English
+CN  - 621 .R12s v. 2
+SC  - Wisconsin
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District #1
+T1  - Science unit: heat and machines, grade five
+Y1  - 1961
+D1  - 09/1961
+SP  - 20
+KW  - Machinery
+PB  - Racine County (Wisconsin) Unified School District #1
+CY  - Racine, WI
+LA  - English
+CN  - 621 .R12s v. 3
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Mayer, Olive
+A1  - Hurd, Paul DeHart
+T1  - Water treatment plant
+Y1  - 1956
+D1  - 1956
+SP  - 80
+KW  - Water supply
+PB  - Production Design Co.
+CY  - Redwood City, CA
+LA  - English
+CN  - 628 .M46w
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Conservation. Education Division
+T1  - Water : an activities outline for use in schools
+Y1  - 1953
+D1  - 01/1953
+SP  - 10
+KW  - Water conservation
+KW  - Hydrology
+N1  - 10 pages ; 28 cm; Note(s): Cover title./ "January 1953."; Responsibility: Michigan Department of Conservation, Education Division.
+PB  - Michigan State Department of Conservation. Education Division
+CY  - Lansing, MI
+LA  - English
+CN  - 628 .M62w v. 1
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - Slaughter, Jean L.
+A1  - Campbell, James M.
+A2  - Michigan State Department of Conservation. Geological Survey Division
+T1  - A few pointers on ground water supplies
+Y1  - 1952
+D1  - 1952
+SP  - 44
+KW  - Water supply
+PB  - Michigan State Department of Conservation
+CY  - Lansing, MI
+LA  - English
+CN  - 628 .M62w v. 2
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction
+T1  - Let's follow the raindrops: a resource unit on water for elementary and secondary grades
+Y1  - 1958
+D1  - 1958
+SP  - 52
+KW  - Water conservation
+T2  - Conservation education
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 628 .M66L
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Ericson, Evelyn
+T1  - Water "nature's miracle"
+Y1  - 1958
+D1  - 09/1958
+SP  - 16
+KW  - Water supply
+T2  - Orange County (California) Superintendent of Schools. Community resource guide
+V1  - 4
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 628 .O63w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Bergamini, Yolanda Carmen
+T1  - The Marysville levee system
+Y1  - 1959
+D1  - 1959
+SP  - 18
+KW  - Flood control
+N1  - ill., maps (some col.) ; 22 cm.; Responsibility: by Yolanda Carmen Bergamini.
+PB  - Yuba County (California) Schools
+CY  - Marysville, CA
+LA  - English
+CN  - 628 .Y94m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - Elementary school science : water
+Y1  - 1956
+D1  - 09/1956
+SP  - 19
+KW  - Science
+KW  - Water
+N1  - xi; ill. ; 22 x 28 cm.; Note(s): Cover title./ "A comprehensive science unit for the Richmond Elementary Schools. -- p. [i]./ "Committee: Lucille Franchi, Robert Shogren, Doris Vertner."--P. [i]./ "September, 1956."/ Includes bibliographical references (p. 16-18).; Other Titles: Water; Responsibility: Richmond Public Schools.
+PB  - Richmond (California) Public Schools
+CY  - Richmond, CA
+LA  - English
+CN  - 628 .R53w
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Water
+Y1  - 1956
+D1  - 1956
+SP  - 16
+KW  - Water
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 628 .W24w
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A1  - Vessel, Matthew F.
+A1  - Wong, Herbert
+T1  - Water; a resource
+Y1  - 1959
+D1  - 1959
+SP  - 14
+KW  - Science
+KW  - Water
+N1  - 14 p. illus. 22 cm.; Responsibility: by Matthew F. Vessel and Herbert H. Wong.
+T2  - Fearon science education series
+V1  - C-1
+PB  - Fearon Publishers
+CY  - San Francisco, CSA
+LA  - English
+CN  - 628 .V58w
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools. Curriculum Materials Center
+T1  - Secondary catalog of audio-visual materials: agriculture
+Y1  - 1957
+D1  - 1957-1958
+SP  - 15
+KW  - Agriculture
+KW  - Audio-visual materials
+PB  - Alameda County (California) Schools. Curriculum Materials Center
+CY  - Hayward, CA
+LA  - English
+CN  - 630 .A31c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for floriculture : junior high school agriculture
+Y1  - 1967
+D1  - 1967
+KW  - Agriculture
+KW  - Floriculture
+N1  - 1 v. (various pagings) ; cm
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC635
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 630 .L87if
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for general agriculture 1 and 2 ; horticulture 1, 2, 3, 4, 5, and 6 ; floriculture 1 and 2. : senior high school agriculture
+Y1  - 1962
+D1  - 1962
+KW  - Agriculture
+KW  - Horticulture
+KW  - Floriculture
+N1  - 1 v. (various pagings) : ill. ; 28 cm.; Note(s): Publication No. SC-387./ Cover title: Instructional guide, senior high school agriculture.
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-387
+ED  - Rev.
+PB  - Los Angeles (California) City Schools, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 630 .L87i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Martucci, Amelia
+A1  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Small farms, social studies instructional guide, grade A2
+Y1  - 1959
+D1  - 1959
+SP  - 187
+KW  - Social sciences
+KW  - Farms
+KW  - Truck farming
+N1  - v. ill.; Note(s): Includes bibliographical references.
+T2  - Los Angeles (California) City School District. Publication
+V1  - EC-206
+PB  - Los Angeles (California) City Schools, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 630 .L87s
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Western Illinois University. Department of Agriculture
+T1  - A functional program in agriculture for a state college
+Y1  - 1950
+D1  - 10/1950
+SP  - 64
+KW  - Agricultural education
+N1  - 64 pages illustrations 23 cm.; Responsibility: prepared by the Dept. of Agriculture and the Office of Research and published under the direction of the Committee on Research, Statistics, and Publications.
+T2  - Western Illinois University. Bulletin
+V1  - 30
+IS  - 2
+PB  - Western Illinois University. Department of Agriculture
+CY  - Macomb, IL
+LA  - English
+CN  - 630 .I29f
+SC  - Illinois
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Burton, Richard
+A1  - Phillips, Chester
+A1  - Layton, Naomi
+A1  - Pendergast, thelma
+T1  - The farm: a social studies unit for second grade
+Y1  - 1959
+D1  - 11/1959
+SP  - 64
+KW  - Farms
+PB  - La Vista (California) District Schools
+LA  - English
+CN  - 630 .L41f
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Juchem, Marguerite R.
+T1  - General agriculture: a teaching guide
+Y1  - 1956
+D1  - 1956
+SP  - 64
+KW  - Agricultural education
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 630 .C71g
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Schools
+T1  - First grade social studies: living on a farm
+Y1  - 1955
+D1  - 04/1955
+SP  - 64
+KW  - Agricultural education
+PB  - Fresno (California) City Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 630 .F88L
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Clark, Raymond McCallum
+A1  - Stump, William
+A1  - Carter, Linton A.
+A1  - Janes, Ray L.
+A1  - Fennell, Richard A.
+A1  - Churchill, Boyd
+A1  - Swenson, Richard
+A1  - Foth, H. D.
+A2  - Michigan State University
+T1  - Collecting and preserving specimens for use in teaching agriculture
+Y1  - 1956
+D1  - 1956
+SP  - 24
+KW  - Agriculture
+KW  - Botanical specimens
+KW  - Zoological specimens
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Raymond M. Clark ... [et al.].
+T2  - Michigan State University. Professional series bulletin
+V1  - 8
+ED  - Rev.
+PB  - Michigan State University
+CY  - East Lansing, MI
+LA  - English
+CN  - 630 .M62c
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - University of Minnesota. Institute of Agriculture
+T1  - How to photograph dairy animals
+KW  - Photography
+T2  - University of Minnesota. Institute of Agriculture. Information service series
+V1  - 1
+PB  - University of Minnesota. Institute of Agriculture
+LA  - English
+CN  - 630 .M665i
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A1  - Nelson, Jo
+A1  - Wolf, Ray
+A2  - University of Minnesota. Institute of Agriculture
+T1  - So you're going on television
+KW  - Television
+T2  - University of Minnesota. Institute of Agriculture. Information service series
+V1  - 2
+PB  - University of Minnesota. Institute of Agriculture
+LA  - English
+CN  - 630 .M665i
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - University of Minnesota. Institute of Agriculture
+T1  - Check how your writing reads
+KW  - Writing
+T2  - University of Minnesota. Institute of Agriculture. Information service series
+V1  - 3
+PB  - University of Minnesota. Institute of Agriculture
+LA  - English
+CN  - 630 .M665i
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - University of Minnesota. Institute of Agriculture
+T1  - Reporting 4-H club news
+KW  - Writing
+T2  - University of Minnesota. Institute of Agriculture. Information service series
+V1  - 4
+PB  - University of Minnesota. Institute of Agriculture
+LA  - English
+CN  - 630 .M665i
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - University of Minnesota. Institute of Agriculture
+T1  - Let's build a window display
+KW  - Show windows
+T2  - University of Minnesota. Institute of Agriculture. Information service series
+V1  - 5
+PB  - University of Minnesota. Institute of Agriculture
+LA  - English
+CN  - 630 .M665i
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - University of Minnesota. Institute of Agriculture
+T1  - Telling your story with a booth
+KW  - Exhibitions
+T2  - University of Minnesota. Institute of Agriculture. Information service series
+V1  - 6
+PB  - University of Minnesota. Institute of Agriculture
+LA  - English
+CN  - 630 .M665i
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Board of Education. State-wide Secondary Curriculum Committee
+T1  - Science-agriculture curriculum guide, grades seven, eight and nine. 1957 tentative report
+Y1  - 1957
+D1  - 1957
+SP  - 233
+KW  - Agricultural education
+KW  - Curricula
+N1  - viii; ges illustrations 28 cm.; Note(s): Includes bibliographical references (page 231).
+T2  - Missouri State Board of Education. Publication
+V1  - 105-G
+PB  - Missouri State Board of Educationn
+CY  - Jefferson City, MO
+LA  - English
+CN  - 630 .M67s
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Spence, Norwin
+A1  - Zaiger, Floyd
+A1  - Scheuber, Pius
+A1  - Stanley, Harold
+A1  - Hanson, Walter
+A1  - Diekman, Stanley
+A2  - Modesto (California) City Schools
+T1  - Agriculture: course of study for the Modesto High School District
+Y1  - 1956
+D1  - 1956-1957
+SP  - 147
+KW  - Agriculture
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 630 .M69a 1956-57
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Bowen, Homer
+A1  - Cosgrove, Russ
+A1  - Diekman, Stanley
+A1  - Scheuber, Pius
+A1  - Leal, Ed
+A1  - Stanley, Harold
+A1  - Scheuber, Pius
+A1  - Sypolt, Ted
+A2  - Modesto (California) City Schools
+T1  - Agriculture: course of study for the Modesto High School District
+Y1  - 1962
+D1  - 1962-1963
+SP  - 65
+KW  - Agriculture
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 630 .M69a 1962-63
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - James, Gerald B.
+A1  - Porter, G. Herman
+A2  - North Carolina State Board of Education. Department of Curriculum Study and Research
+T1  - A guide to curriculum study : agriculture
+Y1  - 1962
+D1  - 10/1962
+SP  - 72
+KW  - Agriculture
+KW  - Curricula
+N1  - xiii, 72; ges ; 28 cm; Note(s): Supplement inserted./ Cover title./ Includes bibliographical references.; Other Titles: Agriculture; Responsibility: by Gerald B. James, G. Herman Porter.
+PB  - North Carolina State Board of Education. Department of Curriculum Study and Research
+CY  - Raleigh, NC
+LA  - English
+CN  - 630 .N86g
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Vocational agricultural education in North Carolina public schools : a statement of objectives, policies, requirements and responsibilities
+Y1  - 1951
+D1  - 1951
+SP  - 24
+KW  - Agricultural education
+N1  - 24 p. ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by state supervisors of vocational agriculture for superintendents, principals, supervisors and teachers.
+T2  - North Carolina State Department of Public Instruction. Publication
+V1  - 276
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 630 .N86v
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for vocational agriculture, grades 10-12
+Y1  - 1964
+D1  - 1964
+SP  - 16
+KW  - Agricultural education
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 630 .T98c
+SC  - Texas
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - The ranch : a sequence of experiences of ranch life in Ventura County for grade two
+Y1  - 1949
+D1  - 1949
+SP  - 112
+KW  - Ranch life
+KW  - Crops
+N1  - [v] 109 leaves : ill. ; 29 cm.; Responsibility: Ventura County Board of Education.
+ED  - Rev
+PB  - Ventura County (California) Board of Education
+LA  - English
+CN  - 630 .V46r
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 23: vocational agriculture
+Y1  - 1970
+D1  - 1970
+SP  - 9
+KW  - Agricultural education
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 630 .W51v
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A2  - World Book Encyclopedia
+T1  - Farming unit teaching plan no. 53
+Y1  - 1953
+D1  - 1953
+SP  - 16
+KW  - Agricultural education
+PB  - Field Enterprises, Inc.
+CY  - Chicago, IL
+LA  - English
+CN  - 630 .W92f
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Schools. Curriculum Department
+T1  - 2D - The farmer and his helpers
+Y1  - 1956
+D1  - 09/1956
+SP  - 10
+KW  - Farms
+PB  - Yolo County (California) Schools. Curriculum Department
+LA  - English
+CN  - 630 .Y54f
+SC  - California
+G2  - 2nd
+ER  - 
