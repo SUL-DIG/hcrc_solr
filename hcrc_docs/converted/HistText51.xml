@@ -1,231 +1,1338 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
-
-
-
-
-<doc><field name="type">Book</field><field name="author">Bechtel, P. C.</field><field name="author_nat">P. C. Bechtel</field><field name="author">Garrison, R. M.</field><field name="author_nat">R. M. Garrison</field><field name="author">Landis, Paul E.</field><field name="author_nat">Paul E. Landis</field><field name="corp_author">Ohio State Department of Education. Division of Health, Physical Education, Recreation, and Safety</field><field name="title">A handbook for health education teachers</field><field name="year">1956</field><field name="date">1956</field><field name="pages">56</field><field name="keywords">Health education </field><field name="keywords">Teaching aids</field><field name="notes">ill.; Responsibility: Prepared by P. C. Bechtel, under the direction of R. M. Garrison and Paul E. Landis.</field><field name="publisher">Ohio State Department of Education</field><field name="pub_place">Columbus, OH</field><field name="language">English</field><field name="call_number">613 .O37h</field><field name="state_country">Ohio
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Williams, Catharine</field><field name="author_nat">Catharine Williams</field><field name="corp_author">Ohio State University. Teaching Aids Laboratory</field><field name="title">Sources of teaching material for health education</field><field name="year">1951</field><field name="date">1951</field><field name="pages">11</field><field name="keywords">Health education</field><field name="publisher">Ohio State University. Teaching Aids Laboratory</field><field name="pub_place">Columbus, OH</field><field name="language">English</field><field name="call_number">613 .O38s</field><field name="state_country">Ohio
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oklahoma State Department of Education</field><field name="title">Health education in Oklahoma elementary schools, grades K-6</field><field name="year">1967</field><field name="date">1967</field><field name="pages">65</field><field name="keywords">Health education</field><field name="notes">vi; ges ; 23 cm; Note(s): "Recommendations of the State Health Committee of the Oklahoma Improvement Commission and Oklahoma State Dept. of Health."; Responsibility: Oklahoma State Dept. of Education.</field><field name="publisher">Oklahoma State Department of Education</field><field name="pub_place">Oklahoma City, OK</field><field name="language">English</field><field name="call_number">613 .O41h</field><field name="state_country">Oklahoma</field><field name="grade_level_number">Kindergarten</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Orange County (California) Dental Society. Woman's Auxiliary</field><field name="title">Yours for keeps</field><field name="year">1957</field><field name="date">10/1957</field><field name="pages">117</field><field name="keywords">Dental care</field><field name="notes">117 p. illus. 23 cm.</field><field name="publisher">Orange County (California) Dental Society</field><field name="language">English</field><field name="call_number">613 .O62y v. 1</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Orange County (California) Dental Society. Woman's Auxiliary</field><field name="title">Yours for keeps: teacher resource book</field><field name="year">1957</field><field name="date">09/1957</field><field name="pages">54</field><field name="keywords">Dental care</field><field name="publisher">Orange County (California) Dental Society</field><field name="language">English</field><field name="call_number">613 .O62y v. 2</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Orange County (California) Superintendent of Schools</field><field name="title">Guidelines for school health, Orange County schools</field><field name="year">1960</field><field name="date">1960</field><field name="pages">121</field><field name="keywords">School hygiene</field><field name="keywords">School nursing</field><field name="series_title">Orange County (California) Superintendent of Schools. Bulletin</field><field name="series_vol">118</field><field name="publisher">Orange County (California) Superintendent of Schools</field><field name="pub_place">Santa Ana, CA</field><field name="language">English</field><field name="call_number">613 .O62g</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Orange County (California) Superintendent of Schools</field><field name="title">Mosquito abatement</field><field name="year">1958</field><field name="date">09/1958</field><field name="pages">13</field><field name="keywords">Mosquito control</field><field name="series_title">Orange County (California) Superintendent of Schools. Community resource guide</field><field name="series_vol">1</field><field name="publisher">Orange County (California) Superintendent of Schools</field><field name="pub_place">Santa Ana, CA</field><field name="language">English</field><field name="call_number">613 .O62m</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Orange (Texas) Public Schools</field><field name="title">Tentative course of study in health and physical education, grades one and six</field><field name="year">1943</field><field name="date">1943</field><field name="pages">116</field><field name="keywords">Health education</field><field name="keywords">Physical education and training</field><field name="series_title">Orange (Texas) Public Schools. Curriculum bulletin</field><field name="series_vol">249</field><field name="publisher">Orange (Texas) Public Schools</field><field name="pub_place">Orange, TX</field><field name="language">English</field><field name="call_number">613 .O63t</field><field name="state_country">Texas</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oregon State Department of Education</field><field name="title">Health materials and resources for Oregon teachers</field><field name="year">1958</field><field name="date">1958</field><field name="pages">54</field><field name="keywords">Health education</field><field name="publisher">Oregon State Department of Education</field><field name="pub_place">Salem, OR</field><field name="language">English</field><field name="call_number">613 .O66hm</field><field name="state_country">Oregon
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Paper Cup &amp; Container Institute. Public Health Committee</field><field name="title">Cups through the centuries</field><field name="year">1953</field><field name="date">1953</field><field name="keywords">Drinking cups</field><field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">613 .P21c
-</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Paper Cup &amp; Container Institute. Public Health Committee</field><field name="title">Teachers tell how they use Cups through the centuries</field><field name="year">1953</field><field name="date">1953?</field><field name="keywords">Drinking cups</field><field name="keywords">Health education</field><field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">613 .P21c
-</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Paper Cup &amp; Container Institute. Public Health Committee</field><field name="title">On every lip</field><field name="year">1945</field><field name="date">1945</field><field name="keywords">Drinking cups</field><field name="keywords">Health education</field><field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">613 .P21c
-</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Oregon State Department of Education</field><field name="title">Handbook for health instruction in Oregon elementary schools</field><field name="year">1952</field><field name="date">1952</field><field name="pages">103</field><field name="keywords">Health education</field><field name="notes">v; 23 cm.; Note(s): "A revision of the Tentative manual, State of Oregon elementary schools, health instruction issued in 1945."</field><field name="publisher">Oregon State Department of Education</field><field name="pub_place">Salem, OR</field><field name="language">English</field><field name="call_number">613 .O66h</field><field name="state_country">Oregon</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oregon State Department of Education</field><field name="corp_author">Oregon State Board of Health</field><field name="title">Health services for the school-age child in Oregon</field><field name="year">1951</field><field name="date">1951</field><field name="pages">78</field><field name="keywords">School hygiene</field><field name="notes">78 p. ill.; Responsibility: Issued by the State Department of Education, Salem, and the State Board of Health, Portland.</field><field name="publisher">Oregon State Department of Education</field><field name="pub_place">Salem, OR</field><field name="language">English</field><field name="call_number">613 .O66he</field><field name="state_country">Oregon
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pasadena (California) City Schools</field><field name="title">Life adjustment through health, physical education and recreation</field><field name="year">1948</field><field name="date">1948-1949</field><field name="pages">72</field><field name="keywords">Counseling</field><field name="series_title">Pasadena (California) City Schools. Secondary curriculum publication</field><field name="series_vol">17</field><field name="publisher">Pasadena (California) City Schools</field><field name="pub_place">Pasadena, CA</field><field name="language">English</field><field name="call_number">613 .P27L</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field><field name="title">Health</field><field name="year">1953</field><field name="date">09/1953</field><field name="pages">4</field><field name="keywords">Health education</field><field name="keywords">Audio-visual materials</field><field name="publisher">Pasadena (California) City Schools</field><field name="pub_place">Pasadena, CA</field><field name="language">English</field><field name="call_number">613 .P27h</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pennsylvania. General Assembly. Joint State Government Commission</field><field name="title">School health services : a report</field><field name="year">1955</field><field name="date">1955</field><field name="pages">39</field><field name="keywords">School hygiene</field><field name="notes">ix; ; 28 cm.; Note(s): Pa. State Docs. class. no. PGA 88.2:S372h; Responsibility: of the Joint State Government Commission to the General Assembly of the Commonwealth of Pennsylvania, session of 1955.</field><field name="publisher">Pennsylvania. General Assembly. Joint State Government Commission</field><field name="pub_place">Harrisburg, PA</field><field name="language">English</field><field name="call_number">613 .P41s</field><field name="state_country">Pennsylvania
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Philadelphia (Pennsylvania) School District</field><field name="title">Course of study in health education, grades 1, 2, and 3 with kindergarten introduction</field><field name="year">1959</field><field name="date">1959</field><field name="pages">77</field><field name="keywords">Health education</field><field name="publisher">Philadelphia (Pennsylvania) School District</field><field name="pub_place">Philadelphia, PA</field><field name="language">English</field><field name="call_number">613 .P54h v. 1</field><field name="state_country">Pennsylvania</field><field name="grade_level_number">Kindergarten</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Philadelphia (Pennsylvania) School District</field><field name="title">Course of study in health education, grades 4, 5, and 6</field><field name="year">1963</field><field name="date">1963</field><field name="pages">87</field><field name="keywords">Health education</field><field name="publisher">Philadelphia (Pennsylvania) School District</field><field name="pub_place">Philadelphia, PA</field><field name="language">English</field><field name="call_number">613 .P54h v. 2</field><field name="state_country">Pennsylvania</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Philadelphia (Pennsylvania) School District</field><field name="title">Course of study in health education, grades 7, 8, and 9</field><field name="year">1959</field><field name="date">1959</field><field name="pages">144</field><field name="keywords">Health education</field><field name="publisher">Philadelphia (Pennsylvania) School District</field><field name="pub_place">Philadelphia, PA</field><field name="language">English</field><field name="call_number">613 .P54h v. 3</field><field name="state_country">Pennsylvania</field><field name="grade_level_number">7th grade</field><field name="grade_level_number">8th grade</field><field name="grade_level_number">9th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Special Education</field><field name="title">Health and safety. Level 2 : curriculum guide for the retarded educable</field><field name="year">1961</field><field name="date">1961</field><field name="pages">176</field><field name="keywords">Health education</field><field name="keywords">Children with mental disabilities</field><field name="publisher">Philadelphia (Pennsylvania) Public Schools. Division of Special Education</field><field name="pub_place">Philadelphia, PA</field><field name="language">English</field><field name="call_number">613 .P54he v. 2</field><field name="state_country">Pennsylvania
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Special Education</field><field name="title">Health and safety, level 1 : curriculum guide for the retarded educable</field><field name="year">1962</field><field name="date">1962</field><field name="pages">91</field><field name="keywords">Children with mental disabilities</field><field name="keywords">Health education</field><field name="notes">xv; ; 28 cm.; Note(s): Mimeographed.; Responsibility: School District of Philadelphia.</field><field name="publisher">School District of Philadelphia, Pennsylvania. Division of Special Education</field><field name="pub_place">Philadelphia, PA</field><field name="language">English</field><field name="call_number">613 .P54he v. 1</field><field name="state_country">Pennsylvania
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Special Education</field><field name="title">Health and safety resource materials for the retarded educable</field><field name="year">1961</field><field name="date">1961</field><field name="pages">38</field><field name="keywords">Children with mental disabilities</field><field name="keywords">Health education</field><field name="publisher">School District of Philadelphia, Pennsylvania. Division of Special Education</field><field name="pub_place">Philadelphia, PA</field><field name="language">English</field><field name="call_number">613 .P54he v. 3</field><field name="state_country">Pennsylvania
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Phoenix (Arizona) Elementary Schools</field><field name="title">Science and social science guide: health and safety: grade i</field><field name="pages">13</field><field name="keywords">Health education</field><field name="publisher">Phoenix (Arizona) Elementary Schools</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">613 .P57h</field><field name="state_country">Arizona</field><field name="grade_level_number">1st
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Portland (Oregon) Public Schools</field><field name="title">A resource unit in health education for the mentally retarded high school student</field><field name="pages">73</field><field name="keywords">Children with mental disabilities</field><field name="keywords">Health education</field><field name="publisher">Portland (Oregon) Public Schools</field><field name="pub_place">Portland, OR</field><field name="language">English</field><field name="call_number">613 .P85r</field><field name="state_country">Oregon</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Proctor &amp; Gamble Company</field><field name="title">Tom visits the dentist: a unit on dental health: part 1 for primary grades</field><field name="year">1957</field><field name="date">1957</field><field name="pages">8</field><field name="keywords">Dental care</field><field name="publisher">Proctor &amp; Gamble Company</field><field name="pub_place">Cincinnati, OH</field><field name="language">English</field><field name="call_number">613 .P96u
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Proctor &amp; Gamble Company</field><field name="title">The way to a smile: a unit on dental health: part 2 intermediate and upper grades</field><field name="year">1957</field><field name="date">1957</field><field name="pages">8</field><field name="keywords">Dental care</field><field name="publisher">Proctor &amp; Gamble Company</field><field name="pub_place">Cincinnati, OH</field><field name="language">English</field><field name="call_number">613 .P96u
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Proctor &amp; Gamble Company</field><field name="title">Teaching suggestions for Tom visits the dentist: a unit on dental health and The way to a smile</field><field name="year">1957</field><field name="date">1957</field><field name="pages">4</field><field name="keywords">Dental care</field><field name="publisher">Proctor &amp; Gamble Company</field><field name="pub_place">Cincinnati, OH</field><field name="language">English</field><field name="call_number">613 .P96u
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Racine (Wisconsin) Unified School District No. 1</field><field name="title">Science unit: health, kindergarten</field><field name="year">1961</field><field name="date">09/1961</field><field name="pages">6</field><field name="keywords">Health education</field><field name="publisher">Racine (Wisconsin) Unified School District No. 1</field><field name="pub_place">Racine, WI</field><field name="language">English</field><field name="call_number">613 .R12h</field><field name="state_country">Wisconsin</field><field name="grade_level_number">Kindergarten
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Traenkenschuh, Amelia</field><field name="author_nat">Amelia Traenkenschuh</field><field name="author">Bredar, Loretta</field><field name="author_nat">Loretta Bredar</field><field name="author">McCormick, Drucilla</field><field name="author_nat">Drucilla McCormick</field><field name="title">Guide for health teaching, kindergarten through junior high school</field><field name="year">1957</field><field name="date">1957</field><field name="pages">10</field><field name="keywords">Health education</field><field name="publisher">Rock Island (Illinois) Public Schools</field><field name="pub_place">Rock Island, IL</field><field name="language">English</field><field name="call_number">613 .R68g</field><field name="state_country">Illinois</field><field name="grade_level_group">Elementary</field><field name="grade_level_group">Middle school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Salt Lake City (Utah) Board of Education</field><field name="title">A guide to activities in health education for the first grade</field><field name="year">1948</field><field name="date">1948</field><field name="pages">30</field><field name="keywords">Health education</field><field name="publisher">Salt Lake City (Utah) Board of Education</field><field name="pub_place">Salt Lake City, UT</field><field name="language">English</field><field name="call_number">613 .S17g</field><field name="state_country">Utah</field><field name="grade_level_number">1st
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">San Diego County (California) Schools</field><field name="title">Health: grades one through eight: course of study</field><field name="year">1956</field><field name="date">09/1956</field><field name="pages">70</field><field name="keywords">Health education</field><field name="publisher">San Diego County (California) Schools</field><field name="pub_place">San Diego, CA</field><field name="language">English</field><field name="call_number">613 .S194h</field><field name="state_country">California</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th grade</field><field name="grade_level_number">7th grade</field><field name="grade_level_number">8th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Santa Barbara County (California) Department of Education</field><field name="corp_author">Santa Barbara County (California) Health Department</field><field name="title">School health manual: information and suggestions for the use of public school teachers and public health nurses</field><field name="year">1946</field><field name="date">09/1946</field><field name="pages">22</field><field name="keywords">Health education</field><field name="publisher">Santa Barbara County (California) Department of Education</field><field name="language">English</field><field name="call_number">613 .S22s</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Santa Clara County (California) Health Department. Health Education Division</field><field name="title">Catalog: pamphlets, posters, films</field><field name="year">1957</field><field name="date">04/1957</field><field name="pages">44</field><field name="keywords">Health education</field><field name="keywords">Catalog</field><field name="publisher">Santa Clara County (California) Health Department</field><field name="pub_place">San Jose, CA</field><field name="language">English</field><field name="call_number">613 .S229c</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Santa Clara County (California) School Health Council</field><field name="title">Santa Clara County school health policies guide</field><field name="year">1960</field><field name="date">06/1960</field><field name="pages">31</field><field name="keywords">School health services</field><field name="publisher">Santa Clara County (California) School Health Council</field><field name="language">English</field><field name="call_number">613 .S23s</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Santa Cruz County (California) Schools</field><field name="title">Health guide for the elementary schools</field><field name="year">1952</field><field name="date">1952</field><field name="pages">96</field><field name="keywords">School health services</field><field name="publisher">Santa Cruz County (California) Schools</field><field name="pub_place">Santa Cruz, CA</field><field name="language">English</field><field name="call_number">613 .S23g</field><field name="state_country">California</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Scott, Foresman and Company Educational Publishers</field><field name="title">A program in health and personal development</field><field name="keywords">Health education</field><field name="publisher">Scott, Foresman and Company Educational Publishers</field><field name="pub_place">San Francisco, CA</field><field name="language">English</field><field name="call_number">613 .S42p
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Sonoma County (California) Superintendent of Schools</field><field name="title">School nurse's manual</field><field name="year">1952</field><field name="date">09/1952</field><field name="pages">72</field><field name="keywords">School health services</field><field name="publisher">Sonoma County (California) Superintendent of Schools</field><field name="pub_place">Santa Rosa, CA</field><field name="language">English</field><field name="call_number">613 .S69s</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Spokane (Washington) Public Schools</field><field name="title">Health course of study for the Spokane elementary schools</field><field name="pages">99</field><field name="keywords">Health education</field><field name="publisher">Spokane (Washington) Public Schools</field><field name="pub_place">Spokane, WA</field><field name="language">English</field><field name="call_number">613 .S76h</field><field name="state_country">Washington</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Stapleton, George Wallace</field><field name="author_nat">George Wallace Stapleton</field><field name="title">Free learning materials for implementing a science resource unit in health</field><field name="year">1955</field><field name="date">1955</field><field name="keywords">Health education</field><field name="notes">For Education 294, Dr. Hurd.</field><field name="publisher">Stanford University School of Education</field><field name="pub_place">Stanford, CA</field><field name="language">English</field><field name="call_number">613 .S78f
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Stockton (California) Unified School District. Department of Health, Physical Education and Recreation</field><field name="title">Health instruction guide and teaching aid, grades K-6</field><field name="year">1953</field><field name="date">07/1953</field><field name="pages">87</field><field name="keywords">Health education</field><field name="series_title">Stockton (California) Unified School District. Curriculum bulletin</field><field name="series_vol">34</field><field name="publisher">Stockton (California) Unified School District</field><field name="pub_place">Stockton, CA</field><field name="language">English</field><field name="call_number">613 .S86h</field><field name="grade_level_number">Kindergarten</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Stockton (California) Unified School District. Department of Health, Physical Education and Recreation</field><field name="title">Health instruction guide grades K-6: a guide for elementary classroom teachers</field><field name="year">1969</field><field name="date">1969</field><field name="pages">222</field><field name="keywords">Health education</field><field name="publisher">Stockton (California) Unified School District</field><field name="pub_place">Stockton, CA</field><field name="language">English</field><field name="call_number">613 .S86h 1969</field><field name="grade_level_number">Kindergarten</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Superior (Wisconsin) Public Schools</field><field name="title">Health education, kindergarten</field><field name="keywords">Health education</field><field name="publisher">Superior (Wisconsin) Public Schools</field><field name="pub_place">Superior, WI</field><field name="language">English</field><field name="call_number">613 .S95h v. 1</field><field name="state_country">Wisconsin</field><field name="grade_level_number">Kindergarten
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Superior (Wisconsin) Public Schools</field><field name="title">Health education, first grade</field><field name="keywords">Health education</field><field name="publisher">Superior (Wisconsin) Public Schools</field><field name="pub_place">Superior, WI</field><field name="language">English</field><field name="call_number">613 .S95h v. 2</field><field name="state_country">Wisconsin</field><field name="grade_level_number">1st
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Superior (Wisconsin) Public Schools</field><field name="title">Health education, second grade</field><field name="keywords">Health education</field><field name="publisher">Superior (Wisconsin) Public Schools</field><field name="pub_place">Superior, WI</field><field name="language">English</field><field name="call_number">613 .S95h v. 3</field><field name="state_country">Wisconsin</field><field name="grade_level_number">2nd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Superior (Wisconsin) Public Schools</field><field name="title">Health education, third grade</field><field name="keywords">Health education</field><field name="publisher">Superior (Wisconsin) Public Schools</field><field name="pub_place">Superior, WI</field><field name="language">English</field><field name="call_number">613 .S95h v. 4</field><field name="state_country">Wisconsin</field><field name="grade_level_number">3rd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Superior (Wisconsin) Public Schools</field><field name="title">Health education, fourth grade</field><field name="keywords">Health education</field><field name="publisher">Superior (Wisconsin) Public Schools</field><field name="pub_place">Superior, WI</field><field name="language">English</field><field name="call_number">613 .S95h v. 5</field><field name="state_country">Wisconsin</field><field name="grade_level_number">4th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Superior (Wisconsin) Public Schools</field><field name="title">Health education, fifth grade</field><field name="keywords">Health education</field><field name="publisher">Superior (Wisconsin) Public Schools</field><field name="pub_place">Superior, WI</field><field name="language">English</field><field name="call_number">613 .S95h v. 6</field><field name="state_country">Wisconsin</field><field name="grade_level_number">5th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Superior (Wisconsin) Public Schools</field><field name="title">Health education, sixth grade</field><field name="keywords">Health education</field><field name="publisher">Superior (Wisconsin) Public Schools</field><field name="pub_place">Superior, WI</field><field name="language">English</field><field name="call_number">613 .S95h v. 7</field><field name="state_country">Wisconsin</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Chapman, A. L.</field><field name="author_nat">A. L. Chapman</field><field name="author">Bodine, Willis R.</field><field name="author_nat">Willis R. Bodine</field><field name="title">The score at the end of the 9th inning</field><field name="year">1949</field><field name="date">07/1949</field><field name="pages">75</field><field name="keywords">Health education</field><field name="publisher">University of Texas</field><field name="pub_place">Austin, TX</field><field name="language">English</field><field name="call_number">613 .T355h v. 3</field><field name="state_country">Texas
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Spears, Lewis</field><field name="author_nat">Lewis Spears</field><field name="author">Haag, Jessie Helen</field><field name="author_nat">Jessie Helen Haag</field><field name="title">A checklist: appraising the elementary and secondary school health program</field><field name="year">1951</field><field name="date">04/1951</field><field name="keywords">School hygiene</field><field name="notes">28 p. 23 cm.; Other Titles: Appraising the elementary and secondary school health program.; Responsibility: prepared by Lewis Spears, Jessie Helen Haag and a committee of school administrators.</field><field name="series_title">Texas Education Agency. Bulletin </field><field name="series_vol">519</field><field name="publisher">Texas Education Agency</field><field name="pub_place">Austin, TX</field><field name="language">English</field><field name="call_number">613 .T35c</field><field name="state_country">Texas
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Texas Education Agency</field><field name="title">Elementary school health education curriculum guide</field><field name="year">1971</field><field name="date">1971</field><field name="pages">201</field><field name="keywords">Health education</field><field name="notes">ix; 26 cm.; Note(s): "TEA-129."</field><field name="series_title">Texas Education Agency. Bulletin</field><field name="series_vol">715</field><field name="publisher">Texas Education Agency</field><field name="pub_place">Austin, TX</field><field name="language">English</field><field name="call_number">613 .T35h</field><field name="state_country">Texas</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Texas State Department of Education</field><field name="corp_author">Texas State Department of Health</field><field name="title">The school nurse at work; a joint project of the State Department of Education and the State Department of Health</field><field name="year">1954</field><field name="date">1954</field><field name="pages">70</field><field name="keywords">School nursing</field><field name="notes">viii; ges illustrations, forms 23 cm.</field><field name="series_title">Texas Education Agency. Bulletin</field><field name="series_vol">561</field><field name="publisher">Texas Education Agency</field><field name="pub_place">Austin, TX</field><field name="language">English</field><field name="call_number">613 .T35s</field><field name="state_country">Texas
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Bodine, W. R.</field><field name="author_nat">W. R. Bodine</field><field name="title">Healthy living in our county, 1950-51 radio scripts</field><field name="year">1950</field><field name="date">1950-1951</field><field name="pages">138</field><field name="keywords">Health education</field><field name="publisher">University of Texas</field><field name="language">English</field><field name="call_number">613 .T355h v. 1</field><field name="state_country">Texas
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Bodine, W. R.</field><field name="author_nat">W. R. Bodine</field><field name="title">Healthy living in our county, teacher's guide</field><field name="year">1950</field><field name="date">1950-1951</field><field name="pages">43</field><field name="keywords">Health education</field><field name="publisher">University of Texas</field><field name="language">English</field><field name="call_number">613 .T355h v. 2</field><field name="state_country">Texas
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Byrd, Oliver Erasmus</field><field name="author_nat">Oliver Erasmus Byrd</field><field name="author">Kebric, Burt M.</field><field name="author_nat">Burt M. Kebric</field><field name="title">Health instruction guide, Tulare County elementary schools</field><field name="year">1950</field><field name="date">1950</field><field name="pages">139</field><field name="keywords">Health education</field><field name="notes">139 p.; Note(s): Includes bibliographical references.; Responsibility: Edited by Oliver E. Byrd [and] Burt M. Kebric.</field><field name="publisher">Tulare County (California) Schools</field><field name="pub_place">Visalia, CA</field><field name="language">English</field><field name="call_number">613 .T91h</field><field name="state_country">California</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Kilander, Holger Frederick</field><field name="author_nat">Holger Frederick Kilander</field><field name="title">Health instruction in the secondary schools : an inquiry into its organization and administration</field><field name="year">1951</field><field name="date">1951</field><field name="pages">20</field><field name="keywords">Health education</field><field name="notes">iv; ; 23 cm.; Responsibility: by H.F. Kilander.</field><field name="series_title">Federal Security Agency, Office of Education. Pamphlet</field><field name="series_vol">110</field><field name="publisher">U.S. Federal Security Agency, Office of Education</field><field name="pub_place">Washington, D.C</field><field name="language">English</field><field name="call_number">613 .U58h
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Price, Bronson</field><field name="author_nat">Bronson Price</field><field name="title">School health services : a selective review of evaluative studies</field><field name="year">1957</field><field name="date">1957</field><field name="pages">149</field><field name="keywords">School health services</field><field name="keywords">School hygiene</field><field name="keywords">Child health services</field><field name="notes">vii; ; 24 cm.; Note(s): "References": p. 125-137.; Responsibility: Bronson Price ... </field><field name="series_title">Children's Bureau publication</field><field name="series_vol">362</field><field name="publisher">U.S. Department of Health, Education, and Welfare, Social Security Administration, Children's Bureau</field><field name="pub_place">Washington, DC</field><field name="language">English</field><field name="call_number">613 .U57s
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Steinhaus, Arthur H.</field><field name="author_nat">Arthur H. Steinhaus</field><field name="title">More firepower for health education</field><field name="year">1945</field><field name="date">1945</field><field name="pages">50</field><field name="keywords">Health education</field><field name="notes">ill. ; 23 cm.; Note(s): Responsibility: by Arthur H Steinhaus.</field><field name="series_title">Office of Education. Bulletin / Office of Education ;; 1945</field><field name="series_vol">2</field><field name="publisher">U.S. Government Printing Office</field><field name="pub_place">Washington, DC</field><field name="language">English</field><field name="call_number">613 .U58m
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Schneider, Elsa</field><field name="author_nat">Elsa Schneider</field><field name="author">McNeely, Simon A.</field><field name="author_nat">Simon A. McNeely</field><field name="title">Teachers contribute to child health</field><field name="year">1951</field><field name="date">1951</field><field name="pages">44</field><field name="keywords">Health education</field><field name="notes">iv; ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 42-44).; Responsibility: by Elsa Schneider and Simon A. McNeely.</field><field name="series_title">United States. Office of Education. Bulletin ; 1951</field><field name="series_vol">8</field><field name="publisher">U.S. Department of Heath, Education, and Welfare</field><field name="pub_place">Washington, DC</field><field name="language">English</field><field name="call_number">613 .U58te
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Stafford, Frank S.</field><field name="author_nat">Frank S. Stafford</field><field name="author">Kilander, Holger Frederick</field><field name="author_nat">Holger Frederick Kilander</field><field name="title">Teacher education for the improvement of school health programs : a summary report of two demonstration workshops -- suggested standards for the professional health education of teachers</field><field name="year">1948</field><field name="date">1948</field><field name="pages">38</field><field name="keywords">Health education</field><field name="notes">viii; ill. ; 23 cm.; Note(s): Responsibility: by Frank S. Stafford and H.F. Kilander.</field><field name="series_title">U. S. Office of Education. Bulletin ;; 1949</field><field name="series_vol">16</field><field name="publisher">Federal Security Agency, U.S. Office of Education</field><field name="pub_place">Washington, DC</field><field name="language">English</field><field name="call_number">613 .U58t
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Virginia State Department of Education</field><field name="title">Health education, grades I-VII</field><field name="year">1956</field><field name="date">1956</field><field name="pages">107</field><field name="keywords">Health education</field><field name="keywords">School hygiene</field><field name="keywords">Curricula</field><field name="notes">v; ges 23 cm.; Note(s): First ed. issued in 1948 as Bulletin of the State Board of Education v. 30, no. 5./ Includes bibliographical references (pages 106-107).</field><field name="series_title">Virginia State Board of Education. Bulletin</field><field name="series_vol">30</field><field name="issue">10</field><field name="edition">2d ed., rev</field><field name="publisher">Virginia State Board of Education</field><field name="pub_place">Richmond, VA</field><field name="language">English</field><field name="call_number">613 .V81h v. 1</field><field name="state_country">Virginia</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th grade</field><field name="grade_level_number">7th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Virginia State Department of Education</field><field name="corp_author">Virginia State Department of Health</field><field name="title">Health manual for schools</field><field name="year">1967</field><field name="date">1967</field><field name="pages">39</field><field name="keywords">School hygiene</field><field name="keywords">Health education</field><field name="publisher">Virginia State Department of Education</field><field name="pub_place">Richmond, VA</field><field name="language">English</field><field name="call_number">613 .V81hm</field><field name="state_country">Virginia
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Walworth County (Wisconsin) Schools</field><field name="title">Conservation of human resources</field><field name="year">1950</field><field name="date">1950</field><field name="keywords">Health education</field><field name="publisher">Walworth County (Wisconsin) Schools</field><field name="language">English</field><field name="call_number">613 .W24c</field><field name="state_country">Wisconsin
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Walworth County (Wisconsin) Schools</field><field name="title">Man vs disease</field><field name="year">1955</field><field name="date">1955-1956</field><field name="pages">10</field><field name="keywords">Health education</field><field name="publisher">Walworth County (Wisconsin) Schools</field><field name="language">English</field><field name="call_number">613 .W24m</field><field name="state_country">Wisconsin
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Walworth County (Wisconsin) Schools</field><field name="title">Personal health: we grow up</field><field name="year">1956</field><field name="date">1956</field><field name="keywords">Health education</field><field name="publisher">Walworth County (Wisconsin) Schools</field><field name="language">English</field><field name="call_number">613 .W24p</field><field name="state_country">Wisconsin
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Walworth County (Wisconsin) Schools</field><field name="title">Resource unit on preventing and controlling communicable diseases of children: primary grades</field><field name="year">1955</field><field name="date">1955</field><field name="keywords">Health education</field><field name="publisher">Walworth County (Wisconsin) Schools</field><field name="language">English</field><field name="call_number">613 .W24r</field><field name="state_country">Wisconsin
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Warren (Ohio) City Schools. Department of Pupil Personnel Services</field><field name="title">Health services</field><field name="year">1958</field><field name="date">1958</field><field name="pages">17</field><field name="keywords">School health services</field><field name="publisher">Warren (Ohio) City Schools</field><field name="pub_place">Warren, OH</field><field name="language">English</field><field name="call_number">613 .W28s v. 1</field><field name="state_country">Ohio
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Warren (Ohio) City Schools. Department of Pupil Personnel Services</field><field name="title">Dental services</field><field name="year">1958</field><field name="date">1958</field><field name="pages">17</field><field name="keywords">School health services</field><field name="publisher">Warren (Ohio) City Schools</field><field name="pub_place">Warren, OH</field><field name="language">English</field><field name="call_number">613 .W28s v. 2</field><field name="state_country">Ohio
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Washington State Superintendent of Public Instruction</field><field name="title">Planning for effective education: health and physical education for elementary and junior high school</field><field name="year">1952</field><field name="date">1952</field><field name="pages">35</field><field name="keywords">Health education</field><field name="keywords">Physical education and training</field><field name="publisher">Washington State Superintendent of Public Instruction</field><field name="language">English</field><field name="call_number">613 .W31h</field><field name="state_country">Washington</field><field name="grade_level_group">Elementary</field><field name="grade_level_group">Middle school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Clock, Charles J.</field><field name="author_nat">Charles J. Clock</field><field name="corp_author">West Hartford (Connecticut) Public Schools</field><field name="title">Evaluation of the health education program</field><field name="year">1970</field><field name="date">06/1970</field><field name="keywords">Health education</field><field name="series_title">West Hartford (Connecticut) Public Schools. Service bulletin</field><field name="series_vol">33</field><field name="publisher">West Hartford (Connecticut) Public Schools</field><field name="pub_place">West Hartford, CT</field><field name="language">English</field><field name="call_number">613 .W50e</field><field name="state_country">Connecticut
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">West Virginia State Department of Education</field><field name="title">Section 8: health</field><field name="year">1970</field><field name="date">1970</field><field name="pages">26</field><field name="keywords">Health education</field><field name="publisher">West Virginia State Department of Education</field><field name="language">English</field><field name="call_number">613 .W51h</field><field name="state_country">West Virginia</field><field name="pub_place">Charleston, WV</field><field name="language">English</field><field name="call_number">613 .W51h</field><field name="state_country">West Virginia
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">West Virginia State Department of Education</field><field name="title">Sources of health education aids</field><field name="year">1955</field><field name="date">1955</field><field name="pages">30</field><field name="keywords">Health education</field><field name="keywords">Teaching aids</field><field name="publisher">West Virginia State Department of Education</field><field name="pub_place">Charleston, WV</field><field name="language">English</field><field name="call_number">613 .W51s</field><field name="state_country">West Virginia
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Winslow, Charles-Edward Amory</field><field name="author_nat">Charles-Edward Amory Winslow</field><field name="title">A teacher's manual accompanying the Winslow health and hygiene charts</field><field name="year">1952</field><field name="date">1952</field><field name="pages">83</field><field name="keywords">Health education</field><field name="keywords">Teaching aids</field><field name="publisher">Denoyer-Geppert Company</field><field name="pub_place">Chicago, IL</field><field name="language">English</field><field name="call_number">613 .W77t
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Wisconsin Cooperative School Health Program</field><field name="corp_author">Wisconsin State Board of Health</field><field name="title">Wisconsin handbook on health for the elementary teacher</field><field name="year">1953</field><field name="date">1953</field><field name="pages">142</field><field name="keywords">Health education</field><field name="notes">forms ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Wisconsin Cooperative School Health Program.</field><field name="edition">Repr. 1953</field><field name="publisher">Wisconsin State Board of Health</field><field name="pub_place">Madison, WI</field><field name="language">English</field><field name="call_number">613 .W81w</field><field name="state_country">Wisconsin</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Wisconsin State Board of Health</field><field name="corp_author">State Medical Society of Wisconsin. Committee on Hearing Defects</field><field name="corp_author">Wisconsin Cooperative School Health Program</field><field name="title">Help them hear : a teacher's guide on hearing</field><field name="year">1950</field><field name="date">08/1950</field><field name="pages">16</field><field name="keywords">Hearing disorders in children</field><field name="keywords">Deafness prevention</field><field name="keywords">Health education</field><field name="notes">ill. ; 22 cm.; Note(s): "Approved by Committee on Hearing Defects of the State Medical Society."/ "Reprinted April 1951."/ Includes bibliographical references (p. 14-16).; Other Titles: Teacher's guide on hearing; Responsibility: Wisconsin Cooperative School Health Program ; developed by the Wisconsin State Board of Health.</field><field name="publisher">Bureau for Handicapped Children and State Board of Health</field><field name="pub_place">Madison, WI</field><field name="language">English</field><field name="call_number">613 .W81h</field><field name="state_country">Wisconsin
-</field></doc>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bechtel, P. C.</field>
+        <field name="author_nat">P. C. Bechtel</field>
+        <field name="author">Garrison, R. M.</field>
+        <field name="author_nat">R. M. Garrison</field>
+        <field name="author">Landis, Paul E.</field>
+        <field name="author_nat">Paul E. Landis</field>
+        <field name="corp_author">Ohio State Department of Education. Division of Health, Physical
+            Education, Recreation, and Safety</field>
+        <field name="title">A handbook for health education teachers</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">56</field>
+        <field name="keywords">Health education </field>
+        <field name="keywords">Teaching aids</field>
+        <field name="notes">ill.; Responsibility: Prepared by P. C. Bechtel, under the direction of
+            R. M. Garrison and Paul E. Landis.</field>
+        <field name="publisher">Ohio State Department of Education</field>
+        <field name="pub_place">Columbus, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O37h</field>
+        <field name="state_country">Ohio </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Williams, Catharine</field>
+        <field name="author_nat">Catharine Williams</field>
+        <field name="corp_author">Ohio State University. Teaching Aids Laboratory</field>
+        <field name="title">Sources of teaching material for health education</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">11</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Ohio State University. Teaching Aids Laboratory</field>
+        <field name="pub_place">Columbus, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O38s</field>
+        <field name="state_country">Ohio </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oklahoma State Department of Education</field>
+        <field name="title">Health education in Oklahoma elementary schools, grades K-6</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">65</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">vi; ges ; 23 cm; Note(s): "Recommendations of the State Health Committee
+            of the Oklahoma Improvement Commission and Oklahoma State Dept. of Health.";
+            Responsibility: Oklahoma State Dept. of Education.</field>
+        <field name="publisher">Oklahoma State Department of Education</field>
+        <field name="pub_place">Oklahoma City, OK</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O41h</field>
+        <field name="state_country">Oklahoma</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Orange County (California) Dental Society. Woman's
+            Auxiliary</field>
+        <field name="title">Yours for keeps</field>
+        <field name="year">1957</field>
+        <field name="date">10/1957</field>
+        <field name="pages">117</field>
+        <field name="keywords">Dental care</field>
+        <field name="notes">117 p. illus. 23 cm.</field>
+        <field name="publisher">Orange County (California) Dental Society</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O62y v. 1</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Orange County (California) Dental Society. Woman's
+            Auxiliary</field>
+        <field name="title">Yours for keeps: teacher resource book</field>
+        <field name="year">1957</field>
+        <field name="date">09/1957</field>
+        <field name="pages">54</field>
+        <field name="keywords">Dental care</field>
+        <field name="publisher">Orange County (California) Dental Society</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O62y v. 2</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Orange County (California) Superintendent of Schools</field>
+        <field name="title">Guidelines for school health, Orange County schools</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">121</field>
+        <field name="keywords">School hygiene</field>
+        <field name="keywords">School nursing</field>
+        <field name="series_title">Orange County (California) Superintendent of Schools.
+            Bulletin</field>
+        <field name="series_vol">118</field>
+        <field name="publisher">Orange County (California) Superintendent of Schools</field>
+        <field name="pub_place">Santa Ana, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O62g</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Orange County (California) Superintendent of Schools</field>
+        <field name="title">Mosquito abatement</field>
+        <field name="year">1958</field>
+        <field name="date">09/1958</field>
+        <field name="pages">13</field>
+        <field name="keywords">Mosquito control</field>
+        <field name="series_title">Orange County (California) Superintendent of Schools. Community
+            resource guide</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">Orange County (California) Superintendent of Schools</field>
+        <field name="pub_place">Santa Ana, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O62m</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Orange (Texas) Public Schools</field>
+        <field name="title">Tentative course of study in health and physical education, grades one
+            and six</field>
+        <field name="year">1943</field>
+        <field name="date">1943</field>
+        <field name="pages">116</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">Physical education and training</field>
+        <field name="series_title">Orange (Texas) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">249</field>
+        <field name="publisher">Orange (Texas) Public Schools</field>
+        <field name="pub_place">Orange, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O63t</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State Department of Education</field>
+        <field name="title">Health materials and resources for Oregon teachers</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">54</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Oregon State Department of Education</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O66hm</field>
+        <field name="state_country">Oregon </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Paper Cup &amp; Container Institute. Public Health
+            Committee</field>
+        <field name="title">Cups through the centuries</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Drinking cups</field>
+        <field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P21c </field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Paper Cup &amp; Container Institute. Public Health
+            Committee</field>
+        <field name="title">Teachers tell how they use Cups through the centuries</field>
+        <field name="year">1953</field>
+        <field name="date">1953?</field>
+        <field name="keywords">Drinking cups</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P21c </field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Paper Cup &amp; Container Institute. Public Health
+            Committee</field>
+        <field name="title">On every lip</field>
+        <field name="year">1945</field>
+        <field name="date">1945</field>
+        <field name="keywords">Drinking cups</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Paper Cup &amp; Container Institute. Public Health Committee</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P21c </field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State Department of Education</field>
+        <field name="title">Handbook for health instruction in Oregon elementary schools</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">103</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">v; 23 cm.; Note(s): "A revision of the Tentative manual, State of Oregon
+            elementary schools, health instruction issued in 1945."</field>
+        <field name="publisher">Oregon State Department of Education</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O66h</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">Elementary </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State Department of Education</field>
+        <field name="corp_author">Oregon State Board of Health</field>
+        <field name="title">Health services for the school-age child in Oregon</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">78</field>
+        <field name="keywords">School hygiene</field>
+        <field name="notes">78 p. ill.; Responsibility: Issued by the State Department of Education,
+            Salem, and the State Board of Health, Portland.</field>
+        <field name="publisher">Oregon State Department of Education</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .O66he</field>
+        <field name="state_country">Oregon </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools</field>
+        <field name="title">Life adjustment through health, physical education and
+            recreation</field>
+        <field name="year">1948</field>
+        <field name="date">1948-1949</field>
+        <field name="pages">72</field>
+        <field name="keywords">Counseling</field>
+        <field name="series_title">Pasadena (California) City Schools. Secondary curriculum
+            publication</field>
+        <field name="series_vol">17</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P27L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="title">Health</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">4</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">Audio-visual materials</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P27h</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pennsylvania. General Assembly. Joint State Government
+            Commission</field>
+        <field name="title">School health services : a report</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">39</field>
+        <field name="keywords">School hygiene</field>
+        <field name="notes">ix; ; 28 cm.; Note(s): Pa. State Docs. class. no. PGA 88.2:S372h;
+            Responsibility: of the Joint State Government Commission to the General Assembly of the
+            Commonwealth of Pennsylvania, session of 1955.</field>
+        <field name="publisher">Pennsylvania. General Assembly. Joint State Government
+            Commission</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P41s</field>
+        <field name="state_country">Pennsylvania </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) School District</field>
+        <field name="title">Course of study in health education, grades 1, 2, and 3 with
+            kindergarten introduction</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">77</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Philadelphia (Pennsylvania) School District</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P54h v. 1</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) School District</field>
+        <field name="title">Course of study in health education, grades 4, 5, and 6</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">87</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Philadelphia (Pennsylvania) School District</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P54h v. 2</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) School District</field>
+        <field name="title">Course of study in health education, grades 7, 8, and 9</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">144</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Philadelphia (Pennsylvania) School District</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P54h v. 3</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Special
+            Education</field>
+        <field name="title">Health and safety. Level 2 : curriculum guide for the retarded
+            educable</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">176</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">Children with mental disabilities</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools. Division of Special
+            Education</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P54he v. 2</field>
+        <field name="state_country">Pennsylvania </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Special
+            Education</field>
+        <field name="title">Health and safety, level 1 : curriculum guide for the retarded
+            educable</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">91</field>
+        <field name="keywords">Children with mental disabilities</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">xv; ; 28 cm.; Note(s): Mimeographed.; Responsibility: School District of
+            Philadelphia.</field>
+        <field name="publisher">School District of Philadelphia, Pennsylvania. Division of Special
+            Education</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P54he v. 1</field>
+        <field name="state_country">Pennsylvania </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Special
+            Education</field>
+        <field name="title">Health and safety resource materials for the retarded educable</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">38</field>
+        <field name="keywords">Children with mental disabilities</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">School District of Philadelphia, Pennsylvania. Division of Special
+            Education</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P54he v. 3</field>
+        <field name="state_country">Pennsylvania </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Phoenix (Arizona) Elementary Schools</field>
+        <field name="title">Science and social science guide: health and safety: grade i</field>
+        <field name="pages">13</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Phoenix (Arizona) Elementary Schools</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P57h</field>
+        <field name="state_country">Arizona</field>
+        <field name="grade_level_number">1st </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">A resource unit in health education for the mentally retarded high
+            school student</field>
+        <field name="pages">73</field>
+        <field name="keywords">Children with mental disabilities</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P85r</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">High school </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Proctor &amp; Gamble Company</field>
+        <field name="title">Tom visits the dentist: a unit on dental health: part 1 for primary
+            grades</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">8</field>
+        <field name="keywords">Dental care</field>
+        <field name="publisher">Proctor &amp; Gamble Company</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P96u </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Proctor &amp; Gamble Company</field>
+        <field name="title">The way to a smile: a unit on dental health: part 2 intermediate and
+            upper grades</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">8</field>
+        <field name="keywords">Dental care</field>
+        <field name="publisher">Proctor &amp; Gamble Company</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P96u </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Proctor &amp; Gamble Company</field>
+        <field name="title">Teaching suggestions for Tom visits the dentist: a unit on dental health
+            and The way to a smile</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">4</field>
+        <field name="keywords">Dental care</field>
+        <field name="publisher">Proctor &amp; Gamble Company</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .P96u </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Racine (Wisconsin) Unified School District No. 1</field>
+        <field name="title">Science unit: health, kindergarten</field>
+        <field name="year">1961</field>
+        <field name="date">09/1961</field>
+        <field name="pages">6</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Racine (Wisconsin) Unified School District No. 1</field>
+        <field name="pub_place">Racine, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .R12h</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">Kindergarten </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Traenkenschuh, Amelia</field>
+        <field name="author_nat">Amelia Traenkenschuh</field>
+        <field name="author">Bredar, Loretta</field>
+        <field name="author_nat">Loretta Bredar</field>
+        <field name="author">McCormick, Drucilla</field>
+        <field name="author_nat">Drucilla McCormick</field>
+        <field name="title">Guide for health teaching, kindergarten through junior high
+            school</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">10</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Rock Island (Illinois) Public Schools</field>
+        <field name="pub_place">Rock Island, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .R68g</field>
+        <field name="state_country">Illinois</field>
+        <field name="grade_level_group">Elementary</field>
+        <field name="grade_level_group">Middle school </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Salt Lake City (Utah) Board of Education</field>
+        <field name="title">A guide to activities in health education for the first grade</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">30</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Salt Lake City (Utah) Board of Education</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S17g</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_number">1st </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego County (California) Schools</field>
+        <field name="title">Health: grades one through eight: course of study</field>
+        <field name="year">1956</field>
+        <field name="date">09/1956</field>
+        <field name="pages">70</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">San Diego County (California) Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S194h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Barbara County (California) Department of Education</field>
+        <field name="corp_author">Santa Barbara County (California) Health Department</field>
+        <field name="title">School health manual: information and suggestions for the use of public
+            school teachers and public health nurses</field>
+        <field name="year">1946</field>
+        <field name="date">09/1946</field>
+        <field name="pages">22</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Santa Barbara County (California) Department of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S22s</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Health Department. Health
+            Education Division</field>
+        <field name="title">Catalog: pamphlets, posters, films</field>
+        <field name="year">1957</field>
+        <field name="date">04/1957</field>
+        <field name="pages">44</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">Catalog</field>
+        <field name="publisher">Santa Clara County (California) Health Department</field>
+        <field name="pub_place">San Jose, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S229c</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) School Health Council</field>
+        <field name="title">Santa Clara County school health policies guide</field>
+        <field name="year">1960</field>
+        <field name="date">06/1960</field>
+        <field name="pages">31</field>
+        <field name="keywords">School health services</field>
+        <field name="publisher">Santa Clara County (California) School Health Council</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S23s</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Cruz County (California) Schools</field>
+        <field name="title">Health guide for the elementary schools</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">96</field>
+        <field name="keywords">School health services</field>
+        <field name="publisher">Santa Cruz County (California) Schools</field>
+        <field name="pub_place">Santa Cruz, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S23g</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Scott, Foresman and Company Educational Publishers</field>
+        <field name="title">A program in health and personal development</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Scott, Foresman and Company Educational Publishers</field>
+        <field name="pub_place">San Francisco, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S42p </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sonoma County (California) Superintendent of Schools</field>
+        <field name="title">School nurse's manual</field>
+        <field name="year">1952</field>
+        <field name="date">09/1952</field>
+        <field name="pages">72</field>
+        <field name="keywords">School health services</field>
+        <field name="publisher">Sonoma County (California) Superintendent of Schools</field>
+        <field name="pub_place">Santa Rosa, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S69s</field>
+        <field name="state_country">California </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Spokane (Washington) Public Schools</field>
+        <field name="title">Health course of study for the Spokane elementary schools</field>
+        <field name="pages">99</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Spokane (Washington) Public Schools</field>
+        <field name="pub_place">Spokane, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S76h</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_group">Elementary </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Stapleton, George Wallace</field>
+        <field name="author_nat">George Wallace Stapleton</field>
+        <field name="title">Free learning materials for implementing a science resource unit in
+            health</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">For Education 294, Dr. Hurd.</field>
+        <field name="publisher">Stanford University School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S78f </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Stockton (California) Unified School District. Department of
+            Health, Physical Education and Recreation</field>
+        <field name="title">Health instruction guide and teaching aid, grades K-6</field>
+        <field name="year">1953</field>
+        <field name="date">07/1953</field>
+        <field name="pages">87</field>
+        <field name="keywords">Health education</field>
+        <field name="series_title">Stockton (California) Unified School District. Curriculum
+            bulletin</field>
+        <field name="series_vol">34</field>
+        <field name="publisher">Stockton (California) Unified School District</field>
+        <field name="pub_place">Stockton, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S86h</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Stockton (California) Unified School District. Department of
+            Health, Physical Education and Recreation</field>
+        <field name="title">Health instruction guide grades K-6: a guide for elementary classroom
+            teachers</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">222</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Stockton (California) Unified School District</field>
+        <field name="pub_place">Stockton, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S86h 1969</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Health education, kindergarten</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S95h v. 1</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">Kindergarten </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Health education, first grade</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S95h v. 2</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">1st </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Health education, second grade</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S95h v. 3</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">2nd </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Health education, third grade</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S95h v. 4</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">3rd </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Health education, fourth grade</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S95h v. 5</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">4th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Health education, fifth grade</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S95h v. 6</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">5th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Health education, sixth grade</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .S95h v. 7</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">6th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Chapman, A. L.</field>
+        <field name="author_nat">A. L. Chapman</field>
+        <field name="author">Bodine, Willis R.</field>
+        <field name="author_nat">Willis R. Bodine</field>
+        <field name="title">The score at the end of the 9th inning</field>
+        <field name="year">1949</field>
+        <field name="date">07/1949</field>
+        <field name="pages">75</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">University of Texas</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .T355h v. 3</field>
+        <field name="state_country">Texas </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Spears, Lewis</field>
+        <field name="author_nat">Lewis Spears</field>
+        <field name="author">Haag, Jessie Helen</field>
+        <field name="author_nat">Jessie Helen Haag</field>
+        <field name="title">A checklist: appraising the elementary and secondary school health
+            program</field>
+        <field name="year">1951</field>
+        <field name="date">04/1951</field>
+        <field name="keywords">School hygiene</field>
+        <field name="notes">28 p. 23 cm.; Other Titles: Appraising the elementary and secondary
+            school health program.; Responsibility: prepared by Lewis Spears, Jessie Helen Haag and
+            a committee of school administrators.</field>
+        <field name="series_title">Texas Education Agency. Bulletin </field>
+        <field name="series_vol">519</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .T35c</field>
+        <field name="state_country">Texas </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency</field>
+        <field name="title">Elementary school health education curriculum guide</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="pages">201</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">ix; 26 cm.; Note(s): "TEA-129."</field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
+        <field name="series_vol">715</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .T35h</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_group">Elementary </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas State Department of Education</field>
+        <field name="corp_author">Texas State Department of Health</field>
+        <field name="title">The school nurse at work; a joint project of the State Department of
+            Education and the State Department of Health</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">70</field>
+        <field name="keywords">School nursing</field>
+        <field name="notes">viii; ges illustrations, forms 23 cm.</field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
+        <field name="series_vol">561</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .T35s</field>
+        <field name="state_country">Texas </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bodine, W. R.</field>
+        <field name="author_nat">W. R. Bodine</field>
+        <field name="title">Healthy living in our county, 1950-51 radio scripts</field>
+        <field name="year">1950</field>
+        <field name="date">1950-1951</field>
+        <field name="pages">138</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">University of Texas</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .T355h v. 1</field>
+        <field name="state_country">Texas </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bodine, W. R.</field>
+        <field name="author_nat">W. R. Bodine</field>
+        <field name="title">Healthy living in our county, teacher's guide</field>
+        <field name="year">1950</field>
+        <field name="date">1950-1951</field>
+        <field name="pages">43</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">University of Texas</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .T355h v. 2</field>
+        <field name="state_country">Texas </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Byrd, Oliver Erasmus</field>
+        <field name="author_nat">Oliver Erasmus Byrd</field>
+        <field name="author">Kebric, Burt M.</field>
+        <field name="author_nat">Burt M. Kebric</field>
+        <field name="title">Health instruction guide, Tulare County elementary schools</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">139</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">139 p.; Note(s): Includes bibliographical references.; Responsibility:
+            Edited by Oliver E. Byrd [and] Burt M. Kebric.</field>
+        <field name="publisher">Tulare County (California) Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .T91h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kilander, Holger Frederick</field>
+        <field name="author_nat">Holger Frederick Kilander</field>
+        <field name="title">Health instruction in the secondary schools : an inquiry into its
+            organization and administration</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">20</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">iv; ; 23 cm.; Responsibility: by H.F. Kilander.</field>
+        <field name="series_title">Federal Security Agency, Office of Education. Pamphlet</field>
+        <field name="series_vol">110</field>
+        <field name="publisher">U.S. Federal Security Agency, Office of Education</field>
+        <field name="pub_place">Washington, D.C</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .U58h </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Price, Bronson</field>
+        <field name="author_nat">Bronson Price</field>
+        <field name="title">School health services : a selective review of evaluative
+            studies</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">149</field>
+        <field name="keywords">School health services</field>
+        <field name="keywords">School hygiene</field>
+        <field name="keywords">Child health services</field>
+        <field name="notes">vii; ; 24 cm.; Note(s): "References": p. 125-137.; Responsibility:
+            Bronson Price ... </field>
+        <field name="series_title">Children's Bureau publication</field>
+        <field name="series_vol">362</field>
+        <field name="publisher">U.S. Department of Health, Education, and Welfare, Social Security
+            Administration, Children's Bureau</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .U57s </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Steinhaus, Arthur H.</field>
+        <field name="author_nat">Arthur H. Steinhaus</field>
+        <field name="title">More firepower for health education</field>
+        <field name="year">1945</field>
+        <field name="date">1945</field>
+        <field name="pages">50</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): Responsibility: by Arthur H Steinhaus.</field>
+        <field name="series_title">Office of Education. Bulletin / Office of Education ;;
+            1945</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">U.S. Government Printing Office</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .U58m </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Schneider, Elsa</field>
+        <field name="author_nat">Elsa Schneider</field>
+        <field name="author">McNeely, Simon A.</field>
+        <field name="author_nat">Simon A. McNeely</field>
+        <field name="title">Teachers contribute to child health</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">44</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">iv; ill. ; 23 cm.; Note(s): Includes bibliographical references (p.
+            42-44).; Responsibility: by Elsa Schneider and Simon A. McNeely.</field>
+        <field name="series_title">United States. Office of Education. Bulletin ; 1951</field>
+        <field name="series_vol">8</field>
+        <field name="publisher">U.S. Department of Heath, Education, and Welfare</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .U58te </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Stafford, Frank S.</field>
+        <field name="author_nat">Frank S. Stafford</field>
+        <field name="author">Kilander, Holger Frederick</field>
+        <field name="author_nat">Holger Frederick Kilander</field>
+        <field name="title">Teacher education for the improvement of school health programs : a
+            summary report of two demonstration workshops -- suggested standards for the
+            professional health education of teachers</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">38</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">viii; ill. ; 23 cm.; Note(s): Responsibility: by Frank S. Stafford and
+            H.F. Kilander.</field>
+        <field name="series_title">U. S. Office of Education. Bulletin ;; 1949</field>
+        <field name="series_vol">16</field>
+        <field name="publisher">Federal Security Agency, U.S. Office of Education</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .U58t </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Department of Education</field>
+        <field name="title">Health education, grades I-VII</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">107</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">School hygiene</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">v; ges 23 cm.; Note(s): First ed. issued in 1948 as Bulletin of the
+            State Board of Education v. 30, no. 5./ Includes bibliographical references (pages
+            106-107).</field>
+        <field name="series_title">Virginia State Board of Education. Bulletin</field>
+        <field name="series_vol">30</field>
+        <field name="issue">10</field>
+        <field name="edition">2d ed., rev</field>
+        <field name="publisher">Virginia State Board of Education</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .V81h v. 1</field>
+        <field name="state_country">Virginia</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Department of Education</field>
+        <field name="corp_author">Virginia State Department of Health</field>
+        <field name="title">Health manual for schools</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">39</field>
+        <field name="keywords">School hygiene</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Virginia State Department of Education</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .V81hm</field>
+        <field name="state_country">Virginia </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Conservation of human resources</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W24c</field>
+        <field name="state_country">Wisconsin </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Man vs disease</field>
+        <field name="year">1955</field>
+        <field name="date">1955-1956</field>
+        <field name="pages">10</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W24m</field>
+        <field name="state_country">Wisconsin </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Personal health: we grow up</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W24p</field>
+        <field name="state_country">Wisconsin </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Resource unit on preventing and controlling communicable diseases of
+            children: primary grades</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W24r</field>
+        <field name="state_country">Wisconsin </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Warren (Ohio) City Schools. Department of Pupil Personnel
+            Services</field>
+        <field name="title">Health services</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">17</field>
+        <field name="keywords">School health services</field>
+        <field name="publisher">Warren (Ohio) City Schools</field>
+        <field name="pub_place">Warren, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W28s v. 1</field>
+        <field name="state_country">Ohio </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Warren (Ohio) City Schools. Department of Pupil Personnel
+            Services</field>
+        <field name="title">Dental services</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">17</field>
+        <field name="keywords">School health services</field>
+        <field name="publisher">Warren (Ohio) City Schools</field>
+        <field name="pub_place">Warren, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W28s v. 2</field>
+        <field name="state_country">Ohio </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Washington State Superintendent of Public Instruction</field>
+        <field name="title">Planning for effective education: health and physical education for
+            elementary and junior high school</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">35</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">Physical education and training</field>
+        <field name="publisher">Washington State Superintendent of Public Instruction</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W31h</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_group">Elementary</field>
+        <field name="grade_level_group">Middle school </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Clock, Charles J.</field>
+        <field name="author_nat">Charles J. Clock</field>
+        <field name="corp_author">West Hartford (Connecticut) Public Schools</field>
+        <field name="title">Evaluation of the health education program</field>
+        <field name="year">1970</field>
+        <field name="date">06/1970</field>
+        <field name="keywords">Health education</field>
+        <field name="series_title">West Hartford (Connecticut) Public Schools. Service
+            bulletin</field>
+        <field name="series_vol">33</field>
+        <field name="publisher">West Hartford (Connecticut) Public Schools</field>
+        <field name="pub_place">West Hartford, CT</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W50e</field>
+        <field name="state_country">Connecticut </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">West Virginia State Department of Education</field>
+        <field name="title">Section 8: health</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">26</field>
+        <field name="keywords">Health education</field>
+        <field name="publisher">West Virginia State Department of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W51h</field>
+        <field name="state_country">West Virginia</field>
+        <field name="pub_place">Charleston, WV</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W51h</field>
+        <field name="state_country">West Virginia </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">West Virginia State Department of Education</field>
+        <field name="title">Sources of health education aids</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">30</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">Teaching aids</field>
+        <field name="publisher">West Virginia State Department of Education</field>
+        <field name="pub_place">Charleston, WV</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W51s</field>
+        <field name="state_country">West Virginia </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Winslow, Charles-Edward Amory</field>
+        <field name="author_nat">Charles-Edward Amory Winslow</field>
+        <field name="title">A teacher's manual accompanying the Winslow health and hygiene
+            charts</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">83</field>
+        <field name="keywords">Health education</field>
+        <field name="keywords">Teaching aids</field>
+        <field name="publisher">Denoyer-Geppert Company</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W77t </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wisconsin Cooperative School Health Program</field>
+        <field name="corp_author">Wisconsin State Board of Health</field>
+        <field name="title">Wisconsin handbook on health for the elementary teacher</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">142</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">forms ; 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: Wisconsin Cooperative School Health Program.</field>
+        <field name="edition">Repr. 1953</field>
+        <field name="publisher">Wisconsin State Board of Health</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W81w</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_group">Elementary </field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wisconsin State Board of Health</field>
+        <field name="corp_author">State Medical Society of Wisconsin. Committee on Hearing
+            Defects</field>
+        <field name="corp_author">Wisconsin Cooperative School Health Program</field>
+        <field name="title">Help them hear : a teacher's guide on hearing</field>
+        <field name="year">1950</field>
+        <field name="date">08/1950</field>
+        <field name="pages">16</field>
+        <field name="keywords">Hearing disorders in children</field>
+        <field name="keywords">Deafness prevention</field>
+        <field name="keywords">Health education</field>
+        <field name="notes">ill. ; 22 cm.; Note(s): "Approved by Committee on Hearing Defects of the
+            State Medical Society."/ "Reprinted April 1951."/ Includes bibliographical references
+            (p. 14-16).; Other Titles: Teacher's guide on hearing; Responsibility: Wisconsin
+            Cooperative School Health Program ; developed by the Wisconsin State Board of
+            Health.</field>
+        <field name="publisher">Bureau for Handicapped Children and State Board of Health</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">613 .W81h</field>
+        <field name="state_country">Wisconsin </field>
+    </doc>
 </add>
