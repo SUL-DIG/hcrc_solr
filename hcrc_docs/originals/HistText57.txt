@@ -1,0 +1,2156 @@
+
+
+TY  - BOOK
+A2  - Clemson College, South Carolina. Department of Agricultural Education
+T1  - Teaching soil and water conservation: a guide for agriculture teachers
+Y1  - 1956
+D1  - 05/1956
+SP  - 52
+KW  - Soil conservation
+V1  - 11
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 631 .S726t
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Second progress report: tentative homemaking guide: junior and senior high schools
+Y1  - 1956
+D1  - 04/1956
+SP  - 252
+KW  - Home economics
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 640 .O11t
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ogden (Utah) Public Schools
+T1  - Growth in homemaking skills, grades seven through twelve for use in the Ogden Public Schools
+Y1  - 1954
+D1  - 1954
+KW  - Home economics
+PB  - Ogden (Utah) Public Schools
+CY  - Ogden, UT
+LA  - English
+CN  - 640 .O34g
+SC  - Utah
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Suggested guide for homemaking in the Oklahoma City public schools
+Y1  - 1956
+D1  - 06/1956
+KW  - Home economics
+N1  - First draft for criticism and experimentation
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 640 .O41h
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Homemaking
+Y1  - 1953
+D1  - 09/1953
+KW  - Home economics
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 640 .P27h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania. Department of Public Instruction
+T1  - Education for homemaking in the secondary schools of Pennsylvania; a guide for administrators and teachers
+Y1  - 1955
+D1  - 1955
+SP  - 87
+KW  - Home economics
+N1  - viii; ges illustrations 23 cm.; Note(s): Includes bibliographical references (pages 85-86).
+T2  - Commonwealth of Pennsylvania. Department of Public Instruction. Bulletin [new ser.]
+V1  - 320
+ED  - Rev.
+PB  - Commonwealth of Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 640 .P41e
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania. Department of Public Instruction
+T1  - Adult homemaking programs in Pennsylvania schools
+Y1  - 1953
+D1  - 1953
+SP  - 53
+KW  - Home economics
+KW  - Adult education
+N1  - 53 pages illustrations 23 cm.
+T2  - Commonwealth of Pennsylvania. Department of Public Instruction. Bulletin [new ser.]
+V1  - 326
+PB  - Commonwealth of Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 640 .P41a
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania. Department of Public Instruction
+T1  - A suggested program in homemaking : for secondary schools
+Y1  - 1948
+D1  - 1948
+SP  - 167
+KW  - Home economics
+N1  - ill.; Genre/Form: Handbooks, manuals, etc.
+PB  - Commonwealth of Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 640 .P41s
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to the teaching of homemaking in the junior high schools of Philadelphia, grades 7-9
+Y1  - 1961
+D1  - 1961
+SP  - 109
+KW  - Home economics
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 640 .P54g v. 1
+SC  - Pennsylvania
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to the teaching of home economics in the senior and high schools of Philadelphia, grades 10-12
+Y1  - 1963
+D1  - 1963
+SP  - 153
+KW  - Home economics
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 640 .P54g v. 2
+SC  - Pennsylvania
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Rock Island (Illinois) Public Schools
+T1  - Home economics: course of study guide, grades VII, VIII and grade VII boys
+Y1  - 1955
+D1  - 1955
+SP  - 28
+KW  - Home economics
+PB  - Rock Island (Illinois) Public Schools
+CY  - Rock Island, IL
+LA  - English
+CN  - 640 .R68h
+SC  - Illinois
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - Supplementary material to the homemaking guide
+Y1  - 1954
+D1  - 1954
+SP  - 29
+KW  - Home economics
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 640 .S72h v. 2
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - Guiding home experiences as a part of the homemaking program
+Y1  - 1956
+D1  - 1956
+SP  - 38
+KW  - Home economics
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 640 .S72he v. 1
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - Inventory of the homemaking department
+Y1  - 1955
+D1  - 1955
+KW  - Home economics
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 640 .S72he v. 2
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Ohio) City Schools
+T1  - Tentative course of study, junior high school, home economics
+Y1  - 1954
+D1  - 06/1954
+SP  - 6
+KW  - Home economics
+PB  - Springfield (Ohio) City Schools
+CY  - Springfield, OH
+LA  - English
+CN  - 640 .S76t v. 1
+SC  - Ohio
+G1  - Middle school
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Ohio) City Schools
+T1  - Tentative course of study, senior high school, home economics
+Y1  - 1954
+D1  - 06/1954
+SP  - 7
+KW  - Home economics
+PB  - Springfield (Ohio) City Schools
+CY  - Springfield, OH
+LA  - English
+CN  - 640 .S76t v. 2
+SC  - Ohio
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District
+T1  - Homemaking education
+Y1  - 1963
+D1  - 07/1963
+SP  - 169
+KW  - Home economics
+T2  - Stockton (California) Unified School District. Curriculum bulletin
+V1  - 161
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 640 .S86h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Guy, Gertrude E.
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for home management
+Y1  - 1967
+D1  - 1967
+SP  - 177
+KW  - Home economics
+KW  - Food
+N1  - 177 p. ; 28 cm.; Responsibility: prepared by Gertrude E. Guy.
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 645 .S97h
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Ketterer, Carolyn M.
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for homemaking I: grades 9-11
+Y1  - 1967
+D1  - 1967
+SP  - 192
+KW  - Home economics
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 645 .S97h v. 1
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Guy, Gertrude E.
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for homemaking III
+Y1  - 1967
+D1  - 1967
+SP  - 166
+KW  - Home economics
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 645 .S97h v. 3
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Ketterer, Carolyn M.
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for Homemaking II grades 10 and 11
+Y1  - 1967
+D1  - 1967
+SP  - 201
+KW  - Home economics
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 645 .S97h v. 2
+SC  - California
+G2  - 10th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency. Office of Vocational Services
+A2  - Home and Family Life Education Service
+T1  - Effective summer experiences for families in homemaking education
+Y1  - 1950
+D1  - 1950
+SP  - 18
+KW  - Home economics
+PB  - Texas Education Agency. Office of Vocational Services
+LA  - English
+CN  - 640 .T35e
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency. Division of Vocational Education and Rehabilitation
+T1  - Over-all plan of homemaking education program for our school and community: homemaking program planning series, part II
+Y1  - 1950
+D1  - 1950
+SP  - 7
+KW  - Home economics
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 640 .T35h v. 2
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency. Division of Vocational Education and Rehabilitation
+T1  - Yearly plan of homemaking education program for our school and community: homemaking program planning series, part III
+Y1  - 1950
+D1  - 1950
+SP  - 10
+KW  - Home economics
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 640 .T35h v. 3
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency. Division of Vocational Education and Rehabilitation
+T1  - An appraisal of the effectiveness of the homemaking education program in our school and community: homemaking program planning series, part IV
+Y1  - 1950
+D1  - 1950-1951
+SP  - 14
+KW  - Home economics
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 640 .T35h v. 4
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Prairie View Agricultural and Mechanical College
+T1  - State Conference Homemaking Teachers
+Y1  - 1949
+D1  - 08/1949
+SP  - 42
+KW  - Home economics
+PB  - Prairie View Agricultural and Mechanical College
+CY  - Prairie View, TX
+LA  - English
+CN  - 640 .T355t
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Tucson (Arizona) Public Schools
+T1  - Homemaking I and II: a sequence of resource units
+SP  - 58
+KW  - Home economics
+N1  - Used as a Guide for First Year Homemaking Classes, grade nine and ten
+PB  - Tucson (Arizona) Public Schools
+CY  - Tucson, AZ
+LA  - English
+CN  - 640 .T89h
+SC  - Arizona
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide vocational home economics, grades 8-12
+Y1  - 1964
+D1  - 1964
+SP  - 196
+KW  - Home economics
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 640 .T98c
+SC  - Texas
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Kent, Druzilla Crary
+T1  - Home, school, and community experiences in the homemaking program
+Y1  - 1954
+D1  - 1954
+SP  - 69
+KW  - Home economics
+N1  - vi; 23 cm.; Note(s): Bibliography: p. 68-69.; Responsibility: [by Druzilla Kent, with the assistance of Margaret Alexander and Mary Laxson].
+T2  - Vocational Division bulletin
+V1  - 252
+T2  - Home economics education series
+V1  - 29
+PB  - U.S. Department of Health, Education, and Welfare, Office of Education
+CY  - Washington, DC
+LA  - English
+CN  - 640 .U58h
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 9: home economics
+Y1  - 1970
+D1  - 1970
+SP  - 20
+KW  - Home economics
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 640 .W51h
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Texas State College for Women, Denton, Texas. College of Industrial Arts. Dept. of Fine and Applied Art
+T1  - A syllabus on design, costume design, interior decoration, and commercial advertising
+Y1  - 1920
+D1  - 1920
+SP  - 63
+KW  - Design
+KW  - Interior decoration
+KW  - Advertising
+N1  - 63 p. incl. plates.; Note(s): Cover title.; Responsibility: by the Department of Fine and Applied Art.
+T2  - Texas State College for Women. College of Industrial Arts. Bulletin
+V1  - 73
+ED  - Revision
+PB  - Texas State College for Women
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 #73
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Spellman, Coreen Mary
+T1  - Appropriate dress for high school girls
+Y1  - 1927
+D1  - 1927
+SP  - 33
+KW  - Clothing and dress
+N1  - ill. ; 23 cm.; Responsibility: by Mary-Loving Wilson.
+T2  - College bulletin (College of Industrial Arts (Denton, Tex.))
+V1  - 74
+PB  - College of Industrial Arts, Texas State College for Women
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 74
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Guide for home economics in Wisconsin schools
+SP  - 24
+KW  - Home economics
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 640 .W81g
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Bray, Helen A.
+T1  - Textile fibers and fabrics
+Y1  - 1921
+D1  - 08/1921
+SP  - 42
+KW  - Textile fibers
+KW  - Textile fabrics
+N1  - 42 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 42).; Responsibility: by Helen A. Bray.
+T2  - College bulletin (College of Industrial Arts (Denton, Tex.))
+V1  - 92
+PB  - Texas State College for Women. College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 92
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Gleason, Margaret
+T1  - Food preservation, canning, preserving, jelly making
+Y1  - 1921
+D1  - 04/1921
+SP  - 56
+KW  - Canning and preserving
+T2  - College bulletin (College of Industrial Arts (Denton, Tex.))
+V1  - 88
+PB  - Texas State College for Women, College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 88
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Gleason, Margaret
+T1  - Menus and recipes
+Y1  - 1923
+D1  - 10/1923
+SP  - 89
+KW  - Home economics
+T2  - Denton, Texas. College of industrial arts. College bulletin
+V1  - 106
+PB  - Texas State College for Women, College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 106
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Woman's University. College of Household Arts and Sciences
+T1  - Child welfare
+Y1  - 1925
+D1  - 04/1925
+SP  - 55
+KW  - Child care
+KW  - Nutrition
+KW  - Health and hygiene
+N1  - 55 p. illus., tables. 24 cm.; Note(s): At head of title: Texas State College for Women, College of Industrial Arts, Denton, Texas.
+T2  - Texas. College of Industrial Arts, Denton. College bulletin
+V1  - 114
+PB  - Texas State College for Women, College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 114
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Chapman, Iva
+T1  - Kindergarten work at the College of Industrial Arts
+Y1  - 1927
+D1  - 06/1927
+SP  - 45
+KW  - Kindergarten facilities
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 45).; Responsibility: by Iva Chapman.
+T2  - College bulletin (College of Industrial Arts (Denton, Tex.))
+V1  - 123
+PB  - Texas State College for Women. College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 123
+SC  - Texas
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Halgrim, Charlotte
+A1  - Canon, Maurine
+T1  - Meal service
+Y1  - 1927
+D1  - 08/1927
+SP  - 55
+KW  - Menus
+KW  - Entertaining
+N1  - 55 p.; Note(s): Cover title.; Responsibility: by Charlotte Halgrim and Maurine Canon.
+T2  - Texas State College for Women. College of industrial arts. College bulletin
+V1  - 125
+PB  - Texas State College for Women, College of industrial arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 125
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Hubbard, L. H.
+T1  - The private endowment of public education
+Y1  - 1927
+D1  - 12/1927
+SP  - 26
+KW  - Endowments
+T2  - College of industrial arts. Bulletin
+V1  - 128
+PB  - Texas State College for Women, College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 128
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Westcourt, Fred W.
+T1  - Beautifying the home grounds
+Y1  - 1927
+D1  - 09/1927
+SP  - 106
+KW  - Landscape gardening
+N1  - 106 p. illus., maps. 23 cm.; Note(s): At head of title: College of industrial arts, The Texas state college for women, Denton, Texas.; Responsibility: by Fred W. Westcourt.
+T2  - Texas State College for Women. College of industrial arts, Denton. College bulletin
+V1  - 126
+PB  - Texas State College for Women
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 126
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Craddock, Mozelle E.
+T1  - The school lunch
+Y1  - 1931
+D1  - 07/1931
+SP  - 61
+KW  - National school lunch program
+N1  - 61 p. ; 23 cm.; Responsibility: by Mozelle E. Craddock.
+T2  - Texas State College for Women. College of Industrial Arts. College bulletin
+V1  - 156
+PB  - Texas State College for Women. College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 156
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Hubbard, L. H.
+T1  - The improvement of college teaching
+Y1  - 1928
+D1  - 05/1928
+SP  - 38
+KW  - College teaching
+N1  - 38 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 37-38).; Responsibility: by L.H. Hubbard.
+T2  - College bulletin (College of Industrial Arts (Denton, Tex.))
+V1  - 131
+PB  - Texas State College for Women. College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 131
+SC  - Texas
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Judd, Cornelius Davenport
+T1  - International relations
+Y1  - 1929
+D1  - 03/1929
+SP  - 60
+KW  - International law and relations
+N1  - 60 p. 24 cm.; Note(s): At head of title: College of industrial arts, the Texas state college for women, Denton, Texas./ Bibliography: p. 59-60.; Responsibility: by C.D. Judd.
+T2  - Texas State College for Women. College of industrial arts. College bulletin
+V1  - 134
+PB  - Texas State College for Women, College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 134
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Roberts, Marion Rowland
+T1  - Games and recreational programs
+Y1  - 1931
+D1  - 05/1931
+SP  - 56
+KW  - Games
+KW  - Recreation
+N1  - 56 p. 23 cm.; Note(s): At head of title: Texas State College for Women, Denton, Texas./ Bibliography: p. 55-56.; Responsibility: by Marion Rowland Roberts
+T2  - Texas State College for Women. College of Industrial Arts. College bulletin
+V1  - 136
+ED  - Reprint, 1936
+PB  - Texas State College for Women, College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 136
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Taylor, Mary Starr
+T1  - A constructive study of interior decoration--a syllabus and a view-point
+Y1  - 1932
+D1  - 08/1932
+SP  - 57
+KW  - Interior decoration
+T2  - Texas State College for Women. College of Industrial Arts. College bulletin
+V1  - 165
+PB  - Texas State College for Women, College of Industrial Arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 165
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - Food and nutrition : resource material for elementary school teachers
+Y1  - 1955
+D1  - 1955
+SP  - 80
+KW  - Food
+KW  - Nutrition
+PB  - Baltimore County (Maryland) Public Schools
+CY  - Towson, MD
+LA  - English
+CN  - 641 .B19f
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Duncan, Bertha Kathleen
+T1  - Some principles of psychology and mental hygiene of value to teachers
+Y1  - 1933
+D1  - 07/1933
+SP  - 31
+KW  - Educational psychology
+T2  - Texas State College for Women. College of Industrial Arts. College bulletin
+V1  - 174
+PB  - Texas State College for Women
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 174
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Lee, Sarah
+T1  - Clothing the child
+Y1  - 1940
+D1  - 04/1940
+SP  - 31
+KW  - Children's clothing
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 31).; Responsibility: by Sarah Lee.
+T2  - Texas State College for Women. College bulletin
+V1  - 264
+PB  - Texas State College for Women
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 264
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Moore, L. H.
+T1  - Disciplining the child in the home
+Y1  - 1934
+D1  - 05/1934
+SP  - 46
+KW  - Child rearing
+T2  - Texas state college for women, College of industrial arts, Denton, Texas, Bulletin
+V1  - 185
+PB  - Texas State College for Women, College of industrial arts
+CY  - Denton, TX
+LA  - English
+CN  - 640.7 .D415 no. 185
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Menu planning; a course for school food service personnel
+Y1  - 1974
+D1  - 1974
+SP  - 163
+KW  - School lunches
+KW  - School lunchrooms, cafeterias, etc
+KW  - Caters and catering
+N1  - 163 p. charts. 25 cm.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 641 .C15c v. 6
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Food Service Office
+T1  - Sanitation and safety; a course for school food service personnel
+Y1  - 1968
+D1  - 1968
+SP  - 82
+KW  - Food handling
+KW  - Restaurants
+KW  - School health services
+KW  - School lunchrooms, cafeterias, etc.
+KW  - Food service
+KW  - Sanitation
+KW  - School lunches
+AB  - [Course workbook]
+N1  - x; illus.; Note(s): Includes bibliographical references (p. 79-82).
+PB  - California State Department of Education. Food Service Office
+CY  - Sacramento, CA
+LA  - English
+CN  - 641 .C15c v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Food Service Office
+T1  - Advanced menu planning; a course for school food service personnel
+Y1  - 1967
+D1  - 1967
+SP  - 123
+KW  - Quantity cooking
+KW  - School lunches
+KW  - School lunchrooms, cafeterias, etc
+N1  - 123 p. tables.; Note(s): Bibliography: p. 79-80.; Responsibility: [Workbook] prepared under the direction of the Food Service Office, Division of Public School Administration.
+PB  - California State Department of Education. Food Service Office
+CY  - Sacramento, CA
+LA  - English
+CN  - 641 .C15a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Food Service Office
+T1  - Beginning menu planning. A course for school food service personnel. Workbook
+Y1  - 1967
+D1  - 1967
+SP  - 73
+KW  - School lunches
+KW  - Menus
+N1  - vi; ill. 28 cm.; Note(s): Bibliography: p. 73.; Responsibility: Prepared under the Direction of the Food Service Office, Division of Public School Administration.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 641 .C15b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - American Can Company
+T1  - The teacher's manual for use with Green gold, a pupil's text on the topic of food and food processing in California
+Y1  - 1954
+D1  - 1954
+SP  - 121
+KW  - Food industry and trade
+PB  - American Can Company
+CY  - San Francisco, CA
+LA  - English
+CN  - 641 .C15g
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education
+T1  - Junior high home economics foods course of study
+Y1  - 1948
+D1  - 1948
+SP  - 95
+KW  - Home economics
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 641 .C63f v. 1
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education. Department of Home Economics
+T1  - Course of study: senior high home economics: foods I
+Y1  - 1951
+D1  - 1951
+SP  - 59
+KW  - Home economics
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 641 .C63f v. 2
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education. Department of Home Economics
+T1  - Foods II: luncheon class: course of study for Cleveland senior high schools
+SP  - 22
+KW  - Home economics
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 641 .C63f v. 3
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education. Department of Home Economics
+T1  - Foods III (tea room course): course of study for Cleveland senior high schools
+SP  - 31
+KW  - Home economics
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 641 .C63f v. 4
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education. Department of Home Economics
+T1  - Course of study senior high home economics: today's food
+Y1  - 1953
+D1  - 1953-1954
+SP  - 47
+KW  - Home economics
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 641 .C63t
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Nutrition guide for teachers: a manual of suggestions, ideas and activities on nutrition education
+Y1  - 1962
+D1  - 1962
+SP  - 22
+KW  - Nutrition
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 641 .C71n
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - The Iowa plan for nutrition education in elementary schools
+Y1  - 1944
+D1  - 1944
+SP  - 45
+KW  - Nutrition
+N1  - ill., charts ; 22 cm.; Note(s): References and illustrative materials: p. 42-45.; Responsibility: the department, Jessie M. Parker, Supt.
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 641 .I64i
+SC  - Iowa
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Florida. Project in Applied Economics
+T1  - The story of Johnny and Mary; better food makes for better living
+Y1  - 1949
+D1  - 1949
+SP  - 40
+KW  - School lunches
+N1  - 40 p. ill. 24 cm.; Responsibility: Prepared especially for school boys and girls from grades five through nine, and their parents, and community groups.
+ED  - Third
+PB  - University of Florida, College of Education Project in Applied Economics
+CY  - Gainesville, FL
+LA  - English
+CN  - 641 .F63s
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Grain: a unit in the social studies for grade 3
+Y1  - 1953
+D1  - 09/1953
+SP  - 15
+KW  - Social sciences
+N1  - Reprinted 1957
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 641 .F88g
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Resource guide: nutrition education, grades 4, 5, 6, & 7
+Y1  - 1954
+D1  - 11/1954
+SP  - 60
+KW  - Nutrition
+T2  - Kansas City Missouri Public Schools. Bulletin
+V1  - 93
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 641 .K16r
+SC  - Missouri
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Carroll, Lula Mae L.
+A1  - Francioni, J. B.
+A1  - Robinson, A. E.
+T1  - Canning fruits and vegetables in school community food preservation laboratories
+Y1  - 1952
+D1  - 1952
+SP  - 125
+KW  - Food
+KW  - Canning and preserving
+N1  - 124 pages illustrations 29 cm.; Responsibility: Prepared by Lula Mae L. Carroll in collaboration with J.B. Francioni, Jr. Issued by Shelby M. Jackson, state superintendent of education.
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 745
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 641 .L88c
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A1  - Kean, Ruth M.
+A2  - Louisiana State Department of Education. Nutrition Education Section
+T1  - Nutrition education bibliography
+Y1  - 1956
+D1  - 1956
+SP  - 11
+KW  - Nutrition
+KW  - Bibliography
+N1  - 1 volume 28 cm; Responsibility: compiled by Ruth M. Kean, supervisor.
+PB  - Louisiana. Department of Education. Nutrition Education Section
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 641 .L88n
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A1  - Kean, Ruth M.
+A2  - Louisiana State Department of Education. Nutrition Education Section
+T1  - Social living unit, grades 1-4
+Y1  - 1956
+D1  - 1956
+SP  - 16
+KW  - Nutrition
+ED  - Revised
+PB  - Louisiana State Department of Education. Nutrition Education Section
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 641 .L88s
+SC  - Louisiana
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Charlotte Wright
+A1  - Halbert, Marie
+A2  - University of Kentucky. Bureau of School Service
+T1  - The lucky twins
+Y1  - 1941
+D1  - 1941
+SP  - 28
+KW  - Food
+AB  - Time: 1870 - 1950
+N1  - 2 p. l.; ill. 23 cm.; Note(s): "Sixth book about food from farm animals."-2d prelim. leaf.; Responsibility: by Charlotte Thomas and Marie Halbert. Published by Bureau of school service, University of Kentucky as a part of an experiment in applied economics made possible by a grant from the Alfred P. Sloan foundation.
+PB  - Lithoprinted by Edwards Bros
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 641 .K37L
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Food - a basic need, primary school
+Y1  - 1945
+D1  - 1945-1946
+SP  - 71
+KW  - Food
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 641 .L19f
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Health. Section of Maternal and Child Health
+T1  - Comments on the talk, nutrition for prenatal class
+Y1  - 1953
+D1  - 03/1953
+SP  - 5
+KW  - Nutrition
+KW  - Prenatal care
+PB  - Minnesota State Department of Health. Section of Maternal and Child Health
+CY  - Minneapolis, MN
+LA  - English
+CN  - 641 .M66c
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Nutrition resource unit for fourth grade
+Y1  - 1955
+D1  - 1955
+SP  - 39
+KW  - Nutrition
+T2  - Milwaukee (Wisconsin) Public Schools. Curriculum bulletin
+V1  - 11
+IS  - 2
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 641 .M662n
+SC  - Wisconsin
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Foods: course of study
+Y1  - 1958
+D1  - 1958-1959
+SP  - 97
+KW  - Food
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 641 .M69f v. 1
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools. Homemaking Department
+T1  - Foods I: laboratory manual
+Y1  - 1959
+D1  - 1959-1960
+SP  - 164
+KW  - Food
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 641 .M69f v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools. Homemaking Department
+T1  - Foods II: laboratory manual
+Y1  - 1959
+D1  - 1959-1960
+SP  - 148
+KW  - Food
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 641 .M69f v. 3
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Monterey (California) Public Schools
+T1  - Instructional guide for a study of how we secure our bread: social studies - grade two
+Y1  - 1959
+D1  - 1959
+KW  - Food
+PB  - Monterey (California) Public Schools
+CY  - Monterey, CA
+LA  - English
+CN  - 641 .M75s
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Foster, Florence P.
+A2  - New Jersey State Department of Education. Office of Elementary Education
+T1  - Nutrition programs for young children
+Y1  - 1967
+D1  - 03/1967
+SP  - 10
+KW  - Nutrition
+KW  - Day care centers
+N1  - 10 p. ; 28 cm.; Note(s): Cover title./ "March 1967"--P. [1]./ Includes bibliographical references (p. 9-10).; Responsibility: [prepared by Florence P. Foster].
+PB  - New Jersey State Department of Education. Division of Curriculum and Instruction, Office of Elementary Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 641 .N51n
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - New York State Education Department
+T1  - Results of evaluation device
+Y1  - 1959
+D1  - 01/1959
+SP  - 5
+KW  - Home economics
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 641 .N52h
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Silver, Bernard E.
+A2  - University of the State of New York
+A2  - New York State Education Department
+A2  - New York Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Related science [for the] food trades
+Y1  - 1949
+D1  - 08/1949
+SP  - 163
+KW  - Food industry and trade
+N1  - 163 p. ill.; Note(s): Includes bibliographical references.
+PB  - University of the State of New York. State Education Dept., Bureau of Vocational Curriculum Development and Industrial Teacher Training
+CY  - Albany, NY
+LA  - English
+CN  - 641 .N52r
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Silver, Bernard E.
+A2  - University of the State of New York
+A2  - New York Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Sanitary food handling
+Y1  - 1950
+D1  - 04/1950
+SP  - 198
+KW  - Food handling
+KW  - Restaurants
+KW  - Sanitation
+PB  - University of the State of New York, State Education Department, Bureau of Vocational Curriculum Development and Industrial Teacher Training
+CY  - Albany, NY
+LA  - English
+CN  - 641 .N52s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Food trades occupations
+Y1  - 1953
+D1  - 06/1953
+SP  - 117
+KW  - Food industry and trade
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 641 .N53f
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Aptekar, Sidney
+A2  - University of the State of New York
+A2  - Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Quantity cooking; soups, salads [and] sandwiches
+Y1  - 1953
+D1  - 03/1953
+SP  - 135
+KW  - Quantity cooking
+N1  - 135 p. ill.; Responsibility: [By Sidney Aptekar, in cooperation with Jacob Simonson.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 641 .N53q v. 3
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Silver, Bernard E.
+A2  - University of the State of New York
+A2  - Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Fundamentals of nutrition
+Y1  - 1951
+D1  - 05/1951
+SP  - 232
+KW  - Vitamins
+KW  - Nutrition
+KW  - Diet
+KW  - Deficiency diseases
+PB  - University of the State of New York, State Education Dept., Bureau of Vocational Curriculum Development and Industrial Teacher Training
+CY  - Albany, NY
+LA  - English
+CN  - 641 .N53fu
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Good nutrition for everyone
+Y1  - 1946
+D1  - 1946?
+SP  - 24
+KW  - Nutrition
+KW  - Diet
+PB  - The University of the State of New York press
+CY  - Albany, NY
+LA  - English
+CN  - 641 .N53g
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - The bakery: second grade: a resource unit for teachers
+Y1  - 1957
+D1  - 06/1957
+SP  - 47
+KW  - Food
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 641 .O11b
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Food control
+Y1  - 1958
+D1  - 09/1958
+SP  - 15
+KW  - Food
+PB  - Orange County (California) Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 641 .O63f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Peoria (Illinois) Public Schools
+T1  - Foods helper
+Y1  - 1957
+D1  - 07/1957
+SP  - 32
+KW  - Home economics
+ED  - Revised
+PB  - Peoria (Illinois) Public Schools
+CY  - Peoria, IL
+LA  - English
+CN  - 641 .P41h v. 1
+SC  - Illinois
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Peoria (Illinois) Public Schools
+T1  - Meal time and party time
+Y1  - 1956
+D1  - 07/1956
+SP  - 28
+KW  - Home economics
+ED  - Revised
+PB  - Peoria (Illinois) Public Schools
+CY  - Peoria, IL
+LA  - English
+CN  - 641 .P41h v. 2
+SC  - Illinois
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Racine County (Wisconsin) Unified School District No. 1
+T1  - Science unit: nutrition, grade five
+Y1  - 1961
+D1  - 09/1961
+SP  - 11
+KW  - Nutrition
+PB  - Racine County (Wisconsin) Unified School District No. 1
+CY  - Racine, WI
+LA  - English
+CN  - 641 .R12n
+SC  - Wisconsin
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Gardner, Emma W.
+A1  - Narigon, Ethel M.
+A2  - American National Red Cross. Tucson Chapter
+T1  - Milk for health & growth; a food party nutrition unit for the primary grades
+Y1  - 1947
+D1  - 1947
+SP  - 48
+KW  - Milk
+KW  - Nutrition
+N1  - 48 p. illus. 23 cm.; Note(s): Rev. ed./ Bibliography: p. 48.; Responsibility: by Emma W. Gardner ... and Ethel M. Narigon
+PB  - Tucson (Arizona) Public Schools
+CY  - Tucson, AZ
+LA  - English
+CN  - 641 .T89m
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Harwood, Edith
+T1  - Tune-up Time. A primer on nutrition
+Y1  - 1948
+D1  - 12/1948
+SP  - 16
+KW  - Nutrition
+N1  - 16 p. ; 8°.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 641 .S19t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia (California) Union High School District
+T1  - Foods I and II: course outline
+Y1  - 1961
+D1  - 09/1961
+SP  - 275
+KW  - Food
+PB  - Sequoia (California) Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 641 .S47g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Miller, Helen H.
+T1  - The kitchen in war production
+Y1  - 1943
+D1  - 1943
+SP  - 29
+KW  - Nutrition
+KW  - Diet
+N1  - 1 p. l., 29, [1] p. diagrs. 22 cm.; Note(s): Cover-title./ "First edition, June, 1943."/ "For further reading": p. 29.; Responsibility: by Helen Hill
+T2  - Public affairs pamphlets
+V1  - 82
+PB  - Public Affairs Committee, inc.
+CY  - New York, NY
+LA  - English
+CN  - 641 .P976k
+ER  - 
+
+TY  - BOOK
+A2  - Project Head Start (U.S.)
+T1  - Food buying guide and recipes
+Y1  - 1967
+D1  - 1967
+SP  - 118
+KW  - Nutrition policy
+KW  - Nutrition
+KW  - Quantity cooking
+N1  - ill. ; 23 x 16 cm.
+PB  - U.S. Dept. of Agriculture for the Office of Economic Opportunity
+CY  - Washington, DC
+LA  - English
+CN  - 641 .U58p v. 2
+G1  - PreK
+ER  - 
+
+TY  - BOOK
+A2  - Project Head Start (U.S.)
+A2  - Office of Economic Opportunity
+T1  - Nutrition : better eating for a head start
+Y1  - 1968
+D1  - 1958
+SP  - 12
+KW  - Nutrition
+KW  - Project Head Start (U.S.)
+N1  - ill. ; 24 cm.; Other Titles: Better eating for a head start
+PB  - Project Head Start (U.S.)
+CY  - Washington, DC
+LA  - English
+CN  - 641 .U58p v. 1
+G1  - PreK
+ER  - 
+
+TY  - BOOK
+A2  - Project Head Start (U.S.)
+T1  - Nutrition-staff training programs
+Y1  - 1967
+D1  - 1967
+SP  - 36
+KW  - Nutrition
+KW  - Project Head Start (U.S.)
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 34).; Responsibility: [by Marie Alexander].
+T2  - Project Head Start
+V1  - 3D
+PB  - Office of Economic Opportunity
+CY  - Washington, DC
+LA  - English
+CN  - 641 .U58p v. 5
+ER  - 
+
+TY  - BOOK
+A2  - Project Head Start (U.S.)
+T1  - Nutrition instructors guide for training leaders : parent education in nutrition and food
+Y1  - 1967
+D1  - 1967
+SP  - 24
+KW  - Food
+KW  - Nutrition
+KW  - Teacher training
+KW  - Project Head Start (U.S.)
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references.
+T2  - Project Head Start
+V1  - 3B
+PB  - Office of Economic Opportunity
+CY  - Washington, DC
+LA  - English
+CN  - 641 .U58p v. 3
+ER  - 
+
+TY  - BOOK
+A2  - Project Head Start (U.S.)
+A2  - United States Office of Economic Opportunity
+T1  - Leader's handbook for a nutrition and food course : parent education in nutrition and food
+Y1  - 1967
+D1  - 1967
+SP  - 64
+KW  - Nutrition
+N1  - ill. ; 24 cm.; Note(s): A series of ten lessons for parents.
+T2  - Project Head Start
+V1  - 3C
+PB  - U.S. Office of Economic Opportunity
+CY  - Washington, DC
+LA  - English
+CN  - 641 .U58p v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Clara Mae 
+T1  - If our house could talk
+Y1  - 1951
+D1  - 1951
+SP  - 74
+KW  - Housing
+N1  - 1 vol. (74 p.) ; In-8.; Responsibility: Clara M. Olson ; ill. par Phoebe Young Snover.
+PB  - University of Florida
+CY  - Gainesville, FL
+LA  - English
+CN  - 643 .F63i
+ER  - 
+
+TY  - BOOK
+A1  - Recknagel, Ella
+T1  - A unit on nutrition for grades I-II
+Y1  - 1964
+D1  - 1964
+SP  - 16
+KW  - Nutrition
+PB  - Walworth County (Wisconsin) Superintendent of Schools
+CY  - Elkhorn, WI
+LA  - English
+CN  - 641 .W24u
+SC  - Wisconsin
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - The school food service program
+Y1  - 1970
+D1  - 1970
+SP  - 26
+KW  - School lunches
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 641 .W51s
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - University of Connecticut
+T1  - Case studies of real life situations
+Y1  - 1955
+D1  - 1955
+SP  - 46
+KW  - Family life education
+PB  - University of Connecticut
+LA  - English
+CN  - 643 .C74c
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Family Financial Security Workshop
+T1  - Satisfying consumer needs in housing through education
+Y1  - 1954
+D1  - 08/1954
+SP  - 28
+KW  - Housing
+PB  - Family Financial Security Workshop
+LA  - English
+CN  - 643 .C74s
+ER  - 
+
+TY  - BOOK
+A2  - American Social Health Association
+A2  - Central Atlantic In-Service Project on Education for Personal and Family Living
+T1  - Family life education resource guide, grade 1 through 12
+Y1  - 1958
+D1  - 1958
+SP  - 106
+KW  - Family life education
+N1  - 106 p. ill. 23 cm.; Note(s): "The Central Atlantic In-Service Project on Education for Personal and Family Living, sponsored by the American Social Hygiene Association."; Responsibility: Prepared by teachers & parents of the Roanoke City Public Schools, Roanoke, Virginia.
+PB  - American Social Health Association
+CY  - New York, NY
+LA  - English
+CN  - 645 .A51f
+ER  - 
+
+TY  - BOOK
+A1  - Avery, Curtis E.
+A1  - Kirkendall, Lester Allen
+T1  - The Oregon developmental center project in family life education
+Y1  - 1955
+D1  - 03/1955
+SP  - 60
+KW  - Family life education
+PB  - E.C. Brown Trust
+CY  - Portland, OR
+LA  - English
+CN  - 645 .B88o
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Social studies, primary level : housing unit
+Y1  - 1952
+D1  - 1952-1953
+SP  - 46
+KW  - Housing
+KW  - Social sciences
+N1  - 46 leaves ; cm; Note(s): Includes bibliographies.
+ED  - Revised
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 643 .L19h
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - Family life education: a responsibility of the elementary school
+Y1  - 1957
+D1  - 1957
+SP  - 97
+KW  - Family life education
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 645 .A31f
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Division of Curriculum Development
+T1  - A bibliography on worthy home membership and family living for teacher use
+Y1  - 1956
+D1  - 06/1956
+SP  - 32
+KW  - Family
+KW  - Bibliography
+KW  - Families in literature
+KW  - Family life education
+KW  - Audio-visual materials
+T2  - New York City Division of Curriculum Development. Curriculum research report
+PB  - Board of Education of the City of New York, Bureau of Curriculum Research
+CY  - New York, NY
+LA  - English
+CN  - 643 .N53b
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - College of the Pacific
+T1  - Reports from the second annual workshop in family life education
+Y1  - 1954
+D1  - 1954
+SP  - 52
+KW  - Family life education
+PB  - College of the Pacific
+CY  - Stockton, CA
+LA  - English
+CN  - 645 .C69r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Home and family life education for secondary schools and adults. Curriculum guide
+Y1  - 1953
+D1  - 1953
+SP  - 108
+KW  - Home economics
+KW  - Family life education
+T2  - Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 645 .D14h
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - Building for happy home and family living, kindergarten through grade six
+Y1  - 1951
+D1  - 1951
+SP  - 43
+KW  - Family life education
+KW  - Home economics
+PB  - Grand Rapids (Michigan) Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 645 .G75b
+SC  - Michigan
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - Family living; an elective course for Juniors and Seniors
+SP  - 25
+KW  - Family life education
+PB  - Grand Rapids (Michigan) Board of Education
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 645 .G75f
+SC  - Michigan
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Highland Park (Michigan) Public Schools
+T1  - Education for family living
+Y1  - 1948
+D1  - 1948
+SP  - 99
+KW  - Family life education
+N1  - 99 p. ill. 31 cm.; Note(s): A picture and story interpretation of one area of work in the Highland Park Secondary Schools, Highland Park, Michigan./ Originally published 1945.
+ED  - Rev
+PB  - Highland Park (Michigan) Public Schools
+CY  - Highland Park, MI
+LA  - English
+CN  - 645 .H63e
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Highland Park (Michigan) Public Schools
+T1  - Guidance for home and family living: a required course for seniors in Highland Park High School
+Y1  - 1951
+D1  - 1951
+SP  - 7
+KW  - Family life education
+N1  - From a talk given at a Guidance and Counselors' Conference at Purdue University, April 9, 1951.  Stapled in back.
+PB  - Highland Park (Michigan) Public Schools
+CY  - Highland Park, MI
+LA  - English
+CN  - 645 .H63e
+SC  - Michigan
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Zahorsky, Metta
+T1  - What do you think about our school's family living program?
+Y1  - 1951
+D1  - 03/1951
+SP  - 31
+KW  - Family life education
+T2  - Illinois Secondary School Curriculum Program. Consensus study
+V1  - 2
+PB  - Illinois State Superintendent of Public Instruction
+LA  - English
+CN  - 645 .I29w
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Layton, Naomi
+A1  - Howe, William J.
+A1  - Phillips, Chester
+A1  - Sullivan, William
+A1  - Pendergast, Thelma
+A2  - La Vista (California) School District
+T1  - The home and family: a social studies unit for first grade
+Y1  - 1960
+D1  - 07/1960
+SP  - 56
+KW  - Social sciences
+KW  - Family life education
+PB  - La Vista (California) School District
+LA  - English
+CN  - 645 .L41h
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Home living : B12-A12 : an instructional guide
+Y1  - 1964
+D1  - 1964
+SP  - 46
+KW  - Family life education
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 645 .L87h
+SC  - Los Angeles
+ER  - 
+
+TY  - BOOK
+A2  - Nashville (Tennessee) City Public Schools
+T1  - The romance of the American home
+Y1  - 1948
+D1  - 1948
+SP  - 38
+KW  - Family life education
+PB  - Nashville (Tennessee) City Public Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 645 .N24r
+SC  - Tennessee
+ER
+
+TY  - BOOK
+A2  - National Association of Home Builders. Educational Committee
+T1  - Better homes for family living
+SP  - 8
+KW  - Homes
+PB  - National Association of Home Builders. Educational Committee
+CY  - Washington, DC
+LA  - English
+CN  - 645 .N28b
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Home Builders. Educational Committee
+T1  - NAHB contest for teachers: rules
+Y1  - 1954
+D1  - 07/1954
+SP  - 3
+KW  - Housing
+PB  - National Association of Home Builders. Educational Committee
+CY  - Washington, DC
+LA  - English
+CN  - 645 .N28b
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Research
+T1  - Personal and family living and its relation to home economics education
+Y1  - 1951
+D1  - 1951
+SP  - 46
+KW  - Home economics
+PB  - University of the State of New York. Division of Research
+CY  - Albany, NY
+LA  - English
+CN  - 645 .N53p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Hooper, Henry
+A1  - White, Martha
+A1  - Prigmore, Phyllis
+A1  - Gillette, Gladys
+A1  - Ellis, Henry Etta
+A2  - Northeast High School (Oklahoma City, Oklahoma)
+T1  - Home and family relations, eighth grade unified studies: source unit
+Y1  - 1948
+D1  - 1948
+SP  - 10
+KW  - Home economics
+KW  - Family life education
+PB  - Northeast High School
+CY  - Oklahoma, OK
+LA  - English
+CN  - 645 .O41h
+SC  - Oklahoma
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Home and family living: a resource unit
+Y1  - 1949
+D1  - 07/1949
+SP  - 55
+KW  - Home economics
+KW  - Family life education
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 645 .P27h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Home, school and neighborhood life and the expanding community, grade 1
+Y1  - 1953
+D1  - 09/1953
+KW  - Audio-visual materials
+KW  - Home economics
+KW  - Family life education
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 645 .P27ho
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District
+T1  - Home and family as a social institution : Seventh grade, tentative
+Y1  - 1953
+D1  - 09/1953
+SP  - 58
+KW  - Home economics
+KW  - Family life education
+PB  - Philadelphia (Pennsylvania) School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 645 .P54h
+SC  - Pennsylvania
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Family life, elementary : curriculum guide for the retarded educable
+Y1  - 1963
+D1  - 1953
+SP  - 50
+KW  - Children with mental disabilities
+KW  - Family life education
+N1  - xi; ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Curriculum guide for the retarded educable
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 645 .P54f v. 1
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Family life, elementary : resource materials for the retarded educable
+Y1  - 1963
+D1  - 1953
+SP  - 25
+KW  - Children with mental disabilities
+KW  - Family life education
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 645 .P54f v. 2
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Independent School District
+T1  - A source book for teachers of family life education and family life counselors in a group guidance program
+SP  - 95
+KW  - Family life education
+ED  - Revised
+PB  - San Antonio (Texas) Independent School District
+CY  - San Antonio, TX
+LA  - English
+CN  - 645 .S189c
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Guide for a program of family life education
+Y1  - 1946
+D1  - 1946
+SP  - 57
+KW  - Family life education
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 645 .S19g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Stevens, Robert
+A1  - Burness, Marguerite
+T1  - Development and problems of the American family
+Y1  - 1960
+D1  - 12/1960
+SP  - 73
+KW  - Family life education
+N1  - ED.296d C. & I. in Social Studies, Dr. R. E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 645 .S78d
+ER  -
+
+TY  - BOOK
+A1  - Barbour, Tomme
+A1  - Radelfinger, Sam
+T1  - The selection of a marriage partner: factors, problems, and considerations
+Y1  - 1957
+D1  - Fall, 1957
+SP  - 73
+KW  - Family life education
+N1  - ED.296a, Dr. R. E. Gross, Fall quarter 1957
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 645 .S78s
+ER  -
+
+TY  - BOOK
+A2  - University of Virginia. Extension Division. Community Services
+T1  - Homes of tomorrow and today: a positive approach to education for family life
+Y1  - 1949
+D1  - 02/1949
+KW  - Family life education
+T2  - University of Virginia. Extension division bulletin. New dominion series
+V1  - 104
+PB  - University of Virginia
+CY  - Charlottesville, VA
+LA  - English
+CN  - 645 .V81h
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Warren (Ohio) City Schools
+T1  - Our homes: a second grade unit
+Y1  - 1956
+D1  - 11/1956
+KW  - Family life education
+T2  - Warren (Ohio) City Schools. Teaching staff bulletin
+V1  - FC-15
+PB  - Warren (Ohio) City Schools
+CY  - Warren, OH
+LA  - English
+CN  - 645 .W29o
+SC  - Ohio
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Armstrong, Craig
+T1  - Family life
+Y1  - 1952
+D1  - 07/1952
+SP  - 6
+KW  - Family life education
+PB  - Yolo County (California) Schools
+LA  - English
+CN  - 645 .Y54f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Schools
+T1  - Home unit: grade one: How can we become better members of our family group?
+Y1  - 1950
+D1  - 08/1950
+SP  - 25
+KW  - Family life education
+PB  - Yolo County (California) Schools
+LA  - English
+CN  - 645 .Y54h
+SC  - California
+G2  - 1st
+ER  - 
+

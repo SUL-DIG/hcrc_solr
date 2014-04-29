@@ -1,0 +1,2018 @@
+
+
+
+
+TY  - BOOK
+A2  - Akron (Ohio) Board of Education
+T1  - Industrial arts; course of study outlines, junior high schools
+Y1  - 1954
+D1  - 1954
+KW  - Industrial arts
+T2  - Akron (Ohio) Board of Education. Publication
+V1  - 103
+PB  - Akron (Ohio) Board of Education
+CY  - Akron, OH
+LA  - English
+CN  - 680 .A31c
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Albany (California) Unified School District
+T1  - Industrial arts: a course of instruction for Albany high school
+Y1  - 1957
+D1  - 01/1957
+SP  - 56
+KW  - Industrial arts
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 680 .A32i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Vocation Education
+T1  - Evaluation checklist intermediate-level industrial arts
+Y1  - 1969
+D1  - 1969
+SP  - 12
+KW  - Industrial arts
+PB  - Arizona State Department of Vocation Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 680 A71i
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - California Industrial Arts Curriculum Committee
+A2  - California Department of Education
+T1  - Guide for industrial arts education in California
+Y1  - 1958
+D1  - 1958
+SP  - 38
+KW  - Industrial arts
+KW  - Manual training
+N1  - 38 pages illustrations 28 cm
+ED  - Rev.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15g 1958
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Basic information concerning apprenticeship and the participation of the public schools in the program
+Y1  - 1955
+D1  - 1955
+SP  - 14
+KW  - Apprentices
+KW  - Technical education
+N1  - viii; ill.; Note(s): Earlier edition issued by Bureau of Trade and Industrial Education.
+ED  - Rev. 1955
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Guide for industrial arts education in California
+Y1  - 1949
+D1  - 09/1949
+SP  - 48
+KW  - Industrial arts
+KW  - Project method in teaching
+N1  - x, 48 [2] pages illustrations 23 cm.; Note(s): With : Home and school work together for young children / Ralph G. Eckert. Sacramento : California State Department of Education, 1949. Bound together subsequent to publication./ Includes bibliographical references (page 49).
+T2  - Bulletin of the California State Department of Education
+V1  - 18
+IS  - 7
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15g 1949
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Design and project guide for industrial arts teachers
+Y1  - 1951
+D1  - 1951
+SP  - 69
+KW  - Industrial arts
+N1  - chiefly ill. ; 28 cm.; Responsibility: [prepared by Industrial Arts Dept.].
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 680 .C63d
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Industrial arts
+Y1  - 1948
+D1  - 1948
+SP  - 28
+KW  - Industrial arts
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 680 .C635i
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+A2  - Colorado Industrial Arts Association
+T1  - Industrial arts; a guide for Colorado schools, experimental form
+Y1  - 1962
+D1  - 1962
+SP  - 196
+KW  - Industrial arts
+N1  - 196 pages illustrations 28 cm; Note(s): Cover title./ Includes bibliographical references.; Responsibility: [Prepared by] Colorado State Dept. of Education and Colorado Industrial Arts Association.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 680 .C71i
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Ketcham, G. Wesley
+T1  - Current practices in Connecticut secondary schools: industrial arts
+Y1  - 1954
+D1  - 09/1954
+SP  - 23
+KW  - Industrial arts
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 680 .C75i
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Industrial and vocational arts resource materials
+Y1  - 1953
+D1  - 1953
+SP  - 170
+KW  - Industrial arts
+KW  - Curricula
+KW  - Vocational education
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographies.; Responsibility: authorized by the Board of Education, October 21, 1952.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 680 .D14i v. 2
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Industrial and vocational arts curriculum guide
+Y1  - 1952
+D1  - 1952
+SP  - 58
+KW  - Curricula
+KW  - Vocational education
+KW  - Industrial arts
+N1  - 58 p. ill. 28 cm. + Resource materials (170 p. 28 cm.)
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 680 .D14i v. 1
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Vocational and industrial arts program: content, scope, and sequence
+Y1  - 1959
+D1  - 09/1959
+SP  - 9
+KW  - Vocational education
+KW  - Industrial arts
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 680 .D14v
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - Practical arts guide; grades 7 & 8
+Y1  - 1963
+D1  - 1963
+SP  - 96
+KW  - Industrial arts
+N1  - 93 l. illus. 27 cm.
+PB  - Dayton (Ohio) Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 680 .D27p
+SC  - Ohio
+G2  - 7th
+G2  - 8th
+ER  - 
+
+
+TY  - BOOK
+A1  - Willis, Benjamin C.
+A2  - Chicago (Illinois) Board of Education
+T1  - Industrial arts laboratory
+Y1  - 1957
+D1  - 1957
+SP  - 142
+KW  - Industrial arts
+N1  - ill.; Note(s): Includes bibliographical references.; Responsibility: Benjamin C. Willis [General Superintendent of Schools].
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 680 .C53i
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Practical arts for upper grade centers
+D1  - 1957?
+SP  - 76
+KW  - Industrial arts
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 680 .C53p
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Woodward, Robert L.
+A2  - California State Department of Education
+T1  - Industrial arts and science; applying scientific principles in industrial arts activities
+Y1  - 1965
+D1  - 1965
+SP  - 94
+KW  - Industrial arts
+N1  - xvi; illustrations 28 cm; Note(s): "Project conducted under National defense education act of 1958. Public law 864 of the 85th Congress."/ Includes bibliographical references.; Responsibility: [by] Robert L. Woodward, project coordinator.
+ED  - 2d
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+T1  - A list of industrial arts activities which might help teachers who are planning a-unit-of work
+KW  - Industrial arts
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 680 .C15L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Woodward, Robert L.
+A2  - California State Department of Education. Mathematics-Industrial Arts Project Committee
+T1  - Mathematics and industrial arts education, guide for the improvement of instruction in mathematics courses relating to industrial arts and the practical application of mathematics in each area of industrial arts in grades seven through twelve
+Y1  - 1960
+D1  - 1960
+SP  - 100
+KW  - Industrial arts
+KW  - Shop mathematics
+KW  - Technical education
+N1  - x; illus. 28 cm.; Note(s): "Project conducted under National defense education act of 1958, Public law 864 of the 85th Congress."; Responsibility: Robert L. Woodward, project co-ordinator.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15m
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Collinge, Colburn
+A2  - Cedar Falls (Iowa) Community Schools
+T1  - Electricity-electronics, beginning woodwork, advanced woodwork
+Y1  - 1966
+D1  - 1966
+KW  - Electronics
+KW  - Woodwork (Manual training)
+PB  - Cedar Falls (Iowa) Community Schools
+CY  - Cedar Falls, IA
+LA  - English
+CN  - 680 .C38h
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Brief guide to teaching industrial arts in the secondary schools
+Y1  - 1948
+D1  - 1948
+SP  - 117
+KW  - Industrial arts
+N1  - 117 pages diagrams 23 cm
+T2  - Florida State Department of Education. Bulletin
+V1  - 12
+ED  - 2nd
+PB  - Florida State Department of Education
+CY  - Tallahassee,  FL
+LA  - English
+CN  - 680 .F63f
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+T1  - A guide for industrial arts shop planning in Georgia schools
+Y1  - 1955
+D1  - 02/1955
+SP  - 12
+KW  - Industrial arts
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 680 .G35g
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education. Division of Vocational Education
+T1  - Industrial arts for Georgia schools : a handbook for teachers and school administrators
+Y1  - 1958
+D1  - 1958
+SP  - 111
+KW  - Industrial arts
+N1  - 111 p. : ill.; ans ; 24 cm.; Note(s): "Reprinted 1964."; Responsibility: State Department of Education, Division of Vocational Education.
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 680 .G35i
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Great Neck (New York) Elementary Schools
+T1  - Elementary industrial arts
+Y1  - 1956
+D1  - 1956
+KW  - Industrial arts
+PB  - Great Neck (New York) Elementary Schools
+CY  - Great Neck, NY
+LA  - English
+CN  - 680 .G78e
+SC  - New York
+G1  - Elementary
+ER  
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Industrial arts study guide for grades 7 - 12
+Y1  - 1955
+D1  - 1955
+SP  - 97
+KW  - Industrial arts
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 680 .I18i
+SC  - Idaho
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education. Division of Instruction. Industrial Arts Committee
+T1  - Industrial arts curriculum planning guide, grades 7-12
+Y1  - 1964
+D1  - 1964
+SP  - 129
+KW  - Industrial arts
+KW  - Technical education
+N1  - 129 p. 29 cm.
+PB  - Idaho State Department of Education, Division of Instruction
+CY  - Boise, ID
+LA  - English
+CN  - 680 .I18in
+SC  - Idaho
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Plastics: an Idaho tentative handbook for teachers, grades 7-12
+Y1  - 1956
+D1  - 10/1956
+SP  - 60
+KW  - Plastics
+KW  - Industrial arts
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 680 .I18p
+SC  - Idaho
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools
+T1  - This is for you! - Course offered in auto body, auto mechanics, cabinet making, electricity, machine shop, printing, radio
+SP  - 11
+KW  - Industrial arts
+KW  - Vocational education
+N1  - "Duluth Public Schools Application Smith-Hughes Trade Work" stapled to the inside of the front cover.
+PB  - Duluth (Minnesota) Public Schools
+CY  - Duluth, MN
+LA  - English
+CN  - 680 .D88t
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Easter, D. Dale
+T1  - A handbook for industrial arts teachers
+Y1  - 1948
+D1  - 1948
+KW  - Industrial arts
+N1  - 1 v. : ill. ; 30 cm.; Note(s): Loose-leaf./ "Recommended by County Superintendent of Schools ; adopted by County Board of Education, Kern County, California.
+PB  - Kern County (California) Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 680 K39h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Office of the Superintendent of Public Instruction
+T1  - Guidelines for industrial arts instruction : grades VII-XII
+Y1  - 1964
+D1  - 1964
+SP  - 264
+KW  - Industrial arts
+N1  - vii; ill. ; 26 cm.; Note(s): Includes bibliographical references.
+T2  - Illinois curriculum program : subject field series ;; bull.
+V1  - D-6
+PB  - Illinois State Office of the Superintendent of Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 680 .I289g
+SC  - Illinois
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Industrial arts for secondary schools
+Y1  - 1948
+D1  - 1948
+SP  - 190
+KW  - Industrial arts
+KW  - Vocational education
+KW  - Curricula
+N1  - 190 pages 22 cm.; Responsibility: Issued by the Dept. of public instruction, Jessie M. Parker, Superintendent.
+T2  - Iowa State Department of public instruction. Iowa secondary school cooperative curriculum program
+V1  - 3
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 680 .I64i
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Kansas tentative guide to teaching industrial arts
+Y1  - 1950
+D1  - 1950
+SP  - 95
+KW  - Metal-work
+KW  - Woodwork (Manual training)
+KW  - Home economics
+N1  - 95 pages 23 cm.; Note(s): Includes bibliographical references.
+T2  - Kansas State bulletin
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 680 .K16i
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) City Public Schools
+T1  - Guides for the teaching of industrial arts in the junior high schools
+Y1  - 1955
+D1  - 1955
+SP  - 11
+KW  - Industrial arts
+PB  - La Crosse (Wisconsin) City Public Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 680 .L14g
+SC  - Wisconsin
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Billings, Charles R.
+A1  - Copeland, Charles M.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : architectural drafting 1-2
+Y1  - 1966
+D1  - 1966
+SP  - 23
+KW  - Industrial arts
+KW  - Architectural drawing
+N1  - 23 p. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Charles R. Billings, Charles M. Copeland. 
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 11
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Copeland, Charles M.
+A1  - Krebs, Otto J.
+A1  - Wilson, George H.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : architectural drafting 3-4
+Y1  - 1970
+D1  - 1970
+SP  - 29
+KW  - Industrial arts
+KW  - Architectural drawing
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 19
+SC  - California
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Copeland, Charles M.
+A1  - Krebs, Otto J.
+A1  - Palmgren, Ben H.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : architectural drafting 5-6, occupational
+Y1  - 1968
+D1  - 1968
+SP  - 19
+KW  - Industrial arts
+KW  - Architectural drawing
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 12
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Dargatz, Glenn E.
+A1  - Hamilton, William G.
+A1  - Lindeman, ronald W.
+A1  - Whitcomb, David R.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : auto mechanics 3-4
+Y1  - 1970
+D1  - 1970
+SP  - 51
+KW  - Industrial arts
+KW  - Automobiles mechanics
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 20
+SC  - California
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Bernard, William H.
+A1  - Dargatz, Glenn E.
+A1  - Hart, Henry W.
+A1  - Whitcomb, David R.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : auto mechanics 5-6, occupational
+Y1  - 1968
+D1  - 1968
+SP  - 19
+KW  - Industrial arts
+KW  - Automobiles mechanics
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 13
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Liewer, Urban J.
+A1  - Mueller, Kenneth L.
+A1  - Rustuen, Iver L.
+A1  - Sciranka, Paul G.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : heavy metals 5-6, occupational
+Y1  - 1968
+D1  - 1968
+SP  - 21
+KW  - Industrial arts
+KW  - Heavy metals
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 14
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Anderson, Carol Q.
+A1  - Chard, Richard A.
+A1  - Wolff, Carl M.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : industrial drafting 5-6, occupational
+Y1  - 1968
+D1  - 1968
+SP  - 31
+KW  - Industrial arts
+KW  - Mechanical drawing
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 15
+SC  - California
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Liewer, Urban J.
+A1  - Mueller, Kenneth L.
+A1  - Rustuen, Iver L.
+A1  - Sciranka, Paul G.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : light metals 5-6, occupational
+Y1  - 1968
+D1  - 1968
+SP  - 19
+KW  - Industrial arts
+KW  - Light metals
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 16
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Anderson, Carol Q.
+A1  - Chard, Richard A.
+A1  - Prosser, Quentin T.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : industrial drafting 3-4
+Y1  - 1969
+D1  - 1969
+SP  - 19
+KW  - Industrial arts
+KW  - Mechanical drawing
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 17
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : general industrial drawing
+Y1  - 1962
+D1  - 1962
+SP  - 17
+KW  - Industrial arts
+KW  - Mechanical drawing
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 1
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : electronics 1B-1A
+Y1  - 1962
+D1  - 1962
+SP  - 33
+KW  - Industrial arts
+KW  - Electronics
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 5
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Van Moorlehem, Walter F.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : automotives 1b-1a, auto essentials
+Y1  - 1962
+D1  - 1962
+SP  - 35
+KW  - Industrial arts
+KW  - Automobiles
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 3
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline : general metals and electricity
+Y1  - 1962
+D1  - 1962
+SP  - 27
+KW  - Industrial arts
+KW  - Electricity
+KW  - Metal-work
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 2
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - May, Harold A
+A1  - Soafer, Raymond J.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: graphic arts 1b-1a
+Y1  - 1963
+D1  - 1963
+SP  - 23
+KW  - Industrial arts
+KW  - Graphic arts
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 9
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Horning, Donald B.
+A1  - Soafer, Raymond J.
+A1  - Tardy, Gene L.
+A1  - Williams, Richard O.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: graphic arts 3-4
+Y1  - 1970
+D1  - 1970
+SP  - 29
+KW  - Industrial arts
+KW  - Graphic arts
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 21
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - May, Harold A
+A1  - Soafer, Raymond J.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: general graphic arts
+Y1  - 1963
+D1  - 1963
+SP  - 15
+KW  - Industrial arts
+KW  - Graphic arts
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 10
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: metals and electricity 1
+Y1  - 1962
+D1  - 1962
+SP  - 33
+KW  - Industrial arts
+KW  - Electricity
+KW  - Metal-work
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 6
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: woods 1 and woods 1B-1A
+Y1  - 1962
+D1  - 1962
+SP  - 23
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 8
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Carpenter, Custer S.
+A1  - Green, William O.
+A1  - Harris, Lester A.
+A1  - Prosser, Quentin T.
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: woods 3-4
+Y1  - 1969
+D1  - 1969
+SP  - 27
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 18
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: industrial drawing 1 and 1B-1A
+Y1  - 1962
+D1  - 1962
+SP  - 29
+KW  - Industrial arts
+KW  - Mechanical drawing
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 4
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Industrial arts course outline: general woods
+Y1  - 1962
+D1  - 1962
+SP  - 17
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84i v. 7
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) City Schools
+T1  - Handbook for industrial arts activities, first grade
+Y1  - 1952
+D1  - 01/1952
+KW  - Manual training
+KW  - Industrial arts
+KW  - Curricula
+N1  - 1 v. (unpaged) ill.
+PB  - Long Beach (California) City Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 680 .L84h
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Los Alamos (New Mexico) Schools
+T1  - Elementary schools curriculum guide: industrial arts
+Y1  - 1959
+D1  - 06/1959
+KW  - Industrial arts
+PB  - Los Alamos (New Mexico) Schools
+CY  - Los Alamos, NM
+LA  - English
+CN  - 680 .L86i
+SC  - New Mexico
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Lee, E. A.
+A2  - Louisiana State Department of Education
+T1  - A co-operative plan for apprentice training in Louisiana
+Y1  - 1950
+D1  - 01/1950
+SP  - 15
+KW  - Apprentices
+KW  - Vocational education
+N1  - 15 pages 23 cm.; Responsibility: Prepared under direction of Jack R. Gamble. Issued by Shelby M. Jackson, state superintendent of education.
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 698
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 680 .L88c
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - State-operated trade schools
+Y1  - 1953
+D1  - 1953
+KW  - Technical education
+KW  - Vocational education
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 680 .L88s
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Mesa County (Colorado) Valley School District #51
+T1  - Curriculum guide for industrial arts education
+Y1  - 1959
+D1  - 01/1959
+KW  - Industrial arts
+PB  - Mesa County (Colorado) Valley School District #51
+CY  - Grand Junction, CO
+LA  - English
+CN  - 680 .M57c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, H. O.
+A2  - Louisiana State Department of Education
+T1  - Industrial arts for secondary schools
+Y1  - 1952
+D1  - 04/1952
+SP  - 99
+KW  - Industrial arts
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 730
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 680 .L88i
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education. Industrial Arts Section
+T1  - Industrial arts education for Louisiana schools
+Y1  - 1971
+D1  - 1971
+SP  - 101
+KW  - Industrial arts
+N1  - v; illustrations 28 cm.; Note(s): Includes bibliographical references (pages 43-45).
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 1197
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 680 .L88in
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide to teaching industrial arts, grades 7 through 12
+Y1  - 1961
+D1  - 1961
+SP  - 73
+KW  - Industrial arts
+N1  - ill. ; 28 cm.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 680 .M665g
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - A guide for instruction in industrial arts : secondary school, grades 7-12 : part one, administration
+Y1  - 1950
+D1  - 1950
+SP  - 58
+KW  - Industrial arts
+AB  - pt. 1. administration.
+N1  - volumes : illustrations ; 23 cm; Genre/Form: Outlines, syllabi, etc.; Note(s): Curriculum bulletin no. 13./ Includes bibliographical references.
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 680 .M66g
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Industrial arts curriculum guide : grades seven and eight
+Y1  - 1957
+D1  - 1957
+SP  - 87
+KW  - Industrial arts
+KW  - Curricula
+N1  - vii; illustrations ; 28 cm.; Note(s): Includes bibliographical references (ll. 81-87).
+T2  - Missouri State Department of Education. Publication
+V1  - 109-G
+ED  - 1957 tentative report
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 680 .M67g
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Cliburn, O. R.
+A1  - Schoenstein, Edward G.
+T1  - Drafting: course of study
+Y1  - 1959
+D1  - 1959
+SP  - 32
+KW  - Industrial arts
+KW  - Mechanical drawing
+PB  - Modesto (California) Secondary Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 680 .M69i v. 1
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hanson, James
+T1  - Electricity I and II: course of study
+Y1  - 1959
+D1  - 1959-1960
+SP  - 35
+KW  - Industrial arts
+KW  - Electricity
+PB  - Modesto (California) Secondary Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 680 .M69i v. 2
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Meyer, Theodore
+A1  - McSparin, Lester
+A1  - Scheidecker, Paul
+T1  - General shop-wood: course of study, eighth grade
+Y1  - 1959
+D1  - 1959-1960
+SP  - 20
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+PB  - Modesto (California) Secondary Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 680 .M69i v. 3
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Laukkanen, Walter
+A1  - La Mothe, Harry
+T1  - Metal: course of study
+Y1  - 1959
+D1  - 1959-1960
+SP  - 49
+KW  - Industrial arts
+KW  - Metal-work
+PB  - Modesto (California) Secondary Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 680 .M69i v. 5
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Streeter, Wayne
+A1  - Peterson, Lester
+T1  - Wood I and II: course of study
+Y1  - 1959
+D1  - 1959-1960
+SP  - 29
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+PB  - Modesto (California) Secondary Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 680 .M69i v. 6
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska Advisory Committee on the Program of Industrial Arts
+T1  - Industrial arts for Nebraska high schools
+Y1  - 1956
+D1  - 1956
+SP  - 164
+KW  - Industrial arts
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 680 .N36i
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Course of study in industrial arts, grades 10-11-12
+Y1  - 1955
+D1  - 1955
+SP  - 44
+KW  - Industrial arts
+T2  - New York City Board of Education. Curriculum bulletin,; 1954-55 ser.
+V1  - 6
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 680 .N53c
+SC  - New York
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department. Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Apprentice teacher's guide
+Y1  - 1952
+D1  - 02/1952
+SP  - 73
+KW  - Apprentices
+KW  - Technical education
+N1  - v; ill. ; 26 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s): Bibliography, p. 73.; Responsibility: the University of the State of New York, the State Education Dept., Bureau of Vocational Curriculum Development and Industrial Teacher Training.
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 680 .N53a
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - Industrial arts (High school) course of study
+Y1  - 1953
+D1  - 1953
+SP  - 160
+KW  - Industrial arts
+KW  - Manual training
+N1  - ill., floor plan ; 23 cm.; Note(s): Cover title: Industrial arts in North Dakota./ Includes bibliographical references (p. 143-159) and index./ ; Other Titles: Industrial arts in North Dakota; Responsibility: issued by Department of Public Instruction.
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 680 .N86i
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Industrial arts syllabus in comprehensive general shop for grades 7, 8 and 9
+Y1  - 1949
+D1  - 10/1949
+SP  - 87
+KW  - Industrial arts
+T2  - University of the State of New York bulletin
+V1  - 1377
+ED  - 1949 revision
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 680 .N53i
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk (Virginia) City Schools
+T1  - A guide for efficient management of industrial arts laboratories in the Norfolk school system
+Y1  - 1966
+D1  - 1966
+SP  - 176
+KW  - Industrial arts
+KW  - Laboratories
+N1  - ill. ; 29 cm.; Note(s): Caption title./ Includes bibliographical references.; Other Titles: Industrial arts laboratories : management and organization
+PB  - Norfolk (Virginia) City Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 680 .N83i
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Let's make it
+Y1  - 1958
+D1  - 1958
+SP  - 168
+KW  - Handicraft
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 680 .N53L
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oceanside-Libby Elementary Schools
+T1  - Guide for construction activities in the Oceanside-Libby elementary schools
+D1  - 1950s
+SP  - 11
+KW  - Handicraft
+PB  - Oceanside-Libby Elementary Schools
+CY  - Oceanside, CA
+LA  - English
+CN  - 680 .O15g
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ohio State University. Trade and Industrial Education Service
+T1  - Ohio instructional materials handbook
+SP  - 42
+KW  - Industrial arts
+PB  - Ohio State University
+CY  - Columbus, OH
+LA  - English
+CN  - 680 .O37i
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Industrial arts handbook for Oregon's secondary schools
+Y1  - 1952
+D1  - 1952?
+SP  - 72
+KW  - Technical education
+N1  - 72 p. 29 cm.; Note(s): Cover title./ Bibliography: p. 68-72.
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 680 .O66i
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona)
+T1  - Industrial arts
+Y1  - 1956
+D1  - 1956
+SP  - 42
+KW  - Industrial arts
+PB  - Osborn Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 680 . O81i
+SC  - Arizona
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Course of study and instructional guide for industrial arts
+Y1  - 1962
+D1  - 1962
+SP  - 131
+KW  - Industrial arts
+N1  - Two-Semester Eighth Grade Required Course; Summer 1961, Revised 1962
+ED  - Revised
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 680 .P18i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Trade and industrial materials
+Y1  - 1953
+D1  - 09/1953
+SP  - 20
+KW  - Industrial arts
+PB  - Pasadena (California) City Schools
+CY  - Palo Alto, CA
+LA  - English
+CN  - 680 .P27t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Home mechanics as an area of industrial arts instruction in Pennsylvania public schools : subject areas--automotive, ceramics, electricity ..
+Y1  - 1952
+D1  - 1952
+SP  - 52
+KW  - Industrial arts
+KW  - Domestic engineering
+N1  - ix; illustrations ; 23 cm.
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 331E
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41h
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Industrial arts in Pennsylvania
+Y1  - 1951
+SP  - 115
+EP  - 115
+KW  - Industrial arts
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 331
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41i
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Jacoby, Robert
+T1  - Textiles as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1955
+D1  - 1955
+SP  - 53
+KW  - Textile fabrics
+KW  - Industrial arts
+N1  - ix; ill. 23 cm.; Note(s): "Instructional aids: books, bulletins, charts, and exhibits, magazines and technical journals and films": p. 35-42.
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 331-K
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, CA
+LA  - English
+CN  - 680 .P41t
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) Schools Curriculum Department
+T1  - The general shop curriculum resource unit
+Y1  - 1950
+D1  - 03/1950
+SP  - 33
+KW  - Industrial arts
+PB  - Pomona (California) Schools Curriculum Department
+CY  - Pomona, CA
+LA  - English
+CN  - 680 .P78g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) Schools Curriculum Department
+T1  - Theme - safety resource unit
+Y1  - 1950
+D1  - 06/1950
+SP  - 23
+KW  - Industrial arts
+KW  - Safety education
+PB  - Pomona (California) Schools Curriculum Department
+CY  - Pomona, CA
+LA  - English
+CN  - 680 .P78s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Public Schools. Department of Instruction
+T1  - Saint Louis public school journal: industrial arts
+Y1  - 1947
+D1  - 09/1947
+SP  - 32
+KW  - Industrial arts
+PB  - St. Louis (Missouri) Public Schools
+CY  - St. Louis, MO
+LA  - English
+CN  - 680 .S14p
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Marsh, Mary Val
+T1  - Possible industrial arts activities for various units of work
+SP  - 196
+KW  - Industrial arts
+PB  - San Bernardino (California) County Superintendent of Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 680 .S18p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Keller, Byron
+T1  - Plastics as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1953
+D1  - 1953
+SP  - 53
+KW  - Plastics
+KW  - Industrial arts
+N1  - x; illustrations 23 cm.; Note(s): "Supplemental to Industrial arts in Pennsylvania, Bulletin 331, published in 1951."/ "Instructional aids: books, magazines, films": pages 31-37.
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin new ser.
+V1  - 331 I
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41pL
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Public Schools
+T1  - Safety guide for shop teachers
+SP  - 132
+KW  - Safety education
+KW  - Industrial arts
+PB  - San Francisco (California) Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 680 .S19s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Stephenson, William A.
+T1  - Planning an area of industrial arts instruction in Pennsylvania public schools ..
+Y1  - 1953
+D1  - 1953
+SP  - 40
+KW  - Industrial arts
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin new ser.
+V1  - 331H
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41p
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) School Department
+T1  - Kindergarten and primary industrial arts handbook
+Y1  - 1961
+D1  - 06/1961
+KW  - Industrial arts
+PB  - Santa Clara County (California) School Department
+LA  - English
+CN  - 680 .S23i v. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Industrial arts & science handbook for grades four to six
+Y1  - 1968
+D1  - 1968
+SP  - 20
+KW  - Industrial arts
+PB  - Santa Clara County (California) Board of Education
+LA  - English
+CN  - 680 .S23i v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia Union High School District (Redwood City, California)
+T1  - Course guide for industrial arts: wood
+Y1  - 1962
+D1  - 09/1962
+SP  - 67
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+PB  - Sequoia Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 680 .S47c v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia Union High School District (Redwood City, California)
+T1  - Course guide for industrial arts: metal
+Y1  - 1962
+D1  - 09/1962
+SP  - 78
+KW  - Industrial arts
+KW  - Metal-work
+PB  - Sequoia Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 680 .S47c v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sheboygan (Wisconsin) Pubic Schools
+T1  - Courses of instruction in industrial arts
+Y1  - 1961
+D1  - 01/1961
+SP  - 112
+KW  - Industrial arts
+PB  - Sheboygan (Wisconsin) Pubic Schools
+CY  - Sheboygan, WI
+LA  - English
+CN  - 680 .S53c
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Sheboygan (Wisconsin) Pubic Schools
+T1  - Suggested philosophy and courses of study in industrial arts, 7th and 8th grade
+Y1  - 1956
+D1  - 01/1956
+SP  - 23
+KW  - Industrial arts
+PB  - Sheboygan (Wisconsin) Pubic Schools
+CY  - Sheboygan, WI
+LA  - English
+CN  - 680 .S53s
+SC  - Wisconsin
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - Industrial arts curriculum outline, seventh, eighth and ninth grades
+Y1  - 1950
+D1  - 09/1950
+SP  - 29
+KW  - Industrial arts
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 680 .S76i v. 1
+SC  - Washington
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  -
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - Industrial arts curriculum outline, tenth, eleventh and twelfth grades
+Y1  - 1952
+D1  - 09/1952
+SP  - 42
+KW  - Industrial arts
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 680 .S76i v. 2
+SC  - Washington
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  -
+
+TY  - BOOK
+A1  - Komara,Paul A.
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for safety manual for industrial education (student edition)
+Y1  - 1967
+D1  - 1967
+SP  - 128
+KW  - Industrial arts
+KW  - Safety education
+N1  - ill. ; 28 cm. + 1 teacher's manual.; Other Titles: Safety manual for Industrial education; Industrial education; Responsibility: prepared by Paul A. Komara, Jr.
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 680 .S97is v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for orientation to industry, grade 7
+Y1  - 1967
+D1  - 1967
+KW  - Industrial arts
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 680 .S97o
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for introduction to industrial arts, grades 8 and 9
+Y1  - 1967
+D1  - 1967
+SP  - 101
+KW  - Industrial arts
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 680 .S97i
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Komara, Paul A.
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for safety manual for industrial education (teacher's manual)
+Y1  - 1967
+D1  - 1967
+SP  - 198
+KW  - Safety education
+KW  - Industrial arts
+N1  - 198 p.; Responsibility: prepared by Paul A. Komara, Jr.
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 680 .S97is v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A guide for planning industrial arts facilities
+Y1  - 1970
+D1  - 1970
+SP  - 41
+KW  - School shops
+KW  - Industrial arts
+N1  - vi; 23 cm.; Note(s): Bibliography: p. 33-36.
+T2  - Texas Education Agency. Bulletin
+V1  - 701
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 680 .T35g
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Industrial arts in Texas schools
+Y1  - 1955
+D1  - 1955
+SP  - 91
+KW  - Industrial arts
+T2  - Texas Education Agency. Bulletin
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 680 .T35i
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools. Instructional Services Division
+T1  - Special training class industrial arts equipment and supplies
+Y1  - 1956
+D1  - 04/1956
+KW  - Industrial arts
+T2  - Tulare County (California) Superintendent of Schools. Industrial arts bulletin
+V1  - 2
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 680 .T91i v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools. Instructional Services Division
+T1  - Use of hand tools in elementary industrial arts
+Y1  - 1956
+D1  - Spring, 1956
+KW  - Industrial arts
+T2  - Tulare County (California) Superintendent of Schools. Industrial arts bulletin
+V1  - 3
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 680 .T91i v. 2
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools. Instructional Services Division
+T1  - Use of hand tools in elementary industrial arts
+Y1  - 1955
+D1  - 10/1956
+KW  - Industrial arts
+T2  - Tulare County (California) Superintendent of Schools. Industrial arts bulletin
+V1  - 4
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 680 .T91i v. 3
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Schmitt, Marshall L.
+A1  - Pelley, Albert L.
+T1  - Time allotment and scheduling procedures for teaching industrial arts, grades 7-12
+Y1  - 1961
+D1  - 1961
+SP  - 4
+KW  - Industrial arts
+PB  - U.S. Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 680 .U58ti
+SC  - District of Columbia
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Secondary Teachers Inservice Education. Industrial Education Section
+A1  - Neuman, Charles E.
+T1  - Safety rules
+Y1  - 1952
+D1  - 03/1952
+SP  - 40
+KW  - Industrial arts
+PB  - Ventura County Schools
+LA  - English
+CN  - 680 .V46s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Victor Valley (California) Union High School District
+T1  - Industrial arts course of study
+KW  - Industrial arts
+PB  - Victor Valley (California) Union High School District
+CY  - Victorville, CA
+LA  - English
+CN  - 680 .V64i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education. Division of Vocational Education
+T1  - Industrial arts for the seventies : an industrial arts guide for school administrators in Virginia
+Y1  - 1970
+D1  - 01/1970
+SP  - 28
+KW  - Industrial arts
+N1  - iv; ill. ; 23 cm.; Responsibility: Division of Vocational Education.
+PB  - Virginia State Department of Education. Division of Vocational Education
+CY  - Richmond, VA
+LA  - English
+CN  - 680 .V81i
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Warwick (Rhode Island) School Department
+T1  - The purpose and organization of industrial arts in the Warwick secondary schools, grades VII-XII
+Y1  - 1956
+D1  - 08/1956
+SP  - 20
+KW  - Industrial arts
+T2  - Warwick (Rhode Island) School Department. Curriculum publications
+V1  - 9
+PB  - Warwick (Rhode Island) School Department
+CY  - Warwick, RI
+LA  - English
+CN  - 680 .W29p
+SC  - Rhode Island
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Washington state industrial arts tentative curriculum guide, grades 7-12
+Y1  - 1960
+D1  - 1960
+SP  - 77
+KW  - Industrial arts
+N1  - 77 p.; Note(s): Cover title: Curriculum guide.
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 680 .W31i
+SC  - Washington
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+T1  - We can make it! - industrial arts
+Y1  - 1950
+D1  - 1950
+SP  - 60
+KW  - Industrial arts
+LA  - English
+CN  - 680 .W36w
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Section 10: industrial arts
+Y1  - 1970
+D1  - 1970
+SP  - 16
+KW  - Industrial arts
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 680 .W51i
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative Educational Planning Program
+T1  - Philosophy and objectives for industrial arts in the Wisconsin schools
+Y1  - 1953
+D1  - 05/1953
+SP  - 51
+KW  - Industrial arts
+N1  - 51 p. ; 23 cm.; Note(s): Cover title./ "May, 1953."/ Reprinted from September, 1949./ Includes bibliographical references (p. 49-51).
+T2  - Wisconsin Cooperative Educational Planning Program. Curriculum bulletin
+V2  - 19
+PB  - Wisconsin Cooperative Educational Planning Program
+CY  - Madison, WI
+LA  - English
+CN  - 680 .W81i v. 1
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Worcester (Massachusetts) Public Schools
+T1  - Status and characteristics of industrial arts and homemaking programs in grades 5 and 6
+Y1  - 1959
+D1  - 1959-1960
+SP  - 17
+KW  - Industrial arts
+PB  - Worcester (Massachusetts) Public Schools
+CY  - Worcester, MA
+LA  - English
+CN  - 680 .W92s
+SC  - Massachusetts
+G2  - 5th
+G2  - 6th
+ER  - 

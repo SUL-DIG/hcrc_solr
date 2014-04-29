@@ -1,0 +1,1621 @@
+
+
+
+
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course in study of typewriting, grades 10 and 11
+Y1  - 1951
+D1  - 1951
+SP  - 35
+KW  - Typewriting
+N1  - iv; ill. ; 28 cm.; Note(s): Bibliography: p. 31-35.; Other Titles: Course of study, typewriting I and II
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 227
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 652 .C57c
+SC  - Ohio
+G2  - 10th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Clark County (Nevada) School District
+T1  - Typewriting
+Y1  - 1959
+D1  - 1959
+SP  - 24
+KW  - Typewriting
+T2  - Clark County (Nevada) School District. Junior High School Curriculum guide
+PB  - Clark County (Nevada) School District
+CY  - Las Vegas, NV
+LA  - English
+CN  - 652 .C59j
+SC  - Nevada
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+A2  - Colorado Business Education Association. State Typewriting Committee
+T1  - Teaching guide for first year typewriting in secondary schools
+Y1  - 1953
+D1  - 08/1953
+SP  - 29
+KW  - Typewriting
+N1  - 29 p. ill. 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by State Typewriting Committee of Colorado Business Education Association.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 652 .C71t
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Board of Education
+T1  - Course of study for typewriting, grades 10A through 12A
+Y1  - 1951
+D1  - 1951
+SP  - 31
+KW  - Typewriting
+PB  - Detroit (Michigan) Board of Education
+CY  - Detroit, MI
+LA  - English
+CN  - 652 .D48c
+SC  - Michigan
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Cohoe, Edith
+A2  - Detroit (Michigan) Board of Education
+T1  - Course of study in typewriting for sight-saving and Braille classes
+Y1  - 1952
+D1  - 1952
+SP  - 61
+KW  - Typewriting
+PB  - Detroit (Michigan) Board of Education
+CY  - Detroit, MI
+ED  - Revised
+LA  - English
+CN  - 652 .D48cs
+SC  - Michigan
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Typewriting
+Y1  - 1957
+D1  - 06/1957
+SP  - 11
+KW  - Typewriting
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 652 .F88t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - State University of Iowa. Department of Office Management and Business Education
+T1  - Topical bibliography on the teaching of typewriting
+D1  - 1950s
+SP  - 9
+KW  - Typewriting
+PB  - State University of Iowa
+CY  - Iowa City, IA
+LA  - English
+CN  - 652 .I64t
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Typewriting : a course of study for junior and senior high schools
+Y1  - 1964
+D1  - 1964
+SP  - 120
+KW  - Typewriting
+N1  - ill. ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+T2  - Los Angeles (California) City School District.Publication
+V1  - SC-607
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 652 .L87t
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools
+T1  - Business education: typewriting I, typewriting II
+Y1  - 1962
+D1  - 09/1962
+SP  - 78
+KW  - Typewriting
+PB  - Louisville (Kentucky) Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 652 .L88t
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Typewriting 1 and 2
+Y1  - 1958
+D1  - 1958
+SP  - 50
+KW  - Typewriting
+T2  - Minneapolis (Minnesota) Public Schools. Curriculum guide in business education
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 652 .M66t
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Russell, Cicile
+A1  - Prutch, Eileen
+A1  - King, Glee
+A1  - Bracco, Loretta
+T1  - Typing III: course of study
+Y1  - 1965
+D1  - 1965
+KW  - Typewriting
+PB  - Modesto (California) Secondary Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 652 .M69t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Syllabus and teaching suggestions for courses in introductory typewriting, typewriting I, personal typewriting
+Y1  - 1967
+D1  - 1967
+SP  - 92
+KW  - Typewriting
+N1  - 92 p. illus. 22 cm.; Note(s): Bibliography: p. 36-37.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 652 .N53i
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Business Education
+T1  - A guide for the teaching of shorthand and transcription
+Y1  - 1955
+D1  - 01/1955
+SP  - 78
+KW  - Shorthand
+T2  - California State Department of Education. Business education publication
+V1  - 73
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 653 .C15g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Nederland (Texas) Independent School District
+T1  - Typing for grades 9 through 12 : an approach to individualization of instruction in Typing 12 [and] Typing 23 at Central Junior High School, C.O. Wilson Junior High School, Nederland High School
+Y1  - 1966
+D1  - 08/1966
+KW  - Typewriting
+KW  - Curriculum planning
+N1  - 19, 12 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaf 12).
+ED  - Experimental ed., 1966
+PB  - Nederland (Texas) Independent School District
+CY  - Nederland, TX
+LA  - English
+CN  - 652 .N37t
+SC  - Texas
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Typewriting for secondary schools : courses of study and syllabi for junior and senior high schools
+Y1  - 1961
+D1  - 1961
+SP  - 128
+KW  - Typewriting
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 652 .N53t
+SC  - New York
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Course of study: typing I, II, and III
+Y1  - 1951
+D1  - 05/1951
+SP  - 32
+KW  - Typewriting
+T2  - Oakland (California) Public Schools. Bus. Ed. 1951-1
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 652 .O11c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education. Business Education Service
+T1  - Business education, pt. 2: Typewriting; suggested content, instructional procedures and achievement goals for Virginia high schools
+Y1  - 1962
+D1  - 03/1962
+KW  - Typewriting
+KW  - Business education
+N1  - 191 p. ill. 28 cm.; Note(s): On cover: Typewriting./ Revised edition of State Board of Education Bulletin, v. 37, no. 6, 1954./ Bibliography: p. 187-189.; Responsibility: Prepared by Business Education Service of the Division of Vocational Education.
+T2  - Virginia State Board of Education. Bulletin
+V1  - 44
+IS  - 7
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 652 .V81t
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Waco (Texas) Public Schools
+T1  - Guide for teaching typewriting II, first semester
+Y1  - 1949
+D1  - 1949
+SP  - 6
+KW  - Typewriting
+PB  - Waco (Texas) Public Schools
+CY  - Waco, TX
+LA  - English
+CN  - 652 .W11g
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Board of Education. Division of Instruction. Department of Business Education
+T1  - Course of study for Gregg shorthand simplified, semesters (1) through (4)
+Y1  - 1951
+D1  - 1951
+SP  - 60
+KW  - Shorthand
+T2  - Detroit (Michigan) Board of Education. Publication
+V1  - 362
+PB  - Detroit (Michigan) Board of Education
+CY  - Detroit, MI
+LA  - English
+CN  - 653 .D48c
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Shorthand
+Y1  - 1957
+D1  - 06/1957
+SP  - 6
+KW  - Shorthand
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 653 .F88s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Stenographic laboratory 1-2
+Y1  - 1969
+D1  - 1969
+SP  - 44
+KW  - Shorthand
+N1  - 44 p. 28 cm.; Note(s): On cover: Guide for teaching stenographic laboratory 1-2.; Other Titles: Guide for teaching stenographic laboratory 1-2
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 653 .L84s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Advanced shorthand and transcription: an instructional guide, senior high school
+Y1  - 1967
+D1  - 1967
+SP  - 44
+KW  - Business education
+KW  - Shorthand
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-637
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 653 .L87a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Whittall, Maco B.
+A2  - Louisville (Kentucky) Public Schools. Office of Curriculum
+T1  - Business education: shorthand I-II transcription
+Y1  - 1962
+D1  - 09/1962
+SP  - 86
+KW  - Business education
+KW  - Shorthand
+PB  - Louisville (Kentucky) Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 653 .L88s
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Shorthand for high schools; course of study and syllabus
+Y1  - 1960
+D1  - 1959-1960
+SP  - 93
+KW  - Shorthand
+N1  - 93 p. ill. 24 cm.; Genre/Form: Outlines, syllabi, etc.
+T2  - New York City Board of Education. Curriculum bulletin, 1959-60 ser.
+V1  - 8
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 653 .N53s
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Syllabus and teaching handbook for courses in shorthand 1, shorthand 2, transcription, personal-use shorthand
+Y1  - 1967
+D1  - 1967
+SP  - 129
+KW  - Shorthand 
+N1  - viii; illus. 22 cm.; Note(s): Bibliographical footnotes.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 653 .N53s 1967
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative course of study: shorthand I, II, III, IV
+Y1  - 1952
+D1  - 06/1952
+SP  - 15
+KW  - Shorthand 
+N1  - SB Bus. Ed. 1952-1
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 653 .O11t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia Union High School District (Redwood City, California)
+T1  - Shorthand I and II course guide
+Y1  - 1968
+D1  - 06/1968
+SP  - 35
+KW  - Shorthand 
+PB  - Sequoia Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 653 .S47s
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Adult Education Association. Council of National Organizations
+T1  - Ten checkpoints for better booklets
+Y1  - 1956
+D1  - 1956
+KW  - Report writing
+KW  - Authorship
+N1  - ill., graphs ; 28 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s): Cover title./ Includes bibliographical references (p. [27]).; Responsibility: Council of National Organizations of the Adult Education Association of the U.S.A.
+PB  - Adult Education Association. Council of National Organizations
+CY  - New York, NY
+LA  - English
+CN  - 654 .C85t
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - State course of study, business education. Part IV, Shorthand-transcription
+Y1  - 1956
+D1  - 06/1956
+SP  - 43
+KW  - Shorthand
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 653 .V81b
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education. Division of Vocational Education
+T1  - Business education, pt. 4: Shorthand-transcription; suggested content, instructional procedures and achievement goals for Virginia high schools
+Y1  - 1960
+D1  - 1960
+SP  - 44
+KW  - Shorthand
+N1  - 44 p. diagrs. 28 cm.; Note(s): Includes bibliographies.; Responsibility: Prepared by Business Education Service.
+ED  - Revised
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 653 .V81s
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - How people meet their needs for communication, a social studies unit for the third grade, work draft
+Y1  - 1967
+D1  - 03/1967
+SP  - 204
+KW  - Social sciences
+KW  - Communication
+N1  - 204 p. ill. 22 x 29 cm.; Note(s): Bibliography: p. 151-159.
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 655 .C55h
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+T1  - Graphic arts course of study, junior high school, ninth grade
+Y1  - 1950
+D1  - 1950
+KW  - Printing
+KW  - Bookbinding
+KW  - Linoleum block-printing
+KW  - Serigraphy
+KW  - Paper
+AB  - Unit 1. Typesetting -- Unit 2. Linoleum block work -- Unit 3. Silk screen process -- Unit 4. Bookbinding -- Unit 5. Presswork -- Unit 6. Enrichment.
+N1  - 6 v. : ill. ; 29 cm.; Note(s): Cover title.
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 655 .C63g v. 1-6
+SC  - Ohio
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+A2  - Cosmopolitan Senior High School
+T1  - Teacher's guide for graphic arts
+KW  - Graphic arts
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 655 .C63t
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Instructional guide for graphic arts
+Y1  - 1966
+D1  - 1966
+KW  - Graphic arts
+AB  - [v.1] Junior high school industrial arts.--[v.2] Senior high school industrial arts 
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-533
+V1  - SC-618
+ED  - Rev.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 655 .L87i v. 1-2
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Communications industries: telephone, newspaper, radio, television
+Y1  - 1961
+D1  - 1961
+SP  - 72
+KW  - Communication
+KW  - Telephone
+KW  - Radio
+KW  - Television
+KW  - Newspapers
+N1  - 72 p. ill. 23 cm.; Note(s): Grade 3.; Responsibility: Pupil material, social studies, grade three.
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - EC-209, tentative
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 655 .L87c
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Rattenbury, Harold L.
+A1  - Soafer, Raymond J.
+A1  - Tardy, Gene L.
+A2  - Long Beach (California) City Schools
+T1  - Industrial education course outline : graphic arts 5-6 (printing), occupational
+Y1  - 1967
+D1  - 1967
+SP  - 29
+KW  - Industrial arts
+KW  - Graphic arts
+KW  - Printing
+N1  - 29 p. ; 28 cm.; Responsibility: prepared by Harold L. Rattenbury, Raymond J. Soafer, Gene L. Tardy.
+PB  - Long Beach (California) City Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 655 .L84g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Business English, an instructional guide
+Y1  - 1964
+D1  - 1964
+SP  - 200
+KW  - Business English
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-603
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 654 .L87b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Sonntag,Joyce Hagen
+A2  - California State Department of Education. Division of Special Education
+T1  - Communication skills, curriculum guide for teaching gifted students communication skills in grades four through twelve
+Y1  - 1973
+D1  - 1973
+SP  - 51
+KW  - Communication
+KW  - Gifted children
+N1  - 51 p.; Note(s): Bibliography: p. 49-51.; Responsibility: Prepared for the Division of Special Education, California State Dept. of Education.
+PB  - California State Department of Education. Division of Special Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 655 .C16c
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Reynolds, Robert
+T1  - Sixth grade: the history of records
+SP  - 41
+KW  - Communication
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 655 .C15h
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide to teaching graphic arts, grade 7-grade 12
+Y1  - 1961
+D1  - 1961
+SP  - 52
+KW  - Industrial arts
+KW  - Graphic arts
+T2  - Industrial arts in the Minneapolis public schools.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 655 .M66g
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Graphic arts shop teacher's work manual, based on the course of study in industrial arts, grades 7, 8, 9
+Y1  - 1954
+D1  - 1954
+SP  - 77
+KW  - Industrial arts
+KW  - Graphic arts
+N1  - 77 p. ill. 29 cm.; Note(s): Includes bibliographical references.
+T2  - New York City Board of Education. Curriculum bulletin,; 1952-53 ser.
+V1  - 10
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 655 .N52g
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Industrial Arts Education
+T1  - Industrial arts syllabus in general printing
+Y1  - 1955
+D1  - 1955
+SP  - 87
+KW  - Printing
+N1  - 87 p. illus. 23cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliography.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 655 .N53gp
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Martin, Clarence A.
+A1  - Lamont, Arnold H.
+A2  - University of the State of New York. Bureau of Industrial Arts Education
+T1  - Suggested related information for the printing area, industrial arts comprehensive general shop course
+Y1  - 1952
+D1  - 02/1952
+SP  - 134
+KW  - Printing
+PB  - University of the State of New York. Bureau of Industrial Arts Education
+CY  - Albany, NY
+LA  - English
+CN  - 655 .N53p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - How communication has changed our way of living: suggestions for a unit of work, sixth grade
+Y1  - 1951
+D1  - 07/1951
+SP  - 27
+KW  - Communication
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 655 .O11h
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Communications, grade 6
+Y1  - 1953
+D1  - 09/1953
+SP  - 10
+KW  - Communication
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 655 .P27c
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Transportation unit, primary level
+Y1  - 1953
+D1  - Fall, 1953
+SP  - 31
+KW  - Transportation
+ED  - Rev
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 656 .L19t
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Monterey (California) Elementary Schools
+T1  - Instructional guide for a study of transportation, social studies - grade two
+Y1  - 1959
+D1  - 1959
+KW  - Transportation
+PB  - Monterey (California) Public Schools
+CY  - Monterey, CA
+LA  - English
+CN  - 656 .M75s
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Science: grades K-6: 6. Motion and force in transportation
+Y1  - 1961
+D1  - 1961
+SP  - 101
+KW  - Science
+KW  - Transportation
+T2  - New York City Board of Education. Curriculum bulletin, 1958-59 series
+V1  - 2f
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 656 .N53m
+SC  - New York
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Public Instruction
+T1  - Graphic arts as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1952
+D1  - 11/1952
+SP  - 54
+KW  - Industrial arts
+KW  - Graphic arts
+T2  - Pennsylvania State Department of Public Instruction. Bulletin
+V1  - 331D
+PB  - Pennsylvania State Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 655 .P41g
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Goldman, Samuel N.
+T1  - American mass communication media: newspapers, magazines, radio, television, motion pictures
+Y1  - 1963
+D1  - 08/1963
+KW  - Mass media
+N1  - "A project submitted in partial fulfillment for the course of Education 396 - Recent Developments in Secondary School Social Studies, August 7, 1963, [for] Dr. Richard E. Gross"
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 655 .S78a
+ER  - 
+
+TY  - BOOK
+A1  - Merwin, Janice
+A1  - Margali, Diane
+T1  - The mass media--miracle or menace? What do you think?
+SP  - 42
+KW  - Mass media
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 655 .S78m
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Problem: how do our neighborhood helpers carry messages? (Communications): a teaching unit for primary grades
+Y1  - 1956
+D1  - 1956
+KW  - Communication
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 655 .W24h
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Atchison (Kansas) Schools
+T1  - What do we need to know to travel? (a primary resource guide)
+SP  - 20
+KW  - Transportation
+PB  - Atchison (Kansas) Schools
+CY  - Atchison, KS
+LA  - English
+CN  - 656 .A86w
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Brown, Cynthiana
+T1  - First grade: community living through means of transportation
+SP  - 61
+KW  - Transportation
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 656 .C15c
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Transportation in the immediate community, grade 1
+Y1  - 1953
+D1  - 09/1953
+SP  - 5
+KW  - Transportation
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 656 .P27t
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Problem: how do our neighborhood helpers work to take us places? (Transportation) - a teaching unit for primary grades
+Y1  - 1956
+D1  - 1956
+SP  - 15
+KW  - Transportation
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 656 .W24h
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Superintendent of Schools
+T1  - Railroads in Alameda County : teacher resource material
+Y1  - 1959
+D1  - 1959
+SP  - 47
+KW  - Railroads
+N1  - ill. (some col.), map ; 28 cm.; References: Rocq; 65; Note(s): Includes bibliographical references (p. 45).; Responsibility: Alameda County Superintendent of Schools.
+PB  - Alameda County (California) Board of Education
+CY  - Hayward, CA
+LA  - English
+CN  - 656.1 .A31r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Association of American Railroads (Washington DC)
+T1  - Teacher's manual : suggested study outlines and source material
+Y1  - 1954
+D1  - 1954
+SP  - 50
+KW  - Railroads
+N1  - ill. ; 27 cm.; Responsibility: Association of American Railroads.
+T2  - A study of railway transportation
+V1  - 1
+ED  - 6th
+PB  - Association of American Railroads
+CY  - Washington, DC
+LA  - English
+CN  - 656.1 .A84t
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools
+T1  - Water transportation : how changes in travel on water affect the way people live, a unit of work for sixth grade children
+Y1  - 1955
+D1  - 1955
+SP  - 165
+KW  - Shipping
+N1  - ill. ; 22 x 29 cm.; Note(s): Includes bibliographies.; Responsibility: prepared by Elizabeth Fleischer [and others] in cooperation with Neva Hagaman ; edited and published by Office of Curriculum Development, Division of Instruction.
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 656.3 .L84w
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Ships, harbor, and cargoes: a unit of work for third grade children
+Y1  - 1960
+D1  - 1960
+SP  - 186
+KW  - Shipping
+KW  - Social sciences
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 656.3 .L84s
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Bernstein, Sandra
+T1  - Third grade: the freight train as a carrier
+SP  - 27
+KW  - Railroads
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 656.1 .C15f
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Seeds, Corinne A.
+T1  - Trucks and their loads
+KW  - Trucking
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 656.1 .C15t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino County (California) Superintendent of Schools
+T1  - Modern California approached through ships, harbors, and cargoes
+Y1  - 1960
+D1  - 09/1960
+SP  - 263
+KW  - Shipping
+ED  - Revised
+PB  - San Bernardino County (California) Superintendent of Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 656.3 .S19m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) School Committee
+T1  - Course of study in business education : bookkeeping, grades X, XI, XII
+Y1  - 1956
+D1  - 1956
+SP  - 74
+KW  - Accounting
+KW  - Curricula
+T2  - Boston (Massachusetts) School Committee. School document
+V1  - 8
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 657 .B74c
+SC  - Massachusetts
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study in bookkeeping : grades eleven and twelve
+Y1  - 1948
+D1  - 1948
+SP  - 94
+KW  - Accounting
+KW  - Curricula
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 220
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 657 .C57c
+SC  - Ohio
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools. Office of Curriculum
+T1  - Business education: bookkeeping I, bookkeeping II
+Y1  - 1962
+D1  - 09/1962
+SP  - 102
+KW  - Accounting
+KW  - Curricula
+PB  - Louisville (Kentucky) Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 657 .L88b
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Brown, Dorothy L.
+A2  - Modesto (California) City Schools
+T1  - Bookkeeping I and II course of study
+Y1  - 1962
+D1  - 1962
+SP  - 32
+KW  - Accounting
+KW  - Curricula
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 657 .M69b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Bookkeeping for high schools; course of study and syllabus
+Y1  - 1958
+D1  - 1958
+SP  - 111
+KW  - Accounting
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin,; 1957-58 ser.
+V1  - 8
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 657 .N52b
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+T1  - Dictionary of bookkeeping and accounting terminology
+Y1  - 1947
+D1  - 1947
+SP  - 31
+KW  - Accounting
+KW  - Dictionaries
+N1  - 31 p. ; 24 cm.; Note(s): "Based on 20th century bookkeeping and accounting."
+PB  - South-Western Publishing
+CY  - Cincinnati, OH
+LA  - English
+CN  - 657 .S72d
+ER  - 
+
+TY  - BOOK
+A2  - Waco (Texas) Public Schools
+T1  - Guide for teaching bookkeeping I, first semester
+Y1  - 1949
+D1  - 1949
+SP  - 10
+KW  - Accounting
+PB  - Waco (Texas) Public Schools
+CY  - Waco, TX
+LA  - English
+CN  - 657 .W11g
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Business Education
+T1  - Application of mathematics to business in the secondary schools
+Y1  - 1960
+D1  - 09/1960
+SP  - 93
+KW  - Business mathematics
+N1  - 93 l.; Note(s): Conducted under Title III, National Defense Education Act./ Includes bibliographical references.
+T2  - California State Department of Education. Business education publications
+V1  - 97
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 657.1 .C15a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Recordkeeping 1 and 2 for high schools
+Y1  - 1955
+D1  - 1955
+SP  - 83
+KW  - Business records
+T2  - New York City Board of Education. Curriculum bulletin,; 1954-55 ser.
+V1  - 9
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 657 .N52r
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Tentative syllabus : bookkeeping 1 and bookkeeping 2
+Y1  - 1954
+D1  - 1954
+SP  - 55
+KW  - Accounting
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 657 .N53t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools. School Committee
+T1  - Course of study in distributive education, grades XI, XII
+Y1  - 1956
+D1  - 1956
+SP  - 90
+KW  - Distributive education
+KW  - Curricula
+N1  - ill. ; 23 cm.; Note(s): Bibliography: p. 71-90.
+T2  - Boston (Massachusetts) Public Schools. School Committee. School document
+V1  - 2
+PB  - Boston (Massachusetts) Public Schools. School Committee
+CY  - Boston, MA
+LA  - English
+CN  - 658 .B74c
+SC  - Massachusetts
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Division of Instruction
+T1  - Curriculum development in distributive education
+Y1  - 1961
+D1  - 1961
+SP  - 33
+KW  - Distributive education
+KW  - Curricula
+PB  - California State Department of Education. Division of Instruction
+CY  - Sacramento, CA
+LA  - English
+CN  - 658 .C15c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public High Schools
+T1  - The distributie education program
+Y1  - 1956
+D1  - 1956
+SP  - 47
+KW  - Distributive education
+PB  - Chicago (Illinois) Public High Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 658 .C53d
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Amtsbuechler, Aaron
+A1  - Seltzer, James
+A2  - Flint (Michigan) Public Schools. Business Education Department
+T1  - Suggested study guide for sales I, II, III, and IV
+Y1  - 1955
+D1  - 09/1955
+KW  - Selling
+PB  - Flint (Michigan) Public Schools. Business Education Department
+CY  - Flint, MI
+LA  - English
+CN  - 659 .F62s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - Suggested study guide for business mathematics, grade nine
+Y1  - 1954
+D1  - 1954
+SP  - 5
+KW  - Business mathematics
+PB  - Grand Rapids (Michigan) Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 657.1 .G71b
+SC  - Michigan
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Business mathematics course of study
+Y1  - 1964
+D1  - 1964
+SP  - 26
+KW  - Business mathematics
+PB  - Modesto (California) City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 657.1 .M69b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Syllabus in business subjects : business arithmetic : 1943 reprint with minor revisions
+Y1  - 1952
+D1  - 1952
+SP  - 17
+KW  - Business mathematics
+KW  - Curricula
+N1  - 3-17 p. ; 23 cm.; Note(s): Cover-title./ On p. [2] of cover: The University of the State of New York.
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 657.1 .N53s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Course of study in distribution
+Y1  - 1955
+D1  - 1955
+SP  - 42
+KW  - Distributive education
+T2  - New York City Board of Education. Curriculum bulletin, 1954-55 series
+V1  - 7
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 658 .N53c
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Let's look at distributive education
+KW  - Distributive education
+PB  - Oklahoma City (Oklahoma) Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 658 .O41L
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Public Instruction
+T1  - DE: distributive education, a working manual
+Y1  - 1952
+D1  - 1952
+SP  - 142
+KW  - Distributive education
+N1  - xi; ges illustrations 28 cm; Note(s): Includes bibliographical references (pages 125-142).
+T2  - Pennsylvania State Department of Public Instruction. Bulletin
+V1  - 380
+PB  - Pennsylvania State Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 658 .P41d
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia Union High School District (Redwood City, California)
+T1  - Marketing course guide
+Y1  - 1967
+D1  - 09/1967
+SP  - 17
+KW  - Marketing
+PB  - Sequoia Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 658 .S47m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Stores
+Y1  - 1953
+D1  - 1953
+SP  - 24
+KW  - Marketing
+N1  - Reprinted 1957.
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 658.7 .F88s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey (California) Public Schools
+T1  - Instructional guide for a study of markets: retail and wholesale
+Y1  - 1959
+D1  - 1959
+SP  - 22
+KW  - Marketing
+PB  - Monterey (California) Public Schools
+CY  - Monterey, CA
+LA  - English
+CN  - 658.7 .M75s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Salesmanship : instruction guide for senior high schools
+Y1  - 1966
+D1  - 1966
+SP  - 105
+KW  - Distributive education
+N1  - xi; ; 28 cm.; Note(s): Publication No. SC-609./ Includes bibliographical references.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 658 .L87s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Fuller, Richard
+T1  - Curriculum guide for distributive education I, Minnetonka high school
+Y1  - 1969
+D1  - 07/1969
+SP  - 47
+KW  - Distributive education
+PB  - Minnetonka (Minnesota) School District #276
+CY  - Excelsior, MN
+LA  - English
+CN  - 658 .M66c
+SC  - Minnesota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Food market, grade 2
+Y1  - 1953
+D1  - 1953
+SP  - 5
+KW  - Marketing
+PB  - Pasadena (California) City Schools. Audio-Visual Service
+CY  - Pasadena, CA
+LA  - English
+CN  - 658.7 .P27f
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Brooks, Virginia
+A1  - Green, Diane
+A1  - Hawes, Judith Payton
+A1  - Kimball, Linda
+A1  - McDermott, Jean
+A1  - Lecrivain, Donna
+T1  - The retail market and where it gets its food, grade 2
+Y1  - 1962
+D1  - 1962
+KW  - Food
+N1  - "Winter quarter, 1962, Dr. Shaftel"
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 658.7 .S78r
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study in business law and business administration, grade 12
+Y1  - 1951
+D1  - 1951
+SP  - 121
+KW  - Commercial law
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 659 .C57c
+SC  - Ohio
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Senior high school tentative course of study: commercial law I & II
+Y1  - 1953
+D1  - 01/1953
+SP  - 19
+KW  - Commercial law
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 659 .C63s
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in Commercial Baking, part 1--an introduction to the trade
+Y1  - 1952
+D1  - 1952
+SP  - 193
+KW  - Bakers and bakeries
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 664 .C15c v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in Commercial Baking. Uniform Title: Course in Commercial Baking
+Y1  - 1952
+D1  - 1952
+SP  - 100
+KW  - Bakers and bakeries
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 664 .C15c v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District
+T1  - Business law : a course of study for senior high schools
+Y1  - 1967
+D1  - 1967
+SP  - 38
+KW  - Commercial law
+PB  - Los Angeles (California) Unified School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 659 .L87b
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Business law syllabus
+Y1  - 1954
+D1  - 1954
+SP  - 33
+KW  - Commercial law
+N1  - 33 p. 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographical references.
+ED  - 1954 revision
+PB  - University of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 659 .N53b
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Seeds, Corinne A.
+T1  - Petroleum
+KW  - Petroleum
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 665 .C15p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sun Oil Company
+T1  - Oil in our community: the story of an industry's contributions to the people of the Delaware River Valley
+Y1  - 1959
+D1  - 1959
+KW  - Petroleum
+PB  - Sun Oil Company
+CY  - Philadelphia, PA
+LA  - English
+CN  - 665 .P54o
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Science in Milwaukee secondary schools: aluminum, a resource unit
+Y1  - 1948
+D1  - 1948
+SP  - 48
+KW  - Aluminum
+KW  - Science
+T2  - Milwaukee (Wisconsin) Public Schools. Curriculum bulletin
+V1  - 5
+IS  - 10
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 669 .M65a
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Ball, Charles E.
+A2  - University of the State of New York. Bureau of Industrial Arts Education
+T1  - Suggested related information for the textiles area : industrial arts general shop course
+Y1  - 1953
+D1  - 04/1953
+SP  - 134
+KW  - Textile industry
+KW  - Industrial arts
+N1  - vii; ill. ; 27 cm.; Responsibility: [prepared by Charles E. Ball].
+PB  - University of the State of New York, State Education Dept., Bureau of Industrial Arts Education, Bureau of Vocational Curriculum Development, cooperating
+CY  - Albany, NY
+LA  - English
+CN  - 677 .N53t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - How goods are produced and distributed in Oakland: suggestions for a unit of work, third grade
+Y1  - 1951
+D1  - 07/1951
+SP  - 26
+KW  - Social sciences
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 677 .O11h
+SC  - California
+G2  - 3rd
+ER  - 

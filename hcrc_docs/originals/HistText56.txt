@@ -1,0 +1,2513 @@
+
+
+
+
+TY  - BOOK
+A2  - Association of Classroom Teachers, National Education Association
+T1  - Man and his environment; an introduction to using environmental study areas
+Y1  - 1970
+D1  - 1970
+SP  - 56
+KW  - Ecology
+KW  - National environmental study areas
+KW  - Environment
+KW  - Environmental education.
+N1  - 56 p. illus. 18 x 26 cm.; Note(s): Bibliography: p. 53-56.
+T2  - New developments in teaching series
+V1  - 1
+PB  - Association of Classroom Teachers, National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 631 .A84m
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) School Department
+T1  - Conservation : suggested activities for the study of natural resources : intermediate and upper grades
+Y1  - 1958
+D1  - 09/1958
+SP  - 52
+KW  - Conservation of natural resources
+N1  - iv; ges : illustrations ; 22 cm; Note(s): Includes bibliographical references.
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 631 .A31c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Association for Outdoor Education
+A2  - California State Office of Conservation Education
+T1  - Teaching conservation and natural science in the outdoors; a handbook for teachers, camp leaders, counselors and youth leaders in preparing and carrying out programs in outdoor education
+Y1  - 1968
+D1  - 01/1968
+SP  - 47
+KW  - Conservation of natural resources
+KW  - Environmental education
+N1  - 47 p. illus. 29 cm.
+PB  - State of California, Office of Conservation Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C14t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Natural Resources
+T1  - Conservation activities for elementary schools
+Y1  - 1957
+D1  - 1957
+SP  - 26
+KW  - Conservation of natural resources
+PB  - California State Department of Natural Resources
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15ca
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Cincinnati. College of Engineering
+T1  - Co-operative courses
+Y1  - 1955
+D1  - 1955-1956
+SP  - 96
+KW  - Cooperative education
+KW  - Curricula
+KW  - Universities and colleges
+PB  - University of Cincinnati
+CY  - Cincinnati, OH
+LA  - English
+CN  - 371.425 .E57cin
+SC  - Ohio
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Stevens, Viola
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Camping education: handbook for teachers
+Y1  - 1954
+D1  - 02/1954
+SP  - 12
+KW  - Outdoor education
+KW  - School camps
+ED  - Rev.
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 371.84 .C63c
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Weisensee, John
+T1  - Providing for individual differences on the junior-senior high school level
+Y1  - 1957
+D1  - 1957
+SP  - 22
+KW  - Special education
+PB  - Sioux City (Iowa) Public Schools
+CY  - Sioux City, IA
+LA  - English
+CN  - 371.9 .S61p
+SC  - Iowa
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Schools
+T1  - The eighth grade social studies program: the United States and our heritage: unit c: the emergence and continued usefulness of basic principles and ideals
+D1  - 1964?
+SP  - 33
+KW  - Social sciences
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 371.33 .M55u
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Galveston (Texas) Independent School District
+T1  - Pupil progress report, kindergarten through sixth grade
+Y1  - 1952
+D1  - 10/1952
+KW  - Grading and marking
+PB  - Galveston (Texas) Independent School District
+CY  - Galveston, TX
+LA  - English
+CN  - 379.2 .G18p
+SC  - Texas
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Kings County (California) Superintendent of Schools. Elementary Schools
+T1  - Progress report, grades 1, 2, and 3
+D1  - 1950?
+KW  - Grading and marking
+PB  - Kings County (California) Superintendent of Schools
+LA  - English
+CN  - 379.2 .K55p
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Kings County (California) Superintendent of Schools. Elementary Schools
+T1  - Progress report, grades 4, 5, 6, 7, and 8
+D1  - 1950?
+KW  - Grading and marking
+PB  - Kings County (California) Superintendent of Schools
+LA  - English
+CN  - 379.2 .K55p
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Simon, Eugene E.
+A2  - San Diego (California) City Schools
+T1  - A guide for teaching the contributions of the negro author to American literature
+Y1  - 1968
+D1  - 1968
+SP  - 44
+KW  - African American authors
+KW  - American literature
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.5 .S19gc
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District. Division of Instructional Services
+T1  - Instructional guide : senior mathematics
+Y1  - 1967
+D1  - 1967
+SP  - 40
+KW  - Mathematics
+KW  - Curricula
+T2  - Los Angeles (California) Unified School District. Publication
+V1  - SC-624
+PB  - Los Angeles (California) Unified School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87s
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Grand Island (Nebraska) Public Schools
+T1  - Elementary science: an introduction and guide for teachers, kindergarten-grade VI
+Y1  - 1955
+D1  - 01/1955
+SP  - 85
+KW  - Science
+PB  - Grand Island (Nebraska) Public Schools
+CY  - Grand Island, NE
+LA  - English
+CN  - 519 .G75e
+SC  - Nebraska
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Fitness for children through hopscotch, rope skipping, peg board
+Y1  - 1957
+D1  - 01/1957
+SP  - 25
+KW  - Physical education and training
+KW  - Physical fitness
+KW  - Rope skipping
+T2  - California State Department of Education. Bulletin.
+V1  - 55
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15f
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Physical education in the elementary school: teacher's manual
+Y1  - 1951
+D1  - 02/1951
+SP  - 28
+KW  - Physical education and training
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15ph
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - United States Committee for the United Nations
+T1  - The UN is your business
+Y1  - 1957
+D1  - 1957
+SP  - 30
+KW  - United Nations
+T2  - 1957 Leaders guide for individual and community action
+PB  - United States Committee for the United Nations
+CY  - Washington, DC
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United States Department of State
+T1  - You and the United Nations
+Y1  - 1956
+D1  - 04/1956
+SP  - 27
+KW  - United Nations
+PB  - United States Department of State
+CY  - Washington, DC
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United States Committee for the United Nations
+T1  - A community participation project for UN day: A "UN bookshelf" for libraries and schools
+Y1  - 1957
+D1  - 1957
+KW  - United Nations
+KW  - Bibliography
+PB  - United States Committee for the United Nations
+CY  - Washington, DC
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United States Committee for the United Nations
+T1  - The United Nations works for you
+Y1  - 1955
+D1  - 1955
+KW  - United Nations
+N1  - Photoquiz Reprinted from the August 9, 1955, issue of Look Magazine, and distributed through the courtesy of LOOK.
+PB  - United States Committee for the United Nations
+CY  - Washington, DC
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United States Committee for the United Nations
+T1  - What's your UN-Q? A United Nations quiz
+KW  - United Nations
+PB  - United States Committee for the United Nations
+CY  - Washington, DC
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United States Committee for the United Nations
+T1  - Mr. Smith learns the truth about the UN
+KW  - United Nations
+KW  - Drama in education
+PB  - United States Committee for the United Nations
+CY  - Washington, DC
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United States Committee for UNICEF
+A2  - United Nations
+T1  - UNICEF and you for all the world's children
+KW  - UNICEF
+PB  - United States Committee for UNICEF
+CY  - New York, NY
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United Nations Educational, Scientific and Cultural Organization
+T1  - Tools for learning through the UNESCO gift coupon plan
+KW  - UNESCO
+PB  - United Nations Educational, Scientific and Cultural Organization
+CY  - New York, NY
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United Nations
+T1  - United Nations day 1957
+Y1  - 1957
+D1  - 1957
+KW  - United Nations
+PB  - United Nations
+CY  - New York, NY
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - National Comics Publications, Inc.
+T1  - Gifts to the United Nations
+Y1  - 1956
+D1  - 1956
+KW  - United Nations
+PB  - National Comics Publications, Inc.
+LA  - English
+CN  - 327 .U569u
+ER  - 
+
+TY  - BOOK
+A2  - United States Committee for Refugees
+T1  - Study guide on world refugee problems and solutions
+KW  - Refugees
+PB  - United States Committee for Refugees
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+A1  - Rees, Elfan
+T1  - We strangers and afraid
+Y1  - 1959
+D1  - 1959
+SP  - 72
+KW  - Refugees
+N1  - Published...for World Refugee Year
+PB  - Carnegie Endowment for International Peace
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  - 
+
+TY  - BOOK
+A2  - United Nations
+T1  - The world refugee year
+KW  - Refugees
+PB  - United States Committee for Refugees
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+A2  - United States Committee for Refugees
+T1  - Voluntary agencies in the refugee field
+KW  - Refugees
+PB  - United States Committee for Refugees
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+A2  - United States Committee for Refugees
+T1  - A guide for community actions
+KW  - Refugees
+PB  - United States Committee for Refugees
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+A2  - United Nations
+T1  - World refugee year: calling all boys and girls: how you can help refugee children
+Y1  - 1959
+D1  - 12/1959
+SP  - 8
+KW  - Refugees
+PB  - United Nations
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+A2  - United States Committee for Refugees
+T1  - A statement...
+KW  - Refugees
+PB  - United States Committee for Refugees
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+T1  - No room for refugees?
+Y1  - 1959
+D1  - 1959
+KW  - Refugees
+N1  - Reprinted from Senior Scholastic and Scholastic Teacher.
+PB  - Scholastic Magazines, Inc.
+CY  - New York, NY
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+T1  - Should Uncle Sam dust off the welcome mat?  The launching of the World refugee year
+Y1  - 1959
+D1  - 1959
+KW  - Refugees
+N1  - Reprinted from World Week.
+PB  - Scholastic Magazines, Inc.
+CY  - New York, NY
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+A2  - United States Committee for Refugees
+T1  - What youth can do to help refugees during World refugee year (July 1, 1959-June 30, 1960)
+Y1  - 1959
+D1  - 1959
+SP  - 8
+KW  - Refugees
+PB  - United States Committee for Refugees
+CY  - New York, NY
+LA  - English
+CN  - 327 .U57w
+ER  -
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - Physical education handbook, grade 4
+Y1  - 1961
+D1  - 1961
+KW  - Physical education and training
+KW  - Games
+PB  - Alameda County (California) Schools
+CY  - Hayward, CA
+LA  - English
+CN  - 613.4 .H43p
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Handbook on California's natural resources
+Y1  - 1968
+D1  - 1968
+SP  - 96
+KW  - Conservation of natural resources
+KW  - Natural resources
+N1  - vii; illus. 23 cm.; Note(s): Cover title./ Includes bibliographical references.; Other Titles: California's natural resources.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15h v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Publications
+T1  - Ekistics : a guide for the development of an interdisciplinary environmental education curriculum
+Y1  - 1973
+D1  - 1973
+SP  - 69
+KW  - Ecology
+N1  - viii; ges : illustrations ; 23 cm; Note(s): Includes bibliographical references (page 69).; Other Titles: Guide for the development of a interdisciplinary environmental curriculum 
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15ek
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Eriksen, Lola Jean
+T1  - A study of conservation activities in outdoor education programs in California
+Y1  - 1956
+D1  - 06/1956
+KW  - Natural resources
+KW  - Outdoor education
+N1  - 48 p. illus. 28 cm.; Dissertation: "From a thesis presented to the Faculty of the Department of Science Education, San José State College, in partial fulfillment of the requirements for the degree, master of arts."; Other Titles: Conservation activities in outdoor education programs in California.
+PB  - Conservation Education Section, State Department of Natural Resources
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Lonsdale, Bernard J.
+A1  - Dolder, Edward F.
+T1  - Conservation, concern for tomorrow : the importance of California's natural resources
+Y1  - 1954
+D1  - 02/1954
+SP  - 173
+KW  - Natural resources
+N1  - vii; ill., maps (part fold.) ; 23 cm.; Note(s): Bulletin of the California State Dept. of Education, vol. 23, no. 1/ Bibliography : p. 171-173.; Responsibility: compiled by Bernard J. Lonsdale and Edward F. Dolder.
+T2  - California State Department of Education. Bulletin
+V1  - 23
+IS  - 1
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15con
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - California Department of Natural Resources
+A2  - California Inter-Departmental Conservation Education Committee
+T1  - Status of conservation education in California schools
+Y1  - 1961
+D1  - 01/1961
+SP  - 20
+KW  - Natural resources
+N1  - 20 pages illustrations; Responsibility: [Compiled by Herbert D. Gwinn and Genevie Dexter of the Dept. of Education, and Edward F. Dolder of the Dept. of Natural Resources.
+ED  - Rev.
+PB  - California Department of Natural Resources
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15st 1961
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Conservation Foundation. Audio-Visual Department
+T1  - A critical index of films and filmstrips in conservation, dealing with renewable resources, non-renewable resources, new and to-be-developed resources
+Y1  - 1960
+D1  - 1960
+SP  - 69
+KW  - Conservation of natural resources
+KW  - Renewable natural resources
+KW  - Film catalogs
+KW  - Nonrenewable natural resources
+PB  - Conservation Foundation. Audio-Visual Department
+CY  - New York, NY
+LA  - English
+CN  - 631 .C75c
+ER  - 
+
+TY  - BOOK
+A1  - Herrington, Eugene H.
+A1  - Robbins, Larry
+T1  - Curriculum guide in conservation education
+Y1  - 1964
+D1  - 04/1964
+SP  - 75
+KW  - Natural resources
+N1  - vi; ill. ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by Eugene H. Herrington and Larry Robbins.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 631 .C71c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Game and Fish
+T1  - Tools for teaching conservation
+SP  - 32
+KW  - Conservation of natural resources
+PB  - Colorado State Department of Game and Fish
+CY  - Denver, CO
+LA  - English
+CN  - 631 .C71t
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - University of California
+A2  - California State Department of Natural Resources
+T1  - Proceedings of the sixth conservation education work conference at Sequoia National Park, May 22-24, 1959
+Y1  - 1959
+D1  - 05/1959
+SP  - 39
+KW  - Conservation of natural resources
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C74p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Carl S.
+A1  - Ashbaugh, Byron L.
+T1  - A report from the Purdue conference, September 16-17, 1952
+Y1  - 1952
+D1  - 09/1952
+SP  - 49
+KW  - Conservation of natural resources
+N1  - Reproduced by Conservation Education Section, Calif. Dept. of Natural Resources, Sacramento
+PB  - The Conservation Foundation
+CY  - New York, NY
+LA  - English
+CN  - 631 .C75r
+ER  - 
+
+TY  - BOOK
+A2  - Ecology Information Group
+T1  - Paperbacks for high school & junior high
+Y1  - 1971
+D1  - 1971-1972
+SP  - 10
+KW  - Conservation of natural resources
+T2  - Ecology Information Group. Catalog
+V1  - 2
+PB  - Ecology Information Group
+CY  - Berkeley, CA
+LA  - English
+CN  - 631 .E17p
+ER  - 
+
+TY  - BOOK
+A2  - Fairfield (Connecticut) Public Schools
+T1  - Project "life": living in Fairfield's environment
+Y1  - 1970
+D1  - 08/1970
+KW  - Ecology
+PB  - Fairfield (Connecticut) Public Schools
+CY  - Fairfield, CT
+LA  - English
+CN  - 631 .F17p v. 1
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Del Giorno, Bette J.
+A2  - Fairfield (Connecticut) Public Schools
+T1  - Ecology (K-6) 1970 (in preparation)
+Y1  - 1970
+D1  - 1970
+KW  - Ecology
+PB  - Fairfield (Connecticut) Public Schools
+CY  - Fairfield, CT
+LA  - English
+CN  - 631 .F17p v. 2
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Del Giorno, Bette J.
+A2  - Fairfield (Connecticut) Public Schools
+T1  - Environmental studies and open spaces (K-6) 1970 (in preparation)
+Y1  - 1970
+D1  - 1970
+KW  - Environment
+PB  - Fairfield (Connecticut) Public Schools
+CY  - Fairfield, CT
+LA  - English
+CN  - 631 .F17p v. 3
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Del Giorno, Bette J.
+A2  - Fairfield (Connecticut) Public Schools
+T1  - Marine biology and oceanography (K-6) 1970 (in preparation)
+Y1  - 1970
+D1  - 1970
+KW  - Marine biology
+KW  - Oceanography
+PB  - Fairfield (Connecticut) Public Schools
+CY  - Fairfield, CT
+LA  - English
+CN  - 631 .F17p v. 4
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Del Giorno, Bette J.
+A2  - Fairfield (Connecticut) Public Schools
+T1  - The river laboratory study, a subprogram for grades 3-6
+Y1  - 1970
+D1  - 1970
+KW  - Rivers
+PB  - Fairfield (Connecticut) Public Schools
+CY  - Fairfield, CT
+LA  - English
+CN  - 631 .F17p v. 5
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Del Giorno, Bette J.
+A2  - Fairfield (Connecticut) Public Schools
+T1  - SIES: Science as an integrated ecological study (7 and 8) (in preparation)
+Y1  - 1970
+D1  - 1970
+KW  - Ecology
+PB  - Fairfield (Connecticut) Public Schools
+CY  - Fairfield, CT
+LA  - English
+CN  - 631 .F17p v. 6
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Curriculum Development and Textbook Committee
+T1  - Conservation handbook for Idaho teachers, grades 1-12
+Y1  - 1954
+D1  - 1954
+SP  - 78
+KW  - Conservation of natural resources
+N1  - ill. ; 28 cm.; Responsibility: prepared under the direction State Curriculum Development and Textbook Committee, State Dept. of Education. Approved and issued by State Board of Education.
+PB  - Idaho State Department of Education
+CY  - Boise, IA
+LA  - English
+CN  - 631 .I18c
+SC  - Idaho
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+A2  - Indiana Department Conservation. Conservation Education Advisory Committee
+T1  - Teaching conservation in Indiana schools
+Y1  - 1959
+D1  - 1959
+SP  - 50
+KW  - Conservation of natural resources
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 631 .I39t
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Total environment education
+Y1  - 1973
+D1  - 1973
+SP  - 116
+KW  - Ecology
+KW  - Conservation of natural resources
+N1  - vii; ges ; 28 cm; Note(s): Includes bibliographical references.; Responsibility: [prepared by the Indiana Environmental Education Advisory Committee].
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 631 .I39t
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A1  - Fersh, George L.
+A2  - Joint Council on Economic Education
+T1  - Resource-use education: children, classrooms, and conservation
+Y1  - 1961
+D1  - 1961
+SP  - 21
+KW  - Natural resources
+N1  - 21 p. ill. 23 cm.; Note(s): Bibliography: p. 17-18.; Other Titles: Children, classrooms, and conservation; Responsibility: [Conservation and Resource-Use Education Project.
+PB  - Joint Council on Economic Education
+CY  - New York, NY
+LA  - English
+CN  - 631 .J74c
+ER  - 
+
+TY  - BOOK
+A2  - Izaak Walton League of America. Oregon State Division. Conservation Education Committee
+T1  - Inexpensive written materials on conservation for Oregon schools
+Y1  - 1953
+D1  - 09/1953
+SP  - 22
+KW  - Natural resources
+KW  - Bibliography
+PB  - Beattie & Co.
+CY  - Portland, OR
+LA  - English
+CN  - 631 .I74i
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Teaching conservation through "Concepts in science": an instructional bulletin
+Y1  - 1968
+D1  - 1968
+SP  - 15
+KW  - Natural resources
+N1  - 1 v.; Note(s): Publ. no. EC-286.
+T2  - Los Angeles (California) City School District. Publication
+V1  - EC-286
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 631 .L87t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Stead, William H.
+T1  - Natural resource use in our economy
+Y1  - 1960
+D1  - 1960
+SP  - 88
+KW  - Natural resources
+N1  - 88 S.; Responsibility: by William H. Stead.
+PB  - Conservation and Resource-Use Education Project Joint Council on Economic Education
+CY  - Washington D.C.
+LA  - English
+CN  - 631 .J74n
+ER  - 
+
+TY  - BOOK
+A1  - Landin, Ed
+A1  - Jostad, Karen
+A1  - Marofsky, Myrna
+A1  - Hagberg, Ron
+A1  - Ligare, Katy
+T1  - Litter bugs, 4
+D1  - 1970s
+SP  - 77
+KW  - Environmental education
+KW  - Ecology
+KW  - Waste products
+N1  - ill. ; 29 cm.; Note(s): "Working Copy."; Responsibility: [Ed Landin ... [et al.]].
+PB  - Minnesota State Department of Education
+LA  - English
+CN  - 631 .M66e v. 1
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Landin, Ed
+A1  - Jostad, Karen
+A1  - Marofsky, Myrna
+A1  - Hagberg, Ron
+A1  - Ligare, Katy
+T1  - Waste in water, 7
+D1  - 1970s
+SP  - 101
+KW  - Environmental education
+KW  - Ecology
+KW  - Waste products
+N1  - ill. ; 29 cm.; Note(s): "Working Copy."; Responsibility: [Ed Landin ... [et al.]].
+PB  - Minnesota State Department of Education
+LA  - English
+CN  - 631 .M66e v. 2
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Landin, Ed
+A1  - Jostad, Karen
+A1  - Marofsky, Myrna
+A1  - Hagberg, Ron
+A1  - Ligare, Katy
+T1  - Culture and environment, 10
+D1  - 1970s
+SP  - 89
+KW  - Environmental education
+KW  - Ecology
+N1  - ill. ; 29 cm.; Note(s): "Working Copy."; Responsibility: [Ed Landin ... [et al.]].
+PB  - Minnesota State Department of Education
+LA  - English
+CN  - 631 .M66e v. 3
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. Conservation Committee
+T1  - Guide to environmental education : conservation of natural resources, Kindergarten-grade six
+Y1  - 1970
+D1  - 1970
+KW  - Conservation of natural resources
+N1  - 119 pages ; 22 x 30 cm; Note(s): Cover title./ Appendices: [1] Conservation quickies, by Conservation Education Association.-[2] Reading Wisconsin's landscape, by Wisconsin Dept. of Public Instruction.-[3] School forest activity manual, by Madison Public Schools.-[4] Wisconsin - the land that was made for vacations, by Wisconsin State Conservation Dept./ Includes bibliographical references.; Responsibility: prepared by the Conservation Committee of the Madison Public Schools.
+PB  - Madison (Wisconsin) Public Schools. Conservation Committee
+CY  - Madison, WI
+LA  - English
+CN  - 631 .M18g
+SC  - Wisconsin
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Michigan Department of Public Instruction. Committee on Conservation Education
+A2  - Michigan Department of Conservation
+T1  - Guide to teaching conservation and resource-use in Michigan
+Y1  - 1959
+D1  - 1959
+SP  - 151
+KW  - Conservation of natural resources
+N1  - x; ges illustrations 28 cm.; Note(s): Cover title./ Includes bibliographical references.
+T2  - Michigan Department of Public Instruction. Bulletin
+V1  - 425
+PB  - Michigan Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 631 .M624g
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public School
+T1  - Field trip guide to Kettle Moraine planting
+SP  - 9
+KW  - School field trips
+N1  - This bulletin has been prepared for trial use to assist teachers in planning for trips to the Southern Kettle Moraine planting area.
+PB  - Milwaukee (Wisconsin) Public School
+CY  - Milwaukee, WI
+LA  - English
+CN  - 631 .M66f
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public School. Curriculum Department
+T1  - A field trip guide to Milton C. Potter Forest and Whitnall Park
+Y1  - 1954
+D1  - 09/1954
+SP  - 8
+KW  - School field trips
+N1  - This bulletin has been prepared to assist teachers in planning a field trip to our school forest and the adjacent Whitnall Park.
+PB  - Milwaukee (Wisconsin) Public School
+CY  - Milwaukee, WI
+LA  - English
+CN  - 631 .M66f
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Michigan Department of Conservation. Division of Education
+T1  - Conservation teaching aids : a bibliography of free and inexpensive bulletins, books and visual materials
+Y1  - 1955
+D1  - 1955
+SP  - 30
+KW  - Conservation of natural resources
+KW  - Teaching aids
+N1  - 30 pages; Note(s): Previous ed. has title: Bulletins, books, and visual aids.
+PB  - Michigan Department of Conservation. Education Division
+CY  - Lansing, MI
+LA  - English
+CN  - 631 .M62ct
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - Dittmer, Howard J.
+A1  - Sweeney, R. P.
+A1  - Wiley, Tom
+A2  - New Mexico State Board of Education
+T1  - Conservation projects for the high school : approved by the New Mexico State Board of Education
+Y1  - 1954
+D1  - 1954
+SP  - 59
+KW  - Conservation of natural resources
+N1  - ill. ; 30 cm.; Note(s): Includes bibliographical references.; Responsibility: collected and edited by Howard J. Dittmer ; compiled by R.P. Sweeney ; issued by Tom Wiley.
+T2  - New Mexico State Board of Education. Bulletin
+V1  - 19
+PB  - New Mexico State Board of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 631 .N52c
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Conservation Committee
+T1  - Soil, its wise use and management; a resource unit for the guidance of teachers in pre-planning teaching units in conservation in elementary and secondary schools
+Y1  - 1952
+D1  - 1952
+SP  - 36
+KW  - Soil conservation
+N1  - 36 leaves.; Responsibility: This bulletin is sponsored by the Conservation Committee.
+T2  - Milwaukee (Wisconsin) Public Schools. Conservation Committee. Curriculum bulletin
+V1  - 9
+IS  - 8
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 631 .M66s
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Rotter, George E.
+T1  - Wildlife conservation for Nebraska elementary schools
+Y1  - 1954
+D1  - 1954
+SP  - 28
+KW  - Conservation of natural resources
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 631 .N36w
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Conservation Committee
+T1  - A guide for integration of conservation education with the existing curriculum
+Y1  - 1956
+KW  - Conservation of natural resources
+T2  - Milwaukee (Wisconsin) Public Schools. Conservation Committee. Curriculum bulletin
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 631 .M66g
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Arbor and wildlife day
+Y1  - 1962
+D1  - 04/1962
+SP  - 7
+KW  - Conservation of natural resources
+KW  - Arbor Day
+PB  - University of the State of New York, State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 631 .N53c
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Nature talks : selected papers in conservation
+Y1  - 1960
+D1  - 1960
+SP  - 28
+KW  - Conservation of natural resources
+N1  - ill. ; 24 cm.
+PB  - University of the State of New York, State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 631 .N53c
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Conservation education for Arbor and wildlife day
+Y1  - 1959
+D1  - 1959
+SP  - 20
+KW  - Conservation of natural resources
+KW  - Arbor Day
+N1  - 20 p. ; 24 cm.; Note(s): Includes bibliographical references.
+PB  - University of the State of New York, State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 631 .N53c
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Conservation education in Oregon schools
+Y1  - 1955
+D1  - 1955
+SP  - 104
+KW  - Conservation of natural resources
+N1  - 104 p. illus. 23 cm.
+PB  - Oregon State Department of Education
+CY  - Salem. OR
+LA  - English
+CN  - 631 .O66c
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - How can we use our natural resources wisely?
+Y1  - 1957
+D1  - 1957
+SP  - 49
+KW  - Conservation of natural resources
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 631 .P85h
+SC  - Oregon
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Office of the Superintendent of Schools
+T1  - Protecting and using our natural resources; suggestions for teaching conservation in the elementary and secondary schools of Santa Barbara County
+Y1  - 1949
+D1  - 03/1949
+SP  - 179
+KW  - Conservation of natural resources
+T2  - Santa Barbara County (California) Office of the Superintendent of Schools. Bulletin
+V1  - S8
+PB  - Santa Barbara County (California) Office of the Superintendent of Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 631 .S22p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Office of the Superintendent of Schools
+T1  - Simulation-games for effective environmental education: a guide for the development and use of educational simulations
+Y1  - 1972
+D1  - 02/1972
+SP  - 108
+KW  - Conservation of natural resources
+PB  - Santa Barbara County (California) Office of the Superintendent of Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 631 .S23s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Shawnee-Mission (Kansas) District High Schools
+T1  - Conservation of natural resources, eighth grade required
+Y1  - 1959
+D1  - 1959
+SP  - 20
+KW  - Conservation of natural resources
+PB  - Shawnee-Mission (Kansas) District High Schools
+CY  - Merriam, KS
+LA  - English
+CN  - 631 .S52c
+SC  - Kansas
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Schools
+T1  - Teachers guidebook to conservation in Sonoma County
+Y1  - 1955
+D1  - 1955
+SP  - 40
+KW  - Conservation of natural resources
+N1  - vii; maps ; 28 cm.; Note(s): Includes bibliographical references (p. 25-29).
+PB  - Sonoma County (California) Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 631 .S69t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department
+A2  - University of the State of New York
+A2  - Bureau of Elementary Curriculum Development
+A1  - Bureau of Secondary Curriculum Development
+T1  - Using resources wisely
+Y1  - 1956
+D1  - 1956
+SP  - 48
+KW  - Conservation of natural resources
+KW  - Environmental education
+AB  - State's recommendations on conservation teaching and on ways to strengthen conservation education throughout the State.
+N1  - ill., map ; 28 cm.; Note(s): Audience: For grades K-12.; Responsibility: Bureau of Elementary Curriculum Development, Bureau of Secondary Curriculum Development, New York State Education Department.
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 631 .N53u
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department
+A2  - Bureau of Elementary Curriculum Development
+T1  - Using our bounty: a bibliography on conservation
+Y1  - 1958
+D1  - 04/1958
+SP  - 16
+KW  - Conservation of natural resources
+KW  - Bibliography
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 631 .N53u
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - North Colonie (New York) Central Schools
+T1  - Conservation: a correlated unit for a block time organization
+Y1  - 1967
+D1  - 09/1967
+SP  - 40
+KW  - Conservation of natural resources
+PB  - North Colonie (New York) Central Schools
+CY  - Newtonville, NY
+LA  - English
+CN  - 631 .N86c
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Culler, Frances Cisson
+T1  - Learning to live with our land and water: a teaching unit in conservation
+Y1  - 1955
+D1  - 1955
+SP  - 26
+KW  - Conservation of natural resources
+PB  - South Carolina Association of Soil Conservation District Supervisors
+LA  - English
+CN  - 631 .S726L
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Eleazer, J. M.
+T1  - Our land is our life; conservation of South Carolina's natural resources
+Y1  - 1955
+D1  - 1955
+SP  - 134
+KW  - Conservation of natural resources
+N1  - ix; illus., map. 24 cm.; Note(s): Bibliography: p. 132-134.
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 631 .S726o
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Reed, James
+T1  - Conservation in America: resource unit
+SP  - 24
+KW  - Conservation of natural resources
+N1  - Education 296b, Dr. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 631 .S78c
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - Opportunities for conservation, grades 1-12
+Y1  - 1950
+D1  - 01/1950
+SP  - 12
+KW  - Conservation of natural resources
+T2  - Vermont State Department of Education. Curriculum bulletin
+V1  - 5
+PB  - Vermont State Department of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 631 .V52o
+SC  - Vermont
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Environmental education: a guide to teaching conservation in Texas
+Y1  - 1972
+D1  - 1972
+SP  - 172
+KW  - Environmental education
+N1  - vi; illus. 26 cm.; Note(s): Includes bibliographical references.; Published in 1964 under title: A guide to the teaching of conservation in science and social studies for the elementary and secondary schools of Texas.
+T2  - Texas Education Agency. Bulletin
+V1  - 709
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 631 .T35e
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Conservation in "our community", "our county" and "our state", it's in your hands
+Y1  - 1955
+D1  - 1955-1956
+SP  - 25
+KW  - Conservation of natural resources
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 631 .W24co
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - World Book Encyclopedia
+T1  - Conservation: unit teaching plan no. 80
+Y1  - 1953
+D1  - 1953
+SP  - 16
+KW  - Conservation of natural resources
+PB  - Field Enterprises, Inc.
+CY  - Chicago, IL
+LA  - English
+CN  - 631 .W92c
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Schools
+T1  - Guide to the study of conservation
+SP  - 40
+KW  - Conservation of natural resources
+PB  - Yuba County (California) Schools
+CY  - Marysville, CA
+LA  - English
+CN  - 631 .Y94g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Palm Springs (California) Unified School District
+T1  - A date for Bobby : a story of date culture in the Coachella Valley
+Y1  - 1950
+D1  - 1950
+SP  - 63
+KW  - Dates (Fruit)
+N1  - ill.; Responsibility: prepared by the fifth grade teachers of th Palm Springs Unified School District.
+PB  - Palm Springs (California) Unified School District
+CY  - Riverside, CA
+LA  - English
+CN  - 634 .R62d
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Brereton, Mary
+A1  - Leoni, Frances
+A1  - Leoni, Louise
+A2  - Sacramento (California) City Unified Schools
+T1  - The story of a peach
+Y1  - 1956
+D1  - 06/1956
+KW  - Peaches
+N1  - Third grade social studies
+PB  - Sacramento (California) City Unified Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 634 .S12s
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Bellingham (Washington) Public Schools. Department of Instruction and Curriculum Research
+T1  - The story of lumber: text material for sixth grade students
+SP  - 43
+KW  - Forests and forestry
+PB  - Bellingham (Washington) Public Schools
+CY  - Bellingham, WA
+LA  - English
+CN  - 635 .B43s
+SC  - Washington
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Clemens, Roger
+T1  - A teacher's guide for teaching forestry, logging and lumbering in secondary schools
+Y1  - 1958
+D1  - 1958
+SP  - 195
+KW  - Forests and forestry
+PB  - Redwood Region Conservation Council
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 635 .R31c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Texas Forest Service
+A2  - Texas Education Agency
+T1  - A school child's view of Texas Forests : a resource bulletin suggested for grades 5-8
+Y1  - 1956
+D1  - 1956
+SP  - 30
+KW  - Forests and forestry
+N1  - vi; ill. ; 23 cm.; Note(s): Cover title./ Includes bibliographical references (p. 28).; Other Titles: Texas forests; Responsibility: Texas Education Agency, in cooperation with Texas Forest Service.
+T2  - Texas Education Agency. Bulletin
+V1  - 582
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 635 .T35t
+SC  - Texas
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Walworth County (Wisconsin) Schools
+T1  - Trees for tomorrow
+SP  - 8
+KW  - Forests and forestry
+PB  - Walworth County (Wisconsin) Schools
+LA  - English
+CN  - 635 .W24t
+SC  - Wisconsin
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, Harlan L.
+A2  - San Diego (California) City Schools
+T1  - Resource guide for care and feeding of pets and other living creatures
+Y1  - 1955
+D1  - 1955
+SP  - 88
+KW  - Humane education
+KW  - Animal welfare
+N1  - ill. ; 22 x 28 cm.; Responsibility: prepared by Harlan L. Wilson.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 636 .S19r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Dairying and raising livestock: units in the social studies for grade 3
+Y1  - 1954
+D1  - 1954
+SP  - 28
+KW  - Dairying
+KW  - Livestock
+N1  - Reprinted 1957
+PB  - Fresno County (California) Schools
+LA  - English
+CN  - 637 .F88d
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Battle Creek (Michigan) Public Schools
+T1  - School farm guide
+Y1  - 1955
+D1  - 09/1955
+SP  - 40
+KW  - School gardens
+PB  - Battle Creek (Michigan) Public Schools
+CY  - Battle Creek, MI
+LA  - English
+CN  - 639 .B33s
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Division of School Gardens
+T1  - An outline of the educational program in gardening in the Cleveland public schools
+SP  - 3
+KW  - School gardens
+PB  - Cleveland (Ohio) Public Schools. Division of School Gardens
+CY  - Cleveland, OH
+LA  - English
+CN  - 639 .C63o
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Home gardens for junior and senior high pupils
+Y1  - 1957
+D1  - 1957
+KW  - School gardens
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 639 .C63o
+SC  - Ohio
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Home gardens for boys and girls
+Y1  - 1957
+D1  - 1957
+KW  - School gardens
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 639 .C63o
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Division of School Gardens
+T1  - Teacher's outline 1954 school-home garden projects
+SP  - 15
+KW  - School gardens
+PB  - Cleveland (Ohio) Public Schools. Division of School Gardens
+CY  - Cleveland, OH
+LA  - English
+CN  - 639 .C63t
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Home gardens for boys and girls
+Y1  - 1954
+D1  - 1954
+KW  - School gardens
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 639 .C63t
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Akron (Ohio) Public Schools
+T1  - Course of study outlines, Akron high schools: home economics
+Y1  - 1953
+D1  - 1953
+SP  - 77
+KW  - Home economics
+T2  - Akron (Ohio) Public Schools. Publication
+V1  - 105
+PB  - Akron (Ohio) Public Schools
+CY  - Akron, OH
+LA  - English
+CN  - 640 .A31c
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Homemaking courses for Alaska high schools
+Y1  - 1953
+D1  - 1953
+SP  - 52
+KW  - Home economics
+N1  - 52 pages ; 23 cm.; Note(s): Includes bibliographical references.; Other Titles: Bound in:; Course of study bulletins
+T2  - Alaska State Department of Education. High school course of study series. Bulletin
+V1  - 8
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 640 .A32h
+SC  - Alaska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - A guide for the organization of classes in foods and home management, Dept. of Home Economics
+Y1  - 1956
+D1  - 1956
+SP  - 30
+KW  - Home economics
+KW  - Food
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 10
+PB  - Boston (Massachusetts) Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 640 .B74g
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in homemaking elementary family living, grades 1-6
+SP  - 35
+KW  - Home economics
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 640 .B87c v. 1
+SC  - Massachusetts
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in homemaking, grades 5-8
+KW  - Home economics
+N1  - 1 vol. (various pagings)
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 640 .B87c v. 2
+SC  - Massachusetts
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Tentative outline of course of study in home economics, grades 7-9
+Y1  - 1955
+D1  - 04/1955
+SP  - 30
+KW  - Home economics
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 640 .B94t
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Homemaking education
+T1  - Annotated bibliography for homemaking education
+Y1  - 1950
+D1  - 1950
+SP  - 39
+KW  - Bibliography
+KW  - Home economics
+N1  - 39 p.; Genre/Form: Bibliography.; Responsibility: compiled by the staff of the Bureau of Homemaking Education.; Supplement stapled to back cover.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Homemaking education
+T1  - Supplement to Annotated bibliography for homemaking education
+Y1  - 1953
+D1  - 09/1953
+SP  - 13
+KW  - Bibliography
+KW  - Home economics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Olive A.
+A1  - McCullough, Wava
+T1  - What's the next move in homemaking education? A report on a study of attitudes regarding homemaking education
+Y1  - 1955
+D1  - 04/1955
+SP  - 133
+KW  - Home economics
+T2  - California State Department of Education. Bulletin
+V1  - 24
+IS  - 2
+PB  - California State Dept. of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Sturm, Mary Mark
+A1  - Krause, M. Ruth
+T1  - Guiding youth in home living in the Chicago public schools
+Y1  - 1952
+D1  - 1952
+SP  - 40
+KW  - Home economics
+N1  - 40 pages illustrations 23 cm.; Note(s): Errata slip inserted.; Responsibility: Prepared in the Dept. of Instruction and Guidance [by] Mary Mark Sturm [and] M. Ruth Krause.
+T2  - Chicago (Illinois) Public Schools. Department of Instruction and Guidance. Curriculum brochure
+V1  - 3
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 640 .C53g
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Training young hands for modern living
+Y1  - 1949
+D1  - 1949
+SP  - 32
+KW  - Manual training
+KW  - Home economics
+T2  - Chicago (Illinois) Board of Education. Curriculum brochure series
+V1  - 1
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 640 .C53t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Home economics & industrial arts course of study 1962-63
+Y1  - 1962
+D1  - 1962-1963
+SP  - 65
+KW  - Manual training
+KW  - Home economics
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 640 .C58h
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Course of study, senior high home economics : personal regimen, units I-II-III
+D1  - 1950s
+SP  - 76
+KW  - Home economics
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 640 .C63p
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dearborn (Michigan) Public Schools
+T1  - A survey of the problems of youth enrolled in homemaking classes in Dearborn public schools
+Y1  - 1951
+D1  - 1951-1952
+SP  - 63
+KW  - Home economics
+N1  - 63 leaves ; cm; Other Titles: Resource units : thinking, feeling, doing; Responsibility: by the homemaking teachers
+PB  - Dearborn (Michigan) Public Schools
+CY  - Dearborn, MI
+LA  - English
+CN  - 640 .D28r
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Home economics education in the senior high school, an instructional guide
+Y1  - 1948
+D1  - 1948
+SP  - 425
+KW  - Home economics
+N1  - 425 p.; Responsibility: written by the home economics teachers for use in the Denver senior high schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 640 .D41h v. 2
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education. Division of Vocational, Technical, and Adult Education
+T1  - Florida homemaking education
+Y1  - 1955
+D1  - 1955
+SP  - 243
+KW  - Home economics
+N1  - vii; ill. 28 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographical references.
+T2  - Florida State Department of Education. Bulletin
+V1  - 23
+ED  - Rev.
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 640 .F63f
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Hudson (California) School District
+T1  - Homemaking guide
+Y1  - 1964
+D1  - 1964
+SP  - 194
+KW  - Home economics
+PB  - Hudson (California) School District
+CY  - La Puente, CA
+LA  - English
+CN  - 640 .H88h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Jones, Evelyn G.
+A2  - Denver (Colorado) Public Schools. Home Economics Teachers
+T1  - Home economics education in the junior high school; an instructional guide written by the home economics teachers for use in the Denver junior high schools
+Y1  - 1948
+D1  - 1948
+SP  - 250
+KW  - Home economics
+N1  - 250 p.; Note(s): Bibliography: p. [242]-247.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 640 .D41h v. 1
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Curriculum Program
+T1  - Home economics education; homemaking aspect: grade 7-12
+Y1  - 1966
+D1  - 1966
+SP  - 193
+KW  - Home economics
+N1  - viii; 26 cm.; Note(s): Bibliographical footnotes.
+T2  - Illinois Curriculum Program. Subject field series. Bulletin
+V1  - D-7
+PB  - Illinois Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 640 .I29h
+SC  - Illinois
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Indiana handbook for curriculum planning in homemaking
+Y1  - 1948
+D1  - 1948
+SP  - 140
+KW  - Home economics
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: State of Indiana Dept. of Public Instruction.
+T2  - Indiana State Department of Public Instruction. Bulletin
+V1  - 202
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 640 .I39i
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indianapolis (Indiana) Public Schools
+T1  - Home economics: a family centered program
+Y1  - 1955
+D1  - 1955
+SP  - 130
+KW  - Home economics
+T2  - Indianapolis (Indiana) Public Schools. Curriculum bulletin
+V1  - 30
+PB  - Indianapolis (Indiana) Public Schools
+CY  - Indianapolis, IN
+LA  - English
+CN  - 640 .I391h
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Homemaking in the sixth and seventh grades
+Y1  - 1953
+D1  - 1953
+SP  - 80
+KW  - Home economics
+N1  - ill. ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles: Homemaking, grades six and seven
+T2  - Kansas City (Missouri) Public Schools. Curriculum bulletin
+V1  - 173
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 640 .K16h v. 1
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Homemaking grade eight
+Y1  - 1950
+D1  - 1950
+KW  - Home economics
+ED  - Rev.
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 640 .K16h v. 2
+SC  - Missouri
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Homemaking grade nine and grade ten
+Y1  - 1955
+D1  - 11/1955
+SP  - 97
+KW  - Home economics
+T2  - Kansas City (Missouri) Public Schools. Curriculum bulletin
+V1  - 99
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 640 .K16h v. 3
+SC  - Missouri
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Kansas Home Economics Association
+A2  - Kansas State Department of Education
+T1  - A guide for home economics, Kansas secondary schools
+Y1  - 1949
+D1  - Fall, 1949
+SP  - 178
+KW  - Home economics
+N1  - 178, [1] pages 28 cm; Note(s): At head of title: Dept. of Education, State of Kansas./ Includes bibliographical references (pages 176-179).; Responsibility: [Compiled by the Curriculum Committee of the Kansas Home Economics Association and the members of the curriculum workshop] Fall 1949.
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 640 .K15g
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Board of Education
+T1  - A guide for Kern County homemaking mobile unit
+Y1  - 1960
+D1  - 08/1960
+SP  - 12
+KW  - Home economics
+N1  - Working copy
+PB  - Kern County (California) Board of Education
+CY  - Bakersfield, CA
+LA  - English
+CN  - 640 .K39g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Appelgren, Joyce
+A1  - Hebron, Mary
+A1  - Johnson, Gynneth
+A1  - Johnson, Idella
+A1  - McCutchin, Nancy
+A1  - Barnett, Dorothy
+T1  - Guides for the teaching of home living in the junior high schools of the La Crosse City District Public Schools
+Y1  - 1955
+D1  - 1955
+KW  - Home economics
+N1  - Tentative draft
+PB  - La Crosse City (Wisconsin) District Public Schools
+CY  - La Crosse City, WI
+LA  - English
+CN  - 640 .L14g
+SC  - Wisconsin
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse City (Wisconsin) District Public Schools. Curriculum Committee on Home Economics
+T1  - Teacher's guide for home economics
+Y1  - 1963
+D1  - 09/1963
+SP  - 69
+KW  - Home economics
+ED  - Rev.
+PB  - La Crosse City (Wisconsin) District Public Schools
+CY  - La Crosse City, WI
+LA  - English
+CN  - 640 .L14t
+SC  - Wisconsin
+ER  -  
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Supplement to advanced homemaking, B8-A8: an instructional bulletin
+Y1  - 1968
+D1  - 1968
+SP  - 80
+KW  - Home economics
+N1  - 1 v.; Note(s): Publ. no. SC-645.
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-645
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 640 .L87i v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Homemaking, junior high school, B7, A7, B8
+Y1  - 1953
+D1  - 1953
+SP  - 187
+KW  - Home economics
+N1  - 187 p. ill.; Note(s): At head of title: Instructional guide./ Includes bibliographical references.
+T2  - Los Angeles City (California) School District. Publication
+V1  - SC-489
+PB  - Los Angeles City School Districts, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 640 .L87h
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - An instructional guide, homemaking 1 and 2, junior high school, B7-A7
+Y1  - 1963
+D1  - 1963
+SP  - 113
+KW  - Home economics
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 640 .L87i v. 1
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Welsh, M. Catherine
+A2  - Long Beach (California) Unified School District. Office of Curriculum and Instruction
+T1  - Guide to teaching seventh grade home economics
+Y1  - 1969
+D1  - 1969
+SP  - 167
+KW  - Home economics
+N1  - 167 p. ; 28 cm.; Responsibility: prepared by a committee of classroom teachers under the auspices of M. Catherine Welsh.
+PB  - Office of Curriculum and Instruction, Long Beach Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 640 .L84g
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Senior home economics B12-A12 : an instructional guide
+Y1  - 1967
+D1  - 1967
+SP  - 169
+KW  - Home economics
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 640 .L87s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Adams, Frances Hall
+A2  - Los Angeles County (California) Schools. Division of Secondary Education
+T1  - Suggestions for enriching human relations through the homemaking program
+Y1  - 1950 
+D1  - 02/1950
+SP  - 18
+KW  - Home economics
+T2  - Los Angeles County (California) Schools. Secondary curriculum monograph
+V1  - HM-2
+PB  - Los Angeles County (California) Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 640 .L87s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Take a look at Home Economics
+Y1  - 1951
+D1  - 1951
+SP  - 27
+KW  - Home economics
+N1  - 27 pages illustrations 28 cm.; Responsibility: Prepared by the Home Economics Staff under the direction of A.E. Robinson. Issued by Shelby M. Jackson.
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 721
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 640 .L88t
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A1  - Robinson, A. E.
+A2  - Louisiana State Superintendent of Education. Homemaking Staff
+T1  - Homemaking teachers appraise supervisory practices; state wide study of the present status of supervisory practices in Louisiana
+Y1  - 1954
+D1  - 1954
+SP  - 15
+KW  - Home economics
+KW  - School supervision
+N1  - 15 p.; Responsibility: Prepared by the State Homemaking Staff under the guidance of A.E. Robinson.
+PB  - Louisiana State Superintendent of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 640 .L88h
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A1  - Nichols, Helen
+A2  - Louisiana State Department of Education
+T1  - Progress report, curriculum development in homemaking education in Louisiana, 1957-1958.
+Y1  - 1957
+D1  - 09/1957
+SP  - 61
+KW  - Home economics
+N1  - 61 pages ; 28 cm; Other Titles: Curriculum development in Louisiana, 1957-1958; Responsibility: compiled by Helen Nichols and the State Staff in Homemaking Education under the direction of A.E. Robinson, assistant superintendent of Vocational Education.
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 640 .L88c
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A1  - Robinson, A. E.
+A2  - Louisiana State Department of Education
+T1  - Your state department of education serves you through home economics
+Y1  - 1952
+D1  - 1952
+SP  - 6
+KW  - Home economics
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 640 .L88y
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Memphis (Tennessee) Board of Education
+T1  - Course of study Memphis city schools: home economics
+Y1  - 1953
+KW  - Home economics
+PB  - Memphis (Tennessee) Board of Education
+CY  - Memphis, TN
+LA  - English
+CN  - 640 .M53c
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A1  - Vossbrink, Meta
+A2  - Michigan State University. College of Education
+T1  - Homemaking education: a checklist for planning the program
+Y1  - 1956
+D1  - 1956
+SP  - 25
+KW  - Home economics
+PB  - Michigan State University. College of Education
+CY  - East Lansing, MI
+LA  - English
+CN  - 640 .M62h
+SC  - Michigan
+ER  -  
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Program planning for home economics in secondary schools of Minnesota : grades 7-12: resource units in family relationships and child development
+Y1  - 1967
+D1  - 1967
+SP  - 178
+KW  - Home economics
+N1  - xii; ges ; 28 cm.; Note(s): Includes bibliographical references (pages 173-178).; Responsibility: State of Minnesota, Dept. of Education.
+T2  - Minnesota State Department of Education. Bulletin
+V1  - 12B
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 640 .M66gp v. 2
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - A guide for instruction in home economics : secondary school, grades 7-12
+Y1  - 1951
+D1  - 1951
+SP  - 191
+KW  - Home economics
+N1  - 191 pages : illustrations ; 23 cm; Note(s): Curriculum bulletin no. 12./ "Source materials": pages 160-175.
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 640 .M66g
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education. Division of Instruction. Vocational-Technical Education Section
+T1  - A guide to program planning for home economics in secondary schools of Minnesota. [Grades 7-12]
+Y1  - 1966
+D1  - 1966
+SP  - 37
+KW  - Home economics
+N1  - 37 pages ; 28 cm; Note(s): Curriculum bulletin no. 12 (revised 1966)./ Includes bibliographical references (pages 36-37).
+ED  - Rev
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 640 .M66gp v. 1
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Homemaking curriculum guide : grades ten, eleven, and twelve. 1959 tentative report
+Y1  - 1959
+D1  - 1959
+SP  - 269
+KW  - Home economics
+KW  - Curricula
+N1  - x; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Missouri State Department of Education. Publication
+V1  - 117-G
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 640 .M67g
+SC  - Missouri
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Schools
+T1  - Resource handbook for homemaking education
+Y1  - 1961
+D1  - 1961
+SP  - 92
+KW  - Home economics
+PB  - Monterey (California) County Schools
+LA  - English
+CN  - 640 .M77r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Home arts in the junior high school: an instructional guide developed by the home arts teachers of Montgomery County
+Y1  - 1954
+D1  - 09/1954
+SP  - 159
+KW  - Home economics
+T2  - Montgomery County (Maryland) Public Schools. Bulletin
+V1  - 124
+PB  - Montgomery County (Maryland) Public Schools
+LA  - English
+CN  - 640 . M78h
+SC  - Maryland
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Thompson, Ella H.
+A2  - Nashville (Tennessee) City Public Schools
+T1  - Suggestions for home economics bulletin boards
+Y1  - 1954
+D1  - 1954
+KW  - Home economics
+N1  - 1 v. (unpaged) ; cm
+ED  - Rev.
+PB  - Nashville (Tennessee) City Public Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 640 .N25s
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Home economics: food preparation and household management, grades 7, 8, 9
+Y1  - 1960
+D1  - 1960
+KW  - Home economics
+KW  - Cooking
+N1  - 177 p. ill.; Note(s): Includes bibliographical references.; Other Titles: Food preparation and household management.
+T2  - New York City Board of Education. Curriculum bulletin, 1955-56 ser.
+V1  - 9
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 640 .N531h v. 1
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Home Economics Education
+T1  - Home economics education; syllabus
+Y1  - 1965
+D1  - 1965
+SP  - 224
+KW  - Home economics
+N1  - v; 28 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographies.
+PB  - University of the State of New York. Bureau of Home Economics Education
+CY  - Albany, NY
+LA  - English
+CN  - 640 .N53h
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of School Buildings and Grounds
+T1  - Planning and equipping the homemaking department
+Y1  - 1952
+D1  - 07/1952
+SP  - 19
+KW  - Home economics
+KW  - School buildings
+PB  - University of the State of New York. Division of School Buildings and Grounds
+CY  - Albany, NY
+LA  - English
+CN  - 640 .N53p
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Home Economics Education
+T1  - Planning guide, homemaking education
+Y1  - 1950
+D1  - 07/1950
+SP  - 190
+KW  - Home economics
+N1  - v; illus. 27 cm.; Note(s): Bibliography: p. 184. "Resource materials": p. 185-188.; Other Titles: Homemaking education.
+PB  - University of the State of New York. Bureau of Home Economics Education
+CY  - Albany, NY
+LA  - English
+CN  - 640 .N53ph
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Dennis, Catherine T.
+A1  - Lacy, Mabel L.
+A1  - Lowe, Louise
+A2  - North Carolina State Department of Public Instruction
+T1  - A guide to the teaching of homemaking in North Carolina schools
+Y1  - 1949
+D1  - 1949
+SP  - 193
+KW  - Home economics
+N1  - v; ges ; 23 cm.; Note(s): Includes bibliographical references (pages 182-193).; General Info: Other format available: Online version:; Dennis, Catherine T.; Guide to the teaching of homemaking in North Carolina schools.; Raleigh, N.C. : State Superintendent of Public Instruction, 1949; Responsibility: prepared by Catherine T. Dennis, Mabel L. Lacy, Louise Lowe.
+T2  - North Carolina State Department of Public Instruction. Publication
+V1  - 270
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 640 .N86g
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk (Virginia) City Schools
+T1  - Curriculum guide for work-study home economics
+Y1  - 1969
+D1  - 06/1969
+KW  - Home economics
+N1  - 1 v. ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - Norfolk (Virginia) City Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 640 .N83c
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction. Division of Vocational Education
+T1  - A Guide for developing a homemaking curriculum : in senior high schools of North Dakota
+Y1  - 1950
+D1  - 1950
+SP  - 193
+KW  - Clothing and dress
+KW  - Curricula
+KW  - Family life education
+KW  - Food
+KW  - Health education
+KW  - Home economics
+N1  - 193 pages ; 29 cm; Note(s): Cover title: North Dakota curriculum guide in homemaking education./ Includes bibliographical references.; Other Titles: Curriculum guide in homemaking education; North Dakota curriculum guide in homemaking education; Responsibility: Department of Education, Division of Vocational Education.
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 640 .N87g
+SC  - North Dakota
+ER  - 
