@@ -1,309 +1,1873 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
-
-
-
-
-
-<doc><field name="type">Book</field><field name="corp_author">Cincinnati (Ohio) Public Schools</field><field name="title">Course in study of typewriting, grades 10 and 11</field><field name="year">1951</field><field name="date">1951</field><field name="pages">35</field><field name="keywords">Typewriting</field><field name="notes">iv; ill. ; 28 cm.; Note(s): Bibliography: p. 31-35.; Other Titles: Course of study, typewriting I and II</field><field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field><field name="series_vol">227</field><field name="publisher">Cincinnati (Ohio) Public Schools</field><field name="pub_place">Cincinnati, OH</field><field name="language">English</field><field name="call_number">652 .C57c</field><field name="state_country">Ohio</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Clark County (Nevada) School District</field><field name="title">Typewriting</field><field name="year">1959</field><field name="date">1959</field><field name="pages">24</field><field name="keywords">Typewriting</field><field name="series_title">Clark County (Nevada) School District. Junior High School Curriculum guide</field><field name="publisher">Clark County (Nevada) School District</field><field name="pub_place">Las Vegas, NV</field><field name="language">English</field><field name="call_number">652 .C59j</field><field name="state_country">Nevada</field><field name="grade_level_group">Middle school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Colorado State Department of Education</field><field name="corp_author">Colorado Business Education Association. State Typewriting Committee</field><field name="title">Teaching guide for first year typewriting in secondary schools</field><field name="year">1953</field><field name="date">08/1953</field><field name="pages">29</field><field name="keywords">Typewriting</field><field name="notes">29 p. ill. 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by State Typewriting Committee of Colorado Business Education Association.</field><field name="publisher">Colorado State Department of Education</field><field name="pub_place">Denver, CO</field><field name="language">English</field><field name="call_number">652 .C71t</field><field name="state_country">Colorado</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Detroit (Michigan) Board of Education</field><field name="title">Course of study for typewriting, grades 10A through 12A</field><field name="year">1951</field><field name="date">1951</field><field name="pages">31</field><field name="keywords">Typewriting</field><field name="publisher">Detroit (Michigan) Board of Education</field><field name="pub_place">Detroit, MI</field><field name="language">English</field><field name="call_number">652 .D48c</field><field name="state_country">Michigan</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Cohoe, Edith</field><field name="author_nat">Edith Cohoe</field><field name="corp_author">Detroit (Michigan) Board of Education</field><field name="title">Course of study in typewriting for sight-saving and Braille classes</field><field name="year">1952</field><field name="date">1952</field><field name="pages">61</field><field name="keywords">Typewriting</field><field name="publisher">Detroit (Michigan) Board of Education</field><field name="pub_place">Detroit, MI</field><field name="edition">Revised</field><field name="language">English</field><field name="call_number">652 .D48cs</field><field name="state_country">Michigan</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Fresno (California) City Unified School District</field><field name="title">Typewriting</field><field name="year">1957</field><field name="date">06/1957</field><field name="pages">11</field><field name="keywords">Typewriting</field><field name="publisher">Fresno (California) City Unified School District</field><field name="pub_place">Fresno, CA</field><field name="language">English</field><field name="call_number">652 .F88t</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">State University of Iowa. Department of Office Management and Business Education</field><field name="title">Topical bibliography on the teaching of typewriting</field><field name="date">1950s</field><field name="pages">9</field><field name="keywords">Typewriting</field><field name="publisher">State University of Iowa</field><field name="pub_place">Iowa City, IA</field><field name="language">English</field><field name="call_number">652 .I64t</field><field name="state_country">Iowa
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Division of Instructional Services</field><field name="title">Typewriting : a course of study for junior and senior high schools</field><field name="year">1964</field><field name="date">1964</field><field name="pages">120</field><field name="keywords">Typewriting</field><field name="notes">ill. ; 28 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.</field><field name="series_title">Los Angeles (California) City School District.Publication</field><field name="series_vol">SC-607</field><field name="publisher">Los Angeles (California) City School District</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">652 .L87t</field><field name="state_country">California</field><field name="grade_level_group">Middle school</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Louisville (Kentucky) Public Schools</field><field name="title">Business education: typewriting I, typewriting II</field><field name="year">1962</field><field name="date">09/1962</field><field name="pages">78</field><field name="keywords">Typewriting</field><field name="publisher">Louisville (Kentucky) Public Schools</field><field name="pub_place">Louisville, KY</field><field name="language">English</field><field name="call_number">652 .L88t</field><field name="state_country">Kentucky</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Minneapolis (Minnesota) Public Schools</field><field name="title">Typewriting 1 and 2</field><field name="year">1958</field><field name="date">1958</field><field name="pages">50</field><field name="keywords">Typewriting</field><field name="series_title">Minneapolis (Minnesota) Public Schools. Curriculum guide in business education</field><field name="publisher">Minneapolis (Minnesota) Public Schools</field><field name="pub_place">Minneapolis, MN</field><field name="language">English</field><field name="call_number">652 .M66t</field><field name="state_country">Minnesota
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Russell, Cicile</field><field name="author_nat">Cicile Russell</field><field name="author">Prutch, Eileen</field><field name="author_nat">Eileen Prutch</field><field name="author">King, Glee</field><field name="author_nat">Glee King</field><field name="author">Bracco, Loretta</field><field name="author_nat">Loretta Bracco</field><field name="title">Typing III: course of study</field><field name="year">1965</field><field name="date">1965</field><field name="keywords">Typewriting</field><field name="publisher">Modesto (California) Secondary Schools</field><field name="pub_place">Modesto, CA</field><field name="language">English</field><field name="call_number">652 .M69t</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum Development</field><field name="title">Syllabus and teaching suggestions for courses in introductory typewriting, typewriting I, personal typewriting</field><field name="year">1967</field><field name="date">1967</field><field name="pages">92</field><field name="keywords">Typewriting</field><field name="notes">92 p. illus. 22 cm.; Note(s): Bibliography: p. 36-37.</field><field name="publisher">University of the State of New York</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">652 .N53i</field><field name="state_country">New York
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">California State Department of Education. Bureau of Business Education</field><field name="title">A guide for the teaching of shorthand and transcription</field><field name="year">1955</field><field name="date">01/1955</field><field name="pages">78</field><field name="keywords">Shorthand</field><field name="series_title">California State Department of Education. Business education publication</field><field name="series_vol">73</field><field name="publisher">California State Department of Education</field><field name="pub_place">Sacramento, CA</field><field name="language">English</field><field name="call_number">653 .C15g</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Nederland (Texas) Independent School District</field><field name="title">Typing for grades 9 through 12 : an approach to individualization of instruction in Typing 12 [and] Typing 23 at Central Junior High School, C.O. Wilson Junior High School, Nederland High School</field><field name="year">1966</field><field name="date">08/1966</field><field name="keywords">Typewriting</field><field name="keywords">Curriculum planning</field><field name="notes">19, 12 leaves ; 28 cm.; Note(s): Includes bibliographical references (leaf 12).</field><field name="edition">Experimental ed., 1966</field><field name="publisher">Nederland (Texas) Independent School District</field><field name="pub_place">Nederland, TX</field><field name="language">English</field><field name="call_number">652 .N37t</field><field name="state_country">Texas</field><field name="grade_level_number">9th grade</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">New York City Board of Education</field><field name="title">Typewriting for secondary schools : courses of study and syllabi for junior and senior high schools</field><field name="year">1961</field><field name="date">1961</field><field name="pages">128</field><field name="keywords">Typewriting</field><field name="publisher">New York City Board of Education</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">652 .N53t</field><field name="state_country">New York</field><field name="grade_level_group">Middle school</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oakland (California) Public Schools</field><field name="title">Course of study: typing I, II, and III</field><field name="year">1951</field><field name="date">05/1951</field><field name="pages">32</field><field name="keywords">Typewriting</field><field name="series_title">Oakland (California) Public Schools. Bus. Ed. 1951-1</field><field name="publisher">Oakland (California) Public Schools</field><field name="pub_place">Oakland, CA</field><field name="language">English</field><field name="call_number">652 .O11c</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Virginia State Board of Education. Business Education Service</field><field name="title">Business education, pt. 2: Typewriting; suggested content, instructional procedures and achievement goals for Virginia high schools</field><field name="year">1962</field><field name="date">03/1962</field><field name="keywords">Typewriting</field><field name="keywords">Business education</field><field name="notes">191 p. ill. 28 cm.; Note(s): On cover: Typewriting./ Revised edition of State Board of Education Bulletin, v. 37, no. 6, 1954./ Bibliography: p. 187-189.; Responsibility: Prepared by Business Education Service of the Division of Vocational Education.</field><field name="series_title">Virginia State Board of Education. Bulletin</field><field name="series_vol">44</field><field name="issue">7</field><field name="publisher">Virginia State Board of Education</field><field name="pub_place">Richmond, VA</field><field name="language">English</field><field name="call_number">652 .V81t</field><field name="state_country">Virginia
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Waco (Texas) Public Schools</field><field name="title">Guide for teaching typewriting II, first semester</field><field name="year">1949</field><field name="date">1949</field><field name="pages">6</field><field name="keywords">Typewriting</field><field name="publisher">Waco (Texas) Public Schools</field><field name="pub_place">Waco, TX</field><field name="language">English</field><field name="call_number">652 .W11g</field><field name="state_country">Texas
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Detroit (Michigan) Board of Education. Division of Instruction. Department of Business Education</field><field name="title">Course of study for Gregg shorthand simplified, semesters (1) through (4)</field><field name="year">1951</field><field name="date">1951</field><field name="pages">60</field><field name="keywords">Shorthand</field><field name="series_title">Detroit (Michigan) Board of Education. Publication</field><field name="series_vol">362</field><field name="publisher">Detroit (Michigan) Board of Education</field><field name="pub_place">Detroit, MI</field><field name="language">English</field><field name="call_number">653 .D48c</field><field name="state_country">Michigan
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Fresno (California) City Unified School District</field><field name="title">Shorthand</field><field name="year">1957</field><field name="date">06/1957</field><field name="pages">6</field><field name="keywords">Shorthand</field><field name="publisher">Fresno (California) City Unified School District</field><field name="pub_place">Fresno, CA</field><field name="language">English</field><field name="call_number">653 .F88s</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Long Beach (California) Unified School District</field><field name="title">Stenographic laboratory 1-2</field><field name="year">1969</field><field name="date">1969</field><field name="pages">44</field><field name="keywords">Shorthand</field><field name="notes">44 p. 28 cm.; Note(s): On cover: Guide for teaching stenographic laboratory 1-2.; Other Titles: Guide for teaching stenographic laboratory 1-2</field><field name="publisher">Long Beach (California) Unified School District</field><field name="pub_place">Long Beach, CA</field><field name="language">English</field><field name="call_number">653 .L84s</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Advanced shorthand and transcription: an instructional guide, senior high school</field><field name="year">1967</field><field name="date">1967</field><field name="pages">44</field><field name="keywords">Business education</field><field name="keywords">Shorthand</field><field name="series_title">Los Angeles (California) City School District. Publication</field><field name="series_vol">SC-637</field><field name="publisher">Los Angeles (California) City School District</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">653 .L87a</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Whittall, Maco B.</field><field name="author_nat">Maco B. Whittall</field><field name="corp_author">Louisville (Kentucky) Public Schools. Office of Curriculum</field><field name="title">Business education: shorthand I-II transcription</field><field name="year">1962</field><field name="date">09/1962</field><field name="pages">86</field><field name="keywords">Business education</field><field name="keywords">Shorthand</field><field name="publisher">Louisville (Kentucky) Public Schools</field><field name="pub_place">Louisville, KY</field><field name="language">English</field><field name="call_number">653 .L88s</field><field name="state_country">Kentucky
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">New York City Board of Education</field><field name="title">Shorthand for high schools; course of study and syllabus</field><field name="year">1960</field><field name="date">1959-1960</field><field name="pages">93</field><field name="keywords">Shorthand</field><field name="notes">93 p. ill. 24 cm.; Genre/Form: Outlines, syllabi, etc.</field><field name="series_title">New York City Board of Education. Curriculum bulletin, 1959-60 ser.</field><field name="series_vol">8</field><field name="publisher">New York City Board of Education</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">653 .N53s</field><field name="state_country">New York</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum Development</field><field name="title">Syllabus and teaching handbook for courses in shorthand 1, shorthand 2, transcription, personal-use shorthand</field><field name="year">1967</field><field name="date">1967</field><field name="pages">129</field><field name="keywords">Shorthand</field><field name="notes">viii; illus. 22 cm.; Note(s): Bibliographical footnotes.</field><field name="publisher">University of the State of New York</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">653 .N53s 1967</field><field name="state_country">New York</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oakland (California) Public Schools</field><field name="title">Tentative course of study: shorthand I, II, III, IV</field><field name="year">1952</field><field name="date">06/1952</field><field name="pages">15</field><field name="keywords">Shorthand</field><field name="notes">SB Bus. Ed. 1952-1</field><field name="publisher">Oakland (California) Public Schools</field><field name="pub_place">Oakland, CA</field><field name="language">English</field><field name="call_number">653 .O11t</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Sequoia Union High School District (Redwood City, California)</field><field name="title">Shorthand I and II course guide</field><field name="year">1968</field><field name="date">06/1968</field><field name="pages">35</field><field name="keywords">Shorthand</field><field name="publisher">Sequoia Union High School District</field><field name="pub_place">Redwood City, CA</field><field name="language">English</field><field name="call_number">653 .S47s</field><field name="state_country">California</field><field name="grade_level_number">9th grade</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Adult Education Association. Council of National Organizations</field><field name="title">Ten checkpoints for better booklets</field><field name="year">1956</field><field name="date">1956</field><field name="keywords">Report writing</field><field name="keywords">Authorship</field><field name="notes">ill., graphs ; 28 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s): Cover title./ Includes bibliographical references (p. [27]).; Responsibility: Council of National Organizations of the Adult Education Association of the U.S.A.</field><field name="publisher">Adult Education Association. Council of National Organizations</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">654 .C85t
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Virginia State Board of Education</field><field name="title">State course of study, business education. Part IV, Shorthand-transcription</field><field name="year">1956</field><field name="date">06/1956</field><field name="pages">43</field><field name="keywords">Shorthand</field><field name="publisher">Virginia State Board of Education</field><field name="pub_place">Richmond, VA</field><field name="language">English</field><field name="call_number">653 .V81b</field><field name="state_country">Virginia</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Virginia State Board of Education. Division of Vocational Education</field><field name="title">Business education, pt. 4: Shorthand-transcription; suggested content, instructional procedures and achievement goals for Virginia high schools</field><field name="year">1960</field><field name="date">1960</field><field name="pages">44</field><field name="keywords">Shorthand</field><field name="notes">44 p. diagrs. 28 cm.; Note(s): Includes bibliographies.; Responsibility: Prepared by Business Education Service.</field><field name="edition">Revised</field><field name="publisher">Virginia State Board of Education</field><field name="pub_place">Richmond, VA</field><field name="language">English</field><field name="call_number">653 .V81s</field><field name="state_country">Virginia</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Chula Vista (California) City School District</field><field name="title">How people meet their needs for communication, a social studies unit for the third grade, work draft</field><field name="year">1967</field><field name="date">03/1967</field><field name="pages">204</field><field name="keywords">Social sciences</field><field name="keywords">Communication</field><field name="notes">204 p. ill. 22 x 29 cm.; Note(s): Bibliography: p. 151-159.</field><field name="publisher">Chula Vista (California) City School District</field><field name="pub_place">Chula Vista, CA</field><field name="language">English</field><field name="call_number">655 .C55h</field><field name="state_country">California</field><field name="grade_level_number">3rd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts Department</field><field name="title">Graphic arts course of study, junior high school, ninth grade</field><field name="year">1950</field><field name="date">1950</field><field name="keywords">Printing</field><field name="keywords">Bookbinding</field><field name="keywords">Linoleum block-printing</field><field name="keywords">Serigraphy</field><field name="keywords">Paper</field><field name="abstract">Unit 1. Typesetting -- Unit 2. Linoleum block work -- Unit 3. Silk screen process -- Unit 4. Bookbinding -- Unit 5. Presswork -- Unit 6. Enrichment.</field><field name="notes">6 v. : ill. ; 29 cm.; Note(s): Cover title.</field><field name="publisher">Cleveland (Ohio) Public Schools</field><field name="pub_place">Cleveland, OH</field><field name="language">English</field><field name="call_number">655 .C63g v. 1-6</field><field name="state_country">Ohio</field><field name="grade_level_number">9th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Cleveland (Ohio) Public Schools</field><field name="corp_author">Cosmopolitan Senior High School</field><field name="title">Teacher's guide for graphic arts</field><field name="keywords">Graphic arts</field><field name="publisher">Cleveland (Ohio) Public Schools</field><field name="pub_place">Cleveland, OH</field><field name="language">English</field><field name="call_number">655 .C63t</field><field name="state_country">Ohio
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Instructional guide for graphic arts</field><field name="year">1966</field><field name="date">1966</field><field name="keywords">Graphic arts</field><field name="abstract">[v.1] Junior high school industrial arts.--[v.2] Senior high school industrial arts</field><field name="series_title">Los Angeles (California) City School District. Publication</field><field name="series_vol">SC-533</field><field name="series_vol">SC-618</field><field name="edition">Rev.</field><field name="publisher">Los Angeles (California) City School District</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">655 .L87i v. 1-2
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Communications industries: telephone, newspaper, radio, television</field><field name="year">1961</field><field name="date">1961</field><field name="pages">72</field><field name="keywords">Communication</field><field name="keywords">Telephone</field><field name="keywords">Radio</field><field name="keywords">Television</field><field name="keywords">Newspapers</field><field name="notes">72 p. ill. 23 cm.; Note(s): Grade 3.; Responsibility: Pupil material, social studies, grade three.</field><field name="series_title">Los Angeles (California) City Schools. Division of Instructional Services. Publication</field><field name="series_vol">EC-209, tentative</field><field name="publisher">Los Angeles (California) City School District</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">655 .L87c</field><field name="state_country">California</field><field name="grade_level_number">3rd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Rattenbury, Harold L.</field><field name="author_nat">Harold L. Rattenbury</field><field name="author">Soafer, Raymond J.</field><field name="author_nat">Raymond J. Soafer</field><field name="author">Tardy, Gene L.</field><field name="author_nat">Gene L. Tardy</field><field name="corp_author">Long Beach (California) City Schools</field><field name="title">Industrial education course outline : graphic arts 5-6 (printing), occupational</field><field name="year">1967</field><field name="date">1967</field><field name="pages">29</field><field name="keywords">Industrial arts</field><field name="keywords">Graphic arts</field><field name="keywords">Printing</field><field name="notes">29 p. ; 28 cm.; Responsibility: prepared by Harold L. Rattenbury, Raymond J. Soafer, Gene L. Tardy.</field><field name="publisher">Long Beach (California) City Schools</field><field name="pub_place">Long Beach, CA</field><field name="language">English</field><field name="call_number">655 .L84g</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Business English, an instructional guide</field><field name="year">1964</field><field name="date">1964</field><field name="pages">200</field><field name="keywords">Business English</field><field name="series_title">Los Angeles (California) City School District. Publication</field><field name="series_vol">SC-603</field><field name="publisher">Los Angeles (California) City School District</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">654 .L87b</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Sonntag,Joyce Hagen</field><field name="author_nat"/><field name="corp_author">California State Department of Education. Division of Special Education</field><field name="title">Communication skills, curriculum guide for teaching gifted students communication skills in grades four through twelve</field><field name="year">1973</field><field name="date">1973</field><field name="pages">51</field><field name="keywords">Communication</field><field name="keywords">Gifted children</field><field name="notes">51 p.; Note(s): Bibliography: p. 49-51.; Responsibility: Prepared for the Division of Special Education, California State Dept. of Education.</field><field name="publisher">California State Department of Education. Division of Special Education</field><field name="pub_place">Sacramento, CA</field><field name="language">English</field><field name="call_number">655 .C16c</field><field name="state_country">California</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th grade</field><field name="grade_level_number">7th grade</field><field name="grade_level_number">8th grade</field><field name="grade_level_number">9th grade</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Reynolds, Robert</field><field name="author_nat">Robert Reynolds</field><field name="title">Sixth grade: the history of records</field><field name="pages">41</field><field name="keywords">Communication</field><field name="publisher">University of California, Los Angeles</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">655 .C15h</field><field name="state_country">California</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Minneapolis (Minnesota) Public Schools</field><field name="title">A guide to teaching graphic arts, grade 7-grade 12</field><field name="year">1961</field><field name="date">1961</field><field name="pages">52</field><field name="keywords">Industrial arts</field><field name="keywords">Graphic arts</field><field name="series_title">Industrial arts in the Minneapolis public schools.</field><field name="publisher">Minneapolis (Minnesota) Public Schools</field><field name="pub_place">Minneapolis, MN</field><field name="language">English</field><field name="call_number">655 .M66g</field><field name="state_country">Minnesota</field><field name="grade_level_number">7th grade</field><field name="grade_level_number">8th grade</field><field name="grade_level_number">9th grade</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">New York City Board of Education</field><field name="title">Graphic arts shop teacher's work manual, based on the course of study in industrial arts, grades 7, 8, 9</field><field name="year">1954</field><field name="date">1954</field><field name="pages">77</field><field name="keywords">Industrial arts</field><field name="keywords">Graphic arts</field><field name="notes">77 p. ill. 29 cm.; Note(s): Includes bibliographical references.</field><field name="series_title">New York City Board of Education. Curriculum bulletin,; 1952-53 ser.</field><field name="series_vol">10</field><field name="publisher">New York City Board of Education</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">655 .N52g</field><field name="state_country">New York</field><field name="grade_level_number">7th grade</field><field name="grade_level_number">8th grade</field><field name="grade_level_number">9th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">University of the State of New York. Bureau of Industrial Arts Education</field><field name="title">Industrial arts syllabus in general printing</field><field name="year">1955</field><field name="date">1955</field><field name="pages">87</field><field name="keywords">Printing</field><field name="notes">87 p. illus. 23cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliography.</field><field name="publisher">University of the State of New York</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">655 .N53gp</field><field name="state_country">New York</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Martin, Clarence A.</field><field name="author_nat">Clarence A. Martin</field><field name="author">Lamont, Arnold H.</field><field name="author_nat">Arnold H. Lamont</field><field name="corp_author">University of the State of New York. Bureau of Industrial Arts Education</field><field name="title">Suggested related information for the printing area, industrial arts comprehensive general shop course</field><field name="year">1952</field><field name="date">02/1952</field><field name="pages">134</field><field name="keywords">Printing</field><field name="publisher">University of the State of New York. Bureau of Industrial Arts Education</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">655 .N53p</field><field name="state_country">New York
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oakland (California) Public Schools</field><field name="title">How communication has changed our way of living: suggestions for a unit of work, sixth grade</field><field name="year">1951</field><field name="date">07/1951</field><field name="pages">27</field><field name="keywords">Communication</field><field name="publisher">Oakland (California) Public Schools</field><field name="pub_place">Oakland, CA</field><field name="language">English</field><field name="call_number">655 .O11h</field><field name="state_country">California</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field><field name="title">Communications, grade 6</field><field name="year">1953</field><field name="date">09/1953</field><field name="pages">10</field><field name="keywords">Communication</field><field name="publisher">Pasadena (California) City Schools</field><field name="pub_place">Pasadena, CA</field><field name="language">English</field><field name="call_number">655 .P27c</field><field name="state_country">California</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Lakewood (Ohio) Public Schools</field><field name="title">Transportation unit, primary level</field><field name="year">1953</field><field name="date">Fall, 1953</field><field name="pages">31</field><field name="keywords">Transportation</field><field name="edition">Rev</field><field name="publisher">Lakewood (Ohio) Public Schools</field><field name="pub_place">Lakewood, OH</field><field name="language">English</field><field name="call_number">656 .L19t</field><field name="state_country">Ohio</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Monterey (California) Elementary Schools</field><field name="title">Instructional guide for a study of transportation, social studies - grade two</field><field name="year">1959</field><field name="date">1959</field><field name="keywords">Transportation</field><field name="publisher">Monterey (California) Public Schools</field><field name="pub_place">Monterey, CA</field><field name="language">English</field><field name="call_number">656 .M75s</field><field name="state_country">California</field><field name="grade_level_number">2nd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">New York City Board of Education</field><field name="title">Science: grades K-6: 6. Motion and force in transportation</field><field name="year">1961</field><field name="date">1961</field><field name="pages">101</field><field name="keywords">Science</field><field name="keywords">Transportation</field><field name="series_title">New York City Board of Education. Curriculum bulletin, 1958-59 series</field><field name="series_vol">2f</field><field name="publisher">New York City Board of Education</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">656 .N53m</field><field name="state_country">New York</field><field name="grade_level_number">Kindergarten</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field><field name="grade_level_number">5th grade</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pennsylvania State Department of Public Instruction</field><field name="title">Graphic arts as an area of industrial arts instruction in Pennsylvania public schools</field><field name="year">1952</field><field name="date">11/1952</field><field name="pages">54</field><field name="keywords">Industrial arts</field><field name="keywords">Graphic arts</field><field name="series_title">Pennsylvania State Department of Public Instruction. Bulletin</field><field name="series_vol">331D</field><field name="publisher">Pennsylvania State Department of Public Instruction</field><field name="pub_place">Harrisburg, PA</field><field name="language">English</field><field name="call_number">655 .P41g</field><field name="state_country">Pennsylvania
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Goldman, Samuel N.</field><field name="author_nat">Samuel N. Goldman</field><field name="title">American mass communication media: newspapers, magazines, radio, television, motion pictures</field><field name="year">1963</field><field name="date">08/1963</field><field name="keywords">Mass media</field><field name="notes">"A project submitted in partial fulfillment for the course of Education 396 - Recent Developments in Secondary School Social Studies, August 7, 1963, [for] Dr. Richard E. Gross"</field><field name="publisher">Stanford University</field><field name="pub_place">Stanford, CA</field><field name="language">English</field><field name="call_number">655 .S78a
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Merwin, Janice</field><field name="author_nat">Janice Merwin</field><field name="author">Margali, Diane</field><field name="author_nat">Diane Margali</field><field name="title">The mass media--miracle or menace? What do you think?</field><field name="pages">42</field><field name="keywords">Mass media</field><field name="publisher">Stanford University</field><field name="pub_place">Stanford, CA</field><field name="language">English</field><field name="call_number">655 .S78m
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Walworth County (Wisconsin) Schools</field><field name="title">Problem: how do our neighborhood helpers carry messages? (Communications): a teaching unit for primary grades</field><field name="year">1956</field><field name="date">1956</field><field name="keywords">Communication</field><field name="publisher">Walworth County (Wisconsin) Schools</field><field name="language">English</field><field name="call_number">655 .W24h</field><field name="state_country">Wisconsin</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Atchison (Kansas) Schools</field><field name="title">What do we need to know to travel? (a primary resource guide)</field><field name="pages">20</field><field name="keywords">Transportation</field><field name="publisher">Atchison (Kansas) Schools</field><field name="pub_place">Atchison, KS</field><field name="language">English</field><field name="call_number">656 .A86w</field><field name="state_country">Kansas</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Brown, Cynthiana</field><field name="author_nat">Cynthiana Brown</field><field name="title">First grade: community living through means of transportation</field><field name="pages">61</field><field name="keywords">Transportation</field><field name="publisher">University of California, Los Angeles</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">656 .C15c</field><field name="state_country">California</field><field name="grade_level_number">1st
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pasadena (California) City Schools</field><field name="title">Transportation in the immediate community, grade 1</field><field name="year">1953</field><field name="date">09/1953</field><field name="pages">5</field><field name="keywords">Transportation</field><field name="publisher">Pasadena (California) City Schools</field><field name="pub_place">Pasadena, CA</field><field name="language">English</field><field name="call_number">656 .P27t</field><field name="state_country">California</field><field name="grade_level_number">1st
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Walworth County (Wisconsin) Schools</field><field name="title">Problem: how do our neighborhood helpers work to take us places? (Transportation) - a teaching unit for primary grades</field><field name="year">1956</field><field name="date">1956</field><field name="pages">15</field><field name="keywords">Transportation</field><field name="publisher">Walworth County (Wisconsin) Schools</field><field name="language">English</field><field name="call_number">656 .W24h</field><field name="state_country">Wisconsin</field><field name="grade_level_group">Elementary
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Alameda County (California) Superintendent of Schools</field><field name="title">Railroads in Alameda County : teacher resource material</field><field name="year">1959</field><field name="date">1959</field><field name="pages">47</field><field name="keywords">Railroads</field><field name="notes">ill. (some col.), map ; 28 cm.; References: Rocq; 65; Note(s): Includes bibliographical references (p. 45).; Responsibility: Alameda County Superintendent of Schools.</field><field name="publisher">Alameda County (California) Board of Education</field><field name="pub_place">Hayward, CA</field><field name="language">English</field><field name="call_number">656.1 .A31r</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Association of American Railroads (Washington DC)</field><field name="title">Teacher's manual : suggested study outlines and source material</field><field name="year">1954</field><field name="date">1954</field><field name="pages">50</field><field name="keywords">Railroads</field><field name="notes">ill. ; 27 cm.; Responsibility: Association of American Railroads.</field><field name="series_title">A study of railway transportation</field><field name="series_vol">1</field><field name="edition">6th</field><field name="publisher">Association of American Railroads</field><field name="pub_place">Washington, DC</field><field name="language">English</field><field name="call_number">656.1 .A84t
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Long Beach (California) Public Schools</field><field name="title">Water transportation : how changes in travel on water affect the way people live, a unit of work for sixth grade children</field><field name="year">1955</field><field name="date">1955</field><field name="pages">165</field><field name="keywords">Shipping</field><field name="notes">ill. ; 22 x 29 cm.; Note(s): Includes bibliographies.; Responsibility: prepared by Elizabeth Fleischer [and others] in cooperation with Neva Hagaman ; edited and published by Office of Curriculum Development, Division of Instruction.</field><field name="publisher">Long Beach (California) Public Schools</field><field name="pub_place">Long Beach, CA</field><field name="language">English</field><field name="call_number">656.3 .L84w</field><field name="state_country">California</field><field name="grade_level_number">6th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Long Beach (California) Unified School District</field><field name="title">Ships, harbor, and cargoes: a unit of work for third grade children</field><field name="year">1960</field><field name="date">1960</field><field name="pages">186</field><field name="keywords">Shipping</field><field name="keywords">Social sciences</field><field name="publisher">Long Beach (California) Unified School District</field><field name="pub_place">Long Beach, CA</field><field name="language">English</field><field name="call_number">656.3 .L84s</field><field name="state_country">California</field><field name="grade_level_number">3rd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Bernstein, Sandra</field><field name="author_nat">Sandra Bernstein</field><field name="title">Third grade: the freight train as a carrier</field><field name="pages">27</field><field name="keywords">Railroads</field><field name="publisher">University of California, Los Angeles</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">656.1 .C15f</field><field name="state_country">California</field><field name="grade_level_number">3rd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Seeds, Corinne A.</field><field name="author_nat">Corinne A. Seeds</field><field name="title">Trucks and their loads</field><field name="keywords">Trucking</field><field name="publisher">University of California, Los Angeles</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">656.1 .C15t</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">San Bernardino County (California) Superintendent of Schools</field><field name="title">Modern California approached through ships, harbors, and cargoes</field><field name="year">1960</field><field name="date">09/1960</field><field name="pages">263</field><field name="keywords">Shipping</field><field name="edition">Revised</field><field name="publisher">San Bernardino County (California) Superintendent of Schools</field><field name="pub_place">San Bernardino, CA</field><field name="language">English</field><field name="call_number">656.3 .S19m</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Boston (Massachusetts) School Committee</field><field name="title">Course of study in business education : bookkeeping, grades X, XI, XII</field><field name="year">1956</field><field name="date">1956</field><field name="pages">74</field><field name="keywords">Accounting</field><field name="keywords">Curricula</field><field name="series_title">Boston (Massachusetts) School Committee. School document</field><field name="series_vol">8</field><field name="publisher">Boston (Massachusetts) Public Schools</field><field name="pub_place">Boston, MA</field><field name="language">English</field><field name="call_number">657 .B74c</field><field name="state_country">Massachusetts</field><field name="grade_level_number">10th grade</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Cincinnati (Ohio) Public Schools</field><field name="title">Course of study in bookkeeping : grades eleven and twelve</field><field name="year">1948</field><field name="date">1948</field><field name="pages">94</field><field name="keywords">Accounting</field><field name="keywords">Curricula</field><field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field><field name="series_vol">220</field><field name="publisher">Cincinnati (Ohio) Public Schools</field><field name="pub_place">Cincinnati, OH</field><field name="language">English</field><field name="call_number">657 .C57c</field><field name="state_country">Ohio</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Louisville (Kentucky) Public Schools. Office of Curriculum</field><field name="title">Business education: bookkeeping I, bookkeeping II</field><field name="year">1962</field><field name="date">09/1962</field><field name="pages">102</field><field name="keywords">Accounting</field><field name="keywords">Curricula</field><field name="publisher">Louisville (Kentucky) Public Schools</field><field name="pub_place">Louisville, KY</field><field name="language">English</field><field name="call_number">657 .L88b</field><field name="state_country">Kentucky</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Brown, Dorothy L.</field><field name="author_nat">Dorothy L. Brown</field><field name="corp_author">Modesto (California) City Schools</field><field name="title">Bookkeeping I and II course of study</field><field name="year">1962</field><field name="date">1962</field><field name="pages">32</field><field name="keywords">Accounting</field><field name="keywords">Curricula</field><field name="publisher">Modesto (California) City Schools</field><field name="pub_place">Modesto, CA</field><field name="language">English</field><field name="call_number">657 .M69b</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">New York City Board of Education</field><field name="title">Bookkeeping for high schools; course of study and syllabus</field><field name="year">1958</field><field name="date">1958</field><field name="pages">111</field><field name="keywords">Accounting</field><field name="keywords">Curricula</field><field name="series_title">New York City Board of Education. Curriculum bulletin,; 1957-58 ser.</field><field name="series_vol">8</field><field name="publisher">New York City Board of Education</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">657 .N52b</field><field name="state_country">New York</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="title">Dictionary of bookkeeping and accounting terminology</field><field name="year">1947</field><field name="date">1947</field><field name="pages">31</field><field name="keywords">Accounting</field><field name="keywords">Dictionaries</field><field name="notes">31 p. ; 24 cm.; Note(s): "Based on 20th century bookkeeping and accounting."</field><field name="publisher">South-Western Publishing</field><field name="pub_place">Cincinnati, OH</field><field name="language">English</field><field name="call_number">657 .S72d
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Waco (Texas) Public Schools</field><field name="title">Guide for teaching bookkeeping I, first semester</field><field name="year">1949</field><field name="date">1949</field><field name="pages">10</field><field name="keywords">Accounting</field><field name="publisher">Waco (Texas) Public Schools</field><field name="pub_place">Waco, TX</field><field name="language">English</field><field name="call_number">657 .W11g</field><field name="state_country">Texas
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">California State Department of Education. Bureau of Business Education</field><field name="title">Application of mathematics to business in the secondary schools</field><field name="year">1960</field><field name="date">09/1960</field><field name="pages">93</field><field name="keywords">Business mathematics</field><field name="notes">93 l.; Note(s): Conducted under Title III, National Defense Education Act./ Includes bibliographical references.</field><field name="series_title">California State Department of Education. Business education publications</field><field name="series_vol">97</field><field name="publisher">California State Department of Education</field><field name="pub_place">Sacramento, CA</field><field name="language">English</field><field name="call_number">657.1 .C15a</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">New York City Board of Education</field><field name="title">Recordkeeping 1 and 2 for high schools</field><field name="year">1955</field><field name="date">1955</field><field name="pages">83</field><field name="keywords">Business records</field><field name="series_title">New York City Board of Education. Curriculum bulletin,; 1954-55 ser.</field><field name="series_vol">9</field><field name="publisher">New York City Board of Education</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">657 .N52r</field><field name="state_country">New York</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">University of the State of New York</field><field name="title">Tentative syllabus : bookkeeping 1 and bookkeeping 2</field><field name="year">1954</field><field name="date">1954</field><field name="pages">55</field><field name="keywords">Accounting</field><field name="publisher">University of the State of New York</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">657 .N53t</field><field name="state_country">New York
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Boston (Massachusetts) Public Schools. School Committee</field><field name="title">Course of study in distributive education, grades XI, XII</field><field name="year">1956</field><field name="date">1956</field><field name="pages">90</field><field name="keywords">Distributive education</field><field name="keywords">Curricula</field><field name="notes">ill. ; 23 cm.; Note(s): Bibliography: p. 71-90.</field><field name="series_title">Boston (Massachusetts) Public Schools. School Committee. School document</field><field name="series_vol">2</field><field name="publisher">Boston (Massachusetts) Public Schools. School Committee</field><field name="pub_place">Boston, MA</field><field name="language">English</field><field name="call_number">658 .B74c</field><field name="state_country">Massachusetts</field><field name="grade_level_number">11th grade</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">California State Department of Education. Division of Instruction</field><field name="title">Curriculum development in distributive education</field><field name="year">1961</field><field name="date">1961</field><field name="pages">33</field><field name="keywords">Distributive education</field><field name="keywords">Curricula</field><field name="publisher">California State Department of Education. Division of Instruction</field><field name="pub_place">Sacramento, CA</field><field name="language">English</field><field name="call_number">658 .C15c</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Chicago (Illinois) Public High Schools</field><field name="title">The distributie education program</field><field name="year">1956</field><field name="date">1956</field><field name="pages">47</field><field name="keywords">Distributive education</field><field name="publisher">Chicago (Illinois) Public High Schools</field><field name="pub_place">Chicago, IL</field><field name="language">English</field><field name="call_number">658 .C53d</field><field name="state_country">Illinois
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Amtsbuechler, Aaron</field><field name="author_nat">Aaron Amtsbuechler</field><field name="author">Seltzer, James</field><field name="author_nat">James Seltzer</field><field name="corp_author">Flint (Michigan) Public Schools. Business Education Department</field><field name="title">Suggested study guide for sales I, II, III, and IV</field><field name="year">1955</field><field name="date">09/1955</field><field name="keywords">Selling</field><field name="publisher">Flint (Michigan) Public Schools. Business Education Department</field><field name="pub_place">Flint, MI</field><field name="language">English</field><field name="call_number">659 .F62s</field><field name="state_country">Michigan
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Grand Rapids (Michigan) Public Schools</field><field name="title">Suggested study guide for business mathematics, grade nine</field><field name="year">1954</field><field name="date">1954</field><field name="pages">5</field><field name="keywords">Business mathematics</field><field name="publisher">Grand Rapids (Michigan) Public Schools</field><field name="pub_place">Grand Rapids, MI</field><field name="language">English</field><field name="call_number">657.1 .G71b</field><field name="state_country">Michigan</field><field name="grade_level_number">9th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Modesto (California) City Schools</field><field name="title">Business mathematics course of study</field><field name="year">1964</field><field name="date">1964</field><field name="pages">26</field><field name="keywords">Business mathematics</field><field name="publisher">Modesto (California) City Schools</field><field name="pub_place">Modesto, CA</field><field name="language">English</field><field name="call_number">657.1 .M69b</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">University of the State of New York</field><field name="title">Syllabus in business subjects : business arithmetic : 1943 reprint with minor revisions</field><field name="year">1952</field><field name="date">1952</field><field name="pages">17</field><field name="keywords">Business mathematics</field><field name="keywords">Curricula</field><field name="notes">3-17 p. ; 23 cm.; Note(s): Cover-title./ On p. [2] of cover: The University of the State of New York.</field><field name="publisher">University of the State of New York Press</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">657.1 .N53s</field><field name="state_country">New York
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">New York City Board of Education</field><field name="title">Course of study in distribution</field><field name="year">1955</field><field name="date">1955</field><field name="pages">42</field><field name="keywords">Distributive education</field><field name="series_title">New York City Board of Education. Curriculum bulletin, 1954-55 series</field><field name="series_vol">7</field><field name="publisher">New York City Board of Education</field><field name="pub_place">New York, NY</field><field name="language">English</field><field name="call_number">658 .N53c</field><field name="state_country">New York
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oklahoma City (Oklahoma) Public Schools</field><field name="title">Let's look at distributive education</field><field name="keywords">Distributive education</field><field name="publisher">Oklahoma City (Oklahoma) Public Schools</field><field name="pub_place">Oklahoma City, OK</field><field name="language">English</field><field name="call_number">658 .O41L</field><field name="state_country">Oklahoma
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pennsylvania State Department of Public Instruction</field><field name="title">DE: distributive education, a working manual</field><field name="year">1952</field><field name="date">1952</field><field name="pages">142</field><field name="keywords">Distributive education</field><field name="notes">xi; ges illustrations 28 cm; Note(s): Includes bibliographical references (pages 125-142).</field><field name="series_title">Pennsylvania State Department of Public Instruction. Bulletin</field><field name="series_vol">380</field><field name="publisher">Pennsylvania State Department of Public Instruction</field><field name="pub_place">Harrisburg, PA</field><field name="language">English</field><field name="call_number">658 .P41d</field><field name="state_country">Pennsylvania
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Sequoia Union High School District (Redwood City, California)</field><field name="title">Marketing course guide</field><field name="year">1967</field><field name="date">09/1967</field><field name="pages">17</field><field name="keywords">Marketing</field><field name="publisher">Sequoia Union High School District</field><field name="pub_place">Redwood City, CA</field><field name="language">English</field><field name="call_number">658 .S47m</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Fresno County (California) Schools</field><field name="title">Stores</field><field name="year">1953</field><field name="date">1953</field><field name="pages">24</field><field name="keywords">Marketing</field><field name="notes">Reprinted 1957.</field><field name="publisher">Fresno County (California) Schools</field><field name="pub_place">Fresno, CA</field><field name="language">English</field><field name="call_number">658.7 .F88s</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Monterey (California) Public Schools</field><field name="title">Instructional guide for a study of markets: retail and wholesale</field><field name="year">1959</field><field name="date">1959</field><field name="pages">22</field><field name="keywords">Marketing</field><field name="publisher">Monterey (California) Public Schools</field><field name="pub_place">Monterey, CA</field><field name="language">English</field><field name="call_number">658.7 .M75s</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Schools</field><field name="title">Salesmanship : instruction guide for senior high schools</field><field name="year">1966</field><field name="date">1966</field><field name="pages">105</field><field name="keywords">Distributive education</field><field name="notes">xi; ; 28 cm.; Note(s): Publication No. SC-609./ Includes bibliographical references.; Responsibility: Los Angeles City Schools, Division of Instructional Services.</field><field name="publisher">Los Angeles (California) City Schools</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">658 .L87s</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Fuller, Richard</field><field name="author_nat">Richard Fuller</field><field name="title">Curriculum guide for distributive education I, Minnetonka high school</field><field name="year">1969</field><field name="date">07/1969</field><field name="pages">47</field><field name="keywords">Distributive education</field><field name="publisher">Minnetonka (Minnesota) School District #276</field><field name="pub_place">Excelsior, MN</field><field name="language">English</field><field name="call_number">658 .M66c</field><field name="state_country">Minnesota</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field><field name="title">Food market, grade 2</field><field name="year">1953</field><field name="date">1953</field><field name="pages">5</field><field name="keywords">Marketing</field><field name="publisher">Pasadena (California) City Schools. Audio-Visual Service</field><field name="pub_place">Pasadena, CA</field><field name="language">English</field><field name="call_number">658.7 .P27f</field><field name="state_country">California</field><field name="grade_level_number">2nd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Brooks, Virginia</field><field name="author_nat">Virginia Brooks</field><field name="author">Green, Diane</field><field name="author_nat">Diane Green</field><field name="author">Hawes, Judith Payton</field><field name="author_nat">Judith Payton Hawes</field><field name="author">Kimball, Linda</field><field name="author_nat">Linda Kimball</field><field name="author">McDermott, Jean</field><field name="author_nat">Jean McDermott</field><field name="author">Lecrivain, Donna</field><field name="author_nat">Donna Lecrivain</field><field name="title">The retail market and where it gets its food, grade 2</field><field name="year">1962</field><field name="date">1962</field><field name="keywords">Food</field><field name="notes">"Winter quarter, 1962, Dr. Shaftel"</field><field name="publisher">Stanford University</field><field name="pub_place">Stanford, CA</field><field name="language">English</field><field name="call_number">658.7 .S78r</field><field name="state_country">California</field><field name="grade_level_number">2nd
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Cincinnati (Ohio) Public Schools</field><field name="title">Course of study in business law and business administration, grade 12</field><field name="year">1951</field><field name="date">1951</field><field name="pages">121</field><field name="keywords">Commercial law</field><field name="publisher">Cincinnati (Ohio) Public Schools</field><field name="pub_place">Cincinnati, OH</field><field name="language">English</field><field name="call_number">659 .C57c</field><field name="state_country">Ohio</field><field name="grade_level_number">12th
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Cleveland Heights (Ohio) Public Schools</field><field name="title">Senior high school tentative course of study: commercial law I &amp; II</field><field name="year">1953</field><field name="date">01/1953</field><field name="pages">19</field><field name="keywords">Commercial law</field><field name="publisher">Cleveland Heights (Ohio) Public Schools</field><field name="pub_place">Cleveland Heights, OH</field><field name="language">English</field><field name="call_number">659 .C63s</field><field name="state_country">Ohio</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory</field><field name="title">Course in Commercial Baking, part 1--an introduction to the trade</field><field name="year">1952</field><field name="date">1952</field><field name="pages">193</field><field name="keywords">Bakers and bakeries</field><field name="publisher">California State Department of Education</field><field name="pub_place">Sacramento, CA</field><field name="language">English</field><field name="call_number">664 .C15c v. 1</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory</field><field name="title">Tests to accompany Course in Commercial Baking. Uniform Title: Course in Commercial Baking</field><field name="year">1952</field><field name="date">1952</field><field name="pages">100</field><field name="keywords">Bakers and bakeries</field><field name="publisher">California State Department of Education</field><field name="pub_place">Sacramento, CA</field><field name="language">English</field><field name="call_number">664 .C15c v. 2</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Unified School District</field><field name="title">Business law : a course of study for senior high schools</field><field name="year">1967</field><field name="date">1967</field><field name="pages">38</field><field name="keywords">Commercial law</field><field name="publisher">Los Angeles (California) Unified School District</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">659 .L87b</field><field name="state_country">California</field><field name="grade_level_group">High school
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">University of the State of New York</field><field name="title">Business law syllabus</field><field name="year">1954</field><field name="date">1954</field><field name="pages">33</field><field name="keywords">Commercial law</field><field name="notes">33 p. 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographical references.</field><field name="edition">1954 revision</field><field name="publisher">University of New York Press</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">659 .N53b</field><field name="state_country">New York
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Seeds, Corinne A.</field><field name="author_nat">Corinne A. Seeds</field><field name="title">Petroleum</field><field name="keywords">Petroleum</field><field name="publisher">University of California, Los Angeles</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">665 .C15p</field><field name="state_country">California
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Sun Oil Company</field><field name="title">Oil in our community: the story of an industry's contributions to the people of the Delaware River Valley</field><field name="year">1959</field><field name="date">1959</field><field name="keywords">Petroleum</field><field name="publisher">Sun Oil Company</field><field name="pub_place">Philadelphia, PA</field><field name="language">English</field><field name="call_number">665 .P54o</field><field name="state_country">Pennsylvania
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Milwaukee (Wisconsin) Public Schools</field><field name="title">Science in Milwaukee secondary schools: aluminum, a resource unit</field><field name="year">1948</field><field name="date">1948</field><field name="pages">48</field><field name="keywords">Aluminum</field><field name="keywords">Science</field><field name="series_title">Milwaukee (Wisconsin) Public Schools. Curriculum bulletin</field><field name="series_vol">5</field><field name="issue">10</field><field name="publisher">Milwaukee (Wisconsin) Public Schools</field><field name="pub_place">Milwaukee, WI</field><field name="language">English</field><field name="call_number">669 .M65a</field><field name="state_country">Wisconsin
-</field></doc>
-
-<doc><field name="type">Book</field><field name="author">Ball, Charles E.</field><field name="author_nat">Charles E. Ball</field><field name="corp_author">University of the State of New York. Bureau of Industrial Arts Education</field><field name="title">Suggested related information for the textiles area : industrial arts general shop course</field><field name="year">1953</field><field name="date">04/1953</field><field name="pages">134</field><field name="keywords">Textile industry</field><field name="keywords">Industrial arts</field><field name="notes">vii; ill. ; 27 cm.; Responsibility: [prepared by Charles E. Ball].</field><field name="publisher">University of the State of New York, State Education Dept., Bureau of Industrial Arts Education, Bureau of Vocational Curriculum Development, cooperating</field><field name="pub_place">Albany, NY</field><field name="language">English</field><field name="call_number">677 .N53t</field><field name="state_country">New York
-</field></doc>
-
-<doc><field name="type">Book</field><field name="corp_author">Oakland (California) Public Schools</field><field name="title">How goods are produced and distributed in Oakland: suggestions for a unit of work, third grade</field><field name="year">1951</field><field name="date">07/1951</field><field name="pages">26</field><field name="keywords">Social sciences</field><field name="publisher">Oakland (California) Public Schools</field><field name="pub_place">Oakland, CA</field><field name="language">English</field><field name="call_number">677 .O11h</field><field name="state_country">California</field><field name="grade_level_number">3rd
-</field></doc>
+<add>
+
+
+
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+        <field name="title">Course in study of typewriting, grades 10 and 11</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">35</field>
+        <field name="keywords">Typewriting</field>
+        <field name="notes">iv; ill. ; 28 cm.; Note(s): Bibliography: p. 31-35.; Other Titles:
+            Course of study, typewriting I and II</field>
+        <field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">227</field>
+        <field name="publisher">Cincinnati (Ohio) Public Schools</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .C57c</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Clark County (Nevada) School District</field>
+        <field name="title">Typewriting</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">24</field>
+        <field name="keywords">Typewriting</field>
+        <field name="series_title">Clark County (Nevada) School District. Junior High School
+            Curriculum guide</field>
+        <field name="publisher">Clark County (Nevada) School District</field>
+        <field name="pub_place">Las Vegas, NV</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .C59j</field>
+        <field name="state_country">Nevada</field>
+        <field name="grade_level_group">Middle school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Colorado State Department of Education</field>
+        <field name="corp_author">Colorado Business Education Association. State Typewriting
+            Committee</field>
+        <field name="title">Teaching guide for first year typewriting in secondary schools</field>
+        <field name="year">1953</field>
+        <field name="date">08/1953</field>
+        <field name="pages">29</field>
+        <field name="keywords">Typewriting</field>
+        <field name="notes">29 p. ill. 28 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: prepared by State Typewriting Committee of Colorado Business Education
+            Association.</field>
+        <field name="publisher">Colorado State Department of Education</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .C71t</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Board of Education</field>
+        <field name="title">Course of study for typewriting, grades 10A through 12A</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">31</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">Detroit (Michigan) Board of Education</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .D48c</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Cohoe, Edith</field>
+        <field name="author_nat">Edith Cohoe</field>
+        <field name="corp_author">Detroit (Michigan) Board of Education</field>
+        <field name="title">Course of study in typewriting for sight-saving and Braille
+            classes</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">61</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">Detroit (Michigan) Board of Education</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="edition">Revised</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .D48cs</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno (California) City Unified School District</field>
+        <field name="title">Typewriting</field>
+        <field name="year">1957</field>
+        <field name="date">06/1957</field>
+        <field name="pages">11</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">Fresno (California) City Unified School District</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .F88t</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">State University of Iowa. Department of Office Management and
+            Business Education</field>
+        <field name="title">Topical bibliography on the teaching of typewriting</field>
+        <field name="date">1950s</field>
+        <field name="pages">9</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">State University of Iowa</field>
+        <field name="pub_place">Iowa City, IA</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .I64t</field>
+        <field name="state_country">Iowa</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="title">Typewriting : a course of study for junior and senior high
+            schools</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">120</field>
+        <field name="keywords">Typewriting</field>
+        <field name="notes">ill. ; 28 cm.; Responsibility: Los Angeles City Schools, Division of
+            Instructional Services.</field>
+        <field name="series_title">Los Angeles (California) City School District.Publication</field>
+        <field name="series_vol">SC-607</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .L87t</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Louisville (Kentucky) Public Schools</field>
+        <field name="title">Business education: typewriting I, typewriting II</field>
+        <field name="year">1962</field>
+        <field name="date">09/1962</field>
+        <field name="pages">78</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">Louisville (Kentucky) Public Schools</field>
+        <field name="pub_place">Louisville, KY</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .L88t</field>
+        <field name="state_country">Kentucky</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+        <field name="title">Typewriting 1 and 2</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">50</field>
+        <field name="keywords">Typewriting</field>
+        <field name="series_title">Minneapolis (Minnesota) Public Schools. Curriculum guide in
+            business education</field>
+        <field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+        <field name="pub_place">Minneapolis, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .M66t</field>
+        <field name="state_country">Minnesota</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Russell, Cicile</field>
+        <field name="author_nat">Cicile Russell</field>
+        <field name="author">Prutch, Eileen</field>
+        <field name="author_nat">Eileen Prutch</field>
+        <field name="author">King, Glee</field>
+        <field name="author_nat">Glee King</field>
+        <field name="author">Bracco, Loretta</field>
+        <field name="author_nat">Loretta Bracco</field>
+        <field name="title">Typing III: course of study</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">Modesto (California) Secondary Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .M69t</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Syllabus and teaching suggestions for courses in introductory
+            typewriting, typewriting I, personal typewriting</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">92</field>
+        <field name="keywords">Typewriting</field>
+        <field name="notes">92 p. illus. 22 cm.; Note(s): Bibliography: p. 36-37.</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .N53i</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Business
+            Education</field>
+        <field name="title">A guide for the teaching of shorthand and transcription</field>
+        <field name="year">1955</field>
+        <field name="date">01/1955</field>
+        <field name="pages">78</field>
+        <field name="keywords">Shorthand</field>
+        <field name="series_title">California State Department of Education. Business education
+            publication</field>
+        <field name="series_vol">73</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .C15g</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Nederland (Texas) Independent School District</field>
+        <field name="title">Typing for grades 9 through 12 : an approach to individualization of
+            instruction in Typing 12 [and] Typing 23 at Central Junior High School, C.O. Wilson
+            Junior High School, Nederland High School</field>
+        <field name="year">1966</field>
+        <field name="date">08/1966</field>
+        <field name="keywords">Typewriting</field>
+        <field name="keywords">Curriculum planning</field>
+        <field name="notes">19, 12 leaves ; 28 cm.; Note(s): Includes bibliographical references
+            (leaf 12).</field>
+        <field name="edition">Experimental ed., 1966</field>
+        <field name="publisher">Nederland (Texas) Independent School District</field>
+        <field name="pub_place">Nederland, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .N37t</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Typewriting for secondary schools : courses of study and syllabi for
+            junior and senior high schools</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">128</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .N53t</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Course of study: typing I, II, and III</field>
+        <field name="year">1951</field>
+        <field name="date">05/1951</field>
+        <field name="pages">32</field>
+        <field name="keywords">Typewriting</field>
+        <field name="series_title">Oakland (California) Public Schools. Bus. Ed. 1951-1</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .O11c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Board of Education. Business Education
+            Service</field>
+        <field name="title">Business education, pt. 2: Typewriting; suggested content, instructional
+            procedures and achievement goals for Virginia high schools</field>
+        <field name="year">1962</field>
+        <field name="date">03/1962</field>
+        <field name="keywords">Typewriting</field>
+        <field name="keywords">Business education</field>
+        <field name="notes">191 p. ill. 28 cm.; Note(s): On cover: Typewriting./ Revised edition of
+            State Board of Education Bulletin, v. 37, no. 6, 1954./ Bibliography: p. 187-189.;
+            Responsibility: Prepared by Business Education Service of the Division of Vocational
+            Education.</field>
+        <field name="series_title">Virginia State Board of Education. Bulletin</field>
+        <field name="series_vol">44</field>
+        <field name="issue">7</field>
+        <field name="publisher">Virginia State Board of Education</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .V81t</field>
+        <field name="state_country">Virginia</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Waco (Texas) Public Schools</field>
+        <field name="title">Guide for teaching typewriting II, first semester</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">6</field>
+        <field name="keywords">Typewriting</field>
+        <field name="publisher">Waco (Texas) Public Schools</field>
+        <field name="pub_place">Waco, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">652 .W11g</field>
+        <field name="state_country">Texas</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Board of Education. Division of Instruction.
+            Department of Business Education</field>
+        <field name="title">Course of study for Gregg shorthand simplified, semesters (1) through
+            (4)</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">60</field>
+        <field name="keywords">Shorthand</field>
+        <field name="series_title">Detroit (Michigan) Board of Education. Publication</field>
+        <field name="series_vol">362</field>
+        <field name="publisher">Detroit (Michigan) Board of Education</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .D48c</field>
+        <field name="state_country">Michigan</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno (California) City Unified School District</field>
+        <field name="title">Shorthand</field>
+        <field name="year">1957</field>
+        <field name="date">06/1957</field>
+        <field name="pages">6</field>
+        <field name="keywords">Shorthand</field>
+        <field name="publisher">Fresno (California) City Unified School District</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .F88s</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Long Beach (California) Unified School District</field>
+        <field name="title">Stenographic laboratory 1-2</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">44</field>
+        <field name="keywords">Shorthand</field>
+        <field name="notes">44 p. 28 cm.; Note(s): On cover: Guide for teaching stenographic
+            laboratory 1-2.; Other Titles: Guide for teaching stenographic laboratory 1-2</field>
+        <field name="publisher">Long Beach (California) Unified School District</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .L84s</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Advanced shorthand and transcription: an instructional guide, senior
+            high school</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">44</field>
+        <field name="keywords">Business education</field>
+        <field name="keywords">Shorthand</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-637</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .L87a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Whittall, Maco B.</field>
+        <field name="author_nat">Maco B. Whittall</field>
+        <field name="corp_author">Louisville (Kentucky) Public Schools. Office of Curriculum</field>
+        <field name="title">Business education: shorthand I-II transcription</field>
+        <field name="year">1962</field>
+        <field name="date">09/1962</field>
+        <field name="pages">86</field>
+        <field name="keywords">Business education</field>
+        <field name="keywords">Shorthand</field>
+        <field name="publisher">Louisville (Kentucky) Public Schools</field>
+        <field name="pub_place">Louisville, KY</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .L88s</field>
+        <field name="state_country">Kentucky</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Shorthand for high schools; course of study and syllabus</field>
+        <field name="year">1960</field>
+        <field name="date">1959-1960</field>
+        <field name="pages">93</field>
+        <field name="keywords">Shorthand</field>
+        <field name="notes">93 p. ill. 24 cm.; Genre/Form: Outlines, syllabi, etc.</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin, 1959-60
+            ser.</field>
+        <field name="series_vol">8</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .N53s</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Syllabus and teaching handbook for courses in shorthand 1, shorthand 2,
+            transcription, personal-use shorthand</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">129</field>
+        <field name="keywords">Shorthand</field>
+        <field name="notes">viii; illus. 22 cm.; Note(s): Bibliographical footnotes.</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .N53s 1967</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Tentative course of study: shorthand I, II, III, IV</field>
+        <field name="year">1952</field>
+        <field name="date">06/1952</field>
+        <field name="pages">15</field>
+        <field name="keywords">Shorthand</field>
+        <field name="notes">SB Bus. Ed. 1952-1</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .O11t</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sequoia Union High School District (Redwood City,
+            California)</field>
+        <field name="title">Shorthand I and II course guide</field>
+        <field name="year">1968</field>
+        <field name="date">06/1968</field>
+        <field name="pages">35</field>
+        <field name="keywords">Shorthand</field>
+        <field name="publisher">Sequoia Union High School District</field>
+        <field name="pub_place">Redwood City, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .S47s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Adult Education Association. Council of National
+            Organizations</field>
+        <field name="title">Ten checkpoints for better booklets</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="keywords">Report writing</field>
+        <field name="keywords">Authorship</field>
+        <field name="notes">ill., graphs ; 28 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s):
+            Cover title./ Includes bibliographical references (p. [27]).; Responsibility: Council of
+            National Organizations of the Adult Education Association of the U.S.A.</field>
+        <field name="publisher">Adult Education Association. Council of National
+            Organizations</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">654 .C85t</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Board of Education</field>
+        <field name="title">State course of study, business education. Part IV,
+            Shorthand-transcription</field>
+        <field name="year">1956</field>
+        <field name="date">06/1956</field>
+        <field name="pages">43</field>
+        <field name="keywords">Shorthand</field>
+        <field name="publisher">Virginia State Board of Education</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .V81b</field>
+        <field name="state_country">Virginia</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Board of Education. Division of Vocational
+            Education</field>
+        <field name="title">Business education, pt. 4: Shorthand-transcription; suggested content,
+            instructional procedures and achievement goals for Virginia high schools</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">44</field>
+        <field name="keywords">Shorthand</field>
+        <field name="notes">44 p. diagrs. 28 cm.; Note(s): Includes bibliographies.; Responsibility:
+            Prepared by Business Education Service.</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Virginia State Board of Education</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">653 .V81s</field>
+        <field name="state_country">Virginia</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chula Vista (California) City School District</field>
+        <field name="title">How people meet their needs for communication, a social studies unit for
+            the third grade, work draft</field>
+        <field name="year">1967</field>
+        <field name="date">03/1967</field>
+        <field name="pages">204</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Communication</field>
+        <field name="notes">204 p. ill. 22 x 29 cm.; Note(s): Bibliography: p. 151-159.</field>
+        <field name="publisher">Chula Vista (California) City School District</field>
+        <field name="pub_place">Chula Vista, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .C55h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
+            Department</field>
+        <field name="title">Graphic arts course of study, junior high school, ninth grade</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="keywords">Printing</field>
+        <field name="keywords">Bookbinding</field>
+        <field name="keywords">Linoleum block-printing</field>
+        <field name="keywords">Serigraphy</field>
+        <field name="keywords">Paper</field>
+        <field name="abstract">Unit 1. Typesetting -- Unit 2. Linoleum block work -- Unit 3. Silk
+            screen process -- Unit 4. Bookbinding -- Unit 5. Presswork -- Unit 6.
+            Enrichment.</field>
+        <field name="notes">6 v. : ill. ; 29 cm.; Note(s): Cover title.</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .C63g v. 1-6</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">9th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools</field>
+        <field name="corp_author">Cosmopolitan Senior High School</field>
+        <field name="title">Teacher's guide for graphic arts</field>
+        <field name="keywords">Graphic arts</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .C63t</field>
+        <field name="state_country">Ohio</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Instructional guide for graphic arts</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="keywords">Graphic arts</field>
+        <field name="abstract">[v.1] Junior high school industrial arts.--[v.2] Senior high school
+            industrial arts</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-533</field>
+        <field name="series_vol">SC-618</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .L87i v. 1-2</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Communications industries: telephone, newspaper, radio,
+            television</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">72</field>
+        <field name="keywords">Communication</field>
+        <field name="keywords">Telephone</field>
+        <field name="keywords">Radio</field>
+        <field name="keywords">Television</field>
+        <field name="keywords">Newspapers</field>
+        <field name="notes">72 p. ill. 23 cm.; Note(s): Grade 3.; Responsibility: Pupil material,
+            social studies, grade three.</field>
+        <field name="series_title">Los Angeles (California) City Schools. Division of Instructional
+            Services. Publication</field>
+        <field name="series_vol">EC-209, tentative</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .L87c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rattenbury, Harold L.</field>
+        <field name="author_nat">Harold L. Rattenbury</field>
+        <field name="author">Soafer, Raymond J.</field>
+        <field name="author_nat">Raymond J. Soafer</field>
+        <field name="author">Tardy, Gene L.</field>
+        <field name="author_nat">Gene L. Tardy</field>
+        <field name="corp_author">Long Beach (California) City Schools</field>
+        <field name="title">Industrial education course outline : graphic arts 5-6 (printing),
+            occupational</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">29</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Graphic arts</field>
+        <field name="keywords">Printing</field>
+        <field name="notes">29 p. ; 28 cm.; Responsibility: prepared by Harold L. Rattenbury,
+            Raymond J. Soafer, Gene L. Tardy.</field>
+        <field name="publisher">Long Beach (California) City Schools</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .L84g</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Business English, an instructional guide</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">200</field>
+        <field name="keywords">Business English</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-603</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">654 .L87b</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Sonntag,Joyce Hagen</field>
+        <field name="author_nat"/>
+        <field name="corp_author">California State Department of Education. Division of Special
+            Education</field>
+        <field name="title">Communication skills, curriculum guide for teaching gifted students
+            communication skills in grades four through twelve</field>
+        <field name="year">1973</field>
+        <field name="date">1973</field>
+        <field name="pages">51</field>
+        <field name="keywords">Communication</field>
+        <field name="keywords">Gifted children</field>
+        <field name="notes">51 p.; Note(s): Bibliography: p. 49-51.; Responsibility: Prepared for
+            the Division of Special Education, California State Dept. of Education.</field>
+        <field name="publisher">California State Department of Education. Division of Special
+            Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .C16c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Reynolds, Robert</field>
+        <field name="author_nat">Robert Reynolds</field>
+        <field name="title">Sixth grade: the history of records</field>
+        <field name="pages">41</field>
+        <field name="keywords">Communication</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .C15h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+        <field name="title">A guide to teaching graphic arts, grade 7-grade 12</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">52</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Graphic arts</field>
+        <field name="series_title">Industrial arts in the Minneapolis public schools.</field>
+        <field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+        <field name="pub_place">Minneapolis, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .M66g</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Graphic arts shop teacher's work manual, based on the course of study in
+            industrial arts, grades 7, 8, 9</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">77</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Graphic arts</field>
+        <field name="notes">77 p. ill. 29 cm.; Note(s): Includes bibliographical references.</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin,; 1952-53
+            ser.</field>
+        <field name="series_vol">10</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .N52g</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="title">Industrial arts syllabus in general printing</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">87</field>
+        <field name="keywords">Printing</field>
+        <field name="notes">87 p. illus. 23cm.; Genre/Form: Outlines, syllabi, etc.; Note(s):
+            Includes bibliography.</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .N53gp</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Martin, Clarence A.</field>
+        <field name="author_nat">Clarence A. Martin</field>
+        <field name="author">Lamont, Arnold H.</field>
+        <field name="author_nat">Arnold H. Lamont</field>
+        <field name="corp_author">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="title">Suggested related information for the printing area, industrial arts
+            comprehensive general shop course</field>
+        <field name="year">1952</field>
+        <field name="date">02/1952</field>
+        <field name="pages">134</field>
+        <field name="keywords">Printing</field>
+        <field name="publisher">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .N53p</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">How communication has changed our way of living: suggestions for a unit
+            of work, sixth grade</field>
+        <field name="year">1951</field>
+        <field name="date">07/1951</field>
+        <field name="pages">27</field>
+        <field name="keywords">Communication</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .O11h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="title">Communications, grade 6</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">10</field>
+        <field name="keywords">Communication</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .P27c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Lakewood (Ohio) Public Schools</field>
+        <field name="title">Transportation unit, primary level</field>
+        <field name="year">1953</field>
+        <field name="date">Fall, 1953</field>
+        <field name="pages">31</field>
+        <field name="keywords">Transportation</field>
+        <field name="edition">Rev</field>
+        <field name="publisher">Lakewood (Ohio) Public Schools</field>
+        <field name="pub_place">Lakewood, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">656 .L19t</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Elementary</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Monterey (California) Elementary Schools</field>
+        <field name="title">Instructional guide for a study of transportation, social studies -
+            grade two</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="keywords">Transportation</field>
+        <field name="publisher">Monterey (California) Public Schools</field>
+        <field name="pub_place">Monterey, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656 .M75s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Science: grades K-6: 6. Motion and force in transportation</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">101</field>
+        <field name="keywords">Science</field>
+        <field name="keywords">Transportation</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin, 1958-59
+            series</field>
+        <field name="series_vol">2f</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">656 .N53m</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+        <field name="title">Graphic arts as an area of industrial arts instruction in Pennsylvania
+            public schools</field>
+        <field name="year">1952</field>
+        <field name="date">11/1952</field>
+        <field name="pages">54</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Graphic arts</field>
+        <field name="series_title">Pennsylvania State Department of Public Instruction.
+            Bulletin</field>
+        <field name="series_vol">331D</field>
+        <field name="publisher">Pennsylvania State Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .P41g</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Goldman, Samuel N.</field>
+        <field name="author_nat">Samuel N. Goldman</field>
+        <field name="title">American mass communication media: newspapers, magazines, radio,
+            television, motion pictures</field>
+        <field name="year">1963</field>
+        <field name="date">08/1963</field>
+        <field name="keywords">Mass media</field>
+        <field name="notes">"A project submitted in partial fulfillment for the course of Education
+            396 - Recent Developments in Secondary School Social Studies, August 7, 1963, [for] Dr.
+            Richard E. Gross"</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .S78a</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Merwin, Janice</field>
+        <field name="author_nat">Janice Merwin</field>
+        <field name="author">Margali, Diane</field>
+        <field name="author_nat">Diane Margali</field>
+        <field name="title">The mass media--miracle or menace? What do you think?</field>
+        <field name="pages">42</field>
+        <field name="keywords">Mass media</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .S78m</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Problem: how do our neighborhood helpers carry messages?
+            (Communications): a teaching unit for primary grades</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="keywords">Communication</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">655 .W24h</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_group">Elementary</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Atchison (Kansas) Schools</field>
+        <field name="title">What do we need to know to travel? (a primary resource guide)</field>
+        <field name="pages">20</field>
+        <field name="keywords">Transportation</field>
+        <field name="publisher">Atchison (Kansas) Schools</field>
+        <field name="pub_place">Atchison, KS</field>
+        <field name="language">English</field>
+        <field name="call_number">656 .A86w</field>
+        <field name="state_country">Kansas</field>
+        <field name="grade_level_group">Elementary</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brown, Cynthiana</field>
+        <field name="author_nat">Cynthiana Brown</field>
+        <field name="title">First grade: community living through means of transportation</field>
+        <field name="pages">61</field>
+        <field name="keywords">Transportation</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656 .C15c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools</field>
+        <field name="title">Transportation in the immediate community, grade 1</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">5</field>
+        <field name="keywords">Transportation</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656 .P27t</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Problem: how do our neighborhood helpers work to take us places?
+            (Transportation) - a teaching unit for primary grades</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">15</field>
+        <field name="keywords">Transportation</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">656 .W24h</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_group">Elementary</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alameda County (California) Superintendent of Schools</field>
+        <field name="title">Railroads in Alameda County : teacher resource material</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">47</field>
+        <field name="keywords">Railroads</field>
+        <field name="notes">ill. (some col.), map ; 28 cm.; References: Rocq; 65; Note(s): Includes
+            bibliographical references (p. 45).; Responsibility: Alameda County Superintendent of
+            Schools.</field>
+        <field name="publisher">Alameda County (California) Board of Education</field>
+        <field name="pub_place">Hayward, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656.1 .A31r</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Association of American Railroads (Washington DC)</field>
+        <field name="title">Teacher's manual : suggested study outlines and source material</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">50</field>
+        <field name="keywords">Railroads</field>
+        <field name="notes">ill. ; 27 cm.; Responsibility: Association of American
+            Railroads.</field>
+        <field name="series_title">A study of railway transportation</field>
+        <field name="series_vol">1</field>
+        <field name="edition">6th</field>
+        <field name="publisher">Association of American Railroads</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">656.1 .A84t</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Long Beach (California) Public Schools</field>
+        <field name="title">Water transportation : how changes in travel on water affect the way
+            people live, a unit of work for sixth grade children</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">165</field>
+        <field name="keywords">Shipping</field>
+        <field name="notes">ill. ; 22 x 29 cm.; Note(s): Includes bibliographies.; Responsibility:
+            prepared by Elizabeth Fleischer [and others] in cooperation with Neva Hagaman ; edited
+            and published by Office of Curriculum Development, Division of Instruction.</field>
+        <field name="publisher">Long Beach (California) Public Schools</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656.3 .L84w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Long Beach (California) Unified School District</field>
+        <field name="title">Ships, harbor, and cargoes: a unit of work for third grade
+            children</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">186</field>
+        <field name="keywords">Shipping</field>
+        <field name="keywords">Social sciences</field>
+        <field name="publisher">Long Beach (California) Unified School District</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656.3 .L84s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bernstein, Sandra</field>
+        <field name="author_nat">Sandra Bernstein</field>
+        <field name="title">Third grade: the freight train as a carrier</field>
+        <field name="pages">27</field>
+        <field name="keywords">Railroads</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656.1 .C15f</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Seeds, Corinne A.</field>
+        <field name="author_nat">Corinne A. Seeds</field>
+        <field name="title">Trucks and their loads</field>
+        <field name="keywords">Trucking</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656.1 .C15t</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Bernardino County (California) Superintendent of
+            Schools</field>
+        <field name="title">Modern California approached through ships, harbors, and cargoes</field>
+        <field name="year">1960</field>
+        <field name="date">09/1960</field>
+        <field name="pages">263</field>
+        <field name="keywords">Shipping</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">San Bernardino County (California) Superintendent of Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">656.3 .S19m</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Boston (Massachusetts) School Committee</field>
+        <field name="title">Course of study in business education : bookkeeping, grades X, XI,
+            XII</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">74</field>
+        <field name="keywords">Accounting</field>
+        <field name="keywords">Curricula</field>
+        <field name="series_title">Boston (Massachusetts) School Committee. School document</field>
+        <field name="series_vol">8</field>
+        <field name="publisher">Boston (Massachusetts) Public Schools</field>
+        <field name="pub_place">Boston, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .B74c</field>
+        <field name="state_country">Massachusetts</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+        <field name="title">Course of study in bookkeeping : grades eleven and twelve</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">94</field>
+        <field name="keywords">Accounting</field>
+        <field name="keywords">Curricula</field>
+        <field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">220</field>
+        <field name="publisher">Cincinnati (Ohio) Public Schools</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .C57c</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Louisville (Kentucky) Public Schools. Office of Curriculum</field>
+        <field name="title">Business education: bookkeeping I, bookkeeping II</field>
+        <field name="year">1962</field>
+        <field name="date">09/1962</field>
+        <field name="pages">102</field>
+        <field name="keywords">Accounting</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">Louisville (Kentucky) Public Schools</field>
+        <field name="pub_place">Louisville, KY</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .L88b</field>
+        <field name="state_country">Kentucky</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brown, Dorothy L.</field>
+        <field name="author_nat">Dorothy L. Brown</field>
+        <field name="corp_author">Modesto (California) City Schools</field>
+        <field name="title">Bookkeeping I and II course of study</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">32</field>
+        <field name="keywords">Accounting</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">Modesto (California) City Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .M69b</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Bookkeeping for high schools; course of study and syllabus</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">111</field>
+        <field name="keywords">Accounting</field>
+        <field name="keywords">Curricula</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin,; 1957-58
+            ser.</field>
+        <field name="series_vol">8</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .N52b</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="title">Dictionary of bookkeeping and accounting terminology</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="pages">31</field>
+        <field name="keywords">Accounting</field>
+        <field name="keywords">Dictionaries</field>
+        <field name="notes">31 p. ; 24 cm.; Note(s): "Based on 20th century bookkeeping and
+            accounting."</field>
+        <field name="publisher">South-Western Publishing</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .S72d</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Waco (Texas) Public Schools</field>
+        <field name="title">Guide for teaching bookkeeping I, first semester</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">10</field>
+        <field name="keywords">Accounting</field>
+        <field name="publisher">Waco (Texas) Public Schools</field>
+        <field name="pub_place">Waco, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .W11g</field>
+        <field name="state_country">Texas</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Business
+            Education</field>
+        <field name="title">Application of mathematics to business in the secondary schools</field>
+        <field name="year">1960</field>
+        <field name="date">09/1960</field>
+        <field name="pages">93</field>
+        <field name="keywords">Business mathematics</field>
+        <field name="notes">93 l.; Note(s): Conducted under Title III, National Defense Education
+            Act./ Includes bibliographical references.</field>
+        <field name="series_title">California State Department of Education. Business education
+            publications</field>
+        <field name="series_vol">97</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">657.1 .C15a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Recordkeeping 1 and 2 for high schools</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">83</field>
+        <field name="keywords">Business records</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin,; 1954-55
+            ser.</field>
+        <field name="series_vol">9</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .N52r</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="title">Tentative syllabus : bookkeeping 1 and bookkeeping 2</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">55</field>
+        <field name="keywords">Accounting</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">657 .N53t</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Boston (Massachusetts) Public Schools. School Committee</field>
+        <field name="title">Course of study in distributive education, grades XI, XII</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">90</field>
+        <field name="keywords">Distributive education</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): Bibliography: p. 71-90.</field>
+        <field name="series_title">Boston (Massachusetts) Public Schools. School Committee. School
+            document</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">Boston (Massachusetts) Public Schools. School Committee</field>
+        <field name="pub_place">Boston, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .B74c</field>
+        <field name="state_country">Massachusetts</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Division of
+            Instruction</field>
+        <field name="title">Curriculum development in distributive education</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">33</field>
+        <field name="keywords">Distributive education</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">California State Department of Education. Division of
+            Instruction</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .C15c</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chicago (Illinois) Public High Schools</field>
+        <field name="title">The distributie education program</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">47</field>
+        <field name="keywords">Distributive education</field>
+        <field name="publisher">Chicago (Illinois) Public High Schools</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .C53d</field>
+        <field name="state_country">Illinois</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Amtsbuechler, Aaron</field>
+        <field name="author_nat">Aaron Amtsbuechler</field>
+        <field name="author">Seltzer, James</field>
+        <field name="author_nat">James Seltzer</field>
+        <field name="corp_author">Flint (Michigan) Public Schools. Business Education
+            Department</field>
+        <field name="title">Suggested study guide for sales I, II, III, and IV</field>
+        <field name="year">1955</field>
+        <field name="date">09/1955</field>
+        <field name="keywords">Selling</field>
+        <field name="publisher">Flint (Michigan) Public Schools. Business Education
+            Department</field>
+        <field name="pub_place">Flint, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">659 .F62s</field>
+        <field name="state_country">Michigan</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Grand Rapids (Michigan) Public Schools</field>
+        <field name="title">Suggested study guide for business mathematics, grade nine</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">5</field>
+        <field name="keywords">Business mathematics</field>
+        <field name="publisher">Grand Rapids (Michigan) Public Schools</field>
+        <field name="pub_place">Grand Rapids, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">657.1 .G71b</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">9th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Modesto (California) City Schools</field>
+        <field name="title">Business mathematics course of study</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">26</field>
+        <field name="keywords">Business mathematics</field>
+        <field name="publisher">Modesto (California) City Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">657.1 .M69b</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="title">Syllabus in business subjects : business arithmetic : 1943 reprint with
+            minor revisions</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">17</field>
+        <field name="keywords">Business mathematics</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">3-17 p. ; 23 cm.; Note(s): Cover-title./ On p. [2] of cover: The
+            University of the State of New York.</field>
+        <field name="publisher">University of the State of New York Press</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">657.1 .N53s</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Course of study in distribution</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">42</field>
+        <field name="keywords">Distributive education</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin, 1954-55
+            series</field>
+        <field name="series_vol">7</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .N53c</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oklahoma City (Oklahoma) Public Schools</field>
+        <field name="title">Let's look at distributive education</field>
+        <field name="keywords">Distributive education</field>
+        <field name="publisher">Oklahoma City (Oklahoma) Public Schools</field>
+        <field name="pub_place">Oklahoma City, OK</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .O41L</field>
+        <field name="state_country">Oklahoma</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+        <field name="title">DE: distributive education, a working manual</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">142</field>
+        <field name="keywords">Distributive education</field>
+        <field name="notes">xi; ges illustrations 28 cm; Note(s): Includes bibliographical
+            references (pages 125-142).</field>
+        <field name="series_title">Pennsylvania State Department of Public Instruction.
+            Bulletin</field>
+        <field name="series_vol">380</field>
+        <field name="publisher">Pennsylvania State Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .P41d</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sequoia Union High School District (Redwood City,
+            California)</field>
+        <field name="title">Marketing course guide</field>
+        <field name="year">1967</field>
+        <field name="date">09/1967</field>
+        <field name="pages">17</field>
+        <field name="keywords">Marketing</field>
+        <field name="publisher">Sequoia Union High School District</field>
+        <field name="pub_place">Redwood City, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .S47m</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno County (California) Schools</field>
+        <field name="title">Stores</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">24</field>
+        <field name="keywords">Marketing</field>
+        <field name="notes">Reprinted 1957.</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">658.7 .F88s</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Monterey (California) Public Schools</field>
+        <field name="title">Instructional guide for a study of markets: retail and wholesale</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">22</field>
+        <field name="keywords">Marketing</field>
+        <field name="publisher">Monterey (California) Public Schools</field>
+        <field name="pub_place">Monterey, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">658.7 .M75s</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City Schools</field>
+        <field name="title">Salesmanship : instruction guide for senior high schools</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">105</field>
+        <field name="keywords">Distributive education</field>
+        <field name="notes">xi; ; 28 cm.; Note(s): Publication No. SC-609./ Includes bibliographical
+            references.; Responsibility: Los Angeles City Schools, Division of Instructional
+            Services.</field>
+        <field name="publisher">Los Angeles (California) City Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .L87s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Fuller, Richard</field>
+        <field name="author_nat">Richard Fuller</field>
+        <field name="title">Curriculum guide for distributive education I, Minnetonka high
+            school</field>
+        <field name="year">1969</field>
+        <field name="date">07/1969</field>
+        <field name="pages">47</field>
+        <field name="keywords">Distributive education</field>
+        <field name="publisher">Minnetonka (Minnesota) School District #276</field>
+        <field name="pub_place">Excelsior, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">658 .M66c</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="title">Food market, grade 2</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">5</field>
+        <field name="keywords">Marketing</field>
+        <field name="publisher">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">658.7 .P27f</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brooks, Virginia</field>
+        <field name="author_nat">Virginia Brooks</field>
+        <field name="author">Green, Diane</field>
+        <field name="author_nat">Diane Green</field>
+        <field name="author">Hawes, Judith Payton</field>
+        <field name="author_nat">Judith Payton Hawes</field>
+        <field name="author">Kimball, Linda</field>
+        <field name="author_nat">Linda Kimball</field>
+        <field name="author">McDermott, Jean</field>
+        <field name="author_nat">Jean McDermott</field>
+        <field name="author">Lecrivain, Donna</field>
+        <field name="author_nat">Donna Lecrivain</field>
+        <field name="title">The retail market and where it gets its food, grade 2</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="keywords">Food</field>
+        <field name="notes">"Winter quarter, 1962, Dr. Shaftel"</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">658.7 .S78r</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+        <field name="title">Course of study in business law and business administration, grade
+            12</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">121</field>
+        <field name="keywords">Commercial law</field>
+        <field name="publisher">Cincinnati (Ohio) Public Schools</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">659 .C57c</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">12th</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="title">Senior high school tentative course of study: commercial law I &amp;
+            II</field>
+        <field name="year">1953</field>
+        <field name="date">01/1953</field>
+        <field name="pages">19</field>
+        <field name="keywords">Commercial law</field>
+        <field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland Heights, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">659 .C63s</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in Commercial Baking, part 1--an introduction to the
+            trade</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">193</field>
+        <field name="keywords">Bakers and bakeries</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">664 .C15c v. 1</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in Commercial Baking. Uniform Title: Course in
+            Commercial Baking</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">100</field>
+        <field name="keywords">Bakers and bakeries</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">664 .C15c v. 2</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) Unified School District</field>
+        <field name="title">Business law : a course of study for senior high schools</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">38</field>
+        <field name="keywords">Commercial law</field>
+        <field name="publisher">Los Angeles (California) Unified School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">659 .L87b</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="title">Business law syllabus</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">33</field>
+        <field name="keywords">Commercial law</field>
+        <field name="notes">33 p. 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes
+            bibliographical references.</field>
+        <field name="edition">1954 revision</field>
+        <field name="publisher">University of New York Press</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">659 .N53b</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Seeds, Corinne A.</field>
+        <field name="author_nat">Corinne A. Seeds</field>
+        <field name="title">Petroleum</field>
+        <field name="keywords">Petroleum</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">665 .C15p</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sun Oil Company</field>
+        <field name="title">Oil in our community: the story of an industry's contributions to the
+            people of the Delaware River Valley</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="keywords">Petroleum</field>
+        <field name="publisher">Sun Oil Company</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">665 .P54o</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Milwaukee (Wisconsin) Public Schools</field>
+        <field name="title">Science in Milwaukee secondary schools: aluminum, a resource
+            unit</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">48</field>
+        <field name="keywords">Aluminum</field>
+        <field name="keywords">Science</field>
+        <field name="series_title">Milwaukee (Wisconsin) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">5</field>
+        <field name="issue">10</field>
+        <field name="publisher">Milwaukee (Wisconsin) Public Schools</field>
+        <field name="pub_place">Milwaukee, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">669 .M65a</field>
+        <field name="state_country">Wisconsin</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ball, Charles E.</field>
+        <field name="author_nat">Charles E. Ball</field>
+        <field name="corp_author">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="title">Suggested related information for the textiles area : industrial arts
+            general shop course</field>
+        <field name="year">1953</field>
+        <field name="date">04/1953</field>
+        <field name="pages">134</field>
+        <field name="keywords">Textile industry</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="notes">vii; ill. ; 27 cm.; Responsibility: [prepared by Charles E.
+            Ball].</field>
+        <field name="publisher">University of the State of New York, State Education Dept., Bureau
+            of Industrial Arts Education, Bureau of Vocational Curriculum Development,
+            cooperating</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">677 .N53t</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">How goods are produced and distributed in Oakland: suggestions for a
+            unit of work, third grade</field>
+        <field name="year">1951</field>
+        <field name="date">07/1951</field>
+        <field name="pages">26</field>
+        <field name="keywords">Social sciences</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">677 .O11h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd</field>
+   </doc>
 </add>
