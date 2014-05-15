@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
+            Department</field>
+        <field name="title">Course of study in mechanical drawing</field>
+        <field name="pages">11</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Industrial Arts Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .C63c</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
+            Department</field>
+        <field name="title">Junior high school general drawing</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Industrial Arts Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .C63g v. 1</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Middle school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
+            Department</field>
+        <field name="title">Course of study : general drawing, book II.</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">103</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="notes">103 pages : illustrations ; 28 cm; Responsibility: M.C. Shinnerer,
+            Superintendent of schools.</field>
+        <field name="publisher">Cleveland (Ohio) Board of Education</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .C63g v. 2</field>
+        <field name="state_country">Ohio</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="title">Senior high school tentative course of study: mechanical drawing I and
+            II</field>
+        <field name="year">1948</field>
+        <field name="date">09/1948</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland Heights, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .C635s</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Public Schools</field>
+        <field name="title">General drafting lessons for beginners: book one</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">128</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
+        <field name="series_vol">206</field>
+        <field name="publisher">Detroit (Michigan) Public Schools</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .D48d v. 1</field>
+        <field name="state_country">Michigan</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Public Schools</field>
+        <field name="title">General drafting lessons for beginners: book two</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">96</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
+        <field name="series_vol">222</field>
+        <field name="publisher">Detroit (Michigan) Public Schools</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .D48d v. 2</field>
+        <field name="state_country">Michigan</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Public Schools</field>
+        <field name="title">Drafting lessons: book three</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">89</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
+        <field name="series_vol">276</field>
+        <field name="publisher">Detroit (Michigan) Public Schools</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .D48d v. 3</field>
+        <field name="state_country">Michigan</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Public Schools</field>
+        <field name="title">Drafting lessons: book four for high schools</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">42</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
+        <field name="series_vol">146</field>
+        <field name="publisher">Detroit (Michigan) Public Schools</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .D48d v. 4</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School Districts</field>
+        <field name="title">Junior high school industrial drawing</field>
+        <field name="year">1952</field>
+        <field name="date">04/1952</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="publisher">Los Angeles (California) City School Districts</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .L87i</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School Districts</field>
+        <field name="title">Instructional guide for industrial drafting, technical drafting,
+            architectural drafting</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="series_title">Los Angeles (California) City School Districts.
+            Publication</field>
+        <field name="series_vol">SC-602</field>
+        <field name="publisher">Los Angeles (California) City School Districts</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .L87i 1963</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+        <field name="title">Junior high school handbook : mechanical drawing, sketching, blueprint
+            reading</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">73</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+        <field name="pub_place">Minneapolis, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .M66j</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_group">Middle school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Mikulsky, Marilyn</field>
+        <field name="author_nat">Marilyn Mikulsky</field>
+        <field name="author">McEnaney, Walter K.</field>
+        <field name="author_nat">Walter K. McEnaney</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="corp_author">New York (State) Bureau of Secondary Curriculum
+            Development</field>
+        <field name="title">Mechanical drawing and design</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">36</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="notes">iv; illus. 22 x 28 cm.; Genre/Form: Outlines, syllabi, etc.;
+            Responsibility: [by Marilyn Mikulsky and Walter K. McEnaney]</field>
+        <field name="publisher">University of the State of New York, Bureau of Secondary Curriculum
+            Development</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .N53m</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York (State) Bureau of Secondary Curriculum
+            Development</field>
+        <field name="title">Creative mechanical drawing</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">64</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="notes">64 p. illus. 28 cm.</field>
+        <field name="publisher">New York (State) Bureau of Secondary Curriculum Development</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .N53c</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York (State) Bureau of Vocational Curriculum Development and
+            Industrial Teacher Training</field>
+        <field name="title">Blueprint reading and sketching. [Teacher's manual]</field>
+        <field name="year">1952</field>
+        <field name="date">05/1952</field>
+        <field name="pages">81</field>
+        <field name="keywords">Blueprints</field>
+        <field name="notes">81 p. illus. 27 cm.</field>
+        <field name="publisher">New York (State) Bureau of Vocational Curriculum Development and
+            Industrial Teacher Training</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .N53b</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Course outline for drafting I, grades 9-12</field>
+        <field name="year">1966</field>
+        <field name="date">06/1966</field>
+        <field name="pages">6</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="series_title">Oakland (California) Public Schools. Ind. arts; 1966-1</field>
+        <field name="edition">Rev. ed.</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .O11c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sheboygan (Wisconsin) Public Schools</field>
+        <field name="title">Short course in shop drawing</field>
+        <field name="year">1958</field>
+        <field name="date">04/1958</field>
+        <field name="pages">15</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="publisher">Sheboygan (Wisconsin) Public Schools</field>
+        <field name="pub_place">Sheboygan, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .S53s</field>
+        <field name="state_country">Wisconsin</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="title">Course in automobile-body repair; a workbook for apprentices in the
+            automobile-body repair trade</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">207</field>
+        <field name="keywords">Automobile body repair and painting</field>
+        <field name="notes">207 p. ill.; Responsibility: prepared by the Instructional Materials
+            Laboratory.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15ca v. 1</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany course in molding and coremaking : part 3 : advanced
+            molding and coremaking, blueprints, melting, cleaning, the foundry industry</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">106</field>
+        <field name="keywords">Coremaking</field>
+        <field name="keywords">Molding</field>
+        <field name="keywords">Founding</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Blueprints</field>
+        <field name="keywords">Tests</field>
+        <field name="series_title">Molding and coremaking.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15c v. 6</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in molding and coremaking : part 3 : advanced molding and
+            coremaking, blueprints, melting, cleaning, the foundry industry</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">143</field>
+        <field name="keywords">Coremaking</field>
+        <field name="keywords">Molding</field>
+        <field name="keywords">Founding</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Blueprints</field>
+        <field name="notes">143 p.; Other Titles: Molding and coremaking.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15c v. 5</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sweetwater Union High School District (Chula Vista,
+            California)</field>
+        <field name="title">Course notes and suggestions for mechanical drawing I, mechanical
+            drawing II and mechanical drawing III</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">130</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="publisher">Sweetwater Union High School District</field>
+        <field name="pub_place">Chula Vista, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.1 .S97m</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="title">Course in machine shop. Part 1 - Bench and drill press work: a workbook
+            for apprentices in the machinists' trade</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">94</field>
+        <field name="keywords">Machine-shop practice</field>
+        <field name="notes">94 p. ill. 28 cm.; Note(s): Bibliography: p. 93-94.</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cms v. 1</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in auto mechanics : part 3, engines and the cooling system : a
+            workbook</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">128</field>
+        <field name="keywords">Automobiles</field>
+        <field name="edition">2nd</field>
+        <field name="publisher">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cm v. 5</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="title">Tests to accompany course in automobile-body repair : a series of
+            objective tests covering the topics in the workbook for apprentices in the
+            automobile-body repair trade</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">112</field>
+        <field name="keywords">Automobiles</field>
+        <field name="keywords">Tests</field>
+        <field name="notes">viii; ill. ; 28 cm.; Responsibility: prepared by the Instructional
+            Materials Laboratory, Bureau of Trade and Industrial Education, California State
+            Department of Education.</field>
+        <field name="publisher">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15ca v. 2</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="title">Tests to accompany course in auto mechanics : a series of objective
+            tests covering the topics in the workbook for apprentices in auto mechanics</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">124</field>
+        <field name="keywords">Automobiles</field>
+        <field name="keywords">Tests</field>
+        <field name="abstract">pt. 3. Engines and the fuel system</field>
+        <field name="notes">illustrations ; 28 cm; Other Titles: Course in auto mechanics; Auto
+            mechanics; Responsibility: prepared by the Instructional Materials Laboratory, Bureau of
+            Trade and Industrial Education, California State Department of Education.</field>
+        <field name="edition">2nd</field>
+        <field name="publisher">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cm v. 6</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in tool and die making</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">112</field>
+        <field name="keywords">Tools</field>
+        <field name="keywords">Dies (Metal-working)</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15ct v. 1</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in sheet metal. part 2</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">98</field>
+        <field name="keywords">Sheet-metal work</field>
+        <field name="keywords">Tests</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cs v. 4</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in sheet metal. pt. 2</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">71</field>
+        <field name="keywords">Sheet-metal work</field>
+        <field name="notes">v. : ill.; Note(s): Each part of the course is accompanied by a separate
+            vol. of tests.</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cs v. 3</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in sheet metal. pt. 4</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">103</field>
+        <field name="keywords">Sheet-metal work</field>
+        <field name="notes">v. : ill.; Note(s): Each part of the course is accompanied by a separate
+            vol. of tests.</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cs v. 7</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in sheet metal. part 4</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">134</field>
+        <field name="keywords">Sheet-metal work</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cs v. 8</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course for the auto parts man: parts 1 automotive
+            parts--their use, forms, ordering, receiving</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">91</field>
+        <field name="keywords">Automobiles</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cp v. 2</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course for the auto parts man: parts 2 counter and
+            catalog work</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">47</field>
+        <field name="keywords">Automobiles</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cp v. 4</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course for the auto parts man: part 1 automotive parts--their use,
+            forms, ordering, receiving</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">89</field>
+        <field name="keywords">Automobiles</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cp v. 1</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course for the auto parts man : part 2 counter and catalog work</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">69</field>
+        <field name="keywords">Automobiles</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15cp v. 3</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in tool and die making : a series of objective
+            tests covering the topics in the workbook for apprentices in the tool and die making
+            trade</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">108</field>
+        <field name="keywords">Tools</field>
+        <field name="keywords">Dies (Metal-working)</field>
+        <field name="keywords">Tests</field>
+        <field name="notes">viii; ; 28 cm.; Genre/Form: Examinations, questions, etc.; Other Titles:
+            Course in tool and die making; Responsibility: prepared by the Instructional Materials
+            Laboratory, Bureau of Trade and Industrial Education, California State Department of
+            Education.</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15ct v. 2</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="title">Sheet metal : workbook. part two</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">261</field>
+        <field name="keywords">Sheet-metal work</field>
+        <field name="notes">ix; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical
+            references.; Responsibility: prepared under the direction of the Bureau of Industrial
+            Education.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15s v. 2</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Industrial
+            Education</field>
+        <field name="title">Sheet metal : workbook. part one</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">181</field>
+        <field name="keywords">Sheet-metal work</field>
+        <field name="notes">xv; illustrations ; 28 cm.; Note(s): Includes bibliographical
+            references.; Responsibility: prepared under the direction of the Bureau of Industrial
+            Education.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C15s v. 1</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+        <field name="title">Vocational course of study, 1962-63</field>
+        <field name="year">1962</field>
+        <field name="date">1962-1963</field>
+        <field name="pages">42</field>
+        <field name="keywords">Vocational education</field>
+        <field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Clairton, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C58v</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
+            Department</field>
+        <field name="title">Cosmopolitan senior high school course of study in general metal
+            work</field>
+        <field name="pages">32</field>
+        <field name="keywords">Metal-work</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Industrial Arts Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .C63c</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Board of Education</field>
+        <field name="title">Metal fitting : a hand-tool course for grade 10B technical
+            curriculums</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">102</field>
+        <field name="keywords">Metal-work</field>
+        <field name="keywords">Tools</field>
+        <field name="notes">102 p., 5 l. : illus., tables, diagrs. ; 27 cm.; Note(s): At head of
+            title: Detroit public schools./ Reproduced from type-written copy.; Responsibility:
+            published by the authority of the Board of education, city of Detroit.</field>
+        <field name="series_title">Detroit (Michigan) Board of Education. Publication</field>
+        <field name="series_vol">245</field>
+        <field name="publisher">Detroit (Michigan) Board of Education</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .D48m</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">10th grade</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Harris, Melvin H.</field>
+        <field name="author_nat">Melvin H. Harris</field>
+        <field name="author">Shepherd, Lee M.</field>
+        <field name="author_nat">Lee M. Shepherd</field>
+        <field name="author">Sommercorn, Fred L.</field>
+        <field name="author_nat">Fred L. Sommercorn</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">A guide for automotive owners maintenance, automotive mechanics I,
+            automotive mechanics II</field>
+        <field name="keywords">Automobiles</field>
+        <field name="publisher">Granite School District (Salt Lake City, Utah)</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .G75a v. 1</field>
+        <field name="state_country">Utah</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Harris, Melvin H.</field>
+        <field name="author_nat">Melvin H. Harris</field>
+        <field name="author">Shepherd, Lee M.</field>
+        <field name="author_nat">Lee M. Shepherd</field>
+        <field name="author">Sommercorn, Fred L.</field>
+        <field name="author_nat">Fred L. Sommercorn</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">A guide for vocational auto mechnics</field>
+        <field name="keywords">Automobiles</field>
+        <field name="publisher">Granite School District (Salt Lake City, Utah)</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .G75a v. 2</field>
+        <field name="state_country">Utah</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School Districts</field>
+        <field name="title">Industrial arts general metal senior high school</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">87</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Metal-work</field>
+        <field name="series_title">Los Angeles (California) City School Districts.
+            Publication</field>
+        <field name="series_vol">SC-472</field>
+        <field name="publisher">Los Angeles (California) City School Districts</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .L87i</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">General metal shop; teacher's work manual, based on the course of study
+            in Industrial Arts, Grades 7, 8, 9</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">124</field>
+        <field name="keywords">Metal-work</field>
+        <field name="series_title">New York Cituy Board of Education Curriculum bulletin, 1955-56
+            series</field>
+        <field name="series_vol">14</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .N52g</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Machine shop practice for vocational high schools; a syllabus</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">174</field>
+        <field name="keywords">Machine-shop practice</field>
+        <field name="notes">174 p. ill. 23 cm.; Note(s): "Bibliography and materials": p.
+            152-174.</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin; 1954-55
+            ser.</field>
+        <field name="series_vol">10</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .N52m</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Automobile mechanics for vocational high schools; a syllabus</field>
+        <field name="year">1949</field>
+        <field name="date">04/1949</field>
+        <field name="pages">187</field>
+        <field name="keywords">Vocational education</field>
+        <field name="keywords">Automobiles</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin; 1948-49
+            series</field>
+        <field name="series_vol">3</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">Brooklyn, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .N53a</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York Bureau of Industrial and Technical Education</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="corp_author">Bureau of Vocational Curriculum Development and Industrial Teacher
+            Training</field>
+        <field name="title">Suggested related information for the metal area</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">146</field>
+        <field name="keywords">Metal-work</field>
+        <field name="notes">v; illus. 27 cm.; Note(s): Bibliography: p.139-146.</field>
+        <field name="publisher">New York Bureau of Industrial and Technical Education</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .N53s</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Vocational
+            Curriculum Development and Industrial Teacher Training</field>
+        <field name="title">Machinist apprentice I; related information</field>
+        <field name="year">1952</field>
+        <field name="date">1952-1953</field>
+        <field name="keywords">Machine-shop practice</field>
+        <field name="notes">4 v. illus. 27 cm.</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .N53m v. 1-4</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Division of Industrial
+            Education</field>
+        <field name="title">Syllabus in technical subjects. Mechanical design and
+            construction</field>
+        <field name="year">1953</field>
+        <field name="date">06/1953</field>
+        <field name="pages">22</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="keywords">Machine-shop practice</field>
+        <field name="notes">23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): "June
+            1953"--Cover./ "The Mechanical design and construction syllabus first appeared in print
+            in the Syllabus in technical subjects issued in 1931. A revised edition of this pamphlet
+            was printed in 1941"--Foreword.; Other Titles: Mechanical design and construction;
+            Responsibility: Division of Industrial Education, New York State Education
+            Department.</field>
+        <field name="series_title">University of the State of New York bulletin</field>
+        <field name="series_vol">1420</field>
+        <field name="publisher">University of the State of New York Press</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .N53sy</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Course outline for auto shop I</field>
+        <field name="year">1959</field>
+        <field name="date">07/1959</field>
+        <field name="pages">22</field>
+        <field name="keywords">Automobiles</field>
+        <field name="series_title">Oakland (California) Public Schools. Ind. Arts 1959-1</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .O11c</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Outline of a tentative course of study for eighth grade metal
+            work</field>
+        <field name="year">1957</field>
+        <field name="date">06/1957</field>
+        <field name="pages">79</field>
+        <field name="keywords">Automobiles</field>
+        <field name="series_title">Oakland (California) Public Schools. Ind. Arts 1957-1</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .O11o</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">8th grade</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Knerr, Michael W.</field>
+        <field name="author_nat">Michael W. Knerr</field>
+        <field name="corp_author">Pennsylvania Department of Public Instruction</field>
+        <field name="title">Metal forming as an area of industrial arts instruction in Pennsylvania
+            public schools</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">63</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Metal-work</field>
+        <field name="notes">x; illustrations ; 23 cm.; Note(s): "Instructional aids: books,
+            magazines, films": p. 37-44./ "Supplements Industrial arts in Pennsylvania, Bulletin
+            331, published in ... 1951."</field>
+        <field name="series_title">Pennsylvania Department of Public Instruction. Bulletin ;; [new
+            ser.]</field>
+        <field name="series_vol">331F</field>
+        <field name="publisher">Pennsylvania Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .P41mf</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ohio State Department of Education. Trade and Industrial Education
+            Services</field>
+        <field name="title">Machine trades I-II. Learner's manual</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="keywords">Machine-tools</field>
+        <field name="keywords">Machine-shop practice</field>
+        <field name="notes">2 v. ill. ; 29 cm. + 2 answer books (22 cm.); Note(s): Includes
+            bibliographical references.</field>
+        <field name="publisher">Ohio State Department of Education. Trade and Industrial Education
+            Services</field>
+        <field name="pub_place">Columbus, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .O37m v. 1-2</field>
+        <field name="state_country">Ohio</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pennsylvania Department of Public Instruction</field>
+        <field name="title">Metal machining as an area of industrial arts instruction in
+            Pennsylvania public schools</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">67</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Metal-work</field>
+        <field name="series_title">Pennsylvania Department of Public Instruction Bulletin</field>
+        <field name="series_vol">331G</field>
+        <field name="publisher">Pennsylvania Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .P41m</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pennsylvania State Department of Public Instruction. Department of
+            Public Instruction</field>
+        <field name="title">Automotive area of industrial arts instruction in Pennsylvania public
+            schools</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">41</field>
+        <field name="keywords">Automobiles</field>
+        <field name="notes">x; illustrations ; 23 cm.; Note(s): "Supplements Industrial arts in
+            Pennsylvania, Bulletin 331, published in 1951."/ "Instructional aids": pages 21-25.;
+            Responsibility: prepared by William L. Cooper and Ralph K. Beamer.</field>
+        <field name="series_title">Pennsylvania Department of Public Instruction. Bulletin [new
+            series]</field>
+        <field name="series_vol">331A</field>
+        <field name="publisher">Pennsylvania Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .P41a</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Widdowson, Ralph D.</field>
+        <field name="author_nat">Ralph D. Widdowson</field>
+        <field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+        <field name="title">Sheet metal as an area of industrial arts instruction in Pennsylvania
+            public schools</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">43</field>
+        <field name="keywords">Sheet-metal work</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="notes">x; illustrations ; 24 cm.; Note(s): "A supplement to Industrial arts in
+            Pennsylvania, Bulletin 331, published in ... 1951."/ Instructional aids: books, free
+            materials, films": pages 27-32.; Responsibility: [prepared by Ralph D.
+            Widdowson].</field>
+        <field name="series_title">Pennsylvania Department of Public Instruction. Bulletin [new
+            ser.]</field>
+        <field name="series_vol">331J</field>
+        <field name="publisher">Pennsylvania Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">680-.3 .P41s</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) School</field>
+        <field name="corp_author">Sonoma County (California) Schools</field>
+        <field name="title">Auto mechanics laboratory sequence instructional program</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Automobiles</field>
+        <field name="publisher">Santa Clara (California) County School</field>
+        <field name="pub_place">Santa Clara, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .S23a</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">Industrial arts metalworking handbook : high schools of Santa Clara
+            County</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="keywords">Metal-work</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="notes">365 p. in various pagings : ill. ; 28 cm.; Genre/Form: Handbooks,
+            manuals, etc.; Note(s): Includes bibliographical references.; Responsibility: prepared
+            by Metalworking Curriculum Committee, Santa Clara County.</field>
+        <field name="publisher">Santa Clara County Board of Education</field>
+        <field name="pub_place">Santa Clara, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .S23m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sweetwater Union High School District (Chula Vista,
+            California)</field>
+        <field name="title">Course notes and suggestions for power-metals</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="keywords">Metal-work</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="publisher">Sweetwater Union High School District</field>
+        <field name="pub_place">Chula Vista, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.3 .S97p</field>
+        <field name="state_country">California</field>
+   </doc>
+
+</add>

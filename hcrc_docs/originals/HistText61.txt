@@ -1,0 +1,919 @@
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+T1  - Course of study in mechanical drawing
+SP  - 11
+KW  - Mechanical drawing
+PB  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+CY  - Cleveland, OH
+LA  - English
+CN  - 680.1 .C63c
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+T1  - Junior high school general drawing
+KW  - Mechanical drawing
+PB  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+CY  - Cleveland, OH
+LA  - English
+CN  - 680.1 .C63g v. 1
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+T1  - Course of study : general drawing, book II.
+Y1  - 1951
+D1  - 1951
+SP  - 103
+KW  - Mechanical drawing
+N1  - 103 pages : illustrations ; 28 cm; Responsibility: M.C. Shinnerer, Superintendent of schools.
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 680.1 .C63g v. 2
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Senior high school tentative course of study: mechanical drawing I and II
+Y1  - 1948
+D1  - 09/1948
+KW  - Mechanical drawing
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 680.1 .C635s
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - General drafting lessons for beginners: book one
+Y1  - 1952
+D1  - 1952
+SP  - 128
+KW  - Mechanical drawing
+T2  - Detroit (Michigan) Public Schools. Publication
+V1  - 206
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 680.1 .D48d v. 1
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - General drafting lessons for beginners: book two
+Y1  - 1953
+D1  - 1953
+SP  - 96
+KW  - Mechanical drawing
+T2  - Detroit (Michigan) Public Schools. Publication
+V1  - 222
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 680.1 .D48d v. 2
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Drafting lessons: book three
+Y1  - 1952
+D1  - 1952
+SP  - 89
+KW  - Mechanical drawing
+T2  - Detroit (Michigan) Public Schools. Publication
+V1  - 276
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 680.1 .D48d v. 3
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Drafting lessons: book four for high schools
+Y1  - 1953
+D1  - 1953
+SP  - 42
+KW  - Mechanical drawing
+T2  - Detroit (Michigan) Public Schools. Publication
+V1  - 146
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 680.1 .D48d v. 4
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts
+T1  - Junior high school industrial drawing
+Y1  - 1952
+D1  - 04/1952
+KW  - Mechanical drawing
+PB  - Los Angeles (California) City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 680.1 .L87i
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts
+T1  - Instructional guide for industrial drafting, technical drafting, architectural drafting
+Y1  - 1963
+D1  - 1963
+KW  - Mechanical drawing
+T2  - Los Angeles (California) City School Districts. Publication
+V1  - SC-602
+PB  - Los Angeles (California) City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 680.1 .L87i 1963
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Junior high school handbook : mechanical drawing, sketching, blueprint reading
+Y1  - 1957
+D1  - 1957
+SP  - 73
+KW  - Mechanical drawing
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 680.1 .M66j
+SC  - Minnesota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Mikulsky, Marilyn
+A1  - McEnaney, Walter K.
+A2  - University of the State of New York
+A2  - New York (State) Bureau of Secondary Curriculum Development
+T1  - Mechanical drawing and design
+Y1  - 1968
+D1  - 1968
+SP  - 36
+KW  - Mechanical drawing
+N1  - iv; illus. 22 x 28 cm.; Genre/Form: Outlines, syllabi, etc.; Responsibility: [by Marilyn Mikulsky and Walter K. McEnaney]
+PB  - University of the State of New York, Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 680.1 .N53m
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York (State) Bureau of Secondary Curriculum Development
+T1  - Creative mechanical drawing
+Y1  - 1960
+D1  - 1960
+SP  - 64
+KW  - Mechanical drawing
+N1  - 64 p. illus. 28 cm.
+PB  - New York (State) Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 680.1 .N53c
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York (State) Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Blueprint reading and sketching. [Teacher's manual]
+Y1  - 1952
+D1  - 05/1952
+SP  - 81
+KW  - Blueprints
+N1  - 81 p. illus. 27 cm.
+PB  - New York (State) Bureau of Vocational Curriculum Development and Industrial Teacher Training
+CY  - Albany, NY
+LA  - English
+CN  - 680.1 .N53b
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Course outline for drafting I, grades 9-12
+Y1  - 1966
+D1  - 06/1966
+SP  - 6
+KW  - Mechanical drawing
+T2  - Oakland (California) Public Schools. Ind. arts; 1966-1
+ED  - Rev. ed.
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 680.1 .O11c
+SC  - California
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Sheboygan (Wisconsin) Public Schools
+T1  - Short course in shop drawing
+Y1  - 1958
+D1  - 04/1958
+SP  - 15
+KW  - Mechanical drawing
+PB  - Sheboygan (Wisconsin) Public Schools
+CY  - Sheboygan, WI
+LA  - English
+CN  - 680.1 .S53s
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Course in automobile-body repair; a workbook for apprentices in the automobile-body repair trade
+Y1  - 1951
+D1  - 1951
+SP  - 207
+KW  - Automobile body repair and painting
+N1  - 207 p. ill.; Responsibility: prepared by the Instructional Materials Laboratory.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15ca v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany course in molding and coremaking : part 3 : advanced molding and coremaking, blueprints, melting, cleaning, the foundry industry
+Y1  - 1951
+D1  - 1951
+SP  - 106
+KW  - Coremaking
+KW  - Molding
+KW  - Founding
+KW  - Industrial arts
+KW  - Blueprints
+KW  - Tests
+T2  - Molding and coremaking.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15c v. 6
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in molding and coremaking : part 3 : advanced molding and coremaking, blueprints, melting, cleaning, the foundry industry
+Y1  - 1952
+D1  - 1952
+SP  - 143
+KW  - Coremaking
+KW  - Molding
+KW  - Founding
+KW  - Industrial arts
+KW  - Blueprints
+N1  - 143 p.; Other Titles: Molding and coremaking.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15c v. 5
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for mechanical drawing I, mechanical drawing II and mechanical drawing III
+Y1  - 1967
+D1  - 1967
+SP  - 130
+KW  - Mechanical drawing
+KW  - Industrial arts
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 680.1 .S97m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Course in machine shop. Part 1 - Bench and drill press work: a workbook for apprentices in the machinists' trade
+Y1  - 1953
+D1  - 1953
+SP  - 94
+KW  - Machine-shop practice
+N1  - 94 p. ill. 28 cm.; Note(s): Bibliography: p. 93-94.
+ED  - Rev.
+PB  - California State Department of Education. Bureau of Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cms v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in auto mechanics : part 3, engines and the cooling system : a workbook
+Y1  - 1952
+D1  - 1952
+SP  - 128
+KW  - Automobiles
+ED  - 2nd
+PB  - California State Department of Education. Bureau of Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cm v. 5
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Tests to accompany course in automobile-body repair : a series of objective tests covering the topics in the workbook for apprentices in the automobile-body repair trade
+Y1  - 1951
+D1  - 1951
+SP  - 112
+KW  - Automobiles
+KW  - Tests
+N1  - viii; ill. ; 28 cm.; Responsibility: prepared by the Instructional Materials Laboratory, Bureau of Trade and Industrial Education, California State Department of Education.
+PB  - California State Department of Education. Bureau of Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15ca v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Tests to accompany course in auto mechanics : a series of objective tests covering the topics in the workbook for apprentices in auto mechanics
+Y1  - 1952
+D1  - 1952
+SP  - 124
+KW  - Automobiles
+KW  - Tests
+AB  - pt. 3. Engines and the fuel system
+N1  - illustrations ; 28 cm; Other Titles: Course in auto mechanics; Auto mechanics; Responsibility: prepared by the Instructional Materials Laboratory, Bureau of Trade and Industrial Education, California State Department of Education.
+ED  - 2nd
+PB  - California State Department of Education. Bureau of Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cm v. 6
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in tool and die making
+Y1  - 1951
+D1  - 1951
+SP  - 112
+KW  - Tools
+KW  - Dies (Metal-working)
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15ct v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in sheet metal. part 2
+Y1  - 1949
+D1  - 1949
+SP  - 98
+KW  - Sheet-metal work
+KW  - Tests
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cs v. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in sheet metal. pt. 2
+Y1  - 1949
+D1  - 1949
+SP  - 71
+KW  - Sheet-metal work
+N1  - v. : ill.; Note(s): Each part of the course is accompanied by a separate vol. of tests.
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cs v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in sheet metal. pt. 4
+Y1  - 1952
+D1  - 1952
+SP  - 103
+KW  - Sheet-metal work
+N1  - v. : ill.; Note(s): Each part of the course is accompanied by a separate vol. of tests.
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cs v. 7
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in sheet metal. part 4
+Y1  - 1952
+D1  - 1952
+SP  - 134
+KW  - Sheet-metal work
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cs v. 8
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course for the auto parts man: parts 1 automotive parts--their use, forms, ordering, receiving
+Y1  - 1951
+D1  - 1951
+SP  - 91
+KW  - Automobiles
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cp v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course for the auto parts man: parts 2 counter and catalog work
+Y1  - 1952
+D1  - 1952
+SP  - 47
+KW  - Automobiles
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cp v. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course for the auto parts man: part 1 automotive parts--their use, forms, ordering, receiving
+Y1  - 1951
+D1  - 1951
+SP  - 89
+KW  - Automobiles
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cp v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course for the auto parts man : part 2 counter and catalog work
+Y1  - 1952
+D1  - 1952
+SP  - 69
+KW  - Automobiles
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15cp v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in tool and die making : a series of objective tests covering the topics in the workbook for apprentices in the tool and die making trade
+Y1  - 1951
+D1  - 1951
+SP  - 108
+KW  - Tools
+KW  - Dies (Metal-working)
+KW  - Tests
+N1  - viii; ; 28 cm.; Genre/Form: Examinations, questions, etc.; Other Titles: Course in tool and die making; Responsibility: prepared by the Instructional Materials Laboratory, Bureau of Trade and Industrial Education, California State Department of Education.
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15ct v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Sheet metal : workbook. part two
+Y1  - 1968
+D1  - 1968
+SP  - 261
+KW  - Sheet-metal work
+N1  - ix; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared under the direction of the Bureau of Industrial Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15s v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Industrial Education
+T1  - Sheet metal : workbook. part one
+Y1  - 1966
+D1  - 1966
+SP  - 181
+KW  - Sheet-metal work
+N1  - xv; illustrations ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared under the direction of the Bureau of Industrial Education.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.3 .C15s v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Vocational course of study, 1962-63
+Y1  - 1962
+D1  - 1962-1963
+SP  - 42
+KW  - Vocational education
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 680.3 .C58v
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+T1  - Cosmopolitan senior high school course of study in general metal work
+SP  - 32
+KW  - Metal-work
+PB  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+CY  - Cleveland, OH
+LA  - English
+CN  - 680.3 .C63c
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Board of Education
+T1  - Metal fitting : a hand-tool course for grade 10B technical curriculums
+Y1  - 1953
+D1  - 1953
+SP  - 102
+KW  - Metal-work
+KW  - Tools
+N1  - 102 p., 5 l. : illus., tables, diagrs. ; 27 cm.; Note(s): At head of title: Detroit public schools./ Reproduced from type-written copy.; Responsibility: published by the authority of the Board of education, city of Detroit.
+T2  - Detroit (Michigan) Board of Education. Publication
+V1  - 245
+PB  - Detroit (Michigan) Board of Education
+CY  - Detroit, MI
+LA  - English
+CN  - 680.3 .D48m
+SC  - Michigan
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Harris, Melvin H.
+A1  - Shepherd, Lee M.
+A1  - Sommercorn, Fred L.
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A guide for automotive owners maintenance, automotive mechanics I, automotive mechanics II
+KW  - Automobiles
+PB  - Granite School District (Salt Lake City, Utah)
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 680.3 .G75a v. 1
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A1  - Harris, Melvin H.
+A1  - Shepherd, Lee M.
+A1  - Sommercorn, Fred L.
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A guide for vocational auto mechnics
+KW  - Automobiles
+PB  - Granite School District (Salt Lake City, Utah)
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 680.3 .G75a v. 2
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts
+T1  - Industrial arts general metal senior high school
+Y1  - 1952
+D1  - 1952
+SP  - 87
+KW  - Industrial arts
+KW  - Metal-work
+T2  - Los Angeles (California) City School Districts. Publication
+V1  - SC-472
+PB  - Los Angeles (California) City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 680.3 .L87i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - General metal shop; teacher's work manual, based on the course of study in Industrial Arts, Grades 7, 8, 9
+Y1  - 1957
+D1  - 1957
+SP  - 124
+KW  - Metal-work
+T2  - New York Cituy Board of Education Curriculum bulletin, 1955-56 series
+V1  - 14
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 680.3 .N52g
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Machine shop practice for vocational high schools; a syllabus
+Y1  - 1956
+D1  - 1956
+SP  - 174
+KW  - Machine-shop practice
+N1  - 174 p. ill. 23 cm.; Note(s): "Bibliography and materials": p. 152-174.
+T2  - New York City Board of Education. Curriculum bulletin; 1954-55 ser.
+V1  - 10
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 680.3 .N52m
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Automobile mechanics for vocational high schools; a syllabus
+Y1  - 1949
+D1  - 04/1949
+SP  - 187
+KW  - Vocational education
+KW  - Automobiles
+T2  - New York City Board of Education. Curriculum bulletin; 1948-49 series
+V1  - 3
+PB  - New York City Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 680.3 .N53a
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York Bureau of Industrial and Technical Education
+A2  - University of the State of New York
+A2  - Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Suggested related information for the metal area
+Y1  - 1951
+D1  - 1951
+SP  - 146
+KW  - Metal-work
+N1  - v; illus. 27 cm.; Note(s): Bibliography: p.139-146.
+PB  - New York Bureau of Industrial and Technical Education
+CY  - Albany, NY
+LA  - English
+CN  - 680.3 .N53s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Machinist apprentice I; related information
+Y1  - 1952
+D1  - 1952-1953
+KW  - Machine-shop practice
+N1  - 4 v. illus. 27 cm.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 680.3 .N53m v. 1-4
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Industrial Education
+T1  - Syllabus in technical subjects. Mechanical design and construction
+Y1  - 1953
+D1  - 06/1953
+SP  - 22
+KW  - Mechanical drawing
+KW  - Machine-shop practice
+N1  - 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): "June 1953"--Cover./ "The Mechanical design and construction syllabus first appeared in print in the Syllabus in technical subjects issued in 1931. A revised edition of this pamphlet was printed in 1941"--Foreword.; Other Titles: Mechanical design and construction; Responsibility: Division of Industrial Education, New York State Education Department.
+T2  - University of the State of New York bulletin
+V1  - 1420
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 680.3 .N53sy
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Course outline for auto shop I
+Y1  - 1959
+D1  - 07/1959
+SP  - 22
+KW  - Automobiles
+T2  - Oakland (California) Public Schools. Ind. Arts 1959-1
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 680.3 .O11c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Outline of a tentative course of study for eighth grade metal work
+Y1  - 1957
+D1  - 06/1957
+SP  - 79
+KW  - Automobiles
+T2  - Oakland (California) Public Schools. Ind. Arts 1957-1
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 680.3 .O11o
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Knerr, Michael W.
+A2  - Pennsylvania Department of Public Instruction
+T1  - Metal forming as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1953
+D1  - 1953
+SP  - 63
+KW  - Industrial arts
+KW  - Metal-work
+N1  - x; illustrations ; 23 cm.; Note(s): "Instructional aids: books, magazines, films": p. 37-44./ "Supplements Industrial arts in Pennsylvania, Bulletin 331, published in ... 1951."
+T2  - Pennsylvania Department of Public Instruction. Bulletin ;; [new ser.] 
+V1  - 331F
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680.3 .P41mf
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Ohio State Department of Education. Trade and Industrial Education Services
+T1  - Machine trades I-II. Learner's manual
+Y1  - 1955
+D1  - 1955
+KW  - Machine-tools
+KW  - Machine-shop practice
+N1  - 2 v. ill. ; 29 cm. + 2 answer books (22 cm.); Note(s): Includes bibliographical references.
+PB  - Ohio State Department of Education. Trade and Industrial Education Services
+CY  - Columbus, OH
+LA  - English
+CN  - 680.3 .O37m v. 1-2
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania Department of Public Instruction
+T1  - Metal machining as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1953
+D1  - 1953
+SP  - 67
+KW  - Industrial arts
+KW  - Metal-work
+T2  - Pennsylvania Department of Public Instruction Bulletin
+V1  - 331G
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680.3 .P41m
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Public Instruction. Department of Public Instruction
+T1  - Automotive area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1953
+D1  - 1953
+SP  - 41
+KW  - Automobiles
+N1  - x; illustrations ; 23 cm.; Note(s): "Supplements Industrial arts in Pennsylvania, Bulletin 331, published in 1951."/ "Instructional aids": pages 21-25.; Responsibility: prepared by William L. Cooper and Ralph K. Beamer.
+T2  - Pennsylvania Department of Public Instruction. Bulletin [new series] 
+V1  - 331A
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680.3 .P41a
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Widdowson, Ralph D.
+A2  - Pennsylvania State Department of Public Instruction
+T1  - Sheet metal as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1953
+D1  - 1953
+SP  - 43
+KW  - Sheet-metal work
+KW  - Industrial arts
+N1  - x; illustrations ; 24 cm.; Note(s): "A supplement to Industrial arts in Pennsylvania, Bulletin 331, published in ... 1951."/ Instructional aids: books, free materials, films": pages 27-32.; Responsibility: [prepared by Ralph D. Widdowson].
+T2  - Pennsylvania Department of Public Instruction. Bulletin [new ser.]
+V1  - 331J
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680-.3 .P41s
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) School
+A2  - Sonoma County (California) Schools
+T1  - Auto mechanics laboratory sequence instructional program
+Y1  - 1960
+D1  - 1960
+KW  - Industrial arts
+KW  - Automobiles
+PB  - Santa Clara (California) County School
+CY  - Santa Clara, CA
+LA  - English
+CN  - 680.3 .S23a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Industrial arts metalworking handbook : high schools of Santa Clara County
+Y1  - 1964
+D1  - 1964
+KW  - Metal-work
+KW  - Industrial arts
+N1  - 365 p. in various pagings : ill. ; 28 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s): Includes bibliographical references.; Responsibility: prepared by Metalworking Curriculum Committee, Santa Clara County.
+PB  - Santa Clara County Board of Education
+CY  - Santa Clara, CA
+LA  - English
+CN  - 680.3 .S23m
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sweetwater Union High School District (Chula Vista, California)
+T1  - Course notes and suggestions for power-metals
+Y1  - 1967
+D1  - 1967
+KW  - Metal-work
+KW  - Industrial arts
+PB  - Sweetwater Union High School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 680.3 .S97p
+SC  - California
+ER  - 
+

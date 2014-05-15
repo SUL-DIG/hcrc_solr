@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
+            Department</field>
+        <field name="title">Cosmopolitan senior high school : course of study in woodwork</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Industrial Arts Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .C63c</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Sugden, Allen</field>
+        <field name="author_nat">Allen Sugden</field>
+        <field name="author">Easter, Dale</field>
+        <field name="author_nat">Dale Easter</field>
+        <field name="title">Book shelves for the classroom: a guide for construction</field>
+        <field name="year">1960</field>
+        <field name="date">08/1960</field>
+        <field name="pages">19</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Kern County (California) Superintendent of Schools</field>
+        <field name="pub_place">Bakersfield, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .K39b</field>
+        <field name="state_country">California</field>
+   </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kohlstedt, Paralee</field>
+        <field name="author_nat">Paralee Kohlstedt</field>
+        <field name="title">Portable woodwork unit for the primary grades</field>
+        <field name="year">1949</field>
+        <field name="date">11/1949</field>
+        <field name="pages">21</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="notes">"Designed to serve the kindergarten, first, second, third and possibly
+            fourth grades in any one school."</field>
+        <field name="publisher">Kern County (California) Superintendent of Schools</field>
+        <field name="pub_place">Bakersfield, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .K39p</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+   </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Industrial woodworking, an instructional guide: senior high school
+            industrial education</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="series_title">Los Angeles (California) City School District Publication</field>
+        <field name="series_vol">SC-636</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .L869i</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Junior high school woodwork</field>
+        <field name="year">1953</field>
+        <field name="date">02/1953</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="state_country">California</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .L87i</field>
+        <field name="grade_level_group">Middle school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="title">Instructional guide for general wood 1, 2, 3, 4. Junior high school
+            industrial arts</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">71</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="notes">71 p.; Other Titles: General wood 1, 2, 3, 4, junior high school</field>
+        <field name="series_title">Los Angeles (California) City School District. Division of
+            Instructional Services. Publication</field>
+        <field name="series_vol">SC-568</field>
+        <field name="edition">1963 revision</field>
+        <field name="publisher">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .L87i 1963</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+        <field name="title">A guide to teaching woodwork, grade 7 - grade 12</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">85</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="series_title">Industrial arts in the Minneapolis Public Schools</field>
+        <field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+        <field name="pub_place">Minneapolis, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .M66g</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">General woodwork shop: teacher's work manual. Based on the course of
+            study in industrial arts: grades 7, 8, 9</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">90</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="series_title">New York City Board of Education Curriculum bulletin, 1954-55
+            ser.</field>
+        <field name="series_vol">13</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .N531g</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="title">Industrial arts syllabus in general woodwork</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">93</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="notes">ill. ; 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s):
+            "T354r-F56-10,000."/ Includes bibliographical references.; Other Titles: Industrial arts
+            general woodwork syllabus</field>
+        <field name="publisher">University of the State of New York, the State Education Dept.,
+            Division of Industrial Education, Bureau of Industrial Arts Education</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .N53g</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Widdowson, Ralph D.</field>
+        <field name="author_nat">Ralph D. Widdowson</field>
+        <field name="corp_author">Industrial Arts in Pennsylvania</field>
+        <field name="title">Woodworking as an area of industrial arts instruction in Pennsylvania
+            public schools</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">53</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="notes">x; ges illustrations 23 cm.; Note(s): "A supplement to Industrial arts
+            in Pennsylvania. Bulletin 331, published in ... 1951, by the Department of Public
+            Instruction."/ Includes bibliographical references (pages 27-34).</field>
+        <field name="series_title">Pennsylvania Department of Public Instruction. Bulletin [new
+            ser.]</field>
+        <field name="series_vol">331-L</field>
+        <field name="publisher">Commonwealth of Pennsylvania, Department of Public
+            Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .P41w</field>
+        <field name="state_country">Pennsylvania</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Willmott, John N.</field>
+        <field name="author_nat">John N. Willmott</field>
+        <field name="author">Dudley, Arthur J.</field>
+        <field name="author_nat">Arthur J. Dudley</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="corp_author">Bureau of Industrial Arts Education</field>
+        <field name="corp_author">New York (State) Bureau of Vocational Curriculum Development and
+            Industrial Teacher Training</field>
+        <field name="title">Suggested related information for the wood area</field>
+        <field name="year">1950</field>
+        <field name="date">06/1950</field>
+        <field name="pages">146</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="notes">vii; ill. ; 27 cm.; Note(s): Prepared by John N. Willmott and Arthur J.
+            Dudley./ Imprint covered by label which reads: Distributed by Delmar Publishers, Albany,
+            N.Y./ Includes bibliographical references (p. 137-142) and index.; Other Titles: Wood
+            area</field>
+        <field name="series_title">Industrial arts comprehensive general shop course</field>
+        <field name="publisher">University of the State of New York, State Education Dept., Bureau
+            of Industrial Arts Education, Bureau of Vocational Curriculum Development,
+            cooperating</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .N53w</field>
+        <field name="state_country">New York</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Canham, Frederick</field>
+        <field name="author_nat">Frederick Canham</field>
+        <field name="author">Carlson, Chester</field>
+        <field name="author_nat">Chester Carlson</field>
+        <field name="author">Gladden, Clinton R.</field>
+        <field name="author_nat">Clinton R. Gladden</field>
+        <field name="author">Reed, Ruel L.</field>
+        <field name="author_nat">Ruel L. Reed</field>
+        <field name="author">Saunders, Robert W.</field>
+        <field name="author_nat">Robert W. Saunders</field>
+        <field name="author">Gilbert, Robert E.</field>
+        <field name="author_nat">Robert E. Gilbert</field>
+        <field name="title">Handbook: teaching procedures and management of woodwork shops</field>
+        <field name="year">1940</field>
+        <field name="date">06/1940</field>
+        <field name="pages">48</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .O11h</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Anderson, Alfred</field>
+        <field name="author_nat">Alfred Anderson</field>
+        <field name="author">Buchser, Lloyd</field>
+        <field name="author_nat">Lloyd Buchser</field>
+        <field name="author">Canham, Frederick</field>
+        <field name="author_nat">Frederick Canham</field>
+        <field name="author">Cleary, Homer</field>
+        <field name="author_nat">Homer Cleary</field>
+        <field name="author">Reed, Ruel L.</field>
+        <field name="author_nat">Ruel L. Reed</field>
+        <field name="author">Taylor, Don</field>
+        <field name="author_nat">Don Taylor</field>
+        <field name="author">Mortensen, Adolph</field>
+        <field name="author_nat">Adolph Mortensen</field>
+        <field name="title">Tentative course of study in cabinet shop senior high school</field>
+        <field name="year">1951</field>
+        <field name="date">03/1951</field>
+        <field name="pages">17</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .O11t</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Tentative course of study in cabinet shop senior high school</field>
+        <field name="year">1955</field>
+        <field name="date">07/1955</field>
+        <field name="pages">33</field>
+        <field name="keywords">Mechanical drawing</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .O11td</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">Industrial arts woodworking handbook, high schools of Santa Clara
+            County</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Santa Clara County (California) Board of Education</field>
+        <field name="pub_place">Santa Clara, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .S23w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Waco (Texas) Public Schools</field>
+        <field name="title">Guide for teaching general woodwork IV</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">5</field>
+        <field name="keywords">Woodwork (Manual training)</field>
+        <field name="publisher">Waco (Texas) Public Schools</field>
+        <field name="pub_place">Waco, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">680.4 .W11g</field>
+        <field name="state_country">Texas</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">White, Natalie</field>
+        <field name="author_nat">Natalie White</field>
+        <field name="title">Bookmaking</field>
+        <field name="pages">20</field>
+        <field name="keywords">Printing</field>
+        <field name="publisher">University of California at Los Angeles</field>
+        <field name="pub_place">Los Angeles</field>
+        <field name="language">English</field>
+        <field name="call_number">680.6 .C15b</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">White, Natalie</field>
+        <field name="author_nat">Natalie White</field>
+        <field name="title">How to prepare parchment</field>
+        <field name="pages">4</field>
+        <field name="keywords">Parchment</field>
+        <field name="publisher">University of California at Los Angeles</field>
+        <field name="pub_place">Los Angeles</field>
+        <field name="language">English</field>
+        <field name="call_number">680.6 .C15b</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Joint Apprenticeship Committee.</field>
+        <field name="corp_author">California Bureau of Industrial Education</field>
+        <field name="title">Course in carpentry</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="keywords">Carpentry</field>
+        <field name="abstract">Contents -- v. 1. Course in carpentry [and] tests.</field>
+        <field name="edition">1968 edition</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15b v. 2-2a</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California Bureau of Industrial Education</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Electrical wiring : workbook. Part 1</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">279</field>
+        <field name="keywords">Electric wiring</field>
+        <field name="notes">xiii; illustrations ; 28 cm; Genre/Form: Problems, exercises, etc.;
+            Note(s): Includes bibliographical references.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15b v. 5</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Course for cement masons. Workbook</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">277</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Masonry</field>
+        <field name="notes">viii; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical
+            references.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15b v. 3</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California Bureau of Industrial Education</field>
+        <field name="title">Tests to accompany Course in furniture upholstering : a series of
+            objective tests covering the topics in the workbook for apprentices in the furniture
+            upholstering trade</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">85</field>
+        <field name="keywords">Upholstery</field>
+        <field name="notes">viii; ; 28 cm.; Genre/Form: Examinations, questions, etc.; Other Titles:
+            Course in furniture upholstering; Responsibility: prepared by the Instructional
+            Materials Laboratory, Bureau of Trade and Indsutrial Education, California State
+            Department of Education.</field>
+        <field name="publisher">California Bureau of Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">680.8 .C15c v. 2</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California Bureau of Industrial Education</field>
+        <field name="title">Course in floor covering; Part 2 a workbook for apprentices in the floor
+            covering trade</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="keywords">Floors</field>
+        <field name="keywords">Floor coverings</field>
+        <field name="publisher">California Bureau of Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cf v. 3</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California Bureau of Industrial Education</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Painting &amp; decorating : Workbook. Part 1</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">191</field>
+        <field name="keywords">Industrial painting</field>
+        <field name="keywords">Apprentices</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15b v. 8</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in plastering</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">96</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Plastering</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15c v. 4</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in carpentry. First year. Foundations and
+            framing</field>
+        <field name="year">1946</field>
+        <field name="date">1946</field>
+        <field name="pages">166</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Carpentry</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cc v. 2 1946</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in carpentry. First year. Foundations and
+            framing</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="pages">166</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Carpentry</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cc v. 2 1947</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in carpentry. Second year. Roof framing,
+            exterior trim</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="pages">151</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Carpentry</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cc v. 3 1947</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in carpentry. Second year. Roof framing,
+            exterior trim</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">151</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Carpentry</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cc v. 4</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in carpentry. Fourth year. Reinforced-concrete and heavy-timber
+            construction</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">156</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Carpentry</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cc v. 7</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Course in plastering, part 2: blueprint reading; trade mathematics;
+            plaster problems; dotting and screeding. Workbook</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">132</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Plastering</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15c v. 3</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in plumbing and pipe fitting : part 5 : servicing procedures,
+            welding, air conditioning systems, establishing a business</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="keywords">Plumbing</field>
+        <field name="keywords">Pipe fitting</field>
+        <field name="pages">154</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cp v. 9</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in plumbing and pipe fitting : part 5 :
+            servicing procedures, welding, air conditioning systems, establishing a business</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">92</field>
+        <field name="keywords">Plumbing</field>
+        <field name="keywords">Pipe fitting</field>
+        <field name="pages">154</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cp v. 10</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in plumbing and pipe fitting : part 4 : installation of
+            low-pressure heating systems, sprinkler and fire-line systems, plumbing fixtures and
+            appliances, steam power, process piping</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">112</field>
+        <field name="keywords">Plumbing</field>
+        <field name="keywords">Pipe fitting</field>
+        <field name="notes">112 p.; Note(s): Mimeograph.</field>
+        <field name="series_title">Plumbing and pipe fitting</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cp v. 7</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in Painting and Decorating. Part 1 materials,
+            surface preparation, and paint application</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">126</field>
+        <field name="keywords">Industrial painting</field>
+        <field name="keywords">Apprentices</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cpd v. 2</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in painting and decorating. Part 1 materials, surface
+            preparation, and paint application</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">135</field>
+        <field name="keywords">Industrial painting</field>
+        <field name="keywords">Apprentices</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cpd v. 1</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Course in painting and decorating. Part 2 color harmony and decorating;
+            gloss finishes; paperhanging</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">146</field>
+        <field name="keywords">Industrial painting</field>
+        <field name="keywords">Apprentices</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cpd v. 3</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in painting and decorating. Part 2 color
+            harmony and decorating; gloss finishes; paperhanging</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">109</field>
+        <field name="keywords">Industrial painting</field>
+        <field name="keywords">Apprentices</field>
+        <field name="publisher">California State Department of Education. Bureau of Trade and
+            Industrial Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cpd v. 4</field>
+        <field name="state_country">California</field>
+   </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Bureau of Trade and
+            Industrial Education. Instructional Materials Laboratory</field>
+        <field name="title">Tests to accompany Course in plumbing and pipe fitting : a series of
+            objective tests covering the topics in the workbook for apprentices in the plumbing and
+            pipe-fitting trade</field>
+        <field name="year">1951</field>
+        <field name="keywords">Plumbing</field>
+        <field name="keywords">Pipe fitting</field>
+        <field name="abstract">pt. 4. Installation of: low-pressure heating systems, sprinkler and
+            fire-line systems, plumbing fixtures and appliances ; Steam power ; Process
+            piping</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">690 .C15cp v. 8</field>
+        <field name="state_country">California</field>
+   </doc>
+</add>

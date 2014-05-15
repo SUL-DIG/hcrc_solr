@@ -1,0 +1,625 @@
+
+
+
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+T1  - Cosmopolitan senior high school : course of study in woodwork
+KW  - Woodwork (Manual training)
+PB  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+CY  - Cleveland, OH
+LA  - English
+CN  - 680.4 .C63c
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Sugden, Allen
+A1  - Easter, Dale
+T1  - Book shelves for the classroom: a guide for construction
+Y1  - 1960
+D1  - 08/1960
+SP  - 19
+KW  - Woodwork (Manual training)
+PB  - Kern County (California) Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 680.4 .K39b
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Kohlstedt, Paralee
+T1  - Portable woodwork unit for the primary grades
+Y1  - 1949
+D1  - 11/1949
+SP  - 21
+KW  - Woodwork (Manual training)
+N1  - "Designed to serve the kindergarten, first, second, third and possibly fourth grades in any one school."
+PB  - Kern County (California) Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 680.4 .K39p
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  -
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Industrial woodworking, an instructional guide: senior high school industrial education
+Y1  - 1968
+D1  - 1968
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+T2  - Los Angeles (California) City School District Publication
+V1  - SC-636
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 680.4 .L869i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Junior high school woodwork
+Y1  - 1953
+D1  - 02/1953
+KW  - Industrial arts
+KW  - Woodwork (Manual training)
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+SC  - California
+LA  - English
+CN  - 680.4 .L87i
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Instructional guide for general wood 1, 2, 3, 4. Junior high school industrial arts
+Y1  - 1963
+D1  - 1963
+SP  - 71
+KW  - Woodwork (Manual training)
+N1  - 71 p.; Other Titles: General wood 1, 2, 3, 4, junior high school
+T2  - Los Angeles (California) City School District. Division of Instructional Services. Publication
+V1  - SC-568
+ED  - 1963 revision
+PB  - Los Angeles (California) City School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 680.4 .L87i 1963
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide to teaching woodwork, grade 7 - grade 12
+Y1  - 1961
+D1  - 1961
+SP  - 85
+KW  - Woodwork (Manual training)
+T2  - Industrial arts in the Minneapolis Public Schools
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 680.4 .M66g
+SC  - Minnesota
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - General woodwork shop: teacher's work manual. Based on the course of study in industrial arts: grades 7, 8, 9
+Y1  - 1955
+D1  - 1955
+SP  - 90
+KW  - Woodwork (Manual training)
+T2  - New York City Board of Education Curriculum bulletin, 1954-55 ser.
+V1  - 13
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 680.4 .N531g
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Industrial Arts Education
+T1  - Industrial arts syllabus in general woodwork
+Y1  - 1956
+D1  - 1956
+SP  - 93
+KW  - Woodwork (Manual training)
+KW  - Industrial arts
+N1  - ill. ; 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): "T354r-F56-10,000."/ Includes bibliographical references.; Other Titles: Industrial arts general woodwork syllabus
+PB  - University of the State of New York, the State Education Dept., Division of Industrial Education, Bureau of Industrial Arts Education
+CY  - Albany, NY
+LA  - English
+CN  - 680.4 .N53g
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Widdowson, Ralph D.
+A2  - Industrial Arts in Pennsylvania
+T1  - Woodworking as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1953
+D1  - 1953
+SP  - 53
+KW  - Woodwork (Manual training)
+N1  - x; ges illustrations 23 cm.; Note(s): "A supplement to Industrial arts in Pennsylvania. Bulletin 331, published in ... 1951, by the Department of Public Instruction."/ Includes bibliographical references (pages 27-34).
+T2  - Pennsylvania Department of Public Instruction. Bulletin [new ser.]
+V1  - 331-L
+PB  - Commonwealth of Pennsylvania, Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680.4 .P41w
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Willmott, John N.
+A1  - Dudley, Arthur J.
+A2  - University of the State of New York
+A2  - Bureau of Industrial Arts Education
+A2  - New York (State) Bureau of Vocational Curriculum Development and Industrial Teacher Training
+T1  - Suggested related information for the wood area
+Y1  - 1950
+D1  - 06/1950
+SP  - 146
+KW  - Woodwork (Manual training)
+N1  - vii; ill. ; 27 cm.; Note(s): Prepared by John N. Willmott and Arthur J. Dudley./ Imprint covered by label which reads: Distributed by Delmar Publishers, Albany, N.Y./ Includes bibliographical references (p. 137-142) and index.; Other Titles: Wood area
+T2  - Industrial arts comprehensive general shop course
+PB  - University of the State of New York, State Education Dept., Bureau of Industrial Arts Education, Bureau of Vocational Curriculum Development, cooperating
+CY  - Albany, NY
+LA  - English
+CN  - 680.4 .N53w
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Canham, Frederick
+A1  - Carlson, Chester
+A1  - Gladden, Clinton R.
+A1  - Reed, Ruel L.
+A1  - Saunders, Robert W.
+A1  - Gilbert, Robert E.
+T1  - Handbook: teaching procedures and management of woodwork shops
+Y1  - 1940
+D1  - 06/1940
+SP  - 48
+KW  - Woodwork (Manual training)
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 680.4 .O11h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Anderson, Alfred
+A1  - Buchser, Lloyd
+A1  - Canham, Frederick
+A1  - Cleary, Homer
+A1  - Reed, Ruel L.
+A1  - Taylor, Don
+A1  - Mortensen, Adolph
+T1  - Tentative course of study in cabinet shop senior high school
+Y1  - 1951
+D1  - 03/1951
+SP  - 17
+KW  - Woodwork (Manual training)
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 680.4 .O11t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative course of study in cabinet shop senior high school
+Y1  - 1955
+D1  - 07/1955
+SP  - 33
+KW  - Mechanical drawing
+KW  - Woodwork (Manual training)
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 680.4 .O11td
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Industrial arts woodworking handbook, high schools of Santa Clara County
+Y1  - 1963
+D1  - 1963
+KW  - Woodwork (Manual training)
+PB  - Santa Clara County (California) Board of Education
+CY  - Santa Clara, CA
+LA  - English
+CN  - 680.4 .S23w
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Waco (Texas) Public Schools
+T1  - Guide for teaching general woodwork IV
+Y1  - 1950
+D1  - 1950
+SP  - 5
+KW  - Woodwork (Manual training)
+PB  - Waco (Texas) Public Schools
+CY  - Waco, TX
+LA  - English
+CN  - 680.4 .W11g
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - White, Natalie
+T1  - Bookmaking
+SP  - 20
+KW  - Printing
+PB  - University of California at Los Angeles
+CY  - Los Angeles
+LA  - English
+CN  - 680.6 .C15b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - White, Natalie
+T1  - How to prepare parchment
+SP  - 4
+KW  - Parchment
+PB  - University of California at Los Angeles
+CY  - Los Angeles
+LA  - English
+CN  - 680.6 .C15b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Joint Apprenticeship Committee.
+A2  - California Bureau of Industrial Education
+T1  - Course in carpentry
+Y1  - 1968
+D1  - 1968
+KW  - Carpentry
+AB  - Contents -- v. 1. Course in carpentry [and] tests.
+ED  - 1968 edition
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15b v. 2-2a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Bureau of Industrial Education
+A2  - California State Department of Education
+T1  - Electrical wiring : workbook. Part 1
+Y1  - 1967
+D1  - 1967
+SP  - 279
+KW  - Electric wiring
+N1  - xiii; illustrations ; 28 cm; Genre/Form: Problems, exercises, etc.; Note(s): Includes bibliographical references.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15b v. 5
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Course for cement masons. Workbook
+Y1  - 1968
+D1  - 1968
+SP  - 277
+KW  - Industrial arts
+KW  - Masonry
+N1  - viii; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical references.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15b v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Bureau of Industrial Education
+T1  - Tests to accompany Course in furniture upholstering : a series of objective tests covering the topics in the workbook for apprentices in the furniture upholstering trade
+Y1  - 1951
+D1  - 1951
+SP  - 85
+KW  - Upholstery
+N1  - viii; ; 28 cm.; Genre/Form: Examinations, questions, etc.; Other Titles: Course in furniture upholstering; Responsibility: prepared by the Instructional Materials Laboratory, Bureau of Trade and Indsutrial Education, California State Department of Education.
+PB  - California Bureau of Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680.8 .C15c v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Bureau of Industrial Education
+T1  - Course in floor covering; Part 2 a workbook for apprentices in the floor covering trade
+Y1  - 1956
+D1  - 1956
+KW  - Floors
+KW  - Floor coverings
+PB  - California Bureau of Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cf v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Bureau of Industrial Education
+A2  - California State Department of Education
+T1  - Painting & decorating : Workbook. Part 1
+Y1  - 1967
+D1  - 1967
+SP  - 191
+KW  - Industrial painting
+KW  - Apprentices
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15b v. 8
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in plastering
+Y1  - 1952
+D1  - 1952
+SP  - 96
+KW  - Industrial arts
+KW  - Plastering
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15c v. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in carpentry. First year. Foundations and framing
+Y1  - 1946
+D1  - 1946
+SP  - 166
+KW  - Industrial arts
+KW  - Carpentry
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cc v. 2 1946
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in carpentry. First year. Foundations and framing
+Y1  - 1947
+D1  - 1947
+SP  - 166
+KW  - Industrial arts
+KW  - Carpentry
+ED  - Revised
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cc v. 2 1947
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in carpentry. Second year. Roof framing, exterior trim
+Y1  - 1947
+D1  - 1947
+SP  - 151
+KW  - Industrial arts
+KW  - Carpentry
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cc v. 3 1947
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in carpentry. Second year. Roof framing, exterior trim
+Y1  - 1949
+D1  - 1949
+SP  - 151
+KW  - Industrial arts
+KW  - Carpentry
+ED  - Revised
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cc v. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in carpentry. Fourth year. Reinforced-concrete and heavy-timber construction
+Y1  - 1949
+D1  - 1949
+SP  - 156
+KW  - Industrial arts
+KW  - Carpentry
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cc v. 7
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Course in plastering, part 2: blueprint reading; trade mathematics; plaster problems; dotting and screeding. Workbook
+Y1  - 1952
+D1  - 1952
+SP  - 132
+KW  - Industrial arts
+KW  - Plastering
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15c v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in plumbing and pipe fitting : part 5 : servicing procedures, welding, air conditioning systems, establishing a business
+Y1  - 1952
+D1  - 1952
+KW  - Plumbing
+KW  - Pipe fitting
+SP  - 154
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cp v. 9
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in plumbing and pipe fitting : part 5 : servicing procedures, welding, air conditioning systems, establishing a business
+Y1  - 1952
+D1  - 1952
+SP  - 92
+KW  - Plumbing
+KW  - Pipe fitting
+SP  - 154
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cp v. 10
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in plumbing and pipe fitting : part 4 : installation of low-pressure heating systems, sprinkler and fire-line systems, plumbing fixtures and appliances, steam power, process piping
+Y1  - 1951
+D1  - 1951
+SP  - 112
+KW  - Plumbing
+KW  - Pipe fitting
+N1  - 112 p.; Note(s): Mimeograph. 
+T2  - Plumbing and pipe fitting
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cp v. 7
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in Painting and Decorating. Part 1 materials, surface preparation, and paint application
+Y1  - 1950
+D1  - 1950
+SP  - 126
+KW  - Industrial painting
+KW  - Apprentices
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cpd v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in painting and decorating. Part 1 materials, surface preparation, and paint application
+Y1  - 1950
+D1  - 1950
+SP  - 135
+KW  - Industrial painting
+KW  - Apprentices
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cpd v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Course in painting and decorating. Part 2 color harmony and decorating; gloss finishes; paperhanging
+Y1  - 1952
+D1  - 1952
+SP  - 146
+KW  - Industrial painting
+KW  - Apprentices
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cpd v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in painting and decorating. Part 2 color harmony and decorating; gloss finishes; paperhanging
+Y1  - 1952
+D1  - 1952
+SP  - 109
+KW  - Industrial painting
+KW  - Apprentices
+PB  - California State Department of Education. Bureau of Trade and Industrial Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cpd v. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Trade and Industrial Education. Instructional Materials Laboratory
+T1  - Tests to accompany Course in plumbing and pipe fitting : a series of objective tests covering the topics in the workbook for apprentices in the plumbing and pipe-fitting trade
+Y1  - 1951
+KW  - Plumbing
+KW  - Pipe fitting
+AB  - pt. 4. Installation of: low-pressure heating systems, sprinkler and fire-line systems, plumbing fixtures and appliances ; Steam power ; Process piping
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15cp v. 8
+SC  - California
+ER  - 
