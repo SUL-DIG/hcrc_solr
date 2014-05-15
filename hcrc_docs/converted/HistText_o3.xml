@@ -10945,20 +10945,6 @@ the classrooms of Los Angeles County schools exemplifying the aims and ideals of
 <field name="keywords">Education</field>
 <field name="year">1950</field>
 <field name="date">1950</field>
-<field name="pub_place">Los Angeles</field>
-<field name="language">English</field>
-<field name="notes">24 p. of illus. 22 x 31 cm.; Note(s): Cover title.; Other Titles: Photographic
-study of children</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
-<field name="corp_author">Los Angeles County (California) Office of Superintendent of Schools</field>
-<field name="title">United Nations: learning to live together. [A photographic study of children in
-the classrooms of Los Angeles County schools exemplifying the aims and ideals of the United Nations</field>
-<field name="keywords">Education</field>
-<field name="year">1950</field>
-<field name="date">1950</field>
 <field name="publisher">Los Angeles (California) County Superintndent of Schools</field>
 <field name="pub_place">Los Angeles, CA</field>
 <field name="pages">24</field>
