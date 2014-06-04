@@ -374,14 +374,13 @@
         <field name="call_number">745 .P41c</field>
         <field name="state_country">Pennsylvania</field>
     </doc>
-
-    <!--<doc>
+<doc>
         <field name="type">Book</field>
         <field name="corp_author">Portland (Oregon) Public Schools</field>
         <field name="title">Arts and crafts ideas for the high school mentally retarded
             students</field>
         <field name="year">1968</field>
-        <field name="title">1968</field>
+        <field name="date">1968</field>
         <field name="pages">27</field>
         <field name="keywords">Children with mental disabilities</field>
         <field name="keywords">Art</field>
@@ -395,7 +394,7 @@
         <field name="call_number">745 .P85a</field>
         <field name="state_country">Oregon</field>
         <field name="grade_level_group">High school</field>
-    </doc>-->
+    </doc>
 
     <doc>
         <field name="type">Book</field>
