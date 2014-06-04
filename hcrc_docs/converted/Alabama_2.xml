@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">A two year follow up of recommendations made by the Alabama Education
+            Study Commission, 1972-1974 : a report</field>
+        <field name="year">1975</field>
+        <field name="date">03/1975</field>
+        <field name="pages">36</field>
+        <field name="keywords">Education</field>
+        <field name="notes">i, 36 leaves ; 28 cm.; Responsibility: prepared by the staff of the
+            Alabama Education Study Commission, B.D. Whetstone, coordinator</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission Report</field>
+        <field name="series_vol">18</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1975</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">Special education programs in Alabama</field>
+        <field name="year">1975</field>
+        <field name="date">05/1975</field>
+        <field name="pages">26</field>
+        <field name="keywords">Children with disabilities</field>
+        <field name="notes">i, 26 leaves ; 28 cm.; Responsibility: Alabama Education Study
+            Commission</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission Report</field>
+        <field name="series_vol">19</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1975</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Whetstone, B. D.</field>
+        <field name="author_nat">B. D. Whetstone</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">The teaching of reading in Alabama schools : a report prepared for the
+            Alabama Education Study Commission</field>
+        <field name="year">1974</field>
+        <field name="date">06/1974</field>
+        <field name="pages">44</field>
+        <field name="keywords">Reading</field>
+        <field name="notes">44 leaves : graphs ; 28 cm.; Genre/Form: Statistics.; Responsibility: by
+            B.D. Whetstone</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission. Report</field>
+        <field name="series_vol">17</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1974</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">Conclusions and recommendations</field>
+        <field name="year">1973</field>
+        <field name="date">04/1973</field>
+        <field name="pages">14</field>
+        <field name="keywords">Education</field>
+        <field name="notes">i, 14 leaves ; 28 cm.; Note(s): At head of title: Achieving educational
+            excellence in Alabama./ On cover: Project to achieve educational excellence in
+            Alabama</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission Report</field>
+        <field name="series_vol">13</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1973</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Diebold Group</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">An assessment of business needs from Alabama high schools</field>
+        <field name="year">1973</field>
+        <field name="date">05/1973</field>
+        <field name="pages">75</field>
+        <field name="keywords">Economics of education</field>
+        <field name="keywords">Counseling</field>
+        <field name="notes">75 l. 28 cm.; Note(s): On cover: Project to achieve educational
+            excellence in Alabama.; Other Titles: Project to achieve educational excellence in
+            Alabama</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission Report</field>
+        <field name="series_vol">14</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1973</field>
+        <field name="state_country">Alabama</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Whetstone, B. D.</field>
+        <field name="author_nat">B. D. Whetstone</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">Projecting average grade placement in language, math, and reading
+            achievement in local school systems in Alabama</field>
+        <field name="year">1973</field>
+        <field name="date">08/1973</field>
+        <field name="pages">24</field>
+        <field name="keywords">Statistics</field>
+        <field name="keywords">Academic achievement</field>
+        <field name="keywords">School grade placement</field>
+        <field name="notes">24 l. 28 cm.; Genre/Form: Statistics.; Note(s): On cover: Project to
+            achieve educational excellence in Alabama.; Responsibility: Paper prepared for the
+            Alabama Education Study Commission, by B.D. Whetstone.</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission Report</field>
+        <field name="series_vol">16</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1973</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama Education Association</field>
+        <field name="title">ABC's of the Alabama Minimum Program</field>
+        <field name="year">1965</field>
+        <field name="date">1965?</field>
+        <field name="pages">15</field>
+        <field name="keywords">Educational law and legislation</field>
+        <field name="notes">Frequency: Irregular; v. ; 21 cm; Named Corp: Alabama. Alabama Minimum
+            Program Law</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alabama Education Association</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1965</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">Facilities and equipment in local school systems</field>
+        <field name="year">1973</field>
+        <field name="date">04/1973</field>
+        <field name="pages">135</field>
+        <field name="keywords">School facilities</field>
+        <field name="keywords">Statistics</field>
+        <field name="notes">ii, 135 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): At head of
+            title: Achieving educational excellence in Alabama./ On cover: Project to achieve
+            educational excellence in Alabama.; Other Titles: Achieving educational excellence in
+            Alabama; Project to achieve educational excellence in Alabama</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission Report</field>
+        <field name="series_vol">10</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1973</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">Objectives and procedures</field>
+        <field name="year">1972</field>
+        <field name="date">03/1972</field>
+        <field name="pages">19</field>
+        <field name="keywords">Education</field>
+        <field name="notes">19 leaves ; 28 cm.; Note(s): At head of title: Achieving educational
+            excellence in Alabama./ On cover: Project to achieve educational excellence in Alabama./
+            Includes bibliographical references (leaf 19).; Other Titles: Achieving educational
+            excellence in Alabama; Project to achieve educational excellence in Alabama</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Education Study Commission Report</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1972</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama Education Study Commission</field>
+        <field name="title">Tentative report of the Committee on Financing Education, Including the
+            Minimum Program</field>
+        <field name="year">1958</field>
+        <field name="date">12/1958</field>
+        <field name="pages">68</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">iv; ; 28 cm.; Note(s): December, 1958</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alabama Education Study Commission</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1958</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama State Department of Education</field>
+        <field name="title">Estimated cost to modernize school plant facilities in Alabama</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">151</field>
+        <field name="keywords">School buildings</field>
+        <field name="notes">151 pages : illustrations.; Responsibility: compiled by Division of
+            Administration and Finance</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama Department of Education Bulletin</field>
+        <field name="series_vol">7</field>
+        <field name="publisher">Alabama State Department of Education</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1954</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama State Department of Education</field>
+        <field name="title">Accreditment standards for secondary schools in Alabama</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">47</field>
+        <field name="keywords">Accreditation</field>
+        <field name="notes">[vi]; ges ; 21 cm.; Note(s): At head of title: State of Alabama,
+            Department of Education, Montgomery</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama State Department of Education Bulletin</field>
+        <field name="series_vol">10</field>
+        <field name="publisher">Alabama State Department of Education</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1954</field>
+        <field name="state_country">Alabama</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Larson, James Edward</field>
+        <field name="author_nat">James Edward Larson</field>
+        <field name="author">Cloutier, Daniel Raymond</field>
+        <field name="author_nat">Daniel Raymond Cloutier</field>
+        <field name="corp_author">Alabama State Legislature Tax Study Committee</field>
+        <field name="title">Financing education in Alabama; a special report of the Committee on the
+            Revision of State Tax Laws</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">22</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">22 p. 28 cm.; Note(s): "Represents the findings and recommendations of
+            the Subcommittee on Financing Education."--P. iii./ Research staff: James E. Larson,
+            Daniel R. Cloutier</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alabama State Legislature Tax Study Committee</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1957</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama State Department of Education</field>
+        <field name="title">Using resources of the community to build a school program</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">118</field>
+        <field name="keywords">Community and school</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama State Department of Education Instructional series
+            bulletin</field>
+        <field name="series_vol">12</field>
+        <field name="title">Alabama State Department of Education bulletin</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">Alabama State Department of Education</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1950</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama State Department of Education</field>
+        <field name="title">The administration and organization of education in-service in Alabama
+            with emphasis on four school systems</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">307</field>
+        <field name="keywords">Education</field>
+        <field name="notes">viii; ges.; Note(s): Includes bibliographical references (pages
+            303-307)</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama State Department of Education Bulletin</field>
+        <field name="series_vol">5</field>
+        <field name="publisher">Alabama State Department of Education</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1948</field>
+        <field name="state_country">Alabama</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alabama State Department of Education</field>
+        <field name="title">Feeding children in the nursery school</field>
+        <field name="year">1945</field>
+        <field name="date">1945</field>
+        <field name="pages">89</field>
+        <field name="keywords">School children</field>
+        <field name="keywords">Food service</field>
+        <field name="notes">89 pages 23 cm.; Responsibility: Authorized by the State Board of
+            Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alabama State Department of Education Bulletin</field>
+        <field name="series_vol">3</field>
+        <field name="edition">3d revision</field>
+        <field name="publisher">Alabama State Department of Education</field>
+        <field name="pub_place">Montgomery, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A1 1945</field>
+        <field name="state_country">Alabama</field>
+        <field name="grade_level_group">Prek</field>
+    </doc>
+</add>
