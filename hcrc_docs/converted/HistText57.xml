@@ -302,7 +302,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Guy, Gertrude E.</field>
-        <field name="author_nat">Gertrude E.<space/>Guy</field>
+        <field name="author_nat">Gertrude E. Guy</field>
         <field name="corp_author">Sweetwater Union High School District (Chula Vista,
             California)</field>
         <field name="title">Course notes and suggestions for home management</field>
@@ -323,7 +323,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Ketterer, Carolyn M.</field>
-        <field name="author_nat">Carolyn M.<space/>Ketterer</field>
+        <field name="author_nat">Carolyn M. Ketterer</field>
         <field name="corp_author">Sweetwater Union High School District (Chula Vista,
             California)</field>
         <field name="title">Course notes and suggestions for homemaking I: grades 9-11</field>
@@ -344,7 +344,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Guy, Gertrude E.</field>
-        <field name="author_nat">Gertrude E.<space/>Guy</field>
+        <field name="author_nat">Gertrude E. Guy</field>
         <field name="corp_author">Sweetwater Union High School District (Chula Vista,
             California)</field>
         <field name="title">Course notes and suggestions for homemaking III</field>
@@ -363,7 +363,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Ketterer, Carolyn M.</field>
-        <field name="author_nat">Carolyn M.<space/>Ketterer</field>
+        <field name="author_nat">Carolyn M. Ketterer</field>
         <field name="corp_author">Sweetwater Union High School District (Chula Vista,
             California)</field>
         <field name="title">Course notes and suggestions for Homemaking II grades 10 and 11</field>
@@ -502,7 +502,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Kent, Druzilla Crary</field>
-        <field name="author_nat">Druzilla Crary<space/>Kent</field>
+        <field name="author_nat">Druzilla Crary Kent</field>
         <field name="title">Home, school, and community experiences in the homemaking
             program</field>
         <field name="year">1954</field>
@@ -564,7 +564,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Spellman, Coreen Mary</field>
-        <field name="author_nat">Coreen Mary<space/>Spellman</field>
+        <field name="author_nat">Coreen Mary Spellman</field>
         <field name="title">Appropriate dress for high school girls</field>
         <field name="year">1927</field>
         <field name="date">1927</field>
@@ -598,7 +598,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Bray, Helen A.</field>
-        <field name="author_nat">Helen A.<space/>Bray</field>
+        <field name="author_nat">Helen A. Bray</field>
         <field name="title">Textile fibers and fabrics</field>
         <field name="year">1921</field>
         <field name="date">08/1921</field>
@@ -620,7 +620,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Gleason, Margaret</field>
-        <field name="author_nat">Margaret<space/>Gleason</field>
+        <field name="author_nat">Margaret Gleason</field>
         <field name="title">Food preservation, canning, preserving, jelly making</field>
         <field name="year">1921</field>
         <field name="date">04/1921</field>
@@ -639,7 +639,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Gleason, Margaret</field>
-        <field name="author_nat">Margaret<space/>Gleason</field>
+        <field name="author_nat">Margaret Gleason</field>
         <field name="title">Menus and recipes</field>
         <field name="year">1923</field>
         <field name="date">10/1923</field>
@@ -681,7 +681,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Chapman, Iva</field>
-        <field name="author_nat">Iva<space/>Chapman</field>
+        <field name="author_nat">Iva Chapman</field>
         <field name="title">Kindergarten work at the College of Industrial Arts</field>
         <field name="year">1927</field>
         <field name="date">06/1927</field>
@@ -703,9 +703,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Halgrim, Charlotte</field>
-        <field name="author_nat">Charlotte<space/>Halgrim</field>
+        <field name="author_nat">Charlotte Halgrim</field>
         <field name="author">Canon, Maurine</field>
-        <field name="author_nat">Maurine<space/>Canon</field>
+        <field name="author_nat">Maurine Canon</field>
         <field name="title">Meal service</field>
         <field name="year">1927</field>
         <field name="date">08/1927</field>
@@ -727,7 +727,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Hubbard, L. H.</field>
-        <field name="author_nat">L. H.<space/>Hubbard</field>
+        <field name="author_nat">L. H. Hubbard</field>
         <field name="title">The private endowment of public education</field>
         <field name="year">1927</field>
         <field name="date">12/1927</field>
@@ -745,7 +745,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Westcourt, Fred W.</field>
-        <field name="author_nat">Fred W.<space/>Westcourt</field>
+        <field name="author_nat">Fred W. Westcourt</field>
         <field name="title">Beautifying the home grounds</field>
         <field name="year">1927</field>
         <field name="date">09/1927</field>
@@ -767,7 +767,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Craddock, Mozelle E.</field>
-        <field name="author_nat">Mozelle E.<space/>Craddock</field>
+        <field name="author_nat">Mozelle E. Craddock</field>
         <field name="title">The school lunch</field>
         <field name="year">1931</field>
         <field name="date">07/1931</field>
@@ -787,7 +787,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Hubbard, L. H.</field>
-        <field name="author_nat">L. H.<space/>Hubbard</field>
+        <field name="author_nat">L. H. Hubbard</field>
         <field name="title">The improvement of college teaching</field>
         <field name="year">1928</field>
         <field name="date">05/1928</field>
@@ -809,7 +809,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Judd, Cornelius Davenport</field>
-        <field name="author_nat">Cornelius Davenport<space/>Judd</field>
+        <field name="author_nat">Cornelius Davenport Judd</field>
         <field name="title">International relations</field>
         <field name="year">1929</field>
         <field name="date">03/1929</field>
@@ -831,7 +831,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Roberts, Marion Rowland</field>
-        <field name="author_nat">Marion Rowland<space/>Roberts</field>
+        <field name="author_nat">Marion Rowland Roberts</field>
         <field name="title">Games and recreational programs</field>
         <field name="year">1931</field>
         <field name="date">05/1931</field>
@@ -855,7 +855,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Taylor, Mary Starr</field>
-        <field name="author_nat">Mary Starr<space/>Taylor</field>
+        <field name="author_nat">Mary Starr Taylor</field>
         <field name="title">A constructive study of interior decoration--a syllabus and a
             view-point</field>
         <field name="year">1932</field>
@@ -892,7 +892,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Duncan, Bertha Kathleen</field>
-        <field name="author_nat">Bertha Kathleen<space/>Duncan</field>
+        <field name="author_nat">Bertha Kathleen Duncan</field>
         <field name="title">Some principles of psychology and mental hygiene of value to
             teachers</field>
         <field name="year">1933</field>
@@ -912,7 +912,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Lee, Sarah</field>
-        <field name="author_nat">Sarah<space/>Lee</field>
+        <field name="author_nat">Sarah Lee</field>
         <field name="title">Clothing the child</field>
         <field name="year">1940</field>
         <field name="date">04/1940</field>
@@ -932,7 +932,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Moore, L. H.</field>
-        <field name="author_nat">L. H.<space/>Moore</field>
+        <field name="author_nat">L. H. Moore</field>
         <field name="title">Disciplining the child in the home</field>
         <field name="year">1934</field>
         <field name="date">05/1934</field>
@@ -1229,11 +1229,11 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Carroll, Lula Mae L.</field>
-        <field name="author_nat">Lula Mae L.<space/>Carroll</field>
+        <field name="author_nat">Lula Mae L. Carroll</field>
         <field name="author">Francioni, J. B.</field>
-        <field name="author_nat">J. B.<space/>Francioni</field>
+        <field name="author_nat">J. B. Francioni</field>
         <field name="author">Robinson, A. E.</field>
-        <field name="author_nat">A. E.<space/>Robinson</field>
+        <field name="author_nat">A. E. Robinson</field>
         <field name="title">Canning fruits and vegetables in school community food preservation
             laboratories</field>
         <field name="year">1952</field>
@@ -1256,7 +1256,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Kean, Ruth M.</field>
-        <field name="author_nat">Ruth M.<space/>Kean</field>
+        <field name="author_nat">Ruth M. Kean</field>
         <field name="corp_author">Louisiana State Department of Education. Nutrition Education
             Section</field>
         <field name="title">Nutrition education bibliography</field>
@@ -1278,7 +1278,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Kean, Ruth M.</field>
-        <field name="author_nat">Ruth M.<space/>Kean</field>
+        <field name="author_nat">Ruth M. Kean</field>
         <field name="corp_author">Louisiana State Department of Education. Nutrition Education
             Section</field>
         <field name="title">Social living unit, grades 1-4</field>
@@ -1302,9 +1302,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Thomas, Charlotte Wright</field>
-        <field name="author_nat">Charlotte Wright<space/>Thomas</field>
+        <field name="author_nat">Charlotte Wright Thomas</field>
         <field name="author">Halbert, Marie</field>
-        <field name="author_nat">Marie<space/>Halbert</field>
+        <field name="author_nat">Marie Halbert</field>
         <field name="corp_author">University of Kentucky. Bureau of School Service</field>
         <field name="title">The lucky twins</field>
         <field name="year">1941</field>
@@ -1444,7 +1444,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Foster, Florence P.</field>
-        <field name="author_nat">Florence P.<space/>Foster</field>
+        <field name="author_nat">Florence P. Foster</field>
         <field name="corp_author">New Jersey State Department of Education. Office of Elementary
             Education</field>
         <field name="title">Nutrition programs for young children</field>
@@ -1484,7 +1484,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Silver, Bernard E.</field>
-        <field name="author_nat">Bernard E.<space/>Silver</field>
+        <field name="author_nat">Bernard E. Silver</field>
         <field name="corp_author">University of the State of New York</field>
         <field name="corp_author">New York State Education Department</field>
         <field name="corp_author">New York Bureau of Vocational Curriculum Development and
@@ -1506,7 +1506,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Silver, Bernard E.</field>
-        <field name="author_nat">Bernard E.<space/>Silver</field>
+        <field name="author_nat">Bernard E. Silver</field>
         <field name="corp_author">University of the State of New York</field>
         <field name="corp_author">New York Bureau of Vocational Curriculum Development and
             Industrial Teacher Training</field>
@@ -1543,7 +1543,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Aptekar, Sidney</field>
-        <field name="author_nat">Sidney<space/>Aptekar</field>
+        <field name="author_nat">Sidney Aptekar</field>
         <field name="corp_author">University of the State of New York</field>
         <field name="corp_author">Bureau of Vocational Curriculum Development and Industrial Teacher
             Training</field>
@@ -1564,7 +1564,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Silver, Bernard E.</field>
-        <field name="author_nat">Bernard E.<space/>Silver</field>
+        <field name="author_nat">Bernard E. Silver</field>
         <field name="corp_author">University of the State of New York</field>
         <field name="corp_author">Bureau of Vocational Curriculum Development and Industrial Teacher
             Training</field>
@@ -1684,9 +1684,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Gardner, Emma W.</field>
-        <field name="author_nat">Emma W.<space/>Gardner</field>
+        <field name="author_nat">Emma W. Gardner</field>
         <field name="author">Narigon, Ethel M.</field>
-        <field name="author_nat">Ethel M.<space/>Narigon</field>
+        <field name="author_nat">Ethel M. Narigon</field>
         <field name="corp_author">American National Red Cross. Tucson Chapter</field>
         <field name="title">Milk for health &amp; growth; a food party nutrition unit for the
             primary grades</field>
@@ -1707,7 +1707,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Harwood, Edith</field>
-        <field name="author_nat">Edith<space/>Harwood</field>
+        <field name="author_nat">Edith Harwood</field>
         <field name="title">Tune-up Time. A primer on nutrition</field>
         <field name="year">1948</field>
         <field name="date">12/1948</field>
@@ -1739,7 +1739,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Miller, Helen H.</field>
-        <field name="author_nat">Helen H.<space/>Miller</field>
+        <field name="author_nat">Helen H. Miller</field>
         <field name="title">The kitchen in war production</field>
         <field name="year">1943</field>
         <field name="date">1943</field>
@@ -1856,7 +1856,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Olson, Clara Mae</field>
-        <field name="author_nat">Clara Mae<space/>Olson</field>
+        <field name="author_nat">Clara Mae Olson</field>
         <field name="title">If our house could talk</field>
         <field name="year">1951</field>
         <field name="date">1951</field>
@@ -1873,7 +1873,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Recknagel, Ella</field>
-        <field name="author_nat">Ella<space/>Recknagel</field>
+        <field name="author_nat">Ella Recknagel</field>
         <field name="title">A unit on nutrition for grades I-II</field>
         <field name="year">1964</field>
         <field name="date">1964</field>
@@ -1952,9 +1952,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Avery, Curtis E.</field>
-        <field name="author_nat">Curtis E.<space/>Avery</field>
+        <field name="author_nat">Curtis E. Avery</field>
         <field name="author">Kirkendall, Lester Allen</field>
-        <field name="author_nat">Lester Allen<space/>Kirkendall</field>
+        <field name="author_nat">Lester Allen Kirkendall</field>
         <field name="title">The Oregon developmental center project in family life education</field>
         <field name="year">1955</field>
         <field name="date">03/1955</field>
@@ -2140,7 +2140,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Zahorsky, Metta</field>
-        <field name="author_nat">Metta<space/>Zahorsky</field>
+        <field name="author_nat">Metta Zahorsky</field>
         <field name="title">What do you think about our school's family living program?</field>
         <field name="year">1951</field>
         <field name="date">03/1951</field>
@@ -2158,15 +2158,15 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Layton, Naomi</field>
-        <field name="author_nat">Naomi<space/>Layton</field>
+        <field name="author_nat">Naomi Layton</field>
         <field name="author">Howe, William J.</field>
-        <field name="author_nat">William J.<space/>Howe</field>
+        <field name="author_nat">William J. Howe</field>
         <field name="author">Phillips, Chester</field>
-        <field name="author_nat">Chester<space/>Phillips</field>
+        <field name="author_nat">Chester Phillips</field>
         <field name="author">Sullivan, William</field>
-        <field name="author_nat">William<space/>Sullivan</field>
+        <field name="author_nat">William Sullivan</field>
         <field name="author">Pendergast, Thelma</field>
-        <field name="author_nat">Thelma<space/>Pendergast</field>
+        <field name="author_nat">Thelma Pendergast</field>
         <field name="corp_author">La Vista (California) School District</field>
         <field name="title">The home and family: a social studies unit for first grade</field>
         <field name="year">1960</field>
@@ -2258,15 +2258,15 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Hooper, Henry</field>
-        <field name="author_nat">Henry<space/>Hooper</field>
+        <field name="author_nat">Henry Hooper</field>
         <field name="author">White, Martha</field>
-        <field name="author_nat">Martha<space/>White</field>
+        <field name="author_nat">Martha White</field>
         <field name="author">Prigmore, Phyllis</field>
-        <field name="author_nat">Phyllis<space/>Prigmore</field>
+        <field name="author_nat">Phyllis Prigmore</field>
         <field name="author">Gillette, Gladys</field>
-        <field name="author_nat">Gladys<space/>Gillette</field>
+        <field name="author_nat">Gladys Gillette</field>
         <field name="author">Ellis, Henry Etta</field>
-        <field name="author_nat">Henry Etta<space/>Ellis</field>
+        <field name="author_nat">Henry Etta Ellis</field>
         <field name="corp_author">Northeast High School (Oklahoma City, Oklahoma)</field>
         <field name="title">Home and family relations, eighth grade unified studies: source
             unit</field>
@@ -2402,9 +2402,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Stevens, Robert</field>
-        <field name="author_nat">Robert<space/>Stevens</field>
+        <field name="author_nat">Robert Stevens</field>
         <field name="author">Burness, Marguerite</field>
-        <field name="author_nat">Marguerite<space/>Burness</field>
+        <field name="author_nat">Marguerite Burness</field>
         <field name="title">Development and problems of the American family</field>
         <field name="year">1960</field>
         <field name="date">12/1960</field>
@@ -2419,9 +2419,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Barbour, Tomme</field>
-        <field name="author_nat">Tomme<space/>Barbour</field>
+        <field name="author_nat">Tomme Barbour</field>
         <field name="author">Radelfinger, Sam</field>
-        <field name="author_nat">Sam<space/>Radelfinger</field>
+        <field name="author_nat">Sam Radelfinger</field>
         <field name="title">The selection of a marriage partner: factors, problems, and
             considerations</field>
         <field name="year">1957</field>
@@ -2473,7 +2473,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Armstrong, Craig</field>
-        <field name="author_nat">Craig<space/>Armstrong</field>
+        <field name="author_nat">Craig Armstrong</field>
         <field name="title">Family life</field>
         <field name="year">1952</field>
         <field name="date">07/1952</field>

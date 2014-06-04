@@ -166,7 +166,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Ketcham, G. Wesley</field>
-        <field name="author_nat">G. Wesley<space/>Ketcham</field>
+        <field name="author_nat">G. Wesley Ketcham</field>
         <field name="title">Current practices in Connecticut secondary schools: industrial
             arts</field>
         <field name="year">1954</field>
@@ -261,7 +261,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Willis, Benjamin C.</field>
-        <field name="author_nat">Benjamin C.<space/>Willis</field>
+        <field name="author_nat">Benjamin C. Willis</field>
         <field name="corp_author">Chicago (Illinois) Board of Education</field>
         <field name="title">Industrial arts laboratory</field>
         <field name="year">1957</field>
@@ -294,7 +294,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Woodward, Robert L.</field>
-        <field name="author_nat">Robert L.<space/>Woodward</field>
+        <field name="author_nat">Robert L. Woodward</field>
         <field name="corp_author">California State Department of Education</field>
         <field name="title">Industrial arts and science; applying scientific principles in
             industrial arts activities</field>
@@ -330,7 +330,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Woodward, Robert L.</field>
-        <field name="author_nat">Robert L.<space/>Woodward</field>
+        <field name="author_nat">Robert L. Woodward</field>
         <field name="corp_author">California State Department of Education. Mathematics-Industrial
             Arts Project Committee</field>
         <field name="title">Mathematics and industrial arts education, guide for the improvement of
@@ -362,7 +362,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Collinge, Colburn</field>
-        <field name="author_nat">Colburn<space/>Collinge</field>
+        <field name="author_nat">Colburn Collinge</field>
         <field name="corp_author">Cedar Falls (Iowa) Community Schools</field>
         <field name="title">Electricity-electronics, beginning woodwork, advanced woodwork</field>
         <field name="year">1966</field>
@@ -532,7 +532,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Easter, D. Dale</field>
-        <field name="author_nat">D. Dale<space/>Easter</field>
+        <field name="author_nat">D. Dale Easter</field>
         <field name="title">A handbook for industrial arts teachers</field>
         <field name="year">1948</field>
         <field name="date">1948</field>
@@ -637,9 +637,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Billings, Charles R.</field>
-        <field name="author_nat">Charles R.<space/>Billings</field>
+        <field name="author_nat">Charles R. Billings</field>
         <field name="author">Copeland, Charles M.</field>
-        <field name="author_nat">Charles M.<space/>Copeland</field>
+        <field name="author_nat">Charles M. Copeland</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : architectural drafting 1-2</field>
         <field name="year">1966</field>
@@ -662,11 +662,11 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Copeland, Charles M.</field>
-        <field name="author_nat">Charles M.<space/>Copeland</field>
+        <field name="author_nat">Charles M. Copeland</field>
         <field name="author">Krebs, Otto J.</field>
-        <field name="author_nat">Otto J.<space/>Krebs</field>
+        <field name="author_nat">Otto J. Krebs</field>
         <field name="author">Wilson, George H.</field>
-        <field name="author_nat">George H.<space/>Wilson</field>
+        <field name="author_nat">George H. Wilson</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : architectural drafting 3-4</field>
         <field name="year">1970</field>
@@ -686,11 +686,11 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Copeland, Charles M.</field>
-        <field name="author_nat">Charles M.<space/>Copeland</field>
+        <field name="author_nat">Charles M. Copeland</field>
         <field name="author">Krebs, Otto J.</field>
-        <field name="author_nat">Otto J.<space/>Krebs</field>
+        <field name="author_nat">Otto J. Krebs</field>
         <field name="author">Palmgren, Ben H.</field>
-        <field name="author_nat">Ben H.<space/>Palmgren</field>
+        <field name="author_nat">Ben H. Palmgren</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : architectural drafting 5-6,
             occupational</field>
@@ -710,13 +710,13 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Dargatz, Glenn E.</field>
-        <field name="author_nat">Glenn E.<space/>Dargatz</field>
+        <field name="author_nat">Glenn E. Dargatz</field>
         <field name="author">Hamilton, William G.</field>
-        <field name="author_nat">William G.<space/>Hamilton</field>
+        <field name="author_nat">William G. Hamilton</field>
         <field name="author">Lindeman, ronald W.</field>
-        <field name="author_nat">ronald W.<space/>Lindeman</field>
+        <field name="author_nat">ronald W. Lindeman</field>
         <field name="author">Whitcomb, David R.</field>
-        <field name="author_nat">David R.<space/>Whitcomb</field>
+        <field name="author_nat">David R. Whitcomb</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : auto mechanics 3-4</field>
         <field name="year">1970</field>
@@ -736,13 +736,13 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Bernard, William H.</field>
-        <field name="author_nat">William H.<space/>Bernard</field>
+        <field name="author_nat">William H. Bernard</field>
         <field name="author">Dargatz, Glenn E.</field>
-        <field name="author_nat">Glenn E.<space/>Dargatz</field>
+        <field name="author_nat">Glenn E. Dargatz</field>
         <field name="author">Hart, Henry W.</field>
-        <field name="author_nat">Henry W.<space/>Hart</field>
+        <field name="author_nat">Henry W. Hart</field>
         <field name="author">Whitcomb, David R.</field>
-        <field name="author_nat">David R.<space/>Whitcomb</field>
+        <field name="author_nat">David R. Whitcomb</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : auto mechanics 5-6,
             occupational</field>
@@ -762,13 +762,13 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Liewer, Urban J.</field>
-        <field name="author_nat">Urban J.<space/>Liewer</field>
+        <field name="author_nat">Urban J. Liewer</field>
         <field name="author">Mueller, Kenneth L.</field>
-        <field name="author_nat">Kenneth L.<space/>Mueller</field>
+        <field name="author_nat">Kenneth L. Mueller</field>
         <field name="author">Rustuen, Iver L.</field>
-        <field name="author_nat">Iver L.<space/>Rustuen</field>
+        <field name="author_nat">Iver L. Rustuen</field>
         <field name="author">Sciranka, Paul G.</field>
-        <field name="author_nat">Paul G.<space/>Sciranka</field>
+        <field name="author_nat">Paul G. Sciranka</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : heavy metals 5-6, occupational</field>
         <field name="year">1968</field>
@@ -787,11 +787,11 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Anderson, Carol Q.</field>
-        <field name="author_nat">Carol Q.<space/>Anderson</field>
+        <field name="author_nat">Carol Q. Anderson</field>
         <field name="author">Chard, Richard A.</field>
-        <field name="author_nat">Richard A.<space/>Chard</field>
+        <field name="author_nat">Richard A. Chard</field>
         <field name="author">Wolff, Carl M.</field>
-        <field name="author_nat">Carl M.<space/>Wolff</field>
+        <field name="author_nat">Carl M. Wolff</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : industrial drafting 5-6,
             occupational</field>
@@ -812,13 +812,13 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Liewer, Urban J.</field>
-        <field name="author_nat">Urban J.<space/>Liewer</field>
+        <field name="author_nat">Urban J. Liewer</field>
         <field name="author">Mueller, Kenneth L.</field>
-        <field name="author_nat">Kenneth L.<space/>Mueller</field>
+        <field name="author_nat">Kenneth L. Mueller</field>
         <field name="author">Rustuen, Iver L.</field>
-        <field name="author_nat">Iver L.<space/>Rustuen</field>
+        <field name="author_nat">Iver L. Rustuen</field>
         <field name="author">Sciranka, Paul G.</field>
-        <field name="author_nat">Paul G.<space/>Sciranka</field>
+        <field name="author_nat">Paul G. Sciranka</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : light metals 5-6, occupational</field>
         <field name="year">1968</field>
@@ -837,11 +837,11 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Anderson, Carol Q.</field>
-        <field name="author_nat">Carol Q.<space/>Anderson</field>
+        <field name="author_nat">Carol Q. Anderson</field>
         <field name="author">Chard, Richard A.</field>
-        <field name="author_nat">Richard A.<space/>Chard</field>
+        <field name="author_nat">Richard A. Chard</field>
         <field name="author">Prosser, Quentin T.</field>
-        <field name="author_nat">Quentin T.<space/>Prosser</field>
+        <field name="author_nat">Quentin T. Prosser</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : industrial drafting 3-4</field>
         <field name="year">1969</field>
@@ -899,7 +899,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Van Moorlehem, Walter F.</field>
-        <field name="author_nat">Walter F.<space/>Van Moorlehem</field>
+        <field name="author_nat">Walter F. Van Moorlehem</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline : automotives 1b-1a, auto
             essentials</field>
@@ -940,9 +940,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">May, Harold A</field>
-        <field name="author_nat">Harold A<space/>May</field>
+        <field name="author_nat">Harold A May</field>
         <field name="author">Soafer, Raymond J.</field>
-        <field name="author_nat">Raymond J.<space/>Soafer</field>
+        <field name="author_nat">Raymond J. Soafer</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline: graphic arts 1b-1a</field>
         <field name="year">1963</field>
@@ -964,13 +964,13 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Horning, Donald B.</field>
-        <field name="author_nat">Donald B.<space/>Horning</field>
+        <field name="author_nat">Donald B. Horning</field>
         <field name="author">Soafer, Raymond J.</field>
-        <field name="author_nat">Raymond J.<space/>Soafer</field>
+        <field name="author_nat">Raymond J. Soafer</field>
         <field name="author">Tardy, Gene L.</field>
-        <field name="author_nat">Gene L.<space/>Tardy</field>
+        <field name="author_nat">Gene L. Tardy</field>
         <field name="author">Williams, Richard O.</field>
-        <field name="author_nat">Richard O.<space/>Williams</field>
+        <field name="author_nat">Richard O. Williams</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline: graphic arts 3-4</field>
         <field name="year">1970</field>
@@ -991,9 +991,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">May, Harold A</field>
-        <field name="author_nat">Harold A<space/>May</field>
+        <field name="author_nat">Harold A May</field>
         <field name="author">Soafer, Raymond J.</field>
-        <field name="author_nat">Raymond J.<space/>Soafer</field>
+        <field name="author_nat">Raymond J. Soafer</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline: general graphic arts</field>
         <field name="year">1963</field>
@@ -1051,13 +1051,13 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Carpenter, Custer S.</field>
-        <field name="author_nat">Custer S.<space/>Carpenter</field>
+        <field name="author_nat">Custer S. Carpenter</field>
         <field name="author">Green, William O.</field>
-        <field name="author_nat">William O.<space/>Green</field>
+        <field name="author_nat">William O. Green</field>
         <field name="author">Harris, Lester A.</field>
-        <field name="author_nat">Lester A.<space/>Harris</field>
+        <field name="author_nat">Lester A. Harris</field>
         <field name="author">Prosser, Quentin T.</field>
-        <field name="author_nat">Quentin T.<space/>Prosser</field>
+        <field name="author_nat">Quentin T. Prosser</field>
         <field name="corp_author">Long Beach (California) Unified School District</field>
         <field name="title">Industrial arts course outline: woods 3-4</field>
         <field name="year">1969</field>
@@ -1149,7 +1149,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Lee, E. A.</field>
-        <field name="author_nat">E. A.<space/>Lee</field>
+        <field name="author_nat">E. A. Lee</field>
         <field name="corp_author">Louisiana State Department of Education</field>
         <field name="title">A co-operative plan for apprentice training in Louisiana</field>
         <field name="year">1950</field>
@@ -1200,7 +1200,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Thomas, H. O.</field>
-        <field name="author_nat">H. O.<space/>Thomas</field>
+        <field name="author_nat">H. O. Thomas</field>
         <field name="corp_author">Louisiana State Department of Education</field>
         <field name="title">Industrial arts for secondary schools</field>
         <field name="year">1952</field>
@@ -1311,9 +1311,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Cliburn, O. R.</field>
-        <field name="author_nat">O. R.<space/>Cliburn</field>
+        <field name="author_nat">O. R. Cliburn</field>
         <field name="author">Schoenstein, Edward G.</field>
-        <field name="author_nat">Edward G.<space/>Schoenstein</field>
+        <field name="author_nat">Edward G. Schoenstein</field>
         <field name="title">Drafting: course of study</field>
         <field name="year">1959</field>
         <field name="date">1959</field>
@@ -1331,7 +1331,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Hanson, James</field>
-        <field name="author_nat">James<space/>Hanson</field>
+        <field name="author_nat">James Hanson</field>
         <field name="title">Electricity I and II: course of study</field>
         <field name="year">1959</field>
         <field name="date">1959-1960</field>
@@ -1349,11 +1349,11 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Meyer, Theodore</field>
-        <field name="author_nat">Theodore<space/>Meyer</field>
+        <field name="author_nat">Theodore Meyer</field>
         <field name="author">McSparin, Lester</field>
-        <field name="author_nat">Lester<space/>McSparin</field>
+        <field name="author_nat">Lester McSparin</field>
         <field name="author">Scheidecker, Paul</field>
-        <field name="author_nat">Paul<space/>Scheidecker</field>
+        <field name="author_nat">Paul Scheidecker</field>
         <field name="title">General shop-wood: course of study, eighth grade</field>
         <field name="year">1959</field>
         <field name="date">1959-1960</field>
@@ -1371,9 +1371,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Laukkanen, Walter</field>
-        <field name="author_nat">Walter<space/>Laukkanen</field>
+        <field name="author_nat">Walter Laukkanen</field>
         <field name="author">La Mothe, Harry</field>
-        <field name="author_nat">Harry<space/>La Mothe</field>
+        <field name="author_nat">Harry La Mothe</field>
         <field name="title">Metal: course of study</field>
         <field name="year">1959</field>
         <field name="date">1959-1960</field>
@@ -1391,9 +1391,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Streeter, Wayne</field>
-        <field name="author_nat">Wayne<space/>Streeter</field>
+        <field name="author_nat">Wayne Streeter</field>
         <field name="author">Peterson, Lester</field>
-        <field name="author_nat">Lester<space/>Peterson</field>
+        <field name="author_nat">Lester Peterson</field>
         <field name="title">Wood I and II: course of study</field>
         <field name="year">1959</field>
         <field name="date">1959-1960</field>
@@ -1689,7 +1689,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Jacoby, Robert</field>
-        <field name="author_nat">Robert<space/>Jacoby</field>
+        <field name="author_nat">Robert Jacoby</field>
         <field name="title">Textiles as an area of industrial arts instruction in Pennsylvania
             public schools</field>
         <field name="year">1955</field>
@@ -1762,7 +1762,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Marsh, Mary Val</field>
-        <field name="author_nat">Mary Val<space/>Marsh</field>
+        <field name="author_nat">Mary Val Marsh</field>
         <field name="title">Possible industrial arts activities for various units of work</field>
         <field name="pages">196</field>
         <field name="keywords">Industrial arts</field>
@@ -1776,7 +1776,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Keller, Byron</field>
-        <field name="author_nat">Byron<space/>Keller</field>
+        <field name="author_nat">Byron Keller</field>
         <field name="title">Plastics as an area of industrial arts instruction in Pennsylvania
             public schools</field>
         <field name="year">1953</field>
@@ -1815,7 +1815,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Stephenson, William A.</field>
-        <field name="author_nat">William A.<space/>Stephenson</field>
+        <field name="author_nat">William A. Stephenson</field>
         <field name="title">Planning an area of industrial arts instruction in Pennsylvania public
             schools ..</field>
         <field name="year">1953</field>
@@ -2028,7 +2028,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Komara, Paul A.</field>
-        <field name="author_nat">Paul A.<space/>Komara</field>
+        <field name="author_nat">Paul A. Komara</field>
         <field name="corp_author">Sweetwater Union High School District (Chula Vista,
             California)</field>
         <field name="title">Course notes and suggestions for safety manual for industrial education
@@ -2140,9 +2140,9 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Schmitt, Marshall L.</field>
-        <field name="author_nat">Marshall L.<space/>Schmitt</field>
+        <field name="author_nat">Marshall L. Schmitt</field>
         <field name="author">Pelley, Albert L.</field>
-        <field name="author_nat">Albert L.<space/>Pelley</field>
+        <field name="author_nat">Albert L. Pelley</field>
         <field name="title">Time allotment and scheduling procedures for teaching industrial arts,
             grades 7-12</field>
         <field name="year">1961</field>
@@ -2167,7 +2167,7 @@
         <field name="corp_author">Ventura County (California) Secondary Teachers Inservice
             Education. Industrial Education Section</field>
         <field name="author">Neuman, Charles E.</field>
-        <field name="author_nat">Charles E.<space/>Neuman</field>
+        <field name="author_nat">Charles E. Neuman</field>
         <field name="title">Safety rules</field>
         <field name="year">1952</field>
         <field name="date">03/1952</field>
