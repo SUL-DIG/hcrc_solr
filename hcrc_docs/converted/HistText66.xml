@@ -1465,5 +1465,1539 @@
         <field name="state_country">Arizona</field>
         <field name="grade_level_number">6th grade</field>
     </doc>
+<doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
+            Department</field>
+        <field name="title">Handcraft : teacher's guide for elementary schools</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">254</field>
+        <field name="keywords">Handicraft</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="notes">254 pages : illustrations ; 28 cm; Note(s): Cover title./ Includes
+            bibliographical references (leaves 253-254).; Other Titles: Handicraft : teacher's guide
+            for elementary schools; Responsibility: prepared by the Industrial Arts Department,
+            Cleveland Public Schools.</field>
+        <field name="publisher">Cleveland (Ohio) Board of Education</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .C63h</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Department of Art Education</field>
+        <field name="title">Wood and cloth in art education : grades one through six</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">32</field>
+        <field name="keywords">Art</field>
+        <field name="notes">32 pages : illustrations ; 28 cm; Note(s): Includes bibliographical
+            references (pages 29-32).</field>
+        <field name="publisher">Detroit (Michigan) Department of Art Education</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .D48w</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Girl Scouts of the United States of America</field>
+        <field name="title">Exploring the hand arts</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">118</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">118 p. illus. 24 cm.; Responsibility: [by Corinne Murphy, arts and
+            crafts adviser, Program Development Division]</field>
+        <field name="publisher">Girl Scouts of the United States of America</field>
+        <field name="pub_place">New York</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .G52e</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nottingham, Barbara Cox</field>
+        <field name="author_nat">Barbara Cox Nottingham</field>
+        <field name="corp_author">Alameda (California) Unified School District</field>
+        <field name="title">Clay in the classroom : a guide for the Alameda County Elementary
+            Schools</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">63</field>
+        <field name="keywords">Modeling</field>
+        <field name="notes">ill. ; 25 cm.; Responsibility: prepared by Barbara Cox
+            Nottingham.</field>
+        <field name="publisher">Alameda (California) Unified School District</field>
+        <field name="pub_place">Hayward, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .A31c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">American Crayon Company</field>
+        <field name="title">Creative graphics</field>
+        <field name="pages">16</field>
+        <field name="keywords">Graphic arts</field>
+        <field name="publisher">American Crayon Company</field>
+        <field name="pub_place">Sandusky, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .A51c</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="title">Elementary school course of study: art and crafts, kindergarten and
+            grades I-VI, parts one and two</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="pages">96</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland Heights, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .C635a</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Boothe, Guy L.</field>
+        <field name="author_nat">Guy L. Boothe</field>
+        <field name="title">Leather craft : terms I and II (high school level)</field>
+        <field name="year">1949</field>
+        <field name="date">01/1949</field>
+        <field name="pages">78</field>
+        <field name="keywords">Leatherwork</field>
+        <field name="notes">78 leaves : ill. ; 26 cm.; Note(s): Illustrated, organized, and edited
+            by Guy L. Boothe.</field>
+        <field name="series_title">Kansas City (Missouri) Public Schools. Bulletin</field>
+        <field name="series_vol">72</field>
+        <field name="publisher">Kansas City (Missouri) Public Schools</field>
+        <field name="pub_place">Kansas City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .K16L</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Craft manual for elementary and secondary teachers</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">168</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">168 p. illus. 29 cm.; Note(s): Bibliography: p. 167-168.</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">445</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .L87c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="title">Instructional guide for design craft</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="keywords">Handicraft</field>
+        <field name="keywords">Design</field>
+        <field name="notes">1 v. (various pagings) ill. 28 cm.</field>
+        <field name="series_title">Los Angeles (California) City School District. Division of
+            Instructional Services. Publication</field>
+        <field name="series_vol">SC-608</field>
+        <field name="publisher">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .L87i</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Idaho State Department of Education</field>
+        <field name="title">Leather crafts: a tentative handbook for teachers</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">43</field>
+        <field name="keywords">Leatherwork</field>
+        <field name="publisher">Idaho State Department of Education</field>
+        <field name="pub_place">Boise, ID</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .I18L</field>
+        <field name="state_country">Idaho</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kansas City (Missouri) Public Schools</field>
+        <field name="title">A teacher's guide to crafts, ninth grade</field>
+        <field name="year">1950</field>
+        <field name="date">09/1950</field>
+        <field name="pages">80</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">Kansas City (Missouri) Public Schools</field>
+        <field name="pub_place">Kansas City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .K16c</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kansas City (Missouri) Public Schools</field>
+        <field name="title">Crafts for elementary schools</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">22</field>
+        <field name="keywords">Handicraft</field>
+        <field name="series_title">Kansas City (Missouri) Public Schools. Bulletin</field>
+        <field name="series_vol">75</field>
+        <field name="publisher">Kansas City (Missouri) Public Schools</field>
+        <field name="pub_place">Kansas City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .K16ce</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District. Instructional
+            Planning Branch</field>
+        <field name="title">Supplement to Art for junior high school : an instructional
+            bulletin</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">16</field>
+        <field name="keywords">Art</field>
+        <field name="notes">16 p. ; 28 cm.; Other Titles: Art for junior high school.</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-664</field>
+        <field name="publisher">Los Angeles (California) City School District. Instructional
+            Planning Branch</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .L87s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Merced County (California) Schools</field>
+        <field name="title">Art suggestions</field>
+        <field name="year">1949</field>
+        <field name="date">03/1949</field>
+        <field name="pages">19</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Merced County (California) Schools</field>
+        <field name="pub_place">Merced, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .M55a</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Moore, Frank C.</field>
+        <field name="author_nat">Frank C. Moore</field>
+        <field name="author">Hamburger, Carl H.</field>
+        <field name="author_nat">Carl H. Hamburger</field>
+        <field name="author">Kingzett, Anna-Laura</field>
+        <field name="author_nat">Anna-Laura Kingzett</field>
+        <field name="title">Make it yourself [a craftbook for beginners]</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">96</field>
+        <field name="keywords">Handicraft</field>
+        <field name="keywords">Manual training</field>
+        <field name="notes">96 p. ill.; Note(s): "Primarily for boys and girls between the ages of
+            six and twelve."; Responsibility: by Frank C. Moore and others.</field>
+        <field name="publisher">D.C. Heath and Company</field>
+        <field name="pub_place">Boston, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .M82m</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Creative crafts</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">80</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">80 p. illus. 28 cm.; Note(s): "A supplement to Art education, grades
+            7-8-9."</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N52c</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="title">Industrial arts syllabus in general ceramics</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">69</field>
+        <field name="keywords">Ceramics</field>
+        <field name="notes">ill. ; 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes
+            bibliographical references (p. 68-69).; Other Titles: Syllabus in general ceramics;
+            General ceramics; Industrial arts :; general ceramics syllabus</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N52g</field>
+        <field name="state_country">New York</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Puppetry in the curriculum : a manual on puppets, marionettes, shadow
+            figures, and masks for the elementary and junior high school years</field>
+        <field name="year">1947</field>
+        <field name="date">1947-1948</field>
+        <field name="pages">171</field>
+        <field name="keywords">Puppet theater in education</field>
+        <field name="notes">xi; ill. ; 23 cm.; Note(s): Includes bibliographical references (p.
+            157-165).</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin ;;
+            1947-1948 ser.</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N53p</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Elementary</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Weissenfluh, Lyle E.</field>
+        <field name="author_nat">Lyle E. Weissenfluh</field>
+        <field name="author">Keller, Byron J.</field>
+        <field name="author_nat">Byron J. Keller</field>
+        <field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+        <field name="title">Ceramics as an area of industrial arts instruction in Pennsylvania
+            public schools</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">94</field>
+        <field name="keywords">Ceramics</field>
+        <field name="notes">vii; ges : illustrations, maps ; 23 cm.; Note(s): "Supplements
+            Industrial arts in Pennsylvania, Bulletin 331, published in 1951."/ "Instructional aids:
+            books, magazines, trade publications, films and filmstrips": pages 64-77.;
+            Responsibility: Lyle E. Weissenfluh and Byron J. Keller.</field>
+        <field name="series_title">Pennsylvania State Department of Public Instruction. Bulletin
+            [new series]</field>
+        <field name="series_vol">331B</field>
+        <field name="publisher">Pennsylvania State Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .P41c</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">Arts and crafts ideas for the high school mentally retarded
+            students</field>
+        <field name="year">1968</field>
+        <field name="title">1968</field>
+        <field name="pages">27</field>
+        <field name="keywords">Children with mental disabilities</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">27 leaves : ill. ; 28 cm.; Note(s): Cover title.</field>
+        <field name="series_title">Portland (Oregon) Public Schools. Curriculum publication</field>
+        <field name="series_vol">SpE 1-21</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .P85a</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Poppett, Carol R.</field>
+        <field name="author_nat">Carol R. Poppett</field>
+        <field name="corp_author">San Bernardino County (California) Schools</field>
+        <field name="title">Book covers and portfolios</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 22 x 28 cm.</field>
+        <field name="publisher">San Bernardino County (California) Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S18b</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Poppett, Carol R.</field>
+        <field name="author_nat">Carol R. Poppett</field>
+        <field name="corp_author">San Bernardino County (California) Schools</field>
+        <field name="title">Clay in the classroom</field>
+        <field name="keywords">Modeling</field>
+        <field name="notes">ill. ; 22 x 28 cm.</field>
+        <field name="publisher">San Bernardino County (California) Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S18c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Marsh, Mary Val</field>
+        <field name="author_nat">Mary Val Marsh</field>
+        <field name="corp_author">San Bernardino County (California) Superintendent of
+            Schools</field>
+        <field name="title">Pipestem cleaner figures</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">San Bernardino County (California) Superintendent of Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S18p</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Anderson, Patricia E.</field>
+        <field name="author_nat">Patricia E. Anderson</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">A guide for creative activities with clay</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">78</field>
+        <field name="keywords">Modeling</field>
+        <field name="keywords">Clay</field>
+        <field name="notes">ill. ; 28 cm.; Responsibility: by Patricia E. Anderson.</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S19c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Perkins, Richard A.</field>
+        <field name="author_nat">Richard A. Perkins</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Guide for teaching crafts 1-2</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="keywords">Handicraft</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">iii, 131 l. ill. 28 cm.; Note(s): Includes bibliographies and
+            filmographies.; Responsibility: Prepared by Richard A. Perkins.</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S19g</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">Creating from many cultures</field>
+        <field name="year">1970</field>
+        <field name="date">06/1970</field>
+        <field name="pages">47</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 25 cm.; Note(s): Includes bibliographical references (p. 44-46).;
+            Other Titles: At head of title:; A guide to extend classroom art experiences, K-8;
+            Responsibility: approved by Santa Clara County Baord of Education, June 17,
+            1970.</field>
+        <field name="publisher">Santa Clara County (California) Board of Education</field>
+        <field name="pub_place">Santa Clara, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S23cr</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">A guide to extend classroom art experiences, K-8: Clay</field>
+        <field name="year">1966</field>
+        <field name="date">06/1966</field>
+        <field name="pages">40</field>
+        <field name="keywords">Modeling</field>
+        <field name="keywords">Clay</field>
+        <field name="notes">40 pages : illustrations ; 25 cm; Note(s): Cover title: Clay./ On cover:
+            Office of Education, Santa Clara County./ Includes bibliographical references (page
+            40).; Other Titles: Clay; Responsibility: approved by Santa Clara County Board of
+            Education.</field>
+        <field name="publisher">Santa Clara County (California) Board of Education</field>
+        <field name="pub_place">Santa Clara, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S23c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kosloff, Albert</field>
+        <field name="author_nat">Albert Kosloff</field>
+        <field name="title">A course in basic screen printing</field>
+        <field name="pages">41</field>
+        <field name="keywords">Screen process printing</field>
+        <field name="publisher">Screen Process Printing Association International</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S43c</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Springfield (Ohio) Public Schools. Elementary Art
+            Committee</field>
+        <field name="title">Free and low cost materials available to art teachers</field>
+        <field name="year">1955</field>
+        <field name="date">06/1955</field>
+        <field name="pages">8</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Springfield (Ohio) Public Schools. Elementary Art Committee</field>
+        <field name="pub_place">Springfield, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S77f</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Springfield (Ohio) Public Schools. Elementary Art
+            Committee</field>
+        <field name="title">Handicraft projects</field>
+        <field name="year">1955</field>
+        <field name="date">06/1955</field>
+        <field name="pages">8</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">Springfield (Ohio) Public Schools. Elementary Art Committee</field>
+        <field name="pub_place">Springfield, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S77h</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Dooley, Helen B.</field>
+        <field name="author_nat">Helen B. Dooley</field>
+        <field name="title">Elementary crafts in a nutshell, for teachers, students, group leaders,
+            parents : suggested methods of approach in teaching design &amp; craft
+            techniques</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">37</field>
+        <field name="keywords">Creative activities and seat work</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">37 leaves : ill.; Responsibility: by Helen B. Dooley.</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">University of the Pacific Press</field>
+        <field name="pub_place">Stockton, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .S86e</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Paine, Irma</field>
+        <field name="author_nat">Irma Paine</field>
+        <field name="corp_author">Tacoma (Washington) School District #10</field>
+        <field name="title">Discarded materials and the school art program</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">20</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">20 leaves : ill. ; 28 cm.; Responsibility: Tacoma Public Schools ; Irma
+            Paine, Director of Art ; Alden H. Blankenship, Superintendent.</field>
+        <field name="publisher">Tacoma (Washington) Public Schools</field>
+        <field name="pub_place">Tacoma, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .T11d</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ventura County (California) Board of Education</field>
+        <field name="title">Classroom arts - crafts</field>
+        <field name="year">1951</field>
+        <field name="date">05/1951</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">Ventura County (California) Board of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .V46c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Eastman Kodak Company</field>
+        <field name="title">Photography in education</field>
+        <field name="pages">14</field>
+        <field name="keywords">Photography</field>
+        <field name="publisher">Eastman Kodak Company</field>
+        <field name="pub_place">Rochester, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">770 .E13p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alameda (California) Unified School District</field>
+        <field name="title">Classroom music education, grades K-8</field>
+        <field name="year">1959</field>
+        <field name="date">09/1959</field>
+        <field name="pages">85</field>
+        <field name="keywords">Music education</field>
+        <field name="publisher">Alameda (California) Unified School District</field>
+        <field name="pub_place">Alameda, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .A31c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alameda (California) Unified School District</field>
+        <field name="title">Classroom music education, grades K-8</field>
+        <field name="year">1959</field>
+        <field name="date">09/1959</field>
+        <field name="pages">49</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Alameda (California) Unified School District</field>
+        <field name="pub_place">Alameda, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .A31m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">McCarthy, Georgana</field>
+        <field name="author_nat">Georgana McCarthy</field>
+        <field name="author">Dod, Dorothy</field>
+        <field name="author_nat">Dorothy Dod</field>
+        <field name="author">Lehmer, Stephen</field>
+        <field name="author_nat">Stephen Lehmer</field>
+        <field name="title">Music curriculum for all grades</field>
+        <field name="year">1941</field>
+        <field name="date">12/1941</field>
+        <field name="pages">66</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">Albany (California) Unified School District</field>
+        <field name="pub_place">Albany, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .A32m</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Holmgren, Ilene</field>
+        <field name="author_nat">Ilene Holmgren</field>
+        <field name="title">A supplementary guide for teaching music in the elementary
+            grades</field>
+        <field name="year">1953</field>
+        <field name="date">06/1953</field>
+        <field name="pages">75</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">Albany (California) Unified School District</field>
+        <field name="pub_place">Albany, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .A32s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kidder, Virginia</field>
+        <field name="author_nat">Virginia Kidder</field>
+        <field name="title">A balanced music program: scope and sequence of study in the Anaheim
+            city schools</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">Vol. 1: third grade -- vol. 2: fourth grade -- vol. 3: fifth grade --
+            vol. 4: sixth grade</field>
+        <field name="publisher">Anaheim (California) City School District</field>
+        <field name="pub_place">Anaheim, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .A53m v. 1-4</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Public Instruction</field>
+        <field name="title">A Guide for the improvement of the teaching of general music in the
+            schools of Arizona</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">154</field>
+        <field name="keywords">Music</field>
+        <field name="abstract">pt. I. Suggestions for teaching music -- pt. II. Resource
+            material.</field>
+        <field name="notes">154 pages : illustrations, music ; 28 cm.; Note(s): Includes
+            bibliographical references.</field>
+        <field name="series_title">Arizona State Department of Public Instruction. Bulletin</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">Arizona State Department of Public Instruction</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .A71g</field>
+        <field name="state_country">Arizona</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Barrington (Illinois) Public Schools</field>
+        <field name="title">Music curriculum guide for the elementary grades</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">22</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">Barrington (Illinois) Public Schools</field>
+        <field name="pub_place">Barrington, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .B26m</field>
+        <field name="state_country">Illinois</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Beverly Hills (California) Unified School District</field>
+        <field name="title">Course of study in general music, grade 8</field>
+        <field name="year">1963</field>
+        <field name="date">09/1963</field>
+        <field name="pages">68</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Beverly Hills (California) Unified School District</field>
+        <field name="pub_place">Beverly Hills, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .B57c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Boulder (Colorado) Public Schools</field>
+        <field name="title">Music guides for grades one - six</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Boulder (Colorado) Public Schools</field>
+        <field name="pub_place">Boulder, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .B76m</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Noel, Francis W.</field>
+        <field name="author_nat">Francis W. Noel</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Bibliography on the use of audio-visual material in music
+            education</field>
+        <field name="year">1954</field>
+        <field name="date">01/1954</field>
+        <field name="pages">3</field>
+        <field name="keywords">Music education</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C15b</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Children's Music Center</field>
+        <field name="title">Jazz in music education</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">20</field>
+        <field name="keywords">Jazz</field>
+        <field name="notes">music ; 22 cm.; Note(s): Discography: p. 16-20.</field>
+        <field name="publisher">Children's Music Center</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C536j</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+        <field name="title">Tentative course of study in music : grades 9-12</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">80</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">iv, 80 leaves ; 1950.; Note(s): Copy in Dept. of Rare Books and Special
+            Collections has original pink wrappers.; Other Titles: Tentative course of study :;
+            music, grades 9-12; Course of study in music</field>
+        <field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">143</field>
+        <field name="publisher">Cincinnati (Ohio) Public Schools</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C57t</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Luca, Mark C.</field>
+        <field name="author_nat">Mark C. Luca</field>
+        <field name="corp_author">California State Department of Education. Division of Special
+            Education</field>
+        <field name="title">Teaching gifted students art in grades ten through twelve</field>
+        <field name="year">1973</field>
+        <field name="date">1973</field>
+        <field name="pages">37</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Gifted children</field>
+        <field name="notes">vii; ; 23 cm.; Note(s): Prepared for the Division of Special Education,
+            California State Department of Education./ Includes bibliographical references.;
+            Responsibility: by Mark C. Luca.</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .C15t v. 4</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California School Supervisors Association, Southern
+            Section</field>
+        <field name="title">Music for children with special needs</field>
+        <field name="pages">29</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">California School Supervisors Association, Southern Section</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C153m</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chattanooga (Tennessee) Public Schools</field>
+        <field name="title">Time for listening: radio listening lessons</field>
+        <field name="year">1954</field>
+        <field name="date">1954-1955</field>
+        <field name="pages">32</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Chattanooga (Tennessee) Public Schools</field>
+        <field name="pub_place">Chattanooga, TN</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C49t</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chicago (Illinois) Public Schools</field>
+        <field name="title">Teaching guide for music : kindergarten through junior college</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">75</field>
+        <field name="keywords">Music</field>
+        <field name="notes">iv; ill. ; 26 cm.; Genre/Form: Juvenile works.; Note(s): Includes
+            bibliographical references (p. 75).; Responsibility: Benjamin C. Willis.</field>
+        <field name="publisher">Chicago (Illinois) Public Schools</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C53t</field>
+        <field name="state_country">Illinois</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Clairton (Pennsylvania) Public Schools</field>
+        <field name="title">Course of study, elementary education: music</field>
+        <field name="year">1957</field>
+        <field name="date">1957-1958</field>
+        <field name="pages">33</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Clairton (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Clairton, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C58m</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Baldwin, Lillian L.</field>
+        <field name="author_nat">Lillian L. Baldwin</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="title">Counting the hours</field>
+        <field name="year">1943</field>
+        <field name="date">1943</field>
+        <field name="pages">9</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C63c</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Keller, Esther M.</field>
+        <field name="author_nat">Esther M. Keller</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="title">Instructions for radio music: discoveries in music, fifth grade</field>
+        <field name="year">1954</field>
+        <field name="date">02/1954</field>
+        <field name="pages">16</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C63i</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">5th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Manring, Ernest</field>
+        <field name="author_nat">Ernest Manring</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="title">Outline of music education in the elementary schools</field>
+        <field name="pages">5</field>
+        <field name="keywords">Music education</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C63o</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Baldwin, Lillian Luverne</field>
+        <field name="author_nat">Lillian Luverne Baldwin</field>
+        <field name="title">Songs for Americans</field>
+        <field name="year">1940</field>
+        <field name="date">1940</field>
+        <field name="pages">8</field>
+        <field name="keywords">National songs</field>
+        <field name="keywords">Music</field>
+        <field name="abstract">The star-spangled banner -- America -- America the beautiful --God of
+            our fathers -- Land of ou birth -- Ton-y-botel.</field>
+        <field name="notes">Description: 1 close score ([12] p.) ; 28 cm.; Note(s): Cover title./
+            Annotations: p. 1-8.; Responsibility: prepared by Lillian L. Baldwin.</field>
+        <field name="publisher">Cleveland (Ohio) Board of Education</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C63s</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="title">Vocal music - elective, junior high, senior high; instrumental music -
+            elective, junior &amp; senior high</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">14</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland Heights, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C635m</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">Senior high</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rayner, Doris</field>
+        <field name="author_nat">Doris Rayner</field>
+        <field name="author">Simmons, Mildred</field>
+        <field name="author_nat">Mildred Simmons</field>
+        <field name="author">Boynton, Paul M.</field>
+        <field name="author_nat">Paul M. Boynton</field>
+        <field name="title">Current practices in Connecticut secondary schools: music</field>
+        <field name="year">1955</field>
+        <field name="date">01/1955</field>
+        <field name="pages">27</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Connecticut State Department of Education, Bureau of Youth
+            Services</field>
+        <field name="pub_place">Hartford, CT</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .C75m</field>
+        <field name="state_country">Connecticut</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dade County (Florida) Board of Public Instruction</field>
+        <field name="title">A music program which children can do, grades 1 - 6</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="keywords">Music</field>
+        <field name="series_title">Dade County (Florida) Board of Public Instruction. Curriculum
+            bulletin</field>
+        <field name="series_vol">16-A</field>
+        <field name="publisher">Dade County (Florida) Board of Public Instruction</field>
+        <field name="pub_place">Miami, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D12m</field>
+        <field name="state_country">Florida</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dallas (Texas) Independent School District</field>
+        <field name="title">Growth through music; a teaching guide for grades I-XII</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">47</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">School music</field>
+        <field name="notes">47 p. 28 cm.; Responsibility: developed by the music education staff of
+            the Dallas Independent School District.</field>
+        <field name="series_title">Dallas (Texas) Independent School District. Curriculum bulletin
+            series</field>
+        <field name="pub_place">Dallas, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D14g v. 1</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dallas (Texas) Independent School District</field>
+        <field name="title">Growth through music; a curriculum guide for grades I-XII</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">19</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">School music</field>
+        <field name="notes">19 p. 28 cm.; Responsibility: developed by the music education staff of
+            the Dallas Independent School District.</field>
+        <field name="series_title">Dallas (Texas) Independent School District. Curriculum bulletin
+            series</field>
+        <field name="pub_place">Dallas, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D14g v. 2</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dallas (Texas) Independent School District</field>
+        <field name="title">Know your symphony; a resource unit in music for grades I-XII</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">26</field>
+        <field name="keywords">Music</field>
+        <field name="notes">26 p. ill. 28 cm.; Responsibility: Authorized by the Board of Education,
+            October 14, 1952.</field>
+        <field name="series_title">Dallas (Texas) Independent School District. Curriculum bulletin
+            series</field>
+        <field name="publisher">Dallas (Texas) Independent School District</field>
+        <field name="pub_place">Dallas, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D14k</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dallas (Texas) Independent School District</field>
+        <field name="title">Music education content, scope, and sequence</field>
+        <field name="year">1959</field>
+        <field name="date">09/1959</field>
+        <field name="pages">6</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Dallas (Texas) Independent School District</field>
+        <field name="pub_place">Dallas, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">789 .D14m</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Delaware State Department of Public Instruction. Division of Music
+            Education</field>
+        <field name="title">Primary children and music</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">60</field>
+        <field name="keywords">Music</field>
+        <field name="notes">60 p. ill. 28 cm.; Note(s): "Reference books" and "Sources of phonograph
+            records," p. 60.</field>
+        <field name="series_title">Delaware State Department of Public Instruction. Bulletin</field>
+        <field name="series_vol">154-50</field>
+        <field name="edition">Rev</field>
+        <field name="publisher">Delaware State Department of Public Instruction.</field>
+        <field name="pub_place">Dover, DE</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D34p</field>
+        <field name="state_country">Delaware</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Denver (Colorado) Public Schools</field>
+        <field name="title">Music backgrounds handbook for the senior high school</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">142</field>
+        <field name="keywords">Music</field>
+        <field name="notes">142 leaves : music ; 28 cm.; Note(s): Includes bibliographical
+            references (leaves 139-142).; Responsibility: prepared and produced in the Dept. of
+            General Curriculum Services, Division of Instructional Services, Denver Public
+            Schools.</field>
+        <field name="publisher">Denver (Colorado) Public Schools</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D41m</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Denver (Colorado) Public Schools</field>
+        <field name="title">Music program of the Denver Public Schools : kindergarten through sixth
+            grade : a guide for the use of teachers in the elementary school</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">180</field>
+        <field name="keywords">Music</field>
+        <field name="notes">vii; ill. ; 28 cm.; Note(s): Includes bibliographical references (p.
+            175-180).; Responsibility: Denver Public Schools.</field>
+        <field name="publisher">Denver (Colorado) Public Schools</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D41mus</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Denver (Colorado) Public Schools</field>
+        <field name="title">A music guide for junior high school : tentative form</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">130</field>
+        <field name="keywords">Music</field>
+        <field name="notes">130 leaves : ill. ; 28 cm.; Note(s): "Stock number 93200."/ Includes
+            bibliographical references.</field>
+        <field name="publisher">Denver (Colorado) Public Schools</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D41mu</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Door County (Wisconsin) Rural Teachers</field>
+        <field name="title">Music: a music resource guide for Door county schools set up in
+            1952</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">124</field>
+        <field name="keywords">Music</field>
+        <field name="series_title">Door to musical accomplishment</field>
+        <field name="publisher">Door County (Wisconsin) Superintendent of Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .D69d</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Andrews, Louise</field>
+        <field name="author_nat">Louise Andrews</field>
+        <field name="author">Folts, Melvin</field>
+        <field name="author_nat">Melvin Folts</field>
+        <field name="author">Kreismer, Marilyn</field>
+        <field name="author_nat">Marilyn Kreismer</field>
+        <field name="author">Wolfson, Chester</field>
+        <field name="author_nat">Chester Wolfson</field>
+        <field name="title">A child grows in music skills</field>
+        <field name="year">1955</field>
+        <field name="date">08/1955</field>
+        <field name="pages">19</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Fair Lawn (New Jersey) Public Schools</field>
+        <field name="pub_place">Fair Lawn, NJ</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F16c</field>
+        <field name="state_country">New Jersey</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Housewright, Wiley L.</field>
+        <field name="author_nat">Wiley L. Housewright</field>
+        <field name="author">Moylan , Marjorie Morrison</field>
+        <field name="author_nat">Marjorie Morrison Moylan</field>
+        <field name="corp_author">Florida State Department of Education</field>
+        <field name="title">Music in Florida high schools</field>
+        <field name="year">1949</field>
+        <field name="date">02/1949</field>
+        <field name="pages">135</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="notes">135 pages illustrations 23 cm.; Note(s): Includes bibliographical
+            references.; Responsibility: Prepared at Florida State University.</field>
+        <field name="series_title">Florida State Department of Education. Bulletin</field>
+        <field name="series_vol">N41</field>
+        <field name="publisher">Florida State Department of Education</field>
+        <field name="pub_place">Tallahassee, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F63m</field>
+        <field name="state_country">Florida</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno (California) Public Schools</field>
+        <field name="title">General music program for the junior high school level</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">52</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Fresno (California) Public Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F87g</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno County (California) Schools</field>
+        <field name="title">Music curriculum guide for primary grades (Kindergarten, 1, 2,
+            3)</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">93</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F88m v. 1</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno County (California) Schools</field>
+        <field name="title">Music curriculum guide for intermediate grades (grades 4, 5, 6)</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">93</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F88m v. 2</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno County (California) Schools</field>
+        <field name="title">Teaching aids in music for elementary and high schools: phonograph
+            records, motion picture films, filmstrips, transcriptions, pictures, references.</field>
+        <field name="year">1949</field>
+        <field name="date">09/1949</field>
+        <field name="pages">95</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Audio-visual materials</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F88t</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Housewright, Wiley L.</field>
+        <field name="author_nat">Wiley L. Housewright</field>
+        <field name="title">Music for Florida children; a guide for elementary school music</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">129</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Discography</field>
+        <field name="notes">129 pages illustrations, music 28 cm.; Note(s): "Graded series of
+            general music textbooks": p. [76]-87./ Bibliography of recordings: pages 88-107./ "A
+            classified list of the RCA Victor set of recordings"; pages 108-127.; Other Titles:
+            Florida program for improvement of schools; Responsibility: Florida program for
+            improvement of schools.</field>
+        <field name="series_title">Florida State Department of Education. Bulletin</field>
+        <field name="series_vol">N40</field>
+        <field name="publisher">Florida State Department of Education</field>
+        <field name="pub_place">Tallahassee, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F63c</field>
+        <field name="state_country">Florida</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Niblack, Stephen L.</field>
+        <field name="author_nat">Stephen L. Niblack</field>
+        <field name="title">Action songs : with instructions for use in grades 1-6</field>
+        <field name="year">1957</field>
+        <field name="date">11/1957</field>
+        <field name="keywords">Children's songs</field>
+        <field name="keywords">Singing games</field>
+        <field name="keywords">Games</field>
+        <field name="keywords">Music</field>
+        <field name="notes">Description: 18, [8] leaves ; 28 cm.; Note(s): Cover title.;
+            Responsibility: [Stephen L. Niblack].</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .F88a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hendrickson, Clarence V.</field>
+        <field name="author_nat">Clarence V. Hendrickson</field>
+        <field name="corp_author">Gary (Indiana) Public Schools</field>
+        <field name="title">Vocal music guides, elementary grades</field>
+        <field name="pages">54</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Gary (Indiana) Public Schools</field>
+        <field name="pub_place">Gary, IN</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .G24v</field>
+        <field name="state_country">Indiana</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hanson, Pauline</field>
+        <field name="author_nat">Pauline Hanson</field>
+        <field name="corp_author">Grand Island (Nebraska) Public Schools</field>
+        <field name="title">Elementary music: an introduction and guide for teachers, kindergarten -
+            grade VI</field>
+        <field name="year">1955</field>
+        <field name="date">09/1955</field>
+        <field name="pages">26</field>
+        <field name="keywords">Music</field>
+        <field name="series_title">Elementary music in Grand Island public schools, kindergarten -
+            grade VI, a tentative guide for teachers</field>
+        <field name="publisher">Grand Island (Nebraska) Public Schools</field>
+        <field name="pub_place">Grand Island, NE</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .G75e</field>
+        <field name="state_country">Nebraska</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">General music</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">217</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Granite School District</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .G751g</field>
+        <field name="state_country">Utah</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Hawaii (Territory) Department of Public Instruction</field>
+        <field name="title">Music for everyone</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Hawaii (Territory) Department of Public Instruction</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .H38m</field>
+        <field name="state_country">Hawaii</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Highland Park Public Schools (Dallas, Texas)</field>
+        <field name="title">Music for children and youth: a guide for teachers</field>
+        <field name="year">1958</field>
+        <field name="date">06/1958</field>
+        <field name="pages">171</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Highland Park Public Schools</field>
+        <field name="pub_place">Dallas, Texas</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .H63m</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Hudson School District (La Puente, California)</field>
+        <field name="title">Junior high music handbook</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">42</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Hudson School District</field>
+        <field name="pub_place">La Puente, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .H88j</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
 
 </add>
