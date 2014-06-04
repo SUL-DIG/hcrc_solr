@@ -192,7 +192,7 @@
         <field name="state_country">Idaho</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Kansas City (Missouri) Public Schools</field>
         <field name="title">A teacher's guide to crafts, ninth grade</field>
@@ -284,7 +284,7 @@
         <field name="call_number">745 .M82m</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">University of the State of New York. Bureau of Secondary
             Curriculum Development</field>
