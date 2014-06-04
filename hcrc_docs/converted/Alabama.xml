@@ -66,7 +66,7 @@
         <field name="state_country">Alabama</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Alabama Education Study Commission</field>
         <field name="title">Conclusions and recommendations</field>
@@ -111,7 +111,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Whetstone, B. D.</field>
         <field name="author_nat">B. D. Whetstone</field>
