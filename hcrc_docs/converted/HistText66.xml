@@ -1747,6 +1747,47 @@
         <field name="call_number">745 .M82m</field>
     </doc>
 
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Creative crafts</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">80</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">80 p. illus. 28 cm.; Note(s): "A supplement to Art education, grades
+            7-8-9."</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N52c</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="title">Industrial arts syllabus in general ceramics</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">69</field>
+        <field name="keywords">Ceramics</field>
+        <field name="notes">ill. ; 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes
+            bibliographical references (p. 68-69).; Other Titles: Syllabus in general ceramics;
+            General ceramics; Industrial arts :; general ceramics syllabus</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N52g</field>
+        <field name="state_country">New York</field>
+    </doc>
+
     
 
 </add>
