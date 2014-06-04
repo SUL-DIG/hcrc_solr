@@ -344,7 +344,7 @@
         <field name="grade_level_group">Middle school</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">St. Louis (Missouri) Department of Instruction</field>
         <field name="title">Art for elementary schools</field>
@@ -367,9 +367,9 @@
         <field name="call_number">740 .S14a</field>
         <field name="state_country">Missouri</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>
+    </doc>-->
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">St. Paul (Minnesota) Public Schools</field>
         <field name="title">Curriculum guide for art activities at the junior high school
@@ -418,7 +418,7 @@
         <field name="call_number">740 .S19a</field>
         <field name="state_country">California</field>
     </doc>
-    <!-\-<doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">San Bernardino County (California) Office of Superintendent of
             Schools</field>
@@ -560,7 +560,7 @@
         <field name="grade_level_number">4th grade</field>
     </doc>
 
-    <!-\\-<doc>
+    <!-\-<doc>
         <field name="type">Book</field>
         <field name="corp_author">San Diego (California) City Schools</field>
         <field name="title">Art - grade five: curriculum guide</field>
@@ -1380,7 +1380,7 @@
         <field name="keywords">Art</field>
         <field name="keywords">Drawing</field>
         <field name="keywords">Painting</field>
-        <field name="notes">27 pages : illustrations ; 23 cm.; Note(s): "April 1950"-\\\\-Cover.;
+        <field name="notes">27 pages : illustrations ; 23 cm.; Note(s): "April 1950"-\\-Cover.;
             Responsibility: ... prepared by members of the Statewide Art Committee.</field>
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
             bulletin</field>
@@ -1427,4 +1427,4 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
--\\->-\->--></add>
+-\->--></add>
