@@ -1811,6 +1811,33 @@
         <field name="grade_level_group">Middle school</field>
     </doc>
 
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Weissenfluh, Lyle E.</field>
+        <field name="author_nat">Lyle E. Weissenfluh</field>
+        <field name="author">Keller, Byron J.</field>
+        <field name="author_nat">Byron J. Keller</field>
+        <field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+        <field name="title">Ceramics as an area of industrial arts instruction in Pennsylvania
+            public schools</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">94</field>
+        <field name="keywords">Ceramics</field>
+        <field name="notes">vii; ges : illustrations, maps ; 23 cm.; Note(s): "Supplements
+            Industrial arts in Pennsylvania, Bulletin 331, published in 1951."/ "Instructional aids:
+            books, magazines, trade publications, films and filmstrips": pages 64-77.;
+            Responsibility: Lyle E. Weissenfluh and Byron J. Keller.</field>
+        <field name="series_title">Pennsylvania State Department of Public Instruction. Bulletin
+            [new series]</field>
+        <field name="series_vol">331B</field>
+        <field name="publisher">Pennsylvania State Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .P41c</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
     
 
 </add>
