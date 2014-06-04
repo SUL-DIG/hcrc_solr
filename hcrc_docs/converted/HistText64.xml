@@ -1140,7 +1140,7 @@
         <field name="grade_level_number">12th grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">United States Department of Health, Education, and Welfare. Office
             of Education</field>
@@ -1158,7 +1158,7 @@
         <field name="language">English</field>
         <field name="call_number">740 .U59a</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
