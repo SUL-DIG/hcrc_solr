@@ -1558,6 +1558,102 @@
         <field name="language">English</field>
         <field name="call_number">745 .A51c</field>
     </doc>
+ <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="title">Elementary school course of study: art and crafts, kindergarten and
+            grades I-VI, parts one and two</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="pages">96</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland Heights, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .C635a</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
 
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Boothe, Guy L.</field>
+        <field name="author_nat">Guy L. Boothe</field>
+        <field name="title">Leather craft : terms I and II (high school level)</field>
+        <field name="year">1949</field>
+        <field name="date">01/1949</field>
+        <field name="pages">78</field>
+        <field name="keywords">Leatherwork</field>
+        <field name="notes">78 leaves : ill. ; 26 cm.; Note(s): Illustrated, organized, and edited
+            by Guy L. Boothe.</field>
+        <field name="series_title">Kansas City (Missouri) Public Schools. Bulletin</field>
+        <field name="series_vol">72</field>
+        <field name="publisher">Kansas City (Missouri) Public Schools</field>
+        <field name="pub_place">Kansas City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .K16L</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Craft manual for elementary and secondary teachers</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">168</field>
+        <field name="keywords">Industrial arts</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">168 p. illus. 29 cm.; Note(s): Bibliography: p. 167-168.</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">445</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .L87c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="title">Instructional guide for design craft</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="keywords">Handicraft</field>
+        <field name="keywords">Design</field>
+        <field name="notes">1 v. (various pagings) ill. 28 cm.</field>
+        <field name="series_title">Los Angeles (California) City School District. Division of
+            Instructional Services. Publication</field>
+        <field name="series_vol">SC-608</field>
+        <field name="publisher">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .L87i</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Idaho State Department of Education</field>
+        <field name="title">Leather crafts: a tentative handbook for teachers</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">43</field>
+        <field name="keywords">Leatherwork</field>
+        <field name="publisher">Idaho State Department of Education</field>
+        <field name="pub_place">Boise, ID</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .I18L</field>
+        <field name="state_country">Idaho</field>
+    </doc>
 
 </add>
