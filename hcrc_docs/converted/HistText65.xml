@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <add>
-
-
-
-
-    <doc>
+<doc>
         <field name="type">Book</field>
         <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
             Department</field>
@@ -98,7 +94,7 @@
         <field name="call_number">745 .A51c</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
         <field name="title">Elementary school course of study: art and crafts, kindergarten and
@@ -738,7 +734,7 @@
             city schools</field>
         <field name="keywords">Music</field>
         <field name="keywords">Curricula</field>
-        <field name="notes">Vol. 1: third grade -- vol. 2: fourth grade -- vol. 3: fifth grade --
+        <field name="notes">Vol. 1: third grade -\- vol. 2: fourth grade -\- vol. 3: fifth grade -\-
             vol. 4: sixth grade</field>
         <field name="publisher">Anaheim (California) City School District</field>
         <field name="pub_place">Anaheim, CA</field>
@@ -760,7 +756,7 @@
         <field name="date">1951</field>
         <field name="pages">154</field>
         <field name="keywords">Music</field>
-        <field name="abstract">pt. I. Suggestions for teaching music -- pt. II. Resource
+        <field name="abstract">pt. I. Suggestions for teaching music -\- pt. II. Resource
             material.</field>
         <field name="notes">154 pages : illustrations, music ; 28 cm.; Note(s): Includes
             bibliographical references.</field>
@@ -1026,8 +1022,8 @@
         <field name="pages">8</field>
         <field name="keywords">National songs</field>
         <field name="keywords">Music</field>
-        <field name="abstract">The star-spangled banner -- America -- America the beautiful --God of
-            our fathers -- Land of ou birth -- Ton-y-botel.</field>
+        <field name="abstract">The star-spangled banner -\- America -\- America the beautiful -\-God of
+            our fathers -\- Land of ou birth -\- Ton-y-botel.</field>
         <field name="notes">Description: 1 close score ([12] p.) ; 28 cm.; Note(s): Cover title./
             Annotations: p. 1-8.; Responsibility: prepared by Lillian L. Baldwin.</field>
         <field name="publisher">Cleveland (Ohio) Board of Education</field>
@@ -1537,4 +1533,4 @@
         <field name="state_country">California</field>
         <field name="grade_level_group">Middle school</field>
     </doc>
-</add>
+--></add>
