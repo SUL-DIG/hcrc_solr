@@ -776,7 +776,7 @@
         <field name="state_country">740 .S23s</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Sequoia Union High School District (Redwood City,
             California)</field>
@@ -794,7 +794,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Springfield (Ohio) City Schools</field>
         <field name="title">Art; tentative course of study [for the] elementary school</field>
