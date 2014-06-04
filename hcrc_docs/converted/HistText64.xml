@@ -1197,7 +1197,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Leonard, Verla</field>
         <field name="author_nat">Verla Leonard</field>
@@ -1215,7 +1215,7 @@
         <field name="call_number">740 .V18a</field>
         <field name="state_country">California</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
