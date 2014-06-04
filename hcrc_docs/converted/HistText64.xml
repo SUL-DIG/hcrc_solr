@@ -560,7 +560,7 @@
         <field name="grade_level_number">4th grade</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">San Diego (California) City Schools</field>
         <field name="title">Art - grade five: curriculum guide</field>
@@ -763,7 +763,7 @@
         <field name="grade_level_number">8th grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Santa Clara County (California) Superintendent of Schools</field>
         <field name="title">Santa Clara county art bulletins</field>
