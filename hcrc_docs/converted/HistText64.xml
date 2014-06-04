@@ -327,7 +327,7 @@
         <field name="call_number">740 .P85p</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Pueblo (Colorado) Board of Education</field>
         <field name="title">Instructional guide for teachers of Pueblo public schools, junior high
@@ -418,7 +418,7 @@
         <field name="call_number">740 .S19a</field>
         <field name="state_country">California</field>
     </doc>
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">San Bernardino County (California) Office of Superintendent of
             Schools</field>
