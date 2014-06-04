@@ -43,7 +43,7 @@
         <field name="state_country">Massachusetts</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th</field>
+        <field name="grade_level_number">6th grade</field>
    </doc>
 
     <doc>
@@ -134,7 +134,7 @@
         <field name="call_number">646 .G75s</field>
         <field name="state_country">Michigan</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -191,7 +191,7 @@
         <field name="language">English</field>
         <field name="call_number">646 .M69c</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">8th</field>
+        <field name="grade_level_number">8th grade</field>
    </doc>
 
     <doc>
@@ -214,7 +214,7 @@
         <field name="state_country">New York</field>
         <field name="grade_level_number">7th grade</field>
         <field name="grade_level_number">8th grade</field>
-        <field name="grade_level_number">9th</field>
+        <field name="grade_level_number">9th grade</field>
    </doc>
 
     <doc>
@@ -601,7 +601,7 @@
         <field name="state_country">Massachusetts</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th</field>
+        <field name="grade_level_number">6th grade</field>
    </doc>
 
     <doc>
@@ -658,7 +658,7 @@
         <field name="state_country">New Jersey</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -935,7 +935,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -1078,7 +1078,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -1528,7 +1528,7 @@
         <field name="state_country">Texas</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -1546,7 +1546,7 @@
         <field name="state_country">Rhode Island</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -1637,7 +1637,7 @@
         <field name="language">English</field>
         <field name="call_number">651 .C57c</field>
         <field name="state_country">Ohio</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -1774,7 +1774,7 @@
         <field name="call_number">651 .N53s</field>
         <field name="state_country">New York</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -1830,7 +1830,7 @@
         <field name="call_number">651 .N53t</field>
         <field name="state_country">New York</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>

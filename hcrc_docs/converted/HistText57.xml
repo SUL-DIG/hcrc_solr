@@ -53,7 +53,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -167,7 +167,7 @@
         <field name="state_country">Pennsylvania</field>
         <field name="grade_level_number">7th grade</field>
         <field name="grade_level_number">8th grade</field>
-        <field name="grade_level_number">9th</field>
+        <field name="grade_level_number">9th grade</field>
    </doc>
 
     <doc>
@@ -186,7 +186,7 @@
         <field name="state_country">Pennsylvania</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -204,7 +204,7 @@
         <field name="call_number">640 .R68h</field>
         <field name="state_country">Illinois</field>
         <field name="grade_level_number">7th grade</field>
-        <field name="grade_level_number">8th</field>
+        <field name="grade_level_number">8th grade</field>
    </doc>
 
     <doc>
@@ -338,7 +338,7 @@
         <field name="state_country">California</field>
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
-        <field name="grade_level_number">11th</field>
+        <field name="grade_level_number">11th grade</field>
    </doc>
 
     <doc>
@@ -377,7 +377,7 @@
         <field name="call_number">645 .S97h v. 2</field>
         <field name="state_country">California</field>
         <field name="grade_level_number">10th grade</field>
-        <field name="grade_level_number">11th</field>
+        <field name="grade_level_number">11th grade</field>
    </doc>
 
     <doc>
@@ -476,7 +476,7 @@
         <field name="call_number">640 .T89h</field>
         <field name="state_country">Arizona</field>
         <field name="grade_level_number">9th grade</field>
-        <field name="grade_level_number">10th</field>
+        <field name="grade_level_number">10th grade</field>
    </doc>
 
     <doc>
@@ -496,7 +496,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -1202,7 +1202,7 @@
         <field name="language">English</field>
         <field name="call_number">641 .F88g</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">3rd</field>
+        <field name="grade_level_number">3rd grade</field>
    </doc>
 
     <doc>
@@ -1223,7 +1223,7 @@
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
         <field name="grade_level_number">6th grade</field>
-        <field name="grade_level_number">7th</field>
+        <field name="grade_level_number">7th grade</field>
    </doc>
 
     <doc>
@@ -1296,7 +1296,7 @@
         <field name="grade_level_number">1st grade</field>
         <field name="grade_level_number">2nd grade</field>
         <field name="grade_level_number">3rd grade</field>
-        <field name="grade_level_number">4th</field>
+        <field name="grade_level_number">4th grade</field>
    </doc>
 
     <doc>
@@ -1373,7 +1373,7 @@
         <field name="language">English</field>
         <field name="call_number">641 .M662n</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">4th</field>
+        <field name="grade_level_number">4th grade</field>
    </doc>
 
     <doc>
@@ -1390,7 +1390,7 @@
         <field name="call_number">641 .M69f v. 1</field>
         <field name="state_country">California</field>
         <field name="grade_level_number">7th grade</field>
-        <field name="grade_level_number">8th</field>
+        <field name="grade_level_number">8th grade</field>
    </doc>
 
     <doc>
@@ -1438,7 +1438,7 @@
         <field name="language">English</field>
         <field name="call_number">641 .M75s</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">2nd</field>
+        <field name="grade_level_number">2nd grade</field>
    </doc>
 
     <doc>
@@ -1613,7 +1613,7 @@
         <field name="language">English</field>
         <field name="call_number">641 .O11b</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">2nd</field>
+        <field name="grade_level_number">2nd grade</field>
    </doc>
 
     <doc>
@@ -1645,7 +1645,7 @@
         <field name="language">English</field>
         <field name="call_number">641 .P41h v. 1</field>
         <field name="state_country">Illinois</field>
-        <field name="grade_level_number">7th</field>
+        <field name="grade_level_number">7th grade</field>
    </doc>
 
     <doc>
@@ -1662,7 +1662,7 @@
         <field name="language">English</field>
         <field name="call_number">641 .P41h v. 2</field>
         <field name="state_country">Illinois</field>
-        <field name="grade_level_number">8th</field>
+        <field name="grade_level_number">8th grade</field>
    </doc>
 
     <doc>
@@ -1678,7 +1678,7 @@
         <field name="language">English</field>
         <field name="call_number">641 .R12n</field>
         <field name="state_country">Wisconsin</field>
-        <field name="grade_level_number">5th</field>
+        <field name="grade_level_number">5th grade</field>
    </doc>
 
     <doc>
@@ -1885,7 +1885,7 @@
         <field name="call_number">641 .W24u</field>
         <field name="state_country">Wisconsin</field>
         <field name="grade_level_number">1st grade</field>
-        <field name="grade_level_number">2nd</field>
+        <field name="grade_level_number">2nd grade</field>
    </doc>
 
     <doc>
@@ -2080,7 +2080,7 @@
         <field name="grade_level_number">3rd grade</field>
         <field name="grade_level_number">4th grade</field>
         <field name="grade_level_number">5th grade</field>
-        <field name="grade_level_number">6th</field>
+        <field name="grade_level_number">6th grade</field>
    </doc>
 
     <doc>
@@ -2095,7 +2095,7 @@
         <field name="call_number">645 .G75f</field>
         <field name="state_country">Michigan</field>
         <field name="grade_level_number">11th grade</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -2134,7 +2134,7 @@
         <field name="language">English</field>
         <field name="call_number">645 .H63e</field>
         <field name="state_country">Michigan</field>
-        <field name="grade_level_number">12th</field>
+        <field name="grade_level_number">12th grade</field>
    </doc>
 
     <doc>
@@ -2178,7 +2178,7 @@
         <field name="language">English</field>
         <field name="call_number">645 .L41h</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">1st</field>
+        <field name="grade_level_number">1st grade</field>
    </doc>
 
     <doc>
@@ -2280,7 +2280,7 @@
         <field name="language">English</field>
         <field name="call_number">645 .O41h</field>
         <field name="state_country">Oklahoma</field>
-        <field name="grade_level_number">8th</field>
+        <field name="grade_level_number">8th grade</field>
    </doc>
 
     <doc>
@@ -2314,7 +2314,7 @@
         <field name="language">English</field>
         <field name="call_number">645 .P27ho</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">1st</field>
+        <field name="grade_level_number">1st grade</field>
    </doc>
 
     <doc>
@@ -2332,7 +2332,7 @@
         <field name="language">English</field>
         <field name="call_number">645 .P54h</field>
         <field name="state_country">Pennsylvania</field>
-        <field name="grade_level_number">7th</field>
+        <field name="grade_level_number">7th grade</field>
    </doc>
 
     <doc>
@@ -2467,7 +2467,7 @@
         <field name="language">English</field>
         <field name="call_number">645 .W29o</field>
         <field name="state_country">Ohio</field>
-        <field name="grade_level_number">2nd</field>
+        <field name="grade_level_number">2nd grade</field>
    </doc>
 
     <doc>
@@ -2498,6 +2498,6 @@
         <field name="language">English</field>
         <field name="call_number">645 .Y54h</field>
         <field name="state_country">California</field>
-        <field name="grade_level_number">1st</field>
+        <field name="grade_level_number">1st grade</field>
    </doc>
 </add>
