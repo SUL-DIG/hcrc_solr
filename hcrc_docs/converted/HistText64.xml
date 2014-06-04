@@ -1160,7 +1160,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Roberts, Olive</field>
         <field name="author_nat">Olive Roberts</field>
@@ -1258,7 +1258,7 @@
         <field name="state_country">Texas</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Warwick (Rhode Island) Public School Department</field>
         <field name="title">An emerging art curriculum</field>
@@ -1426,5 +1426,5 @@
         <field name="state_country">California</field>
         <field name="grade_level_group">Elementary</field>
     </doc>
-
---></add>
+-->
+</add>
