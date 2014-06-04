@@ -1160,7 +1160,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Roberts, Olive</field>
         <field name="author_nat">Olive Roberts</field>
@@ -1177,7 +1177,7 @@
         <field name="language">English</field>
         <field name="call_number">740 .V22a</field>
         <field name="state_country">Washington</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
