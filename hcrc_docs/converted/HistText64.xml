@@ -344,7 +344,7 @@
         <field name="grade_level_group">Middle school</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">St. Louis (Missouri) Department of Instruction</field>
         <field name="title">Art for elementary schools</field>
@@ -369,7 +369,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">St. Paul (Minnesota) Public Schools</field>
         <field name="title">Curriculum guide for art activities at the junior high school
