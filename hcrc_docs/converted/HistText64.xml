@@ -1140,7 +1140,7 @@
         <field name="grade_level_number">12th grade</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">United States Department of Health, Education, and Welfare. Office
             of Education</field>
@@ -1158,9 +1158,9 @@
         <field name="language">English</field>
         <field name="call_number">740 .U59a</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Roberts, Olive</field>
         <field name="author_nat">Olive Roberts</field>
@@ -1177,9 +1177,9 @@
         <field name="language">English</field>
         <field name="call_number">740 .V22a</field>
         <field name="state_country">Washington</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Utah State Department of Public Instruction</field>
         <field name="title">Art : elementary schools of Utah</field>
@@ -1195,9 +1195,9 @@
         <field name="call_number">740 .U89a</field>
         <field name="state_country">Utah</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Leonard, Verla</field>
         <field name="author_nat">Verla Leonard</field>
@@ -1215,9 +1215,9 @@
         <field name="call_number">740 .V18a</field>
         <field name="state_country">California</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Virginia State Board of Education</field>
         <field name="title">Art education for secondary schools; a tentative guide to curriculum
@@ -1241,9 +1241,9 @@
         <field name="call_number">740 .V81s</field>
         <field name="state_country">Virginia</field>
         <field name="grade_level_group">High school</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Waco (Texas) Independent School District</field>
         <field name="title">Art notes: bulletin in art education</field>
@@ -1256,7 +1256,7 @@
         <field name="language">English</field>
         <field name="call_number">740 .W11a</field>
         <field name="state_country">Texas</field>
-    </doc>
+    </doc>-->
 
     <!--<doc>
         <field name="type">Book</field>
