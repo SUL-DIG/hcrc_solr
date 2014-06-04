@@ -794,7 +794,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Springfield (Ohio) City Schools</field>
         <field name="title">Art; tentative course of study [for the] elementary school</field>
@@ -812,7 +812,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Springfield (Missouri) Public Schools</field>
         <field name="title">Art : (junior-senior high school level)</field>
