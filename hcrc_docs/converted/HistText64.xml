@@ -922,7 +922,7 @@
         <field name="grade_level_number">3rd grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Paine, Irma Littler</field>
         <field name="author_nat">Irma Littler Paine</field>
@@ -938,7 +938,7 @@
         <field name="language">English</field>
         <field name="call_number">740 .T11a</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
