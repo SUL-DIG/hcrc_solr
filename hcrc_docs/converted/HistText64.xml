@@ -940,7 +940,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
         <field name="title">Growth development in art: pre-school through 2nd grade</field>
@@ -956,7 +956,7 @@
         <field name="grade_level_number">Kindergarten</field>
         <field name="grade_level_number">1st grade</field>
         <field name="grade_level_number">2nd grade</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
