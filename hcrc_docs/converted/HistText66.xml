@@ -1788,6 +1788,29 @@
         <field name="state_country">New York</field>
     </doc>
 
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Puppetry in the curriculum : a manual on puppets, marionettes, shadow
+            figures, and masks for the elementary and junior high school years</field>
+        <field name="year">1947</field>
+        <field name="date">1947-1948</field>
+        <field name="pages">171</field>
+        <field name="keywords">Puppet theater in education</field>
+        <field name="notes">xi; ill. ; 23 cm.; Note(s): Includes bibliographical references (p.
+            157-165).</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin ;;
+            1947-1948 ser.</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N53p</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Elementary</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
     
 
 </add>
