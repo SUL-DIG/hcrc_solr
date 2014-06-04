@@ -1841,8 +1841,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Portland (Oregon) Public Schools</field>
-        <field name="title">Arts and crafts ideas for the high school mentally retarded
-            students</field>
+        <field name="title">Arts and crafts ideas for the high school mentally retarded students</field>
         <field name="year">1968</field>
         <field name="title">1968</field>
         <field name="pages">27</field>
