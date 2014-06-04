@@ -878,7 +878,7 @@
         <field name="grade_level_number">1st grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Olson, Lillian D.</field>
         <field name="author_nat">Lillian D. Olson</field>
@@ -898,7 +898,7 @@
         <field name="call_number">740 .S94f v. 3</field>
         <field name="state_country">Wisconsin</field>
         <field name="grade_level_number">2nd grade</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
