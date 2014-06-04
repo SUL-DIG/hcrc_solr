@@ -94,7 +94,7 @@
         <field name="call_number">745 .A51c</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
         <field name="title">Elementary school course of study: art and crafts, kindergarten and
@@ -192,7 +192,7 @@
         <field name="state_country">Idaho</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Kansas City (Missouri) Public Schools</field>
         <field name="title">A teacher's guide to crafts, ninth grade</field>
