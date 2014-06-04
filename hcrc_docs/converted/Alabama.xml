@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <add>
-    <doc>
-        <!--<field name="type">Book</field>
+    <!--<doc>
+        <field name="type">Book</field>
         <field name="corp_author">Alabama Education Study Commission</field>
         <field name="title">A two year follow up of recommendations made by the Alabama Education
             Study Commission, 1972-1974 : a report</field>
