@@ -96,7 +96,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Kohl, Mary</field>
         <field name="author_nat">Mary Kohl</field>
@@ -150,7 +150,7 @@
         <field name="state_country">California</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Commonwealth of Pennsylvania Department of Public
             Instruction</field>
