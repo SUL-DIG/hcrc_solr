@@ -854,9 +854,9 @@
         <field name="call_number">740 .S94f v. 1</field>
         <field name="state_country">Wisconsin</field>
         <field name="grade_level_number">Kindergarten</field>
-    </doc>
+    </doc>-->
 
-    <!-\-<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Olson, Lillian D.</field>
         <field name="author_nat">Lillian D. Olson</field>
@@ -1380,7 +1380,7 @@
         <field name="keywords">Art</field>
         <field name="keywords">Drawing</field>
         <field name="keywords">Painting</field>
-        <field name="notes">27 pages : illustrations ; 23 cm.; Note(s): "April 1950"-\\-Cover.;
+        <field name="notes">27 pages : illustrations ; 23 cm.; Note(s): "April 1950"--Cover.;
             Responsibility: ... prepared by members of the Statewide Art Committee.</field>
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
             bulletin</field>
@@ -1426,5 +1426,5 @@
         <field name="state_country">California</field>
         <field name="grade_level_group">Elementary</field>
     </doc>
--\->
---></add>
+
+</add>
