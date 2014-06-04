@@ -375,7 +375,7 @@
         <field name="state_country">Pennsylvania</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Portland (Oregon) Public Schools</field>
         <field name="title">Arts and crafts ideas for the high school mentally retarded
@@ -397,7 +397,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Poppett, Carol R.</field>
         <field name="author_nat">Carol R. Poppett</field>
