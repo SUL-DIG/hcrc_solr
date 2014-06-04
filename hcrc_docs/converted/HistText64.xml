@@ -763,7 +763,7 @@
         <field name="grade_level_number">8th grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Santa Clara County (California) Superintendent of Schools</field>
         <field name="title">Santa Clara county art bulletins</field>
@@ -856,7 +856,7 @@
         <field name="grade_level_number">Kindergarten</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Olson, Lillian D.</field>
         <field name="author_nat">Lillian D. Olson</field>
