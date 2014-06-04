@@ -1048,7 +1048,7 @@
         <field name="grade_level_number">2nd grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
         <field name="title">Drawing activities: 3rd-4th-5th</field>
@@ -1160,7 +1160,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Roberts, Olive</field>
         <field name="author_nat">Olive Roberts</field>
@@ -1426,5 +1426,5 @@
         <field name="state_country">California</field>
         <field name="grade_level_group">Elementary</field>
     </doc>
--->
-</add>
+
+--></add>
