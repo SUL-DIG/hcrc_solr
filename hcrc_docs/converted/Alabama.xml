@@ -23,7 +23,7 @@
         <field name="state_country">Alabama</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Alabama Education Study Commission</field>
         <field name="title">Special education programs in Alabama</field>
@@ -66,7 +66,7 @@
         <field name="state_country">Alabama</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Alabama Education Study Commission</field>
         <field name="title">Conclusions and recommendations</field>
