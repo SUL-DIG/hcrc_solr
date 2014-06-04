@@ -812,7 +812,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Springfield (Missouri) Public Schools</field>
         <field name="title">Art : (junior-senior high school level)</field>
@@ -834,7 +834,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Olson, Lillian D.</field>
         <field name="author_nat">Lillian D. Olson</field>
