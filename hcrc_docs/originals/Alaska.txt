@@ -1,0 +1,382 @@
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Manual for school boards
+Y1  - 1949
+D1  - 1949
+SP  - 30
+KW  - School boards
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Alaska Territorial Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1949
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - The compiled school laws of the territory of Alaska, and the rules and regulations of the territorial Board of education. Uniform Title: School laws
+Y1  - 1937
+D1  - 1937
+SP  - 61
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alaska School Bulletin
+V1  - 19
+IS  - 5
+PB  - Alaska Territorial Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1937
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - School laws of the territory of Alaska, issued by authority of the Territorial board of education, 1929; Uniform Title: School laws
+Y1  - 1929
+D1  - 1929
+SP  - 68
+KW  - Educational law and legislation
+N1  - 68 p. 23 cm.; Responsibility: comp. by Leo W. Breuer, commissioner of education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska Territorial Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1929
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska Committee for the White House Conference on Education
+T1  - Report of Alaska White House Conference on Education
+Y1  - 1955
+D1  - 1955
+SP  - 48
+KW  - Education 
+N1  - ii; 22 cm.; Note(s): Cover title./ "Memorandum" (2 l.) inserted./ "The reports of the White House Conference on Education, Washington, D.C., Nov. 28 - Dec. 1, 1955" (19 p.) inserted
+N1  - Shelved in Cubberley Library Reading Room
+CY  - N.p
+LA  - English
+CN  - 379.74 .A2 1955
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Manual for school bus transportation : the rules and regulations of the Territorial Board of Education and the laws of the Territory of Alaska affecting school transportation
+Y1  - 1955
+D1  - 1955
+SP  - 24
+KW  - School children
+KW  - Transportation
+N1  - 1 volume (various pagings) ; 28 cm.; Note(s): "Rev. April 1, 1955."
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Mimeographed Bulletin
+V1  - 1
+ED  - Rev
+PB  - Alaska Territorial Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Legislature
+T1  - Report on school support
+Y1  - 1961
+D1  - 1961
+SP  - 71
+KW  - School Finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Legislature
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1961
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska Teachers' Retirement System
+T1  - Handbook of information
+Y1  - 1960
+D1  - 1960
+SP  - 16
+KW  - Teachers
+KW  - Pensions
+N1  - v. ; 23 cm; Named Corp: Alaska. Teachers' Retirement System
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska Teachers' Retirement System
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1960
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A1  - Lindman, Erick Le Roy
+T1  - A foundation for Alaska's public schools : report of a survey for the Alaska state board of Education
+Y1  - 1961
+D1  - 1961
+SP  - 186
+KW  - Education
+N1  - Report summarizing findings and recommendations growing out of a co-operative study of public school organization and finance in the state of Alaska, 1961
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1961
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Minimum Standards For Elementary Schools in Alaska
+D1  - 1964?
+SP  - 17
+KW  - Standards
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1964
+SC  - Alaska
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Scope of operation of the major Divisions of the State Department of Education
+D1  - 1960?
+SP  - 16
+KW  - School management and organization
+N1  - 16, 7 leaves ; 28 cm; Note(s): Cover title.; Responsibility: State of Alaska, State Deparment of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 196?
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - A handbook for the organization and administration of a minimum high school : special high schools
+Y1  - 1963
+D1  - 1963
+SP  - 7
+KW  - High school administration
+N1  - 7 leaves ; 28 cm; Other Titles: At head of title:; Appendix E; Responsibility: issued by Department of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1963
+SC  - Alaska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Transportation of pupils
+D1  - 1966?
+SP  - 26
+KW  - Transportation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Administrators series
+V1  - 1
+ED  - 2d
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 279.74 .A2 1966
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Alaska public school finance program, 1965-66
+Y1  - 1966
+D1  - 1966
+SP  - 5
+KW  - School finance
+N1  - 5 p. ; 19 cm.; Note(s): Caption title./ "June 1966."; Responsibility: prepared by the state departments of education and the U.S. Office of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - United States Department of Health, Education, and Welfare. Office of Education, Bureau of Elementary and Secondary Education, Division of State Agency Cooperation
+CY  - Washington, D.C.
+LA  - English
+CN  - 379.74 .A2 1965/1966
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - The compiled school laws, State of Alaska
+Y1  - 1966
+D1  - 1966
+SP  - 159
+KW  - Educational law and legislation
+N1  - iii, 159 l. 29 cm.; Note(s): Cover title./ "Consists of Title 14, Education, Alaska statutes, 1962, as amended, revised, or repealed by the session laws through 1966 ... [and] miscellaneous laws from other titles."
+N1  - Shelved in Cubberley Library Reading Room
+ED  - 4th
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1966
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Planning for human resources; enrollment and cost projections for Alaska schools
+Y1  - 1970
+D1  - 1970
+SP  - 44
+KW  - Educational planning
+N1  - iii; 28 cm.; Genre/Form: Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1970
+SC  - Alaska 
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - A summary of certification requirements for teachers
+D1  - 1967?
+SP  - 7
+KW  - Teacher certification
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1967
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Alaska Dept. of Education - Schools, People, Government, Glaciers, History, Facts, Figures - in Brief
+Y1  - 1969
+D1  - 1969
+SP  - 29
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1969
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - North to the future: the Alaska Department of Education and education in Alaska, 1785-1967; an Alaskan centennial publication
+Y1  - 1967
+D1  - 1967
+SP  - 158
+KW  - Education
+N1  - ix; illus. 28 cm.; Note(s): Cover title./ Bibliography: p. 154-158
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1967
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A1  - Bowkett, Norma S.
+A2  - Alaska State Department of Education
+T1  - Directions 70's; an assessment of educational needs in Alaska
+Y1  - 1970
+D1  - 1970
+SP  - 83
+KW  - Education
+N1  - Statement of goals and objectives for education in Alaska, wiht emphasis on the needs of native students.
+N1  - 83 p. illus. 22 x 28 cm.; Note(s): Includes bibliographical references
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1970
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Legislature
+T1  - Higher education in Alaska; a state-wide study with recommendations to the Seventh Legislature, second session
+Y1  - 1972
+D1  - 1972
+SP  - 228
+KW  - Higher education
+N1  - vi; 28 cm.; Genre/Form: Statistics.; Note(s): "Submitted to the Subcommittee on Higher Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Legislature
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1972
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A1  - Simonds, Robert L.
+A2  - Alaska State Department of Education
+T1  - A planning statement: vocational education opportunities for Alaskans
+Y1  - 1971
+D1  - 1971
+SP  - 60
+KW  - Adult education
+KW  - Vocational education
+N1  - iv; illus. 28 cm.; Note(s): "Prepared by the staff of the Division of Vocational and Adult Education"
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1971
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Elementary course of study; scope and sequence for Alaska schools
+SP  - 43
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2
+SC  - Alaska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alaska State Department of Education
+T1  - Secondary education in Alaska, 1967-1976
+Y1  - 1968
+D1  - 1968
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alaska State Department of Education
+CY  - Juneau, AK
+LA  - English
+CN  - 379.74 .A2 1968
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A1  - Tuff, Richard J
+T1  - Report of assessment methods with ratios of assessed values to market values for various cities and school districts throughout the state
+D1  - 1961?
+KW  - Valuation
+SP  - 39
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .A2 1960
+SC  - Alaska
+ER  - 

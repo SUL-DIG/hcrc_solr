@@ -1,0 +1,1329 @@
+
+
+
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Industrial Arts Department
+T1  - Handcraft : teacher's guide for elementary schools
+Y1  - 1950
+D1  - 1950
+SP  - 254
+KW  - Handicraft
+KW  - Industrial arts
+N1  - 254 pages : illustrations ; 28 cm; Note(s): Cover title./ Includes bibliographical references (leaves 253-254).; Other Titles: Handicraft : teacher's guide for elementary schools; Responsibility: prepared by the Industrial Arts Department, Cleveland Public Schools.
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 745 .C63h
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Department of Art Education
+T1  - Wood and cloth in art education : grades one through six
+Y1  - 1948
+D1  - 1948
+SP  - 32
+KW  - Art
+N1  - 32 pages : illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 29-32).
+PB  - Detroit (Michigan) Department of Art Education
+CY  - Detroit, MI
+LA  - English
+CN  - 745 .D48w
+SC  - Michigan
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Girl Scouts of the United States of America
+T1  - Exploring the hand arts
+Y1  - 1955
+D1  - 1955
+SP  - 118
+KW  - Handicraft
+N1  - 118 p. illus. 24 cm.; Responsibility: [by Corinne Murphy, arts and crafts adviser, Program Development Division]
+PB  - Girl Scouts of the United States of America
+CY  - New York
+LA  - English
+CN  - 745 .G52e
+ER  - 
+
+TY  - BOOK
+A1  - Nottingham, Barbara Cox
+A2  - Alameda (California) Unified School District
+T1  - Clay in the classroom : a guide for the Alameda County Elementary Schools
+Y1  - 1957
+D1  - 1957
+SP  - 63
+KW  - Modeling
+N1  - ill. ; 25 cm.; Responsibility: prepared by Barbara Cox Nottingham.
+PB  - Alameda (California) Unified School District
+CY  - Hayward, CA
+LA  - English
+CN  - 745 .A31c
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - American Crayon Company
+T1  - Creative graphics
+SP  - 16
+KW  - Graphic arts
+PB  - American Crayon Company
+CY  - Sandusky, OH
+LA  - English
+CN  - 745 .A51c
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Elementary school course of study: art and crafts, kindergarten and grades I-VI, parts one and two
+Y1  - 1947
+D1  - 1947
+SP  - 96
+KW  - Art
+KW  - Handicraft
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 745 .C635a
+SC  - Ohio
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Boothe, Guy L.
+T1  - Leather craft : terms I and II (high school level)
+Y1  - 1949
+D1  - 01/1949
+SP  - 78
+KW  - Leatherwork
+N1  - 78 leaves : ill. ; 26 cm.; Note(s): Illustrated, organized, and edited by Guy L. Boothe.
+T2  - Kansas City (Missouri) Public Schools. Bulletin
+V1  - 72
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 745 .K16L
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Craft manual for elementary and secondary teachers
+Y1  - 1948
+D1  - 1948
+SP  - 168
+KW  - Industrial arts
+KW  - Handicraft
+N1  - 168 p. illus. 29 cm.; Note(s): Bibliography: p. 167-168.
+T2  - Los Angeles (California) City School District. Publication
+V1  - 445
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 745 .L87c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Instructional guide for design craft
+Y1  - 1965
+D1  - 1965
+KW  - Handicraft
+KW  - Design
+N1  - 1 v. (various pagings) ill. 28 cm.
+T2  - Los Angeles (California) City School District. Division of Instructional Services. Publication
+V1  - SC-608
+PB  - Los Angeles (California) City School District. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 745 .L87i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Leather crafts: a tentative handbook for teachers
+Y1  - 1956
+D1  - 1956
+SP  - 43
+KW  - Leatherwork
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 745 .I18L
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - A teacher's guide to crafts, ninth grade
+Y1  - 1950
+D1  - 09/1950
+SP  - 80
+KW  - Handicraft
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 745 .K16c
+SC  - Missouri
+G2  - 9th
+ER  -
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Crafts for elementary schools
+Y1  - 1949
+D1  - 1949
+SP  - 22
+KW  - Handicraft
+T2  - Kansas City (Missouri) Public Schools. Bulletin
+V1  - 75
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 745 .K16ce
+SC  - Missouri
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Instructional Planning Branch
+T1  - Supplement to Art for junior high school : an instructional bulletin
+Y1  - 1969
+D1  - 1969
+SP  - 16
+KW  - Art
+N1  - 16 p. ; 28 cm.; Other Titles: Art for junior high school.
+T2  - Los Angeles (California) City School District. Publication
+V1  - SC-664
+PB  - Los Angeles (California) City School District. Instructional Planning Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 745 .L87s
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Schools
+T1  - Art suggestions
+Y1  - 1949
+D1  - 03/1949
+SP  - 19
+KW  - Art
+PB  - Merced County (California) Schools
+CY  - Merced, CA
+LA  - English
+CN  - 745 .M55a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Moore, Frank C.
+A1  - Hamburger, Carl H.
+A1  - Kingzett, Anna-Laura
+T1  - Make it yourself [a craftbook for beginners]
+Y1  - 1955
+D1  - 1955
+SP  - 96
+KW  - Handicraft
+KW  - Manual training
+N1  - 96 p. ill.; Note(s): "Primarily for boys and girls between the ages of six and twelve."; Responsibility: by Frank C. Moore and others.
+PB  - D.C. Heath and Company
+CY  - Boston, MA
+LA  - English
+CN  - 745 .M82m
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Creative crafts
+Y1  - 1958
+D1  - 1958
+SP  - 80
+KW  - Art
+KW  - Handicraft
+N1  - 80 p. illus. 28 cm.; Note(s): "A supplement to Art education, grades 7-8-9."
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 745 .N52c
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Industrial Arts Education
+T1  - Industrial arts syllabus in general ceramics
+Y1  - 1956
+D1  - 1956
+SP  - 69
+KW  - Ceramics
+N1  - ill. ; 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographical references (p. 68-69).; Other Titles: Syllabus in general ceramics; General ceramics; Industrial arts :; general ceramics syllabus
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 745 .N52g
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Puppetry in the curriculum : a manual on puppets, marionettes, shadow figures, and masks for the elementary and junior high school years
+Y1  - 1947
+D1  - 1947-1948
+SP  - 171
+KW  - Puppet theater in education
+N1  - xi; ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 157-165).
+T2  - New York City Board of Education. Curriculum bulletin ;; 1947-1948 ser.
+V1  - 1
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 745 .N53p
+SC  - New York
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Weissenfluh, Lyle E.
+A1  - Keller, Byron J.
+A2  - Pennsylvania State Department of Public Instruction
+T1  - Ceramics as an area of industrial arts instruction in Pennsylvania public schools
+Y1  - 1955
+D1  - 1955
+SP  - 94
+KW  - Ceramics
+N1  - vii; ges : illustrations, maps ; 23 cm.; Note(s): "Supplements Industrial arts in Pennsylvania, Bulletin 331, published in 1951."/ "Instructional aids: books, magazines, trade publications, films and filmstrips": pages 64-77.; Responsibility: Lyle E. Weissenfluh and Byron J. Keller.
+T2  - Pennsylvania State Department of Public Instruction. Bulletin [new series] 
+V1  - 331B
+PB  - Pennsylvania State Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 745 .P41c
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Arts and crafts ideas for the high school mentally retarded students
+Y1  - 1968
+T1  - 1968
+SP  - 27
+KW  - Children with mental disabilities
+KW  - Art
+KW  - Handicraft
+N1  - 27 leaves : ill. ; 28 cm.; Note(s): Cover title.
+T2  - Portland (Oregon) Public Schools. Curriculum publication
+V1  - SpE 1-21
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 745 .P85a
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Poppett, Carol R.
+A2  - San Bernardino County (California) Schools
+T1  - Book covers and portfolios
+KW  - Art
+N1  - ill. ; 22 x 28 cm.
+PB  - San Bernardino County (California) Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 745 .S18b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Poppett, Carol R.
+A2  - San Bernardino County (California) Schools
+T1  - Clay in the classroom
+KW  - Modeling
+N1  - ill. ; 22 x 28 cm.
+PB  - San Bernardino County (California) Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 745 .S18c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Marsh, Mary Val
+A2  - San Bernardino County (California) Superintendent of Schools
+T1  - Pipestem cleaner figures
+KW  - Handicraft
+PB  - San Bernardino County (California) Superintendent of Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 745 .S18p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Anderson, Patricia E.
+A2  - San Diego (California) City Schools
+T1  - A guide for creative activities with clay
+Y1  - 1961
+D1  - 1961
+SP  - 78
+KW  - Modeling
+KW  - Clay
+N1  - ill. ; 28 cm.; Responsibility: by Patricia E. Anderson.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 745 .S19c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Perkins, Richard A.
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching crafts 1-2
+Y1  - 1969
+D1  - 1969
+KW  - Handicraft
+KW  - Art
+KW  - Curricula
+N1  - iii, 131 l. ill. 28 cm.; Note(s): Includes bibliographies and filmographies.; Responsibility: Prepared by Richard A. Perkins.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 745 .S19g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Creating from many cultures
+Y1  - 1970
+D1  - 06/1970
+SP  - 47
+KW  - Art
+N1  - ill. ; 25 cm.; Note(s): Includes bibliographical references (p. 44-46).; Other Titles: At head of title:; A guide to extend classroom art experiences, K-8; Responsibility: approved by Santa Clara County Baord of Education, June 17, 1970.
+PB  - Santa Clara County (California) Board of Education
+CY  - Santa Clara, CA
+LA  - English
+CN  - 745 .S23cr
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - A guide to extend classroom art experiences, K-8: Clay
+Y1  - 1966
+D1  - 06/1966
+SP  - 40
+KW  - Modeling
+KW  - Clay
+N1  - 40 pages : illustrations ; 25 cm; Note(s): Cover title: Clay./ On cover: Office of Education, Santa Clara County./ Includes bibliographical references (page 40).; Other Titles: Clay; Responsibility: approved by Santa Clara County Board of Education.
+PB  - Santa Clara County (California) Board of Education
+CY  - Santa Clara, CA
+LA  - English
+CN  - 745 .S23c
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Kosloff, Albert
+T1  - A course in basic screen printing
+SP  - 41
+KW  - Screen process printing
+PB  - Screen Process Printing Association International
+CY  - Chicago, IL
+LA  - English
+CN  - 745 .S43c
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Ohio) Public Schools. Elementary Art Committee
+T1  - Free and low cost materials available to art teachers
+Y1  - 1955
+D1  - 06/1955
+SP  - 8
+KW  - Art
+PB  - Springfield (Ohio) Public Schools. Elementary Art Committee
+CY  - Springfield, OH
+LA  - English
+CN  - 745 .S77f
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Ohio) Public Schools. Elementary Art Committee
+T1  - Handicraft projects
+Y1  - 1955
+D1  - 06/1955
+SP  - 8
+KW  - Handicraft
+PB  - Springfield (Ohio) Public Schools. Elementary Art Committee
+CY  - Springfield, OH
+LA  - English
+CN  - 745 .S77h
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Dooley, Helen B.
+T1  - Elementary crafts in a nutshell, for teachers, students, group leaders, parents : suggested methods of approach in teaching design & craft techniques
+Y1  - 1963
+D1  - 1963
+SP  - 37
+KW  - Creative activities and seat work
+KW  - Handicraft
+N1  - 37 leaves : ill.; Responsibility: by Helen B. Dooley.
+ED  - Rev.
+PB  - University of the Pacific Press
+CY  - Stockton, CA
+LA  - English
+CN  - 745 .S86e
+ER  - 
+
+TY  - BOOK
+A1  - Paine, Irma
+A2  - Tacoma (Washington) School District #10
+T1  - Discarded materials and the school art program
+Y1  - 1951
+D1  - 1951
+SP  - 20
+KW  - Handicraft
+N1  - 20 leaves : ill. ; 28 cm.; Responsibility: Tacoma Public Schools ; Irma Paine, Director of Art ; Alden H. Blankenship, Superintendent.
+PB  - Tacoma (Washington) Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 745 .T11d
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - Classroom arts - crafts
+Y1  - 1951
+D1  - 05/1951
+KW  - Handicraft
+PB  - Ventura County (California) Board of Education
+LA  - English
+CN  - 745 .V46c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Eastman Kodak Company
+T1  - Photography in education
+SP  - 14
+KW  - Photography
+PB  - Eastman Kodak Company
+CY  - Rochester, NY
+LA  - English
+CN  - 770 .E13p
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Classroom music education, grades K-8
+Y1  - 1959
+D1  - 09/1959
+SP  - 85
+KW  - Music education
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 780 .A31c
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Classroom music education, grades K-8
+Y1  - 1959
+D1  - 09/1959
+SP  - 49
+KW  - Music
+PB  - Alameda (California) Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 780 .A31m
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - McCarthy, Georgana
+A1  - Dod, Dorothy
+A1  - Lehmer, Stephen
+T1  - Music curriculum for all grades
+Y1  - 1941
+D1  - 12/1941
+SP  - 66
+KW  - Music
+KW  - Curricula
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 780 .A32m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Holmgren, Ilene
+T1  - A supplementary guide for teaching music in the elementary grades
+Y1  - 1953
+D1  - 06/1953
+SP  - 75
+KW  - Music
+KW  - Curricula
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 780 .A32s
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Kidder, Virginia
+T1  - A balanced music program: scope and sequence of study in the Anaheim city schools
+KW  - Music
+KW  - Curricula
+N1  - Vol. 1: third grade -- vol. 2: fourth grade -- vol. 3: fifth grade -- vol. 4: sixth grade
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 780 .A53m v. 1-4
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Public Instruction
+T1  - A Guide for the improvement of the teaching of general music in the schools of Arizona
+Y1  - 1951
+D1  - 1951
+SP  - 154
+KW  - Music
+AB  - pt. I. Suggestions for teaching music -- pt. II. Resource material.
+N1  - 154 pages : illustrations, music ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Arizona State Department of Public Instruction. Bulletin
+V1  - 2
+PB  - Arizona State Department of Public Instruction
+CY  - Phoenix, AZ
+LA  - English
+CN  - 780 .A71g
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Barrington (Illinois) Public Schools
+T1  - Music curriculum guide for the elementary grades
+Y1  - 1964
+D1  - 1964
+SP  - 22
+KW  - Music
+KW  - Curricula
+PB  - Barrington (Illinois) Public Schools
+CY  - Barrington, IL
+LA  - English
+CN  - 780 .B26m
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - Course of study in general music, grade 8
+Y1  - 1963
+D1  - 09/1963
+SP  - 68
+KW  - Music
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 780 .B57c
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Boulder (Colorado) Public Schools
+T1  - Music guides for grades one - six
+KW  - Music
+PB  - Boulder (Colorado) Public Schools
+CY  - Boulder, CO
+LA  - English
+CN  - 780 .B76m
+SC  - Colorado
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Noel, Francis W.
+A2  - California State Department of Education
+T1  - Bibliography on the use of audio-visual material in music education
+Y1  - 1954
+D1  - 01/1954
+SP  - 3
+KW  - Music education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 780 .C15b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Children's Music Center
+T1  - Jazz in music education
+Y1  - 1956
+D1  - 1956
+SP  - 20
+KW  - Jazz
+N1  - music ; 22 cm.; Note(s): Discography: p. 16-20.
+PB  - Children's Music Center
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .C536j
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Tentative course of study in music : grades 9-12
+Y1  - 1950
+D1  - 1950
+SP  - 80
+KW  - Music
+KW  - Curricula
+N1  - iv, 80 leaves ; 1950.; Note(s): Copy in Dept. of Rare Books and Special Collections has original pink wrappers.; Other Titles: Tentative course of study :; music, grades 9-12; Course of study in music
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 143
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 780 .C57t
+SC  - Ohio
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Luca, Mark C.
+A2  - California State Department of Education. Division of Special Education
+T1  - Teaching gifted students art in grades ten through twelve
+Y1  - 1973
+D1  - 1973
+SP  - 37
+KW  - Art
+KW  - Gifted children
+N1  - vii; ; 23 cm.; Note(s): Prepared for the Division of Special Education, California State Department of Education./ Includes bibliographical references.; Responsibility: by Mark C. Luca.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 740 .C15t v. 4
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California School Supervisors Association, Southern Section
+T1  - Music for children with special needs
+SP  - 29
+KW  - Music
+PB  - California School Supervisors Association, Southern Section
+LA  - English
+CN  - 780 .C153m
+ER  - 
+
+TY  - BOOK
+A2  - Chattanooga (Tennessee) Public Schools
+T1  - Time for listening: radio listening lessons
+Y1  - 1954
+D1  - 1954-1955
+SP  - 32
+KW  - Music
+PB  - Chattanooga (Tennessee) Public Schools
+CY  - Chattanooga, TN
+LA  - English
+CN  - 780 .C49t
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Teaching guide for music : kindergarten through junior college
+Y1  - 1957
+D1  - 1957
+SP  - 75
+KW  - Music
+N1  - iv; ill. ; 26 cm.; Genre/Form: Juvenile works.; Note(s): Includes bibliographical references (p. 75).; Responsibility: Benjamin C. Willis.
+PB  - Chicago (Illinois) Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 780 .C53t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study, elementary education: music
+Y1  - 1957
+D1  - 1957-1958
+SP  - 33
+KW  - Music
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 780 .C58m
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Baldwin, Lillian L.
+A2  - Cleveland (Ohio) Public Schools. Music Department
+T1  - Counting the hours
+Y1  - 1943
+D1  - 1943
+SP  - 9
+KW  - Music
+PB  - Cleveland (Ohio) Public Schools. Music Department
+CY  - Cleveland, OH
+LA  - English
+CN  - 780 .C63c
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Keller, Esther M.
+A2  - Cleveland (Ohio) Public Schools. Music Department
+T1  - Instructions for radio music: discoveries in music, fifth grade
+Y1  - 1954
+D1  - 02/1954
+SP  - 16
+KW  - Music
+PB  - Cleveland (Ohio) Public Schools. Music Department
+CY  - Cleveland, OH
+LA  - English
+CN  - 780 .C63i
+SC  - Ohio
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Manring, Ernest
+A2  - Cleveland (Ohio) Public Schools. Music Department
+T1  - Outline of music education in the elementary schools
+SP  - 5
+KW  - Music education
+PB  - Cleveland (Ohio) Public Schools. Music Department
+CY  - Cleveland, OH
+LA  - English
+CN  - 780 .C63o
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Baldwin, Lillian Luverne
+T1  - Songs for Americans
+Y1  - 1940
+D1  - 1940
+SP  - 8
+KW  - National songs
+KW  - Music
+AB  - The star-spangled banner -- America -- America the beautiful --God of our fathers -- Land of ou birth -- Ton-y-botel.
+N1  - Description: 1 close score ([12] p.) ; 28 cm.; Note(s): Cover title./ Annotations: p. 1-8.; Responsibility: prepared by Lillian L. Baldwin.
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 780 .C63s
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Vocal music - elective, junior high, senior high; instrumental music - elective, junior & senior high
+Y1  - 1950
+D1  - 1950
+SP  - 14
+KW  - Music
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 780 .C635m
+SC  - Ohio
+G1  - Middle school
+G1  - Senior high
+ER  - 
+
+TY  - BOOK
+A1  - Rayner, Doris
+A1  - Simmons, Mildred
+A1  - Boynton, Paul M.
+T1  - Current practices in Connecticut secondary schools: music
+Y1  - 1955
+D1  - 01/1955
+SP  - 27
+KW  - Music
+PB  - Connecticut State Department of Education, Bureau of Youth Services
+CY  - Hartford, CT
+LA  - English
+CN  - 780 .C75m
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Board of Public Instruction
+T1  - A music program which children can do, grades 1 - 6
+Y1  - 1952
+D1  - 1952
+KW  - Music
+T2  - Dade County (Florida) Board of Public Instruction. Curriculum bulletin
+V1  - 16-A
+PB  - Dade County (Florida) Board of Public Instruction
+CY  - Miami, FL
+LA  - English
+CN  - 780 .D12m
+SC  - Florida
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Growth through music; a teaching guide for grades I-XII
+Y1  - 1952
+D1  - 1952
+SP  - 47
+KW  - Music
+KW  - School music
+N1  - 47 p. 28 cm.; Responsibility: developed by the music education staff of the Dallas Independent School District.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+CY  - Dallas, TX
+LA  - English
+CN  - 780 .D14g v. 1
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Growth through music; a curriculum guide for grades I-XII
+Y1  - 1952
+D1  - 1952
+SP  - 19
+KW  - Music
+KW  - School music
+N1  - 19 p. 28 cm.; Responsibility: developed by the music education staff of the Dallas Independent School District.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+CY  - Dallas, TX
+LA  - English
+CN  - 780 .D14g v. 2
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Know your symphony; a resource unit in music for grades I-XII
+Y1  - 1952
+D1  - 1952
+SP  - 26
+KW  - Music 
+N1  - 26 p. ill. 28 cm.; Responsibility: Authorized by the Board of Education, October 14, 1952.
+T2  - Dallas (Texas) Independent School District. Curriculum bulletin series
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 780 .D14k
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Music education content, scope, and sequence
+Y1  - 1959
+D1  - 09/1959
+SP  - 6
+KW  - Music
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 789 .D14m
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Delaware State Department of Public Instruction. Division of Music Education
+T1  - Primary children and music
+Y1  - 1954
+D1  - 1954
+SP  - 60
+KW  - Music
+N1  - 60 p. ill. 28 cm.; Note(s): "Reference books" and "Sources of phonograph records," p. 60.
+T2  - Delaware State Department of Public Instruction. Bulletin
+V1  - 154-50
+ED  - Rev
+PB  - Delaware State Department of Public Instruction.
+CY  - Dover, DE
+LA  - English
+CN  - 780 .D34p
+SC  - Delaware
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Music backgrounds handbook for the senior high school
+Y1  - 1968
+D1  - 1968
+SP  - 142
+KW  - Music
+N1  - 142 leaves : music ; 28 cm.; Note(s): Includes bibliographical references (leaves 139-142).; Responsibility: prepared and produced in the Dept. of General Curriculum Services, Division of Instructional Services, Denver Public Schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 780 .D41m
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Music program of the Denver Public Schools : kindergarten through sixth grade : a guide for the use of teachers in the elementary school
+Y1  - 1952
+D1  - 1952
+SP  - 180
+KW  - Music
+N1  - vii; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 175-180).; Responsibility: Denver Public Schools.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 780 .D41mus
+SC  - Colorado
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - A music guide for junior high school : tentative form
+Y1  - 1950
+D1  - 1950
+SP  - 130
+KW  - Music
+N1  - 130 leaves : ill. ; 28 cm.; Note(s): "Stock number 93200."/ Includes bibliographical references.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 780 .D41mu
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Door County (Wisconsin) Rural Teachers
+T1  - Music: a music resource guide for Door county schools set up in 1952
+Y1  - 1952
+D1  - 1952
+SP  - 124
+KW  - Music
+T2  - Door to musical accomplishment
+PB  - Door County (Wisconsin) Superintendent of Schools
+LA  - English
+CN  - 780 .D69d
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A1  - Andrews, Louise
+A1  - Folts, Melvin
+A1  - Kreismer, Marilyn
+A1  - Wolfson, Chester
+T1  - A child grows in music skills
+Y1  - 1955
+D1  - 08/1955
+SP  - 19
+KW  - Music
+PB  - Fair Lawn (New Jersey) Public Schools
+CY  - Fair Lawn, NJ
+LA  - English
+CN  - 780 .F16c
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Housewright, Wiley L.
+A1  - Moylan , Marjorie Morrison
+A2  - Florida State Department of Education
+T1  - Music in Florida high schools
+Y1  - 1949
+D1  - 02/1949
+SP  - 135
+KW  - School music
+KW  - Music
+N1  - 135 pages illustrations 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Prepared at Florida State University.
+T2  - Florida State Department of Education. Bulletin
+V1  - N41
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 780 .F63m
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - General music program for the junior high school level
+Y1  - 1949
+D1  - 1949
+SP  - 52
+KW  - Music
+PB  - Fresno (California) Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F87g
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Music curriculum guide for primary grades (Kindergarten, 1, 2, 3)
+Y1  - 1954
+D1  - 1954
+SP  - 93
+KW  - Music
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F88m v. 1
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Music curriculum guide for intermediate grades (grades 4, 5, 6)
+Y1  - 1954
+D1  - 1954
+SP  - 93
+KW  - Music
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F88m v. 2
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Teaching aids in music for elementary and high schools: phonograph records, motion picture films, filmstrips, transcriptions, pictures, references.
+Y1  - 1949
+D1  - 09/1949
+SP  - 95
+KW  - Music
+KW  - Audio-visual materials
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F88t
+ER  - 
+
+TY  - BOOK
+A1  - Housewright, Wiley L.
+T1  - Music for Florida children; a guide for elementary school music
+Y1  - 1954
+D1  - 1954
+SP  - 129
+KW  - School music
+KW  - Discography
+N1  - 129 pages illustrations, music 28 cm.; Note(s): "Graded series of general music textbooks": p. [76]-87./ Bibliography of recordings: pages 88-107./ "A classified list of the RCA Victor set of recordings"; pages 108-127.; Other Titles: Florida program for improvement of schools; Responsibility: Florida program for improvement of schools.
+T2  - Florida State Department of Education. Bulletin
+V1  - N40
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 780 .F63c
+SC  - Florida
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Niblack, Stephen L.
+T1  - Action songs : with instructions for use in grades 1-6
+Y1  - 1957
+D1  - 11/1957
+KW  - Children's songs
+KW  - Singing games
+KW  - Games
+KW  - Music
+N1  - Description: 18, [8] leaves ; 28 cm.; Note(s): Cover title.; Responsibility: [Stephen L. Niblack].
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F88a
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Hendrickson, Clarence V.
+A2  - Gary (Indiana) Public Schools
+T1  - Vocal music guides, elementary grades
+SP  - 54
+KW  - Music
+PB  - Gary (Indiana) Public Schools
+CY  - Gary, IN
+LA  - English
+CN  - 780 .G24v
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hanson, Pauline
+A2  - Grand Island (Nebraska) Public Schools
+T1  - Elementary music: an introduction and guide for teachers, kindergarten - grade VI
+Y1  - 1955
+D1  - 09/1955
+SP  - 26
+KW  - Music
+T2  - Elementary music in Grand Island public schools, kindergarten - grade VI, a tentative guide for teachers
+PB  - Grand Island (Nebraska) Public Schools
+CY  - Grand Island, NE
+LA  - English
+CN  - 780 .G75e
+SC  - Nebraska
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - General music
+Y1  - 1964
+D1  - 1964
+SP  - 217
+KW  - Music
+PB  - Granite School District
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 780 .G751g
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Music for everyone
+KW  - Music
+PB  - Hawaii (Territory) Department of Public Instruction
+LA  - English
+CN  - 780 .H38m
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Highland Park Public Schools (Dallas, Texas)
+T1  - Music for children and youth: a guide for teachers
+Y1  - 1958
+D1  - 06/1958
+SP  - 171
+KW  - Music
+PB  - Highland Park Public Schools
+CY  - Dallas, Texas
+LA  - English
+CN  - 780 .H63m
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Hudson School District (La Puente, California)
+T1  - Junior high music handbook
+Y1  - 1964
+D1  - 1964
+SP  - 42
+KW  - Music
+PB  - Hudson School District
+CY  - La Puente, CA
+LA  - English
+CN  - 780 .H88j
+SC  - California
+G1  - Middle school
+ER  - 

@@ -1,0 +1,1301 @@
+
+
+
+
+TY  - BOOK
+A2  - Idaho State Board of Education. State Curriculum Development and Textbook Committee
+T1  - Music guide for the elementary schools of Idaho
+SP  - 128
+KW  - Music
+N1  - 128 p. 29 cm.; Note(s): On cover: Music. Idaho study guide, grades 1-6./ Bibliography: p. 123.
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 780 .I18m
+SC  - Idaho
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois. Audio-Visual Aids Service
+T1  - Music
+Y1  - 1959
+D1  - 1959-1961
+SP  - 28
+KW  - Music
+KW  - Audio-visual materials
+PB  - University of Illinois. Audio-Visual Aids Service
+CY  - Champaign, IL
+LA  - English
+CN  - 780 .I29m
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Illinois Curriculum Program
+T1  - Music in the secondary school
+Y1  - 1966
+D1  - 1966
+SP  - 118
+KW  - School music
+KW  - Music
+N1  - 118 p. illus. 26 cm.; Note(s): Includes bibliographical references.
+T2  - Illinois Curriculum Program. Subject field series. Bulletin
+V1  - D-8
+PB  - Illinois Curriculum Program
+CY  - Springfield. IL
+LA  - English
+CN  - 780 .I29m 1966
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kalamazoo (Michigan) Public Schools. Curriculum Department
+T1  - Resource guide in music, junior high school grades; grades seven, eight, and nine
+Y1  - 1953
+D1  - 09/1953
+KW  - School music 
+KW  - Music 
+N1  - 1 volume (various pagings) 23 x 30 cm; Note(s): "To be used as a basis for teacher pre-planning and teacher-pupil daily planning."
+PB  - Kalamazoo (Michigan) Public Schools. Curriculum Department
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 780 .K14r v. 3
+SC  - Michigan
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Kalamazoo (Michigan) Public Schools. Curriculum Department
+T1  - Resource guide in music. Early elementary grades: kindergarten, grades one, two and three
+Y1  - 1953
+D1  - 09/1953
+KW  - Music
+KW  - School music
+N1  - 1 v. (various pagings) 29 cm.; Note(s): To be used as a basis for teacher pre-planning and teacher-pupil daily planning.; Responsibility: Produced by the Early Elementary Music Resource Guide Committee.
+PB  - Kalamazoo (Michigan) Public Schools. Curriculum Department
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 780 .K14r v. 1
+SC  - Michigan
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Kalamazoo (Michigan) Public Schools. Curriculum Department
+T1  - Addenda to resource guide in music. Grades four, five, and six
+Y1  - 1964
+D1  - 09/1964
+KW  - Music
+KW  - School music
+N1  - 29 cm.; Note(s): Supplementing existing guide of 1953 with specific reference to new music texts and materials. To be used as a basis for teacher pre-planning and teacher-pupil daily planning.; Responsibility: Produced by the Later Elementary Music Staff.
+PB  - Kalamazoo (Michigan) Public Schools. Curriculum Department
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 780 .K14r v. 2
+SC  - Michigan
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Madison, Thurber Hull
+T1  - Music in the elementary schools in Indiana
+Y1  - 1949
+D1  - 07/1949
+SP  - 64
+KW  - Music
+KW  - School music
+N1  - 64 p. maps. 23 cm.; Responsibility: by Thurber H. Madison, Dorothy G. Kelley, and William H. Fox.
+T2  - Bulletin of the School of Education, Indiana University
+V1  - 25
+IS  - 4
+PB  - Division of Research and Field Services, Indiana University
+CY  - Bloomington, IN
+LA  - English
+CN  - 780 .I38m
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ball State Teachers College Library
+T1  - Selected bibliography of courses of study for music education
+Y1  - 1955
+D1  - 11/1955
+SP  - 8
+KW  - Music education
+KW  - Bibliography
+T2  - Ball State Teachers College Library. Bibliography
+V1  - 14
+PB  - Ball State Teachers College Library
+CY  - Muncie, IN
+LA  - English
+CN  - 780 .I382s
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indianapolis (Indiana) Public Schools
+T1  - Music: a tentative guide for vocal music teachers grades 1 and 2
+Y1  - 1955
+D1  - 1955
+SP  - 52
+KW  - Music
+KW  - School music
+T2  - Indianapolis (Indiana) Public Schools. Curriculum bulletin
+V1  - 26
+PB  - Indianapolis (Indiana) Public Schools
+CY  - Indianapolis, IN
+LA  - English
+CN  - 780 .I39mv v. 1
+SC  - Indiana
+G2  - 1st
+G2  - 2nd
+ER
+
+TY  - BOOK
+A2  - Indianapolis (Indiana) Public Schools
+T1  - Music: a tentative guide for vocal music teachers grades 3 and 4
+Y1  - 1955
+D1  - 1955
+SP  - 54
+KW  - Music
+KW  - School music
+T2  - Indianapolis (Indiana) Public Schools. Curriculum bulletin
+V1  - 27
+PB  - Indianapolis (Indiana) Public Schools
+CY  - Indianapolis, IN
+LA  - English
+CN  - 780 .I39mv v. 2
+SC  - Indiana
+G2  - 3rd
+G2  - 4th
+ER
+
+TY  - BOOK
+A2  - Indianapolis (Indiana) Public Schools
+T1  - Music: a tentative guide for vocal music teachers grades 5 and 6
+Y1  - 1955
+D1  - 1955
+SP  - 69
+KW  - Music
+KW  - School music
+T2  - Indianapolis (Indiana) Public Schools. Curriculum bulletin
+V1  - 28
+PB  - Indianapolis (Indiana) Public Schools
+CY  - Indianapolis, IN
+LA  - English
+CN  - 780 .I39mv v. 3
+SC  - Indiana
+G2  - 5th
+G2  - 6th
+ER
+
+TY  - BOOK
+A2  - Indianapolis (Indiana) Public Schools
+T1  - Music: a tentative guide for vocal music teachers junior high school
+Y1  - 1955
+D1  - 1955
+SP  - 75
+KW  - Music
+KW  - School music
+T2  - Indianapolis (Indiana) Public Schools. Curriculum bulletin
+V1  - 29
+PB  - Indianapolis (Indiana) Public Schools
+CY  - Indianapolis, IN
+LA  - English
+CN  - 780 .I39mv v. 4
+SC  - Indiana
+G1  - Middle school
+ER
+
+TY  - BOOK
+A1  - Halbert, Marie Goodwin
+T1  - We Will Sing One Song
+Y1  - 1942
+D1  - 1942
+SP  - 29
+KW  - Songs
+KW  - Music
+N1  - [8] 29 [3] p. illus. (part color) 23 cm.; Note(s): Part of an experiment in applied economics funded by a grant from the Alfred P. Sloan Foundation.
+PB  - University of Kentucky. Bureau of School Service
+LA  - English
+CN  - 780 .K37w
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Teaching instrumental music in the elementary school
+Y1  - 1969
+D1  - 06/1969
+SP  - 85
+KW  - Music
+N1  - ill., music ; 28 cm.; Note(s): Includes bibliographical references.; Responsibility: Kansas City, Missouri, Public Schools.
+T2  - Kansas City (Missouri) Public Schools. Curriculum bulletin
+V1  - 185
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 780 .K16t
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools. Music Department
+T1  - Outlines to help in the teaching of music in the elementary schools
+KW  - Music
+N1  - 1 volume (various pagings) illustrations 29 cm; Note(s): Includes bibliographical references.
+T2  - Music outlines
+PB  - Kansas City (Missouri) Public Schools. Music Department
+CY  - Kansas City, MO
+LA  - English
+CN  - 780 .K16m
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Music education
+Y1  - 1959
+D1  - 06/1959
+KW  - Music education
+N1  - pages 237-400 : illustrations ; 23 cm.; Note(s): Cover title./ At head of title: Commonwealth of Kentucky./ Includes bibliographical references and index.
+T2  - Kentucky State Department of Education. Educational bulletin
+V1  - 27
+IS  - 6
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 780 .K36m
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) City District Public Schools
+T1  - Guides for the teaching of elementary vocal music in the La Crosse city district public schools
+Y1  - 1962
+D1  - 09/1962
+SP  - 20
+KW  - Music
+ED  - Rev.
+PB  - La Crosse (Wisconsin) City District Public Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 780 .L14t v. 1
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) City District Public Schools
+T1  - Guides for the teaching of general music in junior high school in the La Crosse city district public schools
+Y1  - 1962
+D1  - 09/1962
+SP  - 20
+KW  - Music
+ED  - Rev.
+PB  - La Crosse (Wisconsin) City District Public Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 780 .L14t v. 2
+SC  - Wisconsin
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Lafayette (California) School District. Department of Educational Services
+T1  - The music program guide
+Y1  - 1957
+D1  - 09/1957
+SP  - 125
+KW  - Music
+PB  - Lafayette (California) School District
+CY  - Lafayette, CA
+LA  - English
+CN  - 780 .L16t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Course of study in music: kindergarten
+Y1  - 1953
+D1  - 1953-1954
+SP  - 27
+KW  - Music
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 780 .L19c
+SC  - Ohio
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - La Marque (Texas) School District
+T1  - Elementary curriculum guide: music, art
+Y1  - 1957
+D1  - 07/1957
+SP  - 67
+KW  - Music
+KW  - Art
+PB  - La Marque (Texas) School District
+CY  - La Marque, TX
+LA  - English
+CN  - 780 .L21e
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - La Mesa-Spring Valley (California) School District
+T1  - Creative music education an instructional guide
+Y1  - 1959
+D1  - 09/1959
+SP  - 124
+KW  - Music
+PB  - La Mesa-Spring Valley (California) School District
+CY  - La Mesa, CA
+LA  - English
+CN  - 780 .L22c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Brewer, Charles
+T1  - Handbook in classroom music for grades one through six
+Y1  - 1960
+D1  - 1960
+SP  - 29
+KW  - Music
+PB  - La Vista (California) District Schools
+CY  - La Vista, CA
+LA  - English
+CN  - 780 .L41h
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Lindbergh School District (St. Louis, Missouri)
+T1  - Music guide: grade 1 - grade 6
+Y1  - 1962
+D1  - 1962
+SP  - 155
+KW  - Music
+PB  - Lindbergh School District
+CY  - St. Louis, MO
+LA  - English
+CN  - 780 .L75m v. 1-2
+SC  - Missouri
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Bacon, Helen
+A1  - Kennaugh, Ruth
+A1  - Suits, Bess
+A1  - Shouse, Mary
+A2  - Long Beach (California) Public Schools
+T1  - Music guide for teachers of first grade
+Y1  - 1953
+D1  - 12/1953
+SP  - 76
+KW  - School music
+N1  - 75 p. music.; Responsibility: Prepared by Helen Bacon and others under the supervision of Mary Shouse.
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 780 .L84m v. 1
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Suits, Bess
+A1  - Earle, Joan
+A1  - McGlothlen, Dorothy
+A1  - Shouse, Mary
+A1  - Reed, Minnie L.
+A2  - Long Beach (California) Public Schools
+T1  - Music guide for teachers of second grade
+Y1  - 1951
+D1  - 10/1951
+SP  - 49
+KW  - School music
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 780 .L84m v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Sanderson, Jo Marie
+A1  - Card, Alda Harriet
+A1  - Welch, Hallie V.
+A1  - Shouse, Mary
+A1  - Reed, Minnie L.
+A2  - Long Beach (California) Public Schools
+T1  - Music guide for teachers of third grade
+Y1  - 1951
+D1  - 10/1951
+SP  - 46
+KW  - School music
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 780 .L84m v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Kennaugh, Ruth
+A1  - Suits, Bess
+A1  - Sanderson, Jo Marie
+A1  - Bowers, Vava
+A1  - Larsen, Mary
+A1  - Shouse, Mary
+A1  - Reed, Minnie L.
+A2  - Long Beach (California) Public Schools
+T1  - Music guide for teachers of fourth grade
+Y1  - 1951
+D1  - 10/1951
+SP  - 56
+KW  - School music
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 780 .L84m v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - The development of musical concepts K-6
+Y1  - 1967
+D1  - 1967
+KW  - Music
+N1  - 1 chart
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .L869
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Lemons, Lois
+A2  - Los Angeles (California) City School District
+T1  - Music for children in the third and fourth grades
+Y1  - 1955
+D1  - 1955
+SP  - 132
+KW  - Music
+KW  - School music
+N1  - 132 p. music.; Note(s): "This publication was written by Mrs. Lois Lemons ..." Cf. Acknowledgments.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .L869m 1955
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Lemons, Lois
+A2  - Los Angeles (California) City School District
+T1  - Music for children in the third and fourth grades : an instructional guide
+Y1  - 1959
+D1  - 1959
+SP  - 136
+KW  - Music
+N1  - xvi; ill. ; 28 cm.; Note(s): Publication no. EC-185.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .L869m  1959
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - General music in the seventh grade
+Y1  - 1958
+D1  - 1958
+SP  - 189
+KW  - Music
+N1  - 189 p. 28 cm.; Note(s): "Bibliography for teachers": p. 189.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .L869g
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Unified School District
+T1  - World of music : instructional guide, senior high school
+Y1  - 1965
+D1  - 1965
+SP  - 212
+KW  - School music
+KW  - Music
+N1  - xii; music ; 28 cm.; Note(s): Cover title./ Experimental./ Includes bibliographical references (p. 206-212).
+PB  - Los Angeles City Schools, Division of Instructional Services, Curriculum Branch
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .L869i
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Music for children in the primary grades
+Y1  - 1969
+D1  - 1969
+SP  - 94
+KW  - Music in education
+KW  - Music
+N1  - vii; ill. ; 22 x 29 cm.; Note(s): Publication no. EC-293./ Cover title.; Responsibility: Los Angeles City Schools, Division of Instructional Planning and Services, Instructional Planning Branch.
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .L869mp
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools
+T1  - Music in the senior high school curriculum
+Y1  - 1948
+D1  - 09/1948
+SP  - 173
+KW  - School music
+KW  - Music
+N1  - 173 leaves ; 28 cm.; Note(s): "September, 1948."/ Includes bibliographical references.
+T2  - Louisville (Kentucky) Public Schools. Curriculum bulletin
+V1  - 4
+IS  - 4
+PB  - Louisville (Kentucky) Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 780 .L88m v. 3
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools
+T1  - Music in the elementary school curriculum : a tentative course of study
+Y1  - 1946
+D1  - 09/1946
+SP  - 194
+KW  - Music 
+N1  - 194 leaves ; 28 cm.; Note(s): Mimeographed./ Includes bibliographical references.
+T2  - Louisville (Kentucky) Public Schools. Curriculum bulletin
+V1  - 4
+IS  - 1
+PB  - Louisville (Kentucky) Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 780 .L88m v. 1
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools
+T1  - A tentative course of study for junior high school music
+Y1  - 1947
+D1  - 02/1947
+SP  - 90
+KW  - Music
+N1  - 90 leaves ; 29 cm.; Genre/Form: Juvenile works.; Note(s): Fold. chart, "Pupil experiences in the elementary and junior high school music programs", attached to back cover./ Mimeograph copy./ Includes bibliographical references.; Responsibility: Louisville Public Schools, Division of Curriculum and Research.
+T2  - Louisville (Kentucky) Public Schools. Curriculum bulletin
+V1  - 4
+IS  - 3
+PB  - Louisville (Kentucky) Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 780 .L88m v. 2
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Lovington (New Mexico) Municipal Schools
+T1  - Music curriculum guide
+SP  - 13
+KW  - Music
+KW  - Curricula
+PB  - Lovington (New Mexico) Municipal Schools
+CY  - Lovington, NM
+LA  - English
+CN  - 780 .L91m
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - Memphis (Tennessee) Board of Education
+T1  - Course of study [for] Memphis city schools: arts
+Y1  - 1953
+D1  - 07/1953
+KW  - Music
+PB  - Memphis (Tennessee) Board of Education
+CY  - Memphis, TN
+LA  - English
+CN  - 780 .M53c
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - A guide for instruction in music : elementary school, grades 1-8
+Y1  - 1948
+D1  - 1948
+SP  - 176
+KW  - Music
+N1  - 176 pages : illustrations ; 23 cm.; Note(s): "Code VIII-A-E-3."/ Includes bibliographical references.
+T2  - Curriculum bulletin / Minnesota Department of Education
+V1  - 4
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 780 .M66g
+SC  - Minnesota
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Music for the schools of Missouri; a curriculum guide for grades seven, eight, and nine
+Y1  - 1959
+D1  - 1959
+SP  - 91
+KW  - School music
+KW  - Curricula
+N1  - 91 pages illustrations 28 cm.; Note(s): Includes bibliographical references.
+T2  - Missouri State Department of Education. Publication
+V1  - 116-G
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 780 .M67m v. 2
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Music for the elementary schools of Missouri, grades one-six
+Y1  - 1958
+D1  - 1958
+SP  - 194
+KW  - School music
+KW  - Music 
+N1  - ix; ges : illustrations, music ; 28 cm.; Note(s): At head of title: Missouri's elementary curriculum guide./ Includes bibliographical references (pages 176-186).
+T2  - Missouri State Department of Education. Publication
+V1  - 107G
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 780 .M67m v. 1
+SC  - Missouri
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Landeck, Beatrice
+T1  - Music for fours and fives ; a report
+Y1  - 1958
+D1  - 1958
+SP  - 30
+KW  - School music
+T2  - Music Educator's National Conference. Music in American Life Commission IV: Music in Preschool, Kindergarten, and Elementary School. Committee on Music in Nursery and Kindergarten.
+PB  - Music Educator's National Conference
+CY  - Washington, DC
+LA  - English
+CN  - 780 .M98mf
+G1  - PreK
+ER  - 
+
+TY  - BOOK
+A2  - Music Educator's National Conference
+T1  - Musical development of the classroom teacher
+Y1  - 1951
+D1  - 1951
+SP  - 30
+KW  - Music teachers
+KW  - Music
+T2  - Music Educators National Conference (Music Education Research Council) Bulletin
+V1  - 1
+PB  - Music Educator's National Conference
+CY  - Washington, DC
+LA  - English
+CN  - 780 .M98mu
+ER  - 
+
+TY  - BOOK
+A1  - Kaplan, Max
+T1  - Music education in a changing world: a report
+Y1  - 1958
+D1  - 1958
+SP  - 53
+KW  - Music education
+T2  - Music Educators' National Conference (Music in American Life Commission VIII: Music in the Community)
+PB  - Music Educators' National Conference
+CY  - Washington, DC
+LA  - English
+CN  - 780 .M98mc
+ER  - 
+
+TY  - BOOK
+A1  - Pitts, Lilla Belle
+T1  - Handbook on 16mm. films for music education
+Y1  - 1952
+D1  - 1952
+SP  - 71
+KW  - Film catalogs
+KW  - Music
+N1  - 71 p. 23 cm.; Genre/Form: Film catalogs.
+PB  - Music Educators National Conference
+CY  - Chicago, IL
+LA  - English
+CN  - 780 .M98h
+ER  - 
+
+TY  - BOOK
+A1  - Greer, Edith S.
+A1  - Rotter, George E.
+A2  - Nebraska State Department of Public Instruction
+T1  - Music for Nebraska elementary school children; day by day teaching plans for the beginning year of the music program. Bk. 1
+Y1  - 1946
+D1  - 09/1946
+SP  - 122
+KW  - Music
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 780 .N36m v. 1
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Greer, Edith S.
+A1  - Rotter, George E.
+A2  - Nebraska State Department of Public Instruction
+T1  - Music for Nebraska elementary school children; Bk. 2
+Y1  - 1952
+D1  - 04/1952
+SP  - 39
+KW  - Music
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 780 .N36m v. 2
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - A guide for planning school facilities for music education
+Y1  - 1954
+D1  - 1954
+SP  - 4
+KW  - Music education
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 780 .N52g
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Greer, Edith S.
+A1  - Rotter, George E.
+A2  - Nebraska State Department of Public Instruction. Division of Supervision and Curriculum
+T1  - Art for Nebraska elementary school children, for use in Nebraska schools and in the study of art as a part of the high school normal training program
+Y1  - 1950
+D1  - 09/1950
+SP  - 91
+KW  - Art
+KW  - Curricula
+N1  - iv; ges ; 23 cm; Responsibility: prepared under the supervision of Edith C. Greer and George E. Rotter.
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 740 .N36a
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - Music for the classroom teacher
+Y1  - 1954
+D1  - 1954
+SP  - 67
+KW  - Music
+N1  - 67 pages : portraits ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: State of New Jersey, Department of Education, Trenton.
+T2  - New Jersey State Department of Education. Elementary school bulletin
+V1  - 19
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 780 .N52m
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Rogers, E. Almeda
+A1  - Zohn, Roberta
+A2  - New Mexico State Board of Education
+T1  - Music : a guide in music education for the schools of New Mexico : junior and senior high school
+Y1  - 1950
+D1  - 1950
+SP  - 187
+KW  - Music education
+N1  - 187 p. ; cm; Responsibility: comp., arranged and ed. by Roberta H. Zohn [and others] 
+PB  - New Mexico State Board of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 780 .N53 v. 3
+SC  - New Mexico
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rogers, E. Almeda
+A1  - Zohn, Roberta
+A2  - New Mexico State Board of Education
+T1  - Music : a guide in music education for the schools of New Mexico : combined grades (1-8)
+Y1  - 1949
+D1  - 1949
+SP  - 245
+KW  - Music
+KW  - Curricula
+T2  - New Mexico State Board of Education. Bulletin
+V1  - 7
+PB  - New Mexico State Board of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 780 .N53m v. 2
+SC  - New Mexico
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Rogers, E. Almeda
+A1  - Zohn, Roberta
+A2  - New Mexico State Board of Education
+T1  - Music : a guide in music education for the schools of New Mexico : combined grades (1-6)
+Y1  - 1950
+D1  - 1950
+SP  - 231
+KW  - Music
+KW  - Curricula
+T2  - New Mexico State Board of Education. Bulletin
+V1  - 8
+PB  - New Mexico State Board of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 780 .N53m v. 1
+SC  - New Mexico
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Teaching music in the elementary grades
+Y1  - 1960
+D1  - 1960
+SP  - 141
+KW  - School music
+KW  - Music
+N1  - 141 p. illus. 23 cm.
+T2  - New York City Board of Education. Curriculum bulletin, 1959-60 series
+V1  - 5
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 780 .N532t
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Music : grades 7,8,9
+Y1  - 1951
+D1  - 1951
+SP  - 46
+KW  - Music
+N1  - 46 p. ; 23 cm.; Note(s): Title on cover: Music for grades 7,8,9./ Includes bibliographical references.; Other Titles: Music for grades 7,8,9.
+T2  - New York City Board of Education. Curriculum bulletin, 1951-52 series
+V1  - 3
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 780 .N532m
+SC  - New York
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Children, the music makers; a guide to music education in elementary schools, kindergarten and grades 1-6
+Y1  - 1961
+D1  - 1961
+SP  - 68
+KW  - School music
+KW  - Curricula
+N1  - 68 p. ill. 27 cm.; Note(s): Includes bibliographical references.
+ED  - Rev. ed.
+PB  - University of the State of New York.
+CY  - Albany, NY
+LA  - English
+CN  - 780 .N531c
+SC  - New York
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Teaching general music; a resource handbook for grades 7 and 8
+Y1  - 1966
+D1  - 1966
+SP  - 180
+KW  - School music
+N1  - ix; ill., music ; 22 cm.; Note(s): Includes bibliographies and discographies.
+PB  - University of the State of New York, the State Education Department, Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 780 .N531t
+SC  - New York
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Carr, W. D.
+A1  - Wright, Clifford
+A1  - Fitzgerrel, Albert H.
+A2  - Oklahoma Curriculum Improvement Commission. State Music Education Committee
+A2  - Oklahoma State Department of Education
+T1  - A teaching guide for public school music in Oklahoma, grades K-12
+Y1  - 1967
+D1  - 1967
+SP  - 103
+KW  - Music
+N1  - 103 pages 23 cm; Responsibility: Prepared by the State Music Education Committee of the Oklahoma Curriculum Improvement Commission. William D. Carr, Chairman; Clifford Wright, executive secretary. Foreword by Oliver Hodge. Introduction and philosophy by Albert H. Fitzgerrel, chairman, State Committee for the Improvement of Music Instruction.
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 780 .O41t
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Schools
+T1  - Guide to music experiences
+Y1  - 1950
+D1  - 08/1950
+SP  - 66
+KW  - Music
+PB  - Orange (California) County Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 780 .O63g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Music Educators National Conference (U.S.)
+A2  - North Central Association of Colleges and Secondary Schools
+T1  - Music education in the secondary school; recommendations approved by the North Central Association of Colleges and Secondary Schools
+Y1  - 1951
+D1  - 1951
+SP  - 10
+KW  - Music
+N1  - 10 p.; Note(s): Cover title./ Reprinted from the Music Education Source Book.
+PB  - North Central Association of Colleges and Secondary Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 780 .N86m
+ER  - 
+
+TY  - BOOK
+A1  - Knowles, Marion E.
+A1  - Barnes, Jeanne D.
+A1  - Cook, Merrill S.
+A1  - Doll, Ethlyn M.
+A1  - Olander, Ethel V.
+A1  - Spencer, H. A.
+T1  - Notes about the music program of the elementary schools
+Y1  - 1951
+D1  - 06/1951
+KW  - Music
+PB  - Niagara Falls (New York) Elementary Schools
+CY  - Niagara Falls, NY
+LA  - English
+CN  - 780 .N57n
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Music : a resource bulletin, grades one-twelve
+Y1  - 1955
+D1  - 05/1955
+SP  - 243
+KW  - School music
+KW  - Music
+N1  - ill. ; 23 cm.; General Info: North Carolina. Dept. of Public Instruction.; Music.; Raleigh, N.C. : Issued by the State Superintendent of Public Instruction, [1955?]
+T2  - North Carolina State Department of Public Instruction. Publication
+V1  - 295
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 780 .N864m
+SC  - North Carolina
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - The selected choir in the elementary school, grades 4, 5, and 6
+Y1  - 1958
+D1  - 11/1958
+SP  - 6
+KW  - Music
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 780 .O11s
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Tentative guide for seventh grade music in general education
+Y1  - 1955
+D1  - 07/1955
+SP  - 59
+KW  - Music
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 780 .O11t
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Orange (Texas) Public Schools
+T1  - Music education grades one through seven
+Y1  - 1947
+D1  - 1947
+SP  - 124
+KW  - School music
+KW  - Music
+N1  - 124 leaves : ill., music ; 28 cm.; Note(s): Includes discography (leaves 120-122) and bibliographical references (leaves 123-124).; Responsibility: Orange Public Schools.
+T2  - Orange (Texas) Public Schools. Curriculum bulletin
+V1  - 661
+PB  - Orange (Texas) Public Schools
+CY  - Orange, TX
+LA  - English
+CN  - 780 .O63m
+SC  - Texas
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Aebischer, Delmer W.
+T1  - Oregon calls the tune
+Y1  - 1977
+D1  - 01/1977
+SP  - 52
+KW  - School music
+KW  - Music
+N1  - ill. ; 28 cm.; Note(s): Cover title.; Responsibility: prepared by Delmer W. Aebischer ; special advisors, Douglas D. Anderson, Wilma F. Sheridan.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 31
+IS  - 334
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 780 .O65o
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon Music Teachers Association. Education Committee
+T1  - A program of study for private teachers of music : to be used with pupils studying music outside of school for high school credit
+Y1  - 1955
+D1  - 1955
+SP  - 125
+KW  - Music
+N1  - 125 p.; Responsibility: prepared by the Education Committee of the Oregon Music Teachers Association.
+PB  - Oregon State Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 780 .O65m
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Whitfield, Virginia
+T1  - A study of balance in performance and non-performance music classes in Oregon high schools
+Y1  - 1967
+D1  - 10/1967
+SP  - 6
+KW  - Music
+T2  - University of Oregon. School of Education. Curriculum bulletin
+V1  - 23
+IS  - 283
+PB  - School of Education, University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 780 .O66b
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Superintendent of Public Instruction
+T1  - Resource index to singing experiences for Oregon elementary social studies units
+SP  - 8
+KW  - Music
+PB  - Oregon State Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 780 .O65r
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona). Department of Instruction and Guidance
+T1  - Primary music
+Y1  - 1956
+D1  - 1956
+SP  - 35
+KW  - Music
+PB  - Osborn Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 780 .O81m v. 1
+SC  - Arizona
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Osborn Schools (Phoenix, Arizona). Department of Instruction and Guidance
+T1  - Music: upper grades
+Y1  - 1956
+D1  - 1956
+SP  - 27
+KW  - Music
+PB  - Osborn Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 780 .O81m v. 2
+SC  - Arizona
+G2  - 6th
+ER  - 
+

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Manual for school boards</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">30</field>
+        <field name="keywords">School boards</field>
+        <field name="keywords">School management and organization</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="edition">Rev</field>
+        <field name="publisher">Alaska Territorial Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1949</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">The compiled school laws of the territory of Alaska, and the rules and
+            regulations of the territorial Board of education. Uniform Title: School laws</field>
+        <field name="year">1937</field>
+        <field name="date">1937</field>
+        <field name="pages">61</field>
+        <field name="keywords">Educational law and legislation</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Alaska School Bulletin</field>
+        <field name="series_vol">19</field>
+        <field name="issue">5</field>
+        <field name="publisher">Alaska Territorial Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1937</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">School laws of the territory of Alaska, issued by authority of the
+            Territorial board of education, 1929; Uniform Title: School laws</field>
+        <field name="year">1929</field>
+        <field name="date">1929</field>
+        <field name="pages">68</field>
+        <field name="keywords">Educational law and legislation</field>
+        <field name="notes">68 p. 23 cm.; Responsibility: comp. by Leo W. Breuer, commissioner of
+            education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska Territorial Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1929</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska Committee for the White House Conference on
+            Education</field>
+        <field name="title">Report of Alaska White House Conference on Education</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">48</field>
+        <field name="keywords">Education</field>
+        <field name="notes">ii; 22 cm.; Note(s): Cover title./ "Memorandum" (2 l.) inserted./ "The
+            reports of the White House Conference on Education, Washington, D.C., Nov. 28 - Dec. 1,
+            1955" (19 p.) inserted</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="pub_place">N.p</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1955</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Manual for school bus transportation : the rules and regulations of the
+            Territorial Board of Education and the laws of the Territory of Alaska affecting school
+            transportation</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">24</field>
+        <field name="keywords">School children</field>
+        <field name="keywords">Transportation</field>
+        <field name="notes">1 volume (various pagings) ; 28 cm.; Note(s): "Rev. April 1,
+            1955."</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Mimeographed Bulletin</field>
+        <field name="series_vol">1</field>
+        <field name="edition">Rev</field>
+        <field name="publisher">Alaska Territorial Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Legislature</field>
+        <field name="title">Report on school support</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">71</field>
+        <field name="keywords">School Finance</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Legislature</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1961</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska Teachers' Retirement System</field>
+        <field name="title">Handbook of information</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">16</field>
+        <field name="keywords">Teachers</field>
+        <field name="keywords">Pensions</field>
+        <field name="notes">v. ; 23 cm; Named Corp: Alaska. Teachers' Retirement System</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska Teachers' Retirement System</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1960</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Lindman, Erick Le Roy</field>
+        <field name="author_nat">Erick Le Roy Lindman</field>
+        <field name="title">A foundation for Alaska's public schools : report of a survey for the
+            Alaska state board of Education</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">186</field>
+        <field name="keywords">Education</field>
+        <field name="notes">Report summarizing findings and recommendations growing out of a
+            co-operative study of public school organization and finance in the state of Alaska,
+            1961</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1961</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Minimum Standards For Elementary Schools in Alaska</field>
+        <field name="date">1964?</field>
+        <field name="pages">17</field>
+        <field name="keywords">Standards</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1964</field>
+        <field name="state_country">Alaska</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Scope of operation of the major Divisions of the State Department of
+            Education</field>
+        <field name="date">1960?</field>
+        <field name="pages">16</field>
+        <field name="keywords">School management and organization</field>
+        <field name="notes">16, 7 leaves ; 28 cm; Note(s): Cover title.; Responsibility: State of
+            Alaska, State Deparment of Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 196?</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">A handbook for the organization and administration of a minimum high
+            school : special high schools</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">7</field>
+        <field name="keywords">High school administration</field>
+        <field name="notes">7 leaves ; 28 cm; Other Titles: At head of title:; Appendix E;
+            Responsibility: issued by Department of Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1963</field>
+        <field name="state_country">Alaska</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Transportation of pupils</field>
+        <field name="date">1966?</field>
+        <field name="pages">26</field>
+        <field name="keywords">Transportation</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Administrators series</field>
+        <field name="series_vol">1</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">279.74 .A2 1966</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Alaska public school finance program, 1965-66</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">5</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">5 p. ; 19 cm.; Note(s): Caption title./ "June 1966."; Responsibility:
+            prepared by the state departments of education and the U.S. Office of Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">United States Department of Health, Education, and Welfare. Office
+            of Education, Bureau of Elementary and Secondary Education, Division of State Agency
+            Cooperation</field>
+        <field name="pub_place">Washington, D.C.</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1965/1966</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">The compiled school laws, State of Alaska</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">159</field>
+        <field name="keywords">Educational law and legislation</field>
+        <field name="notes">iii, 159 l. 29 cm.; Note(s): Cover title./ "Consists of Title 14,
+            Education, Alaska statutes, 1962, as amended, revised, or repealed by the session laws
+            through 1966 ... [and] miscellaneous laws from other titles."</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="edition">4th</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1966</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Planning for human resources; enrollment and cost projections for Alaska
+            schools</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">44</field>
+        <field name="keywords">Educational planning</field>
+        <field name="notes">iii; 28 cm.; Genre/Form: Statistics</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1970</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">A summary of certification requirements for teachers</field>
+        <field name="date">1967?</field>
+        <field name="pages">7</field>
+        <field name="keywords">Teacher certification</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1967</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Alaska Dept. of Education - Schools, People, Government, Glaciers,
+            History, Facts, Figures - in Brief</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">29</field>
+        <field name="keywords">Statistics</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1969</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">North to the future: the Alaska Department of Education and education in
+            Alaska, 1785-1967; an Alaskan centennial publication</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">158</field>
+        <field name="keywords">Education</field>
+        <field name="notes">ix; illus. 28 cm.; Note(s): Cover title./ Bibliography: p.
+            154-158</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1967</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bowkett, Norma S.</field>
+        <field name="author_nat">Norma S. Bowkett</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Directions 70's; an assessment of educational needs in Alaska</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">83</field>
+        <field name="keywords">Education</field>
+        <field name="notes">Statement of goals and objectives for education in Alaska, wiht emphasis
+            on the needs of native students.</field>
+        <field name="notes">83 p. illus. 22 x 28 cm.; Note(s): Includes bibliographical
+            references</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1970</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Legislature</field>
+        <field name="title">Higher education in Alaska; a state-wide study with recommendations to
+            the Seventh Legislature, second session</field>
+        <field name="year">1972</field>
+        <field name="date">1972</field>
+        <field name="pages">228</field>
+        <field name="keywords">Higher education</field>
+        <field name="notes">vi; 28 cm.; Genre/Form: Statistics.; Note(s): "Submitted to the
+            Subcommittee on Higher Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Legislature</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1972</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Simonds, Robert L.</field>
+        <field name="author_nat">Robert L. Simonds</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">A planning statement: vocational education opportunities for
+            Alaskans</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="pages">60</field>
+        <field name="keywords">Adult education</field>
+        <field name="keywords">Vocational education</field>
+        <field name="notes">iv; illus. 28 cm.; Note(s): "Prepared by the staff of the Division of
+            Vocational and Adult Education"</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1971</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Elementary course of study; scope and sequence for Alaska
+            schools</field>
+        <field name="pages">43</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2</field>
+        <field name="state_country">Alaska</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Alaska State Department of Education</field>
+        <field name="title">Secondary education in Alaska, 1967-1976</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="keywords">Secondary education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Alaska State Department of Education</field>
+        <field name="pub_place">Juneau, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1968</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Tuff, Richard J</field>
+        <field name="author_nat">Richard J Tuff</field>
+        <field name="title">Report of assessment methods with ratios of assessed values to market
+            values for various cities and school districts throughout the state</field>
+        <field name="date">1961?</field>
+        <field name="keywords">Valuation</field>
+        <field name="pages">39</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A2 1960</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+</add>

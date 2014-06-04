@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tacoma (Washington) Public Schools</field>
+        <field name="title">Facts about your schools: art - music instructional information</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tacoma (Washington) Public Schools</field>
+        <field name="pub_place">Tacoma, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">700 .T11f</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kutztown (Pennsylvania) State Teachers College. Department of Art
+            Education</field>
+        <field name="title">The supervision of art in the elementary schools</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">24</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Art teachers</field>
+        <field name="abstract">Scope of the bulletin -- The purpose of supervision -- Defining
+            supervisory positions -- How an art supervisor functions -- The human equation --
+            Evaluation of pupil growth and teaching effectiveness -- Preparing for
+            supervision.</field>
+        <field name="notes">ill. ; 16 x 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: [prepared by the staff of the Department of Art Education].</field>
+        <field name="series_title">The Kutztown bulletin</field>
+        <field name="publisher">Kutztown State Teachers College</field>
+        <field name="pub_place">Kutztown, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P415a v. 1</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oceanside-Libby (California) Union School District</field>
+        <field name="title">Guide for easel painting</field>
+        <field name="year">1957</field>
+        <field name="date">02/1957</field>
+        <field name="pages">8</field>
+        <field name="keywords">Painting</field>
+        <field name="publisher">Oceanside-Libby (California) Union School District</field>
+        <field name="pub_place">Oceanside, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .O15g</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ohio State Department of Education</field>
+        <field name="title">Art education for the elementary schools of Ohio</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">118</field>
+        <field name="keywords">Art</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Ohio State Department of Education</field>
+        <field name="pub_place">Columbus, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .O37a</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Dodderer, Marion E.</field>
+        <field name="author_nat">Marion E. Dodderer</field>
+        <field name="author">Von Bargen, Dora</field>
+        <field name="author_nat">Dora Von Bargen</field>
+        <field name="author">Neidermeyer, Carrie E.</field>
+        <field name="author_nat">Carrie E. Neidermeyer</field>
+        <field name="corp_author">Omaha (Nebraska) Public Schools</field>
+        <field name="title">Children's first experiences with art in primary grades</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">34</field>
+        <field name="keywords">Art</field>
+        <field name="edition">Tentative</field>
+        <field name="publisher">Omaha (Nebraska) Public Schools</field>
+        <field name="pub_place">Omaha, NE</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .O54c</field>
+        <field name="state_country">Nebraska</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kohl, Mary</field>
+        <field name="author_nat">Mary Kohl</field>
+        <field name="title">Using art prints in classrooms</field>
+        <field name="year">1974</field>
+        <field name="date">03/1974</field>
+        <field name="pages">37</field>
+        <field name="keywords">Art</field>
+        <field name="year">Oregon ASCD curriculum bulletin</field>
+        <field name="series_vol">28</field>
+        <field name="issue">322</field>
+        <field name="publisher">Oregon Association for Supervision and Curriculum
+            Development</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .O65u</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oregon State Department of Education</field>
+        <field name="title">Art education in Oregon elementary schools</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">95</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 22 x 28 cm.; Note(s): "Approved by the State Board of Education,
+            March 7, 1956."/ Includes bibliographical references (p. [92]-95).</field>
+        <field name="publisher">Oregon State Department of Education</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .O66a</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="title">Arts and crafts materials</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">34</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P27a</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Commonwealth of Pennsylvania Department of Public
+            Instruction</field>
+        <field name="title">A course of study in art education for elementary and secondary schools
+            : including suggestions for better art-craft facilities</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">85</field>
+        <field name="keywords">Art</field>
+        <field name="notes">xi; illustrations ; 31 cm.</field>
+        <field name="series_title">Commonwealth of Pennsylvania Department of Public Instruction.
+            Bulletin</field>
+        <field name="series_vol">262</field>
+        <field name="publisher">Commonwealth of Pennsylvania Department of Public
+            Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P41c</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kutztown (Pennsylvania) State Teachers College. Department of Art
+            Education</field>
+        <field name="title">Art education at work</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">24</field>
+        <field name="keywords">Art education</field>
+        <field name="notes">ill. ; 16 x 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: [prepared by the staff of the Department of Art Education].</field>
+        <field name="series_title">The Kutztown bulletin</field>
+        <field name="publisher">Kutztown State Teachers College</field>
+        <field name="pub_place">Kutztown, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P415a v. 2</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bridgman, Gerald</field>
+        <field name="author_nat">Gerald Bridgman</field>
+        <field name="corp_author">Phoenix (Arizona) Union High System</field>
+        <field name="title">Curriculum guide, Art 1-2 : basic art</field>
+        <field name="year">1967</field>
+        <field name="date">11/1967</field>
+        <field name="pages">51</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Design</field>
+        <field name="notes">51 leaves : ill. ; 28 cm.; Responsibility: prepared by Gerald Bridgman,
+            Marynelle Hartman.</field>
+        <field name="publisher">Phoenix (Arizona) Union High System</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P57b</field>
+        <field name="state_country">Arizona</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Frank, Lawrence K.</field>
+        <field name="author_nat">Lawrence K. Frank</field>
+        <field name="corp_author">Kutztown State Teachers College</field>
+        <field name="title">Art education means guidance in creative development</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">23</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Creative ability in children</field>
+        <field name="notes">ill. ; 15 x 23 cm.; Note(s): "Keynote address delivered at the 16th
+            Annual Art Education Conference, State Teachers College, Kutztown, Pennsylvania, October
+            29, 1954."--P. 5./ Includes bibliographical references.; Responsibility: [Lawrence K.
+            Frank].</field>
+        <field name="series_title">The Kutztown bulletin</field>
+        <field name="publisher">Kutztown State Teachers College</field>
+        <field name="pub_place">Kutztown, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P415a v. 3</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Meineke, Elizabeth</field>
+        <field name="author_nat">Elizabeth Meineke</field>
+        <field name="author">Moser, Jane</field>
+        <field name="author_nat">Jane Moser</field>
+        <field name="title">Drawing : curriculum guide</field>
+        <field name="year">1968</field>
+        <field name="date">10/1968</field>
+        <field name="pages">110</field>
+        <field name="keywords">Drawing</field>
+        <field name="notes">110 pages : illustrations ; 22 x 28 cm; Note(s): Includes
+            bibliographical references (pages 103-107).; Responsibility: prepared by Elizabeth
+            Meineke, Jane Moser.</field>
+        <field name="publisher">Phoenix Union High School System</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P57d</field>
+        <field name="state_country">Arizona</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rapoport, Aaron</field>
+        <field name="author_nat">Aaron Rapoport</field>
+        <field name="author">Bookbinder, Jack</field>
+        <field name="author_nat">Jack Bookbinder</field>
+        <field name="corp_author">Philadelphia Public Schools. Division of Art Education</field>
+        <field name="title">An interim report for a guide to art education in the secondary
+            schools</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="keywords">Art</field>
+        <field name="notes">[222] p. ; 28 cm.; Note(s): "The final writing of this guide is the
+            responsibility of Aaron Rapoport and Jack Bookbinder."; Responsibility: Division of Art
+            Education, Philadelphia Public Schools.</field>
+        <field name="publisher">Philadelphia Public Schools. Division of Art Education</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P54g v. 3</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Phoenix (Arizona) Elementary Schools</field>
+        <field name="title">Art guide, Phoenix elementary schools, grades 6, 7, 8</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">27</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Phoenix (Arizona) Elementary Schools</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P57a</field>
+        <field name="state_country">Arizona</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Phoenix (Arizona) Union High System</field>
+        <field name="title">History of art student guide</field>
+        <field name="year">1968</field>
+        <field name="date">01/1968</field>
+        <field name="pages">166</field>
+        <field name="keywords">Art history</field>
+        <field name="notes">166 leaves : ill., maps ; 28 cm.; Responsibility: workshop participants:
+            James H. Boykin ... Mary E. Williams.</field>
+        <field name="publisher">Phoenix (Arizona) Union High System</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P57h</field>
+        <field name="state_country">Arizona</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Halvorsen, Ruth Elise</field>
+        <field name="author_nat">Ruth Elise Halvorsen</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">A plan for improving art education in the Portland public
+            schools</field>
+        <field name="year">1952</field>
+        <field name="date">11/1952</field>
+        <field name="pages">12</field>
+        <field name="keywords">Art education</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P85p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pueblo (Colorado) Board of Education</field>
+        <field name="title">Instructional guide for teachers of Pueblo public schools, junior high
+            art</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">61</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Pueblo (Colorado) Board of Education</field>
+        <field name="pub_place">Pueblo, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .P97i</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">St. Louis (Missouri) Department of Instruction</field>
+        <field name="title">Art for elementary schools</field>
+        <field name="year">1955</field>
+        <field name="date">03/1955</field>
+        <field name="pages">39</field>
+        <field name="keywords">Art</field>
+        <field name="notes">39 leaves.; Note(s): Cover title./ Saint Louis public school journal,
+            v.8, no. 2.</field>
+        <field name="series_title">Saint Louis public school journal. Research and survey
+            series</field>
+        <field name="series_vol">17</field>
+        <field name="series_title">Saint Louis public school journal</field>
+        <field name="series_vol">8</field>
+        <field name="issue">2</field>
+        <field name="edition">Tentative</field>
+        <field name="publisher">St. Louis (Missouri) Department of Instruction</field>
+        <field name="pub_place">St. Louis, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S14a</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">St. Paul (Minnesota) Public Schools</field>
+        <field name="title">Curriculum guide for art activities at the junior high school
+            level</field>
+        <field name="year">1954</field>
+        <field name="date">1954-1955</field>
+        <field name="pages">26</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">St. Paul (Minnesota) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">53</field>
+        <field name="publisher">St. Paul (Minnesota) Public Schools</field>
+        <field name="pub_place">St. Paul, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S15c</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Richmond (California) Public Schools</field>
+        <field name="title">Art education for secondary schools</field>
+        <field name="year">1956</field>
+        <field name="date">11/1956</field>
+        <field name="pages">35</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">Richmond (California) Public Schools</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .R53a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Bernardino County (California) Superintendent of
+            Schools</field>
+        <field name="title">Art experiences for special days</field>
+        <field name="pages">21</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Bernardino County (California) Superintendent of Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S19a</field>
+        <field name="state_country">California</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Bernardino County (California) Office of Superintendent of
+            Schools</field>
+        <field name="title">Art in school environment</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">69</field>
+        <field name="keywords">Bulletin boards</field>
+        <field name="notes">69 p. ill. 28 cm.</field>
+        <field name="publisher">San Bernardino County (California) Office of Superintendent of
+            Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S19ar</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Bernardino County (California) Office of Superintendent of
+            Schools</field>
+        <field name="title">Development of creative art expression in flat drawing and
+            painting</field>
+        <field name="pages">1</field>
+        <field name="keywords">Drawing</field>
+        <field name="keywords">Painting</field>
+        <field name="publisher">San Bernardino County (California) Office of Superintendent of
+            Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S19d</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Poppett, Carol R.</field>
+        <field name="author_nat">Carol R. Poppett</field>
+        <field name="corp_author">San Bernardino County (California) Office of Superintendent of
+            Schools</field>
+        <field name="title">Painting in the classroom</field>
+        <field name="pages">66</field>
+        <field name="keywords">Painting</field>
+        <field name="publisher">San Bernardino County (California) Office of Superintendent of
+            Schools</field>
+        <field name="pub_place">San Bernardino, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S19pa</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">DeGraw, Monte</field>
+        <field name="author_nat">Monte DeGraw</field>
+        <field name="author">McGraw, Lois</field>
+        <field name="author_nat">Lois McGraw</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Art talent program in the San Diego city schools</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">31</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; cm; Responsibility: prepared by Monte DeGraw and Mrs. Lois
+            McGraw.</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193a</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Farrell, Marie</field>
+        <field name="author_nat">Marie Farrell</field>
+        <field name="author">Mehigan, Sheila</field>
+        <field name="author_nat">Sheila Mehigan</field>
+        <field name="author">Richiger, Georgina</field>
+        <field name="author_nat">Georgina Richiger</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Art education in elementary schools, a guide for instruction</field>
+        <field name="year">1976</field>
+        <field name="date">1976</field>
+        <field name="pages">26</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193ae</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Art - grade two: curriculum guide</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">84</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193c v. 2</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Art - grade three: curriculum guide</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">83</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193c v. 3</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Art - grade four: curriculum guide</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">117</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193c v. 4</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Art - grade five: curriculum guide</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">117</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193c v. 5</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">5th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Art - grade six: curriculum guide</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">117</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193c v. 6</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Handbook for teaching art in secondary schools</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">29</field>
+        <field name="keywords">Art</field>
+        <field name="notes">v, 29 leaves : ill. ; 28 cm.</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego County (California) Schools</field>
+        <field name="title">A handbook of independent activities to promote creativity in
+            children</field>
+        <field name="year">1959</field>
+        <field name="date">10/1959</field>
+        <field name="pages">73</field>
+        <field name="keywords">Creative activities and seat work</field>
+        <field name="notes">v; ill. 22 x 28 cm.</field>
+        <field name="publisher">San Diego County (California) Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S194h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego County (California) Schools</field>
+        <field name="title">Art; grades one through eight, course of study</field>
+        <field name="year">1957</field>
+        <field name="date">09/1957</field>
+        <field name="pages">39</field>
+        <field name="keywords">Art</field>
+        <field name="notes">39 p. 18 x 28 cm.</field>
+        <field name="publisher">San Diego County (California) Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S194a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Saunders, Earl W.</field>
+        <field name="author_nat">Earl W. Saunders</field>
+        <field name="title">Guide for teaching art 1-2</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">100</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): "Unedited"./ "Glossary": p. 65-79./
+            Bibliography: p. 93-95.; Responsibility: prepared by Earl W. Saunders.</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S193g</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Leandro (California) Unified School District</field>
+        <field name="title">Art course of study for fourth grade</field>
+        <field name="year">1957</field>
+        <field name="date">10/1957</field>
+        <field name="pages">28</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Leandro (California) Unified School District</field>
+        <field name="pub_place">San Leandro, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S196a v. 5</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Leandro (California) Unified School District</field>
+        <field name="title">Art course of study for fifth grade</field>
+        <field name="year">1957</field>
+        <field name="date">12/1957</field>
+        <field name="pages">26</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">San Leandro (California) Unified School District</field>
+        <field name="pub_place">San Leandro, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S196a v. 6</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">5th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Mateo County (California) Superintendent of Schools.
+            Curriculum Department</field>
+        <field name="title">San Mateo County art guide</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">62</field>
+        <field name="keywords">Art</field>
+        <field name="notes">volumes illustrations 30 cm</field>
+        <field name="publisher">San Mateo County (California) Superintendent of Schools</field>
+        <field name="pub_place">San Mateo, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S197a v. 3</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Mateo County (California) Superintendent of Schools.
+            Curriculum Department</field>
+        <field name="title">San Mateo County art guide</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">93</field>
+        <field name="keywords">Art</field>
+        <field name="notes">1 volume (loose-leaf) illustrations 30 cm</field>
+        <field name="series_title">Art guide</field>
+        <field name="publisher">San Mateo County (California) Superintendent of School</field>
+        <field name="pub_place">San Mateo, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S197a v. 2</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">Drawing : a guide to extend classroom art experiences, K-8</field>
+        <field name="year">1968</field>
+        <field name="date">06/1968</field>
+        <field name="pages">60</field>
+        <field name="keywords">Drawing</field>
+        <field name="notes">60 pages : illustrations ; 25 cm; Genre/Form: Juvenile works.; Note(s):
+            On cover: Office of Education. Santa Clara County.; Responsibility: approved by Santa
+            Clara County Board of Education.</field>
+        <field name="publisher">Santa Clara County (California) Board of Education</field>
+        <field name="pub_place">San Jose, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S23g</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Superintendent of Schools</field>
+        <field name="title">Santa Clara county art bulletins</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">73</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Santa Clara County (California) Superintendent of Schools</field>
+        <field name="language">English</field>
+        <field name="state_country">740 .S23s</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sequoia Union High School District (Redwood City,
+            California)</field>
+        <field name="title">An art guide</field>
+        <field name="year">1968</field>
+        <field name="date">07/1968</field>
+        <field name="pages">344</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Sequoia Union High School District (Redwood City,
+            California)</field>
+        <field name="pub_place">Redwood City, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S47a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Springfield (Ohio) City Schools</field>
+        <field name="title">Art; tentative course of study [for the] elementary school</field>
+        <field name="year">1954</field>
+        <field name="date">06/1954</field>
+        <field name="pages">20</field>
+        <field name="keywords">Art</field>
+        <field name="notes">20, [44] l. ill. 30 cm.; Note(s): Cover title./ H.L. Brown, supervisor
+            of teaching materials./ E.E. Holt, superintendent of schools.</field>
+        <field name="publisher">Springfield (Ohio) City Schools</field>
+        <field name="pub_place">Springfield, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S76t</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Springfield (Missouri) Public Schools</field>
+        <field name="title">Art : (junior-senior high school level)</field>
+        <field name="year">1958</field>
+        <field name="date">03/1958</field>
+        <field name="pages">65</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): Cover title: Secondary school art./ Includes
+            bibliographical references (p. 57-60).</field>
+        <field name="series_title">Secondary school art</field>
+        <field name="series_title">Instructional guidelines bulletin</field>
+        <field name="series_vol">14</field>
+        <field name="publisher">Springfield (Missouri) Public Schools</field>
+        <field name="pub_place">Springfield, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S77s</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Olson, Lillian D.</field>
+        <field name="author_nat">Lillian D. Olson</field>
+        <field name="author">Howard, Winifred</field>
+        <field name="author_nat">Winifred Howard</field>
+        <field name="author">Bartness, Margaret</field>
+        <field name="author_nat">Margaret Bartness</field>
+        <field name="author">Murphy, Helen</field>
+        <field name="author_nat">Helen Murphy</field>
+        <field name="author">Walshinger, Della</field>
+        <field name="author_nat">Della Walshinger</field>
+        <field name="title">Fine arts - kindergarten</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S94f v. 1</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">Kindergarten</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Olson, Lillian D.</field>
+        <field name="author_nat">Lillian D. Olson</field>
+        <field name="author">Howard, Winifred</field>
+        <field name="author_nat">Winifred Howard</field>
+        <field name="author">Bartness, Margaret</field>
+        <field name="author_nat">Margaret Bartness</field>
+        <field name="author">Murphy, Helen</field>
+        <field name="author_nat">Helen Murphy</field>
+        <field name="author">Walshinger, Della</field>
+        <field name="author_nat">Della Walshinger</field>
+        <field name="title">Fine arts - first grade</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S94f v. 2</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">1st grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Olson, Lillian D.</field>
+        <field name="author_nat">Lillian D. Olson</field>
+        <field name="author">Howard, Winifred</field>
+        <field name="author_nat">Winifred Howard</field>
+        <field name="author">Bartness, Margaret</field>
+        <field name="author_nat">Margaret Bartness</field>
+        <field name="author">Murphy, Helen</field>
+        <field name="author_nat">Helen Murphy</field>
+        <field name="author">Walshinger, Della</field>
+        <field name="author_nat">Della Walshinger</field>
+        <field name="title">Fine arts - second grade</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S94f v. 3</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Olson, Lillian D.</field>
+        <field name="author_nat">Lillian D. Olson</field>
+        <field name="author">Howard, Winifred</field>
+        <field name="author_nat">Winifred Howard</field>
+        <field name="author">Bartness, Margaret</field>
+        <field name="author_nat">Margaret Bartness</field>
+        <field name="author">Murphy, Helen</field>
+        <field name="author_nat">Helen Murphy</field>
+        <field name="author">Walshinger, Della</field>
+        <field name="author_nat">Della Walshinger</field>
+        <field name="title">Fine arts - third grade</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .S94f v. 4</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Paine, Irma Littler</field>
+        <field name="author_nat">Irma Littler Paine</field>
+        <field name="title">Art aids for elementary teaching, a handbook</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">88</field>
+        <field name="keywords">Art</field>
+        <field name="notes">88 p. illus. 28 cm.; Note(s): Previous editions published under title:
+            Art aids for primary teaching./ Bibliography: p. 87-88.</field>
+        <field name="edition">Rev. ed.</field>
+        <field name="pub_place">Tacoma, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T11a</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Growth development in art: pre-school through 2nd grade</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">A1</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 1</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Prek</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Growth development in art: kindergarten through 4th grade</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">A2</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 2</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Growth development in art: third grade through sixth grade</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">A3</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 3</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Growth development in art: fifth grade through eighth grade</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">A4</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 4</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Ceramics in the elementary schools: part A: buying guide</field>
+        <field name="year">1956</field>
+        <field name="date">09/1956</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Ceramics</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">C1</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 5</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Drawing activities: kindergarten-1st-2nd</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">D1</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 6</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Drawing activities: 3rd-4th-5th</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">D2</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 7</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Superintendent of Schools</field>
+        <field name="title">Drawing activities: 6th-7th-8th</field>
+        <field name="keywords">Art</field>
+        <field name="series_title">Art education bulletin</field>
+        <field name="series_vol">D3</field>
+        <field name="publisher">Tulare County (California) Superintendent of Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T91a v. 8</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulsa (Oklahoma) Public Schools</field>
+        <field name="title">Art, grades seven through twelve</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">66</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Tulsa (Oklahoma) Public Schools</field>
+        <field name="pub_place">Tulsa, OK</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T92g</field>
+        <field name="state_country">Oklahoma</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tuscaloosa (Alabama) City Schools</field>
+        <field name="corp_author">Alabama State Department of Education</field>
+        <field name="title">Art education, kindergarten, elementary, sequential guide</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">68</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Tuscaloosa (Alabama) City Schools</field>
+        <field name="pub_place">Tuscaloosa, AL</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T96a</field>
+        <field name="state_country">Alabama</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tyler (Texas) Independent School District</field>
+        <field name="title">Curriculum guide for art education, grades 7-12</field>
+        <field name="year">1964</field>
+        <field name="date">08/1964</field>
+        <field name="pages">58</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Tyler (Texas) Independent School District</field>
+        <field name="pub_place">Tyler, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .T98c</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">United States Department of Health, Education, and Welfare. Office
+            of Education</field>
+        <field name="title">Art education for elementary teachers</field>
+        <field name="year">1957</field>
+        <field name="date">05/1957</field>
+        <field name="pages">9</field>
+        <field name="keywords">Art education</field>
+        <field name="series_title">United States Department of Health, Education, and Welfare.
+            Office of Education. Selected references</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">United States Department of Health, Education, and Welfare. Office
+            of Education</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .U59a</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Roberts, Olive</field>
+        <field name="author_nat">Olive Roberts</field>
+        <field name="corp_author">Vancouver (Washington) Public Schools</field>
+        <field name="title">An art activities guidebook</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">266</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 28 cm.; Responsibility: editor Olive Roberts.</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Vancouver (Washington) Public Schools</field>
+        <field name="pub_place">Vancouver, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .V22a</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Utah State Department of Public Instruction</field>
+        <field name="title">Art : elementary schools of Utah</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">112</field>
+        <field name="keywords">Art</field>
+        <field name="notes">112 pages : illustrations ; 28 cm; Responsibility: Utah State Dept. of
+            Public Instruction.</field>
+        <field name="publisher">Utah State Department of Public Instruction</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .U89a</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Leonard, Verla</field>
+        <field name="author_nat">Verla Leonard</field>
+        <field name="corp_author">Vallejo (California) Unified School District. Elementary
+            Schools</field>
+        <field name="title">Course of study in art education</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">63</field>
+        <field name="keywords">Art education</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Vallejo (California) Unified School District</field>
+        <field name="pub_place">Vallejo, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .V18a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Board of Education</field>
+        <field name="title">Art education for secondary schools; a tentative guide to curriculum
+            development</field>
+        <field name="year">1955</field>
+        <field name="date">10/1955</field>
+        <field name="pages">175</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">xi; ges illustrations 28 cm.; Note(s): On cover: Art and youth./ "State
+            regulations which contribute to the development of art education": p. 164-170./ Includes
+            bibliographical references (pages 147-163).; Responsibility: [Edited by Sara Joyner,
+            State Supervisor of Art Education].</field>
+        <field name="series_title">Art and youth</field>
+        <field name="series_title">Virginia. State Board of Education. Bulletin</field>
+        <field name="series_vol">38</field>
+        <field name="issue">6</field>
+        <field name="publisher">Virginia State Board of Education</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .V81s</field>
+        <field name="state_country">Virginia</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Waco (Texas) Independent School District</field>
+        <field name="title">Art notes: bulletin in art education</field>
+        <field name="year">1951</field>
+        <field name="date">09/1951</field>
+        <field name="pages">65</field>
+        <field name="keywords">Art education</field>
+        <field name="publisher">Waco (Texas) Independent School District</field>
+        <field name="pub_place">Waco, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W11a</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Warwick (Rhode Island) Public School Department</field>
+        <field name="title">An emerging art curriculum</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">7</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">Warwick (Rhode Island) Public School Department</field>
+        <field name="pub_place">Warwick, RI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W29e</field>
+        <field name="state_country">Rhode Island</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Classroom Teachers Art Association</field>
+        <field name="corp_author">Eastern Washington College of Education</field>
+        <field name="title">Conservation of human resources through art</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Eastern Washington College of Education</field>
+        <field name="pub_place">Cheney, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W31c</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wausau (Wisconsin) Public Schools</field>
+        <field name="title">Instructional guide in art education : primary through senior high
+            school</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">58</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): Cover title: Instructional guide for the
+            teaching of art education./ Includes bibliographical references (p. 132).; Other Titles:
+            Instructional guide for the teaching of art education; Responsibility: Wausau Public
+            Schools.</field>
+        <field name="edition">Secondary school edition (Grades 7-12)</field>
+        <field name="publisher">Wausau (Wisconsin) Public Schools</field>
+        <field name="pub_place">Wausau, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W35i v. 2</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">West Hempstead (New York) Public Schools</field>
+        <field name="title">Art education curriculum guide for elementary schools</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">16</field>
+        <field name="keywords">Art education</field>
+        <field name="keywords">Curricula</field>
+        <field name="publisher">West Hempstead (New York) Public Schools</field>
+        <field name="pub_place">West Hempstead, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W51a</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wichita (Kansas) Public Schools</field>
+        <field name="title">Art guide 7</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">213</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): Cover title.; Responsibility: Wichita Public
+            Schools.</field>
+        <field name="publisher">Wichita (Kansas) Public Schools</field>
+        <field name="pub_place">Wichita, KS</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W63a</field>
+        <field name="state_country">Kansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wisconsin Cooperative Educational Planning Program</field>
+        <field name="title">Art in the total school program</field>
+        <field name="year">1947</field>
+        <field name="date">10/1947</field>
+        <field name="pages">16</field>
+        <field name="keywords">Art</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): Cover title./ "October, 1947." "Reprinted April,
+            1951"</field>
+        <field name="series_title">Wisconsin Cooperative Educational Planning Program.
+            Bulletin</field>
+        <field name="series_vol">9</field>
+        <field name="publisher">Wisconsin Cooperative Educational Planning Program</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W81a</field>
+        <field name="state_country">Kansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wisconsin Cooperative Educational Planning Program</field>
+        <field name="title">Drawing and painting as expression : elementary grades</field>
+        <field name="year">1950</field>
+        <field name="date">04/1950</field>
+        <field name="pages">27</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Drawing</field>
+        <field name="keywords">Painting</field>
+        <field name="notes">27 pages : illustrations ; 23 cm.; Note(s): "April 1950"--Cover.;
+            Responsibility: ... prepared by members of the Statewide Art Committee.</field>
+        <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
+            bulletin</field>
+        <field name="series_vol">9</field>
+        <field name="series_title">Wisconsin Cooperative Educational Planning Program. Art
+            bulletin</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">Wisconsin State Superintendent of Public Instruction</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W81d</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wyoming State Department of Education</field>
+        <field name="title">Creative art in Wyoming schools, K-12</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">145</field>
+        <field name="keywords">Art</field>
+        <field name="notes">iii; ges illustrations (some color) 22 cm; Note(s): Includes
+            bibliographical references (pages 133-136).</field>
+        <field name="publisher">Wyoming State Department of Education</field>
+        <field name="pub_place">Cheyenne, WY</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .W98c</field>
+        <field name="state_country">Wyoming</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Yolo County (California) Curriculum</field>
+        <field name="title">Art handbook: suggestions for the elementary schools of Yolo
+            County</field>
+        <field name="pages">44</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Yolo County (California) Curriculum</field>
+        <field name="language">English</field>
+        <field name="call_number">740 .Y54a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+</add>

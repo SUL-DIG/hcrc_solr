@@ -1,0 +1,1243 @@
+
+
+TY  - BOOK
+A2  - Tacoma (Washington) Public Schools
+T1  - Facts about your schools: art - music instructional information
+Y1  - 1953
+D1  - 09/1953
+KW  - Art
+KW  - Music
+PB  - Tacoma (Washington) Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 700 .T11f
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Kutztown (Pennsylvania) State Teachers College. Department of Art Education
+T1  - The supervision of art in the elementary schools
+Y1  - 1957
+D1  - 1957
+SP  - 24
+KW  - Art
+KW  - Art teachers
+AB  - Scope of the bulletin -- The purpose of supervision -- Defining supervisory positions -- How an art supervisor functions -- The human equation -- Evaluation of pupil growth and teaching effectiveness -- Preparing for supervision.
+N1  - ill. ; 16 x 23 cm.; Note(s): Includes bibliographical references.; Responsibility: [prepared by the staff of the Department of Art Education].
+T2  - The Kutztown bulletin
+PB  - Kutztown State Teachers College
+CY  - Kutztown, PA
+LA  - English
+CN  - 740 .P415a v. 1
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oceanside-Libby (California) Union School District
+T1  - Guide for easel painting
+Y1  - 1957
+D1  - 02/1957
+SP  - 8
+KW  - Painting
+PB  - Oceanside-Libby (California) Union School District
+CY  - Oceanside, CA
+LA  - English
+CN  - 740 .O15g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Art education for the elementary schools of Ohio
+Y1  - 1954
+D1  - 1954
+SP  - 118
+KW  - Art
+ED  - Rev.
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 740 .O37a
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Dodderer, Marion E.
+A1  - Von Bargen, Dora
+A1  - Neidermeyer, Carrie E.
+A2  - Omaha (Nebraska) Public Schools
+T1  - Children's first experiences with art in primary grades
+Y1  - 1954
+D1  - 1954
+SP  - 34
+KW  - Art
+ED  - Tentative
+PB  - Omaha (Nebraska) Public Schools
+CY  - Omaha, NE
+LA  - English
+CN  - 740 .O54c
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Kohl, Mary
+T1  - Using art prints in classrooms
+Y1  - 1974
+D1  - 03/1974
+SP  - 37
+KW  - Art
+Y1  - Oregon ASCD curriculum bulletin
+V1  - 28
+IS  - 322
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 740 .O65u
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Art education in Oregon elementary schools
+Y1  - 1958
+D1  - 1958
+SP  - 95
+KW  - Art
+N1  - ill. ; 22 x 28 cm.; Note(s): "Approved by the State Board of Education, March 7, 1956."/ Includes bibliographical references (p. [92]-95).
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 740 .O66a
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Arts and crafts materials
+Y1  - 1953
+D1  - 09/1953
+SP  - 34
+KW  - Art
+KW  - Handicraft
+PB  - Pasadena (California) City Schools. Audio-Visual Service
+CY  - Pasadena, CA
+LA  - English
+CN  - 740 .P27a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - A course of study in art education for elementary and secondary schools : including suggestions for better art-craft facilities
+Y1  - 1951
+D1  - 1951
+SP  - 85
+KW  - Art
+N1  - xi; illustrations ; 31 cm.
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 262
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 740 .P41c
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Kutztown (Pennsylvania) State Teachers College. Department of Art Education
+T1  - Art education at work 
+Y1  - 1951
+D1  - 1951
+SP  - 24
+KW  - Art education
+N1  - ill. ; 16 x 23 cm.; Note(s): Includes bibliographical references.; Responsibility: [prepared by the staff of the Department of Art Education].
+T2  - The Kutztown bulletin
+PB  - Kutztown State Teachers College
+CY  - Kutztown, PA
+LA  - English
+CN  - 740 .P415a v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Bridgman, Gerald
+A2  - Phoenix (Arizona) Union High System
+T1  - Curriculum guide, Art 1-2 : basic art
+Y1  - 1967
+D1  - 11/1967
+SP  - 51
+KW  - Art
+KW  - Design
+N1  - 51 leaves : ill. ; 28 cm.; Responsibility: prepared by Gerald Bridgman, Marynelle Hartman.
+PB  - Phoenix (Arizona) Union High System
+CY  - Phoenix, AZ
+LA  - English
+CN  - 740 .P57b
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A1  - Frank, Lawrence K.
+A2  - Kutztown State Teachers College
+T1  - Art education means guidance in creative development
+Y1  - 1955
+D1  - 1955
+SP  - 23
+KW  - Art
+KW  - Creative ability in children
+N1  - ill. ; 15 x 23 cm.; Note(s): "Keynote address delivered at the 16th Annual Art Education Conference, State Teachers College, Kutztown, Pennsylvania, October 29, 1954."--P. 5./ Includes bibliographical references.; Responsibility: [Lawrence K. Frank].
+T2  - The Kutztown bulletin
+PB  - Kutztown State Teachers College
+CY  - Kutztown, PA
+LA  - English
+CN  - 740 .P415a v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Meineke, Elizabeth
+A1  - Moser, Jane
+T1  - Drawing : curriculum guide
+Y1  - 1968
+D1  - 10/1968
+SP  - 110
+KW  - Drawing
+N1  - 110 pages : illustrations ; 22 x 28 cm; Note(s): Includes bibliographical references (pages 103-107).; Responsibility: prepared by Elizabeth Meineke, Jane Moser.
+PB  - Phoenix Union High School System
+CY  - Phoenix, AZ
+LA  - English
+CN  - 740 .P57d
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A1  - Rapoport, Aaron
+A1  - Bookbinder, Jack
+A2  - Philadelphia Public Schools. Division of Art Education
+T1  - An interim report for a guide to art education in the secondary schools
+Y1  - 1964
+D1  - 1964
+KW  - Art
+N1  - [222] p. ; 28 cm.; Note(s): "The final writing of this guide is the responsibility of Aaron Rapoport and Jack Bookbinder."; Responsibility: Division of Art Education, Philadelphia Public Schools.
+PB  - Philadelphia Public Schools. Division of Art Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 740 .P54g v. 3
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Phoenix (Arizona) Elementary Schools
+T1  - Art guide, Phoenix elementary schools, grades 6, 7, 8
+Y1  - 1951
+D1  - 1951
+SP  - 27
+KW  - Art
+PB  - Phoenix (Arizona) Elementary Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 740 .P57a
+SC  - Arizona
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Phoenix (Arizona) Union High System
+T1  - History of art student guide
+Y1  - 1968
+D1  - 01/1968
+SP  - 166
+KW  - Art history
+N1  - 166 leaves : ill., maps ; 28 cm.; Responsibility: workshop participants: James H. Boykin ... Mary E. Williams.
+PB  - Phoenix (Arizona) Union High System
+CY  - Phoenix, AZ
+LA  - English
+CN  - 740 .P57h
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A1  - Halvorsen, Ruth Elise
+A2  - Portland (Oregon) Public Schools
+T1  - A plan for improving art education in the Portland public schools
+Y1  - 1952
+D1  - 11/1952
+SP  - 12
+KW  - Art education
+PB  - Portland (Oregon) Public Schools
+LA  - English
+CN  - 740 .P85p
+ER  - 
+
+TY  - BOOK
+A2  - Pueblo (Colorado) Board of Education
+T1  - Instructional guide for teachers of Pueblo public schools, junior high art
+Y1  - 1952
+D1  - 1952
+SP  - 61
+KW  - Art
+PB  - Pueblo (Colorado) Board of Education
+CY  - Pueblo, CO
+LA  - English
+CN  - 740 .P97i
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Department of Instruction
+T1  - Art for elementary schools
+Y1  - 1955
+D1  - 03/1955
+SP  - 39
+KW  - Art
+N1  - 39 leaves.; Note(s): Cover title./ Saint Louis public school journal, v.8, no. 2.
+T2  - Saint Louis public school journal. Research and survey series
+V1  - 17
+T2  - Saint Louis public school journal
+V1  - 8
+IS  - 2
+ED  - Tentative
+PB  - St. Louis (Missouri) Department of Instruction
+CY  - St. Louis, MO
+LA  - English
+CN  - 740 .S14a
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - St. Paul (Minnesota) Public Schools
+T1  - Curriculum guide for art activities at the junior high school level
+Y1  - 1954
+D1  - 1954-1955
+SP  - 26
+KW  - Art
+T2  - St. Paul (Minnesota) Public Schools. Curriculum bulletin
+V1  - 53
+PB  - St. Paul (Minnesota) Public Schools
+CY  - St. Paul, MN
+LA  - English
+CN  - 740 .S15c
+SC  - Minnesota
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (California) Public Schools
+T1  - Art education for secondary schools
+Y1  - 1956
+D1  - 11/1956
+SP  - 35
+KW  - Art
+KW  - Curricula
+PB  - Richmond (California) Public Schools
+CY  - Richmond, VA
+LA  - English
+CN  - 740 .R53a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino County (California) Superintendent of Schools
+T1  - Art experiences for special days
+SP  - 21
+KW  - Art
+PB  - San Bernardino County (California) Superintendent of Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 740 .S19a
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Bernardino County (California) Office of Superintendent of Schools
+T1  - Art in school environment
+Y1  - 1951
+D1  - 1951
+SP  - 69
+KW  - Bulletin boards
+N1  - 69 p. ill. 28 cm.
+PB  - San Bernardino County (California) Office of Superintendent of Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 740 .S19ar
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino County (California) Office of Superintendent of Schools
+T1  - Development of creative art expression in flat drawing and painting
+SP  - 1
+KW  - Drawing
+KW  - Painting
+PB  - San Bernardino County (California) Office of Superintendent of Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 740 .S19d
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Poppett, Carol R.
+A2  - San Bernardino County (California) Office of Superintendent of Schools
+T1  - Painting in the classroom
+SP  - 66
+KW  - Painting
+PB  - San Bernardino County (California) Office of Superintendent of Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 740 .S19pa
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - DeGraw, Monte
+A1  - McGraw, Lois
+A2  - San Diego (California) City Schools
+T1  - Art talent program in the San Diego city schools
+Y1  - 1965
+D1  - 1965
+SP  - 31
+KW  - Art
+N1  - ill. ; cm; Responsibility: prepared by Monte DeGraw and Mrs. Lois McGraw.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Farrell, Marie
+A1  - Mehigan, Sheila
+A1  - Richiger, Georgina
+A2  - San Diego (California) City Schools
+T1  - Art education in elementary schools, a guide for instruction
+Y1  - 1976
+D1  - 1976
+SP  - 26
+KW  - Art
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193ae
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Art - grade two: curriculum guide
+Y1  - 1962
+D1  - 1962
+SP  - 84
+KW  - Art
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193c v. 2
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Art - grade three: curriculum guide
+Y1  - 1962
+D1  - 1962
+SP  - 83
+KW  - Art
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193c v. 3
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Art - grade four: curriculum guide
+Y1  - 1962
+D1  - 1962
+SP  - 117
+KW  - Art
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193c v. 4
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Art - grade five: curriculum guide
+Y1  - 1962
+D1  - 1962
+SP  - 117
+KW  - Art
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193c v. 5
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Art - grade six: curriculum guide
+Y1  - 1962
+D1  - 1962
+SP  - 117
+KW  - Art
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193c v. 6
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Handbook for teaching art in secondary schools
+Y1  - 1965
+D1  - 1965
+SP  - 29
+KW  - Art
+N1  - v, 29 leaves : ill. ; 28 cm.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193h
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - A handbook of independent activities to promote creativity in children
+Y1  - 1959
+D1  - 10/1959
+SP  - 73
+KW  - Creative activities and seat work
+N1  - v; ill. 22 x 28 cm.
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S194h
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Art; grades one through eight, course of study
+Y1  - 1957
+D1  - 09/1957
+SP  - 39
+KW  - Art
+N1  - 39 p. 18 x 28 cm.
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S194a
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Saunders, Earl W.
+T1  - Guide for teaching art 1-2
+Y1  - 1969
+D1  - 1969
+SP  - 100
+KW  - Art
+N1  - ill. ; 28 cm.; Note(s): "Unedited"./ "Glossary": p. 65-79./ Bibliography: p. 93-95.; Responsibility: prepared by Earl W. Saunders.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Leandro (California) Unified School District
+T1  - Art course of study for fourth grade
+Y1  - 1957
+D1  - 10/1957
+SP  - 28
+KW  - Art
+PB  - San Leandro (California) Unified School District
+CY  - San Leandro, CA
+LA  - English
+CN  - 740 .S196a v. 5
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - San Leandro (California) Unified School District
+T1  - Art course of study for fifth grade
+Y1  - 1957
+D1  - 12/1957
+SP  - 26
+KW  - Art
+PB  - San Leandro (California) Unified School District
+CY  - San Leandro, CA
+LA  - English
+CN  - 740 .S196a v. 6
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Superintendent of Schools. Curriculum Department
+T1  - San Mateo County art guide
+Y1  - 1968
+D1  - 1968
+SP  - 62
+KW  - Art
+N1  - volumes illustrations 30 cm
+PB  - San Mateo County (California) Superintendent of Schools
+CY  - San Mateo, CA
+LA  - English
+CN  - 740 .S197a v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Superintendent of Schools. Curriculum Department
+T1  - San Mateo County art guide
+Y1  - 1966
+D1  - 1966
+SP  - 93
+KW  - Art
+N1  - 1 volume (loose-leaf) illustrations 30 cm
+T2  - Art guide
+PB  - San Mateo County (California) Superintendent of School
+CY  - San Mateo, CA
+LA  - English
+CN  - 740 .S197a v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Drawing : a guide to extend classroom art experiences, K-8
+Y1  - 1968
+D1  - 06/1968
+SP  - 60
+KW  - Drawing
+N1  - 60 pages : illustrations ; 25 cm; Genre/Form: Juvenile works.; Note(s): On cover: Office of Education. Santa Clara County.; Responsibility: approved by Santa Clara County Board of Education.
+PB  - Santa Clara County (California) Board of Education
+CY  - San Jose, CA
+LA  - English
+CN  - 740 .S23g
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Superintendent of Schools
+T1  - Santa Clara county art bulletins
+Y1  - 1953
+D1  - 09/1953
+SP  - 73
+KW  - Art
+PB  - Santa Clara County (California) Superintendent of Schools
+LA  - English
+SC  - 740 .S23s
+ER  - 
+
+TY  - BOOK
+A2  - Sequoia Union High School District (Redwood City, California)
+T1  - An art guide
+Y1  - 1968
+D1  - 07/1968
+SP  - 344
+KW  - Art
+PB  - Sequoia Union High School District (Redwood City, California)
+CY  - Redwood City, CA
+LA  - English
+CN  - 740 .S47a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Ohio) City Schools
+T1  - Art; tentative course of study [for the] elementary school
+Y1  - 1954
+D1  - 06/1954
+SP  - 20
+KW  - Art 
+N1  - 20, [44] l. ill. 30 cm.; Note(s): Cover title./ H.L. Brown, supervisor of teaching materials./ E.E. Holt, superintendent of schools.
+PB  - Springfield (Ohio) City Schools
+CY  - Springfield, OH
+LA  - English
+CN  - 740 .S76t
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Missouri) Public Schools
+T1  - Art : (junior-senior high school level)
+Y1  - 1958
+D1  - 03/1958
+SP  - 65
+KW  - Art
+N1  - ill. ; 28 cm.; Note(s): Cover title: Secondary school art./ Includes bibliographical references (p. 57-60).
+T2  - Secondary school art
+T2  - Instructional guidelines bulletin
+V1  - 14
+PB  - Springfield (Missouri) Public Schools
+CY  - Springfield, MO
+LA  - English
+CN  - 740 .S77s
+SC  - Missouri
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Lillian D.
+A1  - Howard, Winifred
+A1  - Bartness, Margaret
+A1  - Murphy, Helen
+A1  - Walshinger, Della
+T1  - Fine arts - kindergarten
+KW  - Art
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 740 .S94f v. 1
+SC  - Wisconsin
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Lillian D.
+A1  - Howard, Winifred
+A1  - Bartness, Margaret
+A1  - Murphy, Helen
+A1  - Walshinger, Della
+T1  - Fine arts - first grade
+KW  - Art
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 740 .S94f v. 2
+SC  - Wisconsin
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Lillian D.
+A1  - Howard, Winifred
+A1  - Bartness, Margaret
+A1  - Murphy, Helen
+A1  - Walshinger, Della
+T1  - Fine arts - second grade
+KW  - Art
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 740 .S94f v. 3
+SC  - Wisconsin
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Olson, Lillian D.
+A1  - Howard, Winifred
+A1  - Bartness, Margaret
+A1  - Murphy, Helen
+A1  - Walshinger, Della
+T1  - Fine arts - third grade
+KW  - Art
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 740 .S94f v. 4
+SC  - Wisconsin
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Paine, Irma Littler
+T1  - Art aids for elementary teaching, a handbook
+Y1  - 1953
+D1  - 1953
+SP  - 88
+KW  - Art
+N1  - 88 p. illus. 28 cm.; Note(s): Previous editions published under title: Art aids for primary teaching./ Bibliography: p. 87-88.
+ED  - Rev. ed.
+CY  - Tacoma, WA
+LA  - English
+CN  - 740 .T11a
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Growth development in art: pre-school through 2nd grade
+KW  - Art
+T2  - Art education bulletin
+V1  - A1
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 1
+SC  - California
+G1  - Prek
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Growth development in art: kindergarten through 4th grade
+KW  - Art
+T2  - Art education bulletin
+V1  - A2
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 2
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Growth development in art: third grade through sixth grade
+KW  - Art
+T2  - Art education bulletin
+V1  - A3
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 3
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Growth development in art: fifth grade through eighth grade
+KW  - Art
+T2  - Art education bulletin
+V1  - A4
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 4
+SC  - California
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Ceramics in the elementary schools: part A: buying guide
+Y1  - 1956
+D1  - 09/1956
+KW  - Art
+KW  - Ceramics
+T2  - Art education bulletin
+V1  - C1
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 5
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Drawing activities: kindergarten-1st-2nd
+KW  - Art
+T2  - Art education bulletin
+V1  - D1
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 6
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Drawing activities: 3rd-4th-5th
+KW  - Art
+T2  - Art education bulletin
+V1  - D2
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 7
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Drawing activities: 6th-7th-8th
+KW  - Art
+T2  - Art education bulletin
+V1  - D3
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 740 .T91a v. 8
+SC  - California
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Art, grades seven through twelve
+Y1  - 1960
+D1  - 1960
+SP  - 66
+KW  - Art
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 740 .T92g
+SC  - Oklahoma
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  -
+
+TY  - BOOK
+A2  - Tuscaloosa (Alabama) City Schools
+A2  - Alabama State Department of Education
+T1  - Art education, kindergarten, elementary, sequential guide
+Y1  - 1970
+D1  - 1970
+SP  - 68
+KW  - Art
+PB  - Tuscaloosa (Alabama) City Schools
+CY  - Tuscaloosa, AL
+LA  - English
+CN  - 740 .T96a
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for art education, grades 7-12
+Y1  - 1964
+D1  - 08/1964
+SP  - 58
+KW  - Art
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 740 .T98c
+SC  - Texas
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - United States Department of Health, Education, and Welfare. Office of Education
+T1  - Art education for elementary teachers
+Y1  - 1957
+D1  - 05/1957
+SP  - 9
+KW  - Art education
+T2  - United States Department of Health, Education, and Welfare. Office of Education. Selected references
+V1  - 4
+PB  - United States Department of Health, Education, and Welfare. Office of Education
+CY  - Washington, DC
+LA  - English
+CN  - 740 .U59a
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Roberts, Olive
+A2  - Vancouver (Washington) Public Schools
+T1  - An art activities guidebook
+Y1  - 1955
+D1  - 1955
+SP  - 266
+KW  - Art
+N1  - ill. ; 28 cm.; Responsibility: editor Olive Roberts.
+ED  - Rev.
+PB  - Vancouver (Washington) Public Schools
+CY  - Vancouver, WA
+LA  - English
+CN  - 740 .V22a
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Art : elementary schools of Utah
+Y1  - 1951
+D1  - 1951
+SP  - 112
+KW  - Art 
+N1  - 112 pages : illustrations ; 28 cm; Responsibility: Utah State Dept. of Public Instruction.
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 740 .U89a
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Leonard, Verla
+A2  - Vallejo (California) Unified School District. Elementary Schools
+T1  - Course of study in art education
+Y1  - 1963
+D1  - 1963
+SP  - 63
+KW  - Art education
+ED  - Revised
+PB  - Vallejo (California) Unified School District
+CY  - Vallejo, CA
+LA  - English
+CN  - 740 .V18a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Art education for secondary schools; a tentative guide to curriculum development
+Y1  - 1955
+D1  - 10/1955
+SP  - 175
+KW  - Art
+KW  - Curricula
+N1  - xi; ges illustrations 28 cm.; Note(s): On cover: Art and youth./ "State regulations which contribute to the development of art education": p. 164-170./ Includes bibliographical references (pages 147-163).; Responsibility: [Edited by Sara Joyner, State Supervisor of Art Education].
+T2  - Art and youth
+T2  - Virginia. State Board of Education. Bulletin
+V1  - 38
+IS  - 6
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 740 .V81s
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Waco (Texas) Independent School District
+T1  - Art notes: bulletin in art education
+Y1  - 1951
+D1  - 09/1951
+SP  - 65
+KW  - Art education
+PB  - Waco (Texas) Independent School District
+CY  - Waco, TX
+LA  - English
+CN  - 740 .W11a
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Warwick (Rhode Island) Public School Department
+T1  - An emerging art curriculum
+Y1  - 1955
+D1  - 1955
+SP  - 7
+KW  - Art
+KW  - Curricula
+PB  - Warwick (Rhode Island) Public School Department
+CY  - Warwick, RI
+LA  - English
+CN  - 740 .W29e
+SC  - Rhode Island
+ER  - 
+
+TY  - BOOK
+A2  - Classroom Teachers Art Association
+A2  - Eastern Washington College of Education
+T1  - Conservation of human resources through art
+Y1  - 1950
+D1  - 1950
+KW  - Art
+PB  - Eastern Washington College of Education
+CY  - Cheney, WA
+LA  - English
+CN  - 740 .W31c
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Wausau (Wisconsin) Public Schools
+T1  - Instructional guide in art education : primary through senior high school
+Y1  - 1963
+D1  - 1963
+SP  - 58
+KW  - Art
+N1  - ill. ; 28 cm.; Note(s): Cover title: Instructional guide for the teaching of art education./ Includes bibliographical references (p. 132).; Other Titles: Instructional guide for the teaching of art education; Responsibility: Wausau Public Schools.
+ED  - Secondary school edition (Grades 7-12)
+PB  - Wausau (Wisconsin) Public Schools
+CY  - Wausau, WI
+LA  - English
+CN  - 740 .W35i v. 2
+SC  - Wisconsin
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - West Hempstead (New York) Public Schools
+T1  - Art education curriculum guide for elementary schools
+Y1  - 1961
+D1  - 1961
+SP  - 16
+KW  - Art education
+KW  - Curricula
+PB  - West Hempstead (New York) Public Schools
+CY  - West Hempstead, NY
+LA  - English
+CN  - 740 .W51a
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wichita (Kansas) Public Schools
+T1  - Art guide 7
+Y1  - 1969
+D1  - 1969
+SP  - 213
+KW  - Art
+N1  - ill. ; 28 cm.; Note(s): Cover title.; Responsibility: Wichita Public Schools.
+PB  - Wichita (Kansas) Public Schools
+CY  - Wichita, KS
+LA  - English
+CN  - 740 .W63a
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative Educational Planning Program
+T1  - Art in the total school program
+Y1  - 1947
+D1  - 10/1947
+SP  - 16
+KW  - Art
+N1  - ill. ; 23 cm.; Note(s): Cover title./ "October, 1947." "Reprinted April, 1951"
+T2  - Wisconsin Cooperative Educational Planning Program. Bulletin
+V1  - 9
+PB  - Wisconsin Cooperative Educational Planning Program
+CY  - Madison, WI
+LA  - English
+CN  - 740 .W81a
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative Educational Planning Program
+T1  - Drawing and painting as expression : elementary grades
+Y1  - 1950
+D1  - 04/1950
+SP  - 27
+KW  - Art
+KW  - Drawing
+KW  - Painting
+N1  - 27 pages : illustrations ; 23 cm.; Note(s): "April 1950"--Cover.; Responsibility: ... prepared by members of the Statewide Art Committee.
+T2  - Wisconsin Cooperative Educational Planning Program. Curriculum bulletin
+V1  - 9
+T2  - Wisconsin Cooperative Educational Planning Program. Art bulletin
+V1  - 2
+PB  - Wisconsin State Superintendent of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 740 .W81d
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - Creative art in Wyoming schools, K-12
+Y1  - 1969
+D1  - 1969
+SP  - 145
+KW  - Art
+N1  - iii; ges illustrations (some color) 22 cm; Note(s): Includes bibliographical references (pages 133-136).
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 740 .W98c
+SC  - Wyoming
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Curriculum
+T1  - Art handbook: suggestions for the elementary schools of Yolo County
+SP  - 44
+KW  - Art
+PB  - Yolo County (California) Curriculum
+LA  - English
+CN  - 740 .Y54a
+SC  - California
+G1  - Elementary
+ER  - 
+

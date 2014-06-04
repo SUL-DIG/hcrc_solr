@@ -1,0 +1,813 @@
+
+
+TY  - BOOK
+A2  - Alabama Education Study Commission
+T1  - A two year follow up of recommendations made by the Alabama Education Study Commission, 1972-1974 : a report
+Y1  - 1975
+D1  - 03/1975
+SP  - 36
+KW  - Education
+N1  - i, 36 leaves ; 28 cm.; Responsibility: prepared by the staff of the Alabama Education Study Commission, B.D. Whetstone, coordinator
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission Report
+V1  - 18
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1975
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Education Study Commission
+T1  - Special education programs in Alabama
+Y1  - 1975
+D1  - 05/1975
+SP  - 26
+KW  - Children with disabilities
+N1  - i, 26 leaves ; 28 cm.; Responsibility: Alabama Education Study Commission
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission Report
+V1  - 19
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1975
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A1  - Whetstone, B. D.
+A2  - Alabama Education Study Commission
+T1  - The teaching of reading in Alabama schools : a report prepared for the Alabama Education Study Commission
+Y1  - 1974
+D1  - 06/1974
+SP  - 44
+KW  - Reading
+N1  - 44 leaves : graphs ; 28 cm.; Genre/Form: Statistics.; Responsibility: by B.D. Whetstone
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission. Report
+V1  - 17
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1974
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Education Study Commission
+T1  - Conclusions and recommendations
+Y1  - 1973
+D1  - 04/1973
+SP  - 14
+KW  - Education
+N1  - i, 14 leaves ; 28 cm.; Note(s): At head of title: Achieving educational excellence in Alabama./ On cover: Project to achieve educational excellence in Alabama
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission Report
+V1  - 13
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1973
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Diebold Group
+A2  - Alabama Education Study Commission
+T1  - An assessment of business needs from Alabama high schools
+Y1  - 1973
+D1  - 05/1973
+SP  - 75
+KW  - Economics of education
+KW  - Counseling
+N1  - 75 l. 28 cm.; Note(s): On cover: Project to achieve educational excellence in Alabama.; Other Titles: Project to achieve educational excellence in Alabama
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission Report
+V1  - 14
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1973
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Whetstone, B. D.
+A2  - Alabama Education Study Commission
+T1  - Projecting average grade placement in language, math, and reading achievement in local school systems in Alabama
+Y1  - 1973
+D1  - 08/1973
+SP  - 24
+KW  - Statistics
+KW  - Academic achievement
+KW  - School grade placement
+N1  - 24 l. 28 cm.; Genre/Form: Statistics.; Note(s): On cover: Project to achieve educational excellence in Alabama.; Responsibility: Paper prepared for the Alabama Education Study Commission, by B.D. Whetstone.
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission Report 
+V1  - 16
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1973
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Education Association
+T1  - ABC's of the Alabama Minimum Program
+Y1  - 1965
+D1  - 1965?
+SP  - 15
+KW  - Educational law and legislation
+N1  - Frequency: Irregular; v. ; 21 cm; Named Corp: Alabama. Alabama Minimum Program Law
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama Education Association
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1965
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Education Study Commission
+T1  - Facilities and equipment in local school systems
+Y1  - 1973
+D1  - 04/1973
+SP  - 135
+KW  - School facilities
+KW  - Statistics
+N1  - ii, 135 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): At head of title: Achieving educational excellence in Alabama./ On cover: Project to achieve educational excellence in Alabama.; Other Titles: Achieving educational excellence in Alabama; Project to achieve educational excellence in Alabama
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission Report
+V1  - 10
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1973
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Education Study Commission
+T1  - Objectives and procedures
+Y1  - 1972
+D1  - 03/1972
+SP  - 19
+KW  - Education
+N1  - 19 leaves ; 28 cm.; Note(s): At head of title: Achieving educational excellence in Alabama./ On cover: Project to achieve educational excellence in Alabama./ Includes bibliographical references (leaf 19).; Other Titles: Achieving educational excellence in Alabama; Project to achieve educational excellence in Alabama
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Education Study Commission Report
+V1  - 1
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1972
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama Education Study Commission
+T1  - Tentative report of the Committee on Financing Education, Including the Minimum Program
+Y1  - 1958
+D1  - 12/1958
+SP  - 68
+KW  - School finance
+N1  - iv; ; 28 cm.; Note(s): December, 1958
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama Education Study Commission
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1958
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Estimated cost to modernize school plant facilities in Alabama
+Y1  - 1954
+D1  - 1954
+SP  - 151
+KW  - School buildings
+N1  - 151 pages : illustrations.; Responsibility: compiled by Division of Administration and Finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama Department of Education Bulletin
+V1  - 7
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1954
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Accreditment standards for secondary schools in Alabama
+Y1  - 1954
+D1  - 1954
+SP  - 47
+KW  - Accreditation
+N1  - [vi]; ges ; 21 cm.; Note(s): At head of title: State of Alabama, Department of Education, Montgomery
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Bulletin
+V1  - 10
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1954
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Larson, James Edward
+A1  - Cloutier, Daniel Raymond
+A2  - Alabama State Legislature Tax Study Committee
+T1  - Financing education in Alabama; a special report of the Committee on the Revision of State Tax Laws
+Y1  - 1957
+D1  - 1957
+SP  - 22
+KW  - School finance
+N1  - 22 p. 28 cm.; Note(s): "Represents the findings and recommendations of the Subcommittee on Financing Education."--P. iii./ Research staff: James E. Larson, Daniel R. Cloutier
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Legislature Tax Study Committee
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1957
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Using resources of the community to build a school program
+Y1  - 1950
+D1  - 1950
+SP  - 118
+KW  - Community and school
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Instructional series bulletin
+V1  - 12
+T1  - Alabama State Department of Education bulletin 
+V1  - 4
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1950
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - The administration and organization of education in-service in Alabama with emphasis on four school systems
+Y1  - 1948
+D1  - 1948
+SP  - 307
+KW  - Education
+N1  - viii; ges.; Note(s): Includes bibliographical references (pages 303-307)
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Bulletin
+V1  - 5
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1948
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Feeding children in the nursery school
+Y1  - 1945
+D1  - 1945
+SP  - 89
+KW  - School children
+KW  - Food service
+N1  - 89 pages 23 cm.; Responsibility: Authorized by the State Board of Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Bulletin
+V1  - 3
+ED  - 3d revision
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1945
+SC  - Alabama
+G1  - Prek
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Guide for curriculum reorganization in teacher education
+Y1  - 1940
+D1  - 1940
+SP  - 44
+KW  - Teachers colleges
+KW  - Curricula
+KW  - Teacher training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Teacher education bulletin
+V1  - 2
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1940
+SC  - Alabama
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Program of studies and guide to the curriculum for secondary schools; policies, regulations, and accreditment standards governing high schools. Alabama curriculum development program
+Y1  - 1941
+D1  - 1941
+SP  - 270
+KW  - Curricula 
+KW  - Secondary education
+N1  - xii; ges 23 cm.; Note(s): At head of title: State of Alabama. Dept. of education. Division of instruction, Montgomery./ "Selective bibliography": pages 253-270.; Other Titles: Alabama curriculum development program; Responsibility: Authorized by the State board of education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Curriculum bulletin
+V1  - 9
+T2  - Alabama State Department of Education bulletin
+V1  - 6
+PB  - Alabama State Department of Education
+CY  - Montgomery. AL
+LA  - English
+CN  - 379.74 .A1 1941
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Planning the core curriculum in the secondary school. Alabama curriculum development program
+Y1  - 1939
+D1  - 1939
+SP  - 71
+KW  - Curricula
+KW  - Secondary education
+N1  - vii; ges 24 cm.; Note(s): At head of title: State of Alabama. Department of education. Division of instruction. Montgomery./ "Prepared, for the most part, by the Alabama committee working in the Curriculum laboratory of Peabody college during the summer of 1939"--Page v./ Includes bibliographical references (pages 63-71).; Other Titles: Alabama curriculum development program.; Responsibility: Authorized by the State board of education, 1939.
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Curriculum bulletin
+V1  - 7
+T2  - Alabama State Department of Education Bulletin 
+V1  - 2
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1939
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Program of studies and standards for organization of junior high schools
+Y1  - 1932
+D1  - 1932
+SP  - 29
+KW  - Junior high schools
+N1  - 30 pages 23 cm.; Note(s): At head of title: State of Alabama. Department of Education. Montgomery. Division of Secondary Education.; Responsibility: Authorized by State Board of Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Bulletin
+V1  - 5
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1932
+SC  - Alabama
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - A guide to the improvement of the curriculum
+Y1  - 1938
+D1  - 1938
+SP  - 264
+KW  - Curricula
+N1  - viii; ges 24 cm.; Note(s): At head of title: State of Alabama. Department of education, Montgomery./ "Alabama curriculum development program."--Page 1./ "Prepared for the most part by a committee of teachers working in the Curriculum laboratory at George Peabody college."--Page v./ Includes bibliographical references./ "General bibliography for improvement of the curriculum": pages 250-264.; Other Titles: Alabama curriculum development program.; Responsibility: Division of instruction. Authorized by the State board of education, 1938
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education bulletin 
+V1  - 8
+T2  - Alabama State Department of Education Curriculum bulletin
+V1  - 5
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1938
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Occupational studies for junior high school boys Revision
+Y1  - 1930
+D1  - 1930
+SP  - 75
+KW  - Vocational education
+N1  - 75 pages 23 cm; Note(s): At head of title: State of Alabama. Department of education, Montgomery. Division of secondary education./ Includes bibliographical references./ Includes bibliographical references (pages 73-74).; Responsibility: Authorized by State board of education, July 1, 1930
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Birmingham, AL
+LA  - English
+CN  - 379.74 .A1 1930
+SC  - Alabama
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Rules and regulations for county high schools. : Program of studies and adopted textbooks for county and rural high schools. Minimum content of courses of study for Alabama public high schools
+Y1  - 1929
+D1  - 1929
+SP  - 47
+KW  - Curricula
+N1  - 47 pages ; 23 cm; Note(s): #Professional reading for high school principals and teachers": pages 42-46.; Responsibility: Authorized by the State Board of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1929
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Earnest, Joseph Cullen
+A2  - Alabama Polytechnic Institute
+T1  - Status of county-teachers in Alabama. Preliminary report--A survey of the professional, social, cultural, and economic status of teachers in fifteen representative counties of Alabama in 1935-6
+Y1  - 1939
+D1  - 1939
+SP  - 28
+KW  - Teachers
+N1  - 3 p. l., 28 numb. l. 28 cm.; Note(s): "Preliminary report by J. Cullen Earnest": 2d prelim. leaf./ Mimeographed.; Other Titles: County-teachers in Alabama, Status of
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama Polytechnic Institute
+CY  - Auburn, AL
+LA  - English
+CN  - 379.74 .A1 1939
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Program of studies and adopted textbooks for county and rural high schools. Minimum content of courses of study for Alabama public high schools. Rules and regulations for county high schools
+Y1  - 1928
+D1  - 1928
+SP  - 30
+KW  - Curricula
+KW  - High schools
+N1  - 30 pages, 1 leaf 23 cm; Note(s): At head of title: Department of education, state of Alabama.; Responsibility: Authorized by the State board of education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Birmingham, AL
+LA  - English
+CN  - 379.74 .A1 1928
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Guide for administrative officers (revised) Part I. Vocational education. A. Agricultural education. B. Home making education. C. Trade and industrial education. Part II--Civilian rehabilitation service 1928
+Y1  - 1928
+D1  - 1938
+SP  - 29
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev.
+PB  - Alabama State Department of Education
+CY  - Birmingham, AL
+LA  - English
+CN  - 379.74 .A1 1928
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Program of studies and adopted textbooks for county and rural high schools; minimum content of courses of study for Alabama public high schools; rules and regulations for county high schools
+Y1  - 1925
+D1  - 1925
+SP  - 32
+KW  - Curricula
+KW  - Textbooks
+N1  - 32 pages 23 cm; Note(s): At head of title: Department of education. State of Alabama.; Responsibility: July 1, 1925. Authorized by the State board of education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Birmingham, AL
+LA  - English
+CN  - 379.74 .A1 1925
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Legislature
+T1  - Report of the Joint Recess Committee on Text Books 
+Y1  - 1927
+D1  - 06/1927
+SP  - 83
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Legislative document
+V1  - 9
+PB  - Alabama State Legislature
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1927
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Legislature
+T1  - Information pertaining to the Alabama School of Trades and Industries : located at Gadsden, Alabama, and discussions before the Joint Legislative Finance and Taxation Committee
+Y1  - 1927
+D1  - 07/1927
+SP  - 63
+KW  - Vocational education
+KW  - Alabama School of Trades and Industries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Legislative document
+V1  - 26
+PB  - Alabama State Legislature
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1927
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Legislature
+T1  - Report of the Joint Recess Committee on Alabama School of Trades and Industries : June 7, 1927
+Y1  - 1927
+D1  - 07/1927
+SP  - 8
+KW  - Vocational education
+KW  - Alabama School of Trades and Industries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Legislative document
+V1  - 24
+PB  - Alabama State Legislature
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1927
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Legislature
+T1  - Report of the Recess Committee on State Training School for Girls and Other Institutions of Like Character
+Y1  - 1927
+D1  - 06/1927
+SP  - 8
+KW  - Reformatories
+N1  - 8 p. ; 23 cm.; Note(s): At head of title: In the Legislature of the state of Alabama, Session, 1927, Legislative document no. 22
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Legislative document 
+V1  - 22
+PB  - Alabama State Legislature
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1927
+SC  - Alabama
+M1  - Book, Whole
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Report on illiteracy by Division of Exceptional Education
+Y1  - 1927
+D1  - 1927
+SP  - 31
+KW  - Literacy
+N1  - 31 pages including tables 23 cm; Note(s): At head of title: Department of Education. State of Alabama.; Responsibility: Authorized by the State Board of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Birmingham, AL
+LA  - English
+CN  - 379.74 .A1 1927
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A1  - Ward, T. B.
+A2  - Alabama State Legislature
+T1  - Report of the Joint Recess Committee on Education
+Y1  - 1927
+D1  - 07/1927
+SP  - 30
+KW  - School finance
+N1  - 30 p. ; 23 cm.; Note(s): At head of title: In the Legislature of the state of Alabama. Session, 1927./ Signed at end: T.B. Ward, chairman ... [et al.]./ "June 7, 1927."
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Legislative document
+V1  - 19
+PB  - Alabama State Legislature
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1927
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - State manual of the course of study for the public elementary schools of Alabama
+Y1  - 1910
+D1  - 1910
+SP  - 255
+KW  - Curricula
+N1  - 255 pages ; 23 cm; Responsibility: issued by the Department of Education. 
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1910
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - A manual for the county high schools of Alabama
+Y1  - 1910
+D1  - 1910
+SP  - 135
+KW  - Curricula
+KW  - School management and organization
+N1  - 135 pages 23 cm; Responsibility: Issued by the Department of Education, Montgomery, Ala. 
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1910
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Legislature
+T1  - Report of the Joint Recess Legislative Committee on Education : July 13, 1923
+Y1  - 1923
+D1  - 07/1923
+SP  - 83
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Legislative document 
+V1  - 10
+PB  - Alabama State Legislature
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1923
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - General public school laws of Alabama, 1915
+Y1  - 1915
+D1  - 1915
+SP  - 192
+KW  - Educational law and legislation
+N1  - 192 pages 23 cm; Note(s):  General Info: Alabama.; General public school laws of Alabama, 1915.; Montgomery, Ala., The Brown Printing Company, State Printers and Binders, 1915; Responsibility: Issued by Department of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1915
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Alabama course of study, vol. 1, grades 7-12
+Y1  - 1964
+D1  - 1964
+SP  - 482
+KW  - Curricula
+KW  - Secondary education
+N1  - xiii; ges : illustrations ; 23 cm.; Responsibility: approved by State Board of Education.
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Bulletin
+V1  - 7
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1964
+SC  - Alabama
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - 1942 supplement to the state course of study for elementary and secondary schools
+Y1  - 1942
+D1  - 1942
+SP  - 36
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Curriculum bulletin
+V1  - 10
+T2  - Alabama State Department of Education bulletin
+V1  - 6
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1942
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Course of study and guide for teachers grades 1-12
+Y1  - 1950
+D1  - 1950
+SP  - 459
+KW  - Curricula
+N1  - xx; ges : illustrations ; 23 cm.; Note(s): Includes bibliographical references (pages 444-449).; Responsibility: authorized by State Board of Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education Instructional series bulletin
+V1  - 11
+T2  - Alabama State Department of Education bulletin
+V1  - 3
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1950
+SC  - Alabama
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Course of study for elementary schools
+Y1  - 1924
+D1  - 1924
+SP  - 160
+KW  - Curricula
+N1  - 160 pages illustrations 23 cm.; Responsibility: Authorized and approved by the State board of education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education
+V1  - 35
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1924
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - State manual of the course of study for the public elementary schools of Alabama
+Y1  - 1913
+D1  - 1913
+SP  - 190
+KW  - Curricula
+N1  - 190 pages ; 23 cm.; Responsibility: issued by the Department of Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Alabama State Department of Education
+V1  - 35
+ED  - Rev.
+PB  - Alabama State Department of Education
+CY  - Montgomery, AL
+LA  - English
+CN  - 379.74 .A1 1913
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alabama State Department of Education
+T1  - Course of study for elementary schools
+Y1  - 1930
+D1  - 1930
+SP  - 903
+KW  - Curricula
+N1  - 903 pages ; 23 cm; Note(s): At head of title: State of Alabama. Department of education, Montgomery. Division of teacher training, certification and elementary education.; Responsibility: Authorized by the State board of education, 1930
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alabama State Department of Education
+CY  - Birmingham, AL
+LA  - English
+CN  - 379.74 .A1 1930
+SC  - Alabama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cunningham, J.B.
+T1  - History of the high school
+SP  - 30
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Guide publishing company
+CY  - Birmingham, AL
+LA  - English
+CN  - 379.74 .A1 
+SC  - Alabama
+ER  - 
