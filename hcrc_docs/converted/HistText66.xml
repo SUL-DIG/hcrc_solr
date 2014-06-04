@@ -1655,5 +1655,209 @@
         <field name="call_number">745 .I18L</field>
         <field name="state_country">Idaho</field>
     </doc>
+<doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kansas City (Missouri) Public Schools</field>
+        <field name="title">A teacher's guide to crafts, ninth grade</field>
+        <field name="year">1950</field>
+        <field name="date">09/1950</field>
+        <field name="pages">80</field>
+        <field name="keywords">Handicraft</field>
+        <field name="publisher">Kansas City (Missouri) Public Schools</field>
+        <field name="pub_place">Kansas City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .K16c</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kansas City (Missouri) Public Schools</field>
+        <field name="title">Crafts for elementary schools</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">22</field>
+        <field name="keywords">Handicraft</field>
+        <field name="series_title">Kansas City (Missouri) Public Schools. Bulletin</field>
+        <field name="series_vol">75</field>
+        <field name="publisher">Kansas City (Missouri) Public Schools</field>
+        <field name="pub_place">Kansas City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .K16ce</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District. Instructional
+            Planning Branch</field>
+        <field name="title">Supplement to Art for junior high school : an instructional
+            bulletin</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">16</field>
+        <field name="keywords">Art</field>
+        <field name="notes">16 p. ; 28 cm.; Other Titles: Art for junior high school.</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">SC-664</field>
+        <field name="publisher">Los Angeles (California) City School District. Instructional
+            Planning Branch</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .L87s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Merced County (California) Schools</field>
+        <field name="title">Art suggestions</field>
+        <field name="year">1949</field>
+        <field name="date">03/1949</field>
+        <field name="pages">19</field>
+        <field name="keywords">Art</field>
+        <field name="publisher">Merced County (California) Schools</field>
+        <field name="pub_place">Merced, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .M55a</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Moore, Frank C.</field>
+        <field name="author_nat">Frank C. Moore</field>
+        <field name="author">Hamburger, Carl H.</field>
+        <field name="author_nat">Carl H. Hamburger</field>
+        <field name="author">Kingzett, Anna-Laura</field>
+        <field name="author_nat">Anna-Laura Kingzett</field>
+        <field name="title">Make it yourself [a craftbook for beginners]</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">96</field>
+        <field name="keywords">Handicraft</field>
+        <field name="keywords">Manual training</field>
+        <field name="notes">96 p. ill.; Note(s): "Primarily for boys and girls between the ages of
+            six and twelve."; Responsibility: by Frank C. Moore and others.</field>
+        <field name="publisher">D.C. Heath and Company</field>
+        <field name="pub_place">Boston, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .M82m</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Creative crafts</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">80</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">80 p. illus. 28 cm.; Note(s): "A supplement to Art education, grades
+            7-8-9."</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N52c</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Industrial Arts
+            Education</field>
+        <field name="title">Industrial arts syllabus in general ceramics</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">69</field>
+        <field name="keywords">Ceramics</field>
+        <field name="notes">ill. ; 23 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes
+            bibliographical references (p. 68-69).; Other Titles: Syllabus in general ceramics;
+            General ceramics; Industrial arts :; general ceramics syllabus</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N52g</field>
+        <field name="state_country">New York</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Puppetry in the curriculum : a manual on puppets, marionettes, shadow
+            figures, and masks for the elementary and junior high school years</field>
+        <field name="year">1947</field>
+        <field name="date">1947-1948</field>
+        <field name="pages">171</field>
+        <field name="keywords">Puppet theater in education</field>
+        <field name="notes">xi; ill. ; 23 cm.; Note(s): Includes bibliographical references (p.
+            157-165).</field>
+        <field name="series_title">New York City Board of Education. Curriculum bulletin ;;
+            1947-1948 ser.</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .N53p</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Elementary</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Weissenfluh, Lyle E.</field>
+        <field name="author_nat">Lyle E. Weissenfluh</field>
+        <field name="author">Keller, Byron J.</field>
+        <field name="author_nat">Byron J. Keller</field>
+        <field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+        <field name="title">Ceramics as an area of industrial arts instruction in Pennsylvania
+            public schools</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">94</field>
+        <field name="keywords">Ceramics</field>
+        <field name="notes">vii; ges : illustrations, maps ; 23 cm.; Note(s): "Supplements
+            Industrial arts in Pennsylvania, Bulletin 331, published in 1951."/ "Instructional aids:
+            books, magazines, trade publications, films and filmstrips": pages 64-77.;
+            Responsibility: Lyle E. Weissenfluh and Byron J. Keller.</field>
+        <field name="series_title">Pennsylvania State Department of Public Instruction. Bulletin
+            [new series]</field>
+        <field name="series_vol">331B</field>
+        <field name="publisher">Pennsylvania State Department of Public Instruction</field>
+        <field name="pub_place">Harrisburg, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .P41c</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">Arts and crafts ideas for the high school mentally retarded
+            students</field>
+        <field name="year">1968</field>
+        <field name="title">1968</field>
+        <field name="pages">27</field>
+        <field name="keywords">Children with mental disabilities</field>
+        <field name="keywords">Art</field>
+        <field name="keywords">Handicraft</field>
+        <field name="notes">27 leaves : ill. ; 28 cm.; Note(s): Cover title.</field>
+        <field name="series_title">Portland (Oregon) Public Schools. Curriculum publication</field>
+        <field name="series_vol">SpE 1-21</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">745 .P85a</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
 
 </add>
