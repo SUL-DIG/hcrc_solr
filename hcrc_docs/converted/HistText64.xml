@@ -1179,7 +1179,7 @@
         <field name="state_country">Washington</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Utah State Department of Public Instruction</field>
         <field name="title">Art : elementary schools of Utah</field>
@@ -1195,7 +1195,7 @@
         <field name="call_number">740 .U89a</field>
         <field name="state_country">Utah</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
