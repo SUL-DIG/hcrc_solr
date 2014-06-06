@@ -771,7 +771,8 @@
         <field name="keywords">Art</field>
         <field name="publisher">Santa Clara County (California) Superintendent of Schools</field>
         <field name="language">English</field>
-        <field name="state_country">740 .S23s</field>
+        <field name="state_country">California</field>
+            <field name="call_number">740 .S23s</field>
     </doc>
 
     <doc>

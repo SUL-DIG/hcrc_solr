@@ -650,7 +650,7 @@
         <field name="pub_place">Montgomery, AL</field>
         <field name="language">English</field>
         <field name="call_number">379.74 .A1 1927</field>
-        <field name="state_country">Alabama M1 - Book, Whole</field>
+        <field name="state_country">Alabama</field>
     </doc>
 
     <doc>
