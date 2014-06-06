@@ -641,7 +641,7 @@
         <field name="state_country">California</field>
    </doc>-->
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">California State Department of Education. Bureau of Trade and
             Industrial Education. Instructional Materials Laboratory</field>
@@ -661,7 +661,7 @@
         <field name="language">English</field>
         <field name="call_number">690 .C15cp v. 7</field>
         <field name="state_country">California</field>
-   </doc>-->
+   </doc>
 
     <!--<doc>
         <field name="type">Book</field>
