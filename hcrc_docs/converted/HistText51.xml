@@ -851,7 +851,7 @@
         <field name="state_country">Texas</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Spears, Lewis</field>
         <field name="author_nat">Lewis Spears</field>
@@ -1053,7 +1053,7 @@
         <field name="author">Kilander, Holger Frederick</field>
         <field name="author_nat">Holger Frederick Kilander</field>
         <field name="title">Teacher education for the improvement of school health programs : a
-            summary report of two demonstration workshops -\- suggested standards for the
+            summary report of two demonstration workshops -- suggested standards for the
             professional health education of teachers</field>
         <field name="year">1948</field>
         <field name="date">1948</field>
@@ -1100,7 +1100,7 @@
         <field name="grade_level_number">7th grade</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Virginia State Department of Education</field>
         <field name="corp_author">Virginia State Department of Health</field>
