@@ -75,7 +75,7 @@
         <field name="call_number">613.2 .N27n</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">New York City Board of Education</field>
         <field name="title">Practical nursing for high schools</field>
@@ -93,7 +93,7 @@
         <field name="call_number">613.2 .N53p</field>
         <field name="state_country">New York</field>
         <field name="grade_level_group">High school</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
