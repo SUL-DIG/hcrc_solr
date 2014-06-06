@@ -349,7 +349,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">White, Natalie</field>
         <field name="author_nat">Natalie White</field>
@@ -371,7 +371,7 @@
         <field name="year">1968</field>
         <field name="date">1968</field>
         <field name="keywords">Carpentry</field>
-        <field name="abstract">Contents -\- v. 1. Course in carpentry [and] tests.</field>
+        <field name="abstract">Contents -- v. 1. Course in carpentry [and] tests.</field>
         <field name="edition">1968 edition</field>
         <field name="publisher">California State Department of Education</field>
         <field name="pub_place">Sacramento, CA</field>
@@ -396,7 +396,7 @@
         <field name="language">English</field>
         <field name="call_number">690 .C15b v. 5</field>
         <field name="state_country">California</field>
-   </doc>-->
+   </doc>
 
     <!--<doc>
         <field name="type">Book</field>
