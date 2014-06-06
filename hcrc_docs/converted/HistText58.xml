@@ -468,10 +468,10 @@
         <field name="state_country">New York</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">University of Connecticut</field>
-        <field name="title">Values-\-so what?</field>
+        <field name="title">Values--so what?</field>
         <field name="year">1954</field>
         <field name="date">1954</field>
         <field name="pages">43</field>
@@ -934,7 +934,7 @@
         <field name="grade_level_number">10th grade</field>
         <field name="grade_level_number">11th grade</field>
         <field name="grade_level_number">12th grade</field>
-   </doc>-->
+   </doc>
 
     <!--<doc>
         <field name="type">Book</field>
