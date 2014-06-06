@@ -1288,7 +1288,7 @@
         <field name="call_number">613 .W77t</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Wisconsin Cooperative School Health Program</field>
         <field name="corp_author">Wisconsin State Board of Health</field>
@@ -1332,4 +1332,4 @@
         <field name="call_number">613 .W81h</field>
         <field name="state_country">Wisconsin</field>
     </doc>
---></add>
+</add>
