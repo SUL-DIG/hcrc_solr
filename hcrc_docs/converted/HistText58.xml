@@ -360,7 +360,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Wisconsin Cooperative Educational Planning Program</field>
         <field name="title">Resource units in clothing</field>
@@ -370,18 +370,17 @@
         <field name="keywords">Home economics</field>
         <field name="keywords">Clothing and dress</field>
         <field name="keywords">Sewing</field>
-        <field name="notes">ill. ; 28 cm.; Note(s): "December, 1952"-\-Cover./ Includes
+        <field name="notes">ill. ; 28 cm.; Note(s): "December, 1952"--Cover./ Includes
             bibliographical references (p. 64-68).</field>
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
             bulletin</field>
         <field name="series_vol">24</field>
-        <field name="series_title">Wisconsin home economics curriculum bulletin</field>
         <field name="publisher">Wisconsin Cooperative Education Planning Program</field>
         <field name="pub_place">Madison, WI</field>
         <field name="language">English</field>
         <field name="call_number">646 .W81r</field>
         <field name="state_country">Wisconsin</field>
-   </doc>-->
+   </doc>
 
     <!--<doc>
         <field name="type">Book</field>
