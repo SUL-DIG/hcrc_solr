@@ -1217,7 +1217,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Virginia State Board of Education</field>
         <field name="title">Art education for secondary schools; a tentative guide to curriculum
@@ -1240,7 +1240,7 @@
         <field name="call_number">740 .V81s</field>
         <field name="state_country">Virginia</field>
         <field name="grade_level_group">High school</field>
-    </doc>
+    </doc>-->
 
     <doc>
         <field name="type">Book</field>
