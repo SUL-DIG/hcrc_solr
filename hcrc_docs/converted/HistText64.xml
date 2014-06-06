@@ -1217,7 +1217,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Virginia State Board of Education</field>
         <field name="title">Art education for secondary schools; a tentative guide to curriculum
@@ -1231,8 +1231,7 @@
             regulations which contribute to the development of art education": p. 164-170./ Includes
             bibliographical references (pages 147-163).; Responsibility: [Edited by Sara Joyner,
             State Supervisor of Art Education].</field>
-        <field name="series_title">Art and youth</field>
-        <field name="series_title">Virginia. State Board of Education. Bulletin</field>
+        <field name="series_title">Art and youth, Virginia. State Board of Education. Bulletin</field>
         <field name="series_vol">38</field>
         <field name="issue">6</field>
         <field name="publisher">Virginia State Board of Education</field>
@@ -1241,7 +1240,7 @@
         <field name="call_number">740 .V81s</field>
         <field name="state_country">Virginia</field>
         <field name="grade_level_group">High school</field>
-    </doc>-->
+    </doc>
 
     <doc>
         <field name="type">Book</field>
