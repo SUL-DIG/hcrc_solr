@@ -1271,7 +1271,7 @@
         <field name="state_country">West Virginia</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Winslow, Charles-Edward Amory</field>
         <field name="author_nat">Charles-Edward Amory Winslow</field>
@@ -1286,7 +1286,7 @@
         <field name="pub_place">Chicago, IL</field>
         <field name="language">English</field>
         <field name="call_number">613 .W77t</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
