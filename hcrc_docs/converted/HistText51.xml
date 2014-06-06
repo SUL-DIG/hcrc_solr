@@ -1203,7 +1203,7 @@
         <field name="state_country">Ohio</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Washington State Superintendent of Public Instruction</field>
         <field name="title">Planning for effective education: health and physical education for
@@ -1219,7 +1219,7 @@
         <field name="state_country">Washington</field>
         <field name="grade_level_group">Elementary</field>
         <field name="grade_level_group">Middle school</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
