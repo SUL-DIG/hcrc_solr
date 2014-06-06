@@ -1083,7 +1083,7 @@
         <field name="grade_level_group">High school</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Cleveland (Ohio) Board of Education. Department of Home
             Economics</field>
@@ -1451,7 +1451,7 @@
         <field name="pages">10</field>
         <field name="keywords">Nutrition</field>
         <field name="keywords">Day care centers</field>
-        <field name="notes">10 p. ; 28 cm.; Note(s): Cover title./ "March 1967"-\-P. [1]./ Includes
+        <field name="notes">10 p. ; 28 cm.; Note(s): Cover title./ "March 1967"--P. [1]./ Includes
             bibliographical references (p. 9-10).; Responsibility: [prepared by Florence P.
             Foster].</field>
         <field name="publisher">New Jersey State Department of Education. Division of Curriculum and
@@ -2498,4 +2498,4 @@
         <field name="state_country">California</field>
         <field name="grade_level_number">1st grade</field>
    </doc>
---></add>
+</add>
