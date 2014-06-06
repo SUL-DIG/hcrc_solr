@@ -2212,7 +2212,7 @@
         <field name="state_country">Virginia</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Warwick (Rhode Island) School Department</field>
         <field name="title">The purpose and organization of industrial arts in the Warwick secondary
@@ -2271,7 +2271,7 @@
         <field name="call_number">680 .W36w</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">West Virginia State Department of Education</field>
         <field name="title">Section 10: industrial arts</field>
