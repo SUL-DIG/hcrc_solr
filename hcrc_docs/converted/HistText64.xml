@@ -1231,7 +1231,8 @@
             regulations which contribute to the development of art education": p. 164-170./ Includes
             bibliographical references (pages 147-163).; Responsibility: [Edited by Sara Joyner,
             State Supervisor of Art Education].</field>
-        <field name="series_title">Art and youth, Virginia. State Board of Education. Bulletin</field>
+        <field name="series_title">Art and youth</field>
+        <field name="series_title">Virginia. State Board of Education. Bulletin</field>
         <field name="series_vol">38</field>
         <field name="issue">6</field>
         <field name="publisher">Virginia State Board of Education</field>
@@ -1384,8 +1385,6 @@
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
             bulletin</field>
         <field name="series_vol">9</field>
-        <field name="series_title">Wisconsin Cooperative Educational Planning Program. Art
-            bulletin</field>
         <field name="publisher">Wisconsin State Superintendent of Public Instruction</field>
         <field name="pub_place">Madison, WI</field>
         <field name="language">English</field>
