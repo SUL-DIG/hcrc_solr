@@ -2046,7 +2046,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Texas Education Agency</field>
         <field name="title">A guide for planning industrial arts facilities</field>
@@ -2212,7 +2212,7 @@
         <field name="state_country">Virginia</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Warwick (Rhode Island) School Department</field>
         <field name="title">The purpose and organization of industrial arts in the Warwick secondary
