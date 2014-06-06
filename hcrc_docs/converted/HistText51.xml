@@ -591,7 +591,7 @@
         <field name="state_country">California</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Santa Clara County (California) Health Department. Health
             Education Division</field>
@@ -1053,7 +1053,7 @@
         <field name="author">Kilander, Holger Frederick</field>
         <field name="author_nat">Holger Frederick Kilander</field>
         <field name="title">Teacher education for the improvement of school health programs : a
-            summary report of two demonstration workshops -- suggested standards for the
+            summary report of two demonstration workshops -\- suggested standards for the
             professional health education of teachers</field>
         <field name="year">1948</field>
         <field name="date">1948</field>
@@ -1335,4 +1335,4 @@
         <field name="call_number">613 .W81h</field>
         <field name="state_country">Wisconsin</field>
     </doc>
-</add>
+--></add>
