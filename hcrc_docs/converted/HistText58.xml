@@ -297,7 +297,7 @@
         <field name="state_country">Vermont</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Sweetwater Union High School District (Chula Vista,
             California)</field>
@@ -370,7 +370,7 @@
         <field name="keywords">Home economics</field>
         <field name="keywords">Clothing and dress</field>
         <field name="keywords">Sewing</field>
-        <field name="notes">ill. ; 28 cm.; Note(s): "December, 1952"-\-Cover./ Includes
+        <field name="notes">ill. ; 28 cm.; Note(s): "December, 1952"--Cover./ Includes
             bibliographical references (p. 64-68).</field>
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
             bulletin</field>
@@ -401,7 +401,7 @@
         <field name="state_country">New York</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Committee on Family Financial Security Education</field>
         <field name="title">Family financial security education for mathematics students</field>
