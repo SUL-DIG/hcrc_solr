@@ -93,9 +93,9 @@
         <field name="call_number">613.2 .N53p</field>
         <field name="state_country">New York</field>
         <field name="grade_level_group">High school</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Robinson, Catherine M.</field>
         <field name="author_nat">Catherine M. Robinson</field>
@@ -108,9 +108,9 @@
         <field name="pub_place">San Jose, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.2 .S19h v. 1</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Texas Education Agency. Division of Guidance Services</field>
         <field name="title">Guide for administrators and school nurses in the school health
@@ -130,9 +130,9 @@
         <field name="language">English</field>
         <field name="call_number">613.2 .T35g</field>
         <field name="state_country">Texas</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">United States Federal Security Agency. Division of Vocational
             Education</field>
@@ -149,9 +149,9 @@
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
         <field name="call_number">613.2 .U58p v. 1</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">United States Federal Security Agency. Division of Vocational
             Education</field>
