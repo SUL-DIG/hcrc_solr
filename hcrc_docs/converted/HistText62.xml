@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <add>
 
-
-
-
-    <doc>
+<doc>
         <field name="type">Book</field>
         <field name="corp_author">Cleveland (Ohio) Public Schools. Industrial Arts
             Department</field>
@@ -401,7 +398,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">California State Department of Education</field>
         <field name="title">Course for cement masons. Workbook</field>
@@ -761,4 +758,4 @@
         <field name="call_number">690 .C15cp v. 8</field>
         <field name="state_country">California</field>
    </doc>
-</add>
+--></add>
