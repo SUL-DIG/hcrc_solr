@@ -135,7 +135,7 @@
         <field name="grade_level_number">12th grade</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">New York City Board of Education</field>
         <field name="title">General woodwork shop: teacher's work manual. Based on the course of
@@ -258,7 +258,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Anderson, Alfred</field>
         <field name="author_nat">Alfred Anderson</field>
