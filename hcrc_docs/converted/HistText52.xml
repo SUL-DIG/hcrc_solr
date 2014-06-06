@@ -387,7 +387,7 @@
         <field name="call_number">613.4 .A49f</field>
     </doc>
 
-  <!--  <doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">American Association for Health, Physical Education, and
             Recreation</field>
@@ -441,7 +441,7 @@
         <field name="keywords">Physical education and training</field>
         <field name="keywords">College sports</field>
         <field name="notes">[12] p. ; 23 x 11 cm.; Note(s): Cover title./ "Physical Education
-            Division Committee ... Eloise Jaeger (chairman)"-\-P. [11].; Responsibility: [prepared by
+            Division Committee ... Eloise Jaeger (chairman)"--P. [11].; Responsibility: [prepared by
             a committee of the Physical Education Division of AAHPER].</field>
         <field name="publisher">American Association for Health, Physical Education, and Recreation.
             Physical Education Division</field>
@@ -579,17 +579,17 @@
         <field name="keywords">Horsemanship</field>
         <field name="abstract">pt. I. Basic goals of riding ; Characteristics of a basic position ;
             Design of position ; Styles of holding reins ; Use of the snaffle bridle ; Standing
-            position ; Elementary control -\- pt. II. On a moving horse -\- Teaching the standing
-            position -\- Teaching standing position for riding regular trot and posting -\- Developing
-            confidence and skill at the trot -\- Practice in control at the walk and trot -\- Theory
-            of position -\- Practicing standing position at a walk and trot without holding mane -\-
-            Teaching the position for the jog-trot -\- Use of bearing rein if alternate reining
-            method has been used -\- Circles and turns at regular trot -\- Circles and turns at a jog
-            -\- First trail ride -\- Beginning the lope -\- Mechanics of the walk and aids for
-            increasing speed of the walk -\- Mechanics of regular trot -\- Mechanics of jog-trot -\-
-            Jog-trot and change of speeds -\- Change of speeds at trot for control -\- More trail
-            riding -\- Diagonals -\- Mechanics and leads of a lope -\- Aids for obtaining leads -\- Aids
-            for maintaining the lope -\- Loping on trail rides.</field>
+            position ; Elementary control -- pt. II. On a moving horse -- Teaching the standing
+            position -- Teaching standing position for riding regular trot and posting -- Developing
+            confidence and skill at the trot -- Practice in control at the walk and trot -- Theory
+            of position -- Practicing standing position at a walk and trot without holding mane --
+            Teaching the position for the jog-trot -- Use of bearing rein if alternate reining
+            method has been used -- Circles and turns at regular trot -- Circles and turns at a jog
+            -- First trail ride -- Beginning the lope -- Mechanics of the walk and aids for
+            increasing speed of the walk -- Mechanics of regular trot -- Mechanics of jog-trot --
+            Jog-trot and change of speeds -- Change of speeds at trot for control -- More trail
+            riding -- Diagonals -- Mechanics and leads of a lope -- Aids for obtaining leads -- Aids
+            for maintaining the lope -- Loping on trail rides.</field>
         <field name="notes">69 p. illus. 28 cm.; Responsibility: Illustrated by Norma Mason.</field>
         <field name="publisher">National Riding Committee, Western Division, American Association
             for Health, Physical Education, and Recreation</field>
@@ -705,19 +705,19 @@
         <field name="type">Book</field>
         <field name="corp_author">American Association for Health, Physical Education, and
             Recreation</field>
-        <field name="title">Professional preparation in aquatics education-\-curriculum
+        <field name="title">Professional preparation in aquatics education--curriculum
             guidelines</field>
         <field name="year">1974</field>
         <field name="date">1974</field>
         <field name="pages">148</field>
         <field name="keywords">Aquatic sports</field>
-        <field name="abstract">Professional standards for the physical educator -\- Professional
+        <field name="abstract">Professional standards for the physical educator -- Professional
             standards for the aquatics instructor : General standards for the aquatics instructor ;
             Instructor of swimming ; Instructor of springboard diving ; Instructor of swimming for
             the handicapped ; Instructor of skin and SCUBA diving ; Instructor of small craft and
             open water activity ; Instructor of competitive swimming ; Instructor of synchronized
             swimming ; Instructor of water polo ; Instructor of lifeguarding ; Instructor of
-            aquatics facilities management -\- Professional standards for the aquatics specialist -\-
+            aquatics facilities management -- Professional standards for the aquatics specialist --
             Professional standards for the aquatics administrator.</field>
         <field name="notes">ix; illus. 23 cm.; Genre/Form: Conference proceedings.; Note(s):
             Sponsored by the Aquatics Council of the General Division of AAHPER./ Includes
@@ -1085,7 +1085,7 @@
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
         <field name="call_number">613.4 .A51sp v. 4</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
