@@ -809,7 +809,7 @@
         <field name="grade_level_number">12th grade</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Liewer, Urban J.</field>
         <field name="author_nat">Urban J. Liewer</field>
@@ -1649,7 +1649,7 @@
         <field name="corp_author">Commonwealth of Pennsylvania Department of Public
             Instruction</field>
         <field name="title">Home mechanics as an area of industrial arts instruction in Pennsylvania
-            public schools : subject areas--automotive, ceramics, electricity ..</field>
+            public schools : subject areas-\-automotive, ceramics, electricity ..</field>
         <field name="year">1952</field>
         <field name="date">1952</field>
         <field name="pages">52</field>
@@ -2323,4 +2323,4 @@
         <field name="grade_level_number">5th grade</field>
         <field name="grade_level_number">6th grade</field>
    </doc>
-</add>
+--></add>
