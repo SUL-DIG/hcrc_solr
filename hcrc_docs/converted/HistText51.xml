@@ -1100,7 +1100,7 @@
         <field name="grade_level_number">7th grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Virginia State Department of Education</field>
         <field name="corp_author">Virginia State Department of Health</field>
@@ -1203,7 +1203,7 @@
         <field name="state_country">Ohio</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Washington State Superintendent of Public Instruction</field>
         <field name="title">Planning for effective education: health and physical education for
