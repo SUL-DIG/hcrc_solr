@@ -621,7 +621,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">California State Department of Education. Bureau of Trade and
             Industrial Education. Instructional Materials Laboratory</field>
@@ -632,14 +632,13 @@
         <field name="pages">92</field>
         <field name="keywords">Plumbing</field>
         <field name="keywords">Pipe fitting</field>
-        <field name="pages">154</field>
         <field name="publisher">California State Department of Education. Bureau of Trade and
             Industrial Education</field>
         <field name="pub_place">Sacramento, CA</field>
         <field name="language">English</field>
         <field name="call_number">690 .C15cp v. 10</field>
         <field name="state_country">California</field>
-   </doc>-->
+   </doc>
 
     <doc>
         <field name="type">Book</field>
