@@ -1714,7 +1714,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">California State Department of Education. Bureau of Health
             Education, Physical Education and Recreation</field>
@@ -2156,7 +2156,7 @@
         <field name="state_country">Texas</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Dallas (Texas) Independent School District</field>
         <field name="title">Physical education, health instruction, and driver education and
