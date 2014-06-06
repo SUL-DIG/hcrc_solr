@@ -1881,7 +1881,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Sequoia Union High School District (Redwood City,
             California)</field>
@@ -2046,7 +2046,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Texas Education Agency</field>
         <field name="title">A guide for planning industrial arts facilities</field>
