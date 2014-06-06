@@ -1203,7 +1203,7 @@
         <field name="state_country">Ohio</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Washington State Superintendent of Public Instruction</field>
         <field name="title">Planning for effective education: health and physical education for
@@ -1219,9 +1219,9 @@
         <field name="state_country">Washington</field>
         <field name="grade_level_group">Elementary</field>
         <field name="grade_level_group">Middle school</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Clock, Charles J.</field>
         <field name="author_nat">Charles J. Clock</field>
@@ -1238,9 +1238,9 @@
         <field name="language">English</field>
         <field name="call_number">613 .W50e</field>
         <field name="state_country">Connecticut</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">West Virginia State Department of Education</field>
         <field name="title">Section 8: health</field>
@@ -1256,9 +1256,9 @@
         <field name="language">English</field>
         <field name="call_number">613 .W51h</field>
         <field name="state_country">West Virginia</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">West Virginia State Department of Education</field>
         <field name="title">Sources of health education aids</field>
@@ -1272,9 +1272,9 @@
         <field name="language">English</field>
         <field name="call_number">613 .W51s</field>
         <field name="state_country">West Virginia</field>
-    </doc>
+    </doc>-->
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Winslow, Charles-Edward Amory</field>
         <field name="author_nat">Charles-Edward Amory Winslow</field>
@@ -1289,7 +1289,7 @@
         <field name="pub_place">Chicago, IL</field>
         <field name="language">English</field>
         <field name="call_number">613 .W77t</field>
-    </doc>
+    </doc>-->
 
     <!--<doc>
         <field name="type">Book</field>
