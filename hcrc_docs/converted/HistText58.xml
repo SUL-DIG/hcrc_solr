@@ -194,7 +194,7 @@
         <field name="grade_level_number">8th grade</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">New York City Board of Education</field>
         <field name="title">Home economics: clothing and household fabrics, grades 7, 8, 9</field>
@@ -370,7 +370,7 @@
         <field name="keywords">Home economics</field>
         <field name="keywords">Clothing and dress</field>
         <field name="keywords">Sewing</field>
-        <field name="notes">ill. ; 28 cm.; Note(s): "December, 1952"--Cover./ Includes
+        <field name="notes">ill. ; 28 cm.; Note(s): "December, 1952"-\-Cover./ Includes
             bibliographical references (p. 64-68).</field>
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
             bulletin</field>
@@ -468,7 +468,7 @@
         <field name="language">English</field>
         <field name="call_number">647 .C74p</field>
         <field name="state_country">New York</field>
-   </doc>
+   </doc>-->
 
     <!--<doc>
         <field name="type">Book</field>
