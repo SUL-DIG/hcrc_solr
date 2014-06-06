@@ -100,7 +100,7 @@
         <field name="state_country">Alaska</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska State Legislature</field>
         <field name="title">Report on school support</field>
@@ -224,7 +224,7 @@
         <field name="call_number">279.74 .A2 1966</field>
         <field name="state_country">Alaska</field>
     </doc>
-
+-->
     <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska State Department of Education</field>
