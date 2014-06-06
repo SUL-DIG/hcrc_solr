@@ -1370,7 +1370,7 @@
         <field name="state_country">Kansas</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Wisconsin Cooperative Educational Planning Program</field>
         <field name="title">Drawing and painting as expression : elementary grades</field>
@@ -1380,21 +1380,20 @@
         <field name="keywords">Art</field>
         <field name="keywords">Drawing</field>
         <field name="keywords">Painting</field>
-        <field name="notes">27 pages : illustrations ; 23 cm.; Note(s): "April 1950"-\\-Cover.;
+        <field name="notes">27 pages : illustrations ; 23 cm.; Note(s): "April 1950"-\-Cover.;
             Responsibility: ... prepared by members of the Statewide Art Committee.</field>
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Curriculum
             bulletin</field>
         <field name="series_vol">9</field>
         <field name="series_title">Wisconsin Cooperative Educational Planning Program. Art
             bulletin</field>
-        <field name="series_vol">2</field>
         <field name="publisher">Wisconsin State Superintendent of Public Instruction</field>
         <field name="pub_place">Madison, WI</field>
         <field name="language">English</field>
         <field name="call_number">740 .W81d</field>
         <field name="state_country">Wisconsin</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>-->
+    </doc>
 
     <doc>
         <field name="type">Book</field>
