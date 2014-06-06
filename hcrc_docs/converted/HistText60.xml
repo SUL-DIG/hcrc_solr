@@ -1468,7 +1468,7 @@
         <field name="state_country">New York</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">North Dakota State Department of Public Instruction</field>
         <field name="title">Industrial arts (High school) course of study</field>
@@ -1649,7 +1649,7 @@
         <field name="corp_author">Commonwealth of Pennsylvania Department of Public
             Instruction</field>
         <field name="title">Home mechanics as an area of industrial arts instruction in Pennsylvania
-            public schools : subject areas-\-automotive, ceramics, electricity ..</field>
+            public schools : subject areas--automotive, ceramics, electricity ..</field>
         <field name="year">1952</field>
         <field name="date">1952</field>
         <field name="pages">52</field>
@@ -1667,7 +1667,7 @@
         <field name="state_country">Pennsylvania</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Commonwealth of Pennsylvania Department of Public
             Instruction</field>
