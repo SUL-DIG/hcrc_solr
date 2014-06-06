@@ -1217,7 +1217,7 @@
         <field name="grade_level_group">High school</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Louisiana State Department of Education. Industrial Arts
             Section</field>
@@ -1468,7 +1468,7 @@
         <field name="state_country">New York</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">North Dakota State Department of Public Instruction</field>
         <field name="title">Industrial arts (High school) course of study</field>
