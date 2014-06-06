@@ -332,7 +332,7 @@
         <field name="grade_level_group">Prek</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Alabama State Department of Education</field>
         <field name="title">Guide for curriculum reorganization in teacher education</field>
@@ -393,7 +393,7 @@
         <field name="notes">vii; ges 24 cm.; Note(s): At head of title: State of Alabama. Department
             of education. Division of instruction. Montgomery./ "Prepared, for the most part, by the
             Alabama committee working in the Curriculum laboratory of Peabody college during the
-            summer of 1939"--Page v./ Includes bibliographical references (pages 63-71).; Other
+            summer of 1939"-\-Page v./ Includes bibliographical references (pages 63-71).; Other
             Titles: Alabama curriculum development program.; Responsibility: Authorized by the State
             board of education, 1939. Shelved in Cubberley Library Reading Room</field>
         <field name="series_title">Alabama State Department of Education Curriculum bulletin</field>
@@ -439,9 +439,9 @@
         <field name="pages">264</field>
         <field name="keywords">Curricula</field>
         <field name="notes">viii; ges 24 cm.; Note(s): At head of title: State of Alabama.
-            Department of education, Montgomery./ "Alabama curriculum development program."--Page
+            Department of education, Montgomery./ "Alabama curriculum development program."-\-Page
             1./ "Prepared for the most part by a committee of teachers working in the Curriculum
-            laboratory at George Peabody college."--Page v./ Includes bibliographical references./
+            laboratory at George Peabody college."-\-Page v./ Includes bibliographical references./
             "General bibliography for improvement of the curriculum": pages 250-264.; Other Titles:
             Alabama curriculum development program.; Responsibility: Division of instruction.
             Authorized by the State board of education, 1938. Shelved in Cubberley Library Reading Room</field>
@@ -502,7 +502,7 @@
         <field name="author">Earnest, Joseph Cullen</field>
         <field name="author_nat">Joseph Cullen Earnest</field>
         <field name="corp_author">Alabama Polytechnic Institute</field>
-        <field name="title">Status of county-teachers in Alabama. Preliminary report--A survey of
+        <field name="title">Status of county-teachers in Alabama. Preliminary report-\-A survey of
             the professional, social, cultural, and economic status of teachers in fifteen
             representative counties of Alabama in 1935-6</field>
         <field name="year">1939</field>
@@ -546,7 +546,7 @@
         <field name="corp_author">Alabama State Department of Education</field>
         <field name="title">Guide for administrative officers (revised) Part I. Vocational
             education. A. Agricultural education. B. Home making education. C. Trade and industrial
-            education. Part II--Civilian rehabilitation service 1928</field>
+            education. Part II-\-Civilian rehabilitation service 1928</field>
         <field name="year">1928</field>
         <field name="date">1938</field>
         <field name="pages">29</field>
@@ -918,4 +918,4 @@
         <field name="call_number">379.74 .A1</field>
         <field name="state_country">Alabama</field>
     </doc>
-</add>
+--></add>
