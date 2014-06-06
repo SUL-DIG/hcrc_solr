@@ -1346,7 +1346,7 @@
         <field name="call_number">613.4 .A51t v. 2</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">American Association for Health, Physical Education, and
             Recreation. Division for Girls and Women's Sports</field>
@@ -1440,7 +1440,7 @@
         <field name="call_number">613.4 .A51v</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Anaheim (California) City School District</field>
         <field name="title">Guide to the minimum program of physical education activities, fourth
