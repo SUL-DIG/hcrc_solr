@@ -2271,7 +2271,7 @@
         <field name="call_number">680 .W36w</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">West Virginia State Department of Education</field>
         <field name="title">Section 10: industrial arts</field>
@@ -2323,4 +2323,4 @@
         <field name="grade_level_number">5th grade</field>
         <field name="grade_level_number">6th grade</field>
    </doc>
---></add>
+</add>
