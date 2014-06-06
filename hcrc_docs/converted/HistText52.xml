@@ -2457,7 +2457,7 @@
         <field name="state_country">Florida</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Florida State Department of Education</field>
         <field name="title">Gymnastics</field>
@@ -2615,7 +2615,7 @@
         <field name="date">1975</field>
         <field name="keywords">Curricula</field>
         <field name="keywords">Games</field>
-        <field name="abstract">Recreational games -\- active and quiet.-Self defense
+        <field name="abstract">Recreational games -- active and quiet.-Self defense
             techniques.-Wrestling.</field>
         <field name="notes">1 volume (paged irregularly) ; 28 cm.; Other Titles: Recreational games
             - active and quiet; Self defense techniques; Wrestling; Responsibility: produced for the
@@ -2777,4 +2777,4 @@
         <field name="state_country">Michigan</field>
         <field name="grade_level_group">Elementary</field>
     </doc>
---></add>
+</add>
