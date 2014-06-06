@@ -447,7 +447,7 @@
         <field name="state_country">Texas</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Prairie View Agricultural and Mechanical College</field>
         <field name="title">State Conference Homemaking Teachers</field>
@@ -856,7 +856,7 @@
         <field name="type">Book</field>
         <field name="author">Taylor, Mary Starr</field>
         <field name="author_nat">Mary Starr Taylor</field>
-        <field name="title">A constructive study of interior decoration--a syllabus and a
+        <field name="title">A constructive study of interior decoration-\-a syllabus and a
             view-point</field>
         <field name="year">1932</field>
         <field name="date">08/1932</field>
@@ -1083,7 +1083,7 @@
         <field name="call_number">641 .C63f v. 2</field>
         <field name="state_country">Ohio</field>
         <field name="grade_level_group">High school</field>
-   </doc>
+   </doc>-->
 
     <!--<doc>
         <field name="type">Book</field>
