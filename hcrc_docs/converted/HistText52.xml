@@ -2156,7 +2156,7 @@
         <field name="state_country">Texas</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Dallas (Texas) Independent School District</field>
         <field name="title">Physical education, health instruction, and driver education and
@@ -2377,7 +2377,7 @@
         <field name="keywords">Physical education and training</field>
         <field name="keywords">Movement education</field>
         <field name="notes">v; ges illustrations 25 cm.; Note(s): "Board of Education of the City of
-            Detroit"-\-Title page verso.</field>
+            Detroit"--Title page verso.</field>
         <field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
         <field name="series_vol">4-322 TCH</field>
         <field name="publisher">Detroit (Michigan) Public Schools</field>
@@ -2457,7 +2457,7 @@
         <field name="state_country">Florida</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Florida State Department of Education</field>
         <field name="title">Gymnastics</field>
