@@ -168,7 +168,7 @@
         <field name="state_country">Alabama</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Alabama Education Study Commission</field>
         <field name="title">Objectives and procedures</field>
@@ -259,7 +259,7 @@
         <field name="pages">22</field>
         <field name="keywords">School finance</field>
         <field name="notes">22 p. 28 cm.; Note(s): "Represents the findings and recommendations of
-            the Subcommittee on Financing Education."--P. iii./ Research staff: James E. Larson,
+            the Subcommittee on Financing Education."-\-P. iii./ Research staff: James E. Larson,
             Daniel R. Cloutier. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alabama State Legislature Tax Study Committee</field>
         <field name="pub_place">Montgomery, AL</field>
@@ -330,7 +330,7 @@
         <field name="call_number">379.74 .A1 1945</field>
         <field name="state_country">Alabama</field>
         <field name="grade_level_group">Prek</field>
-    </doc>
+    </doc>-->
 
     <!--<doc>
         <field name="type">Book</field>
