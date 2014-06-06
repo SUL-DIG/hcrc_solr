@@ -95,7 +95,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Robinson, Catherine M.</field>
         <field name="author_nat">Catherine M. Robinson</field>
@@ -108,7 +108,7 @@
         <field name="pub_place">San Jose, CA</field>
         <field name="language">English</field>
         <field name="call_number">613.2 .S19h v. 1</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
