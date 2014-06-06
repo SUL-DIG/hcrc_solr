@@ -132,13 +132,14 @@
         <field name="state_country">Texas</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">United States Federal Security Agency. Division of Vocational
             Education</field>
         <field name="title">Practical nursing : an analysis of the practical nurse occupation with
             suggestions for the organization of training programs</field>
-        <field name="year">1947 C1 - 1947</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
         <field name="pages">144</field>
         <field name="keywords">Practical nursing</field>
         <field name="notes">vi; ill. ; 29 cm.</field>
@@ -149,7 +150,7 @@
         <field name="pub_place">Washington, DC</field>
         <field name="language">English</field>
         <field name="call_number">613.2 .U58p v. 1</field>
-    </doc>-->
+    </doc>
 
     <doc>
         <field name="type">Book</field>
