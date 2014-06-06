@@ -18,7 +18,7 @@
         <field name="state_country">Alaska</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska State Department of Education</field>
         <field name="title">The compiled school laws of the territory of Alaska, and the rules and
@@ -36,7 +36,7 @@
         <field name="language">English</field>
         <field name="call_number">379.74 .A2 1937</field>
         <field name="state_country">Alaska</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
