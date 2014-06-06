@@ -225,7 +225,7 @@
         <field name="state_country">Alaska</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska State Department of Education</field>
         <field name="title">Alaska public school finance program, 1965-66</field>
@@ -442,4 +442,4 @@
         <field name="call_number">379.74 .A2 1960</field>
         <field name="state_country">Alaska</field>
     </doc>
-</add>
+--></add>
