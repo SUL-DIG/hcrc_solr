@@ -315,7 +315,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">University of the State of New York</field>
         <field name="corp_author">Paul Revere Trade School (Rochester, N.Y.)</field>
@@ -334,7 +334,7 @@
         <field name="language">English</field>
         <field name="call_number">646 .R67L</field>
         <field name="state_country">New York</field>
-   </doc>-->
+   </doc>
 
     <!--<doc>
         <field name="type">Book</field>
