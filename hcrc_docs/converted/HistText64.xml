@@ -1396,7 +1396,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>-->
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Wyoming State Department of Education</field>
         <field name="title">Creative art in Wyoming schools, K-12</field>
@@ -1425,5 +1425,5 @@
         <field name="call_number">740 .Y54a</field>
         <field name="state_country">California</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>-->
+    </doc>
 </add>
