@@ -258,7 +258,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Anderson, Alfred</field>
         <field name="author_nat">Alfred Anderson</field>
@@ -349,7 +349,7 @@
         <field name="state_country">California</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">White, Natalie</field>
         <field name="author_nat">Natalie White</field>
