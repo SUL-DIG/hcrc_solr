@@ -812,7 +812,7 @@
         <field name="grade_level_group">Elementary</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Springfield (Missouri) Public Schools</field>
         <field name="title">Art : (junior-senior high school level)</field>
@@ -822,8 +822,7 @@
         <field name="keywords">Art</field>
         <field name="notes">ill. ; 28 cm.; Note(s): Cover title: Secondary school art./ Includes
             bibliographical references (p. 57-60).</field>
-        <field name="series_title">Secondary school art</field>
-        <field name="series_title">Instructional guidelines bulletin</field>
+        <field name="series_title">Secondary school art, Instructional guidelines bulletin</field>
         <field name="series_vol">14</field>
         <field name="publisher">Springfield (Missouri) Public Schools</field>
         <field name="pub_place">Springfield, MO</field>
@@ -832,7 +831,7 @@
         <field name="state_country">Missouri</field>
         <field name="grade_level_group">Middle school</field>
         <field name="grade_level_group">High school</field>
-    </doc>-->
+    </doc>
 
     <doc>
         <field name="type">Book</field>
