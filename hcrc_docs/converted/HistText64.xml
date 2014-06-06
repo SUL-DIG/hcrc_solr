@@ -344,7 +344,7 @@
         <field name="grade_level_group">Middle school</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">St. Louis (Missouri) Department of Instruction</field>
         <field name="title">Art for elementary schools</field>
@@ -357,8 +357,6 @@
         <field name="series_title">Saint Louis public school journal. Research and survey
             series</field>
         <field name="series_vol">17</field>
-        <field name="series_title">Saint Louis public school journal</field>
-        <field name="series_vol">8</field>
         <field name="issue">2</field>
         <field name="edition">Tentative</field>
         <field name="publisher">St. Louis (Missouri) Department of Instruction</field>
@@ -367,7 +365,7 @@
         <field name="call_number">740 .S14a</field>
         <field name="state_country">Missouri</field>
         <field name="grade_level_group">Elementary</field>
-    </doc>-->
+    </doc>
 
     <doc>
         <field name="type">Book</field>
