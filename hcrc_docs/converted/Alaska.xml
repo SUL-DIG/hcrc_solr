@@ -48,8 +48,7 @@
         <field name="pages">68</field>
         <field name="keywords">Educational law and legislation</field>
         <field name="notes">68 p. 23 cm.; Responsibility: comp. by Leo W. Breuer, commissioner of
-            education</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            education. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska Territorial Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -57,7 +56,7 @@
         <field name="state_country">Alaska</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska Committee for the White House Conference on
             Education</field>
@@ -68,15 +67,14 @@
         <field name="keywords">Education</field>
         <field name="notes">ii; 22 cm.; Note(s): Cover title./ "Memorandum" (2 l.) inserted./ "The
             reports of the White House Conference on Education, Washington, D.C., Nov. 28 - Dec. 1,
-            1955" (19 p.) inserted</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            1955" (19 p.) inserted. Shelved in Cubberley Library Reading Room</field>
         <field name="pub_place">N.p</field>
         <field name="language">English</field>
         <field name="call_number">379.74 .A2 1955</field>
         <field name="state_country">Alaska</field>
-    </doc>-->
+    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska State Department of Education</field>
         <field name="title">Manual for school bus transportation : the rules and regulations of the
@@ -88,8 +86,7 @@
         <field name="keywords">School children</field>
         <field name="keywords">Transportation</field>
         <field name="notes">1 volume (various pagings) ; 28 cm.; Note(s): "Rev. April 1,
-            1955."</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            1955." Shelved in Cubberley Library Reading Room</field>
         <field name="series_title">Mimeographed Bulletin</field>
         <field name="series_vol">1</field>
         <field name="edition">Rev</field>
@@ -98,9 +95,9 @@
         <field name="language">English</field>
         <field name="call_number">379.74 .A2</field>
         <field name="state_country">Alaska</field>
-    </doc>-->
+    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska State Legislature</field>
         <field name="title">Report on school support</field>
@@ -125,8 +122,7 @@
         <field name="pages">16</field>
         <field name="keywords">Teachers</field>
         <field name="keywords">Pensions</field>
-        <field name="notes">v. ; 23 cm; Named Corp: Alaska. Teachers' Retirement System</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="notes">v. ; 23 cm; Named Corp: Alaska. Teachers' Retirement System. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska Teachers' Retirement System</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -146,8 +142,7 @@
         <field name="keywords">Education</field>
         <field name="notes">Report summarizing findings and recommendations growing out of a
             co-operative study of public school organization and finance in the state of Alaska,
-            1961</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            1961. Shelved in Cubberley Library Reading Room</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
         <field name="call_number">379.74 .A2 1961</field>
@@ -178,8 +173,7 @@
         <field name="pages">16</field>
         <field name="keywords">School management and organization</field>
         <field name="notes">16, 7 leaves ; 28 cm; Note(s): Cover title.; Responsibility: State of
-            Alaska, State Deparment of Education</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            Alaska, State Deparment of Education. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska State Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -197,8 +191,7 @@
         <field name="pages">7</field>
         <field name="keywords">High school administration</field>
         <field name="notes">7 leaves ; 28 cm; Other Titles: At head of title:; Appendix E;
-            Responsibility: issued by Department of Education</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            Responsibility: issued by Department of Education. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska State Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -224,8 +217,8 @@
         <field name="call_number">279.74 .A2 1966</field>
         <field name="state_country">Alaska</field>
     </doc>
--->
-    <!--<doc>
+
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Alaska State Department of Education</field>
         <field name="title">Alaska public school finance program, 1965-66</field>
@@ -234,8 +227,7 @@
         <field name="pages">5</field>
         <field name="keywords">School finance</field>
         <field name="notes">5 p. ; 19 cm.; Note(s): Caption title./ "June 1966."; Responsibility:
-            prepared by the state departments of education and the U.S. Office of Education</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            prepared by the state departments of education and the U.S. Office of Education. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">United States Department of Health, Education, and Welfare. Office
             of Education, Bureau of Elementary and Secondary Education, Division of State Agency
             Cooperation</field>
@@ -255,8 +247,7 @@
         <field name="keywords">Educational law and legislation</field>
         <field name="notes">iii, 159 l. 29 cm.; Note(s): Cover title./ "Consists of Title 14,
             Education, Alaska statutes, 1962, as amended, revised, or repealed by the session laws
-            through 1966 ... [and] miscellaneous laws from other titles."</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            through 1966 ... [and] miscellaneous laws from other titles." Shelved in Cubberley Library Reading Room</field>
         <field name="edition">4th</field>
         <field name="publisher">Alaska State Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
@@ -274,8 +265,7 @@
         <field name="date">1970</field>
         <field name="pages">44</field>
         <field name="keywords">Educational planning</field>
-        <field name="notes">iii; 28 cm.; Genre/Form: Statistics</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="notes">iii; 28 cm.; Genre/Form: Statistics. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska State Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -325,8 +315,7 @@
         <field name="pages">158</field>
         <field name="keywords">Education</field>
         <field name="notes">ix; illus. 28 cm.; Note(s): Cover title./ Bibliography: p.
-            154-158</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            154-158. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska State Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -345,10 +334,8 @@
         <field name="pages">83</field>
         <field name="keywords">Education</field>
         <field name="notes">Statement of goals and objectives for education in Alaska, wiht emphasis
-            on the needs of native students.</field>
-        <field name="notes">83 p. illus. 22 x 28 cm.; Note(s): Includes bibliographical
-            references</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            on the needs of native students. 83 p. illus. 22 x 28 cm.; Note(s): Includes bibliographical
+            references. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska State Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -366,8 +353,7 @@
         <field name="pages">228</field>
         <field name="keywords">Higher education</field>
         <field name="notes">vi; 28 cm.; Genre/Form: Statistics.; Note(s): "Submitted to the
-            Subcommittee on Higher Education</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            Subcommittee on Higher Education. Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska State Legislature</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -388,8 +374,7 @@
         <field name="keywords">Adult education</field>
         <field name="keywords">Vocational education</field>
         <field name="notes">iv; illus. 28 cm.; Note(s): "Prepared by the staff of the Division of
-            Vocational and Adult Education"</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+            Vocational and Adult Education". Shelved in Cubberley Library Reading Room</field>
         <field name="publisher">Alaska State Department of Education</field>
         <field name="pub_place">Juneau, AK</field>
         <field name="language">English</field>
@@ -442,4 +427,4 @@
         <field name="call_number">379.74 .A2 1960</field>
         <field name="state_country">Alaska</field>
     </doc>
---></add>
+</add>
