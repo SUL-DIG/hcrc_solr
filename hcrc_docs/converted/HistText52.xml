@@ -110,7 +110,7 @@
         <field name="call_number">613.2 .S19h v. 1</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Texas Education Agency. Division of Guidance Services</field>
         <field name="title">Guide for administrators and school nurses in the school health
@@ -130,7 +130,7 @@
         <field name="language">English</field>
         <field name="call_number">613.2 .T35g</field>
         <field name="state_country">Texas</field>
-    </doc>-->
+    </doc>
 
     <!--<doc>
         <field name="type">Book</field>
