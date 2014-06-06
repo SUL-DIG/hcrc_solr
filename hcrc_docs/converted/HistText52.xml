@@ -1086,7 +1086,7 @@
         <field name="call_number">613.4 .A51sp v. 4</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">American Association for Health, Physical Education, and
             Recreation. Division for Girls and Women's Sports</field>
@@ -2377,7 +2377,7 @@
         <field name="keywords">Physical education and training</field>
         <field name="keywords">Movement education</field>
         <field name="notes">v; ges illustrations 25 cm.; Note(s): "Board of Education of the City of
-            Detroit"--Title page verso.</field>
+            Detroit"-\-Title page verso.</field>
         <field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
         <field name="series_vol">4-322 TCH</field>
         <field name="publisher">Detroit (Michigan) Public Schools</field>
@@ -2615,7 +2615,7 @@
         <field name="date">1975</field>
         <field name="keywords">Curricula</field>
         <field name="keywords">Games</field>
-        <field name="abstract">Recreational games -- active and quiet.-Self defense
+        <field name="abstract">Recreational games -\- active and quiet.-Self defense
             techniques.-Wrestling.</field>
         <field name="notes">1 volume (paged irregularly) ; 28 cm.; Other Titles: Recreational games
             - active and quiet; Self defense techniques; Wrestling; Responsibility: produced for the
@@ -2777,4 +2777,4 @@
         <field name="state_country">Michigan</field>
         <field name="grade_level_group">Elementary</field>
     </doc>
-</add>
+--></add>
