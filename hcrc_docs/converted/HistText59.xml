@@ -620,19 +620,18 @@
         <field name="state_country">Ohio</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Los Angeles (California) City School District</field>
         <field name="title">Instructional guide for graphic arts</field>
         <field name="year">1966</field>
         <field name="date">1966</field>
         <field name="keywords">Graphic arts</field>
-        <field name="abstract">[v.1] Junior high school industrial arts.-\-[v.2] Senior high school
+        <field name="abstract">[v.1] Junior high school industrial arts.--[v.2] Senior high school
             industrial arts</field>
         <field name="series_title">Los Angeles (California) City School District.
             Publication</field>
         <field name="series_vol">SC-533</field>
-        <field name="series_vol">SC-618</field>
         <field name="edition">Rev.</field>
         <field name="publisher">Los Angeles (California) City School District</field>
         <field name="pub_place">Los Angeles, CA</field>
@@ -982,7 +981,7 @@
         <field name="author_nat">Janice Merwin</field>
         <field name="author">Margali, Diane</field>
         <field name="author_nat">Diane Margali</field>
-        <field name="title">The mass media-\-miracle or menace? What do you think?</field>
+        <field name="title">The mass media--miracle or menace? What do you think?</field>
         <field name="pages">42</field>
         <field name="keywords">Mass media</field>
         <field name="publisher">Stanford University</field>
@@ -1018,7 +1017,7 @@
         <field name="call_number">656 .A86w</field>
         <field name="state_country">Kansas</field>
         <field name="grade_level_group">Elementary</field>
-   </doc>-->
+   </doc>
 
     <!--<doc>
         <field name="type">Book</field>
