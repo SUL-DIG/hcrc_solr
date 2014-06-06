@@ -938,7 +938,7 @@
         <field name="grade_level_number">12th grade</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Illinois Curriculum Program</field>
         <field name="title">Business education in the secondary school</field>
@@ -1271,7 +1271,7 @@
         <field name="keywords">Business education</field>
         <field name="notes">map ; 20 x 26 cm.; Note(s): "This report was prepared by the Business
             Executives Research Project in cooperation with School of Business Administration,
-            University of North Carolina."--P. 23.; Responsibility: a study sponsored by School of
+            University of North Carolina."-\-P. 23.; Responsibility: a study sponsored by School of
             Business Administration, University of North Carolina, Chapel Hill.</field>
         <field name="publisher">University of North Carolina. School of Business
             Administration</field>
@@ -1335,7 +1335,7 @@
         <field name="pages">33</field>
         <field name="keywords">Business education</field>
         <field name="notes">iv, [i]; ; 28 cm.; Note(s): "Report on current practices in business
-            education, curriculum construction."--P. [i] (2nd group)./ Cover title./ Includes
+            education, curriculum construction."-\-P. [i] (2nd group)./ Cover title./ Includes
             bibliographical references (p. 27-33).; Other Titles: Business education;
             Responsibility: by James L. White.</field>
         <field name="publisher">Curriculum Study, North Carolina State Board of Education</field>
@@ -1897,7 +1897,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Remington Rand Univac</field>
-        <field name="title">Programming--a new profession for you</field>
+        <field name="title">Programming-\-a new profession for you</field>
         <field name="year">1958</field>
         <field name="date">1958</field>
         <field name="pages">32</field>
@@ -1967,4 +1967,4 @@
         <field name="state_country">Virginia</field>
         <field name="grade_level_group">High school</field>
    </doc>
-</add>
+--></add>
