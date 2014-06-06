@@ -809,7 +809,7 @@
         <field name="grade_level_number">12th grade</field>
    </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Liewer, Urban J.</field>
         <field name="author_nat">Urban J. Liewer</field>
@@ -1217,7 +1217,7 @@
         <field name="grade_level_group">High school</field>
    </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Louisiana State Department of Education. Industrial Arts
             Section</field>
