@@ -270,7 +270,7 @@
         <field name="author_nat">Louis B. Wright</field>
         <field name="title">New Interpretations of American colonial history</field>
         <field name="year">1959</field>
-        <field name="title">1959</field>
+        <field name="date">1959</field>
         <field name="pages">22</field>
         <field name="keywords">History</field>
         <field name="keywords">Bibliography</field>
