@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Cohen, Linda</field>
+        <field name="author_nat">Linda Cohen</field>
+        <field name="title">Destiny of North America, the beginnings to 1763</field>
+        <field name="year">1960</field>
+        <field name="date">Winter, 1960</field>
+        <field name="keywords">United States</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296b for Dr. Gross, Winter, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">970 .S78d</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bernstein, Sandra</field>
+        <field name="author_nat">Sandra Bernstein</field>
+        <field name="title">Third grade: a study of Southwest Indian culture centered in the Navaho
+            Tribe</field>
+        <field name="pages">23</field>
+        <field name="keywords">Navajo Indians</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .C15s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Jensen, Lola C.</field>
+        <field name="author_nat">Lola C. Jensen</field>
+        <field name="title">Third grade: a study of Pueblo Indians centered on the Hopis</field>
+        <field name="keywords">Hopi Indians</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .C15sp</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bigart, Robert</field>
+        <field name="author_nat">Robert Bigart</field>
+        <field name="author">Barlow, Earl</field>
+        <field name="author_nat">Earl Barlow</field>
+        <field name="title">The Indian in the classroom; readings for the teacher with Indian
+            students</field>
+        <field name="year">1972</field>
+        <field name="date">08/1972</field>
+        <field name="pages">311</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">viii; 29 cm.; Genre/Form: Bibliography.; Note(s): Includes
+            bibliographical references.; Responsibility: [Edited by Bob Bigart in cooperation with
+            Earl Barlow].</field>
+        <field name="publisher">Montana State Office of the Superintendent of Public
+            Instruction</field>
+        <field name="pub_place">Helena, MT</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .M76i</field>
+        <field name="state_country">Montana</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Fuson, Elgie</field>
+        <field name="author_nat">Elgie Fuson</field>
+        <field name="title">Native Americans; a bibliography for young people</field>
+        <field name="year">1970</field>
+        <field name="date">08/1970</field>
+        <field name="pages">22</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Catalogs</field>
+        <field name="series_title">Sacramento State College Library. Bibliographic series</field>
+        <field name="series_vol">7</field>
+        <field name="publisher">Sacramento State College Library</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .C151n</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Long Beach (California) Public Schools. Office of Curriculum
+            Development</field>
+        <field name="title">Navaho Indians; a unit of work for third grade children</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">218</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Navajo Indians</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">218 p. ill.; Responsibility: [Prepared by Muriel Hendershot and a
+            committee of classroom teachers in cooperation with Neva Hagaman and Hilma Borden.
+            Edited and pub. by Office of Curriculum Development.</field>
+        <field name="publisher">Long Beach Public Schools. Division of Instruction</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .L84n</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="corp_author">New York State Education Department. Bureau of Curriculum
+            Development</field>
+        <field name="title">Living and working in Indian communities : a resource unit for
+            teachers</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">29</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): Includes bibliographical references (p.
+            24-29).</field>
+        <field name="series_title">Elementary school community studies</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">Bureau of Curriculum Development, Division of Elementary Education,
+            New York State Education Department</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .N53L 1949</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York</field>
+        <field name="corp_author">New York State Education Department. Bureau of Curriculum
+            Development</field>
+        <field name="title">Living and working in Indian communities : a resource unit for
+            teachers</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">30</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): Grade 4./ Includes bibliographical
+            references.</field>
+        <field name="series_title">Elementary school community studies</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">University of the State of New York, Bureau of Elementary Curriculum
+            Development</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .N53L 1949</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brouillet, Frank B.</field>
+        <field name="author_nat">Frank B. Brouillet</field>
+        <field name="title">The history and culture of the Indians of Washington State : a
+            curriculum guide</field>
+        <field name="year">1973</field>
+        <field name="date">1973</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">1 v. (various pagings) : maps ; 28 cm.; Genre/Form: Bibliography.;
+            Note(s): Includes bibliographical references.; Responsibility: developed by the TTT
+            Project and the Center for Indian Teacher Education, College of Education, University of
+            Washington, Seattle ; Frank B. Brouillet ... [et al.].</field>
+        <field name="publisher">Washington State Superintendent of Public Instruction</field>
+        <field name="pub_place">Olympia, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .W31h</field>
+        <field name="state_country">Washington</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Griffin, Leonard</field>
+        <field name="author_nat">Leonard Griffin</field>
+        <field name="title">A handbook for the amateur archaeologist</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">84</field>
+        <field name="keywords">Archaeology</field>
+        <field name="keywords">Indians of North America</field>
+        <field name="keywords">Antiquities</field>
+        <field name="notes">iv; ill. ; 28 cm.; Note(s): Includes bibliographical references (p.
+            81-84).; Responsibility: Leonard Griffin ; illustrated by Richard K. Albyn.</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Oakland University, Division of Continuing Education</field>
+        <field name="pub_place">Rochester, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .O11h</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School Districts</field>
+        <field name="title">Instructional guide for teaching about our northern neighbors in
+            Canada</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">147</field>
+        <field name="keywords">Canada</field>
+        <field name="notes">147 p. ; cm; Reprinted 1957.</field>
+        <field name="publisher">Los Angeles (California) City School Districts</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .L87i</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Palo Alto (California) Unified School District</field>
+        <field name="title">The Hopi Indians : a booklet of stories containing supplementary
+            information for third grade</field>
+        <field name="year">1963</field>
+        <field name="date">Spring, 1963</field>
+        <field name="pages">90</field>
+        <field name="keywords">Hopi Indians</field>
+        <field name="notes">xi; ill., maps ; 28 cm.; Genre/Form: Juvenile works.; Note(s): Includes
+            bibliographical references (p. ix).</field>
+        <field name="publisher">Palo Alto (California) Unified School District</field>
+        <field name="pub_place">Palo Alto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">970.1 .P18h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Shipley, Arthur H.</field>
+        <field name="author_nat">Arthur H. Shipley</field>
+        <field name="title">Sixth grade social studies: supplementary unit on the Canadian
+            Rockies</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">8</field>
+        <field name="keywords">Canada</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .F88c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Shipley, Arthur H.</field>
+        <field name="author_nat">Arthur H. Shipley</field>
+        <field name="author">Anderson, Ruth</field>
+        <field name="author_nat">Ruth Anderson</field>
+        <field name="title">Sixth grade social studies: unit on our neighbors to the north</field>
+        <field name="year">1958</field>
+        <field name="date">1958?</field>
+        <field name="pages">34</field>
+        <field name="keywords">Canada</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .F88o</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="title">City of the rivers</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">55</field>
+        <field name="keywords">Winnipeg</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Red River Settlement</field>
+        <field name="keywords">Manitoba</field>
+        <field name="keywords">Canada</field>
+        <field name="notes">55 p. : ill.; rts. ; 27 cm.; Genre/Form: History.; Responsibility:
+            Illustrations by Wilhelm Kaufmann.</field>
+        <field name="publisher">Bureau of travel and publicity, Dept. of Industry and
+            Commerce</field>
+        <field name="pub_place">Winnipeg, Canada</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .M27c</field>
+        <field name="state_country">Canada</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Martin, Gary M.</field>
+        <field name="author_nat">Gary M. Martin</field>
+        <field name="title">Teaching suggestions for Canadian folk songs</field>
+        <field name="year">1965</field>
+        <field name="date">04/1965</field>
+        <field name="pages">14</field>
+        <field name="keywords">Folk music</field>
+        <field name="keywords">Canada</field>
+        <field name="notes">ill., music ; 28 cm.; Note(s): Cover title./ "A collection of folk songs
+            selected to promote understanding of Canadian culture."; Responsibility: prepared by
+            Gary M. Martin.</field>
+        <field name="series_title">University of Oregon, School of Education. Curriculum
+            bulletin</field>
+        <field name="series_vol">21</field>
+        <field name="issue">255</field>
+        <field name="publisher">University of Oregon, School of Education</field>
+        <field name="pub_place">Eugene, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .O66t</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="title">Our neighbors to the north</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">10</field>
+        <field name="keywords">Canada</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .P27o</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bradley, Meredith Lee</field>
+        <field name="author_nat">Meredith Lee Bradley</field>
+        <field name="title">French Canadian civilization</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">49</field>
+        <field name="keywords">Canada</field>
+        <field name="notes">Education 296a, Dr. Gross, 1963</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .S78f</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Stockton Unified School District. Social-Studies
+            Sub-committee</field>
+        <field name="title">Unit on Canada for sixth grade</field>
+        <field name="year">1952</field>
+        <field name="date">03/1952</field>
+        <field name="pages">26</field>
+        <field name="keywords">Canada</field>
+        <field name="publisher">Stockton Unified School District</field>
+        <field name="pub_place">Stockton, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .S86u</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Yolo County (California) Superintendent of Schools</field>
+        <field name="title">Power in today's culture, grade six</field>
+        <field name="year">1950</field>
+        <field name="date">09/1950</field>
+        <field name="pages">31</field>
+        <field name="keywords">Canada</field>
+        <field name="publisher">Yolo County (California) Superintendent of Schools</field>
+        <field name="pub_place">Woodland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .Y54p</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Tait, Dorothy</field>
+        <field name="author_nat">Dorothy Tait</field>
+        <field name="title">Fourth grade: Mexican life study</field>
+        <field name="keywords">Mexico</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .C15m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nance, Afton Dill</field>
+        <field name="author_nat">Afton Dill Nance</field>
+        <field name="title">A study of Mexico and Central America</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">108</field>
+        <field name="keywords">Mexico</field>
+        <field name="keywords">Central America</field>
+        <field name="notes">x; ill. ; 28 cm.; Note(s): "Resource Unit for grade 6."/ "Books and
+            audio-visual materials:" p. 89-l08.; Responsibility: prepared by Afton Dill
+            Nance.</field>
+        <field name="publisher">Pacific Coast Publishers</field>
+        <field name="pub_place">Menlo Park, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .C152s</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Westermark, Tory I.</field>
+        <field name="author_nat">Tory I. Westermark</field>
+        <field name="author">Willard, Ruth A.</field>
+        <field name="author_nat">Ruth A. Willard</field>
+        <field name="title">How do the people of Canada work and live? A social studies unit for
+            upper elementary grades utilizing the problem method</field>
+        <field name="year">1965</field>
+        <field name="date">10/1965</field>
+        <field name="pages">31</field>
+        <field name="keywords">Canada</field>
+        <field name="notes">28 p. 29 cm.; Responsibility: Edited by Ruth A. Willard.</field>
+        <field name="series_title">University of Oregon, School of Education. Curriculum
+            bulletin</field>
+        <field name="series_vol">21</field>
+        <field name="issue">259</field>
+        <field name="publisher">University of Oregon, School of Education</field>
+        <field name="pub_place">Eugene, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">971 .O66h</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno County (California) Schools</field>
+        <field name="title">Sixth grade social studies: unit on Mexico</field>
+        <field name="year">1955</field>
+        <field name="date">03/1955</field>
+        <field name="pages">28</field>
+        <field name="keywords">Mexico</field>
+        <field name="publisher">Fresno County (California) Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .F88m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Davis, John E.</field>
+        <field name="author_nat">John E. Davis</field>
+        <field name="title">Latin America in fiction, fantasy, and folklore; an annotated
+            bibliography</field>
+        <field name="year">1963</field>
+        <field name="date">09/1963</field>
+        <field name="keywords">Historical fiction</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Folklore</field>
+        <field name="keywords">Civilization</field>
+        <field name="keywords">Latin America</field>
+        <field name="notes">14 p.; Genre/Form: Bibliography.</field>
+        <field name="series_title">University of Oregon, School of Education. Curriculum
+            bulletin</field>
+        <field name="series_vol">19</field>
+        <field name="issue">236</field>
+        <field name="publisher">University of Oregon, School of Education</field>
+        <field name="pub_place">Eugene, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .O66L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Garner, Marjorie S.</field>
+        <field name="author_nat">Marjorie S. Garner</field>
+        <field name="author">Singer, Elizabeth</field>
+        <field name="author_nat">Elizabeth Singer</field>
+        <field name="author">Knapp, Shirley H.</field>
+        <field name="author_nat">Shirley H. Knapp</field>
+        <field name="author">Smith, Stephen H.</field>
+        <field name="author_nat">Stephen H. Smith</field>
+        <field name="author">Martens, Betty J.</field>
+        <field name="author_nat">Betty J. Martens</field>
+        <field name="author">Wallace, Ruth V.</field>
+        <field name="author_nat">Ruth V. Wallace</field>
+        <field name="author">Murphy, Michael J.</field>
+        <field name="author_nat">Michael J. Murphy</field>
+        <field name="author">Webb, Mary N.</field>
+        <field name="author_nat">Mary N. Webb</field>
+        <field name="author">Welch, Dorothy J.</field>
+        <field name="author_nat">Dorothy J. Welch</field>
+        <field name="corp_author">Long Beach (California) Unified School District</field>
+        <field name="title">Latin America : a unit of work for sixth grade social studies</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">246</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Mexico</field>
+        <field name="keywords">Brazil</field>
+        <field name="notes">246 p. ; 22 x 28 cm.; Note(s): Includes bibliographical references (p.
+            219-246).; Responsibility: prepared by Marjorie S. Garner ... [et al.].</field>
+        <field name="publisher">Long Beach (California) Unified School District, Office of
+            Curriculum and Instruction</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .L84L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Long Beach (California) Unified School District</field>
+        <field name="title">Life in Mexico: a unit of work for fourth grade children</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">284</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Mexico</field>
+        <field name="publisher">Long Beach (California) Unified School District</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .L84Li</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District. Division of
+            Instructional services</field>
+        <field name="title">Instructional guide : Mexico, social studies, grade six</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">240</field>
+        <field name="keywords">Geography</field>
+        <field name="keywords">Mexico</field>
+        <field name="keywords">History</field>
+        <field name="notes">ill. ; 29 cm.; Responsibility: Los Angeles City Schools, Division of
+            Instructional Services.</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">EC-202</field>
+        <field name="publisher">Los Angeles (California) City School Districts, Division of
+            Instructional Services</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .L87m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Latin America: a general reading list</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Argentina: a reading list</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="keywords">Argentina</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Bolivia: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Bolivia</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Brazil: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Brazil</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Central America: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Central America</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Chile: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Chile</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Colombia: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Colombia</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Cuba: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Cuba</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">The Dominican Republic: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Dominican Republic</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Haiti: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Haiti</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Mexico: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Mexico</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Ecuador: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Ecuador</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Paraguay: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Paraguay</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Peru: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Peru</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pan American Union</field>
+        <field name="title">Uruguay: a reading list</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Uruguay</field>
+        <field name="publisher">Pan American Union</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P18L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools</field>
+        <field name="title">Latin American Neighbors, grade 6</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">10</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .P27L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kelly, James</field>
+        <field name="author_nat">James Kelly</field>
+        <field name="corp_author">River Dell Regional Schools (Oradell, New Jersey)</field>
+        <field name="title">Teaching strategies for Latin American cultural studies in the senior
+            high school</field>
+        <field name="year">1969</field>
+        <field name="date">01/1969</field>
+        <field name="pages">149</field>
+        <field name="keywords">Latin America</field>
+        <field name="notes">149 leaves : ill., maps ; cm; Note(s): Cooperative research project with
+            the U.S. Office of Education/ Bibliography: leaves 129-144; Responsibility: James Kelly,
+            author and assistant project coordinator</field>
+        <field name="publisher">Bergen County Center for Non-Western Studies</field>
+        <field name="pub_place">Oradell, NJ</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .R62t</field>
+        <field name="state_country">New Jersey</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brockett, Lillian</field>
+        <field name="author_nat">Lillian Brockett</field>
+        <field name="author">Kreiss, Hulda</field>
+        <field name="author_nat">Hulda Kreiss</field>
+        <field name="title">Plan for teaching a unit on living in Latin America, grade VI</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">159</field>
+        <field name="keywords">Latin America</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .S19L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Zayakov, T.</field>
+        <field name="author_nat">T. Zayakov</field>
+        <field name="title">Your study guide to the "Latin" Americas</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="keywords">Latin America</field>
+        <field name="notes">Education 296b, Dr. Gross, 1963</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .S78L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Zeisler, Mandy</field>
+        <field name="author_nat">Mandy Zeisler</field>
+        <field name="title">Resource unit on U.S. relations with Latin America: How can U.S.
+            policies guide the developing countries of Latin America towards democratic solutions
+            for their problems?</field>
+        <field name="year">1964</field>
+        <field name="date">01/1964</field>
+        <field name="keywords">Latin America</field>
+        <field name="notes">Education 296, Dr. Gross, January, 1964</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .S78r</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Langguth, Cynthia</field>
+        <field name="author_nat">Cynthia Langguth</field>
+        <field name="title">Unit on Latin America</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="keywords">Latin America</field>
+        <field name="notes">Education 268d, Dr. Gross, 1966</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .S78u</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">United States Office of Education</field>
+        <field name="title">Latin America</field>
+        <field name="year">1954</field>
+        <field name="date">11/1954</field>
+        <field name="pages">11</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Latin America</field>
+        <field name="notes">11 p. ; 27 cm.; Genre/Form: Bibliography.; Note(s): Caption
+            title.</field>
+        <field name="series_title">Teaching aids for developing international understanding</field>
+        <field name="edition">Rev. Nov. 1954</field>
+        <field name="publisher">U.S. Dept. of Health, Education, and Welfare, Office of
+            Education</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">972 .U58L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Willcox, Billie Jo</field>
+        <field name="author_nat">Billie Jo Willcox</field>
+        <field name="author">Slate, Gordon R.</field>
+        <field name="author_nat">Gordon R. Slate</field>
+        <field name="title">How do the people of the West Indies, our island neighbors, participate
+            in the world community? a social studies unit for upper elementary grades utilizing the
+            problem method with emphasis on concepts from the social science disciplines</field>
+        <field name="year">1967</field>
+        <field name="date">02/1967</field>
+        <field name="pages">36</field>
+        <field name="keywords">West Indies</field>
+        <field name="notes">36 p.; Responsibility: by Billie Jo Willcox and Gordon R. Slate. Special
+            editor: Ruth A. Willard.</field>
+        <field name="series_title">University of Oregon. School of Education Curriculum
+            bulletin</field>
+        <field name="series_vol">24</field>
+        <field name="issue">287</field>
+        <field name="publisher">University of Oregon, School of Education</field>
+        <field name="pub_place">Eugene, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">972.9 .O66h</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bartells, Ann</field>
+        <field name="author_nat">Ann Bartells</field>
+        <field name="author">Brewer, Helen</field>
+        <field name="author_nat">Helen Brewer</field>
+        <field name="author">Dandison, May Louise</field>
+        <field name="author_nat">May Louise Dandison</field>
+        <field name="author">Lovegrove, Diane</field>
+        <field name="author_nat">Diane Lovegrove</field>
+        <field name="author">Manning, Marcia</field>
+        <field name="author_nat">Marcia Manning</field>
+        <field name="title">Unit on Puerto Rico</field>
+        <field name="year">1961</field>
+        <field name="date">03/1961</field>
+        <field name="pages">119</field>
+        <field name="keywords">Puerto Rico</field>
+        <field name="notes">Education 144b, Dr. Shaftel, March 16, 1961</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">972.9 .S78u</field>
+    </doc>
+</add>

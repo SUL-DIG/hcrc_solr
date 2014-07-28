@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Bellingham (Washington) Public Schools</field>
+        <field name="title">Man and his resources: resource material for the sixth grade
+            level</field>
+        <field name="pages">85</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">Living in the world today</field>
+        <field name="notes">Produced under the sponsorship of the Social Living Committee Department
+            of Instruction and Curriculum Research</field>
+        <field name="publisher">Bellingham (Washington) Public Schools</field>
+        <field name="pub_place">Bellingham, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .B43m</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chicago (Illinois) Board of Education</field>
+        <field name="title">Economic geography: semester one: a curriculum guide</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">64</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">A curriculum guide for economic geograpy</field>
+        <field name="publisher">Chicago (Illinois) Board of Education</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .C53c v. 1</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chicago (Illinois) Board of Education</field>
+        <field name="title">Economic geography: semester two: a geographic study of the economic
+            development of selected regions of the world</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">92</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">A curriculum guide for economic geograpy</field>
+        <field name="publisher">Chicago (Illinois) Board of Education</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .C53c v. 2</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+        <field name="title">World geography : [grades 9 and 10]</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">260</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">vii; ill. ; 28 cm.; Note(s): Includes bibliographical
+            references.</field>
+        <field name="series_title">Cincinnati (Ohio) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">13</field>
+        <field name="publisher">Cincinnati (Ohio) Public Schools</field>
+        <field name="pub_place">Cincinnati, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .C57w</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Post, Ronald E.</field>
+        <field name="author_nat">Ronald E. Post</field>
+        <field name="author">Metzger, Melvin A.</field>
+        <field name="author_nat">Melvin A. Metzger</field>
+        <field name="corp_author">Cooperative Curriculum Service Center</field>
+        <field name="title">A cultural geography of our changing world</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">305</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Cooperative Curriculum Service Center</field>
+        <field name="pub_place">Centreville, MD</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .C77c</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Covina-Valley (California) Unified School District</field>
+        <field name="title">World geography</field>
+        <field name="year">1962</field>
+        <field name="date">07/1962</field>
+        <field name="pages">55</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">Resource guide for ninth grade social studies</field>
+        <field name="publisher">Covina-Valley (California) Unified School District</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .C87w</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .C87w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Duluth (Minnesota) Public Schools</field>
+        <field name="title">Seventh grade geography</field>
+        <field name="year">1956</field>
+        <field name="date">01/1956</field>
+        <field name="pages">4</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Duluth (Minnesota) Public Schools</field>
+        <field name="pub_place">Duluth, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .D88s</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Association of American Geographers. High School Geography
+            Project</field>
+        <field name="title">Cultural geography: student resources book</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">79</field>
+        <field name="keywords">Urban geography</field>
+        <field name="keywords">City planning</field>
+        <field name="keywords">Cities and towns</field>
+        <field name="series_title">Geography in an urban age.</field>
+        <field name="publisher">Macmillan Publishing Company</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .A84c v. 2</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Association of American Geographers. High School Geography
+            Project</field>
+        <field name="title">Cultural geography: teacher's guide</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">66</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">ill. ; 26 cm.; Other Titles: Teacher's guide for Cultural Geography;
+            Responsibility: prepared by the High School Geography Project of the Association of
+            American Geographers.</field>
+        <field name="series_title">Geography in an urban age.</field>
+        <field name="publisher">Macmillan Publishing Company</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .A84c v. 1</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Association of American Geographers. High School Geography
+            Project</field>
+        <field name="title">Cultural geography: student manual</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">11</field>
+        <field name="keywords">Urban geography</field>
+        <field name="keywords">City planning</field>
+        <field name="keywords">Cities and towns</field>
+        <field name="series_title">Geography in an urban age.</field>
+        <field name="publisher">Macmillan Publishing Company</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .A84c v. 3</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Forth Worth (Texas) Public Schools</field>
+        <field name="title">Social studies grade 9: handbook for teachers of world geography</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">106</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">Forth Worth (Texas) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">310</field>
+        <field name="publisher">Forth Worth (Texas) Public Schools</field>
+        <field name="pub_place">Forth Worth, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .F74s</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ball, John M.</field>
+        <field name="author_nat">John M. Ball</field>
+        <field name="title">Introducing new concepts of geography in the social studies
+            curriculum</field>
+        <field name="year">1970</field>
+        <field name="date">01/1970</field>
+        <field name="pages">46</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">46 leaves ; 28 cm.; Responsibility: by John M. Ball.</field>
+        <field name="series_title">University of Georgia. Geography Curriculum Project. Occasional
+            paper</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">University of Georgia</field>
+        <field name="pub_place">Athens, GA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .G34i</field>
+        <field name="state_country">Georgia</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ball, John M.</field>
+        <field name="author_nat">John M. Ball</field>
+        <field name="title">A bibliography for geographic education</field>
+        <field name="year">1970</field>
+        <field name="date">01/1970</field>
+        <field name="pages">109</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">vii; 28 cm.; Genre/Form: Bibliography.; Responsibility: by John M.
+            Ball.</field>
+        <field name="series_title">Geography Curriculum Project, University of Georgia. Revised
+            publication</field>
+        <field name="series_vol">3</field>
+        <field name="publisher">University of Georgia</field>
+        <field name="pub_place">Athens, GA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .G34b</field>
+        <field name="state_country">Georgia</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Imperatore, William</field>
+        <field name="author_nat">William Imperatore</field>
+        <field name="title">Earth : man's home, a beginning geography unit</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="keywords">Geography</field>
+        <field name="abstract">[1] Pupil workbook and pictorial test. -- [2] Teacher manual.</field>
+        <field name="notes">2 v. : ill. ; 29 cm.; Note(s): Cover title./ Map in pocket of volume
+            one.; Responsibility: William Imperatore.</field>
+        <field name="series_title">University of Georgia. Geography Curriculum Project.
+            Publication</field>
+        <field name="series_vol">1A</field>
+        <field name="series_vol">1BC</field>
+        <field name="publisher">University of Georgia, Research and Development Center in
+            Educational Stimulation</field>
+        <field name="pub_place">Athens, GA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .G34e v. 1-2</field>
+        <field name="state_country">Georgia</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Steinbrink, John E.</field>
+        <field name="author_nat">John E. Steinbrink</field>
+        <field name="corp_author">University of Georgia. Geography Curriculum Project</field>
+        <field name="title">Comparative rural landscapes : a conceptual geographic model</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">137</field>
+        <field name="keywords">Rural geography</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">iii, 18, 137 leaves : ill. ; 28 cm.; Note(s): "Geography curriculum
+            project."; Responsibility: John E. Steinbrink ; cartography by Alice Thiede and Lillian
+            Tatum.</field>
+        <field name="publisher">University of Georgia</field>
+        <field name="pub_place">Athens, GA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .G34c</field>
+        <field name="state_country">Georgia</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">A guide to the teaching of physical geography</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">37</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">A discovery experience approach to generalization relating to
+            physical geography</field>
+        <field name="publisher">Granite School District (Salt Lake City, Utah)</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .G75d</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Grossmont (California) Union High School District</field>
+        <field name="title">Guide for geography instruction, ninth grade</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Grossmont (California) Union High School District</field>
+        <field name="pub_place">Grossmont, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .G87g v. 1</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Gabler, Robert E.</field>
+        <field name="author_nat">Robert E. Gabler</field>
+        <field name="corp_author">National Council for Geographic Education</field>
+        <field name="title">A Handbook for geography teachers</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">273</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">ill., maps ; 27 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: Robert E. Gabler, editor.</field>
+        <field name="series_title">Illinois Superintendent of Public Instruction. Geographic
+            education series</field>
+        <field name="series_vol">6</field>
+        <field name="publisher">Publications Center, National Council for Geographic Education,
+            Illinois State University</field>
+        <field name="pub_place">Normal, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .I291h</field>
+        <field name="state_country">Illinois</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) Superintendent of Schools</field>
+        <field name="title">Geographic materials adopted for use in elementary schools</field>
+        <field name="year">1956</field>
+        <field name="date">06/1956</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Los Angeles (California) Superintendent of Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .L87g</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Grossmont (California) Union High School District</field>
+        <field name="title">World geography test bank</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">81</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">81 l. illus. 29 cm.</field>
+        <field name="series_title">Test bank, world geography.</field>
+        <field name="publisher">Grossmont (California) Union High School District</field>
+        <field name="pub_place">Grossmont, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .G87t</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bartow, Sarah</field>
+        <field name="author_nat">Sarah Bartow</field>
+        <field name="corp_author">Houston (Texas) Independent School District</field>
+        <field name="title">Geography, grade six</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">49</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Houston (Texas) Independent School District</field>
+        <field name="pub_place">Houston, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .H84g</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles County (California) Superintendent of Schools</field>
+        <field name="title">Geographic understandings : a comparative study of man's utilization of
+            his environment in selected regions of the world</field>
+        <field name="year">1967</field>
+        <field name="date">12/1967</field>
+        <field name="pages">113</field>
+        <field name="keywords">Geography</field>
+        <field name="keywords">Social sciences</field>
+        <field name="notes">vii; ill. ; 28 cm.; Note(s): Includes bibliographical
+            references.</field>
+        <field name="series_title">Los Angeles County (California) Superintendent of Schools.
+            Laco</field>
+        <field name="series_vol">109</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Los Angeles County (California) Superintendent of Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .L87gu</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Illinois (Urbana-Champaign)</field>
+        <field name="title">Geography; audio-visual aids service</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">72</field>
+        <field name="keywords">Audio-visual materials</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">University of Illinois (Urbana-Champaign)</field>
+        <field name="pub_place">Champaign, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .I29g</field>
+        <field name="state_country">Illinois</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles County (California) Board of Education</field>
+        <field name="title">Resources for use in the social studies sixth grade: how people live in
+            the western hemisphere</field>
+        <field name="year">1955</field>
+        <field name="date">09/1955</field>
+        <field name="pages">85</field>
+        <field name="keywords">Geography</field>
+        <field name="keywords">Social sciences</field>
+        <field name="series_title">Los Angeles County (California) Board of Education. Curriculum
+            supplement--social studies</field>
+        <field name="series_vol">3</field>
+        <field name="publisher">Los Angeles County (California) Board of Education</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .L87r v. 1</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles County (California) Board of Education</field>
+        <field name="title">Resources for use in the social studies seventh grade: how people live
+            in the eastern hemisphere</field>
+        <field name="year">1955</field>
+        <field name="date">09/1955</field>
+        <field name="pages">85</field>
+        <field name="keywords">Geography</field>
+        <field name="keywords">Social sciences</field>
+        <field name="series_title">Los Angeles County (California) Board of Education. Curriculum
+            supplement--social studies</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">Los Angeles County (California) Board of Education</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .L87r v. 2</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hill, Wilhelmina</field>
+        <field name="author_nat">Wilhelmina Hill</field>
+        <field name="author">National Council for Geographic Education</field>
+        <field name="author_nat"/>
+        <field name="title">Curriculum guide for geographic education</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">162</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">ix; ill. ; 23 cm.; Note(s): Includes bibliographical reference.</field>
+        <field name="series_title">National Council for Geographic Education. Geographic education
+            series</field>
+        <field name="series_vol">3</field>
+        <field name="publisher">National Council for Geographic Education</field>
+        <field name="pub_place">Normal, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .N27c</field>
+        <field name="state_country">Illinois</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">An instructional guide, B7 Geography : a one-semester survey
+            course</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">77</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">Los Angeles (California) City School District.
+            Publication</field>
+        <field name="series_vol">X-40</field>
+        <field name="edition">Experimental</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .L879i</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Christesen, R. E.</field>
+        <field name="author_nat">R. E. Christesen</field>
+        <field name="corp_author">Minnetonka (Minnesota) School District No. 276</field>
+        <field name="title">Human geography: a teacher's guide</field>
+        <field name="year">1961</field>
+        <field name="date">07/1961</field>
+        <field name="pages">37</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Minnetonka (Minnesota) School District No. 276</field>
+        <field name="pub_place">Excelsior, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .M66h</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Montgomery County (Maryland) Public Schools</field>
+        <field name="title">Course of study, seventh grade world geography</field>
+        <field name="year">1958</field>
+        <field name="date">09/1953</field>
+        <field name="pages">100</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">Montgomery County (Maryland) Public Schools. Bulletin</field>
+        <field name="series_vol">117</field>
+        <field name="publisher">Montgomery County (Maryland) Public Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .M78w</field>
+        <field name="state_country">Maryland</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York (State) Bureau of Secondary Curriculum
+            Development</field>
+        <field name="title">World geography bibliography</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">79</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">79 p. 23 cm.; Genre/Form: Bibliography.; Note(s): "For use with the
+            learning activities of the handbook Teaching world geography."/ Follows topic sequence
+            1-12 of the syllabus for social studies, grade 9, entitled: The economic world.</field>
+        <field name="publisher">New York (State) Bureau of Secondary Curriculum Development</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .N53w</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kohn, Clyde Frederick</field>
+        <field name="author_nat">Clyde Frederick Kohn</field>
+        <field name="corp_author">Northwestern University (Evanston, Illinois). School of
+            Education</field>
+        <field name="title">The United States and the world today; an appraisal of geographic
+            learnings for educational programs</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">254</field>
+        <field name="keywords">Geography</field>
+        <field name="abstract">pt. 1 New relations of the United States with other world area,
+            1945-1956: Four basic trends in the post world today / Harold H. McCarty -- Significant
+            developments in the United States since 1945 / Mason Wade -- New relations of the United
+            States with Canada / Clarence F. Jones -- New relations of the United States with Latin
+            America / Arthur E. Moodie -- New relations of the United States with Western Europe /
+            Philip L. Wagner -- New relations of the United States with the USSR / Edward B.
+            Espenshade -- New relations of the United States with the Middle East / Donald R.
+            Petterson -- New relations of the United States with Central and South Africa / Norton
+            Ginsburg -- New relations of the United States the Asiatic triangle / Charles M. Davis
+            -- New relations of the United States with the South Pacific Lands / Clyde F. Kohn,
+            Donald Hughes -- pt. 2 Acquiring understandings of our new relations through geographic
+            learning: The responsibiliy of the school for geographic learning -- The nature of
+            geographic learning -- Sequential development in geographic learning -- Making provision
+            for Geographic learning -- Instructional techniques in geographic learning -- The unit
+            method in geographic learning: and example -- intermediate grades -- The unit method in
+            geographic learning: and example -- high school -- Resources and equipment for
+            geographic learning -- Measuring and evaluating geographic learning.</field>
+        <field name="notes">xiii; maps, diagrs., tables. 20 cm.; Note(s): Contains papers and
+            committee reports of the Workshop in Geography conceived by the School of Education and
+            the Department of Geography, and offered during the 1956 summer session of Northwestern
+            University./ "Recommended source material": p. 226-231./ Also issued online.;
+            Responsibility: Edited by Clyde F. Kohn [associate professor] Northwestern
+            University.</field>
+        <field name="publisher">Rand McNally</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .N87u</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Seventh grade geography guide</field>
+        <field name="year">1965</field>
+        <field name="date">07/1965</field>
+        <field name="pages">84</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .O11ge</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Palo Alto (California) Unified School District</field>
+        <field name="title">An approach to global geography: a social studies unit for the sixth
+            grade</field>
+        <field name="year">1960</field>
+        <field name="date">Summer, 1960</field>
+        <field name="pages">130</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Palo Alto (California) Unified School District</field>
+        <field name="pub_place">Palo Alto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .P17g</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Northcott, Robert</field>
+        <field name="author_nat">Robert Northcott</field>
+        <field name="corp_author">Palo Alto (California) Unified School District</field>
+        <field name="title">An approach to global geography: a social studies unit for the sixth
+            grade</field>
+        <field name="year">1963</field>
+        <field name="date">Summer, 1963</field>
+        <field name="pages">219</field>
+        <field name="keywords">Geography</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Palo Alto (California) Unified School District</field>
+        <field name="pub_place">Palo Alto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .P17g 1963</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">Twelfth grade elective geography</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">1 v. various pagings</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .P85g</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Wells, Keith</field>
+        <field name="author_nat">Keith Wells</field>
+        <field name="corp_author">Roseville (Minnesota) Schools</field>
+        <field name="title">Seventh grade geography</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">109</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">109 leaves ; 28 cm.; Note(s): Cover title: Geography 7.; Responsibility:
+            by Keith Wells ; Roseville Schools.</field>
+        <field name="publisher">Roseville (Minnesota) Schools</field>
+        <field name="pub_place">Roseville, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .R81g</field>
+        <field name="state_country">Minnesota</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Guide for teaching world geography 1-2</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">248</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">248 p. ; cm; Responsibility: prepared by Dean H. Howard and John W.
+            Harris</field>
+        <field name="edition">Unedited</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .S19g</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Monica (California) Unified School District</field>
+        <field name="title">Geography: an integrative discipline (K-6)</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Santa Monica (California) Unified School District</field>
+        <field name="pub_place">Santa Monica, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .S236g</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) School District</field>
+        <field name="title">Geography of the Eastern Hemisphere : course of study for grade
+            7</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">149</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">149 p. ; 28 cm.; Responsibility: Philadelphia Public School.</field>
+        <field name="publisher">Philadelphia (Pennsylvania) School District</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .P54g</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pomona (California) City Schools</field>
+        <field name="title">Pomona City schools curriculum monograph for social studies department,
+            area--place geography, level--secondary</field>
+        <field name="year">1950</field>
+        <field name="date">05/1950</field>
+        <field name="pages">21</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Pomona (California) City Schools</field>
+        <field name="pub_place">Pomona, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .P78w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Washington (State) Superintendent of Public Instruction</field>
+        <field name="title">Washington State tentative curriculum guide for geography : grade seven,
+            1960</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">78</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">78 p. ; 28 cm.; Note(s): Cover title: Curriculum guide, grade 7
+            geography.; Other Titles: Curriculum guide, grade 7 geography</field>
+        <field name="publisher">Washington (State) Superintendent of Public Instruction</field>
+        <field name="pub_place">Olympia, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">910 .W31g</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Culver City (California) Unified School District</field>
+        <field name="title">A suggested program of map instruction for grades one through
+            eight</field>
+        <field name="year">1957</field>
+        <field name="date">01/1957</field>
+        <field name="pages">24</field>
+        <field name="keywords">Maps</field>
+        <field name="publisher">Culver City (California) Unified School District</field>
+        <field name="pub_place">Culver City, Ca</field>
+        <field name="language">English</field>
+        <field name="call_number">912 .C96s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Culver City (California) Unified School District</field>
+        <field name="title">First annual report on the program for the more capable learner</field>
+        <field name="year">1957</field>
+        <field name="date">10/1957</field>
+        <field name="pages">15</field>
+        <field name="keywords">Gifted children</field>
+        <field name="publisher">Culver City (California) Unified School District</field>
+        <field name="pub_place">Culver City, Ca</field>
+        <field name="language">English</field>
+        <field name="call_number">371.9 .C96f</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Florida State Department of Education</field>
+        <field name="title">A guide, using maps and globes in Florida schools</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">62</field>
+        <field name="keywords">Maps</field>
+        <field name="keywords">Globes</field>
+        <field name="abstract">Interpreting maps -- Using maps in actual situations -- Selecting and
+            procuring maps -- Evolving long-range plans -- Handling and caring for maps -- Locating
+            more information.</field>
+        <field name="notes">vii; ges illustrations, maps 23 cm.; Note(s): Includes bibliographical
+            references (pages 60-62).</field>
+        <field name="series_title">Florida State Dept. of Education. Bulletin</field>
+        <field name="series_vol">22-G</field>
+        <field name="publisher">Florida State Department of Education</field>
+        <field name="pub_place">Tallahassee. FL</field>
+        <field name="language">English</field>
+        <field name="call_number">912 .F63g</field>
+        <field name="state_country">Florida</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Gengler, Charles R.</field>
+        <field name="author_nat">Charles R. Gengler</field>
+        <field name="corp_author">Oregon Association for Supervision and Curriculum
+            Development</field>
+        <field name="title">Mapology, the how much of what is where?</field>
+        <field name="year">1974</field>
+        <field name="date">01/1974</field>
+        <field name="pages">39</field>
+        <field name="keywords">Maps</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): Cover title./ Oregon ASCD curriculum bulletin,
+            no. 321, January 1974./ Includes bibliographical references.; Responsibility: prepared
+            by Charles R. Gengler.</field>
+        <field name="series_title">Oregon ASCD curriculum bulletin</field>
+        <field name="series_vol">28</field>
+        <field name="issue">321</field>
+        <field name="publisher">Oregon Association for Supervision and Curriculum
+            Development</field>
+        <field name="pub_place">Salem, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">912 .O65m</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools. The Social Studies and
+            Science Curriculum Committee</field>
+        <field name="title">Social studies supplement: teaching map skills</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">24</field>
+        <field name="keywords">Maps</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">912 .P54t</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ryan, J. L.</field>
+        <field name="author_nat">J. L. Ryan</field>
+        <field name="title">Developing map skills in the elementary grades</field>
+        <field name="year">1959</field>
+        <field name="date">06/1959</field>
+        <field name="keywords">Maps</field>
+        <field name="publisher">San Francisco (California) Public Schools</field>
+        <field name="pub_place">San Francisco, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">912 .S19d</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Allentown (Pennsylvania) City School District</field>
+        <field name="corp_author">Louis E. Dieruff High School</field>
+        <field name="title">A pilot program in the humanities : "an experiment in despair"</field>
+        <field name="year">1965</field>
+        <field name="date">02/1965</field>
+        <field name="pages">32</field>
+        <field name="keywords">Humanities</field>
+        <field name="publisher">Allentown (Pennsylvania) City School District</field>
+        <field name="pub_place">Allentown, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .A43h v. 1</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Allentown (Pennsylvania) City School District</field>
+        <field name="corp_author">Louis E. Dieruff High School</field>
+        <field name="title">The humanities in high school: panel discussion of projects in Louis E.
+            Dieruff high school</field>
+        <field name="year">1965</field>
+        <field name="date">09/1965</field>
+        <field name="keywords">Humanities</field>
+        <field name="publisher">Allentown (Pennsylvania) City School District</field>
+        <field name="pub_place">Allentown, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .A43h v. 2</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Stockton (California) Unified School District</field>
+        <field name="title">Maps, globes, and graphs : resource unit for fifth grade social studies
+            (revised)</field>
+        <field name="year">1964</field>
+        <field name="date">09/1964</field>
+        <field name="pages">63</field>
+        <field name="keywords">Geography</field>
+        <field name="keywords">Maps</field>
+        <field name="notes">63 leaves ; 22 x 27 cm.; Note(s): "September, 1964."/ "Compiled as a
+            part of the work of an in-service class in the social studies under the direction of
+            Mrs. Uriel L. Shields, Consultant in Elementary Education"--Foreword./ Includes
+            bibliographical references (leaves 62-63).; Responsibility: Donald R. Sheldon, Jeff B.
+            West.</field>
+        <field name="series_title">Stockton (California) Unified School District. Curriculum
+            bulletin</field>
+        <field name="series_vol">170</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Stockton (California) Unified School District</field>
+        <field name="pub_place">Stockton, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">912 .S86m 1964</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">5th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Department of Education. Elementary Education
+            Service</field>
+        <field name="title">Using maps and globes, K-7</field>
+        <field name="year">1969</field>
+        <field name="date">08/1969</field>
+        <field name="pages">40</field>
+        <field name="keywords">Maps</field>
+        <field name="notes">ill. (some col.) ; 15 x 23 cm.; Note(s): Includes bibliographical
+            references (p. 37-40).</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Virginia State Department of Education. Elementary Education
+            Service</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">912 .V81u</field>
+        <field name="state_country">Virginia</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ward, Paul L.</field>
+        <field name="author_nat">Paul L. Ward</field>
+        <field name="title">Elements of historical thinking</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="pages">41</field>
+        <field name="keywords">History</field>
+        <field name="notes">41 p. 23 cm.; Note(s): "An earlier version of this pamphlet, entitled A
+            style of history for beginners, appeared in 1959 in a series published by the Service
+            Center for Teachers of History."/; Bibliography: p. 39-41.</field>
+        <field name="series_title">Discussions on teaching</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">American Historical Association</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .A51d v. 1</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">O'Connor, John E.</field>
+        <field name="author_nat">John E. O'Connor</field>
+        <field name="author">Jackson, Martin A.</field>
+        <field name="author_nat">Martin A. Jackson</field>
+        <field name="title">Teaching history with film</field>
+        <field name="year">1974</field>
+        <field name="date">1974</field>
+        <field name="pages">74</field>
+        <field name="keywords">History</field>
+        <field name="series_title">Discussions on teaching</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">American Historical Association</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .A51d v. 2</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Anchorage (Alaska) Independent School District</field>
+        <field name="title">Curriculum and resource guide for world history</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">30</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">Anchorage (Alaska) Independent School District</field>
+        <field name="pub_place">Anchorage, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .A53w</field>
+        <field name="state_country">Alaska</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Boston (Massachusetts) Public Schools. School Committee</field>
+        <field name="title">Curriculum guide in world history for senior high schools</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">67</field>
+        <field name="keywords">World history</field>
+        <field name="notes">67 p. ; 23 cm.; Responsibility: Boston Public Schools.</field>
+        <field name="series_title">Boston (Massachusetts) Public Schools. School Committee. School
+            document</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">Boston (Massachusetts) Public Schools. School Committee</field>
+        <field name="pub_place">Boston, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .B74c</field>
+        <field name="state_country">Massachusetts</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Nicholas Senn High School (Chicago, Illinois)</field>
+        <field name="title">Project: advance placement in history: a program in quality
+            education</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">16</field>
+        <field name="keywords">History</field>
+        <field name="publisher">Nicholas Senn High School</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .C531p</field>
+        <field name="state_country">Illinois</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Covina-Valley (California) Unified School District</field>
+        <field name="title">A resource guide for tenth grade social studies: world history and
+            cultures</field>
+        <field name="year">1962</field>
+        <field name="date">07/1962</field>
+        <field name="pages">133</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">Covina-Valley (California) Unified School District</field>
+        <field name="pub_place">Covina, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .C87w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Dimond, Stanley E.</field>
+        <field name="author_nat">Stanley E. Dimond</field>
+        <field name="author">Beck, Elsie M.</field>
+        <field name="author_nat">Elsie M. Beck</field>
+        <field name="corp_author">Detroit (Michigan) Public Schools</field>
+        <field name="title">The story of modern man: a pupil manual and study guide in elementary
+            social studies</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">80</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">Detroit (Michigan) Public Schools</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .D41s</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">El Paso (Texas) Public Schools</field>
+        <field name="title">General guide for world history teachers with provisions for individual
+            differences in pupil ability, experience, and interest, grades nine and ten</field>
+        <field name="year">1961</field>
+        <field name="date">08/1961</field>
+        <field name="pages">246</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">El Paso (Texas) Public Schools</field>
+        <field name="pub_place">El Paso, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .E37g v. 1</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">El Paso (Texas) Public Schools</field>
+        <field name="title">A supplement to The general guide for world history teachers with
+            provisions for individual differences in pupil ability, experience, and interest, grades
+            nine and ten</field>
+        <field name="year">1961</field>
+        <field name="date">08/1961</field>
+        <field name="pages">41</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">El Paso (Texas) Public Schools</field>
+        <field name="pub_place">El Paso, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .E37g v. 3</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">El Paso (Texas) Public Schools</field>
+        <field name="title">Problem-solving experiences for world history pupils. Grades nine and
+            ten</field>
+        <field name="year">1961</field>
+        <field name="date">08/1961</field>
+        <field name="pages">112</field>
+        <field name="keywords">World history</field>
+        <field name="notes">112 p. illus., maps. 23 cm.; Note(s): Accompanied by teacher's ed.,
+            General guide for world history teachers, with provisions for individual differences in
+            public ability, experience, and interest. 246 p. illus., maps. 28 cm.</field>
+        <field name="publisher">El Paso (Texas) Public Schools</field>
+        <field name="pub_place">El Paso, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .E37g v. 2</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno (California) City Unified School District</field>
+        <field name="title">World history: audio-visual materials</field>
+        <field name="year">1952</field>
+        <field name="date">09/1952</field>
+        <field name="pages">41</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">Fresno (California) City Unified School District</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .F88w</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bryant, Margaret E.</field>
+        <field name="author_nat">Margaret E. Bryant</field>
+        <field name="title">The museum and the school</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">15</field>
+        <field name="keywords">Museums and schools</field>
+        <field name="keywords">History</field>
+        <field name="notes">15 p. ; 22 cm.; Responsibility: by Margaret E. Bryant.</field>
+        <field name="series_title">Teaching of history leaflet</field>
+        <field name="series_vol">6</field>
+        <field name="publisher">Historical Association</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H65t no. 6</field>
+        <field name="state_country">United Kingdom</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Chaloner, W. H.</field>
+        <field name="author_nat">W. H. Chaloner</field>
+        <field name="title">The skilled artisans during the Industrial Revolution, 1750-1850</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">16</field>
+        <field name="keywords">Artisans</field>
+        <field name="keywords">Great Britain</field>
+        <field name="notes">16 p. 22 cm.; Note(s): Bibliographical references included in "Notes"
+            (p. 14-16).; Responsibility: by W.H. Chaloner.</field>
+        <field name="series_title">Aids for teachers series</field>
+        <field name="series_vol">15</field>
+        <field name="publisher">Historical Association</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H65a no. 15</field>
+        <field name="state_country">United Kingdom</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Duckham, Baron Frederick</field>
+        <field name="author_nat">Baron Frederick Duckham</field>
+        <field name="title">The transport revolution, 1750-1830</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">16</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Transportation</field>
+        <field name="keywords">Great Britain</field>
+        <field name="notes">16 p. 22 cm.; Genre/Form: History.; Note(s): Bibliography: p. 15-16.;
+            Responsibility: by Baron F. Duckham.</field>
+        <field name="series_title">Aids for teachers series</field>
+        <field name="series_vol">14</field>
+        <field name="publisher">Historical Association</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H65a no. 14</field>
+        <field name="state_country">United Kingdom</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Schmitt, Bernadotte Everly</field>
+        <field name="author_nat">Bernadotte Everly Schmitt</field>
+        <field name="title">The origins of the First World War</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">26</field>
+        <field name="keywords">World War I</field>
+        <field name="keywords">War</field>
+        <field name="notes">26 p. ; 22 cm.; Responsibility: by Bernadotte E. Schmitt.</field>
+        <field name="series_title">Historical Association. General series</field>
+        <field name="series_vol">39</field>
+        <field name="publisher">Historical Association</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H65p no. 39</field>
+        <field name="state_country">United Kingdom</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Burston, Wyndham Hedley</field>
+        <field name="author_nat">Wyndham Hedley Burston</field>
+        <field name="title">Social studies and the history teacher</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">27</field>
+        <field name="keywords">History</field>
+        <field name="notes">27 S.; Responsibility: W. H. Burston; reprinted 1962</field>
+        <field name="series_title">Teaching of history leaflet</field>
+        <field name="series_vol">15</field>
+        <field name="edition">Reprinted</field>
+        <field name="publisher">Historical Association</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H65t no. 15</field>
+        <field name="state_country">United Kingdom</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hill, C. P.</field>
+        <field name="author_nat">C. P. Hill</field>
+        <field name="title">The teaching of history to non-specialists in sixth forms</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">19</field>
+        <field name="keywords">Great Britain</field>
+        <field name="keywords">History</field>
+        <field name="notes">19 p. ; 22 cm.; Responsibility: by C.P. Hill.</field>
+        <field name="series_title">Teaching of history leaflet</field>
+        <field name="series_vol">19</field>
+        <field name="publisher">Historical Association</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H65t no. 19</field>
+        <field name="state_country">United Kingdom</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Burston, Wyndham Hedley</field>
+        <field name="author_nat">Wyndham Hedley Burston</field>
+        <field name="title">Sixth form history teaching</field>
+        <field name="year">1957</field>
+        <field name="title">1957</field>
+        <field name="pages">30</field>
+        <field name="keywords">Great Britain</field>
+        <field name="keywords">History</field>
+        <field name="notes">30 p., 22 cm.; Responsibility: edited by W.H. Burston.</field>
+        <field name="series_title">Teaching of history series</field>
+        <field name="series_vol">17</field>
+        <field name="publisher">Historical Association</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H65t no. 17</field>
+        <field name="state_country">United Kingdom</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Houston (Texas) Public Schools</field>
+        <field name="title">World history I-II</field>
+        <field name="year">1954</field>
+        <field name="date">1954-1955</field>
+        <field name="pages">62</field>
+        <field name="keywords">World history</field>
+        <field name="notes">forms ; 36 cm.; Note(s): Includes bibliographies.</field>
+        <field name="series_title">Houston (Texas) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">54CBM66</field>
+        <field name="publisher">Houston (Texas) Public Schools</field>
+        <field name="pub_place">Houston, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .H84w</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of Illinois. Division of University Extension.
+            Audio-Visual Aids Service</field>
+        <field name="title">History, 1959-1960</field>
+        <field name="year">1959</field>
+        <field name="date">1959-1960</field>
+        <field name="pages">71</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Audio-visual materials</field>
+        <field name="publisher">University of Illinois</field>
+        <field name="pub_place">Champaign, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .I29h</field>
+        <field name="state_country">Illinois</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ball State Teachers College</field>
+        <field name="title">World history: the mankind perspective</field>
+        <field name="year">1964</field>
+        <field name="date">Autumn, 1964</field>
+        <field name="pages">75</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">Ball State Teachers College</field>
+        <field name="pub_place">Muncie, IN</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .I39w</field>
+        <field name="state_country">Indiana</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Johnson, David</field>
+        <field name="author_nat">David Johnson</field>
+        <field name="title">The Monmouth Rebellion &amp; the Bloody Assizes: a collection of
+            contemporary documents</field>
+        <field name="keywords">Monmouth's Rebellion, 1685</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Great Britain</field>
+        <field name="abstract">Introductory leaflet -- 1. Map from Itinerarium Angliae / by John
+            Ogilby, 1675 -- 2. Four pages from the Duke of Monmouth's pocket book -- 3. Edward
+            Dummer's plans of the Battle of Sedgemoor -- 4. Letter from Lord Chief Justice Jeffreys
+            to King James II -- 5. Extract from An Account of the Proceedings Against the Rebells --
+            6. Letter from the Duke of Monmouth to James II -- 7. Extract from A Relation of the
+            Great Sufferings of Henry Pitman -- 8. Monmouth's declaration of illegitimacy, in his
+            own hand -- 9. Monmouth's death warrant -- 10. Print of Judge Jeffreys being caught in
+            Wapping -- 11. Transcripts of Exhibits 2, 4 and 6 -- 12. Five broadsheets : I. The new
+            King ; II. The exiled Duke ; III. The last battle ; IV. "The Hanging Judge" ; V. The
+            aftermath.; Time: 1660 - 1685</field>
+        <field name="notes">1 portfolio, facsims.; rts. 23 x 35 cm.; Genre/Form: Facsimiles.
+            History. Sources.; Note(s): One introductory sheet, 10 reproductions of contemporary
+            documents, 1 transcript and 5 explanatory broadsheets in portfolio./ Includes
+            bibliographical references.</field>
+        <field name="series_title">Jackdaw</field>
+        <field name="series_vol">34</field>
+        <field name="publisher">Jackdaw Publications</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .J12j no. 34</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Lacey, Robert</field>
+        <field name="author_nat">Robert Lacey</field>
+        <field name="title">The French Revolution; a collection of contemporary documents</field>
+        <field name="keywords">French Revolution</field>
+        <field name="keywords">France</field>
+        <field name="abstract">v. 1. The fall of the Bastille.--v. 2. The Terror.; Time: 1789 -
+            1799</field>
+        <field name="notes">2 portfolios. illus. (part col.), facsims., map, plan; rts. 23 x 35 cm.;
+            Genre/Form: History. Sources.; Note(s): Includes introductory sheets, reproductions of
+            contemporary documents and illustrations, transcript and translation sheets, and
+            broadsheets in each portfolio./ Bibliographies included on introductory sheets.</field>
+        <field name="series_title">Jackdaw</field>
+        <field name="series_vol">57</field>
+        <field name="series_vol">58</field>
+        <field name="publisher">Jackdaw Publications</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .J12j no. 57-58</field>
+    </doc>
+
+    <doc>
+        <field name="type">GEN</field>
+        <field name="author">Langdon-Davies, John</field>
+        <field name="author_nat">John Langdon-Davies</field>
+        <field name="title">Magna carta: a collection of contemporary documents</field>
+        <field name="keywords">Magna carta</field>
+        <field name="keywords">History</field>
+        <field name="abstract">Introductory sheet (1 folded sheet) -- Facsimile of Magna Carta from
+            Lincoln Cathedral -- Translation of Magna Carta -- Facsimile of Charter Roll, 1199 --
+            Facsimile of a Pipe Roll, 1130 -- Two pages from a Bestiary of the late 12th century (1
+            sheet) -- King John's tomb in Worcester Cathedral -- Color poster of the Royal standard
+            from King John's reign to the present day -- Costume at the time of King John (2 sheets)
+            -- Broadsheets: King John, 1167-1216 ; Barons and fuedal lords ; Magna Carta : what it
+            was and what it was not ; The signing of the Magna Carta ; King John and history ;
+            England in 1215 ; Did King John lose his treasure in the wash? (map and text).</field>
+        <field name="notes">1 portfolio; Genre/Form: History.; Geographic: Great Britain -- History.
+            Great Britain.; Title Subject: Magna Carta. Magna Carta.; Note(s): Issued in portfolio.;
+            Other Titles: Running title on kit items:; King John &amp; Magna carta; Responsibility:
+            compiled and edited by John Langdon-Davies.</field>
+        <field name="series_title">Jackdaw</field>
+        <field name="series_vol">3</field>
+        <field name="publisher">G.P. Putnam's Sons</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .J12j no. 3</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Langdon-Davies, John</field>
+        <field name="author_nat">John Langdon-Davies</field>
+        <field name="title">The Mayflower &amp; the Pilgrim fathers</field>
+        <field name="keywords">Pilgrims</field>
+        <field name="keywords">New Plymouth Colony</field>
+        <field name="keywords">History</field>
+        <field name="series_title">Jackdaw</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">G.P. Putnam's Sons</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .J12j no. 4</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nicholson, Irene</field>
+        <field name="author_nat">Irene Nicholson</field>
+        <field name="title">The conquest of Mexico: a collection of contemporary material</field>
+        <field name="keywords">Conquest of Mexico (1519-1540)</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Mexico</field>
+        <field name="abstract">Introductory leaflet -- 1. Four pages from the Codex Laud, a Maya
+            folding book, with an interpretation -- 2. The Song of Xipe and other songs from the
+            Florentine Codex -- 2a. Translation of 2 -- 3. Dürer engraving of Hernán Cortés's plan
+            of Tenochtitlán -- 4. Mexican gods and temples -- 5. Four pages from the Codex Mendoza,
+            a manuscript made soon after the conquest -- 6. Two pages from the Lienzo de Tlaxcala, a
+            manuscript made by a native of Mexico shortly after the conquest -- 7. Page from the
+            True History of the Conquest of New Spain / by Bernal Díaz del Castillo -- 7a.
+            Translation of 7 -- 8. Two pages from a letter sent by Hernán Cortés to the Emperor
+            Charles V -- 8a. Translation of 8 -- 9. Maya stone lintel depicting a religious penance
+            -- 10. Six broadsheets : I. Two cultures mingle ; II. Ancient Mexican civilizations ;
+            III. Cortés scales the mountains ; IV. The Spaniards defeated ; V. Cortés fights back ;
+            VI. Aftermath.; Time: 1519 - 1540</field>
+        <field name="notes">1 portfolio. illus., facsims. 23 x 35 cm.; Genre/Form: History.
+            Sources.; Note(s): One introductory sheet, 9 reproductions of contemporary documents, 3
+            translations, and 6 explanatory broadsheets./ Bibliography included on introductory
+            sheet.</field>
+        <field name="series_title">Jackdaw</field>
+        <field name="series_vol">51</field>
+        <field name="publisher">Jackdaw Publications</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .J12j no. 51</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kansas City (Missouri) Public Schools</field>
+        <field name="title">Tentative curriculum guides in world history</field>
+        <field name="year">1959</field>
+        <field name="date">07/1959</field>
+        <field name="pages">19</field>
+        <field name="keywords">World history</field>
+        <field name="notes">Honors A general reading level lower reading level</field>
+        <field name="series_title">Kansas City (Missouri) Public Schools. Secondary curriculum
+            bulletin</field>
+        <field name="series_vol">116</field>
+        <field name="publisher">Kansas City (Missouri) Public Schools</field>
+        <field name="pub_place">Kansas City, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .K15t</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City Schools. Division of Instructional
+            Services. Curriculum Branmch</field>
+        <field name="title">An instructional guide : world history and geography 2 : a one-semester
+            survey course : grade 10</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">132</field>
+        <field name="keywords">Geography</field>
+        <field name="keywords">World history</field>
+        <field name="edition">Experiment ed</field>
+        <field name="publisher">Los Angeles (California) City Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .L87i</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Roberts, Anna L.</field>
+        <field name="author_nat">Anna L. Roberts</field>
+        <field name="author">Shearer, Elga Meta</field>
+        <field name="author_nat">Elga Meta Shearer</field>
+        <field name="author">Long Beach City Schools. Department of Curriculum and Educational
+            Research</field>
+        <field name="author_nat"/>
+        <field name="title">How record keeping has helped man's progress, a sixth grade unit</field>
+        <field name="year">1946</field>
+        <field name="date">02/1946</field>
+        <field name="pages">43</field>
+        <field name="keywords">History</field>
+        <field name="notes">3 preliminary leaves, 43 leaves folded table, 27 cm; Note(s): At head of
+            title; Long Beach Public Schools./ "Audio-visual materials": pages 30-34; Bibliography:
+            p. 35-43.; Responsibility: by Anna L. Roberts ... assisted by Elga M. Shearer ... Edited
+            and published by Department of Curriculum and Educational Research.</field>
+        <field name="publisher">Long Beach (California) Public Schools</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .L84h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Horn, R. A.</field>
+        <field name="author_nat">R. A. Horn</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Division of Social
+            Studies</field>
+        <field name="author">Ohio State State Board of Education</field>
+        <field name="author_nat"/>
+        <field name="title">Teachers' guides : world history for the academically talented, advanced
+            placement European history</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">152</field>
+        <field name="keywords">Teaching</field>
+        <field name="keywords">World history</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">vi; ; 23 cm.; Note(s): Ohio Docs. no.: OED 208.2:T2531/963.;
+            Responsibility: prepared by Cleveland Public Schools, Division of Social Studies, in
+            cooperation with the Ohio Dept. of Education, under the direction of R.A. Horn,
+            Director, Division of Special Education.</field>
+        <field name="publisher">Ohio State Board of Education</field>
+        <field name="pub_place">Columbus, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .O37t</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City Schools</field>
+        <field name="title">World history and geography 1 : an instructional guide, grade 9</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">69</field>
+        <field name="keywords">World history</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Los Angeles (California) City Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .L87w</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Thompson, Angela</field>
+        <field name="author_nat">Angela Thompson</field>
+        <field name="author">Doolan, Barbara</field>
+        <field name="author_nat">Barbara Doolan</field>
+        <field name="corp_author">Medford (Oregon) Public Schools</field>
+        <field name="title">Biographical histories from man lands, fourth grade</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">89</field>
+        <field name="keywords">World history</field>
+        <field name="publisher">Medford (Oregon) Public Schools</field>
+        <field name="pub_place">Medford, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .M48b</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Metropolitan Schools of Nashville and Davidson County</field>
+        <field name="title">Old world--westward bound: social studies a resource guide for sixth
+            grade teachers</field>
+        <field name="year">1964</field>
+        <field name="date">05/1964</field>
+        <field name="pages">80</field>
+        <field name="keywords">World history</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Metropolitan Schools of Nashville and Davidson County</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .N25o</field>
+        <field name="state_country">Tennessee</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Mallery,David</field>
+        <field name="author_nat"/>
+        <field name="title">Asia and Africa in the study of history; examples of school programs
+            seeking to teach students to think historically about non-Western civilizations</field>
+        <field name="year">1962</field>
+        <field name="title">1962</field>
+        <field name="pages">59</field>
+        <field name="keywords">Asia</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Africa</field>
+        <field name="notes">59 p. 23 cm.; Genre/Form: History.; Note(s): Includes bibliographical
+            references.</field>
+        <field name="series_title">National Council of Independent Schools. Monograph</field>
+        <field name="series_vol">4</field>
+        <field name="publisher">National Council of Independent Schools</field>
+        <field name="pub_place">Boston, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .N27a</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">World history bibliography</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">112</field>
+        <field name="keywords">World history</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">112 p. ; 23 cm.; Genre/Form: Bibliography. History.; Note(s): "Prepared
+            for use with ... the handbook Teaching world history.</field>
+        <field name="publisher">University of the State of New York, the State Education Department,
+            Bureau of Secondary Curriculum Development</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .N53w</field>
+        <field name="state_country">New York</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">Culture and civilization</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">64</field>
+        <field name="keywords">Civilization</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .P85c</field>
+        <field name="state_country">Oregon</field>
+    </doc>
+</add>

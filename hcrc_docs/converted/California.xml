@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Guide for cooperative evaluation of county and district audio-visual
+            programs</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">38</field>
+        <field name="keywords">Audio-visual library service</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1967</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">1966 Amendments to the education code</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">31</field>
+        <field name="keywords">Educational law and legislation</field>
+        <field name="notes">xii; ges 23 cm; Responsibility: compiled by the Legal Office, Division
+            of Departmental Administration, State Department of Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacremento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1966</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Neilson, N. P.</field>
+        <field name="author_nat">N. P. Neilson</field>
+        <field name="corp_author">California State Department of Education. Division of Health and
+            Physical Education</field>
+        <field name="title">A score card for evaluating physical education programs for high school
+            boys</field>
+        <field name="year">1931</field>
+        <field name="date">1931</field>
+        <field name="pages">45</field>
+        <field name="keywords">Physical education and training</field>
+        <field name="notes">vii; ges ; 28 cm.; Note(s): Preface signed: N.P. Neilson.;
+            Responsibility: California State Department of Education, Division of Health and
+            Physical Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California Department of Education Bulletin</field>
+        <field name="series_vol">E2</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1931</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brown, James W.</field>
+        <field name="author_nat">James W. Brown</field>
+        <field name="author">Aubrey, Ruth H.</field>
+        <field name="author_nat">Ruth H. Aubrey</field>
+        <field name="author">Noel, Elizabeth S.</field>
+        <field name="author_nat">Elizabeth S. Noel</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Multi-media and the changing school library; a summary of the
+            preparations for presentations, and group reports of the School Library Workshop for
+            Leadership Personnel</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">144</field>
+        <field name="keywords">Audio-visual library service</field>
+        <field name="keywords">Media programs</field>
+        <field name="keywords">School libraries</field>
+        <field name="notes">xiv, 146 pages illustrations; rtraits 28 cm; Genre/Form: Conference
+            proceedings.; Note(s): Includes bibliographical references (pages 138-142).;
+            Responsibility: Compiled by James W. Brown, Ruth H. Aubrey, and Elizabeth S.
+            Noel</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">School Library Workshop for Leadership Personnel (1967 : Monte
+            Corona Conference Center)</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1969</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Bibliography of Spanish materials for children: kindergarten through
+            grade six</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="pages">40</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Textbooks</field>
+        <field name="keywords">Spanish language</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1971</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Bibliography of Spanish materials for students; grades seven through
+            twelve</field>
+        <field name="year">1972</field>
+        <field name="date">1972</field>
+        <field name="pages">104</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Textbooks</field>
+        <field name="keywords">Spanish language</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1972</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Bibliography of instructional materials for the teaching of
+            Portuguese</field>
+        <field name="year">1976</field>
+        <field name="date">1976 Sp - 61</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Portuguese language</field>
+        <field name="keywords">Textbooks</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1976</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Bibliography of audiovisual instructional materials for the teaching of
+            Spanish</field>
+        <field name="year">1975</field>
+        <field name="date">1975</field>
+        <field name="pages">124</field>
+        <field name="keywords">Spanish language</field>
+        <field name="keywords">Audio-visual materials</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1975</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">An Instrument for the qualitative evaluation of media programs in
+            California</field>
+        <field name="year">1972</field>
+        <field name="date">1972</field>
+        <field name="pages">37</field>
+        <field name="keywords">Media programs</field>
+        <field name="notes">ix; ges ; 29 cm; Responsibility: prepared by a committee representing
+            the Bureau of Audio-Visual and School Library Education for the California State Dept.
+            of Education, the California Association for Educational Media and Technology, and the
+            California Association of School Librarians</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1972</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Bibliography of instructional materials for the teaching of
+            French</field>
+        <field name="year">1977</field>
+        <field name="date">1977</field>
+        <field name="pages">149</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">French language</field>
+        <field name="keywords">Textbooks</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1977</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Implementing career education : community involvement</field>
+        <field name="year">1977</field>
+        <field name="date">1977</field>
+        <field name="pages">24</field>
+        <field name="keywords">Vocational education</field>
+        <field name="notes">24 p. ; 28 cm.; Note(s): Includes bibliographical references (p.
+            22-24).; Other Titles: Community involvement; Career education; Responsibility: prepared
+            under the direction of the Vocational and Career Education Services Section, Career
+            Education Unit.</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1977</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Public Instruction</field>
+        <field name="title">A forest fire prevention manual for the school children of California,
+            prepared for the superintendent of public instruction by the state forester and United
+            States forest service</field>
+        <field name="year">1922</field>
+        <field name="date">1922</field>
+        <field name="pages">31</field>
+        <field name="keywords">Forests and forestry</field>
+        <field name="notes">31 pages 23 cm.; Note(s): At head of title: Superintendent of public
+            instruction</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Public Instruction
+            Bulletin</field>
+        <field name="series_vol">6</field>
+        <field name="publisher">California State Department of Public Instruction</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1922</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Carden, Georgiana</field>
+        <field name="author_nat">Georgiana Carden</field>
+        <field name="corp_author">California State Department of Public Instruction</field>
+        <field name="title">The enforcement of compulsory full-time school attendance in
+            California</field>
+        <field name="year">1922</field>
+        <field name="date">06/1922</field>
+        <field name="pages">28</field>
+        <field name="keywords">Compulsory education</field>
+        <field name="notes">28 pages 23 cm; Note(s): At head of title: Superintendent of Public
+            Instruction, State of California.; Responsibility: prepared by Georgiana Carden, State
+            Supervisors of school attendance</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Public Instruction
+            Bulletin</field>
+        <field name="series_vol">9</field>
+        <field name="pub_place">Sacramento. CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1922</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Richardson, Ethel</field>
+        <field name="author_nat">Ethel Richardson</field>
+        <field name="corp_author">California State Department of Public Instruction</field>
+        <field name="title">The immigrant child in the public schools</field>
+        <field name="year">1922</field>
+        <field name="date">02/1922</field>
+        <field name="pages">29</field>
+        <field name="keywords">Immigrants</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Public Instruction
+            Bulletin</field>
+        <field name="series_vol">5B</field>
+        <field name="publisher">California State Department of Public Instruction</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1922</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Richardson, Ethel</field>
+        <field name="author_nat">Ethel Richardson</field>
+        <field name="corp_author">California State Department of Public Instruction</field>
+        <field name="title">Immigrant education manual</field>
+        <field name="year">1922</field>
+        <field name="date">02/1922</field>
+        <field name="pages">31</field>
+        <field name="keywords">Immigrants</field>
+        <field name="keywords">State or province government publication (sgp)</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Public Instruction
+            Bulletin</field>
+        <field name="series_vol">5A</field>
+        <field name="publisher">California State Department of Public Instruction</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1922</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education. Division of City
+            Secondary Schools</field>
+        <field name="title">Reading list for junior high schools</field>
+        <field name="year">1928</field>
+        <field name="date">1928</field>
+        <field name="pages">35</field>
+        <field name="keywords">Reading</field>
+        <field name="notes">35 p.; Responsibility: compiled by Committees of the California State
+            Association of English Teachers</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">C-7</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1928</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Murchie, Maude Irene</field>
+        <field name="author_nat">Maude Irene Murchie</field>
+        <field name="corp_author">California California State Department of Education. Division of
+            City Secondary Schools</field>
+        <field name="title">Federal and state aided instruction in home making for girls and women.
+            The California plan for vocational education</field>
+        <field name="year">1930</field>
+        <field name="date">1930</field>
+        <field name="pages">28</field>
+        <field name="keywords">Home economics</field>
+        <field name="notes">28 pages, 1 folded leaves 23 cm.; Note(s): Cover title./ At head of
+            title: State of California. Department of Education. Division of City Secondary Schools.
+            Nicholas Ricciardi, chief.; Responsibility: by Maude I. Murchie, chief, Bureau of
+            home-making education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">C-2</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1930</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ricciardi, Nicholas</field>
+        <field name="author_nat">Nicholas Ricciardi</field>
+        <field name="corp_author">California State Department of Education. Division of City
+            Secondary Schools</field>
+        <field name="title">The California plan of vocational education. Vocational education and
+            the secondary school</field>
+        <field name="year">1927</field>
+        <field name="date">1927</field>
+        <field name="pages">20</field>
+        <field name="keywords">Vocational education</field>
+        <field name="notes">20 pages 23 cm.; Note(s): At head of title: California State Department
+            of Education. Division of City Secondary Schools. Nicholas Ricciardi, chief.; Other
+            Titles: Vocational education and the secondary school; Responsibility: by Nicholas
+            Ricciardi</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">C-1</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1927</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">The junior college in California</field>
+        <field name="year">1928</field>
+        <field name="date">1928</field>
+        <field name="pages">48</field>
+        <field name="keywords">Junior colleges</field>
+        <field name="notes">48 pages 24 cm.; Note(s): At head of title: California State Department
+            of Education. The Director of Education./ Includes bibliographical references (pages
+            27-29)</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">G-3</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1928</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">California state Department of education ..</field>
+        <field name="year">1928</field>
+        <field name="date">1928</field>
+        <field name="pages">24</field>
+        <field name="keywords">Education</field>
+        <field name="notes">24 pages including charts 23 cm.; Note(s): At head of title: California
+            state department of education. The director of education./ "Selected bibliography":
+            pages 19-21</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">G-2</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1928</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Regulations governing the granting of state teachers credentials and
+            county certificates in California</field>
+        <field name="year">1928</field>
+        <field name="date">1928</field>
+        <field name="pages">67</field>
+        <field name="keywords">Teacher certification</field>
+        <field name="notes">67 pages ; 23 cm.; Note(s): At head of title: California state
+            department of education. Division of teacher training and certification./ "Effective
+            September 15, 1928."</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">H-2</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1928</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ricciardi, Nicholas</field>
+        <field name="author_nat">Nicholas Ricciardi</field>
+        <field name="corp_author">California State Department of Education. Division of City
+            Secondary Schools</field>
+        <field name="title">The need for terminal courses in the junior college</field>
+        <field name="year">1928</field>
+        <field name="date">1928</field>
+        <field name="pages">14</field>
+        <field name="keywords">Junior colleges</field>
+        <field name="notes">14 pages.; Responsibility: by Nicholas Ricciardi</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">C-6</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1928</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Suggestions for public schools week, April 25 to 30, 1932</field>
+        <field name="year">1932</field>
+        <field name="date">04/1932</field>
+        <field name="pages">11</field>
+        <field name="keywords">Public relations</field>
+        <field name="notes">v; ges ; 23 cm; Note(s): "Some useful reference material": page
+            13</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">1</field>
+        <field name="issue">4 pt. 2</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">The California public school system</field>
+        <field name="year">1931</field>
+        <field name="date">06/1931</field>
+        <field name="pages">29</field>
+        <field name="keywords">Public schools</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">G-1</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1931</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Legal provisions and State Board of Education regulations governing
+            retirement of teachers</field>
+        <field name="year">1932</field>
+        <field name="date">02/1932</field>
+        <field name="keywords">Pensions</field>
+        <field name="keywords">Educational law and legislation</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">4 pt.3</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Eells, Walter Crosby</field>
+        <field name="author_nat">Walter Crosby Eells</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">California junior college mental-educational survey</field>
+        <field name="year">1930</field>
+        <field name="date">1930</field>
+        <field name="pages">61</field>
+        <field name="keywords">Educational tests and measurements</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">J-3</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1930</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Proceedings of the annual convention of secondary school principals of
+            California</field>
+        <field name="year">1932</field>
+        <field name="date">06/1932</field>
+        <field name="pages">95</field>
+        <field name="keywords">Secondary education</field>
+        <field name="notes">volumes 23 cm; Geographic: California.; Note(s): At head of title:
+            California State Board of Education; State of California</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education bulletin</field>
+        <field name="series_vol">12</field>
+        <field name="publisher">California State Department of Education CY - Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rutledge, Richard Edward</field>
+        <field name="author_nat">Richard Edward Rutledge</field>
+        <field name="author">Huntington, Emily H.</field>
+        <field name="author_nat">Emily H. Huntington</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="corp_author">Heller Committee for Research in Social Economics. University of
+            California, Berkeley</field>
+        <field name="title">Adequacy of salaries paid to Oakland school teachers</field>
+        <field name="year">1932</field>
+        <field name="date">06/1932</field>
+        <field name="pages">24</field>
+        <field name="keywords">Pensions</field>
+        <field name="notes">vi; ges 23 cm.; Note(s): At head of title: State of California./ Preface
+            signed: R.E. Rutledge ... Emily H. Huntington.; Responsibility: Compiled under the
+            direction of the Department of Research, Oakland Public Schools and the Heller Committee
+            for Research in Social Economics, University of California</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">11</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Wanzer, Magdalene Ferrier</field>
+        <field name="author_nat">Magdalene Ferrier Wanzer</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Little journeys in California; lessons in English for intermediate
+            classes of adults</field>
+        <field name="year">1932</field>
+        <field name="date">05/1932</field>
+        <field name="pages">74</field>
+        <field name="keywords">English language</field>
+        <field name="keywords">Americanization</field>
+        <field name="keywords">Adult education</field>
+        <field name="notes">3-74 pages including forms 23 cm.; Note(s): Cover title./ At head of
+            title: State of California. Department of Education .../ "Mrs. Magdalene F. Wanzer,
+            chief of the Bureau of immigrant education, has directed the development of materials
+            which, in addition to the material of state Department of education Bulletin 5-F, Little
+            journeys in California, comprise this bulletin."--Foreword, p. 3</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">9</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">A guide for teachers of beginning non-English speaking children</field>
+        <field name="year">1932</field>
+        <field name="date">04/1932</field>
+        <field name="pages">68</field>
+        <field name="keywords">English language</field>
+        <field name="notes">vii; ges 23 cm.; Genre/Form: Textbooks -- for foreign speakers.;
+            Note(s): At head of title: State of California .../ "Bibliography for teachers": page
+            68</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education</field>
+        <field name="series_vol">8</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Heffernan, Helen</field>
+        <field name="author_nat">Helen Heffernan</field>
+        <field name="author">Potter, Gladys Lamb</field>
+        <field name="author_nat">Gladys Lamb Potter</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">The Washington bicentennial; an opportunity in character
+            education</field>
+        <field name="year">1932</field>
+        <field name="date">04/1932</field>
+        <field name="pages">33</field>
+        <field name="keywords">Character</field>
+        <field name="keywords">Washington, George, 1732-1799</field>
+        <field name="notes">35 pages 23 cm.; Note(s): "Miss Helen Heffernan and Mrs. Gladys Potter
+            ... are largely responsible for the preparation of this material."--Foreword./
+            "Annotated bibliography for elementary schools": pages 15-30; Annotated bibliography for
+            secondary schools: p. 30-35</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">7</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Suggested course of study in reading and literature for elementary
+            schools</field>
+        <field name="year">1932</field>
+        <field name="date">07/1932</field>
+        <field name="pages">119</field>
+        <field name="keywords">Reading</field>
+        <field name="notes">viii; ges ; 23 cm.; Note(s): Preface signed: Helen Heffernan./ With :
+            Suggested course of study in science for elementary schools / Sacramento : California
+            State Department of Education, 1932. Bound together subsequent to publication./ "Basic
+            reading texts": pages 94-100; "Bibliography of recreational reading": p. 101-117;
+            "Professional bibliography": p. 118-119</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Shelved in Cubberley Library Reading Room Bulletin</field>
+        <field name="series_vol">13 pt. 2</field>
+        <field name="publisher">Shelved in Cubberley Library Reading Room</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Heffernan, Helen</field>
+        <field name="author_nat">Helen Heffernan</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Suggested course of study in science for elementary schools</field>
+        <field name="year">1932</field>
+        <field name="date">07/1932</field>
+        <field name="pages">90</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">vii; ges 23 cm.; Note(s): Cover title./ At head of title: State of
+            California./ Preface signed: Helen Heffernan./ "This bulletin is one of a series of
+            three suggested courses of study for elementary schools published by the state
+            Department of education."--Foreword</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">13 pt. 1</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1932</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">The organization of evening schools and special day and evening
+            classes</field>
+        <field name="year">1920</field>
+        <field name="date">02/1920</field>
+        <field name="pages">8</field>
+        <field name="keywords">Evening and continuation schools</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">1-A</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1920</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">The organization of intermediate or junior high school courses</field>
+        <field name="year">1920</field>
+        <field name="date">08/1920</field>
+        <field name="pages">6</field>
+        <field name="keywords">Middle school</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education Bulletin</field>
+        <field name="series_vol">1-B</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1920</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Van Hagen, Winifred</field>
+        <field name="author_nat">Winifred Van Hagen</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Physical education in small rural schools</field>
+        <field name="year">1938</field>
+        <field name="date">04/1938</field>
+        <field name="pages">75</field>
+        <field name="keywords">Physical education and training</field>
+        <field name="notes">ix; incl. tables, diagrs., forms. 23 cm.; Note(s): On cover: State of
+            California .../ "The bulletin was prepared by Winifred Van Hagen."--Forward</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education bulletin</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1938</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Suggestions for an evening school newspaper for foreign students and
+            teachers of foreign students</field>
+        <field name="year">1929</field>
+        <field name="date">1929</field>
+        <field name="pages">25</field>
+        <field name="keywords">Student newspapers and periodicals</field>
+        <field name="keywords">Evening and continuation schools</field>
+        <field name="keywords">Immigrants</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education bulletin</field>
+        <field name="series_vol">5-P</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1929</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">Revised rules and regulations governing secondary school attendance and
+            courses of study : effective 1928-1929 (replacing sections included in School law of
+            California, 1927)</field>
+        <field name="year">1928</field>
+        <field name="date">1928</field>
+        <field name="pages">18</field>
+        <field name="keywords">School attendance</field>
+        <field name="keywords">High school</field>
+        <field name="keywords">Community colleges</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">California State Department of Education bulletin</field>
+        <field name="series_vol">F-1</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1928</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">California State Department of Education</field>
+        <field name="title">The type, design, installation and care of blackboards</field>
+        <field name="year">1930</field>
+        <field name="date">1930</field>
+        <field name="pages">11</field>
+        <field name="keywords">Blackboards</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Division of Schoolhouse Planning bulletin</field>
+        <field name="series_vol">K-3</field>
+        <field name="publisher">California State Department of Education</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .C1 1930</field>
+        <field name="state_country">California</field>
+    </doc>
+
+
+
+
+</add>

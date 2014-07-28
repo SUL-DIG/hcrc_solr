@@ -1,0 +1,1447 @@
+
+TY  - BOOK
+A2  - Bellingham (Washington) Public Schools
+T1  - Man and his resources: resource material for the sixth grade level
+SP  - 85
+KW  - Geography
+T2  - Living in the world today
+N1  - Produced under the sponsorship of the Social Living Committee Department of Instruction and Curriculum Research
+PB  - Bellingham (Washington) Public Schools
+CY  - Bellingham, WA
+LA  - English
+CN  - 910 .B43m
+SC  - Washington
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Economic geography: semester one: a curriculum guide
+Y1  - 1957
+D1  - 1957
+SP  - 64
+KW  - Geography
+T2  - A curriculum guide for economic geograpy
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 910 .C53c v. 1
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Economic geography: semester two: a geographic study of the economic development of selected regions of the world
+Y1  - 1957
+D1  - 1957
+SP  - 92
+KW  - Geography
+T2  - A curriculum guide for economic geograpy
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 910 .C53c v. 2
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - World geography : [grades 9 and 10]
+Y1  - 1958
+D1  - 1958
+SP  - 260
+KW  - Geography
+N1  - vii; ill. ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Cincinnati (Ohio) Public Schools. Curriculum bulletin
+V1  - 13
+PB  - Cincinnati (Ohio) Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 910 .C57w
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Post, Ronald E.
+A1  - Metzger, Melvin A.
+A2  - Cooperative Curriculum Service Center
+T1  - A cultural geography of our changing world
+Y1  - 1970
+D1  - 1970
+SP  - 305
+KW  - Geography
+PB  - Cooperative Curriculum Service Center
+CY  - Centreville, MD
+LA  - English
+CN  - 910 .C77c
+ER  -
+
+TY  - BOOK
+A2  - Covina-Valley (California) Unified School District
+T1  - World geography
+Y1  - 1962
+D1  - 07/1962
+SP  - 55
+KW  - Geography
+T2  - Resource guide for ninth grade social studies
+PB  - Covina-Valley (California) Unified School District
+LA  - English
+CN  - 910 .C87w
+LA  - English
+CN  - 910 .C87w
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Public Schools
+T1  - Seventh grade geography
+Y1  - 1956
+D1  - 01/1956
+SP  - 4
+KW  - Geography
+PB  - Duluth (Minnesota) Public Schools
+CY  - Duluth, MN
+LA  - English
+CN  - 910 .D88s
+SC  - Minnesota
+G2  - 7th
+ER  - 
+
+
+TY  - BOOK
+A2  - Association of American Geographers. High School Geography Project
+T1  - Cultural geography: student resources book
+Y1  - 1970
+D1  - 1970
+SP  - 79
+KW  - Urban geography
+KW  - City planning
+KW  - Cities and towns
+T2  - Geography in an urban age.
+PB  - Macmillan Publishing Company
+CY  - New York, NY
+LA  - English
+CN  - 910 .A84c v. 2
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Association of American Geographers. High School Geography Project
+T1  - Cultural geography: teacher's guide
+Y1  - 1970
+D1  - 1970
+SP  - 66
+KW  - Geography
+N1  - ill. ; 26 cm.; Other Titles: Teacher's guide for Cultural Geography; Responsibility: prepared by the High School Geography Project of the Association of American Geographers.
+T2  - Geography in an urban age.
+PB  - Macmillan Publishing Company
+CY  - New York, NY
+LA  - English
+CN  - 910 .A84c v. 1
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Association of American Geographers. High School Geography Project
+T1  - Cultural geography: student manual
+Y1  - 1970
+D1  - 1970
+SP  - 11
+KW  - Urban geography
+KW  - City planning
+KW  - Cities and towns
+T2  - Geography in an urban age.
+PB  - Macmillan Publishing Company
+CY  - New York, NY
+LA  - English
+CN  - 910 .A84c v. 3
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Forth Worth (Texas) Public Schools
+T1  - Social studies grade 9: handbook for teachers of world geography
+Y1  - 1964
+D1  - 1964
+SP  - 106
+KW  - Geography
+T2  - Forth Worth (Texas) Public Schools. Curriculum bulletin
+V1  - 310
+PB  - Forth Worth (Texas) Public Schools
+CY  - Forth Worth, TX
+LA  - English
+CN  - 910 .F74s
+SC  - Texas
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Ball, John M.
+T1  - Introducing new concepts of geography in the social studies curriculum
+Y1  - 1970
+D1  - 01/1970
+SP  - 46
+KW  - Geography
+N1  - 46 leaves ; 28 cm.; Responsibility: by John M. Ball.
+T2  - University of Georgia. Geography Curriculum Project. Occasional paper
+V1  - 1
+PB  - University of Georgia
+CY  - Athens, GA
+LA  - English
+CN  - 910 .G34i
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Ball, John M.
+T1  - A bibliography for geographic education
+Y1  - 1970
+D1  - 01/1970
+SP  - 109
+KW  - Bibliography
+KW  - Geography
+N1  - vii; 28 cm.; Genre/Form: Bibliography.; Responsibility: by John M. Ball.
+T2  - Geography Curriculum Project, University of Georgia. Revised publication
+V1  - 3
+PB  - University of Georgia
+CY  - Athens, GA
+LA  - English
+CN  - 910 .G34b
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Imperatore, William
+T1  - Earth : man's home, a beginning geography unit
+Y1  - 1968
+D1  - 1968
+KW  - Geography
+AB  - [1] Pupil workbook and pictorial test. -- [2] Teacher manual.
+N1  - 2 v. : ill. ; 29 cm.; Note(s): Cover title./ Map in pocket of volume one.; Responsibility: William Imperatore.
+T2  - University of Georgia. Geography Curriculum Project. Publication
+V1  - 1A
+V1  - 1BC
+PB  - University of Georgia, Research and Development Center in Educational Stimulation
+CY  - Athens, GA
+LA  - English
+CN  - 910 .G34e v. 1-2
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Steinbrink, John E.
+A2  - University of Georgia. Geography Curriculum Project
+T1  - Comparative rural landscapes : a conceptual geographic model
+Y1  - 1970
+D1  - 1970
+SP  - 137
+KW  - Rural geography
+KW  - Geography
+N1  - iii, 18, 137 leaves : ill. ; 28 cm.; Note(s): "Geography curriculum project."; Responsibility: John E. Steinbrink ; cartography by Alice Thiede and Lillian Tatum.
+PB  - University of Georgia
+CY  - Athens, GA
+LA  - English
+CN  - 910 .G34c
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A guide to the teaching of physical geography
+Y1  - 1963
+D1  - 1963
+SP  - 37
+KW  - Geography
+T2  - A discovery experience approach to generalization relating to physical geography
+PB  - Granite School District (Salt Lake City, Utah)
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 910 .G75d
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Grossmont (California) Union High School District
+T1  - Guide for geography instruction, ninth grade
+Y1  - 1961
+D1  - 1961
+KW  - Geography
+PB  - Grossmont (California) Union High School District
+CY  - Grossmont, CA
+LA  - English
+CN  - 910 .G87g v. 1
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Gabler, Robert E.
+A2  - National Council for Geographic Education
+T1  - A Handbook for geography teachers
+Y1  - 1966
+D1  - 1966
+SP  - 273
+KW  - Geography
+N1  - ill., maps ; 27 cm.; Note(s): Includes bibliographical references.; Responsibility: Robert E. Gabler, editor.
+T2  - Illinois Superintendent of Public Instruction. Geographic education series
+V1  - 6
+PB  - Publications Center, National Council for Geographic Education, Illinois State University
+CY  - Normal, IL
+LA  - English
+CN  - 910 .I291h
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) Superintendent of Schools
+T1  - Geographic materials adopted for use in elementary schools
+Y1  - 1956
+D1  - 06/1956
+KW  - Geography
+PB  - Los Angeles (California) Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 910 .L87g
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Grossmont (California) Union High School District
+T1  - World geography test bank
+Y1  - 1962
+D1  - 1962
+SP  - 81
+KW  - Geography
+N1  - 81 l. illus. 29 cm.
+T2  - Test bank, world geography.
+PB  - Grossmont (California) Union High School District
+CY  - Grossmont, CA
+LA  - English
+CN  - 910 .G87t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Bartow, Sarah
+A2  - Houston (Texas) Independent School District
+T1  - Geography, grade six
+Y1  - 1969
+D1  - 1969
+SP  - 49
+KW  - Geography
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 910 .H84g
+SC  - Texas
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Superintendent of Schools
+T1  - Geographic understandings : a comparative study of man's utilization of his environment in selected regions of the world
+Y1  - 1967
+D1  - 12/1967
+SP  - 113
+KW  - Geography
+KW  - Social sciences
+N1  - vii; ill. ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Los Angeles County (California) Superintendent of Schools. Laco
+V1  - 109
+ED  - Rev.
+PB  - Los Angeles County (California) Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 910 .L87gu
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois (Urbana-Champaign)
+T1  - Geography; audio-visual aids service
+Y1  - 1959
+D1  - 1959
+SP  - 72
+KW  - Audio-visual materials
+KW  - Geography
+PB  - University of Illinois (Urbana-Champaign)
+CY  - Champaign, IL
+LA  - English
+CN  - 910 .I29g
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Board of Education
+T1  - Resources for use in the social studies sixth grade: how people live in the western hemisphere
+Y1  - 1955
+D1  - 09/1955
+SP  - 85
+KW  - Geography
+KW  - Social sciences
+T2  - Los Angeles County (California) Board of Education. Curriculum supplement--social studies
+V1  - 3
+PB  - Los Angeles County (California) Board of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 910 .L87r v. 1
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Board of Education
+T1  - Resources for use in the social studies seventh grade: how people live in the eastern hemisphere
+Y1  - 1955
+D1  - 09/1955
+SP  - 85
+KW  - Geography
+KW  - Social sciences
+T2  - Los Angeles County (California) Board of Education. Curriculum supplement--social studies
+V1  - 4
+PB  - Los Angeles County (California) Board of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 910 .L87r v. 2
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Hill, Wilhelmina
+A1  - National Council for Geographic Education
+T1  - Curriculum guide for geographic education
+Y1  - 1964
+D1  - 1964
+SP  - 162
+KW  - Geography
+N1  - ix; ill. ; 23 cm.; Note(s): Includes bibliographical reference.
+T2  - National Council for Geographic Education. Geographic education series
+V1  - 3
+PB  - National Council for Geographic Education
+CY  - Normal, IL
+LA  - English
+CN  - 910 .N27c
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - An instructional guide, B7 Geography : a one-semester survey course
+Y1  - 1964
+D1  - 1964
+SP  - 77
+KW  - Geography
+T2  - Los Angeles (California) City School District. Publication
+V1  - X-40
+ED  - Experimental
+PB  - Los Angeles (California) City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 910 .L879i
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Christesen, R. E.
+A2  - Minnetonka (Minnesota) School District No. 276
+T1  - Human geography: a teacher's guide
+Y1  - 1961
+D1  - 07/1961
+SP  - 37
+KW  - Geography
+PB  - Minnetonka (Minnesota) School District No. 276
+CY  - Excelsior, MN
+LA  - English
+CN  - 910 .M66h
+SC  - Minnesota
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools
+T1  - Course of study, seventh grade world geography
+Y1  - 1958
+D1  - 09/1953
+SP  - 100
+KW  - Geography
+T2  - Montgomery County (Maryland) Public Schools. Bulletin
+V1  - 117
+PB  - Montgomery County (Maryland) Public Schools
+LA  - English
+CN  - 910 .M78w
+SC  - Maryland
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - New York (State) Bureau of Secondary Curriculum Development
+T1  - World geography bibliography
+Y1  - 1961
+D1  - 1961
+SP  - 79
+KW  - Bibliography
+KW  - Geography
+N1  - 79 p. 23 cm.; Genre/Form: Bibliography.; Note(s): "For use with the learning activities of the handbook Teaching world geography."/ Follows topic sequence 1-12 of the syllabus for social studies, grade 9, entitled: The economic world.
+PB  - New York (State) Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 910 .N53w
+SC  - New York
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Kohn, Clyde Frederick
+A2  - Northwestern University (Evanston, Illinois). School of Education
+T1  - The United States and the world today; an appraisal of geographic learnings for educational programs
+Y1  - 1957
+D1  - 1957
+SP  - 254
+KW  - Geography 
+AB  - pt. 1 New relations of the United States with other world area, 1945-1956: Four basic trends in the post world today / Harold H. McCarty -- Significant developments in the United States since 1945 / Mason Wade -- New relations of the United States with Canada / Clarence F. Jones -- New relations of the United States with Latin America / Arthur E. Moodie -- New relations of the United States with Western Europe / Philip L. Wagner -- New relations of the United States with the USSR / Edward B. Espenshade -- New relations of the United States with the Middle East / Donald R. Petterson -- New relations of the United States with Central and South Africa / Norton Ginsburg -- New relations of the United States the Asiatic triangle / Charles M. Davis -- New relations of the United States with the South Pacific Lands / Clyde F. Kohn, Donald Hughes -- pt. 2 Acquiring understandings of our new relations through geographic learning: The responsibiliy of the school for geographic learning -- The nature of geographic learning -- Sequential development in geographic learning -- Making provision for Geographic learning -- Instructional techniques in geographic learning -- The unit method in geographic learning: and example -- intermediate grades -- The unit method in geographic learning: and example -- high school -- Resources and equipment for geographic learning -- Measuring and evaluating geographic learning.
+N1  - xiii; maps, diagrs., tables. 20 cm.; Note(s): Contains papers and committee reports of the Workshop in Geography conceived by the School of Education and the Department of Geography, and offered during the 1956 summer session of Northwestern University./ "Recommended source material": p. 226-231./ Also issued online.; Responsibility: Edited by Clyde F. Kohn [associate professor] Northwestern University.
+PB  - Rand McNally
+CY  - Chicago, IL
+LA  - English
+CN  - 910 .N87u
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Seventh grade geography guide
+Y1  - 1965
+D1  - 07/1965
+SP  - 84
+KW  - Geography
+PB  - Oakland (California) Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 910 .O11ge
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - An approach to global geography: a social studies unit for the sixth grade
+Y1  - 1960
+D1  - Summer, 1960
+SP  - 130
+KW  - Geography
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 910 .P17g
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Northcott, Robert
+A2  - Palo Alto (California) Unified School District
+T1  - An approach to global geography: a social studies unit for the sixth grade
+Y1  - 1963
+D1  - Summer, 1963
+SP  - 219
+KW  - Geography
+ED  - Revised
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 910 .P17g 1963
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Twelfth grade elective geography
+KW  - Geography
+N1  - 1 v. various pagings
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 910 .P85g
+SC  - Oregon
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Wells, Keith
+A2  - Roseville (Minnesota) Schools
+T1  - Seventh grade geography
+Y1  - 1962
+D1  - 1962
+SP  - 109
+KW  - Geography
+N1  - 109 leaves ; 28 cm.; Note(s): Cover title: Geography 7.; Responsibility: by Keith Wells ; Roseville Schools.
+PB  - Roseville (Minnesota) Schools
+CY  - Roseville, MN
+LA  - English
+CN  - 910 .R81g
+SC  - Minnesota
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching world geography 1-2
+Y1  - 1965
+D1  - 1965
+SP  - 248
+KW  - Geography
+N1  - 248 p. ; cm; Responsibility: prepared by Dean H. Howard and John W. Harris
+ED  - Unedited
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 910 .S19g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Monica (California) Unified School District
+T1  - Geography: an integrative discipline (K-6)
+Y1  - 1967
+D1  - 1967
+KW  - Geography
+PB  - Santa Monica (California) Unified School District
+CY  - Santa Monica, CA
+LA  - English
+CN  - 910 .S236g
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District
+T1  - Geography of the Eastern Hemisphere : course of study for grade 7
+Y1  - 1964
+D1  - 1964
+SP  - 149
+KW  - Geography
+N1  - 149 p. ; 28 cm.; Responsibility: Philadelphia Public School.
+PB  - Philadelphia (Pennsylvania) School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 910 .P54g
+SC  - Pennsylvania
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) City Schools
+T1  - Pomona City schools curriculum monograph for social studies department, area--place geography, level--secondary
+Y1  - 1950
+D1  - 05/1950
+SP  - 21
+KW  - Geography
+PB  - Pomona (California) City Schools
+CY  - Pomona, CA
+LA  - English
+CN  - 910 .P78w
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Washington State tentative curriculum guide for geography : grade seven, 1960
+Y1  - 1960
+D1  - 1960
+SP  - 78
+KW  - Geography
+N1  - 78 p. ; 28 cm.; Note(s): Cover title: Curriculum guide, grade 7 geography.; Other Titles: Curriculum guide, grade 7 geography
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 910 .W31g
+SC  - Washington
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - A suggested program of map instruction for grades one through eight
+Y1  - 1957
+D1  - 01/1957
+SP  - 24
+KW  - Maps
+PB  - Culver City (California) Unified School District
+CY  - Culver City, Ca
+LA  - English
+CN  - 912 .C96s
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - First annual report on the program for the more capable learner
+Y1  - 1957
+D1  - 10/1957
+SP  - 15
+KW  - Gifted children
+PB  - Culver City (California) Unified School District
+CY  - Culver City, Ca
+LA  - English
+CN  - 371.9 .C96f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide, using maps and globes in Florida schools
+Y1  - 1962
+D1  - 1962
+SP  - 62
+KW  - Maps
+KW  - Globes
+AB  - Interpreting maps -- Using maps in actual situations -- Selecting and procuring maps -- Evolving long-range plans -- Handling and caring for maps -- Locating more information.
+N1  - vii; ges illustrations, maps 23 cm.; Note(s): Includes bibliographical references (pages 60-62).
+T2  - Florida State Dept. of Education. Bulletin
+V1  - 22-G
+PB  - Florida State Department of Education
+CY  - Tallahassee. FL
+LA  - English
+CN  - 912 .F63g
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Gengler, Charles R.
+A2  - Oregon Association for Supervision and Curriculum Development
+T1  - Mapology, the how much of what is where?
+Y1  - 1974
+D1  - 01/1974
+SP  - 39
+KW  - Maps
+N1  - ill. ; 28 cm.; Note(s): Cover title./ Oregon ASCD curriculum bulletin, no. 321, January 1974./ Includes bibliographical references.; Responsibility: prepared by Charles R. Gengler.
+T2  - Oregon ASCD curriculum bulletin
+V1  - 28
+IS  - 321
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 912 .O65m
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. The Social Studies and Science Curriculum Committee
+T1  - Social studies supplement: teaching map skills
+Y1  - 1960
+D1  - 1960
+SP  - 24
+KW  - Maps
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 912 .P54t
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Ryan, J. L.
+T1  - Developing map skills in the elementary grades
+Y1  - 1959
+D1  - 06/1959
+KW  - Maps
+PB  - San Francisco (California) Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 912 .S19d
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Allentown (Pennsylvania) City School District
+A2  - Louis E. Dieruff High School
+T1  - A pilot program in the humanities : "an experiment in despair"
+Y1  - 1965
+D1  - 02/1965
+SP  - 32
+KW  - Humanities
+PB  - Allentown (Pennsylvania) City School District
+CY  - Allentown, PA
+LA  - English
+CN  - 925 .A43h v. 1
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Allentown (Pennsylvania) City School District
+A2  - Louis E. Dieruff High School
+T1  - The humanities in high school: panel discussion of projects in Louis E. Dieruff high school
+Y1  - 1965
+D1  - 09/1965
+KW  - Humanities
+PB  - Allentown (Pennsylvania) City School District
+CY  - Allentown, PA
+LA  - English
+CN  - 925 .A43h v. 2
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District
+T1  - Maps, globes, and graphs : resource unit for fifth grade social studies (revised)
+Y1  - 1964
+D1  - 09/1964
+SP  - 63
+KW  - Geography
+KW  - Maps
+N1  - 63 leaves ; 22 x 27 cm.; Note(s): "September, 1964."/ "Compiled as a part of the work of an in-service class in the social studies under the direction of Mrs. Uriel L. Shields, Consultant in Elementary Education"--Foreword./ Includes bibliographical references (leaves 62-63).; Responsibility: Donald R. Sheldon, Jeff B. West.
+T2  - Stockton (California) Unified School District. Curriculum bulletin
+V1  - 170
+ED  - Revised
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 912 .S86m 1964
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Department of Education. Elementary Education Service
+T1  - Using maps and globes, K-7
+Y1  - 1969
+D1  - 08/1969
+SP  - 40
+KW  - Maps
+N1  - ill. (some col.) ; 15 x 23 cm.; Note(s): Includes bibliographical references (p. 37-40).
+ED  - Revised
+PB  - Virginia State Department of Education. Elementary Education Service
+CY  - Richmond, VA
+LA  - English
+CN  - 912 .V81u
+SC  - Virginia
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Ward, Paul L.
+T1  - Elements of historical thinking
+Y1  - 1971
+D1  - 1971
+SP  - 41
+KW  - History
+N1  - 41 p. 23 cm.; Note(s): "An earlier version of this pamphlet, entitled A style of history for beginners, appeared in 1959 in a series published by the Service Center for Teachers of History."/; Bibliography: p. 39-41.
+T2  - Discussions on teaching
+V1  - 1
+PB  - American Historical Association
+CY  - Washington, DC
+LA  - English
+CN  - 925 .A51d v. 1
+ER  - 
+
+TY  - BOOK
+A1  - O'Connor, John E.
+A1  - Jackson, Martin A.
+T1  - Teaching history with film
+Y1  - 1974
+D1  - 1974
+SP  - 74
+KW  - History
+T2  - Discussions on teaching
+V1  - 2
+PB  - American Historical Association
+CY  - Washington, DC
+LA  - English
+CN  - 925 .A51d v. 2
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Curriculum and resource guide for world history
+Y1  - 1964
+D1  - 1964
+SP  - 30
+KW  - World history
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 925 .A53w
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools. School Committee
+T1  - Curriculum guide in world history for senior high schools
+Y1  - 1955
+D1  - 1955
+SP  - 67
+KW  - World history
+N1  - 67 p. ; 23 cm.; Responsibility: Boston Public Schools.
+T2  - Boston (Massachusetts) Public Schools. School Committee. School document
+V1  - 4
+PB  - Boston (Massachusetts) Public Schools. School Committee
+CY  - Boston, MA
+LA  - English
+CN  - 925 .B74c
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nicholas Senn High School (Chicago, Illinois)
+T1  - Project: advance placement in history: a program in quality education
+Y1  - 1963
+D1  - 1963
+SP  - 16
+KW  - History
+PB  - Nicholas Senn High School
+CY  - Chicago, IL
+LA  - English
+CN  - 925 .C531p
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Covina-Valley (California) Unified School District
+T1  - A resource guide for tenth grade social studies: world history and cultures
+Y1  - 1962
+D1  - 07/1962
+SP  - 133
+KW  - World history
+PB  - Covina-Valley (California) Unified School District
+CY  - Covina, CA
+LA  - English
+CN  - 925 .C87w
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Dimond, Stanley E.
+A1  - Beck, Elsie M.
+A2  - Detroit (Michigan) Public Schools
+T1  - The story of modern man: a pupil manual and study guide in elementary social studies
+Y1  - 1952
+D1  - 1952
+SP  - 80
+KW  - World history
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 925 .D41s
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - El Paso (Texas) Public Schools
+T1  - General guide for world history teachers with provisions for individual differences in pupil ability, experience, and interest, grades nine and ten
+Y1  - 1961
+D1  - 08/1961
+SP  - 246
+KW  - World history
+PB  - El Paso (Texas) Public Schools
+CY  - El Paso, TX
+LA  - English
+CN  - 925 .E37g v. 1
+SC  - Texas
+G2  - 9th
+G2  - 10th
+ER  -
+
+TY  - BOOK
+A2  - El Paso (Texas) Public Schools
+T1  - A supplement to The general guide for world history teachers with provisions for individual differences in pupil ability, experience, and interest, grades nine and ten
+Y1  - 1961
+D1  - 08/1961
+SP  - 41
+KW  - World history
+PB  - El Paso (Texas) Public Schools
+CY  - El Paso, TX
+LA  - English
+CN  - 925 .E37g v. 3
+SC  - Texas
+G2  - 9th
+G2  - 10th
+ER  -
+
+TY  - BOOK
+A2  - El Paso (Texas) Public Schools
+T1  - Problem-solving experiences for world history pupils. Grades nine and ten
+Y1  - 1961
+D1  - 08/1961
+SP  - 112
+KW  - World history
+N1  - 112 p. illus., maps. 23 cm.; Note(s): Accompanied by teacher's ed., General guide for world history teachers, with provisions for individual differences in public ability, experience, and interest. 246 p. illus., maps. 28 cm.
+PB  - El Paso (Texas) Public Schools
+CY  - El Paso, TX
+LA  - English
+CN  - 925 .E37g v. 2
+SC  - Texas
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - World history: audio-visual materials
+Y1  - 1952
+D1  - 09/1952
+SP  - 41
+KW  - World history
+PB  - Fresno (California) City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 925 .F88w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Bryant, Margaret E.
+T1  - The museum and the school
+Y1  - 1961
+D1  - 1961
+SP  - 15
+KW  - Museums and schools
+KW  - History
+N1  - 15 p. ; 22 cm.; Responsibility: by Margaret E. Bryant.
+T2  - Teaching of history leaflet
+V1  - 6
+PB  - Historical Association
+CY  - London, UK
+LA  - English
+CN  - 925 .H65t no. 6
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A1  - Chaloner, W. H.
+T1  - The skilled artisans during the Industrial Revolution, 1750-1850
+Y1  - 1969
+D1  - 1969
+SP  - 16
+KW  - Artisans
+KW  - Great Britain
+N1  - 16 p. 22 cm.; Note(s): Bibliographical references included in "Notes" (p. 14-16).; Responsibility: by W.H. Chaloner.
+T2  - Aids for teachers series
+V1  - 15
+PB  - Historical Association
+CY  - London, UK
+LA  - English
+CN  - 925 .H65a no. 15
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A1  - Duckham, Baron Frederick
+T1  - The transport revolution, 1750-1830
+Y1  - 1967
+D1  - 1967
+SP  - 16
+KW  - History
+KW  - Transportation
+KW  - Great Britain
+N1  - 16 p. 22 cm.; Genre/Form: History.; Note(s): Bibliography: p. 15-16.; Responsibility: by Baron F. Duckham.
+T2  - Aids for teachers series
+V1  - 14
+PB  - Historical Association
+CY  - London, UK
+LA  - English
+CN  - 925 .H65a no. 14
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A1  - Schmitt, Bernadotte Everly
+T1  - The origins of the First World War
+Y1  - 1958
+D1  - 1958
+SP  - 26
+KW  - World War I
+KW  - War
+N1  - 26 p. ; 22 cm.; Responsibility: by Bernadotte E. Schmitt.
+T2  - Historical Association. General series
+V1  - 39
+PB  - Historical Association
+CY  - London, UK
+LA  - English
+CN  - 925 .H65p no. 39
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A1  - Burston, Wyndham Hedley
+T1  - Social studies and the history teacher
+Y1  - 1954
+D1  - 1954
+SP  - 27
+KW  - History
+N1  - 27 S.; Responsibility: W. H. Burston; reprinted 1962
+T2  - Teaching of history leaflet
+V1  - 15
+ED  - Reprinted
+PB  - Historical Association
+CY  - London, UK
+LA  - English
+CN  - 925 .H65t no. 15
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A1  - Hill, C. P.
+T1  - The teaching of history to non-specialists in sixth forms
+Y1  - 1962
+D1  - 1962
+SP  - 19
+KW  - Great Britain
+KW  - History
+N1  - 19 p. ; 22 cm.; Responsibility: by C.P. Hill.
+T2  - Teaching of history leaflet
+V1  - 19
+PB  - Historical Association
+CY  - London, UK
+LA  - English
+CN  - 925 .H65t  no. 19
+SC  - United Kingdom
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Burston, Wyndham Hedley
+T1  - Sixth form history teaching
+Y1  - 1957
+T1  - 1957
+SP  - 30
+KW  - Great Britain
+KW  - History
+N1  - 30 p., 22 cm.; Responsibility: edited by W.H. Burston.
+T2  - Teaching of history series
+V1  - 17
+PB  - Historical Association
+CY  - London, UK
+LA  - English
+CN  - 925 .H65t no. 17
+SC  - United Kingdom
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Public Schools
+T1  - World history I-II
+Y1  - 1954
+D1  - 1954-1955
+SP  - 62
+KW  - World history
+N1  - forms ; 36 cm.; Note(s): Includes bibliographies.
+T2  - Houston (Texas) Public Schools. Curriculum bulletin
+V1  - 54CBM66
+PB  - Houston (Texas) Public Schools
+CY  - Houston, TX
+LA  - English
+CN  - 925 .H84w
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois. Division of University Extension. Audio-Visual Aids Service
+T1  - History, 1959-1960
+Y1  - 1959
+D1  - 1959-1960
+SP  - 71
+KW  - History
+KW  - Audio-visual materials
+PB  - University of Illinois
+CY  - Champaign, IL
+LA  - English
+CN  - 925 .I29h
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Ball State Teachers College
+T1  - World history: the mankind perspective
+Y1  - 1964
+D1  - Autumn, 1964
+SP  - 75
+KW  - World history
+PB  - Ball State Teachers College
+CY  - Muncie, IN
+LA  - English
+CN  - 925 .I39w
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, David
+T1  - The Monmouth Rebellion & the Bloody Assizes: a collection of contemporary documents
+KW  - Monmouth's Rebellion, 1685
+KW  - History
+KW  - Great Britain
+AB  - Introductory leaflet -- 1. Map from Itinerarium Angliae / by John Ogilby, 1675 -- 2. Four pages from the Duke of Monmouth's pocket book -- 3. Edward Dummer's plans of the Battle of Sedgemoor -- 4. Letter from Lord Chief Justice Jeffreys to King James II -- 5. Extract from An Account of the Proceedings Against the Rebells -- 6. Letter from the Duke of Monmouth to James II -- 7. Extract from A Relation of the Great Sufferings of Henry Pitman -- 8. Monmouth's declaration of illegitimacy, in his own hand -- 9. Monmouth's death warrant -- 10. Print of Judge Jeffreys being caught in Wapping -- 11. Transcripts of Exhibits 2, 4 and 6 -- 12. Five broadsheets : I. The new King ; II. The exiled Duke ; III. The last battle ; IV. "The Hanging Judge" ; V. The aftermath.; Time: 1660 - 1685
+N1  - 1 portfolio, facsims.; rts. 23 x 35 cm.; Genre/Form: Facsimiles. History. Sources.; Note(s): One introductory sheet, 10 reproductions of contemporary documents, 1 transcript and 5 explanatory broadsheets in portfolio./ Includes bibliographical references.
+T2  - Jackdaw
+V1  - 34
+PB  - Jackdaw Publications
+CY  - London, UK
+LA  - English
+CN  - 925 .J12j no. 34
+ER  - 
+
+TY  - BOOK
+A1  - Lacey, Robert
+T1  - The French Revolution; a collection of contemporary documents
+KW  - French Revolution
+KW  - France
+AB  - v. 1. The fall of the Bastille.--v. 2. The Terror.; Time: 1789 - 1799
+N1  - 2 portfolios. illus. (part col.), facsims., map, plan; rts. 23 x 35 cm.; Genre/Form: History. Sources.; Note(s): Includes introductory sheets, reproductions of contemporary documents and illustrations, transcript and translation sheets, and broadsheets in each portfolio./ Bibliographies included on introductory sheets.
+T2  - Jackdaw
+V1  - 57
+V1  - 58
+PB  - Jackdaw Publications
+CY  - London, UK
+LA  - English
+CN  - 925 .J12j no. 57-58
+ER  - 
+
+TY  - GEN
+A1  - Langdon-Davies, John
+T1  - Magna carta: a collection of contemporary documents
+KW  - Magna carta
+KW  - History
+AB  - Introductory sheet (1 folded sheet) -- Facsimile of Magna Carta from Lincoln Cathedral -- Translation of Magna Carta -- Facsimile of Charter Roll, 1199 -- Facsimile of a Pipe Roll, 1130 -- Two pages from a Bestiary of the late 12th century (1 sheet) -- King John's tomb in Worcester Cathedral -- Color poster of the Royal standard from King John's reign to the present day -- Costume at the time of King John (2 sheets) -- Broadsheets: King John, 1167-1216 ; Barons and fuedal lords ; Magna Carta : what it was and what it was not ; The signing of the Magna Carta ; King John and history ; England in 1215 ; Did King John lose his treasure in the wash? (map and text).
+N1  - 1 portfolio; Genre/Form: History.; Geographic: Great Britain -- History. Great Britain.; Title Subject: Magna Carta. Magna Carta.; Note(s): Issued in portfolio.; Other Titles: Running title on kit items:; King John & Magna carta; Responsibility: compiled and edited by John Langdon-Davies.
+T2  - Jackdaw
+V1  - 3
+PB  - G.P. Putnam's Sons
+CY  - New York, NY
+LA  - English
+CN  - 925 .J12j no. 3
+ER  - 
+
+TY  - BOOK
+A1  - Langdon-Davies, John
+T1  - The Mayflower & the Pilgrim fathers
+KW  - Pilgrims
+KW  - New Plymouth Colony
+KW  - History
+T2  - Jackdaw
+V1  - 4
+PB  - G.P. Putnam's Sons
+CY  - New York, NY
+LA  - English
+CN  - 925 .J12j no. 4
+ER  - 
+
+TY  - BOOK
+A1  - Nicholson, Irene
+T1  - The conquest of Mexico: a collection of contemporary material
+KW  - Conquest of Mexico (1519-1540)
+KW  - History
+KW  - Mexico
+AB  - Introductory leaflet -- 1. Four pages from the Codex Laud, a Maya folding book, with an interpretation -- 2. The Song of Xipe and other songs from the Florentine Codex -- 2a. Translation of 2 -- 3. Dürer engraving of Hernán Cortés's plan of Tenochtitlán -- 4. Mexican gods and temples -- 5. Four pages from the Codex Mendoza, a manuscript made soon after the conquest -- 6. Two pages from the Lienzo de Tlaxcala, a manuscript made by a native of Mexico shortly after the conquest -- 7. Page from the True History of the Conquest of New Spain / by Bernal Díaz del Castillo -- 7a. Translation of 7 -- 8. Two pages from a letter sent by Hernán Cortés to the Emperor Charles V -- 8a. Translation of 8 -- 9. Maya stone lintel depicting a religious penance -- 10. Six broadsheets : I. Two cultures mingle ; II. Ancient Mexican civilizations ; III. Cortés scales the mountains ; IV. The Spaniards defeated ; V. Cortés fights back ; VI. Aftermath.; Time: 1519 - 1540
+N1  - 1 portfolio. illus., facsims. 23 x 35 cm.; Genre/Form: History. Sources.; Note(s): One introductory sheet, 9 reproductions of contemporary documents, 3 translations, and 6 explanatory broadsheets./ Bibliography included on introductory sheet.
+T2  - Jackdaw
+V1  - 51
+PB  - Jackdaw Publications
+CY  - London, UK
+LA  - English
+CN  - 925 .J12j no. 51
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Tentative curriculum guides in world history
+Y1  - 1959
+D1  - 07/1959
+SP  - 19
+KW  - World history
+N1  - Honors A general reading level lower reading level
+T2  - Kansas City (Missouri) Public Schools. Secondary curriculum bulletin
+V1  - 116
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 925 .K15t
+SC  - Missouri
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services. Curriculum Branmch
+T1  - An instructional guide : world history and geography 2 : a one-semester survey course : grade 10
+Y1  - 1963
+D1  - 1963
+SP  - 132
+KW  - Geography
+KW  - World history
+ED  - Experiment ed
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 925 .L87i
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Roberts, Anna L.
+A1  - Shearer, Elga Meta
+A1  - Long Beach City Schools. Department of Curriculum and Educational Research
+T1  - How record keeping has helped man's progress, a sixth grade unit
+Y1  - 1946
+D1  - 02/1946
+SP  - 43
+KW  - History
+N1  - 3 preliminary leaves, 43 leaves folded table, 27 cm; Note(s): At head of title; Long Beach Public Schools./ "Audio-visual materials": pages 30-34; Bibliography: p. 35-43.; Responsibility: by Anna L. Roberts ... assisted by Elga M. Shearer ... Edited and published by Department of Curriculum and Educational Research.
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 925 .L84h
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Horn, R. A.
+A2  - Cleveland (Ohio) Public Schools. Division of Social Studies
+A1  - Ohio State State Board of Education
+T1  - Teachers' guides : world history for the academically talented, advanced placement European history
+Y1  - 1963
+D1  - 1963
+SP  - 152
+KW  - Teaching
+KW  - World history
+KW  - Curricula
+N1  - vi; ; 23 cm.; Note(s): Ohio Docs. no.: OED 208.2:T2531/963.; Responsibility: prepared by Cleveland Public Schools, Division of Social Studies, in cooperation with the Ohio Dept. of Education, under the direction of R.A. Horn, Director, Division of Special Education.
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 925 .O37t
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - World history and geography 1 : an instructional guide, grade 9
+Y1  - 1967
+D1  - 1967
+SP  - 69
+KW  - World history
+KW  - Geography
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 925 .L87w
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Thompson, Angela
+A1  - Doolan, Barbara
+A2  - Medford (Oregon) Public Schools
+T1  - Biographical histories from man lands, fourth grade
+Y1  - 1958
+D1  - 1958
+SP  - 89
+KW  - World history
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 925 .M48b
+SC  - Oregon
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan Schools of Nashville and Davidson County
+T1  - Old world--westward bound: social studies a resource guide for sixth grade teachers
+Y1  - 1964
+D1  - 05/1964
+SP  - 80
+KW  - World history
+KW  - Geography
+PB  - Metropolitan Schools of Nashville and Davidson County
+LA  - English
+CN  - 925 .N25o
+SC  - Tennessee
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Mallery,David
+T1  - Asia and Africa in the study of history; examples of school programs seeking to teach students to think historically about non-Western civilizations
+Y1  - 1962
+T1  - 1962
+SP  - 59
+KW  - Asia
+KW  - History
+KW  - Africa
+N1  - 59 p. 23 cm.; Genre/Form: History.; Note(s): Includes bibliographical references.
+T2  - National Council of Independent Schools. Monograph
+V1  - 4
+PB  - National Council of Independent Schools
+CY  - Boston, MA
+LA  - English
+CN  - 925 .N27a
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - World history bibliography
+Y1  - 1958
+D1  - 1958
+SP  - 112
+KW  - World history
+KW  - Bibliography
+N1  - 112 p. ; 23 cm.; Genre/Form: Bibliography. History.; Note(s): "Prepared for use with ... the handbook Teaching world history.
+PB  - University of the State of New York, the State Education Department, Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 925 .N53w
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Culture and civilization
+Y1  - 1956
+D1  - 1956
+SP  - 64
+KW  - Civilization
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 925 .P85c
+SC  - Oregon
+ER  - 

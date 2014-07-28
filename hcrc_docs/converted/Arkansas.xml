@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+    <doc>
+        <field name="type">Book</field>
+        <field name="title">The free common schools of Arkansas. An act to maintain a system of free
+            common schools for the state of Arkansas. Approved, December 7th, 1875</field>
+        <field name="year">1876</field>
+        <field name="date">1876</field>
+        <field name="pages">31</field>
+        <field name="keywords">Educational law and legislation</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">P. A. Ladue</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1875</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">The Arkansas co-operative program to improve instruction. Study
+            program</field>
+        <field name="year">1933</field>
+        <field name="date">1933</field>
+        <field name="pages">153</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">2 preliminary leaves, [3]-153 pages illustrations 23 cm.; Note(s):
+            Includes references./ Includes bibliographical references (87-94).; Responsibility: C.M.
+            Hirst, state commissioner. Ed McCuistion, director. Hollis L. Caswell [and] Doak
+            Campbell, general consultants</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">The Arkansas co-operative program to improve instruction
+            bulletin</field>
+        <field name="series_vol">1</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1933</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">School buildings. Suggestions for the selection and improvement of
+            sites-the construction of buildings, and their decoration and equipment-heating and
+            ventilation</field>
+        <field name="year">1911</field>
+        <field name="date">1911</field>
+        <field name="pages">63</field>
+        <field name="keywords">School buildings</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1911</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Little, Harry A.</field>
+        <field name="author_nat">Harry A. Little</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">Public transportation of school pupils in Arkansas</field>
+        <field name="year">1930</field>
+        <field name="date">09/1930</field>
+        <field name="pages">45</field>
+        <field name="keywords">Transportation</field>
+        <field name="notes">45 pages including illustrations, forms 24 cm; Note(s): Cover title./
+            Includes bibliographical references (page 45).; Responsibility: Prepared by Harry A.
+            Little, assistant director, Division of Research and Surveys. Arkansas State Department
+            of Education. C.M. Hirst, state superintendent of public instruction. Little Rock,
+            Arkansas. September, 1930</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1930</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">Study of local school units in Arkansas</field>
+        <field name="year">1937</field>
+        <field name="date">1937</field>
+        <field name="pages">214</field>
+        <field name="keywords">Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1937</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hall, Jessie Helen Sims</field>
+        <field name="author_nat">Jessie Helen Sims Hall</field>
+        <field name="title">Arkansas 1836-1936. Study of its growth and characteristics in
+            observance of its centenary year 1936. Presented by Mr. Robinson, February 24th
+            [Calendar Day, March 16th] 1936. Referred to the committee on printing</field>
+        <field name="year">1936</field>
+        <field name="date">1936</field>
+        <field name="pages">48</field>
+        <field name="keywords">History</field>
+        <field name="notes">48 p. 23 cm.; Genre/Form: Bibliography. History</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">U.S. 74th Congress, 2d Session, Senate Document</field>
+        <field name="series_vol">191</field>
+        <field name="publisher">United States Government Printing Office</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1936</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Stinnett, T. M.</field>
+        <field name="author_nat">T. M. Stinnett</field>
+        <field name="author">Owens, Morgan Richard</field>
+        <field name="author_nat">Morgan Richard Owens</field>
+        <field name="author">Mitchell, S. D.</field>
+        <field name="author_nat">S. D. Mitchell</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">Educational opportunities in Arkansas for returned war veterans, under
+            provisions of the Service men's readjustment act of 1944, the G.I. bill of
+            rights</field>
+        <field name="year">1944</field>
+        <field name="date">1944</field>
+        <field name="pages">51</field>
+        <field name="keywords">Veterans</field>
+        <field name="notes">51 pages ; 23 cm; Note(s): "Edited by T.M. Stinnett ... with the
+            cooperation and assistance of Dr. M.R. Owens ... and S.D. Mitchell."--Foreword.; Other
+            Titles: G.I. bill of rights</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1944</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Board of Vocational Education. Division of
+            Vocational Rehabilitation</field>
+        <field name="title">Disability and rehabilitation : a problem that concerns all the
+            people</field>
+        <field name="date">1952?</field>
+        <field name="keywords">Vocational rehabilitation</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Board of Vocational Education. Arkansas Division of
+            Vocational Rehabilitation</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1952?</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">1964 School census for the State of Arkansas</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">10</field>
+        <field name="keywords">School census</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1964</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">1972 School census for the State of Arkansas</field>
+        <field name="year">1972</field>
+        <field name="date">1972</field>
+        <field name="pages">13</field>
+        <field name="keywords">School census</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1972</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas Legislative Council. Research Department</field>
+        <field name="title">Administration of public school funds in Arkansas</field>
+        <field name="year">1958</field>
+        <field name="date">10/1958</field>
+        <field name="pages">15</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="series_title">Arkansas Legislative Council Research report</field>
+        <field name="series_vol">88</field>
+        <field name="publisher">Arkansas Legislative Council</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1958</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Educational Research Services, Inc.</field>
+        <field name="title">A study of the operation of the Minimum Foundation Program Act of
+            Arkansas</field>
+        <field name="year">1964</field>
+        <field name="date">09/1964</field>
+        <field name="pages">43</field>
+        <field name="keywords">School Finance</field>
+        <field name="notes">iv; ; 28 cm.; Note(s): "September 1964."/ Chiefly tables.;
+            Responsibility: prepared for the Arkansas State Board of Education pursuant to Act 156
+            of 1963 of the General Assembly of the State of Arkansas [by] Educational Research
+            Services</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Educational Research Services</field>
+        <field name="pub_place">White Plains, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1964</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">Arkansas public school finance program, 1965-66</field>
+        <field name="year">1966</field>
+        <field name="date">06/1966</field>
+        <field name="pages">7</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">7 p. ; 19 cm.; Note(s): "June 1966."/ Caption title.; Responsibility:
+            prepared by the state departments of education and the U.S. Office of Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">United States Department of Health, Education, and Welfare. Office
+            of Education, Bureau of Elementary and Secondary Education</field>
+        <field name="pub_place"> Washington, D.C.</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1966</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas State Department of Education</field>
+        <field name="title">Outstanding indebtedness of the public schools of Arkansas</field>
+        <field name="year">1964</field>
+        <field name="date">06/1964</field>
+        <field name="pages">24</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas State Department of Education</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1964</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Sparkman,James T.</field>
+        <field name="author_nat"/>
+        <field name="corp_author">Arkansas Commission on Coordination of Higher Educational
+            Finance</field>
+        <field name="title">Comprehensive study of higher education in Arkansas</field>
+        <field name="year">1968</field>
+        <field name="date">09/1968</field>
+        <field name="pages">304</field>
+        <field name="keywords">Educational planning</field>
+        <field name="keywords">Universities and colleges</field>
+        <field name="notes">xiv; illus., maps. 27 cm.; Note(s): Includes bibliographical
+            references.; Responsibility: by James T. Sparkman, study director ... [et al.]</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas Commission on Coordination of Higher Educational
+            Finance</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1968</field>
+        <field name="state_country">Arkansas</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas Bureau of Legislative Research. Budget and Fiscal Review
+            Section</field>
+        <field name="title">A comprehensive study of the compensation plan for the state of
+            Arkansas</field>
+        <field name="year">1974</field>
+        <field name="date">05/1974</field>
+        <field name="pages">41</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas Bureau of Legislative Research</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1974</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arkansas Legislative Council. Research Department</field>
+        <field name="title">Teacher tenure statutes in the fifty states</field>
+        <field name="year">1974</field>
+        <field name="date">03/1974</field>
+        <field name="pages">24</field>
+        <field name="keywords">Teachers</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arkansas Legislative Council</field>
+        <field name="pub_place">Little Rock, AK</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A4 1974</field>
+        <field name="state_country">Arkansas</field>
+    </doc>
+
+</add>

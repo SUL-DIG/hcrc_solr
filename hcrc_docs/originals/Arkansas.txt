@@ -1,0 +1,272 @@
+TY  - BOOK
+T1  - The free common schools of Arkansas. An act to maintain a system of free common schools for the state of Arkansas. Approved, December 7th, 1875
+Y1  - 1876
+D1  - 1876
+SP  - 31
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - P. A. Ladue
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1875
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - The Arkansas co-operative program to improve instruction. Study program
+Y1  - 1933
+D1  - 1933
+SP  - 153
+KW  - Curricula
+N1  - 2 preliminary leaves, [3]-153 pages illustrations 23 cm.; Note(s): Includes references./ Includes bibliographical references (87-94).; Responsibility: C.M. Hirst, state commissioner. Ed McCuistion, director. Hollis L. Caswell [and] Doak Campbell, general consultants
+N1  - Shelved in Cubberley Library Reading Room
+T2  - The Arkansas co-operative program to improve instruction bulletin
+V1  - 1
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1933
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - School buildings. Suggestions for the selection and improvement of sites-the construction of buildings, and their decoration and equipment-heating and ventilation
+Y1  - 1911
+D1  - 1911
+SP  - 63
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1911
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A1  - Little, Harry A.
+A2  - Arkansas State Department of Education
+T1  - Public transportation of school pupils in Arkansas
+Y1  - 1930
+D1  - 09/1930
+SP  - 45
+KW  - Transportation
+N1  - 45 pages including illustrations, forms 24 cm; Note(s): Cover title./ Includes bibliographical references (page 45).; Responsibility: Prepared by Harry A. Little, assistant director, Division of Research and Surveys. Arkansas State Department of Education. C.M. Hirst, state superintendent of public instruction. Little Rock, Arkansas. September, 1930
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1930
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - Study of local school units in Arkansas
+Y1  - 1937
+D1  - 1937
+SP  - 214
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1937
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Jessie Helen Sims
+T1  - Arkansas 1836-1936. Study of its growth and characteristics in observance of its centenary year 1936. Presented by Mr. Robinson, February 24th [Calendar Day, March 16th] 1936. Referred to the committee on printing
+Y1  - 1936
+D1  - 1936
+SP  - 48
+KW  - History
+N1  - 48 p. 23 cm.; Genre/Form: Bibliography. History
+N1  - Shelved in Cubberley Library Reading Room
+T2  - U.S. 74th Congress, 2d Session, Senate Document 
+V1  - 191
+PB  - United States Government Printing Office
+CY  - Washington, DC
+LA  - English
+CN  - 379.74 .A4 1936
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A1  - Stinnett, T. M.
+A1  - Owens, Morgan Richard
+A1  - Mitchell, S. D.
+A2  - Arkansas State Department of Education
+T1  - Educational opportunities in Arkansas for returned war veterans, under provisions of the Service men's readjustment act of 1944, the G.I. bill of rights
+Y1  - 1944
+D1  - 1944
+SP  - 51
+KW  - Veterans
+N1  - 51 pages ; 23 cm; Note(s): "Edited by T.M. Stinnett ... with the cooperation and assistance of Dr. M.R. Owens ... and S.D. Mitchell."--Foreword.; Other Titles: G.I. bill of rights
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1944
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Board of Vocational Education. Division of Vocational Rehabilitation
+T1  - Disability and rehabilitation : a problem that concerns all the people
+D1  - 1952?
+KW  - Vocational rehabilitation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Board of Vocational Education. Arkansas Division of Vocational Rehabilitation
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1952?
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - 1964 School census for the State of Arkansas
+Y1  - 1964
+D1  - 1964
+SP  - 10
+KW  - School census
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1964
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - 1972 School census for the State of Arkansas
+Y1  - 1972
+D1  - 1972
+SP  - 13
+KW  - School census
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1972
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas Legislative Council. Research Department
+T1  - Administration of public school funds in Arkansas
+Y1  - 1958
+D1  - 10/1958
+SP  - 15
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Arkansas Legislative Council Research report
+V1  - 88
+PB  - Arkansas Legislative Council
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1958
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Educational Research Services, Inc.
+T1  - A study of the operation of the Minimum Foundation Program Act of Arkansas
+Y1  - 1964
+D1  - 09/1964
+SP  - 43
+KW  - School Finance
+N1  - iv; ; 28 cm.; Note(s): "September 1964."/ Chiefly tables.; Responsibility: prepared for the Arkansas State Board of Education pursuant to Act 156 of 1963 of the General Assembly of the State of Arkansas [by] Educational Research Services
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Educational Research Services
+CY  - White Plains, NY
+LA  - English
+CN  - 379.74 .A4 1964
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - Arkansas public school finance program, 1965-66
+Y1  - 1966
+D1  - 06/1966
+SP  - 7
+KW  - School finance
+N1  - 7 p. ; 19 cm.; Note(s): "June 1966."/ Caption title.; Responsibility: prepared by the state departments of education and the U.S. Office of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - United States Department of Health, Education, and Welfare. Office of Education, Bureau of Elementary and Secondary Education
+CY  -  Washington, D.C.
+LA  - English
+CN  - 379.74 .A4 1966
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - Outstanding indebtedness of the public schools of Arkansas
+Y1  - 1964
+D1  - 06/1964
+SP  - 24
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1964
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A1  - Sparkman,James T.
+A2  - Arkansas Commission on Coordination of Higher Educational Finance
+T1  - Comprehensive study of higher education in Arkansas
+Y1  - 1968
+D1  - 09/1968
+SP  - 304
+KW  - Educational planning
+KW  - Universities and colleges
+N1  - xiv; illus., maps. 27 cm.; Note(s): Includes bibliographical references.; Responsibility: by James T. Sparkman, study director ... [et al.]
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas Commission on Coordination of Higher Educational Finance
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1968
+SC  - Arkansas
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas Bureau of Legislative Research. Budget and Fiscal Review Section
+T1  - A comprehensive study of the compensation plan for the state of Arkansas
+Y1  - 1974
+D1  - 05/1974
+SP  - 41
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas Bureau of Legislative Research
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1974
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas Legislative Council. Research Department
+T1  - Teacher tenure statutes in the fifty states
+Y1  - 1974
+D1  - 03/1974
+SP  - 24
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Arkansas Legislative Council
+CY  - Little Rock, AK
+LA  - English
+CN  - 379.74 .A4 1974
+SC  - Arkansas
+ER  - 
+

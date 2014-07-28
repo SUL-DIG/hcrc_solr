@@ -1,0 +1,2000 @@
+
+
+TY  - BOOK
+A1  - Lerea, Joan O'Keefe
+A2  - North Illinois State College. Swen Franklin Parson Library
+T1  - Recordings useful in the teaching of United States history
+SP  - 10
+KW  - United States history
+PB  - North Illinois State College
+CY  - DeKalb, IL
+LA  - English
+CN  - 973 .I29r
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Curriculum guide in United States government : grade 12
+Y1  - 1965
+D1  - 1965
+SP  - 60
+KW  - Political science
+KW  - Politics and government
+KW  - United States
+N1  - 60 pages ; 23 cm; Note(s): Includes bibliographical references.
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 973 .I39ug
+SC  - Indiana
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - United States history, grade 11
+Y1  - 1965
+D1  - 1965
+SP  - 76
+KW  - Social sciences
+KW  - United States history
+N1  - 76 pages ; 23 cm; Genre/Form: History.; Note(s): For grade 11.
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 973 .I39u
+SC  - Indiana
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - American history, grades 7-8
+Y1  - 1946
+D1  - 1946
+SP  - 150
+KW  - United States history
+T2  - Iowa elementary teachers handbook
+V1  - 12
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 973 .I64a
+SC  - Iowa
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Bergman, Lois
+A1  - Harper, Corinne Dorothy
+T1  - Teachers' guide to historical information and understandings in junior high school fiction: American revolutionary war period
+Y1  - 1960
+D1  - 06/1960
+SP  - 42
+KW  - Bibliography
+KW  - United States history
+KW  - American Revolution, 1775-1783
+T2  - Education Service Publications
+V1  - 24
+PB  - Iowa State Teachers College
+CY  - Cedar Falls, IA
+LA  - English
+CN  - 973 .I65t
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Jefferson County (Colorado) Public Schools. School District R-1
+T1  - Great issues in American history : an enrichment program for American history
+Y1  - 1960
+D1  - 1960?
+SP  - 201
+KW  - United States history
+N1  - 201 p. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: Jefferson County, Colorado School District R-1.
+PB  - Jefferson County (Colorado) Public Schools. School District R-1
+CY  - Lakewood, CO
+LA  - English
+CN  - 973 .J45g
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Curriculum guides in American history "a" and American history: advanced placement (college level)
+Y1  - 1959
+D1  - 07/1959
+SP  - 14
+KW  - United States history
+T2  - Kansas City (Missouri) Public Schools. Secondary curriculum bulletin
+V1  - 117
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 973 .K16c
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Intercultural studies: history and culture of the American Negro: resource units: grades 7 and 8
+Y1  - 1969
+D1  - 1969
+SP  - 75
+KW  - African Americans
+T2  - Special secondary curriculum bulletin
+V1  - 183
+ED  - Tentative
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 973 .K16i v. 1
+SC  - Kansas
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Intercultural studies : history and culture of the American Negro : resource units: grades 9, 10, 11, and 12
+Y1  - 1969
+D1  - 1969
+SP  - 142
+KW  - African Americans
+KW  - History
+N1  - v; ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: Kansas City, Missouri, Public Schools.
+T2  - Special secondary curriculum bulletin
+V1  - 182
+ED  - Tentative
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 973 .K16i v. 2
+SC  - Kansas
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Minority group history and culture : the American Negro
+Y1  - 1969
+D1  - 01/1969
+SP  - 96
+KW  - African Americans
+KW  - History
+N1  - 96 p. ; 28 cm.; Note(s): "A resource guide for kindergarten through grade seven."/ Includes bibliographical references.; Responsibility: Kansas City, Missouri, Public Schools.
+T2  - Kansas City (Missouri) Public School. Curriculum bulletin
+V1  - 181
+ED  - Tentative
+PB  - Kansas City (Missouri) Public School
+CY  - Kansas City, MO
+LA  - English
+CN  - 973 .K16m
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education. Office of Curriculum Development
+T1  - Contributions of the Negro to American life and culture; a resource unit for improving intergroup relations through instruction
+Y1  - 1968
+D1  - 1968
+SP  - 128
+KW  - African Americans
+N1  - iv leaves; ges 28 cm; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographical references.
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 973 .K37c 1968
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education. Office of Curriculum Development
+T1  - Contributions of the Negro to American life and culture; a resource unit for improving intergroup relations through instruction
+Y1  - 1969
+D1  - 1969
+SP  - 128
+KW  - African Americans
+N1  - iv leaves; ges 28 cm; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographical references. Second printing 1969
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 973 .K37c 1969
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Curriculum guide: advanced placement course in American history
+Y1  - 1961
+D1  - 1961
+SP  - 41
+KW  - United States history
+ED  - Experimental, revised
+PB  - Lakewood (Ohio) Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 973 .L19a v. 2
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Guide to teaching United States history; eleventh grade
+Y1  - 1961
+D1  - 1961
+SP  - 138
+KW  - United States history
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 973 .L84g
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Grady, E. J.
+A1  - Doran, Marilyn
+A2  - Long Beach (California) Public Schools
+T1  - Unit V: Our country: How the resources of the Southwest and other regions of the United States are used in meeting needs
+Y1  - 1946
+D1  - 05/1946
+SP  - 56
+KW  - Social sciences
+N1  - Man' adjustment to the social and physical environment: the immediate environment.; A resource unit for seventh grade social living classes
+ED  - Revised
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 973 .L84o
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - The American way; a reading list for grades K through 14
+Y1  - 1962
+D1  - 1962
+SP  - 18
+KW  - Bibliography
+KW  - Citizenship
+KW  - Political science
+KW  - United States history
+N1  - 18 p.; Genre/Form: Bibliography. History.
+T2  - Los Angeles City School District. Division of Instructional Services. Publication GC
+V1  - 11
+PB  - Los Angeles (California) City Schools, Division of Instructional Services, Instructional Aids and Services Branch, Library Section
+CY  - Los Angeles, CA
+LA  - English
+CN  - 973 .L87a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Beyer, William F.
+A1  - Wright, M. E.
+A2  - Louisiana State Department of Education
+T1  - Teaching our American heritage, grades four through eight
+Y1  - 1968
+D1  - 1968
+SP  - 10
+KW  - Social sciences
+KW  - United States history
+N1  - 10 leaves.; Note(s): Cover title./ Includes bibliographical references. 
+T2  - Louisiana State Department of Education. Elementary pamphlet
+V1  - 8
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 973 .L88t v. 2
+SC  - Louisiana
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Gibson, G. C.
+A1  - Beyer, William F.
+A1  - Wright, M. E.
+A2  - Louisiana State Department of Education
+T1  - Introducing our American heritage to primary children
+Y1  - 1967
+D1  - 1967
+SP  - 25
+KW  - Social sciences
+KW  - United States history
+N1  - 25 leaves.; Note(s): Cover title./ Includes bibliographical references. 
+T2  - Louisiana State Department of Education. Elementary pamphlet
+V1  - 7
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 973 .L88t v. 1
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Draney,R. Whitney
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - Americans, then and now
+Y1  - 1966
+D1  - 1966
+SP  - 17
+KW  - United States history
+KW  - Biography
+AB  - Presents biographical sketches of eight men and women from different minority groups who made significant contributions to the development of the United States.
+N1  - vii; ill. ; 24 cm.; Genre/Form: Biography. Juvenile works.; Responsibility: illustrated by R. Whitney Draney.
+T2  - Los Angeles (California) City School District. Publication
+V1  - EC-234
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 973 .L87am
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools. Division of Curriculum
+T1  - United States history : grades 7 and 8
+Y1  - 1966
+D1  - 09/1966
+SP  - 50
+KW  - Curricula
+KW  - United States history
+AB  - Two resource units: We launch a new government ; We apply democratic practices in a growing nation.
+PB  - Louisville (Kentucky) Public Schools. Division of Curriculum
+CY  - Louisville, KY
+LA  - English
+CN  - 973 .L89u
+SC  - Kentucky
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools. Division of Curriculum
+T1  - The Negro in American history
+Y1  - 1968
+D1  - 10/1968
+SP  - 119
+KW  - African Americans
+KW  - United States history
+N1  - 119 p. ; 28 cm.; Genre/Form: Handbooks, manuals, etc. History.; Note(s): "October, 1968."/ "Senior High School"--Cover./ Includes bibliographical references.
+PB  - Louisville (Kentucky) Public Schools. Division of Curriculum
+CY  - Louisville, KY
+LA  - English
+CN  - 973 .L89n
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Thompson, Angela
+A1  - Doolen, Barbara
+A2  - Medford (Oregon) Public Schools
+T1  - Great names to America : fifth grade
+Y1  - 1958
+SP  - 168
+KW  - Biography
+KW  - United States history
+N1  - ill. ; 28 cm.; Genre/Form: Biography. History.; Responsibility: prepared by Angela Thompson, Barbara Doolen and Fifth grade teachers
+PB  - Medford (Oregon) Public Schools
+CY  - Medford, OR
+LA  - English
+CN  - 973 .M48g
+SC  - Oregon
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Black, Leo P.
+A1  - Goldenstein, Erwin H.
+A1  - Shipman, Charles D.
+A1  - Tallichet, William D.
+A1  - Rotter, George E.
+A2  - Nebraska State Department of Public Instruction
+A2  - American Legion. Department of Nebraska
+T1  - Exploring basic American documents for their moral and spiritual values : resource material for the study of American history
+Y1  - 1954
+D1  - 1954
+KW  - United States history
+KW  - Moral education
+N1  - 1 v. ; 23 x 30 cm.; Note(s): "Issued by the Nebraska Department of Public Instruction in cooperation with the American Legion, Nebraska Department, 1954"--Cover./ Includes bibliography and suggested resources.; Responsibility: prepared by Leo P. Black ... [et al.], edited by George E. Rotter.
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 973 .N36e
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A1  - Hartley, William Harrison
+T1  - Source list of audio-visual materials on the Middle Atlantic States
+Y1  - 1959
+D1  - 1959
+SP  - 18
+KW  - Audio-visual materials
+KW  - Middle Atlantic States
+N1  - 18 pages 25 cm.; Other Titles: Audio-visual materials on the Middle Atlantic States.
+T2  - Middle States Council for the Social Studies. Resource bulletin
+V1  - 2
+PB  - Middle States Council for the Social Studies
+CY  - Washington, DC
+LA  - English
+CN  - 973 .M62s
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction. Secondary Department
+T1  - The Negro in American life : a guide to supplement the study of United States history
+Y1  - 1967
+D1  - 1967
+SP  - 92
+KW  - African Americans
+KW  - United States history
+N1  - 92 pages ; 28 cm; Genre/Form: History.; Note(s): Includes bibliographical references.; Responsibility: Secondary Department, Division of Curriculum and Instruction, Milwaukee Public Schools.
+PB  - Milwaukee (Wisconsin) Public Schools. Division of Curriculum and Instruction. Secondary Department
+CY  - Milwaukee, WI
+LA  - English
+CN  - 973 .M66n
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Social studies in the elementary schools: Westward expansion of the United States
+Y1  - 1957
+D1  - 1957
+SP  - 25
+KW  - United States history
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 973 .M66w
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Board of Education
+T1  - Living in the United States in the air-space age: fifth grade resource unit for teachers
+Y1  - 1961
+D1  - 1961
+SP  - 45
+KW  - United States
+KW  - Social sciences
+PB  - Monterey County (California) Board of Education
+LA  - English
+CN  - 973 .M76L
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Nashville (Tennessee) City Schools
+T1  - America--our country: a resource unit for the primary grades
+Y1  - 1964
+D1  - 06/1964
+SP  - 12
+KW  - United States
+KW  - Social sciences
+PB  - Nashville (Tennessee) City Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 973 .N25a
+SC  - Tennessee
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - A guide for the teaching of the history of the United States, a two-year course
+Y1  - 1948
+D1  - 1948
+SP  - 233
+KW  - United States history
+N1  - 233 pages ; 23 cm; Note(s): Includes bibliographical references.
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 973 .N51g
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Monterey (California) Public Schools
+T1  - The story of our land and people: a teacher's guide
+Y1  - 1958
+D1  - 09/1958
+SP  - 99
+KW  - United States history
+PB  - Monterey (California) Public Schools
+CY  - Monterey, CA
+LA  - English
+CN  - 973 .M75s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - American history and economics (Non-regents)
+Y1  - 1963
+D1  - 1963
+SP  - 107
+KW  - Economic history
+KW  - United States history
+N1  - 107 p. 22 cm.; Genre/Form: History. Outlines, syllabi, etc.; Note(s): Includes bibliographies.
+T2  - New York City Board of Education. Curriculum bulletin,; 1963-64 ser
+V1  - 3
+PB  - New York City Board of Education
+CY  - Brooklyn, NY
+LA  - English
+CN  - 973 .N52a 1963
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - American history and economics in the high school curriculum
+Y1  - 1949
+D1  - 1949
+SP  - 98
+KW  - Economic history
+KW  - United States history
+KW  - Curricula
+N1  - 98 p. ; 23 cm.; Note(s): Reprint of 1947 ed.
+T2  - New York City Board of Education. Curriculum bulletin, 1946-47
+V1  - 6
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 973 .N52a 1946
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - The distant lands: a radio series for the social studies curriculum, grades 5 and 6
+Y1  - 1950
+D1  - 1950-1951
+SP  - 63
+KW  - Social sciences
+KW  - Radio in education
+T2  - A WNYE school broadcast manual
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 973 .N52d
+SC  - New York
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Tyrrell, William G.
+A2  - University of the State of New York. Division of Archives and History
+T1  - The Civil War and the community
+Y1  - 1961
+D1  - 1961
+SP  - 12
+KW  - American Civil War, 1861-1865
+N1  - 12 p. 23 cm.; Genre/Form: History.; Note(s): "Written by William G. Tyrrell, historian, Division of Archives and History."
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53c
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Adult Education
+T1  - Education for citizenship : a guide for preparing foreign-born adults for life in a democracy
+Y1  - 1953
+D1  - 1953
+SP  - 110
+KW  - Americanization
+KW  - Adult education
+N1  - ill. ; 23 cm.; Note(s): Bibliography: p. 99-106.; Responsibility: The University of the State of New York. The State Education Department. Pupil Personnel Services and Adult Education. Bureau of Adult Education.
+PB  - University of the State of New York. Bureau of Adult Education
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53e
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Famous Americans for young Americans.
+Y1  - 1956
+D1  - 1956
+SP  - 25
+KW  - Children's literature
+KW  - Bibliography
+KW  - Biography
+KW  - United States history
+N1  - 25 p. 23 cm.; Genre/Form: Bibliography.; Responsibility: prepared by Howard O. Yates of the elementary curriculum staff
+ED  - Rev
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53e 1956
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Famous Americans for young Americans, a bibliography for grades 5 and 6
+Y1  - 1962
+D1  - 1962
+SP  - 48
+KW  - Children's literature
+KW  - Bibliography
+KW  - Biography
+KW  - United States history
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53e 1962
+SC  - New York
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Famous Americans for young Americans, a bibliography for grade 4
+Y1  - 1966
+D1  - 1966
+SP  - 56
+KW  - Children's literature
+KW  - Bibliography
+KW  - Biography
+KW  - United States history
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53e 1966
+SC  - New York
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Hamilton, Milton W.
+T1  - Sir William Johnson and the Indians of New York
+Y1  - 1967
+D1  - 1967
+SP  - 47
+KW  - Indians of North America
+KW  - United States history
+KW  - Biography
+N1  - vii, 47 pages illustrations; rtraits 23 cm; Note(s): Includes bibliographical references (pages 46-47).; Responsibility: by Milton W. Hamilton.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53s
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Our heritage of freedom : suggestions for the observance of Bill of Rights Week in New York state schools
+Y1  - 1959
+D1  - 1959
+SP  - 72
+KW  - Constitutional amendments
+KW  - Civil rights
+KW  - Constitutional law
+N1  - ill. ; 23 cm.; Note(s): "Audiovisual materials": p. 70-72.; Other Titles: Suggestions for the observance of Bill of Rights Week in New York State schools; Bill of Rights Week in New York State schools; Responsibility: prepared by the New York State Education Department.
+ED  - Revised
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53o
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Flag regulations for New York state schools
+Y1  - 1966
+D1  - 1966
+SP  - 12
+KW  - Flags
+N1  - [3] 12 p. ; 23 cm.; Responsibility: the University of the State of New York, the State Education Department.
+PB  - University of the State of New York. Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53fL
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Teaching the age of homespun; a guide for seventh grade social studies
+Y1  - 1965
+D1  - 1965
+SP  - 84
+KW  - Social sciences
+KW  - United States history
+N1  - viii; maps. 28 cm.; Genre/Form: History.; Note(s): Includes bibliographical references.
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53h
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department. Division of Intercultural Relations in Education
+T1  - The what and how of teaching Afro-American culture and history in the elementary schools
+Y1  - 1972
+D1  - 1972
+SP  - 75
+KW  - African Americans
+KW  - History
+N1  - v; ill., maps ; 28 cm.; Genre/Form: Outlines, syllabi, etc.; Note(s): Includes bibliographical references.; Responsibility: the University of the State of New York, State Education Dept., Division of Intercultural Relations in Education.
+PB  - New York State Education Department. Division of Intercultural Relations in Education
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53w
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - North Colonie Central Schools (Newtonville, New York)
+T1  - Westward expansion: a correlated unit for a block time organization
+Y1  - 1967
+D1  - 09/1967
+SP  - 62
+KW  - United States history
+PB  - North Colonie Central Schools
+CY  - Newtonville, NY
+LA  - English
+CN  - 973 .N86w
+SC  - New York
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Norwalk (Connecticut) Public School
+T1  - Curriculum guide for the integration of Negro history into American history
+Y1  - 1968
+D1  - 08/1968
+KW  - Curricula
+KW  - History
+KW  - African Americans
+N1  - 1 v. various pagings; 25 x 22 cm.; Note(s): Typescript./ Includes bibliographical references.; Other Titles: Role of the Negro in American history :; Norwalk Public Schools, Norwalk, Connecticut, 1968; Responsibility: project directed by Barbara Littlejohn, Milton Wartenberg.
+PB  - Norwalk (Connecticut) Public Schools
+CY  - Norwalk, CT
+LA  - English
+CN  - 973 .N89r
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Resource guide for teaching about contributions of minorities to American culture (for use with secondary school students)
+Y1  - 1966
+D1  - 01/1966
+SP  - 121
+KW  - Minorities
+KW  - United States history
+KW  - Social sciences
+N1  - 121 p. 28 cm.; Genre/Form: History.; Note(s): Cover title: "Contributions of minorities to American culture."; Other Titles: Contributions of minorities to American culture
+PB  - Oakland (California) Public Schools.
+CY  - Oakland, CA
+LA  - English
+CN  - 973 .O11c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Eighth grade social studies guide in American history
+Y1  - 1957
+D1  - 1957
+SP  - 120
+KW  - United States history
+PB  - Oakland (California) Public Schools.
+CY  - Oakland, CA
+LA  - English
+CN  - 973 .O11e
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Eighth grade social studies guide: American history, civics and economics
+Y1  - 1967
+D1  - 08/1967
+SP  - 78
+KW  - United States history
+N1  - To replace A guide for American history in the junior high schools, Soc. Stud. 1961-1.
+PB  - Oakland (California) Public Schools.
+CY  - Oakland, CA
+LA  - English
+CN  - 973 .O11e 1967
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Life in early United States--the colonial period, fifth grade, a resource unit for teachers
+Y1  - 1957
+D1  - 02/1957
+SP  - 100
+KW  - United States history
+PB  - Oakland (California) Public Schools.
+CY  - Oakland, CA
+LA  - English
+CN  - 973 .O11L
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Our country--its people and other resources: suggestions for a study of contemporary United States, fifth grade
+Y1  - 1951
+D1  - 07/1951
+SP  - 27
+KW  - United States history
+PB  - Oakland (California) Public Schools.
+CY  - Oakland, CA
+LA  - English
+CN  - 973 .O11o
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Twelfth grade: tentative outline for American government (required)
+Y1  - 1960
+D1  - 06/1960
+SP  - 8
+KW  - United States
+KW  - Politics and government
+PB  - Oakland (California) Public Schools.
+CY  - Oakland, CA
+LA  - English
+CN  - 973 .O11t
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Oregon Association for Supervision and Curriculum Development
+T1  - The heritage of America's youth : a source book for teachers
+Y1  - 1975
+D1  - 01/1975
+SP  - 124
+KW  - United States history
+N1  - ill. ; 27 cm.; Note(s): Cover title.; Responsibility: compiled by Charles Frisk, Bill Brewster ; special editor Charline L. Edwards.
+T2  - Oregon ASCD. Curriculum bulletin
+V1  - 29
+IS  - 326
+PB  - Oregon Association for Supervision and Curriculum Development
+CY  - Salem, OR
+LA  - English
+CN  - 973 .O65h
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Price, Owen
+A1  - Schultz, Dorothy
+A1  - Raymond, Eileen
+A1  - Wood, Hugh B.
+T1  - This America: a two-year sequence of United States history, government and social problems for grades 11 and 12
+Y1  - 1950
+D1  - 1950
+SP  - 33
+KW  - United States history
+KW  - Politics and government
+KW  - Social sciences
+PB  - Oregon State Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 973 .O66t
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Horn, R. A.
+A2  - Cleveland (Ohio) Public Schools. Division of Social Studies
+A2  - Cleveland (Ohio) Public Schools. Division of Special Education
+T1  - Teachers' guides: American history for the academically talented; advanced placement American history
+Y1  - 1963
+T1  - 1963
+SP  - 165
+KW  - United States history
+KW  - Gifted children
+N1  - vi; 23 cm.; Genre/Form: History.; Other Titles: American history for the academically talented.; Responsibility: Prepared by Cleveland Public Schools, Division of Social Studies, in cooperation with the Ohio Dept. of Education, under direction of R.A. Horn, director, Division of Special Education.
+PB  - Cleveland (Ohio) Public Schools. Division of Special Education
+CY  - Columbus, OH
+LA  - English
+CN  - 973 .O37t
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Spanish explorations and settlements in the Southwest : a third-fourth combination grade unit
+Y1  - 1961
+D1  - 01/1961
+SP  - 245
+KW  - United States history
+KW  - Spanish discovery and exploration
+N1  - viii; ; 22 x 33 cm.; Genre/Form: Juvenile works.
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 973 .P18s
+SC  - California
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Teeney, Abe D.
+A1  - Nupen, Walter A.
+A2  - Parkrose (Oregon) Public Schools
+T1  - Eleventh grade social studies guide : Penrose Public Schools, June, 1968
+Y1  - 1968
+D1  - 06/1968
+SP  - 67
+KW  - Social sciences
+KW  - United States history
+KW  - Politics and government
+N1  - v; ; 29 cm.; Note(s): Includes bibliographical references (p. 64-67).; Other Titles: American history and government; Responsibility: written by Abe D. Teeney, Walter A. Nupen ; under the direction of the Parkrose Social Studies Curriculum Committee.
+PB  - Parkrose (Oregon) Public Schools
+CY  - Multnomah County, OR
+LA  - English
+CN  - 973 .P23a
+SC  - Oregon
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - United States today, grade 5
+Y1  - 1953
+D1  - 09/1963
+SP  - 14
+KW  - United States
+KW  - Social sciences
+PB  - Pasadena (California) City Schools. Audio-Visual Service
+CY  - Pasadena, CA
+LA  - English
+CN  - 973 .P27us
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Haller, Elizabeth S.
+A2  - Pennsylvania State Department of Education. Bureau of General and Academic Education
+T1  - Minority history: What? Why? How?
+Y1  - 1970
+D1  - 1970
+SP  - 10
+KW  - History
+KW  - Minorities
+N1  - 10 p. ; 28 cm.; Genre/Form: History.; Note(s): Pa. State Docs. class. no. PE 84.2:M666./ Includes bibliographical references.; Responsibility: by Elizabeth S. Haller, adviser, Division of Social Studies, Bureau of General and Academic Education, Pennsylvania Department of Education.
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 973 .P41m
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Public Instruction
+T1  - Revitalizing American history through primary sources
+Y1  - 1968
+D1  - 1968
+SP  - 62
+KW  - Minorities
+KW  - Bibliography
+KW  - United States history
+N1  - vii; ges 23 cm; Genre/Form: Bibliography. History.; Note(s): Includes bibliographical references (pages 28-58).
+PB  - Pennsylvania State Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 973 .P41r
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - American history and government an adapted course: a guide for teachers, terms 1 and 2
+Y1  - 1960
+D1  - 1960
+SP  - 54
+KW  - United States history
+KW  - Politics and government
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 973 .P54am v. 1
+SC  - Pennsylvania
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  -  American history and government an adapted course: a guide for teachers, terms 3 and 4
+Y1  - 1961
+D1  - 1961
+SP  - 57
+KW  - United States history
+KW  - Politics and government
+ED  - Tentative
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 973 .P54am v. 2
+SC  - Pennsylvania
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - American and Pennsylvania history and government : grade 9B (tentative)
+Y1  - 1957
+D1  - 1957
+SP  - 87
+KW  - United States history
+KW  - Politics and government
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 973 .P54a
+SC  - Pennsylvania
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Pennsylvania and American history and government : grade 8
+Y1  - 1965
+D1  - 1965
+SP  - 208
+KW  - United States history
+KW  - Politics and government
+N1  - x; ; 28 cm.; Responsibility: Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 973 .P54p
+SC  - Pennsylvania
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Industrial arts in colonial times
+Y1  - 1937
+D1  - 1937
+SP  - 73
+KW  - Industrial arts
+KW  - United States history
+N1  - x; ; 28 cm.; Responsibility: Philadelphia Public Schools.
+PB  - Philadelphia (Pennsylvania) Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 973 .P54i
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Tay, Herbert
+A2  - Pomona (California) Schools. Curriculum Department
+T1  - Our democracy: Unit I: the geography of the United States
+SP  - 15
+KW  - Geography
+T2  - Pomona city schools curriculum monograph for social studies
+PB  - Pomona (California) Schools. Curriculum Department
+CY  - Pomona, CA
+LA  - English
+CN  - 973 .P78g
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Afro-American history (a one semester elective course)
+Y1  - 1968
+D1  - 1968
+SP  - 21
+KW  - African Americans
+KW  - United States history
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 973 .P81a
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Eighth grade level: history of the United States period of exploration to nineteen hundred
+Y1  - 1964
+D1  - 1964
+KW  - United States history
+N1  - 1 v. various pagings
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 973 .P81h
+SC  - Michigan
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - History of the United States to 1865 (first part of a two-year sequence), ninth grade social studies
+Y1  - 1968
+D1  - 1968
+KW  - United States history
+N1  - 1 v. various pagings
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 973 .P81h v. 1
+SC  - Michigan
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - History of the United States 1865 to present day (second part of a two-year sequence), tenth grade social studies
+Y1  - 1968
+D1  - 1968
+KW  - United States history
+N1  - 1 v. various pagings
+ED  - Revised
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 973 .P81h v. 2
+SC  - Michigan
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Civics supplement: recognizing minority contributions civil and human rights
+Y1  - 1968
+D1  - 1968
+SP  - 24
+KW  - United States history
+KW  - Minorities
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 973 .P81r
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - A guide to high school social studies : American history
+Y1  - 1962
+D1  - 1962
+SP  - 144
+KW  - Social sciences
+KW  - United States history
+N1  - 144, xi; maps ; 28 cm.; Note(s): Includes bibliographical references.; Other Titles: American history.; Responsibility: School District No. 1, Multnomah County, Oregon.
+T2  - Portland (Oregon) Public Schools. Curriculum publications
+V1  - SS-83
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 973 .P85g v. 1
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Readings in American history for high school students
+SP  - 129
+KW  - United States history
+PB  - Portland (Oregon) Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 973 .P85g v. 2
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ramapo Central School District No. 2 (Spring Valley, New York)
+T1  - Teaching social studies and reading simultaneously, eighth grade U.S. history
+Y1  - 1964
+D1  - 1964
+KW  - Social sciences
+KW  - Reading
+PB  - Ramapo Central School District No. 2
+CY  - Spring Valley, NY
+LA  - English
+CN  - 973 .R17t
+SC  - New York
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Asher, Frank L.
+T1  - Afro-American history (an elective one semester course)
+Y1  - 1970
+D1  - 1970-1971
+KW  - African Americans
+KW  - United States history
+PB  - Ridgewood (New Jersey) High School
+CY  - Ridgewood, NJ
+LA  - English
+CN  - 973 .R54a
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - A teachers' manual for United States history 5y, senior high schools
+Y1  - 1955
+D1  - 07/1955
+SP  - 25
+KW  - United States history
+PB  - Sacramento (California) City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 973 .S12t
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Paul (Minnesota) Public Schools. Office of Intercultural Education
+T1  - Afro-American history and culture : a study guide for teachers, kindergarten-twelfth grade
+Y1  - 1968
+D1  - 09/1968
+SP  - 225
+KW  - African Americans
+KW  - Bibliography
+KW  - Audio-visual materials
+KW  - Catalogs
+KW  - United States history
+N1  - 225 p. ; 28 cm.; Genre/Form: Bibliography. Catalogs. History.; Note(s): Includes bibliographical references.; Responsibility: St. Paul Public Schools.
+T2  - Saint Paul (Minnesota) Public Schools. Office of Intercultural Education. Publication
+V1  - 333
+PB  - Saint Paul (Minnesota) Public Schools. Office of Intercultural Education
+CY  - Saint Paul, MN
+LA  - English
+CN  - 973 .S14a
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - St. Paul (Minnesota) Public Schools.
+T1  - Government in our nation: a curriculum resource guide for teachers (ninth grade common learnings)
+Y1  - 1949
+D1  - 1949
+SP  - 87
+KW  - Politics and government
+T2  - Saint Paul (Minnesota) Public Schools. Curriculum bulletin
+V1  - 27
+PB  - Saint Paul (Minnesota) Public Schools
+CY  - St. Paul, MN
+LA  - English
+CN  - 973 .S14g
+SC  - Minnesota
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - The Negro in American life and history : a resource book for teachers
+Y1  - 1967
+D1  - 1967
+SP  - 344
+KW  - United States history
+KW  - African Americans
+KW  - Biography
+N1  - 344 p. ; 23 cm.; Genre/Form: History.; Note(s): Includes bibliographical references (p. 335-344).; Responsibility: [by Earl G. Minkwitz].
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 973 .S195n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - Mexican-American history in the development of the United States, eleventh grade
+Y1  - 1970
+D1  - 1970
+SP  - 65
+KW  - Mexican Americans
+KW  - United States history
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 973 .S196m
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Books and films that contribute to an understanding of the American way of life
+Y1  - 1961
+D1  - 1961
+SP  - 54
+KW  - Citizenship
+KW  - Bibliography
+N1  - ill. ; 23 cm.; Responsibility: San Diego, California City Schools.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 973 .S19b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Mekisich, Tony
+A1  - Borcher, Judith
+A2  - San Francisco (California) Unified School District
+T1  - An approach to concepts using United States history: unit II: mobility
+SP  - 127
+KW  - United States history
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 973 .S195a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Gross, Richard E.
+A1  - Nebiker, Maryanne Morgan
+T1  - The crisis of the union: a unit on the civil war & reconstruction
+Y1  - 1957
+D1  - 1957
+SP  - 12
+KW  - American Civil War, 1861-1865
+T2  - San Francisco (California) Unified School District. Secondary Schools Curriculum Laboratory. Curricular material
+V1  - 2107
+PB  - San Francisco (California) Unified School District. Secondary Schools Curriculum Laboratory
+CY  - San Francisco, CA
+LA  - English
+CN  - 973 .S195c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Ballard, Muriel
+A1  - Dwyer, Pat
+A1  - Hartmann, Sandra
+A1  - Lang, Miriam
+A1  - Peart, Judy
+A1  - Spaugh, Linda
+T1  - Early America activities unit
+Y1  - 1970
+D1  - 06/1970
+SP  - 174
+KW  - United States history
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 973 .S195e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Contributions of black Americans, Indian Americans, Mexican Americans and Asian Americans to American history
+Y1  - 1970
+D1  - 07/1970
+SP  - 109
+KW  - African Americans
+KW  - Mexican Americans
+KW  - Asian Americans
+N1  - iii, 109 leaves ; 22 x 28 cm.; Note(s): For grades K-12./ Includes bibliographical references.; Responsibility: Santa Clara Co. Board of Education.
+PB  - Santa Clara County (California) Board of Education
+CY  - San José, CA
+LA  - English
+CN  - 973 .S23c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Schenectady (New York) Public Schools
+T1  - Grade 6 biblio-activities list for students, units 1-2-3-4
+Y1  - 1957
+D1  - 01/1957
+SP  - 26
+KW  - United States history
+PB  - Schenectady (New York) Public Schools
+CY  - Schenectady, NY
+LA  - English
+CN  - 973 .S42b
+SC  - New York
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sioux City (Iowa) Public Schools
+T1  - Resource guide for American history, grade eight
+Y1  - 1953
+D1  - 04/1953
+SP  - 94
+KW  - United States history
+PB  - Sioux City (Iowa) Public Schools
+CY  - Sioux City, IA
+LA  - English
+CN  - 973 .S61r
+SC  - Iowa
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Glaser, Kurt
+T1  - Germany in the light of American history textbooks
+Y1  - 1962
+D1  - 12/1962
+SP  - 86
+KW  - History
+KW  - Germany
+KW  - Textbooks
+N1  - 86 leaves ; 29 cm.; Genre/Form: History.; Note(s): Cover title.; Responsibility: by Kurt Glaser with contributions by Stanley Buchholz Kimball.
+PB  - Southern Illinois University
+CY  - Alton, IL
+LA  - English
+CN  - 973 .S73g
+ER  - 
+
+TY  - BOOK
+A1  - O'Hare, Stephen T.
+T1  - American political parties, a resource unit
+Y1  - 1957
+D1  - 03/1957
+SP  - 32
+KW  - Politics and government
+KW  - United States
+N1  - Education 296, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78a
+ER  - 
+
+TY  - BOOK
+A1  - Noble, Theodore R.
+T1  - American political parties and elections: a resource unit for twelfth grade American government or senior problems
+Y1  - 1964
+D1  - 1964?
+SP  - 36
+KW  - Politics and government
+KW  - Elections
+KW  - United States
+KW  - Political parties
+N1  - Education 296b, Dr. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78ae
+ER  - 
+
+TY  - BOOK
+A1  - Elkind, Nina
+A1  - Graham, Gail
+A1  - Knight, Graham
+T1  - America learns to roar: from the gay '90's to the roaring '20's, 1890-1920: a resource unit for eleventh grade United States history
+Y1  - 1961
+D1  - 1961
+SP  - 44
+KW  - United States history
+N1  - Education 219a, Wm. T. Nimroth
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78aL
+ER  - 
+
+TY  - BOOK
+A1  - Wehmeyer, Donald J.
+T1  - American history through primary sources and the historical method
+Y1  - 1963
+D1  - 1963
+KW  - United States history
+N1  - 1 v. various pagings; Education 296b, Dr. Gross.
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78am
+ER  - 
+
+TY  - BOOK
+A1  - Nelson, Janice
+T1  - American political parties
+Y1  - 1963
+D1  - 1963
+SP  - 72
+KW  - Political parties
+KW  - United States
+N1  - Education 296b, Dr. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78ap
+ER  - 
+
+TY  - BOOK
+A1  - Morton, Nell
+T1  - Besides the textbook: a bibliography for junior high school core classes with some suggestions for use
+Y1  - 1959
+D1  - 1959
+KW  - Bibliography
+N1  - Education 296, Dr. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78b
+ER  - 
+
+TY  - BOOK
+A1  - Ralph, Susan
+T1  - The close of the frontier period (1865-1890)
+Y1  - 1961
+D1  - 1961
+SP  - 62
+KW  - United States history
+N1  - Education 296b, Dr. R. E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78c
+ER  - 
+
+TY  - BOOK
+A1  - March, Carol
+A1  - Alden, Mary
+T1  - Equal justice under law, a resource unit
+Y1  - 1957
+D1  - 1957
+KW  - Law
+N1  - Education 296, Dr. R. E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78e
+ER  - 
+
+TY  - BOOK
+A1  - Braun, Marian
+T1  - Geography of the Great Plains
+Y1  - 1963
+D1  - 1963
+SP  - 47
+KW  - Geography
+N1  - Education 296b, Dr. R. E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78g
+ER  - 
+
+TY  - BOOK
+A1  - Dangler, Sue
+T1  - How did the United States become a world power and what present world problems does it face?
+Y1  - 1957
+D1  - 1957
+KW  - United States
+KW  - World politics
+N1  - Education 296b, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78h
+ER  - 
+
+TY  - BOOK
+A1  - Dallas, Terry
+T1  - The growth of the United States as a world power
+Y1  - 1962
+D1  - 03/1962
+SP  - 11
+KW  - United States
+KW  - World politics
+N1  - Education 296b, Dr. Richard E. Gross; An adaptation of a resource unit done by Sue Dengler for Dr. Richard Gross titled "How did the United States become a world power and what present world problems does it face?"
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78hg
+ER  - 
+
+TY  - BOOK
+A1  - Freelen, Maryce
+A1  - Messner, Gerald
+T1  - The 1920's: a resource unit in United States history
+Y1  - 1958
+D1  - 1958
+KW  - United States history
+N1  - Education 296, Dr. R. E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78n
+ER  - 
+
+TY  - BOOK
+A1  - Sullos, Irene
+A1  - Jones, Judy
+T1  - The progressive movement: a resource unit
+Y1  - 1958
+D1  - 1958
+KW  - United States history
+N1  - Education 296a, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78p
+ER  - 
+
+TY  - BOOK
+A1  - Kimball, Beryl
+T1  - The president of the United States: priceless symbol, powerful leader, practical politician
+Y1  - 1964
+D1  - 03/1964
+SP  - 42
+KW  - United States history
+N1  - Education 296b, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78pr
+ER  - 
+
+TY  - BOOK
+A1  - Van Dusen, Marjorie
+T1  - The pursuit and scope of presidential power
+Y1  - 1963
+D1  - 1963
+KW  - United States history
+KW  - Politics and government
+N1  - Education 296b, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78pu
+ER  - 
+
+TY  - BOOK
+A1  - Berger, Victoria
+T1  - A study of the United States Constitution as a basis of the American way of life
+Y1  - 1963
+D1  - 03/1963
+KW  - United States history
+KW  - Constitutional history
+N1  - Education 296b, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78s
+ER  - 
+
+TY  - BOOK
+A1  - Caplan, Sherrill
+T1  - The United States achieves economic maturity, 1890 to the present: a resource unit
+Y1  - 1960
+D1  - 1960
+KW  - United States history
+KW  - Economic history
+N1  - Education 296b, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78u
+ER  - 
+
+TY  - BOOK
+A1  - Best, Linda P.
+T1  - United States policy in the cold war from 1945 to 1952
+Y1  - 1963
+D1  - 03/1963
+KW  - United States history
+KW  - Politics and government
+N1  - Education 296b, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78un
+ER  - 
+
+TY  - BOOK
+T1  - Challenge of peace: the United States 1945-1960's
+Y1  - 1966
+D1  - Spring, 1966
+KW  - United States history
+N1  - Education 296d, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78up
+ER  - 
+
+TY  - BOOK
+A1  - Hardin, Julia
+A1  - Plain, Constance
+T1  - Why one-partyism in the South?
+Y1  - 1961
+D1  - 03/1961
+KW  - United States history
+KW  - Political parties
+N1  - Education 296, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78wh
+ER  - 
+
+TY  - BOOK
+A1  - Kidd, Dotty
+T1  - The westward movement and history of California: research unit
+Y1  - 1958
+D1  - 1958
+KW  - United States history
+KW  - California
+N1  - Education 296b, Dr. Richard E. Gross
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 973 .S78ws
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District
+T1  - American government (grade 12)
+Y1  - 1964
+D1  - 07/1964
+SP  - 47
+KW  - Politics and government
+KW  - United States
+PB  - Stockton (California) Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 973 .S86a
+SC  - California
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Tacoma (Washington) School District #10
+T1  - The history of Negro life in America; suggested activities and resources for teaching
+Y1  - 1968
+D1  - 02/1968
+SP  - 62
+KW  - African Americans
+KW  - United States history
+N1  - 62 p. music.; Note(s): Includes bibliographical references.
+PB  - Tacoma (Washington) Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 973 .T11h
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Curriculum guide for United States history to 1865
+Y1  - 1962
+D1  - 1962
+SP  - 77
+KW  - United States history
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 973 .T92c
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools
+T1  - Resource units for seventh grade United States history
+Y1  - 1956
+D1  - 1956
+SP  - 134
+KW  - United States history
+PB  - Tulsa (Oklahoma) Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 973 .T92r
+SC  - Oklahoma
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for American government
+Y1  - 1964
+D1  - 08/1964
+SP  - 37
+KW  - Politics and government
+KW  - United States
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 973 .T98a
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for United States history and geography : grade 8
+Y1  - 1964
+D1  - 08/1964
+SP  - 42
+KW  - Geography
+KW  - United States history
+N1  - [54] leaves ; 28 cm.; Note(s): Cover title.; Responsibility: Tyler Independent School District.
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 973 .T98c v. 1
+SC  - Texas
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for American history : (senior high school)
+Y1  - 1964
+D1  - 08/1964
+SP  - 54
+KW  - United States history
+N1  - 54 leaves ; 28 cm.; Note(s): Cover title.; Responsibility: Tyler Independent School District.
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 973 .T98c v. 2
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - The history of democracy in the United States: a social studies unit for grade eight
+Y1  - 1953
+D1  - 1953
+SP  - 131
+KW  - United States history
+N1  - 1946, revised 1953
+PB  - Ventura County (California) Board of Education
+LA  - English
+CN  - 973 .V46h
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Board of Education
+T1  - The westward movement: a social studies unit for grade five
+Y1  - 1950
+D1  - 1950
+SP  - 175
+KW  - United States history
+PB  - Ventura County (California) Board of Education
+LA  - English
+CN  - 973 .V46w
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Curriculum Materials Clearinghouse
+A2  - Wilmington (Delaware) Public Schools. Social Studies Department
+T1  - The Negro in American history a brief content outline for use by teachers
+Y1  - 1968
+D1  - 1968
+SP  - 110
+KW  - African Americans
+KW  - Curricula
+PB  - Wilmington (Delaware) Public Schools. 
+CY  - Wilmington, DE
+LA  - English
+CN  - 973 .W73n
+SC  - Delaware
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Washington State tentative curriculum guide for United States history and citizenship : grade eight
+Y1  - 1960
+D1  - 1960
+SP  - 76
+KW  - United States history
+N1  - 76 p. ; 28 cm.; Note(s): Cover title: Curriculum guide, United States history and citizenship, grade 8.; Other Titles: Curriculum guide, United States history and citizenship, grade 8.
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 973 .W31u
+SC  - Washington
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Garner, Charles E.
+A1  - Little, Margaret
+T1  - Social studies, grades 7 & 8: American scene: resource references
+Y1  - 1960
+D1  - 01/1960
+SP  - 35
+KW  - Social sciences
+PB  - Webster Groves (Missouri) School District
+CY  - Webster Groves, MO
+LA  - English
+CN  - 973 .W37r
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Joint City School District No. 1 (West Allis-West Milwaukee, et al.)
+T1  - Social studies American nation, grade 10
+SP  - 111
+KW  - Social sciences
+PB  - Joint City School District No. 1
+CY  - Milwaukee, WI
+LA  - English
+CN  - 973 .W51a
+SC  - Wisconsin
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Reavis, George H.
+T1  - Unit teaching play no. 81: industrialization
+Y1  - 1953
+D1  - 1953
+SP  - 16
+KW  - Industries
+PB  - World Book Encyclopedia
+CY  - Chicago, IL
+LA  - English
+CN  - 973 .W92i
+ER  - 

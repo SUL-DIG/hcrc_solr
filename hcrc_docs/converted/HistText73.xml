@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Abington (Pennsylvania) Township School District</field>
+        <field name="title">Social studies: grade nine: Our Pennsylvania heritage</field>
+        <field name="year">1961</field>
+        <field name="date">09/1961</field>
+        <field name="pages">87</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Pennsylvania</field>
+        <field name="publisher">Abington (Pennsylvania) Township School District</field>
+        <field name="pub_place">Abington, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .A13o</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">9th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">New York in books : a bibliography for junior and senior high
+            schools</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">26</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">New York State</field>
+        <field name="notes">26 p. ; 23 cm.; Genre/Form: Bibliography.</field>
+        <field name="publisher">University of the State of New York, State Education Department,
+            Bureau of Secondary Curriculum Development</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .N53ne</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Connecticut State Department of Education. Bureau of
+            Libraries</field>
+        <field name="title">Connecticut yesterday and today; a bibliography for Connecticut
+            schools</field>
+        <field name="year">1955</field>
+        <field name="date">06/1955</field>
+        <field name="pages">22</field>
+        <field name="keywords">Connecticut</field>
+        <field name="keywords">United States history</field>
+        <field name="series_title">Connecticut State Department of Education. Bulletin</field>
+        <field name="series_vol">72</field>
+        <field name="publisher">Connecticut State Department of Education.</field>
+        <field name="pub_place">Hartford, CT</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .C75c</field>
+        <field name="state_country">Connecticut</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Connecticut State Department of Education</field>
+        <field name="title">Finding our place in the world through the study of Connecticut</field>
+        <field name="year">1967</field>
+        <field name="date">09/1967</field>
+        <field name="pages">92</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Curricula</field>
+        <field name="keywords">Connecticut</field>
+        <field name="notes">92 pages : illustrations (some color) ; 23 cm.; Note(s): "September
+            1967."/ Includes bibliographical references.</field>
+        <field name="series_title">Connecticut State Department of Education. Bulletin</field>
+        <field name="series_vol">102</field>
+        <field name="publisher">Connecticut State Department of Education</field>
+        <field name="pub_place">Hartford, CT</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .C75f v. 1</field>
+        <field name="state_country">Connecticut</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Connecticut State Department of Education</field>
+        <field name="title">Finding our place in the world through the study of Connecticut:
+            materials and their sources</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Curricula</field>
+        <field name="keywords">Connecticut</field>
+        <field name="notes">A supplement to Bulletin no. 102, 1967</field>
+        <field name="publisher">Connecticut State Department of Education</field>
+        <field name="pub_place">Hartford, CT</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .C75f v. 2-3</field>
+        <field name="state_country">Connecticut</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fair Lawn (New Jersey) Public Schools</field>
+        <field name="title">We live in Fair Lawn</field>
+        <field name="pages">74</field>
+        <field name="keywords">New Jersey</field>
+        <field name="publisher">Fair Lawn (New Jersey) Public Schools</field>
+        <field name="pub_place">Fair Lawn, NJ</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .F16w</field>
+        <field name="state_country">New Jersey</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rienow, Robert</field>
+        <field name="author_nat">Robert Rienow</field>
+        <field name="author">University of the State of New York. Bureau of Secondary Curriculum
+            Development</field>
+        <field name="author_nat"/>
+        <field name="title">New York State and local government</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">239</field>
+        <field name="keywords">New York State</field>
+        <field name="keywords">Local government</field>
+        <field name="keywords">Political science</field>
+        <field name="keywords">Politics and government</field>
+        <field name="notes">239 p. illus., maps,diagrs. 23 cm.; Note(s): "Text by Robert Rienow,
+            State University College for Teachers at Albany."/ First ed. published in 1953 under
+            title : Our State and local government./ Bibliography: p. 215-220./</field>
+        <field name="edition">2d rev.</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .N53n</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Swett, Clyde W.</field>
+        <field name="author_nat">Clyde W. Swett</field>
+        <field name="author">Haskell, Mary L.</field>
+        <field name="author_nat">Mary L. Haskell</field>
+        <field name="corp_author">Maine State Department of Education</field>
+        <field name="title">All about Maine : print and film materials to enrich the study of Maine
+            history in grade eight</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">90</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Maine</field>
+        <field name="notes">90 pages ; 24 cm; Genre/Form: Bibliography. History.; Note(s): Published
+            under P.L. 89-10 Title V grant (State appropriation 8240).; Responsibility: by Clyde W.
+            Swett and Mary L. Haskell.</field>
+        <field name="publisher">Maine State Department of Education</field>
+        <field name="pub_place">Augusta, ME</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .M22a</field>
+        <field name="state_country">Maine</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New York City Board of Education</field>
+        <field name="title">Learning about our city</field>
+        <field name="series_title">A WNYE school broadcast manual</field>
+        <field name="series_title">School Broadcast Manual 1950-51 series</field>
+        <field name="series_vol">2</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">44</field>
+        <field name="keywords">New York City</field>
+        <field name="publisher">New York City Board of Education</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .N52L</field>
+        <field name="state_country">New York</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Elementary Schools</field>
+        <field name="corp_author">Temple University</field>
+        <field name="title">Philadelphia : a city of many neighborhoods</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">136</field>
+        <field name="keywords">Philadelphia</field>
+        <field name="notes">136 p.; Genre/Form: Pamphlets.; Responsibility: for the Philadelphia
+            Public Elementary Schools.</field>
+        <field name="series_title">Philadelphia social studies series</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Elementary Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .P54p</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rienow, Robert</field>
+        <field name="author_nat">Robert Rienow</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Our state and local government</field>
+        <field name="year">1953</field>
+        <field name="date">12/1953</field>
+        <field name="pages">204</field>
+        <field name="keywords">Local government</field>
+        <field name="keywords">Political science</field>
+        <field name="keywords">Politics and government</field>
+        <field name="keywords">New York State</field>
+        <field name="notes">204 p. illus., map. 23 cm.; Note(s): Also issued online.;
+            Responsibility: with text by Robert Rienow.</field>
+        <field name="publisher">University of the State of New York. Bureau of Secondary Curriculum
+            Development</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .N53o</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">A teaching outline for the study of New York State history and
+            constitution</field>
+        <field name="year">1949</field>
+        <field name="date">08/1949</field>
+        <field name="keywords">Constitutional history</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">New York State</field>
+        <field name="notes">22 p. 23 cm.; Genre/Form: History. Outlines, syllabi, etc.; Note(s):
+            "Selected bibliography": p. 22.; Responsibility: [by] Bureau of Curriculum Development,
+            Division of Secondary Education, New York State Education Dept.</field>
+        <field name="series_title">University of the State of New York. Bulletin</field>
+        <field name="series_vol">1374</field>
+        <field name="publisher">University of the State of New York Press</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">974 .N53t</field>
+        <field name="state_country">New York</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Waltham (Massachusetts) High School</field>
+        <field name="title">Waltham through the eyes of young citizens</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">95</field>
+        <field name="keywords">Student publications</field>
+        <field name="keywords">Manners and customs</field>
+        <field name="keywords">Social life and customs</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Massachusetts</field>
+        <field name="notes">ill., maps ; 24 cm.; Genre/Form: History.</field>
+        <field name="publisher">Waltham (Massachusetts) High School</field>
+        <field name="pub_place">Waltham, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">974 . W23w</field>
+        <field name="state_country">Massachusetts</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Florida State Department of Education</field>
+        <field name="title">Florida: wealth or waste?</field>
+        <field name="year">1946</field>
+        <field name="date">1946?</field>
+        <field name="pages">176</field>
+        <field name="keywords">Natural resources</field>
+        <field name="keywords">Economic history</field>
+        <field name="keywords">Economic conditions</field>
+        <field name="keywords">Florida</field>
+        <field name="abstract">Florida: wealth or waste -- Florida's people -- Levels of living in
+            Florida -- How people in Florida make a living -- Florida's tourist industry -- How
+            Florida's forests are used -- Farming in Florida -- Cattle grazing in Florida -- Mining
+            in Florida -- Florida uses its sea resources -- Manufacturing Florida's products --
+            Transportation, communication, and commerce -- Florida faces the future.; A textbook to
+            "aid the boys and girls of this State to understand more clearly the problems
+            confronting the State and to appreciate more fully its wonderful opportunities"--Colin
+            English, State Supt. of Public Instruction, Foreword, p. ii.</field>
+        <field name="notes">xix; ges illustrations, tables; Note(s): Includes bibliographical
+            references.</field>
+        <field name="publisher">Florida State Department of Education</field>
+        <field name="pub_place">Tallahassee, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">975 .F63f</field>
+        <field name="state_country">Florida</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Perry, H. Arnold</field>
+        <field name="author_nat">H. Arnold Perry</field>
+        <field name="corp_author">North Carolina State Department of Public Instruction</field>
+        <field name="title">Studying the state of North Carolina : suggestions for teaching the
+            social studies</field>
+        <field name="year">1946</field>
+        <field name="date">1946</field>
+        <field name="pages">125</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">North Carolina</field>
+        <field name="notes">125, [12] pages : illustrations (some color) ; 23 cm.; Note(s): Includes
+            bibliographical references.; Perry, Haywood Arnold, 1905-; Studying the state of North
+            Carolina.; Raleigh : State Supt. of Public Instruction, 1946; Responsibility: prepared
+            by H. Arnold Perry, with the assistance of teaching and administrators in the North
+            Carolina Public Schools.</field>
+        <field name="series_title">North Carolina State Department of Public Instruction.
+            Publication</field>
+        <field name="series_vol">259</field>
+        <field name="publisher">North Carolina State Department of Public Instruction</field>
+        <field name="pub_place">Raleigh, NC</field>
+        <field name="language">English</field>
+        <field name="call_number">975 .N86s</field>
+        <field name="state_country">North Carolina</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">South Carolina State Department of Education</field>
+        <field name="title">A tentative guide to understanding South Carolina, for use in the
+            seventh and/or eighth grades</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">35</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">South Carolina</field>
+        <field name="notes">35 pages; Genre/Form: History. Outlines, syllabi, etc.</field>
+        <field name="publisher">South Carolina State Department of Education</field>
+        <field name="pub_place">Columbia, SC</field>
+        <field name="language">English</field>
+        <field name="call_number">975 .S72t</field>
+        <field name="state_country">South Carolina</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Teeter, Charles H.</field>
+        <field name="author_nat">Charles H. Teeter</field>
+        <field name="corp_author">Pinellas County (Florida) Board of Public Instruction</field>
+        <field name="title">Pinellas resources : report of workshop in resources education</field>
+        <field name="year">1945</field>
+        <field name="date">09/1945</field>
+        <field name="pages">117</field>
+        <field name="keywords">Travel</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Florida</field>
+        <field name="notes">ill., map ; 23 cm.; Genre/Form: History.; Note(s): Includes
+            bibliographical references (p. 113-115).; Responsibility: sponsored by Pinellas County
+            Board of Public Instruction ; Charles H. Teeter, Chairman.</field>
+        <field name="publisher">Tomlinson Technical Institute</field>
+        <field name="pub_place">St. Petersburg, FL</field>
+        <field name="language">English</field>
+        <field name="call_number">975 .P65p</field>
+        <field name="state_country">Florida</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Bristol Tennessee Public Schools</field>
+        <field name="title">Tennessee: past and present</field>
+        <field name="year">1952</field>
+        <field name="date">08/1952</field>
+        <field name="pages">11</field>
+        <field name="keywords">Tennessee</field>
+        <field name="keywords">United States history</field>
+        <field name="notes">Bristol Tennessee Public Schools in-service training program, August
+            18-28, 1952</field>
+        <field name="series_title">Bristol Tennessee Public Schools. Bulletin</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">Bristol Tennessee Public Schools</field>
+        <field name="pub_place">Bristol, TN</field>
+        <field name="language">English</field>
+        <field name="call_number">976 .B85t</field>
+        <field name="state_country">Tennessee</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Kentucky State Department of Education</field>
+        <field name="title">Kentucky in books pamphlets and films</field>
+        <field name="year">1956</field>
+        <field name="date">01/1956</field>
+        <field name="pages">39</field>
+        <field name="keywords">Kentucky</field>
+        <field name="series_title">Kentucky State Department of Education. Educational
+            bulletin</field>
+        <field name="series_vol">24</field>
+        <field name="issue">1</field>
+        <field name="publisher">Kentucky State Department of Education</field>
+        <field name="pub_place">Frankfort, KY</field>
+        <field name="language">English</field>
+        <field name="call_number">976 .K37k</field>
+        <field name="state_country">Kentucky</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">New Albany-Floyd County Consolidated Schools</field>
+        <field name="title">This is our community, Floyd County, Indiana : for the fourth grade boys
+            and girls of the New Albany-Floyd County Schools</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">25</field>
+        <field name="keywords">Indiana</field>
+        <field name="keywords">United States history</field>
+        <field name="edition">4th</field>
+        <field name="publisher">New Albany-Floyd County Consolidated Schools</field>
+        <field name="pub_place">New Albany, IN</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .F64t</field>
+        <field name="state_country">Indiana</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Grand Rapids (Michigan) Board of Education</field>
+        <field name="title">Michigan my Michigan</field>
+        <field name="year">1950</field>
+        <field name="date">01/1950</field>
+        <field name="pages">191</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">United States history</field>
+        <field name="publisher">Grand Rapids (Michigan) Board of Education</field>
+        <field name="pub_place">Grand Rapids, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .G75m</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Grand Rapids (Michigan) Board of Education</field>
+        <field name="title">Our city, Grand Rapids, Michigan</field>
+        <field name="year">1952</field>
+        <field name="date">09/1952</field>
+        <field name="pages">196</field>
+        <field name="keywords">Travel</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Michigan</field>
+        <field name="notes">196 p., 26 leaves of plates : ill. (some col.), col. maps ; 25 cm.;
+            Genre/Form: History.; Note(s): "Written by a committee of teachers in the Grand Rapids
+            Public Schools ... The illustrations were drawn by Grand Rapids elementary school
+            children"--Foreward.</field>
+        <field name="publisher">Grand Rapids (Michigan) Board of Education</field>
+        <field name="pub_place">Grand Rapids, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .G75o</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Louisiana State Department of Education</field>
+        <field name="corp_author">Louisiana State University and Agricultural and Mechanical
+            College</field>
+        <field name="title">Conference on Louisiana materials, Louisiana State University, July
+            20-August 7, 1953</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">80</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Louisiana</field>
+        <field name="notes">80 pages 28 cm.; Genre/Form: Bibliography.; Responsibility: Sponsored
+            jointly by Louisiana State Department of Education and Library School, Louisiana State
+            University. Issued by Shelby M. Jackson, State Superintendent of Schools.</field>
+        <field name="series_title">Louisiana State Department of Education. Bulletin</field>
+        <field name="series_vol">782</field>
+        <field name="publisher">Louisiana State Department of Education</field>
+        <field name="pub_place">Baton Rouge, LA</field>
+        <field name="language">English</field>
+        <field name="call_number">976 .L88c</field>
+        <field name="state_country">Louisiana</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Nashville City - Davidson County (Tennessee) Schools</field>
+        <field name="title">Tennessee heritage: a resource guide unit on Tennessee, grade 8</field>
+        <field name="year">1962</field>
+        <field name="date">12/1962</field>
+        <field name="pages">56</field>
+        <field name="keywords">Tennessee</field>
+        <field name="publisher">Nashville City - Davidson County (Tennessee) Schools</field>
+        <field name="pub_place">Nashville, TN</field>
+        <field name="language">English</field>
+        <field name="call_number">976 .N25t</field>
+        <field name="state_country">Tennessee</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tyler (Texas) Independent School District</field>
+        <field name="title">Curriculum guide for Texas history and geography, grade 7</field>
+        <field name="year">1964</field>
+        <field name="date">08/1964</field>
+        <field name="pages">30</field>
+        <field name="keywords">Texas</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Geography</field>
+        <field name="publisher">Tyler (Texas) Independent School District</field>
+        <field name="pub_place">Tyler, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">976 .T98c</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools</field>
+        <field name="title">Test booklet to accompany The story of early Cleveland: curriculum
+            material on social studies</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">32</field>
+        <field name="keywords">Curricula</field>
+        <field name="keywords">Social sciences</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .C63s v. 2</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Flint (Michigan) Public Schools</field>
+        <field name="title">Michigan: a resource unit for fourth grade children social
+            studies</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">33</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">Social sciences</field>
+        <field name="publisher">Flint (Michigan) Public Schools</field>
+        <field name="pub_place">Flint, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .F62m</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Central Michigan College of Education. Field Services
+            Division</field>
+        <field name="title">Bay, land and people : a short history of the Grand Traverse Bay Region
+            for later elementary students</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">99</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Michigan</field>
+        <field name="notes">99 leaves ; 28 cm.; Genre/Form: History.; Note(s): Typescript
+            (mimeographed).; Responsibility: prepared by a class in Writing Michigan Local History
+            conducted in Grand Traverse County by the Field Services Division, Central Michigan
+            College.</field>
+        <field name="publisher">Central Michigan College of Education. Field Services
+            Division</field>
+        <field name="pub_place">Mount Pleasant, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .M62b</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Mallett, Ann</field>
+        <field name="author_nat">Ann Mallett</field>
+        <field name="title">Indianapolis now and long ago</field>
+        <field name="pages">125</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Indiana</field>
+        <field name="publisher">Indianapolis (Indiana) Public Schools</field>
+        <field name="pub_place">Indianapolis, IN</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .I39i</field>
+        <field name="state_country">Indiana</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Minneapolis (Minnesota) Public Schools</field>
+        <field name="title">Resource guide: living in Minneapolis</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Political science</field>
+        <field name="keywords">Travel</field>
+        <field name="keywords">Politics and government</field>
+        <field name="keywords">Minnesota</field>
+        <field name="notes">1 v. (various pagings) ill., maps. 28 cm.; Note(s): Includes
+            bibliographical references.</field>
+        <field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+        <field name="pub_place">Minneapolis, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .M66L</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pontiac (Michigan) Board of Education</field>
+        <field name="title">Handbook on the government of the city of Pontiac</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">56</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">Politics and government</field>
+        <field name="publisher">Pontiac (Michigan) Board of Education</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .P81h 1957 v. 1</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pontiac (Michigan) Board of Education</field>
+        <field name="title">Handbook on the government of Oakland County</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">24</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">Politics and government</field>
+        <field name="publisher">Pontiac (Michigan) Board of Education</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .P81h 1957 v. 2</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pontiac (Michigan) Board of Education</field>
+        <field name="title">Pontiac area united fund</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">16</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">Politics and government</field>
+        <field name="publisher">Pontiac (Michigan) Board of Education</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .P81h 1957 v. 3</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pontiac (Michigan) Board of Education</field>
+        <field name="title">Handbook on the government of the city of Pontiac</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">45</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">Politics and government</field>
+        <field name="publisher">Pontiac (Michigan) Board of Education</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .P81h 1962 v. 1</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pontiac (Michigan) Board of Education</field>
+        <field name="title">Government of Oakland County</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">26</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">Politics and government</field>
+        <field name="publisher">Pontiac (Michigan) Board of Education</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .P81h 1962 v. 2</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pontiac (Michigan) Board of Education</field>
+        <field name="title">Departments of Oakland County government</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">66</field>
+        <field name="keywords">Michigan</field>
+        <field name="keywords">Politics and government</field>
+        <field name="publisher">Pontiac (Michigan) Board of Education</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .P81h 1962 v. 3</field>
+        <field name="state_country">Michigan</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">St. Louis (Missouri) Board of Education</field>
+        <field name="title">Heritage of St. Louis</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">201</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Missouri</field>
+        <field name="notes">210 p. : ill., maps; ates ; 28 cm.; Genre/Form: History.;
+            Responsibility: Writers: Helen I. Baldwin, Ruth M. Dockery, Nancy L. Garrett, S. Joseph
+            Gore. Picture editor: Helen H. Herminghaus. Designer: Richard H. Brunell.</field>
+        <field name="publisher">St. Louis (Missouri) Public Schools</field>
+        <field name="pub_place">St. Louis, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .S14h</field>
+        <field name="state_country">Missouri</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Waukesha (Wisconsin) Public Schools</field>
+        <field name="title">Social studies, grade 6, unit on Wisconsin</field>
+        <field name="pages">42</field>
+        <field name="keywords">Wisconsin</field>
+        <field name="keywords">Social sciences</field>
+        <field name="publisher">Waukesha (Wisconsin) Public Schools</field>
+        <field name="pub_place">Waukesha, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .W35u</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Joint City School District No. 1 (West Allis-West
+            Milwaukee)</field>
+        <field name="title">Social studies, Wisconsin, grade 4</field>
+        <field name="pages">147</field>
+        <field name="keywords">Wisconsin</field>
+        <field name="keywords">Social sciences</field>
+        <field name="publisher">Joint City School District No. 1</field>
+        <field name="pub_place">Milwaukee, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .W51w</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">Utah treasureland : a teachers social studies guide for grade four, Utah
+            geography</field>
+        <field name="year">1965</field>
+        <field name="date">1964-1965</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Utah</field>
+        <field name="keywords">Geography</field>
+        <field name="notes">1 v. (various pagings) : xiv; ; 22 x 28 cm.; Responsibility: Granite
+            School District.</field>
+        <field name="publisher">Granite School District</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">978 .G75ut</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">A guide to the teaching of seventh grade Utah history and community
+            problems</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">330</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Utah</field>
+        <field name="notes">vii; ill. ; 22 x 28 cm.; Other Titles: Utah history and community
+            problems.; Responsibility: Granite School District.</field>
+        <field name="publisher">Granite School District</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">978 .G75t</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">Utah now and long ago : social studies guide for grade three</field>
+        <field name="year">1965</field>
+        <field name="date">1964-1965</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Utah</field>
+        <field name="notes">1 v. (various pagings) : ill., maps, music ; 22 x 28 cm.; Note(s):
+            Includes bibliographical references and index.</field>
+        <field name="publisher">Granite School District</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">978 .G75u</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kenehan, Katherine</field>
+        <field name="author_nat">Katherine Kenehan</field>
+        <field name="author">Kaiser, Mary S.</field>
+        <field name="author_nat">Mary S. Kaiser</field>
+        <field name="corp_author">Denver (Colorado) Public Schools. Department of General Curriculum
+            Services</field>
+        <field name="title">Colorado, the land and the people.</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">195</field>
+        <field name="keywords">Travel</field>
+        <field name="keywords">Colorado</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Biography</field>
+        <field name="notes">195 pages : illustrations ; 24 cm; Genre/Form: History.; Note(s):
+            Includes bibliographical references and index.; Responsibility: written by Katherine
+            Kenehan ; edited by Mary S. Kaiser ; illustrated by Hero Conesny ; prepared by the
+            Denver Public Schools, Department of General Curriculum Services.</field>
+        <field name="publisher">Denver (Colorado) Public Schools. School District no. 1</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">978 .D41c</field>
+        <field name="state_country">Colorado</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Denver (Colorado) Public Schools</field>
+        <field name="title">Government of Denver, prepared for use in the junior high
+            schools</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">28</field>
+        <field name="keywords">Colorado</field>
+        <field name="publisher">Denver (Colorado) Public Schools</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">978 .D41g</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">McCleary, J. Leon</field>
+        <field name="author_nat">J. Leon McCleary</field>
+        <field name="author">Peterson, Ted T.</field>
+        <field name="author_nat">Ted T. Peterson</field>
+        <field name="title">Guideposts to Utah: a study of the geography and history of Utah for use
+            in secondary schools</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">144</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Utah</field>
+        <field name="notes">144 p. ; 27 cm.; Genre/Form: History.; Responsibility: by J. Leon
+            McCleary and Ted T. Peterson.</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">978 .M16g</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wisconsin Cooperative Educational Planning Program</field>
+        <field name="corp_author">Wisconsin State Department of Public Instruction</field>
+        <field name="title">Our Wisconsin heritage : the development of a state</field>
+        <field name="year">1947</field>
+        <field name="date">11/1947</field>
+        <field name="pages">50</field>
+        <field name="keywords">United States history</field>
+        <field name="keywords">Wisconsin</field>
+        <field name="notes">50 pages : illustrations ; 23 cm.; Genre/Form: History.; Note(s): Cover
+            title./ "November, 1947."/ "Wisconsin Cooperative Educational Planning Program ... and
+            Wisconsin Sub-Committee on Education for the 1948 State Centennial."</field>
+        <field name="series_title">Wisconsin Cooperative Educational Planning Program.
+            Bulletin</field>
+        <field name="series_vol">15</field>
+        <field name="publisher">Wisconsin State Department of Public Instruction</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">977 .W81o</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Atchison (Kansas) Public Schools</field>
+        <field name="title">What makes Kansas a great state?: resource unit intermediate
+            grades</field>
+        <field name="pages">6</field>
+        <field name="keywords">Kansas</field>
+        <field name="publisher">Atchison (Kansas) Public Schools</field>
+        <field name="pub_place">Atchison, KS</field>
+        <field name="language">English</field>
+        <field name="call_number">978 .A86w</field>
+        <field name="state_country">Kansas</field>
+    </doc>
+
+</add>

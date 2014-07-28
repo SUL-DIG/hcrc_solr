@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Faissler, Margareta</field>
+        <field name="author_nat">Margareta Faissler</field>
+        <field name="title">Key to the past; some history books for pre-college readers</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">84</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">iv; 23 cm.; Genre/Form: Bibliography. History.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">1</field>
+        <field name="edition">3d</field>
+        <field name="publisher">Service Center for Teachers of History, American Historical
+            Association</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 1</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Lampard, Eric E.</field>
+        <field name="author_nat">Eric E. Lampard</field>
+        <field name="title">Industrial revolution : interpretations and perspectives</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">39</field>
+        <field name="keywords">Economic history</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Industries</field>
+        <field name="keywords">History</field>
+        <field name="notes">39 p. ; 23 cm.; Genre/Form: Bibliography. History.; Note(s): Includes
+            bibliographical references.; Responsibility: by Eric E. Lampard.</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 4</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pennsylvania Council for the Social Studies</field>
+        <field name="title">Curriculum suggestions and teaching aids for world cultures for
+            Pennsylvania</field>
+        <field name="year">1961</field>
+        <field name="date">01/1961</field>
+        <field name="pages">50</field>
+        <field name="keywords">Civilization</field>
+        <field name="keywords">Culture</field>
+        <field name="notes">50 l.; Genre/Form: History. Outlines, syllabi, etc.; Note(s):
+            Bibliography: l. 40-49.</field>
+        <field name="publisher">Pennsylvania Council for the Social Studies</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .P41c</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sacramento (California) City Unified School District</field>
+        <field name="title">Teachers' handbook for junior and senior high school: world history 1
+            and 2 and modern history 3 and 4</field>
+        <field name="year">1955</field>
+        <field name="date">09/1955</field>
+        <field name="pages">84</field>
+        <field name="keywords">World history</field>
+        <field name="keywords">History</field>
+        <field name="notes">To accompany Man's story by T. Walter Wallbank, Scott Foresman and Co.,
+            1951, 768 pp.</field>
+        <field name="publisher">Sacramento (California) City Unified School District</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S12t</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Singletary, Otis A.</field>
+        <field name="author_nat">Otis A. Singletary</field>
+        <field name="author">Bailey, Kenneth K.</field>
+        <field name="author_nat">Kenneth K. Bailey</field>
+        <field name="title">The South in American history</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">27</field>
+        <field name="keywords">Southern States</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">27 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): Bibliography:
+            p. 24-25.; Responsibility: by Otis A. Singletary and Kenneth K. Bailey.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">3</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 3</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Billington, Ray Allen</field>
+        <field name="author_nat">Ray Allen Billington</field>
+        <field name="title">The American frontier</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">44</field>
+        <field name="keywords">Turner, Frederick Jackson, 1861-1932</field>
+        <field name="keywords">History</field>
+        <field name="notes">44 p. 23 cm.; Note(s): Bibliographical footnotes.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">8</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 8</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Gibson, Charles</field>
+        <field name="author_nat">Charles Gibson</field>
+        <field name="title">The colonial period in Latin American history</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">24</field>
+        <field name="keywords">Latin America</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">24 p. 23 cm.; Genre/Form: Bibliography. History.</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 7</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Morgan, Edmund S.</field>
+        <field name="author_nat">Edmund S. Morgan</field>
+        <field name="title">The American Revolution: a review of changing interpretations</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">20</field>
+        <field name="keywords">American Revolution, 1775-1783</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">20 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): Includes
+            bibliographical references (p. 18-20).</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">6</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 6</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Sellers, Charles Grier</field>
+        <field name="author_nat">Charles Grier Sellers</field>
+        <field name="title">Jacksonian democracy</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">18</field>
+        <field name="keywords">Jackson, Andrew, 1767-1845</field>
+        <field name="keywords">Politics and government</field>
+        <field name="keywords">Historiography</field>
+        <field name="notes">18 p. 23 cm.; Note(s): Includes bibliography.</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 9</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Crane, Robert I.</field>
+        <field name="author_nat">Robert I. Crane</field>
+        <field name="title">The history of India; its study and interpretation</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">46</field>
+        <field name="keywords">India</field>
+        <field name="keywords">History</field>
+        <field name="notes">46 p. 23 cm.; Genre/Form: History.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">17</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 17</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hall, Marie Boas</field>
+        <field name="author_nat">Marie Boas Hall</field>
+        <field name="title">History of science</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">25</field>
+        <field name="keywords">Science</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">25 p. ; 23 cm.; Genre/Form: Bibliography. History.; Note(s): Includes
+            bibliographical references (p. 24-25).; Responsibility: by Marie Boas Hall.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">13</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 13</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Jordan, Philip D.</field>
+        <field name="author_nat">Philip D. Jordan</field>
+        <field name="title">The nature and practice of state and local history</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">45</field>
+        <field name="keywords">History</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 14</field>
+    </doc>
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Stevens, Harry R.</field>
+        <field name="author_nat">Harry R. Stevens</field>
+        <field name="title">The Middle West</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="keywords">Middle West</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="pages">26</field>
+        <field name="notes">26 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): Bibliography:
+            p. 23-26.; Responsibility: by Harry R. Stevens.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">12</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Wright, Louis B.</field>
+        <field name="author_nat">Louis B. Wright</field>
+        <field name="title">New Interpretations of American colonial history</field>
+        <field name="year">1959</field>
+        <field name="title">1959</field>
+        <field name="pages">22</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">United States</field>
+        <field name="notes">22 p. 23 cm.; Genre/Form: Bibliography. History.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">16</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 16</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Lyon, Bryce Dale</field>
+        <field name="author_nat">Bryce Dale Lyon</field>
+        <field name="title">The Middle Ages in recent historical thought: selected topics</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">47</field>
+        <field name="keywords">Middle Ages</field>
+        <field name="notes">47 p. 23 cm.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">23</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 23</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Shafer, Boyd C.</field>
+        <field name="author_nat">Boyd C. Shafer</field>
+        <field name="title">Nationalism: interpretations and interpreters</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="pages">33</field>
+        <field name="keywords">Nationalism</field>
+        <field name="notes">33 p. 23 cm.; Note(s): First and 2d ed. published under title:
+            Nationalism: Interpreters and interpretations./ Bibliography: p. 24-33.; Responsibility:
+            by Boyd C. Shafer.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">20</field>
+        <field name="edition">3d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 20</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ward, Paul L.</field>
+        <field name="author_nat">Paul L. Ward</field>
+        <field name="title">A style of history for beginners</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">25</field>
+        <field name="keywords">History</field>
+        <field name="notes">25 p. ; 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: by Paul L. Ward.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">22</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 22</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Winks, Robin W.</field>
+        <field name="author_nat">Robin W. Winks</field>
+        <field name="title">Recent trends and new literature in Canadian history</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">56</field>
+        <field name="keywords">Historiography</field>
+        <field name="keywords">Canada</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">56 p. 23 cm.; Genre/Form: Bibliography. History.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">19</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 19</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Brown, William Burlie</field>
+        <field name="author_nat">William Burlie Brown</field>
+        <field name="title">United States history: a bridge to the world of ideas</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">77</field>
+        <field name="keywords">United States</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">77 p. 23 cm.; Genre/Form: Bibliography. History. Outlines, syllabi,
+            etc.; Note(s): Includes bibliographical references (p. 71-77).</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">31</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 31</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Freidel, Frank</field>
+        <field name="author_nat">Frank Freidel</field>
+        <field name="title">The New Deal in historical perspective</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">25</field>
+        <field name="keywords">New Deal, 1933-1939</field>
+        <field name="keywords">Political science</field>
+        <field name="keywords">Politics and government</field>
+        <field name="keywords">United States</field>
+        <field name="notes">21 p. 23 cm.; Note(s): Includes bibliographical references (p.
+            20-25).</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">25</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 25</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Meyer, Henry Cord</field>
+        <field name="author_nat">Henry Cord Meyer</field>
+        <field name="title">Five images of Germany : half a century of American views on German
+            history</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">56</field>
+        <field name="keywords">Public opinion</field>
+        <field name="keywords">Germany</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">56 p. ; 23 cm.; Genre/Form: Bibliography. History.; Note(s): Includes
+            bibliographical references.; Responsibility: by Henry Cord Meyer.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">27</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 27</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Winkler, Henry R.</field>
+        <field name="author_nat">Henry R. Winkler</field>
+        <field name="title">Great Britain in the twentieth century</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">36</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Great Britain</field>
+        <field name="notes">36 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): "Revised
+            version of a bibliographical essay prepared for the Conference on British Studies and
+            published in the Journal of modern history, vol. XXXII, no. 1, 1960."</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">28</field>
+        <field name="edition">2nd</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 28</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Blum, Jerome</field>
+        <field name="author_nat">Jerome Blum</field>
+        <field name="title">The European peasantry from the fifteenth to the nineteenth
+            century</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">30</field>
+        <field name="keywords">Europe</field>
+        <field name="keywords">Peasants</field>
+        <field name="notes">30 p. ; 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: by Jerome Blum.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">33</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 33</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hall, John Whitney</field>
+        <field name="author_nat">John Whitney Hall</field>
+        <field name="title">Japanese history : new dimensions of approach and understanding</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">69</field>
+        <field name="keywords">Historiography</field>
+        <field name="keywords">Japan</field>
+        <field name="notes">63 p. ; 23 cm.; Note(s): Includes bibliographies.; Responsibility: by
+            John Whitney Hall.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">34</field>
+        <field name="edition">2nd</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 34</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Mullett, Charles F.</field>
+        <field name="author_nat">Charles F. Mullett</field>
+        <field name="title">The British Empire-Commonwealth, its themes and character; a plural
+            society in evolution</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">37</field>
+        <field name="keywords">Commonwealth countries</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">36</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 36</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Woodward, C. Vann</field>
+        <field name="author_nat">C. Vann Woodward</field>
+        <field name="title">The age of reinterpretation</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="keywords">History</field>
+        <field name="keywords">United States</field>
+        <field name="notes">22 p. 23 cm.; Genre/Form: History.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">35</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 35</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Berwick, Keith</field>
+        <field name="author_nat">Keith Berwick</field>
+        <field name="title">The Federal age, 1789-1829 : America in the process of becoming</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">40</field>
+        <field name="keywords">United States</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Historiography</field>
+        <field name="notes">40 p. ; 23 cm.; Note(s): Includes bibliographical references.;
+            Responsibility: by Keith B. Berwick.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">40</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 40</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Burr, Susan S.</field>
+        <field name="author_nat">Susan S. Burr</field>
+        <field name="title">Money grows up in American history</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">36</field>
+        <field name="keywords">Money</field>
+        <field name="keywords">United States</field>
+        <field name="keywords">History</field>
+        <field name="notes">36 p. 23 cm.; Genre/Form: History.; Note(s): Includes bibliographical
+            references.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">43</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 43</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Millis, Walter</field>
+        <field name="author_nat">Walter Millis</field>
+        <field name="title">Military history</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="pages">18</field>
+        <field name="keywords">Military history</field>
+        <field name="keywords">Historiography</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">39</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 39</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Whitaker, Arthur Preston</field>
+        <field name="author_nat">Arthur Preston Whitaker</field>
+        <field name="title">Latin American history since 1825</field>
+        <field name="year">1965</field>
+        <field name="date">1965</field>
+        <field name="pages">23</field>
+        <field name="keywords">Latin America</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Historiography</field>
+        <field name="notes">23 p. 23 cm.; Note(s): Bibliography: p. 19-23.; Responsibility: by
+            Arthur P. Whitaker.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">42</field>
+        <field name="edition">2d</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 42</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Blum, Albert A.</field>
+        <field name="author_nat">Albert A. Blum</field>
+        <field name="title">The development of American labor</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">28</field>
+        <field name="keywords">Labor unions</field>
+        <field name="keywords">United States</field>
+        <field name="notes">28 p. 23 cm.; Note(s): Includes bibliographical references.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">48</field>
+        <field name="publisher">Macmillan</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 48</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Elkins, Stanley M.</field>
+        <field name="author_nat">Stanley M. Elkins</field>
+        <field name="author">McKitrick, Eric L.</field>
+        <field name="author_nat">Eric L. McKitrick</field>
+        <field name="title">The founding fathers : young men of the Revolution</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">28</field>
+        <field name="keywords">Constitutional history</field>
+        <field name="keywords">Founding Fathers</field>
+        <field name="keywords">United States</field>
+        <field name="notes">28 p. ; 23 cm.; Note(s): Includes bibliography.; Responsibility: by
+            Stanley Elkins and Eric McKitrick.</field>
+        <field name="series_title">Center for Teachers of History. Publication</field>
+        <field name="series_vol">44</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 44</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Holt, W. Stull</field>
+        <field name="author_nat">W. Stull Holt</field>
+        <field name="title">The historical profession in the United States</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">30</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Historians</field>
+        <field name="keywords">United States</field>
+        <field name="notes">30 p.; Note(s): Includes bibliographical references.</field>
+        <field name="series_title">Center for Teachers of History. Publication</field>
+        <field name="series_vol">52</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 52</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Scott, Franklin D.</field>
+        <field name="author_nat">Franklin D. Scott</field>
+        <field name="title">Emigration and immigration</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">63</field>
+        <field name="keywords">Emigration and immigration</field>
+        <field name="keywords">United States</field>
+        <field name="notes">62 p. illus. 23 cm.; Note(s): Bibliography: P. 58-62.; Responsibility:
+            by Franklin D. Scott with the assistance of Richard Beringer.</field>
+        <field name="series_title">Service Center for Teachers of History</field>
+        <field name="series_vol">51</field>
+        <field name="publisher">Macmillan</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 51</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Delzell, Charles F.</field>
+        <field name="author_nat">Charles F. Delzell</field>
+        <field name="title">Italy in modern times: an introduction to the historical literature in
+            English</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">35</field>
+        <field name="keywords">Italy</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">35 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): "A
+            publication of the American Historical Association."/ Bibliography: p. 31-35.;
+            Responsibility: by Charles F. Delzell.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">60</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 60</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ekirch, Arthur Alphonse</field>
+        <field name="author_nat">Arthur Alphonse Ekirch</field>
+        <field name="title">American intellectual history</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">33</field>
+        <field name="keywords">Historiography</field>
+        <field name="keywords">Intellectual life</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">United States</field>
+        <field name="notes">33 p. ; 23 cm.; Genre/Form: Bibliography.; Note(s): Includes
+            bibliographical references.; Responsibility: by Arthur A. Ekirch.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">53</field>
+        <field name="publisher">Macmillan</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 53</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Gaustad, Edwin S.</field>
+        <field name="author_nat">Edwin S. Gaustad</field>
+        <field name="title">American religious history</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">27</field>
+        <field name="keywords">Religions</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">United States</field>
+        <field name="notes">27 p. 23 cm.; Genre/Form: Bibliography.; Note(s): Later ed. (c1973)
+            published under title: Religion in America: history and historiography./ Bibliography:
+            p. 25-27.; Responsibility: by Edwin S. Gaustad.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">65</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 65</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Webb, R. K.</field>
+        <field name="author_nat">R. K. Webb</field>
+        <field name="title">English history, 1815-1914</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">32</field>
+        <field name="keywords">Great Britain</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">32 p. ; 23 cm.; Genre/Form: Bibliography. History.; Note(s): Includes
+            bibliographical references (p. 29-32).; Responsibility: by R.K. Webb.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="keywords">64</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 64</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Greene, Jack P.</field>
+        <field name="author_nat">Jack P. Greene</field>
+        <field name="title">The reappraisal of the American revolution in recent historical
+            literature</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">82</field>
+        <field name="keywords">American Revolution, 1775-1783</field>
+        <field name="keywords">United States</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Historiography</field>
+        <field name="notes">82 p. 23 cm.; Genre/Form: History.; Note(s): Bibliography: p. 79-82.;
+            Responsibility: by Jack P. Greene.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">68</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 68</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Healy, David</field>
+        <field name="author_nat">David Healy</field>
+        <field name="title">Modern imperialism: changing styles in historical interpretation</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">29</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Historiography</field>
+        <field name="keywords">Imperialism</field>
+        <field name="notes">29 p. 23 cm.; Genre/Form: History.; Note(s): Bibliography: p.
+            27-29.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">69</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 69</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Morton, Louis</field>
+        <field name="author_nat">Louis Morton</field>
+        <field name="title">Writings on World War II</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">54</field>
+        <field name="keywords">World War II</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">iv; 23 cm.; Genre/Form: Bibliography.; Note(s): Bibliography: p.
+            50-54.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">66</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 66</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Stewart, John Hall</field>
+        <field name="author_nat">John Hall Stewart</field>
+        <field name="title">The French Revolution: some trends in historical writing,
+            1945-1965</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">37</field>
+        <field name="keywords">France</field>
+        <field name="keywords">History</field>
+        <field name="keywords">French Revolution</field>
+        <field name="keywords">Historiography</field>
+        <field name="notes">vi; 23 cm.; Note(s): Bibliography: p. 33-37.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">67</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 67</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Fairbank, John King</field>
+        <field name="author_nat">John King Fairbank</field>
+        <field name="title">New views of China's tradition and modernization</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">59</field>
+        <field name="keywords">Historiography</field>
+        <field name="keywords">China</field>
+        <field name="notes">59 p. 23 cm.; Note(s): Bibliography: p. 56-59.; Responsibility: by John
+            K. Fairbank.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">74</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 74</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Galambos, Louis</field>
+        <field name="author_nat">Louis Galambos</field>
+        <field name="title">American business history</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="pages">32</field>
+        <field name="keywords">Commerce</field>
+        <field name="keywords">History</field>
+        <field name="keywords">United States</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">32 p. 23 cm.; Genre/Form: Bibliography.; Note(s): Bibliography: p.
+            30-32.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">70</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 70</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Grantham, Dewey W.</field>
+        <field name="author_nat">Dewey W. Grantham</field>
+        <field name="title">The United States since 1945</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">45</field>
+        <field name="keywords">United States</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">45 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): Published in
+            1975 under title: Contemporary American history./ Bibliography: p. 39-45.;
+            Responsibility: by Dewey W. Grantham Jr.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">71</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 71</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Joughin, Jean T.</field>
+        <field name="author_nat">Jean T. Joughin</field>
+        <field name="title">France in the nineteenth century, 1815-1914; selected studies in English
+            since 1956</field>
+        <field name="year">1968</field>
+        <field name="date">1958</field>
+        <field name="pages">35</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">France</field>
+        <field name="notes">35 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): Bibliography:
+            p. 32-35.; Responsibility: by Jean T. Joughin.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">72</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 72</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Rich, Norman</field>
+        <field name="author_nat">Norman Rich</field>
+        <field name="title">Germany, 1815-1914</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">43</field>
+        <field name="keywords">Germany</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">43 p. 23 cm.; Genre/Form: Bibliography. History.; Note(s): Bibliography:
+            p. 40-43.</field>
+        <field name="series_title">Service Center for Teachers of History. Publication</field>
+        <field name="series_vol">73</field>
+        <field name="publisher">Service Center for Teachers of History</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S49p no. 73</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Shorewood (Wisconsin) Public Schools</field>
+        <field name="title">Social studies instructional guide : tenth grade : world history</field>
+        <field name="year">1956</field>
+        <field name="date">09/1956</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">World history</field>
+        <field name="series_title">Shorewood (Wisconsin) Public Schools. Bulletin.</field>
+        <field name="series_vol">10</field>
+        <field name="publisher">Shorewood (Wisconsin) Public Schools</field>
+        <field name="pub_place">Shorewood, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S55w</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Wheeler, Sally</field>
+        <field name="author_nat">Sally Wheeler</field>
+        <field name="title">A teaching unit: the Far East and the western world</field>
+        <field name="year">1961</field>
+        <field name="date">Autumn, 1961</field>
+        <field name="pages">24</field>
+        <field name="keywords">World history</field>
+        <field name="notes">Education 296a, Dr. Gross, Autumn, 1961</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S78f</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Price, Barbara Allan</field>
+        <field name="author_nat">Barbara Allan Price</field>
+        <field name="title">Resource unit: The Italian Renaissance</field>
+        <field name="year">1958</field>
+        <field name="date">Autumn, 1958</field>
+        <field name="pages">31</field>
+        <field name="keywords">Italian Renaissance</field>
+        <field name="notes">Education 296a, Dr. Gross, Autumn Quarter, 1958</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S78i</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Johnson, Christine</field>
+        <field name="author_nat">Christine Johnson</field>
+        <field name="title">Industrial revolution</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">18</field>
+        <field name="keywords">Industrial revolution</field>
+        <field name="notes">Education 296, Dr. Richard E. Gross, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S78in</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Coladarci, Arthur</field>
+        <field name="author_nat">Arthur Coladarci</field>
+        <field name="author">Fujita, Hidenori</field>
+        <field name="author_nat">Hidenori Fujita</field>
+        <field name="author">Hishiki, Patricia C.</field>
+        <field name="author_nat">Patricia C. Hishiki</field>
+        <field name="author">Ward, Robert E.</field>
+        <field name="author_nat">Robert E. Ward</field>
+        <field name="title">Japan in world history courses: a report to The Division of
+            International Education, U.S. Office of Education</field>
+        <field name="year">1974</field>
+        <field name="date">09/1974</field>
+        <field name="pages">19</field>
+        <field name="keywords">World history</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Japan</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S78j</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Knickerbocker, James H.</field>
+        <field name="author_nat">James H. Knickerbocker</field>
+        <field name="title">Modern man find himself: a resource uit on the Renaissance and
+            Reformation</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">46</field>
+        <field name="keywords">Italian Renaissance</field>
+        <field name="keywords">Reformation</field>
+        <field name="notes">Education 296a, Dr. Richard E. Gross, 1957</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S78m</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Foster, Toto</field>
+        <field name="author_nat">Toto Foster</field>
+        <field name="title">Why do men fight: history resource unit on the problem of war and
+            peace</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="keywords">War</field>
+        <field name="keywords">History</field>
+        <field name="keywords">Peace</field>
+        <field name="notes">Education 296, Dr. Richard E. Gross, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S78w</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Stanford University. School of Education</field>
+        <field name="title">World peace: which way?</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="keywords">Peace</field>
+        <field name="notes">1 v. various pagings, Education 268d, Dr. Richard E. Gross, 1966</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .S78wp</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Green, Richard</field>
+        <field name="author_nat">Richard Green</field>
+        <field name="title">A study of life in ancient Athens : a bulletin for schools</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="pages">47</field>
+        <field name="keywords">Greece</field>
+        <field name="keywords">History</field>
+        <field name="notes">47 p. : ill., maps; ans ; 17 x 24 cm.; Note(s): "Library classification
+            no. 938."/ "G.P. serial no. 69."; Responsibility: by Richard Green.</field>
+        <field name="publisher">School Publications Branch, Department of Education</field>
+        <field name="pub_place">Wellington, NZ</field>
+        <field name="language">English</field>
+        <field name="call_number">930 .N54s</field>
+        <field name="state_country">New Zealand</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools</field>
+        <field name="title">Greece and Rome</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">10</field>
+        <field name="keywords">Greece</field>
+        <field name="keywords">Rome</field>
+        <field name="keywords">History</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">930 .P27g</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Washington State Superintendent of Public Instruction</field>
+        <field name="title">A curriculum guide for contemporary world history, geography and
+            problems, grades eleven or twelve</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">45</field>
+        <field name="keywords">World history</field>
+        <field name="keywords">Geography</field>
+        <field name="series_title">Washington State Superintendent of Public Instruction. Curriculum
+            guide</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Washington State Superintendent of Public Instruction</field>
+        <field name="pub_place">Olympia, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">925 .W31c</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Leak, R. K.</field>
+        <field name="author_nat">R. K. Leak</field>
+        <field name="corp_author">Minnetonka (Minnesota) School District No. 276</field>
+        <field name="title">Ancient civilizations: a teacher's guide</field>
+        <field name="year">1961</field>
+        <field name="date">07/1961</field>
+        <field name="pages">151</field>
+        <field name="keywords">Ancient civilization</field>
+        <field name="notes">Developed as part of the Minnetonka Summer Curriculum Development
+            Program</field>
+        <field name="series_title">Selected ancient civilizations</field>
+        <field name="publisher">Minnetonka (Minnesota) School District</field>
+        <field name="pub_place">Excelsior, MN</field>
+        <field name="language">English</field>
+        <field name="call_number">930 .M66s</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Richards, Lynn</field>
+        <field name="author_nat">Lynn Richards</field>
+        <field name="title">The Greek experience: a survey of ancient Greek history from earliest
+            times to the age of Alexander the Great</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">50</field>
+        <field name="keywords">Greece</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296a, Dr. Gross, Stanford, 1963</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">930 .S78g</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Cooper, Jim</field>
+        <field name="author_nat">Jim Cooper</field>
+        <field name="title">Resource unit for seventh grade on ancient Greece</field>
+        <field name="year">1961</field>
+        <field name="date">08/1961</field>
+        <field name="pages">14</field>
+        <field name="keywords">Greece</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 219a, Mr. W.T. Nimroth, August 9, 1961</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">930 .S78r</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Chelmsford (Massachusetts) Public Schools</field>
+        <field name="title">Area studies: Europe teacher's resource guide</field>
+        <field name="year">1973</field>
+        <field name="date">1973</field>
+        <field name="keywords">Europe</field>
+        <field name="notes">1 v. various pagings</field>
+        <field name="publisher">Chelmsford (Massachusetts) Public Schools</field>
+        <field name="pub_place">Chelmsford, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .C51a</field>
+        <field name="state_country">Massachusetts</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles (California) City School District</field>
+        <field name="title">Modern Europe: an instructional guide, grades 10-12.
+            Experimental</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">75</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Europe</field>
+        <field name="notes">1 v.; Note(s): Publ. no. X-80.</field>
+        <field name="publisher">Los Angeles (California) City School District</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .L87m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Eggimann, C.</field>
+        <field name="author_nat">C. Eggimann</field>
+        <field name="title">A sixth grade unit on the middle ages</field>
+        <field name="year">1966</field>
+        <field name="date">09/1966</field>
+        <field name="pages">22</field>
+        <field name="keywords">Middle ages</field>
+        <field name="notes">Nut Swamp School</field>
+        <field name="publisher">Middletown (New Jersey) Schools</field>
+        <field name="pub_place">Middletown, NJ</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .M62s</field>
+        <field name="state_country">New Jersey</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Social studies: grade 10, European culture studies</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">43</field>
+        <field name="keywords">Civilization</field>
+        <field name="keywords">Europe</field>
+        <field name="notes">xviii; 28 cm.; Note(s): On cover: Tentative syllabus./ "Revision of the
+            course of study, Grade 10: modern world history, issued in 1966 as part of the tentative
+            program for grades 9 and 10."</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .N531e</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Osborn Schools (Phoenix, Arizona)</field>
+        <field name="title">Social studies</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">59</field>
+        <field name="keywords">Social sciences</field>
+        <field name="publisher">Osborn Schools</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .O81s</field>
+        <field name="state_country">Arizona</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="title">Mediterranean lands, grade 7</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">9</field>
+        <field name="keywords">Mediterranean Region</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .P27m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Francisco (California) Unified School District. Secondary
+            Division</field>
+        <field name="title">Life in the world today: the Mediterranean area and Europe</field>
+        <field name="year">1960</field>
+        <field name="date">1960?</field>
+        <field name="pages">41</field>
+        <field name="keywords">Mediterranean Region</field>
+        <field name="publisher">San Francisco (California) Unified School District</field>
+        <field name="pub_place">San Francisco, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .S19L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Curriculum
+            Development</field>
+        <field name="title">A land of mountains and corridors, mines and factories : industrial
+            region of western Europe, a resource unit for teachers</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">38</field>
+        <field name="keywords">Industries</field>
+        <field name="keywords">Europe</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Travel</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): "For grades 5 or 6."/ Includes bibliographical
+            references.</field>
+        <field name="series_title">Elementary school environmental regional studies</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">Bureau of Curriculum Development, Division of Elementary Education,
+            New York State Education Dept</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .N53L</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Custer, Diane</field>
+        <field name="author_nat">Diane Custer</field>
+        <field name="title">Middle Ages, when knights were bold; a resource unit</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="keywords">Middle ages</field>
+        <field name="notes">Education 296b, Dr. Gross</field>
+        <field name="publisher">Stanford University, School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .S78m</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hamilton, Sarah</field>
+        <field name="author_nat">Sarah Hamilton</field>
+        <field name="title">Reaction versus liberalism: Europe 1815-1848</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">37</field>
+        <field name="keywords">Europe</field>
+        <field name="keywords">History</field>
+        <field name="publisher">Stanford University, School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .S78r</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Grantham, Paulette</field>
+        <field name="author_nat">Paulette Grantham</field>
+        <field name="title">World War II in Europe with bibliography supplement for Asia</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="keywords">World War II</field>
+        <field name="publisher">Stanford University, School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .S78w</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">DeVincenzi, Ann I.</field>
+        <field name="author_nat">Ann I. DeVincenzi</field>
+        <field name="title">World War I welcomes you to the 20th century</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="keywords">World War I</field>
+        <field name="publisher">Stanford University, School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">940 .S78wo</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Historical Association (Great Britain)</field>
+        <field name="title">English History in Pictures</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="keywords">Great Britain</field>
+        <field name="keywords">History</field>
+        <field name="publisher">George Philip &amp; Son</field>
+        <field name="pub_place">London, UK</field>
+        <field name="language">English</field>
+        <field name="call_number">942 .H65e no. 1</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ferrel, Eileen</field>
+        <field name="author_nat">Eileen Ferrel</field>
+        <field name="author">Gemperli, Blanche</field>
+        <field name="author_nat">Blanche Gemperli</field>
+        <field name="author">Thompson, Robert</field>
+        <field name="author_nat">Robert Thompson</field>
+        <field name="author">Bauschelt, Richard</field>
+        <field name="author_nat">Richard Bauschelt</field>
+        <field name="corp_author">Modesto (California) Secondary Schools</field>
+        <field name="title">Social studies and language arts course of study seventh grade:
+            England</field>
+        <field name="year">1957</field>
+        <field name="date">1957-1958</field>
+        <field name="pages">160</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Language arts</field>
+        <field name="keywords">Great Britain</field>
+        <field name="publisher">Modesto (California) Secondary Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">942 .M69e</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Goldo, Marcy J.</field>
+        <field name="author_nat">Marcy J. Goldo</field>
+        <field name="title">The achievement of political democracy in England</field>
+        <field name="year">1957</field>
+        <field name="date">03/1957</field>
+        <field name="pages">34</field>
+        <field name="keywords">Great Britain</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296, Dr. Gross, March 21, 1957, grades 9-10</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">942 .S78a</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Scherer, Karl L.</field>
+        <field name="author_nat">Karl L. Scherer</field>
+        <field name="title">Our English heritage</field>
+        <field name="year">1963</field>
+        <field name="date">03/1963</field>
+        <field name="keywords">Great Britain</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296b, Dr. Richard E. Gross, March, 1963</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">942 .S78o</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Miilu, Marcia</field>
+        <field name="author_nat">Marcia Miilu</field>
+        <field name="title">The Nazi revolution; Germany's fate or Germany's guilt: a resource
+            unit</field>
+        <field name="year">1960</field>
+        <field name="date">Spring, 1960</field>
+        <field name="keywords">Germany</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296, Dr. Richard E. Gross, Spring, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">943 .S78n</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hamilton, Rosemary</field>
+        <field name="author_nat">Rosemary Hamilton</field>
+        <field name="title">What is the status of Germany? a resource unit of Germany since
+            1945</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="keywords">Germany</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296a, Dr. Richard E. Gross, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">943 .S78w</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Guthrie, James W.</field>
+        <field name="author_nat">James W. Guthrie</field>
+        <field name="author">Kensinger, L. H.</field>
+        <field name="author_nat">L. H. Kensinger</field>
+        <field name="title">Liberté, égalité, fraternité</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">38</field>
+        <field name="keywords">France</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296b, Dr. Richard E. Gross, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">944 .S78L</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Linsenmeyer, William S.</field>
+        <field name="author_nat">William S. Linsenmeyer</field>
+        <field name="title">The governments of France from 1875 to 1963</field>
+        <field name="year">1963</field>
+        <field name="date">03/1963</field>
+        <field name="pages">32</field>
+        <field name="keywords">France</field>
+        <field name="keywords">History</field>
+        <field name="notes">Education 296b, Dr. Richard E. Gross, March 1963</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">944 .S78r</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Persels, Bess</field>
+        <field name="author_nat">Bess Persels</field>
+        <field name="title">The union of Soviet-Socialist Republics, with emphasis upon life in the
+            Ukraine</field>
+        <field name="pages">14</field>
+        <field name="keywords">Ukraine</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, Ca</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .C15u</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ferrel, Eileen</field>
+        <field name="author_nat">Eileen Ferrel</field>
+        <field name="author">Gemperli, Blanche</field>
+        <field name="author_nat">Blanche Gemperli</field>
+        <field name="author">Thompson, Robert</field>
+        <field name="author_nat">Robert Thompson</field>
+        <field name="author">Bauschelt, Richard</field>
+        <field name="author_nat">Richard Bauschelt</field>
+        <field name="corp_author">Modesto (California) Secondary Schools</field>
+        <field name="title">Social studies and language arts course of study seventh grade:
+            Russia</field>
+        <field name="year">1957</field>
+        <field name="date">1957-1958</field>
+        <field name="pages">75</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Language arts</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">Modesto (California) Secondary Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .M69r</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">National Council of American-Soviet Friendship</field>
+        <field name="title">Publications</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">3</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">National Council of American-Soviet Friendship</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .N27p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">National Council of American-Soviet Friendship</field>
+        <field name="title">Photographic exhibits of the Union of Soviet Socialist Republics</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">10</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">National Council of American-Soviet Friendship</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .N27p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">National Council of American-Soviet Friendship</field>
+        <field name="title">Supplementary list [to] Photographic exhibits of the Union of Soviet
+            Socialist Republics</field>
+        <field name="year">1960</field>
+        <field name="date">03/1960</field>
+        <field name="pages">5</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">National Council of American-Soviet Friendship</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .N27p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">National Council of American-Soviet Friendship</field>
+        <field name="title">Loan library books, booklets and pamphlets published by the Soviet press
+            in English</field>
+        <field name="year">1959</field>
+        <field name="date">07/1959</field>
+        <field name="pages">8</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">National Council of American-Soviet Friendship</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .N27p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">National Council of American-Soviet Friendship</field>
+        <field name="title">Supplementary list [to] Loan library books, booklets and pamphlets
+            published by the Soviet press in English</field>
+        <field name="year">1960</field>
+        <field name="date">03/1960</field>
+        <field name="pages">5</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">National Council of American-Soviet Friendship</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .N27p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">National Council of American-Soviet Friendship</field>
+        <field name="title">Films of the U.S.S.R.</field>
+        <field name="pages">6</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">National Council of American-Soviet Friendship</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .N27p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Elementary Schools</field>
+        <field name="title">A unit of work for the seventh grade: Russia</field>
+        <field name="pages">39</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">Santa Clara County (California) Elementary Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .S23r</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bartky, Joyce</field>
+        <field name="author_nat">Joyce Bartky</field>
+        <field name="title">The Russian revolution: end or beginning of tyranny?</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">38</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .S78r</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Science Materials Center</field>
+        <field name="title">Final examinations in the Russian ten-year school</field>
+        <field name="year">1957</field>
+        <field name="date">1957-1958</field>
+        <field name="pages">23</field>
+        <field name="keywords">Russia</field>
+        <field name="publisher">Science Materials Center</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">947 .U58f v. 1</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Beyer, Richard D.</field>
+        <field name="author_nat">Richard D. Beyer</field>
+        <field name="title">Annotated bibliography: Far-Eastern history</field>
+        <field name="year">1962</field>
+        <field name="date">05/1962</field>
+        <field name="pages">40</field>
+        <field name="keywords">Asia</field>
+        <field name="publisher">Lakewood (Ohio) High School</field>
+        <field name="pub_place">Lakewood, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">950 .L19f</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Dahlberg, Henry</field>
+        <field name="author_nat">Henry Dahlberg</field>
+        <field name="title">Background guide to understanding current events in Southeast
+            Asia</field>
+        <field name="year">1964</field>
+        <field name="date">03/1964</field>
+        <field name="pages">21</field>
+        <field name="keywords">Asia</field>
+        <field name="publisher">Stanford University, School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">950 .S78b</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Shifrin, F. L.</field>
+        <field name="author_nat">F. L. Shifrin</field>
+        <field name="title">The Middle East</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="keywords">Middle East</field>
+        <field name="notes">Education 268m, Dr. Gross, 1966</field>
+        <field name="publisher">Stanford University, School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">950 .S78m</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Smith, Deanna</field>
+        <field name="author_nat">Deanna Smith</field>
+        <field name="author">Sixit, Shela</field>
+        <field name="author_nat">Shela Sixit</field>
+        <field name="title">Postwar problems of the Far East</field>
+        <field name="year">1961</field>
+        <field name="date">1961</field>
+        <field name="keywords">Asia</field>
+        <field name="notes">Education 296, Dr. Gross, 1961</field>
+        <field name="publisher">Stanford University, School of Education</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">950 .S78p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">U.S. National Commission for UNESCO</field>
+        <field name="title">A selected bibliography of books, films, filmslides, records, and
+            exhibitions about Asia</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">47</field>
+        <field name="keywords">Asia</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Film catalogs</field>
+        <field name="keywords">Discography</field>
+        <field name="notes">v; 24 cm.; Genre/Form: Bibliography. Discography. Film catalogs.</field>
+        <field name="publisher">U.S. National Commission for UNESCO</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">950 .U58s</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">World Confederation of Organizations of the Teaching
+            Profession</field>
+        <field name="title">A reading guide to Asia for teachers</field>
+        <field name="year">1959</field>
+        <field name="date">1959</field>
+        <field name="pages">20</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Asia</field>
+        <field name="notes">20 p. ; 23 cm.; Genre/Form: Bibliography.</field>
+        <field name="publisher">World Confederation of Organizations of the Teaching
+            Profession</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">950 .W927r</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Persels, Bess H.</field>
+        <field name="author_nat">Bess H. Persels</field>
+        <field name="title">A sequence of experiences in the fourth grade centered in Chinese
+            life</field>
+        <field name="pages">103</field>
+        <field name="keywords">China</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">951 .C15c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Persels, Bess H.</field>
+        <field name="author_nat">Bess H. Persels</field>
+        <field name="title">Fourth grade: a study of Chinese life</field>
+        <field name="pages">11</field>
+        <field name="keywords">China</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">951 .C15s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Blouin, Virginia</field>
+        <field name="author_nat">Virginia Blouin</field>
+        <field name="author">Brodeur, Raymond</field>
+        <field name="author_nat">Raymond Brodeur</field>
+        <field name="author">Whitton, Nancy</field>
+        <field name="author_nat">Nancy Whitton</field>
+        <field name="author">Mitsakos, Charles L.</field>
+        <field name="author_nat">Charles L. Mitsakos</field>
+        <field name="title">Area studies: China</field>
+        <field name="year">1972</field>
+        <field name="date">1972</field>
+        <field name="pages">66</field>
+        <field name="keywords">China</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Chelmsford (Massachusetts) Public Schools</field>
+        <field name="pub_place">Chelmsford, MA</field>
+        <field name="language">English</field>
+        <field name="call_number">951 .C51a</field>
+        <field name="state_country">Massachusetts</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Goodrich, L. Carrington</field>
+        <field name="author_nat">L. Carrington Goodrich</field>
+        <field name="author">Fenn, Henry C.</field>
+        <field name="author_nat">Henry C. Fenn</field>
+        <field name="title">A syllabus of the history of Chinese civilization and culture</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">55</field>
+        <field name="keywords">Civilization</field>
+        <field name="keywords">China</field>
+        <field name="notes">55 p. illus. 23 cm.; Genre/Form: Outlines, syllabi, etc.; Other Titles:
+            Chinese civilization and culture.</field>
+        <field name="edition">5th</field>
+        <field name="publisher">China Society of America</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">951 .C53s</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Moser, Don</field>
+        <field name="author_nat">Don Moser</field>
+        <field name="author">Wise, Paul</field>
+        <field name="author_nat">Paul Wise</field>
+        <field name="title">A resource unit on China</field>
+        <field name="year">1962</field>
+        <field name="date">1962</field>
+        <field name="pages">84</field>
+        <field name="keywords">China</field>
+        <field name="publisher">Lakewood (Ohio) Public Schools</field>
+        <field name="pub_place">Lakewood, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">951 .L19r</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Long Beach (California) Unified School District</field>
+        <field name="title">Life in China; a unit of work for fourth grade children</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">206</field>
+        <field name="keywords">China</field>
+        <field name="notes">206 p. ill. 22 cm.; Note(s): Bibliography: p. 137-151.; Responsibility:
+            prepared by a committee of classroom teachers in cooperation with Neva Hagaman.</field>
+        <field name="publisher">Long Beach (California) Unified School District</field>
+        <field name="pub_place">Long Beach, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">951 .L84L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools</field>
+        <field name="title">China</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">8</field>
+        <field name="keywords">China</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">951 .P27c</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">Korea needs everything!</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">A report on Korea today</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">The YWCA in Korea</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Carr, William G.</field>
+        <field name="author_nat">William G. Carr</field>
+        <field name="title">Courage unlimited</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">Korean games</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">The vanity of the rat</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">Korean games</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kinsman, Dorothy Lewis</field>
+        <field name="author_nat">Dorothy Lewis Kinsman</field>
+        <field name="title">The year in Korea</field>
+        <field name="year">1950</field>
+        <field name="date">06/1950</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kinsman, Dorothy Lewis</field>
+        <field name="author_nat">Dorothy Lewis Kinsman</field>
+        <field name="title">Korean folk lore</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">Korea: religion</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Korean Pacific Press</field>
+        <field name="title">Songs of Korea</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Michener, James</field>
+        <field name="author_nat">James Michener</field>
+        <field name="title">One must respect Korean culture</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Hulbert, Homer B.</field>
+        <field name="author_nat">Homer B. Hulbert</field>
+        <field name="title">Korean contributions to civilization</field>
+        <field name="keywords">Korea</field>
+        <field name="publisher">Korean Pacific Press</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">951.9 .Z9 no. 12</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles County (California) Schools</field>
+        <field name="title">A Study of the culture of Japan : a supplement to the course of study in
+            social studies, grade 4</field>
+        <field name="year">1963</field>
+        <field name="date">03/1963</field>
+        <field name="pages">243</field>
+        <field name="keywords">Japan</field>
+        <field name="publisher">Los Angeles County (California) Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">952 .L87s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Merced County (California) Schools</field>
+        <field name="title">The fourth grade social studies program: unit d: a contemporary
+            California community compared with a community in an oriental or African culture</field>
+        <field name="pages">22</field>
+        <field name="keywords">Asia</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Merced County (California) Schools</field>
+        <field name="pub_place">Merced, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">952 .M55c</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nixon, Lucille M.</field>
+        <field name="author_nat">Lucille M. Nixon</field>
+        <field name="title">Living in Japan</field>
+        <field name="year">1959</field>
+        <field name="date">09/1959</field>
+        <field name="pages">215</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Japan</field>
+        <field name="notes">ill. ; 22 x 34 cm.; Responsibility: [Lucille M. Nixon].</field>
+        <field name="publisher">Palo Alto (California) Unified School District</field>
+        <field name="pub_place">Palo Alto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">952 .P18L 1959</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nixon, Lucille M.</field>
+        <field name="author_nat">Lucille M. Nixon</field>
+        <field name="title">Living in Japan</field>
+        <field name="year">1961</field>
+        <field name="date">09/1961</field>
+        <field name="pages">308</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Japan</field>
+        <field name="notes">iv; ill., map, music ; 22 x 33 cm. + 1 supplement ([115] leaves ; 29
+            cm.); Note(s): Includes bibliographical references (p. 300-308).</field>
+        <field name="edition">Revised</field>
+        <field name="publisher">Palo Alto (California) Unified School District</field>
+        <field name="pub_place">Palo Alto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">952 .P18L 1961</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Nixon, Lucille M.</field>
+        <field name="author_nat">Lucille M. Nixon</field>
+        <field name="title">Living in Japan: supplementary information stories</field>
+        <field name="keywords">Social sciences</field>
+        <field name="keywords">Japan</field>
+        <field name="publisher">Palo Alto (California) Unified School District</field>
+        <field name="pub_place">Palo Alto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">952 .P18L 1961 supp.</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="title">India</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">5</field>
+        <field name="keywords">Audio-visual materials</field>
+        <field name="keywords">India</field>
+        <field name="publisher">Pasadena (California) City Schools. Audio-Visual Service</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">954 .P27i</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Anderson, Revay</field>
+        <field name="author_nat">Revay Anderson</field>
+        <field name="author">Bramkamp, Lynn</field>
+        <field name="author_nat">Lynn Bramkamp</field>
+        <field name="title">India: a resource unit</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">55</field>
+        <field name="keywords">India</field>
+        <field name="notes">Education 296, Dr. Richard E. Gross, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">954 .S78i</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Beyer, Barry K.</field>
+        <field name="author_nat">Barry K. Beyer</field>
+        <field name="corp_author">Project Africa</field>
+        <field name="title">Africa, south of the Sahara; a resource and curriculum guide</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">138</field>
+        <field name="keywords">Africa</field>
+        <field name="keywords">Bibliography</field>
+        <field name="notes">ix; 27 cm.; Genre/Form: Bibliography.; Note(s): Supplemented by: New
+            instructional materials on Africa south of the Sahara, 1969-70; a supplement.
+            [Pittsburgy] 1970. iv, 46 pages, 28 cm. Call number: DT19.8 .P75 1969 Suppl./ "An
+            annotated bibliography of instructional materials" p. 53-123.; Responsibility: [Edited
+            by] Barry K. Beyer.</field>
+        <field name="publisher">Thomas Y. Crowell</field>
+        <field name="pub_place">New York, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .B57a</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Tait, Dorothy</field>
+        <field name="author_nat">Dorothy Tait</field>
+        <field name="title">Fourth grade: a life study of the Baganda tribe of Uganda, and its
+            relationship to other African tribes</field>
+        <field name="pages">22</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">University of California, Los Angeles</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .C15L</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Bartholet, Mardonna</field>
+        <field name="author_nat">Mardonna Bartholet</field>
+        <field name="title">World history unit: Sub Sahara Africa</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Edina (Minnesota) Public Schools</field>
+        <field name="pub_place">Edina MN</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .E23s</field>
+        <field name="state_country">Minnesota</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Gettis, Wanda</field>
+        <field name="author_nat">Wanda Gettis</field>
+        <field name="author">Leininger, Helen</field>
+        <field name="author_nat">Helen Leininger</field>
+        <field name="title">A study of Africa: optional unit for sixth grade social studies</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">23</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Flint (Michigan) Public Schools</field>
+        <field name="pub_place">Flint, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .F62s</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Connecticut Cluster Project on Non-western Cultures</field>
+        <field name="title">A look across cultures : Africa</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">194</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Connecticut Cluster Project on Non-western Cultures</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .G81a v. 1</field>
+        <field name="state_country">Connecticut</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Condon, Larry</field>
+        <field name="author_nat">Larry Condon</field>
+        <field name="author">McCauley Elfrieda</field>
+        <field name="author_nat"/>
+        <field name="author">Belanich, Barbara L.</field>
+        <field name="author_nat">Barbara L. Belanich</field>
+        <field name="corp_author">Connecticut Cluster Project on Non-western Cultures</field>
+        <field name="title">Africa: a cross-cultural studies bibliography</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">37</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Connecticut Cluster Project on Non-western Cultures</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .G81a v. 2</field>
+        <field name="state_country">Connecticut</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles County (California) Superintendent of Schools</field>
+        <field name="title">A study of life in Africa: a supplement to the course of study in social
+            studies: grade 4</field>
+        <field name="year">1962</field>
+        <field name="date">01/1962</field>
+        <field name="pages">82</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Los Angeles County (California) Superintendent of Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .L87s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Farrel, Eileen</field>
+        <field name="author_nat">Eileen Farrel</field>
+        <field name="author">Gemperli, Blanche</field>
+        <field name="author_nat">Blanche Gemperli</field>
+        <field name="author">Thompson, Robert</field>
+        <field name="author_nat">Robert Thompson</field>
+        <field name="author">Bauschelt, Richard</field>
+        <field name="author_nat">Richard Bauschelt</field>
+        <field name="corp_author">Modesto (California) City Schools</field>
+        <field name="title">Social studies and language arts course of study, seventh grade:
+            Africa</field>
+        <field name="year">1957</field>
+        <field name="date">1957-1958</field>
+        <field name="pages">41</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Modesto (California) City Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .M69a</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Carson, Smith</field>
+        <field name="author_nat">Smith Carson</field>
+        <field name="author">Jesse, Helen</field>
+        <field name="author_nat">Helen Jesse</field>
+        <field name="author">Johnson, Richard</field>
+        <field name="author_nat">Richard Johnson</field>
+        <field name="author">Mrokowski, Helene</field>
+        <field name="author_nat">Helene Mrokowski</field>
+        <field name="author">Redd, John</field>
+        <field name="author_nat">John Redd</field>
+        <field name="author">Sykes, Catherine</field>
+        <field name="author_nat">Catherine Sykes</field>
+        <field name="title">African studies</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">32</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Pontiac (Michigan) City School District</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .P81af</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Carson, Smith</field>
+        <field name="author_nat">Smith Carson</field>
+        <field name="author">Jesse, Helen</field>
+        <field name="author_nat">Helen Jesse</field>
+        <field name="author">Johnson, Richard</field>
+        <field name="author_nat">Richard Johnson</field>
+        <field name="author">Mrokowski, Helene</field>
+        <field name="author_nat">Helene Mrokowski</field>
+        <field name="author">Redd, John</field>
+        <field name="author_nat">John Redd</field>
+        <field name="author">Sykes, Catherine</field>
+        <field name="author_nat">Catherine Sykes</field>
+        <field name="title">Africa and ist relationship to the origin &amp; historical development
+            of the Negro</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">16</field>
+        <field name="keywords">Africa</field>
+        <field name="notes">Geography of the non-western world supplement, 7th grade social
+            studies</field>
+        <field name="publisher">Pontiac (Michigan) City School District</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .P81a</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Carson, Smith</field>
+        <field name="author_nat">Smith Carson</field>
+        <field name="author">Jesse, Helen</field>
+        <field name="author_nat">Helen Jesse</field>
+        <field name="author">Johnson, Richard</field>
+        <field name="author_nat">Richard Johnson</field>
+        <field name="author">Moreau, John J.</field>
+        <field name="author_nat">John J. Moreau</field>
+        <field name="author">Mrokowski, Helene</field>
+        <field name="author_nat">Helene Mrokowski</field>
+        <field name="author">Redd, John</field>
+        <field name="author_nat">John Redd</field>
+        <field name="author">Sykes, Catherine</field>
+        <field name="author_nat">Catherine Sykes</field>
+        <field name="title">World history supplement: "The history of Africa"</field>
+        <field name="year">1968</field>
+        <field name="date">1968</field>
+        <field name="pages">32</field>
+        <field name="keywords">Africa</field>
+        <field name="publisher">Pontiac (Michigan) City School District</field>
+        <field name="pub_place">Pontiac, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .P81h</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Cormack, Margaret Lawson</field>
+        <field name="author_nat">Margaret Lawson Cormack</field>
+        <field name="author">Kenworthy, Leonard Stout</field>
+        <field name="author_nat">Leonard Stout Kenworthy</field>
+        <field name="title">India; a resource unit for secondary schools</field>
+        <field name="year">1956</field>
+        <field name="date">1956</field>
+        <field name="pages">23</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">India</field>
+        <field name="notes">23 l. 28 cm.; Genre/Form: Bibliography.; Responsibility: Prepared
+            originally by a group of prospective social studies teachers at Brooklyn College and
+            edited by Margaret Cormack and Leonard S. Kenworthy.</field>
+        <field name="series_title">World affairs materials</field>
+        <field name="publisher">Brooklyn College</field>
+        <field name="pub_place">Brooklyn, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">954 .W92i</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kelly, James</field>
+        <field name="author_nat">James Kelly</field>
+        <field name="title">Teaching strategies for African cultural studies in the senior high
+            school</field>
+        <field name="year">1968</field>
+        <field name="date">01/1968</field>
+        <field name="pages">135</field>
+        <field name="keywords">Africa</field>
+        <field name="notes">135, xxv l. maps.; Note(s): Half title: River Dell Regional High School
+            African studies./ "Prepared and financed under an ESEA, Title III Grant from the U.S.
+            Office of Education Project # OEG 1-6-000407-0427."/ Includes bibliographical
+            references./ Reproduction: Photocopy./ Bethesda, Md.,/ ERIC Document reproduction
+            Service,/ 1972?/ 28 cm.</field>
+        <field name="publisher">Bergen County Center for Non-Western Studies, River Dell Regional
+            Schools</field>
+        <field name="pub_place">Oradell, NJ</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .R62a</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Thompson, Jeannette</field>
+        <field name="author_nat">Jeannette Thompson</field>
+        <field name="title">The African revolt: 20th century challenge</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="keywords">Africa</field>
+        <field name="notes">Education 296b, Dr. Gross, 1960</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .S78a</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Dostert, Pierre Etienne</field>
+        <field name="author_nat">Pierre Etienne Dostert</field>
+        <field name="author">Post, Elizabeth Todd</field>
+        <field name="author_nat">Elizabeth Todd Post</field>
+        <field name="author">Horst, R. Charles</field>
+        <field name="author_nat">R. Charles Horst</field>
+        <field name="title">Africa 1966</field>
+        <field name="year">1966</field>
+        <field name="date">1966</field>
+        <field name="keywords">Travel</field>
+        <field name="keywords">Africa</field>
+        <field name="notes">[87] p. maps. 28 cm.; Responsibility: By Pierre Etienne Dostert [and]
+            Elizabeth Todd Post. Designed [by] R. Charles Horst.</field>
+        <field name="publisher">Stryker-Post Publications</field>
+        <field name="pub_place">Washington, DC</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .S72a</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Allstetter, Susan</field>
+        <field name="author_nat">Susan Allstetter</field>
+        <field name="title">Africa: a resource unit for high school</field>
+        <field name="year">1963</field>
+        <field name="date">03/1963</field>
+        <field name="keywords">Africa</field>
+        <field name="notes">Education 296b, Dr. Gross, 1963, grades 10-12</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .S78aa</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">George, Rosemary</field>
+        <field name="author_nat">Rosemary George</field>
+        <field name="title">Africa - explosive continent: six-week teaching unit for grades
+            10-12</field>
+        <field name="year">1961</field>
+        <field name="date">12/1961</field>
+        <field name="pages">23</field>
+        <field name="keywords">Africa</field>
+        <field name="notes">Education 296a, Mr. Wood</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">960 .S78ae</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Kenworthy, Leonard Stout</field>
+        <field name="author_nat">Leonard Stout Kenworthy</field>
+        <field name="title">Studying Africa in elementary and secondary schools</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">29</field>
+        <field name="keywords">Bibliography</field>
+        <field name="keywords">Africa</field>
+        <field name="series_title">World affairs materials</field>
+        <field name="publisher">Brooklyn College</field>
+        <field name="pub_place">Brooklyn, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">960. W92s</field>
+    </doc>
+
+
+</add>

@@ -1,0 +1,788 @@
+
+
+TY  - BOOK
+A2  - Abington (Pennsylvania) Township School District
+T1  - Social studies: grade nine: Our Pennsylvania heritage
+Y1  - 1961
+D1  - 09/1961
+SP  - 87
+KW  - United States history
+KW  - Pennsylvania
+PB  - Abington (Pennsylvania) Township School District
+CY  - Abington, PA
+LA  - English
+CN  - 974 .A13o
+SC  - Pennsylvania
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - New York in books : a bibliography for junior and senior high schools
+Y1  - 1960
+D1  - 1960
+SP  - 26
+KW  - Bibliography
+KW  - New York State
+N1  - 26 p. ; 23 cm.; Genre/Form: Bibliography.
+PB  - University of the State of New York, State Education Department, Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 974 .N53ne
+SC  - New York
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Libraries
+T1  - Connecticut yesterday and today; a bibliography for Connecticut schools
+Y1  - 1955
+D1  - 06/1955
+SP  - 22
+KW  - Connecticut
+KW  - United States history
+T2  - Connecticut State Department of Education. Bulletin
+V1  - 72
+PB  - Connecticut State Department of Education. 
+CY  - Hartford, CT
+LA  - English
+CN  - 974 .C75c
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Finding our place in the world through the study of Connecticut
+Y1  - 1967
+D1  - 09/1967
+SP  - 92
+KW  - Social sciences
+KW  - Curricula
+KW  - Connecticut
+N1  - 92 pages : illustrations (some color) ; 23 cm.; Note(s): "September 1967."/ Includes bibliographical references.
+T2  - Connecticut State Department of Education. Bulletin
+V1  - 102
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 974 .C75f v. 1
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Finding our place in the world through the study of Connecticut: materials and their sources
+Y1  - 1967
+D1  - 1967
+KW  - Social sciences
+KW  - Curricula
+KW  - Connecticut
+N1  - A supplement to Bulletin no. 102, 1967
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 974 .C75f v. 2-3
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Fair Lawn (New Jersey) Public Schools
+T1  - We live in Fair Lawn
+SP  - 74
+KW  - New Jersey
+PB  - Fair Lawn (New Jersey) Public Schools
+CY  - Fair Lawn, NJ
+LA  - English
+CN  - 974 .F16w
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Rienow, Robert
+A1  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - New York State and local government
+Y1  - 1959
+D1  - 1959
+SP  - 239
+KW  - New York State
+KW  - Local government
+KW  - Political science
+KW  - Politics and government
+N1  - 239 p. illus., maps,diagrs. 23 cm.; Note(s): "Text by Robert Rienow, State University College for Teachers at Albany."/ First ed. published in 1953 under title : Our State and local government./ Bibliography: p. 215-220./ 
+ED  - 2d rev.
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 974 .N53n
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Swett, Clyde W.
+A1  - Haskell, Mary L.
+A2  - Maine State Department of Education
+T1  - All about Maine : print and film materials to enrich the study of Maine history in grade eight
+Y1  - 1969
+D1  - 1969
+SP  - 90
+KW  - United States history
+KW  - Bibliography
+KW  - Maine
+N1  - 90 pages ; 24 cm; Genre/Form: Bibliography. History.; Note(s): Published under P.L. 89-10 Title V grant (State appropriation 8240).; Responsibility: by Clyde W. Swett and Mary L. Haskell.
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 974 .M22a
+SC  - Maine
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Learning about our city
+T2  - A WNYE school broadcast manual
+T2  - School Broadcast Manual 1950-51 series
+V1  - 2
+Y1  - 1950
+D1  - 1950
+SP  - 44
+KW  - New York City
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 974 .N52L
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Elementary Schools
+A2  - Temple University
+T1  - Philadelphia : a city of many neighborhoods
+Y1  - 1957
+D1  - 1957
+SP  - 136
+KW  - Philadelphia
+N1  - 136 p.; Genre/Form: Pamphlets.; Responsibility: for the Philadelphia Public Elementary Schools.
+T2  - Philadelphia social studies series
+PB  - Philadelphia (Pennsylvania) Public Elementary Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 974 .P54p
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Rienow, Robert
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Our state and local government
+Y1  - 1953
+D1  - 12/1953
+SP  - 204
+KW  - Local government
+KW  - Political science
+KW  - Politics and government
+KW  - New York State
+N1  - 204 p. illus., map. 23 cm.; Note(s): Also issued online.; Responsibility: with text by Robert Rienow.
+PB  - University of the State of New York. Bureau of Secondary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 974 .N53o
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - A teaching outline for the study of New York State history and constitution
+Y1  - 1949
+D1  - 08/1949
+KW  - Constitutional history
+KW  - United States history
+KW  - New York State
+N1  - 22 p. 23 cm.; Genre/Form: History. Outlines, syllabi, etc.; Note(s): "Selected bibliography": p. 22.; Responsibility: [by] Bureau of Curriculum Development, Division of Secondary Education, New York State Education Dept.
+T2  - University of the State of New York. Bulletin
+V1  - 1374
+PB  - University of the State of New York Press
+CY  - Albany, NY
+LA  - English
+CN  - 974 .N53t
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Waltham (Massachusetts) High School
+T1  - Waltham through the eyes of young citizens
+Y1  - 1955
+D1  - 1955
+SP  - 95
+KW  - Student publications
+KW  - Manners and customs
+KW  - Social life and customs
+KW  - United States history
+KW  - Massachusetts
+N1  - ill., maps ; 24 cm.; Genre/Form: History.
+PB  - Waltham (Massachusetts) High School
+CY  - Waltham, MA
+LA  - English
+CN  - 974 . W23w
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida: wealth or waste?
+Y1  - 1946
+D1  - 1946?
+SP  - 176
+KW  - Natural resources
+KW  - Economic history
+KW  - Economic conditions
+KW  - Florida
+AB  - Florida: wealth or waste -- Florida's people -- Levels of living in Florida -- How people in Florida make a living -- Florida's tourist industry -- How Florida's forests are used -- Farming in Florida -- Cattle grazing in Florida -- Mining in Florida -- Florida uses its sea resources -- Manufacturing Florida's products -- Transportation, communication, and commerce -- Florida faces the future.; A textbook to "aid the boys and girls of this State to understand more clearly the problems confronting the State and to appreciate more fully its wonderful opportunities"--Colin English, State Supt. of Public Instruction, Foreword, p. ii.
+N1  - xix; ges illustrations, tables; Note(s): Includes bibliographical references.
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 975 .F63f
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Perry, H. Arnold
+A2  - North Carolina State Department of Public Instruction
+T1  - Studying the state of North Carolina : suggestions for teaching the social studies
+Y1  - 1946
+D1  - 1946
+SP  - 125
+KW  - Social sciences
+KW  - North Carolina
+N1  - 125, [12] pages : illustrations (some color) ; 23 cm.; Note(s): Includes bibliographical references.; Perry, Haywood Arnold, 1905-; Studying the state of North Carolina.; Raleigh : State Supt. of Public Instruction, 1946; Responsibility: prepared by H. Arnold Perry, with the assistance of teaching and administrators in the North Carolina Public Schools.
+T2  - North Carolina State Department of Public Instruction. Publication
+V1  - 259
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 975 .N86s
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - A tentative guide to understanding South Carolina, for use in the seventh and/or eighth grades
+Y1  - 1952
+D1  - 1952
+SP  - 35
+KW  - United States history
+KW  - South Carolina
+N1  - 35 pages; Genre/Form: History. Outlines, syllabi, etc.
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 975 .S72t
+SC  - South Carolina
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Teeter, Charles H.
+A2  - Pinellas County (Florida) Board of Public Instruction
+T1  - Pinellas resources : report of workshop in resources education
+Y1  - 1945
+D1  - 09/1945
+SP  - 117
+KW  - Travel
+KW  - United States history
+KW  - Florida
+N1  - ill., map ; 23 cm.; Genre/Form: History.; Note(s): Includes bibliographical references (p. 113-115).; Responsibility: sponsored by Pinellas County Board of Public Instruction ; Charles H. Teeter, Chairman.
+PB  - Tomlinson Technical Institute
+CY  - St. Petersburg, FL
+LA  - English
+CN  - 975 .P65p
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Bristol Tennessee Public Schools
+T1  - Tennessee: past and present
+Y1  - 1952
+D1  - 08/1952
+SP  - 11
+KW  - Tennessee
+KW  - United States history
+N1  - Bristol Tennessee Public Schools in-service training program, August 18-28, 1952
+T2  - Bristol Tennessee Public Schools. Bulletin
+V1  - 2
+PB  - Bristol Tennessee Public Schools
+CY  - Bristol, TN
+LA  - English
+CN  - 976 .B85t
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Kentucky in books pamphlets and films
+Y1  - 1956
+D1  - 01/1956
+SP  - 39
+KW  - Kentucky
+T2  - Kentucky State Department of Education. Educational bulletin
+V1  - 24
+IS  - 1
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 976 .K37k
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - New Albany-Floyd County Consolidated Schools
+T1  - This is our community, Floyd County, Indiana : for the fourth grade boys and girls of the New Albany-Floyd County Schools
+Y1  - 1959
+D1  - 1959
+SP  - 25
+KW  - Indiana
+KW  - United States history
+ED  - 4th
+PB  - New Albany-Floyd County Consolidated Schools
+CY  - New Albany, IN
+LA  - English
+CN  - 977 .F64t
+SC  - Indiana
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - Michigan my Michigan
+Y1  - 1950
+D1  - 01/1950
+SP  - 191
+KW  - Michigan
+KW  - United States history
+PB  - Grand Rapids (Michigan) Board of Education
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 977 .G75m
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - Our city, Grand Rapids, Michigan
+Y1  - 1952
+D1  - 09/1952
+SP  - 196
+KW  - Travel
+KW  - United States history
+KW  - Michigan
+N1  - 196 p., 26 leaves of plates : ill. (some col.), col. maps ; 25 cm.; Genre/Form: History.; Note(s): "Written by a committee of teachers in the Grand Rapids Public Schools ... The illustrations were drawn by Grand Rapids elementary school children"--Foreward.
+PB  - Grand Rapids (Michigan) Board of Education
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 977 .G75o
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+A2  - Louisiana State University and Agricultural and Mechanical College
+T1  - Conference on Louisiana materials, Louisiana State University, July 20-August 7, 1953
+Y1  - 1953
+D1  - 1953
+SP  - 80
+KW  - Bibliography
+KW  - Louisiana
+N1  - 80 pages 28 cm.; Genre/Form: Bibliography.; Responsibility: Sponsored jointly by Louisiana State Department of Education and Library School, Louisiana State University. Issued by Shelby M. Jackson, State Superintendent of Schools.
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 782
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 976 .L88c
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Nashville City - Davidson County (Tennessee) Schools
+T1  - Tennessee heritage: a resource guide unit on Tennessee, grade 8
+Y1  - 1962
+D1  - 12/1962
+SP  - 56
+KW  - Tennessee
+PB  - Nashville City - Davidson County (Tennessee) Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 976 .N25t
+SC  - Tennessee
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Tyler (Texas) Independent School District
+T1  - Curriculum guide for Texas history and geography, grade 7
+Y1  - 1964
+D1  - 08/1964
+SP  - 30
+KW  - Texas
+KW  - United States history
+KW  - Geography
+PB  - Tyler (Texas) Independent School District
+CY  - Tyler, TX
+LA  - English
+CN  - 976 .T98c
+SC  - Texas
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Test booklet to accompany The story of early Cleveland: curriculum material on social studies
+Y1  - 1948
+D1  - 1948
+SP  - 32
+KW  - Curricula
+KW  - Social sciences
+PB  - Cleveland (Ohio) Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 977 .C63s v. 2
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Flint (Michigan) Public Schools
+T1  - Michigan: a resource unit for fourth grade children social studies
+Y1  - 1956
+D1  - 1956
+SP  - 33
+KW  - Michigan
+KW  - Social sciences
+PB  - Flint (Michigan) Public Schools
+CY  - Flint, MI
+LA  - English
+CN  - 977 .F62m
+SC  - Michigan
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Central Michigan College of Education. Field Services Division
+T1  - Bay, land and people : a short history of the Grand Traverse Bay Region for later elementary students
+Y1  - 1949
+D1  - 1949
+SP  - 99
+KW  - United States history
+KW  - Michigan
+N1  - 99 leaves ; 28 cm.; Genre/Form: History.; Note(s): Typescript (mimeographed).; Responsibility: prepared by a class in Writing Michigan Local History conducted in Grand Traverse County by the Field Services Division, Central Michigan College.
+PB  - Central Michigan College of Education. Field Services Division
+CY  - Mount Pleasant, MI
+LA  - English
+CN  - 977 .M62b
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Mallett, Ann
+T1  - Indianapolis now and long ago
+SP  - 125
+KW  - United States history
+KW  - Indiana
+PB  - Indianapolis (Indiana) Public Schools
+CY  - Indianapolis, IN
+LA  - English
+CN  - 977 .I39i
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Resource guide: living in Minneapolis
+Y1  - 1953
+D1  - 1953
+KW  - Political science
+KW  - Travel
+KW  - Politics and government
+KW  - Minnesota
+N1  - 1 v. (various pagings) ill., maps. 28 cm.; Note(s): Includes bibliographical references.
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 977 .M66L
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Handbook on the government of the city of Pontiac
+Y1  - 1957
+D1  - 1957
+SP  - 56
+KW  - Michigan
+KW  - Politics and government
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 977 .P81h 1957 v. 1
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Handbook on the government of Oakland County
+Y1  - 1957
+D1  - 1957
+SP  - 24
+KW  - Michigan
+KW  - Politics and government
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 977 .P81h 1957 v. 2
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Pontiac area united fund
+Y1  - 1957
+D1  - 1957
+SP  - 16
+KW  - Michigan
+KW  - Politics and government
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 977 .P81h 1957 v. 3
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Handbook on the government of the city of Pontiac
+Y1  - 1962
+D1  - 1962
+SP  - 45
+KW  - Michigan
+KW  - Politics and government
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 977 .P81h 1962 v. 1
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Government of Oakland County
+Y1  - 1962
+D1  - 1962
+SP  - 26
+KW  - Michigan
+KW  - Politics and government
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 977 .P81h 1962 v. 2
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Michigan) Board of Education
+T1  - Departments of Oakland County government
+Y1  - 1962
+D1  - 1962
+SP  - 66
+KW  - Michigan
+KW  - Politics and government
+PB  - Pontiac (Michigan) Board of Education
+CY  - Pontiac, MI
+LA  - English
+CN  - 977 .P81h 1962 v. 3
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - Heritage of St. Louis
+Y1  - 1964
+D1  - 1964
+SP  - 201
+KW  - United States history
+KW  - Missouri
+N1  - 210 p. : ill., maps; ates ; 28 cm.; Genre/Form: History.; Responsibility: Writers: Helen I. Baldwin, Ruth M. Dockery, Nancy L. Garrett, S. Joseph Gore. Picture editor: Helen H. Herminghaus. Designer: Richard H. Brunell.
+PB  - St. Louis (Missouri) Public Schools
+CY  - St. Louis, MO
+LA  - English
+CN  - 977 .S14h
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Waukesha (Wisconsin) Public Schools
+T1  - Social studies, grade 6, unit on Wisconsin
+SP  - 42
+KW  - Wisconsin
+KW  - Social sciences
+PB  - Waukesha (Wisconsin) Public Schools
+CY  - Waukesha, WI
+LA  - English
+CN  - 977 .W35u
+SC  - Wisconsin
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - Joint City School District No. 1 (West Allis-West Milwaukee)
+T1  - Social studies, Wisconsin, grade 4
+SP  - 147
+KW  - Wisconsin
+KW  - Social sciences
+PB  - Joint City School District No. 1
+CY  - Milwaukee, WI
+LA  - English
+CN  - 977 .W51w
+SC  - Wisconsin
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - Utah treasureland : a teachers social studies guide for grade four, Utah geography
+Y1  - 1965
+D1  - 1964-1965
+KW  - Social sciences
+KW  - Utah
+KW  - Geography
+N1  - 1 v. (various pagings) : xiv; ; 22 x 28 cm.; Responsibility: Granite School District.
+PB  - Granite School District
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 978 .G75ut
+SC  - Utah
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - A guide to the teaching of seventh grade Utah history and community problems
+Y1  - 1962
+D1  - 1962
+SP  - 330
+KW  - Social sciences
+KW  - Utah
+N1  - vii; ill. ; 22 x 28 cm.; Other Titles: Utah history and community problems.; Responsibility: Granite School District.
+PB  - Granite School District
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 978 .G75t
+SC  - Utah
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Granite School District (Salt Lake City, Utah)
+T1  - Utah now and long ago : social studies guide for grade three
+Y1  - 1965
+D1  - 1964-1965
+KW  - Social sciences
+KW  - United States history
+KW  - Utah
+N1  - 1 v. (various pagings) : ill., maps, music ; 22 x 28 cm.; Note(s): Includes bibliographical references and index.
+PB  - Granite School District
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 978 .G75u
+SC  - Utah
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Kenehan, Katherine
+A1  - Kaiser, Mary S.
+A2  - Denver (Colorado) Public Schools. Department of General Curriculum Services
+T1  - Colorado, the land and the people.
+Y1  - 1957
+D1  - 1957
+SP  - 195
+KW  - Travel
+KW  - Colorado
+KW  - United States history
+KW  - Biography
+N1  - 195 pages : illustrations ; 24 cm; Genre/Form: History.; Note(s): Includes bibliographical references and index.; Responsibility: written by Katherine Kenehan ; edited by Mary S. Kaiser ; illustrated by Hero Conesny ; prepared by the Denver Public Schools, Department of General Curriculum Services.
+PB  - Denver (Colorado) Public Schools. School District no. 1
+CY  - Denver, CO
+LA  - English
+CN  - 978 .D41c
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Government of Denver, prepared for use in the junior high schools
+Y1  - 1955
+D1  - 1955
+SP  - 28
+KW  - Colorado
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 978 .D41g
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - McCleary, J. Leon
+A1  - Peterson, Ted T.
+T1  - Guideposts to Utah: a study of the geography and history of Utah for use in secondary schools
+Y1  - 1954
+D1  - 1954
+SP  - 144
+KW  - United States history
+KW  - Utah
+N1  - 144 p. ; 27 cm.; Genre/Form: History.; Responsibility: by J. Leon McCleary and Ted T. Peterson.
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 978 .M16g
+SC  - Utah
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin Cooperative Educational Planning Program
+A2  - Wisconsin State Department of Public Instruction
+T1  - Our Wisconsin heritage : the development of a state
+Y1  - 1947
+D1  - 11/1947
+SP  - 50
+KW  - United States history
+KW  - Wisconsin
+N1  - 50 pages : illustrations ; 23 cm.; Genre/Form: History.; Note(s): Cover title./ "November, 1947."/ "Wisconsin Cooperative Educational Planning Program ... and Wisconsin Sub-Committee on Education for the 1948 State Centennial."
+T2  - Wisconsin Cooperative Educational Planning Program. Bulletin
+V1  - 15
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 977 .W81o
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Atchison (Kansas) Public Schools
+T1  - What makes Kansas a great state?: resource unit intermediate grades
+SP  - 6
+KW  - Kansas
+PB  - Atchison (Kansas) Public Schools
+CY  - Atchison, KS
+LA  - English
+CN  - 978 .A86w
+SC  - Kansas
+ER  - 
+

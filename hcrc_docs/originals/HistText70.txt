@@ -1,0 +1,794 @@
+TY  - BOOK
+A1  - Cohen, Linda
+T1  - Destiny of North America, the beginnings to 1763
+Y1  - 1960
+D1  - Winter, 1960
+KW  - United States
+KW  - History
+N1  - Education 296b for Dr. Gross, Winter, 1960
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 970 .S78d
+ER  - 
+
+TY  - BOOK
+A1  - Bernstein, Sandra
+T1  - Third grade: a study of Southwest Indian culture centered in the Navaho Tribe
+SP  - 23
+KW  - Navajo Indians
+KW  - Indians of North America
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 970.1 .C15s
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Jensen, Lola C.
+T1  - Third grade: a study of Pueblo Indians centered on the Hopis
+KW  - Hopi Indians
+KW  - Indians of North America
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 970.1 .C15sp
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Bigart, Robert
+A1  - Barlow, Earl
+T1  - The Indian in the classroom; readings for the teacher with Indian students
+Y1  - 1972
+D1  - 08/1972
+SP  - 311
+KW  - Indians of North America
+KW  - Bibliography
+N1  - viii; 29 cm.; Genre/Form: Bibliography.; Note(s): Includes bibliographical references.; Responsibility: [Edited by Bob Bigart in cooperation with Earl Barlow].
+PB  - Montana State Office of the Superintendent of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 970.1 .M76i
+SC  - Montana
+ER  - 
+
+TY  - BOOK
+A1  - Fuson, Elgie
+T1  - Native Americans; a bibliography for young people
+Y1  - 1970
+D1  - 08/1970
+SP  - 22
+KW  - Indians of North America
+KW  - Bibliography
+KW  - Catalogs
+T2  - Sacramento State College Library. Bibliographic series
+V1  - 7
+PB  - Sacramento State College Library
+CY  - Sacramento, CA
+LA  - English
+CN  - 970.1 .C151n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools. Office of Curriculum Development
+T1  - Navaho Indians; a unit of work for third grade children
+Y1  - 1956
+D1  - 1956
+SP  - 218
+KW  - Social sciences
+KW  - Navajo Indians
+KW  - Curricula
+N1  - 218 p. ill.; Responsibility: [Prepared by Muriel Hendershot and a committee of classroom teachers in cooperation with Neva Hagaman and Hilma Borden. Edited and pub. by Office of Curriculum Development.
+PB  - Long Beach Public Schools. Division of Instruction
+CY  - Long Beach, CA
+LA  - English
+CN  - 970.1 .L84n
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - New York State Education Department. Bureau of Curriculum Development
+T1  - Living and working in Indian communities : a resource unit for teachers
+Y1  - 1949
+D1  - 1949
+SP  - 29
+KW  - Indians of North America
+N1  - ill. ; 23 cm.; Note(s): Includes bibliographical references (p. 24-29).
+T2  - Elementary school community studies
+V1  - 2
+PB  - Bureau of Curriculum Development, Division of Elementary Education, New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 970.1 .N53L 1949
+SC  - New York
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - New York State Education Department. Bureau of Curriculum Development
+T1  - Living and working in Indian communities : a resource unit for teachers
+Y1  - 1956
+D1  - 1956
+SP  - 30
+KW  - Indians of North America
+N1  - ill. ; 23 cm.; Note(s): Grade 4./ Includes bibliographical references.
+T2  - Elementary school community studies
+V1  - 2
+PB  - University of the State of New York, Bureau of Elementary Curriculum Development
+CY  - Albany, NY
+LA  - English
+CN  - 970.1 .N53L 1949
+SC  - New York
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Brouillet, Frank B.
+T1  - The history and culture of the Indians of Washington State : a curriculum guide
+Y1  - 1973
+D1  - 1973
+KW  - Indians of North America
+KW  - Bibliography
+N1  - 1 v. (various pagings) : maps ; 28 cm.; Genre/Form: Bibliography.; Note(s): Includes bibliographical references.; Responsibility: developed by the TTT Project and the Center for Indian Teacher Education, College of Education, University of Washington, Seattle ; Frank B. Brouillet ... [et al.].
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 970.1 .W31h
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A1  - Griffin, Leonard
+T1  - A handbook for the amateur archaeologist
+Y1  - 1963
+D1  - 1963
+SP  - 84
+KW  - Archaeology
+KW  - Indians of North America
+KW  - Antiquities
+N1  - iv; ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 81-84).; Responsibility: Leonard Griffin ; illustrated by Richard K. Albyn.
+ED  - Rev.
+PB  - Oakland University, Division of Continuing Education
+CY  - Rochester, MI
+LA  - English
+CN  - 970.1 .O11h
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts
+T1  - Instructional guide for teaching about our northern neighbors in Canada
+Y1  - 1951
+D1  - 1951
+SP  - 147
+KW  - Canada
+N1  - 147 p. ; cm; Reprinted 1957.
+PB  - Los Angeles (California) City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 971 .L87i
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - The Hopi Indians : a booklet of stories containing supplementary information for third grade
+Y1  - 1963
+D1  - Spring, 1963
+SP  - 90
+KW  - Hopi Indians
+N1  - xi; ill., maps ; 28 cm.; Genre/Form: Juvenile works.; Note(s): Includes bibliographical references (p. ix).
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 970.1 .P18h
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Shipley, Arthur H.
+T1  - Sixth grade social studies: supplementary unit on the Canadian Rockies
+Y1  - 1957
+D1  - 1957
+SP  - 8
+KW  - Canada
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 971 .F88c
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Shipley, Arthur H.
+A1  - Anderson, Ruth
+T1  - Sixth grade social studies: unit on our neighbors to the north
+Y1  - 1958
+D1  - 1958?
+SP  - 34
+KW  - Canada
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 971 .F88o
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+T1  - City of the rivers
+Y1  - 1957
+D1  - 1957
+SP  - 55
+KW  - Winnipeg
+KW  - History
+KW  - Red River Settlement
+KW  - Manitoba
+KW  - Canada
+N1  - 55 p. : ill.; rts. ; 27 cm.; Genre/Form: History.; Responsibility: Illustrations by Wilhelm Kaufmann.
+PB  - Bureau of travel and publicity, Dept. of Industry and Commerce
+CY  - Winnipeg, Canada
+LA  - English
+CN  - 971 .M27c
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A1  - Martin, Gary M.
+T1  - Teaching suggestions for Canadian folk songs
+Y1  - 1965
+D1  - 04/1965
+SP  - 14
+KW  - Folk music
+KW  - Canada
+N1  - ill., music ; 28 cm.; Note(s): Cover title./ "A collection of folk songs selected to promote understanding of Canadian culture."; Responsibility: prepared by Gary M. Martin.
+T2  - University of Oregon, School of Education. Curriculum bulletin
+V1  - 21
+IS  - 255
+PB  - University of Oregon, School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 971 .O66t
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Audio-Visual Service
+T1  - Our neighbors to the north
+Y1  - 1953
+D1  - 09/1953
+SP  - 10
+KW  - Canada
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 971 .P27o
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Bradley, Meredith Lee
+T1  - French Canadian civilization
+Y1  - 1963
+D1  - 1963
+SP  - 49
+KW  - Canada
+N1  - Education 296a, Dr. Gross, 1963
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 971 .S78f
+ER  - 
+
+TY  - BOOK
+A2  - Stockton Unified School District. Social-Studies Sub-committee
+T1  - Unit on Canada for sixth grade
+Y1  - 1952
+D1  - 03/1952
+SP  - 26
+KW  - Canada
+PB  - Stockton Unified School District
+CY  - Stockton, CA
+LA  - English
+CN  - 971 .S86u
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Superintendent of Schools
+T1  - Power in today's culture, grade six
+Y1  - 1950
+D1  - 09/1950
+SP  - 31
+KW  - Canada
+PB  - Yolo County (California) Superintendent of Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 971 .Y54p
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Tait, Dorothy
+T1  - Fourth grade: Mexican life study
+KW  - Mexico
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 972 .C15m
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Nance, Afton Dill
+T1  - A study of Mexico and Central America
+Y1  - 1965
+D1  - 1965
+SP  - 108
+KW  - Mexico
+KW  - Central America
+N1  - x; ill. ; 28 cm.; Note(s): "Resource Unit for grade 6."/ "Books and audio-visual materials:" p. 89-l08.; Responsibility: prepared by Afton Dill Nance.
+PB  - Pacific Coast Publishers
+CY  - Menlo Park, CA
+LA  - English
+CN  - 972 .C152s
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Westermark, Tory I.
+A1  - Willard, Ruth A.
+T1  - How do the people of Canada work and live? A social studies unit for upper elementary grades utilizing the problem method
+Y1  - 1965
+D1  - 10/1965
+SP  - 31
+KW  - Canada
+N1  - 28 p. 29 cm.; Responsibility: Edited by Ruth A. Willard.
+T2  - University of Oregon, School of Education. Curriculum bulletin
+V1  - 21
+IS  - 259
+PB  - University of Oregon, School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 971 .O66h
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Sixth grade social studies: unit on Mexico
+Y1  - 1955
+D1  - 03/1955
+SP  - 28
+KW  - Mexico
+PB  - Fresno County (California) Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 972 .F88m
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Davis, John E.
+T1  - Latin America in fiction, fantasy, and folklore; an annotated bibliography
+Y1  - 1963
+D1  - 09/1963
+KW  - Historical fiction
+KW  - Bibliography
+KW  - Folklore
+KW  - Civilization
+KW  - Latin America
+N1  - 14 p.; Genre/Form: Bibliography.
+T2  - University of Oregon, School of Education. Curriculum bulletin
+V1  - 19
+IS  - 236
+PB  - University of Oregon, School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 972 .O66L
+ER  - 
+
+TY  - BOOK
+A1  - Garner, Marjorie S.
+A1  - Singer, Elizabeth
+A1  - Knapp, Shirley H.
+A1  - Smith, Stephen H.
+A1  - Martens, Betty J.
+A1  - Wallace, Ruth V.
+A1  - Murphy, Michael J.
+A1  - Webb, Mary N.
+A1  - Welch, Dorothy J.
+A2  - Long Beach (California) Unified School District
+T1  - Latin America : a unit of work for sixth grade social studies
+Y1  - 1968
+D1  - 1968
+SP  - 246
+KW  - Social sciences
+KW  - Mexico
+KW  - Brazil
+N1  - 246 p. ; 22 x 28 cm.; Note(s): Includes bibliographical references (p. 219-246).; Responsibility: prepared by Marjorie S. Garner ... [et al.].
+PB  - Long Beach (California) Unified School District, Office of Curriculum and Instruction
+CY  - Long Beach, CA
+LA  - English
+CN  - 972 .L84L
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Unified School District
+T1  - Life in Mexico: a unit of work for fourth grade children
+Y1  - 1958
+D1  - 1958
+SP  - 284
+KW  - Social sciences
+KW  - Mexico
+PB  - Long Beach (California) Unified School District
+CY  - Long Beach, CA
+LA  - English
+CN  - 972 .L84Li
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional services
+T1  - Instructional guide : Mexico, social studies, grade six
+Y1  - 1959
+D1  - 1959
+SP  - 240
+KW  - Geography
+KW  - Mexico
+KW  - History
+N1  - ill. ; 29 cm.; Responsibility: Los Angeles City Schools, Division of Instructional Services.
+T2  - Los Angeles (California) City School District. Publication
+V1  - EC-202
+PB  - Los Angeles (California) City School Districts, Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 972 .L87m
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Latin America: a general reading list
+Y1  - 1952
+D1  - 1952
+KW  - Latin America
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Argentina: a reading list
+Y1  - 1952
+D1  - 1952
+KW  - Argentina
+KW  - Latin America
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Bolivia: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Bolivia
+KW  - Latin America
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Brazil: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Brazil
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Central America: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Central America
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Chile: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Chile
+KW  - Latin America
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Colombia: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Colombia
+KW  - Latin America
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Cuba: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Cuba
+KW  - Latin America
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - The Dominican Republic: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Dominican Republic
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Haiti: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Haiti
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Mexico: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Mexico
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Ecuador: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Ecuador
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Paraguay: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Paraguay
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Peru: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Peru
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pan American Union
+T1  - Uruguay: a reading list
+Y1  - 1953
+D1  - 1953
+KW  - Uruguay
+PB  - Pan American Union
+CY  - Washington, DC
+LA  - English
+CN  - 972 .P18L
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Latin American Neighbors, grade 6
+Y1  - 1953
+D1  - 09/1953
+SP  - 10
+KW  - Latin America
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 972 .P27L
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Kelly, James
+A2  - River Dell Regional Schools (Oradell, New Jersey)
+T1  - Teaching strategies for Latin American cultural studies in the senior high school
+Y1  - 1969
+D1  - 01/1969
+SP  - 149
+KW  - Latin America
+N1  - 149 leaves : ill., maps ; cm; Note(s): Cooperative research project with the U.S. Office of Education/ Bibliography: leaves 129-144; Responsibility: James Kelly, author and assistant project coordinator 
+PB  - Bergen County Center for Non-Western Studies
+CY  - Oradell, NJ
+LA  - English
+CN  - 972 .R62t
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Brockett, Lillian
+A1  - Kreiss, Hulda
+T1  - Plan for teaching a unit on living in Latin America, grade VI
+Y1  - 1949
+D1  - 1949
+SP  - 159
+KW  - Latin America
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 972 .S19L
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Zayakov, T.
+T1  - Your study guide to the "Latin" Americas
+Y1  - 1963
+D1  - 1963
+KW  - Latin America
+N1  - Education 296b, Dr. Gross, 1963
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 972 .S78L
+ER  - 
+
+TY  - BOOK
+A1  - Zeisler, Mandy
+T1  - Resource unit on U.S. relations with Latin America: How can U.S. policies guide the developing countries of Latin America towards democratic solutions for their problems?
+Y1  - 1964
+D1  - 01/1964
+KW  - Latin America
+N1  - Education 296, Dr. Gross, January, 1964
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 972 .S78r
+ER  - 
+
+TY  - BOOK
+A1  - Langguth, Cynthia
+T1  - Unit on Latin America
+Y1  - 1966
+D1  - 1966
+KW  - Latin America
+N1  - Education 268d, Dr. Gross, 1966
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 972 .S78u
+ER  - 
+
+TY  - BOOK
+A2  - United States Office of Education
+T1  - Latin America
+Y1  - 1954
+D1  - 11/1954
+SP  - 11
+KW  - Bibliography
+KW  - Latin America
+N1  - 11 p. ; 27 cm.; Genre/Form: Bibliography.; Note(s): Caption title.
+T2  - Teaching aids for developing international understanding
+ED  - Rev. Nov. 1954
+PB  - U.S. Dept. of Health, Education, and Welfare, Office of Education
+CY  - Washington, DC
+LA  - English
+CN  - 972 .U58L
+ER  - 
+
+TY  - BOOK
+A1  - Willcox, Billie Jo
+A1  - Slate, Gordon R.
+T1  - How do the people of the West Indies, our island neighbors, participate in the world community? a social studies unit for upper elementary grades utilizing the problem method with emphasis on concepts from the social science disciplines
+Y1  - 1967
+D1  - 02/1967
+SP  - 36
+KW  - West Indies
+N1  - 36 p.; Responsibility: by Billie Jo Willcox and Gordon R. Slate. Special editor: Ruth A. Willard.
+T2  - University of Oregon. School of Education Curriculum bulletin
+V1  - 24
+IS  - 287
+PB  - University of Oregon, School of Education
+CY  - Eugene, OR
+LA  - English
+CN  - 972.9 .O66h
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Bartells, Ann
+A1  - Brewer, Helen
+A1  - Dandison, May Louise
+A1  - Lovegrove, Diane
+A1  - Manning, Marcia
+T1  - Unit on Puerto Rico
+Y1  - 1961
+D1  - 03/1961
+SP  - 119
+KW  - Puerto Rico
+N1  - Education 144b, Dr. Shaftel, March 16, 1961
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 972.9 .S78u
+ER  - 

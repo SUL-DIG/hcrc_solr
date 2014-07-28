@@ -1,0 +1,981 @@
+
+
+TY  - BOOK
+A2  - Alachua County (Florida) Board of Public Instruction
+T1  - Curriculum guide for Alachua County: American history grade eight
+Y1  - 1967
+D1  - 1967
+SP  - 59
+KW  - United States history
+PB  - Alachua County (Florida) Board of Public Instruction
+CY  - Gainesville, FL
+LA  - English
+CN  - 973 .A29a
+SC  - Florida
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Superintendent of Schools
+T1  - Anglo-America, grade five
+Y1  - 1964
+D1  - 1964
+SP  - 149
+KW  - Social sciences
+PB  - Alameda County (California) Superintendent of Schools
+CY  - Pleasant Hill, CA
+LA  - English
+CN  - 973 .A31a
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - The United States and our heritage : Social science, grade 8
+Y1  - 1964
+D1  - 08/1964
+SP  - 137
+KW  - Political science
+KW  - United States history
+N1  - ill. ; 22 x 28 cm.; Genre/Form: History.
+PB  - Alameda County (California) School Department
+CY  - Hayward, CA
+LA  - English
+CN  - 973 .A31u
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Curriculum and resource guide for American government
+Y1  - 1964
+D1  - 1964
+SP  - 53
+KW  - Political science
+KW  - United States history
+N1  - This curriculum and resource guide was developed by teachers in the Anchorage schools, under the guidance of the Social Studies Vertical Committee, with the approval of the AISD Curriculum Steering Committee.
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 973 .A53a
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A2  - Anchorage (Alaska) Independent School District
+T1  - Curriculum and resource guide for United States history
+Y1  - 1964
+D1  - 1964
+SP  - 48
+KW  - United States history
+N1  - This curriculum and resource guide was developed by teachers in the Anchorage schools, under the guidance of the Social Studies Vertical Committee, with the approval of the AISD Curriculum Steering Committee.
+PB  - Anchorage (Alaska) Independent School District
+CY  - Anchorage, AK
+LA  - English
+CN  - 973 .A53u
+SC  - Alaska
+ER  - 
+
+TY  - BOOK
+A1  - Welsh, Alpha
+A2  - Atchison (Kansas) Public Schools
+T1  - Pioneers and Indians in Kansas and on the Great Plains
+KW  - United States history
+PB  - Atchison (Kansas) Public Schools
+CY  - Atchison, KS
+LA  - English
+CN  - 973 .A86p
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Atchison (Kansas) Public Schools
+T1  - What makes our country great? Resource unit - intermediate grades
+SP  - 11
+KW  - United States history
+PB  - Atchison (Kansas) Public Schools
+CY  - Atchison, KS
+LA  - English
+CN  - 973 .A86w
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Austin (Texas) Independent School District
+T1  - Economic background of some America's problems
+Y1  - 1960
+D1  - 1960
+SP  - 106
+KW  - Economic history
+N1  - Supplementary material for American history, grade eleven.
+PB  - Austin (Texas) Independent School District
+CY  - Austin, TX
+LA  - English
+CN  - 973 .A93e
+SC  - Texas
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Teacher's outline of the course of study, American history, grade 7
+Y1  - 1962
+D1  - 1962
+SP  - 13
+KW  - United States history
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 973 .B87a v. 1
+SC  - Massachusetts
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Course of study in standard and honor American history, grades 11 and 12
+Y1  - 1960
+D1  - 06/1960
+SP  - 33
+KW  - United States history
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 973 .B87a v. 2
+SC  - Massachusetts
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Syllabus for advanced placement American history, grades 11 and 12
+Y1  - 1960
+D1  - 1960
+SP  - 4
+KW  - United States history
+PB  - Brookline (Massachusetts) Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 973 .B87a v. 3
+SC  - Massachusetts
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Unit plan for Our nation and the American continents, grade 5-6
+Y1  - 1959
+D1  - 07/1959
+SP  - 76
+KW  - United States history
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 973 .B94o
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The Bill of Rights : a source book for teachers
+Y1  - 1967
+D1  - 1967
+SP  - 196
+KW  - Civil rights
+KW  - Freedom of religion
+KW  - Freedom of speech
+KW  - Right of assembly
+KW  - Teaching aids
+KW  - Catalogs
+KW  - Constitutional history
+KW  - Constitutional law
+KW  - Constitutional amendments
+KW  - Audio-visual materials
+N1  - x; ges : illustrations ; 28 cm; Title Subject: Constitution (United States); Note(s): "Report of a study financed with funds made available under Title V of the Elementary and Secondary Education Act, Public Law 89-10."/ Includes bibliographical references (pages 165-174) and index.; Responsibility: prepared by the Project Staff for the California State Dept. of Education under the direction of the Advisory Panel to the California State Board of Education Committee on the Teaching About the Bill of Rights.
+PB  - California State Department of EducationThe Dept
+CY  - Sacramento, CA
+LA  - English
+CN  - 973 .C152b 1967
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The Bill of rights : a source book for teachers
+Y1  - 1966
+D1  - 1966
+KW  - Civil rights
+KW  - Freedom of religion
+KW  - Freedom of speech
+KW  - Right of assembly
+KW  - Teaching aids
+KW  - Catalogs
+KW  - Constitutional history
+KW  - Constitutional law
+KW  - Constitutional amendments
+KW  - Audio-visual materials
+AB  - Appendix III. Audio-visual aids.--Appendix IV. Table of cases [judicial decisions].
+N1  - 1 volume (various pagings); Note(s): Preliminary printing by California Teachers Association./ Includes bibliographical references (Appendix II).; Responsibility: prepared under the direction of the advisory panel to the California State Board of Education Committee on the Teaching About the Bill of Rights by the project staff.
+ED  - Prelim.
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 973 .C152b 1966
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Chamberlin, Gordon Lorin
+T1  - Chapter III: the project, "Expansion to the Pacific, 1769-1890" a resource unit for the core curriculum eighth grade language arts and social studies
+SP  - 55
+KW  - United States history
+PB  - Cajon Valley Union School District
+LA  - English
+CN  - 973 .C13e
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - United States history in the secondary school
+Y1  - 1962
+D1  - 1962
+SP  - 155
+KW  - United States history
+N1  - viii; 28 cm.; Genre/Form: History.
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 973 .C53u
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - Our country sings
+Y1  - 1961
+D1  - 06/1961
+SP  - 40
+KW  - United States history
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 973 .C55o
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - National Council for the Social Studies
+A2  - Civil Liberties Educational Foundation
+T1  - Education: that security and liberty may prosper together; report
+Y1  - 1962
+D1  - 1962
+SP  - 138
+KW  - Teaching
+KW  - Constitutional amendments
+N1  - 138 p. 28 cm.; Note(s): On cover: A program for improving Bill of rights teaching in high schools.; Other Titles: Program for improving Bill of rights teaching in high schools.
+T2  - Williamstown Workshop (1962 : Williamstown, Mass.)
+PB  - Civil Liberties Educational Foundation
+CY  - New York, NY
+LA  - English
+CN  - 973 .C57e
+ER  - 
+
+TY  - BOOK
+A2  - Clairton (Pennsylvania) Public Schools
+T1  - Course of study, elementary education: history
+Y1  - 1957
+D1  - 1957-1958
+KW  - History
+PB  - Clairton (Pennsylvania) Public Schools
+CY  - Clairton, PA
+LA  - English
+CN  - 973 . C58h
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Stampp, Kenneth M.
+A2  - University of California, Berkeley
+T1  - The Negro in American history textbooks
+Y1  - 1964
+D1  - 06/1964
+SP  - 25
+KW  - African Americans
+KW  - Historiography
+KW  - Textbooks
+N1  - 6 leaves ; 28 cm.; Note(s): Caption title./ "This statement ... was presented to the California State Board of Education by members of the History Department, U. of C., Berkeley."/ "Kenneth M. Stampp, Chairman"--Leaf 6.
+PB  - University of California, Berkeley
+CY  - Berkeley, CA
+LA  - English
+CN  - 973 .C152n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Chelmsford (Massachusetts) Public Schools
+T1  - Technology and the United States: teacher's resource guide
+Y1  - 1973
+D1  - 1973
+SP  - 44
+KW  - Geography
+KW  - Technology
+PB  - Chelmsford (Massachusetts) Public Schools
+CY  - Chelmsford, MA
+LA  - English
+CN  - 973 .C51t
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Division of Social Studies
+T1  - American history and government
+SP  - 105
+KW  - United States history
+PB  - Cleveland (Ohio) Public Schools. Division of Social Studies
+CY  - Cleveland, OH
+LA  - English
+CN  - 971 .C63a v. 1
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - Junior high school course of study outline: Social studies: American history, eighth grade
+Y1  - 1948
+D1  - 1948
+SP  - 40
+KW  - United States history
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 973 .C635j
+SC  - Ohio
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Latting, Lucile H.
+A2  - Colorado State Department of Education
+T1  - So proudly we hail; a source book on foundations for citizenship
+D1  - 1951?
+SP  - 72
+KW  - Civics
+N1  - 72 pages illustrations 28 cm; Responsibility: prepared by Lucille [sic] H. Latting, supervisor of elementary education.
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 973 .C71s
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Fadem, Joyce A.
+T1  - We teach freedom: some significant learning experiences with an annotated bibliography
+Y1  - 1965
+D1  - 1965
+SP  - 39
+KW  - Civics
+PB  - Constitutional Rights Foundations
+CY  - Los Angeles, CA
+LA  - English
+CN  - 973 .C75w
+ER  - 
+
+TY  - BOOK
+A2  - Covina-Valley (California) Unified School District. Instructional Services
+T1  - Our American heritage: a resource guide for teachers
+Y1  - 1962
+D1  - 1962
+SP  - 73
+KW  - United States history
+PB  - Covina-Valley Unified School District
+LA  - English
+CN  - 973 .C87o
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - American history, eleventh grade non-academic classes
+Y1  - 1965
+D1  - 08/1965
+SP  - 223
+KW  - United States history
+PB  - Culver City (California) Unified School District
+CY  - Culver City, CA
+LA  - English
+CN  - 973 .C96a
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - A team approach to the teaching of American literature and American history
+Y1  - 1964
+D1  - 08/1964
+SP  - 137
+KW  - United States history
+PB  - Culver City (California) Unified School District
+CY  - Culver City, CA
+LA  - English
+CN  - 973 .C96t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - United States history : grades 8 and 11 (Teacher's guide)
+Y1  - 1964
+D1  - 1964
+SP  - 304
+KW  - United States history
+N1  - 304 p. ; 28 cm.; Note(s): Teacher's guide.
+PB  - Dade County (Florida) Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 973 .D12t
+SC  - Florida
+G2  - 8th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Decatur (Illinois) Public Schools
+T1  - Bibliography for post civil war period 1865-1900 eighth grade social studies
+Y1  - 1955
+D1  - 06/1955
+SP  - 19
+KW  - Bibliography
+KW  - United States history
+PB  - Decatur (Illinois) Public Schools
+CY  - Decatur, IL
+LA  - English
+CN  - 973 .D29b
+SC  - Illinois
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - The heritage and contributions of the Negro American
+Y1  - 1968
+D1  - 1968
+SP  - 40
+KW  - African Americans
+KW  - History
+N1  - 40 p. ; 28 cm.; Genre/Form: History.; Responsibility: prepared and produced in the Dept. of General Curriculum Services.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 973 .D41h 1968 v. 3
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - The heritage and contributions of the Negro American
+Y1  - 1969
+D1  - 1969
+SP  - 39
+KW  - African Americans
+KW  - History
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+ED  - Revised
+LA  - English
+CN  - 973 .D41h 1969 v. 3
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - American history guide for use in senior high school, tentative
+Y1  - 1949
+D1  - 1949
+SP  - 46
+KW  - United States history
+N1  - ill. ; 22 cm.; Note(s): Bibliography: p. 44-[47].
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 973 .D41a
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools. Division of Instructional Services
+T1  - The heritage and contributions of the Chinese and Japanese Americans
+Y1  - 1968
+D1  - 1968
+SP  - 31
+KW  - Chinese Americans
+KW  - Japanese Americans
+N1  - 31 p. ; 28 cm.; Responsibility: prepared and produced in the Dept. of General Curriculum Services, Division of Instructional Services.
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CA
+LA  - English
+CN  - 973 .D41h v. 1
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Spears, William R.
+A2  - Denver (Colorado) Public Schools
+T1  - The heritage and contributions of the Hispanic American
+Y1  - 1968
+D1  - 1968
+SP  - 20
+KW  - Hispanic Americans
+N1  - 20 pages ; 28 cm; Responsibility: prepared and produced in the Department of General Curriculum Services [by] William R. Spears.
+PB  - Denver (Colorado) Public School
+CY  - Denver, CO
+LA  - English
+CN  - 973 .D41h 1968 v.  2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Spears, William R.
+A2  - Denver (Colorado) Public Schools
+T1  - The heritage and contributions of the Hispanic American
+Y1  - 1969
+D1  - 1969
+SP  - 23
+KW  - Hispanic Americans
+ED  - Revised
+N1  - 23 pages ; 28 cm; Note(s): Includes bibliographical references (pages 22-23).; Responsibility: prepared and produced in the Department of General Curriculum Services [by] William R. Spears.
+PB  - Denver (Colorado) Public School
+CY  - Denver, CO
+LA  - English
+CN  - 973 .D41h 1969 v.  2
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (California) Unified School District
+T1  - Course of study guide: eleventh grade United States history
+KW  - United States history
+PB  - Glendale (California) Unified School District
+CY  - Glendale, CA
+LA  - English
+CN  - 973 .G55u v. 1-2
+SC  - California
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A1  - Dickson, Max C.
+A1  - Haacke, Richard H.
+A1  - Malmgren, Larry H.
+A1  - Thomas, David W.
+A1  - Tolman, Eldon M.
+A1  - Washburn, Don Elden
+A1  - Asay, Carlos E.
+A2  - Utah State Board of Education. Division of Instruction
+T1  - A guide to the teaching of United States political and economic institutions (Senior High School), Granite School District
+Y1  - 1962
+D1  - 1962
+SP  - 125
+KW  - Social sciences
+N1  - v; ; 22 x 28 cm.; Note(s): Prepared by Max C. Dickson, Richard H. Haacke, Larry H. Malmgren, David W. Thomas, Eldon M. Tolman, and Don Elden Washburn, under the supervision of Carlos E. Asay.; Other Titles: Teacher's guide for United States political and economic institutions
+PB  - Utah State Board of Education, Division of Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 973 .G75t
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Evansville-Vanderburgh (Indiana) School Corporation
+T1  - Election resource guide : grades 7-12
+Y1  - 1970
+D1  - Spring, 1970
+SP  - 107
+KW  - Voting
+KW  - Elections
+N1  - ill., maps ; 28 cm.; Responsibility: produced by committees of teachers during the school year 1969-1970.
+ED  - Rev
+PB  - Evansville-Vanderburgh (indiana) School Corporation
+CY  - Evansville, IN
+LA  - English
+CN  - 973 .E92e
+SC  - Indiana
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - The social studies program of the Denver public schools: United States history, grade eleven
+Y1  - 1966
+D1  - 1966
+SP  - 76
+KW  - United States history
+PB  - Denver (Colorado) Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 973 .D41s
+SC  - Colorado
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - A pupil manual and study guide in social studies: the story of our country and people, part II
+Y1  - 1953
+D1  - 1953
+SP  - 136
+KW  - United States history
+PB  - Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 973 .D48s v. 2
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Duarte (California) Unified School District
+T1  - American heritage
+Y1  - 1962
+D1  - 1962
+SP  - 25
+KW  - United States history
+PB  - Duarte (California) Unified School District
+CY  - Duarte, CA
+LA  - English
+CN  - 973 .D86a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - El Paso (Texas) Public Schools
+T1  - General guide for American history teachers with provisions for individual differences in pupil ability, experience, and interest, grade eleven
+Y1  - 1962
+D1  - 08/1962
+SP  - 314
+KW  - United States history
+PB  - El Paso (Texas) Public Schools
+CY  - El Paso, TX
+LA  - English
+CN  - 973 .E37g v. 1
+SC  - Texas
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Gresham (Oregon) Union High School District
+T1  - Social studies guide
+Y1  - 1970
+D1  - 08/1970
+SP  - 42
+KW  - Social sciences
+PB  - Gresham (Oregon) Union High School District
+CY  - Gresham, OR
+LA  - English
+CN  - 973 .G83s
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hammond (Indiana) High Schools
+T1  - United States history, eighth grade
+KW  - United States history
+PB  - Hammond (Indiana) High Schools
+CY  - Hammond, IN
+LA  - English
+CN  - 973 .H22u v. 1
+SC  - Indiana
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Hammond (Indiana) High Schools
+T1  - United States history V and VI
+KW  - United States history
+PB  - Hammond (Indiana) High Schools
+CY  - Hammond, IN
+LA  - English
+CN  - 973 .H22u v. 2
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Schein, Irving
+T1  - The law and your civil liberties; introductory case studies
+Y1  - 1967
+D1  - 1967
+SP  - 65
+KW  - Civil rights
+N1  - iv; 28 cm.
+PB  - Hartford (Connecticut) Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 973 .H32L
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Rozwenc, Edwin C.
+A1  - Lyons, Thomas
+T1  - Presidential power in the New Deal
+Y1  - 1964
+D1  - 1964
+SP  - 86
+KW  - Executive power
+KW  - Political science
+KW  - Politics and government
+N1  - 86 p. ; 20 cm.; Genre/Form: Collections.; Responsibility: Edwin C. Rozwenc, Thomas T. Lyons.
+T2  - Basic concepts in history and social science
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43b v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Rozwenc, Edwin C.
+A1  - Lyons, Thomas T.
+T1  - Realism and idealism in Wilson's peace program
+Y1  - 1965
+D1  - 1965
+SP  - 104
+KW  - World War I
+KW  - Peace
+KW  - Wilson, Woodrow, 1856-1924
+N1  - 104 p. 20 cm.; Note(s): Bibliography: p. 103-104.; Responsibility: [by] Edwin C. Rozwenc [and] Thomas Lyons.
+T2  - Basic concepts in history and the social sciences
+PB  - D.C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43b v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Schrag, Peter
+T1  - The European mind and the discovery of a new world
+Y1  - 1965
+D1  - 1965
+SP  - 130
+KW  - American discovery and exploration
+N1  - x, 130; maps. 20 cm.; Note(s): Bibliography: p. 126-128.
+T2  - New dimensions in American history
+ED  - Teacher's ed.
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 1
+ER  - 
+
+TY  - BOOK
+A1  - Squire, Marjorie J.
+T1  - British views of the American Revolution
+Y1  - 1965
+D1  - 1965
+SP  - 148
+KW  - Public opinion
+KW  - American Revolution, 1775-1783
+N1  - x; ; 20 cm.; Genre/Form: History.; Note(s): Includes bibliographical references.; Responsibility: Marjorie J. Squire.
+T2  - New dimensions in American history
+ED  - Teacher's ed.
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 2
+ER  - 
+
+TY  - BOOK
+A1  - Brown, Richard H.
+T1  - Missouri compromise: political statemanship or unwise evasion
+Y1  - 1964
+D1  - 1964
+SP  - 85
+KW  - Missouri compromise
+T2  - New dimensions in American history
+ED  - Teacher's ed.
+PB  - D. C. Heath
+CY  - San Francisco, CA
+LA  - English
+CN  - 973 .H43n v. 4
+ER  - 
+
+TY  - BOOK
+A1  - Guttmann, Allen
+T1  - States' rights and Indian removal: the Cherokee Nation v. the State of Georgia
+Y1  - 1965
+D1  - 1964
+SP  - 94
+KW  - Indians of North America
+KW  - Cherokee Indians
+KW  - Trail of Tears, 1838-1839
+N1  - xi, 94; map. 20 cm.; Note(s): "Teachers' edition for States' rights and Indian removal: the Cherokee Nation v. the State of Goergia": 14 p. at end./ Bibliography: p. 93-94.
+T2  - New dimensions in American history
+ED  - Teachers ed.
+PB  - D.C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Schrag, Peter
+T1  - The ratification of the Constitution and the Bill of rights
+Y1  - 1964
+D1  - 1964
+SP  - 114
+KW  - Constitutional history
+N1  - vii, 114; 20 cm.; Title Subject: Constitution (United States)
+ED  - Teachers ed.
+T2  - New dimensions in American history
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 3
+ER  - 
+
+TY  - BOOK
+A1  - Wilbur, W. Allan
+T1  - The Monroe Doctrine
+Y1  - 1965
+D1  - 1965
+SP  - 180
+KW  - Monroe doctrine
+KW  - International relations
+N1  - ix; 20 cm.; Note(s): Bibliography: p. 175-180.; Responsibility: [by] W. Allan Wilbur.
+T2  - New dimensions in American history
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 5
+ER  - 
+
+TY  - BOOK
+A1  - Baker, Gary G.
+T1  - Andrew Johnson and the struggle for presidential reconstruction, 1865-1868
+Y1  - 1966
+D1  - 1966
+SP  - 178
+KW  - Johnson, Andrew, 1808-1875
+KW  - Politics and government
+N1  - x, 178; 20 cm.; Note(s): Bibliography: p. 175-176.; Responsibility: [by] Gary G. Baker.
+T2  - New dimensions in American history
+ED  - Teacher's ed.
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 8
+ER  - 
+
+TY  - BOOK
+A1  - Nesmith, Frances
+T1  - Challenging the abler student in American history : senior high school
+Y1  - 1957
+D1  - 02/1957
+SP  - 69
+KW  - Gifted children
+KW  - United States history
+N1  - 69 p. ; cm; Responsibility: prepared by Frances Nesmith
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 973 .H84p
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Kownslar, Allan O.
+T1  - Manifest destiny and expansionism in the 1840's
+Y1  - 1967
+D1  - 1967
+SP  - 152
+KW  - Manifest Destiny
+KW  - Territorial expansion
+N1  - v, 152; illus., maps. 20 cm.; Genre/Form: History. Sources.; Note(s): Includes bibliographical references.; Responsibility: [by] Allan O. Kownslar.
+T2  - New dimensions in American history
+ED  - Teacher's ed.
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 7
+ER  - 
+
+TY  - BOOK
+A1  - Merrill, Edward Hackett
+T1  - Responses to economic collapse: the great depression of the 1930's
+Y1  - 1964
+D1  - 1964
+SP  - 151
+KW  - Depressions (Economic)
+KW  - Economic history
+KW  - United States history
+N1  - ix, 151; 20 cm.; Note(s): Bibliographical references included in "Some remarks about bibliography" (p. 150-151).; Responsibility: by Edward H. Merrill.
+T2  - New dimensions in American history
+ED  - Teachers ed.
+PB  - D. C. Heath
+CY  - Boston, MA
+LA  - English
+CN  - 973 .H43n v. 11
+ER  - 
+
+TY  - BOOK
+A1  - Traverso, Edmund
+T1  - The Spanish-American War; a study in policy change
+Y1  - 1968
+D1  - 1968
+SP  - 139
+KW  - Spanish-American War, 1898
+N1  - 140; 20 cm.; Genre/Form: Sources.; Note(s): Bibliography: p. 140.
+T2  - New dimensions in American history
+ED  - Teachers edition
+PB  - D.C. Heath
+CY  - Lexington, MA
+LA  - English
+CN  - 973 .H43n v. 9
+ER  - 
+
+TY  - BOOK
+A1  - Traverso, Edmund
+T1  - The 1920's: rhetoric and reality
+Y1  - 1964
+D1  - 1964
+SP  - 184
+KW  - United States history
+N1  - viii; 20 cm.; Genre/Form: History.; Note(s): On cover: The 1920's: rehetoric or reality?/ Includes bibliographical references.
+T2  - New dimensions in American history
+ED  - Teachers edition
+PB  - D.C. Heath
+CY  - Lexington, MA
+LA  - English
+CN  - 973 .H43n v. 10
+ER  - 
+
+TY  - BOOK
+A2  - Thompson Junior High School (Middletown, New Jersey)
+T1  - Course of study: Latin American history, ninth grade
+KW  - Latin American history
+PB  - Thompson Junior High School
+CY  - Middletown, NJ
+LA  - English
+CN  - 972 .M62L
+SC  - New Jersey
+G2  - 9th
+ER  - 

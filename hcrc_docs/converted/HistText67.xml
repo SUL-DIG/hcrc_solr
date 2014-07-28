@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Funchess, Lloyd V.</field>
+        <field name="author_nat">Lloyd V. Funchess</field>
+        <field name="author">Hilton, Winston</field>
+        <field name="author_nat">Winston Hilton</field>
+        <field name="corp_author">Louisiana State Department of Education</field>
+        <field name="title">A program of music education for Louisiana schools</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">33</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">33 pages ; 28 cm; Note(s): Cover title: Music education in Louisiana
+            schools./ Includes bibliographical references.; Other Titles: Music education in
+            Louisiana schools.; Responsibility: prepared by Lloyd V. Funchess and Winston Hilton ;
+            under the direction of J.B. Robertson.</field>
+        <field name="series_title">Music education in Louisiana schools</field>
+        <field name="publisher">Louisiana State Department of Education</field>
+        <field name="pub_place">Baton Rouge, LA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .L87m</field>
+        <field name="state_country">Louisiana</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pasadena (California) City Schools</field>
+        <field name="title">Music</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">22</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Pasadena (California) City Schools</field>
+        <field name="pub_place">Pasadena, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P27m</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="title">Creative experiences - Take the plunge! - It's fun!</field>
+        <field name="year">1950</field>
+        <field name="date">02/1950</field>
+        <field name="pages">5</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P54c</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="title">Growth and development of a child through music : grades 5 and 6</field>
+        <field name="year">1956</field>
+        <field name="date">09/1956</field>
+        <field name="pages">51</field>
+        <field name="keywords">Music</field>
+        <field name="notes">ill., music.</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P54g v. 4</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="title">Music in the elementary school assembly</field>
+        <field name="year">1958</field>
+        <field name="date">10/1958</field>
+        <field name="pages">9</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P54m</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Music
+            Education</field>
+        <field name="title">Growth and development of the child through music : guide for grades 1
+            and 2</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">26</field>
+        <field name="keywords">Music</field>
+        <field name="notes">music ; 28 cm.</field>
+        <field name="edition">Tentative</field>
+        <field name="publisher">Division of Music Education, Philadelphia Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P54g v. 1</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools. Division of Music
+            Education</field>
+        <field name="title">Growth and development of the child through music : grade 4</field>
+        <field name="year">1952</field>
+        <field name="date">10/1952</field>
+        <field name="pages">32</field>
+        <field name="keywords">Music</field>
+        <field name="notes">music ; 28 cm.</field>
+        <field name="publisher">Division of Music Education, Philadelphia Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P54g v. 3</field>
+        <field name="state_country">Pennsylvania</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Portland (Oregon) Public Schools</field>
+        <field name="title">The elementary general music guide</field>
+        <field name="pages">181</field>
+        <field name="keywords">Music</field>
+        <field name="series_title">Portland (Oregon) Public Schools. Curriculum publications</field>
+        <field name="series_vol">MU-35</field>
+        <field name="publisher">Portland (Oregon) Public Schools</field>
+        <field name="pub_place">Portland, OR</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P85e</field>
+        <field name="state_country">Oregon</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Providence (Rhode Island) Department of Public Schools</field>
+        <field name="title">Music in the elementary school, grades 4-6</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">113</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Providence (Rhode Island) Department of Public Schools</field>
+        <field name="pub_place">Providence, RI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P96me v. 2</field>
+        <field name="state_country">Rhode Island</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Pueblo (Colorado) Board of Education</field>
+        <field name="title">Instructional guide for teachers of Pueblo public schools, elementary,
+            music</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">26</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Pueblo (Colorado) Board of Education</field>
+        <field name="pub_place">Pueblo, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .P97i</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ramapo Central School District No. 2 (Spring Valley, New
+            York)</field>
+        <field name="title">A tentative curriculum guide: general music - seventh grade</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">41</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Ramapo Central School District No. 2</field>
+        <field name="pub_place">Spring Valley, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .R17t</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Roslyn (New York) Public Schools</field>
+        <field name="title">Music guide K-12</field>
+        <field name="year">1962</field>
+        <field name="date">12/1962</field>
+        <field name="pages">16</field>
+        <field name="keywords">Music</field>
+        <field name="series_title">Vocal and general music K-12</field>
+        <field name="publisher">Roslyn (New York) Public Schools</field>
+        <field name="pub_place">Roslyn, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .R82v</field>
+        <field name="state_country">New York</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sacramento (California) City Unified School District</field>
+        <field name="title">Music: a guide for primary grades</field>
+        <field name="year">1958</field>
+        <field name="date">09/1958</field>
+        <field name="pages">301</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Sacramento (California) City Unified School District</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S12m v. 1</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sacramento (California) City Unified School District</field>
+        <field name="title">Music: a guide for intermediate grades</field>
+        <field name="year">1959</field>
+        <field name="date">09/1959</field>
+        <field name="pages">341</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Sacramento (California) City Unified School District</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S12m v. 2</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sacramento (California) City Unified School District</field>
+        <field name="title">Music education</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="keywords">Music education</field>
+        <field name="series_vol">3</field>
+        <field name="issue">1</field>
+        <field name="publisher">Sacramento (California) City Unified School District</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S12m</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Scope and sequence of the elementary classroom music program</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="keywords">Music</field>
+        <field name="abstract">Diagram concepts and experiences in music, gr. K-6.</field>
+        <field name="notes">1 chart, 29 x 35 in. (folded)</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S19s</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Course of study for junior high schools: music</field>
+        <field name="year">1944</field>
+        <field name="date">1944</field>
+        <field name="pages">8</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S192m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego County (California) Schools</field>
+        <field name="title">Music; grades one through eight, course of study</field>
+        <field name="year">1956</field>
+        <field name="date">09/1956</field>
+        <field name="pages">47</field>
+        <field name="keywords">Music</field>
+        <field name="notes">50 p. 28 cm.</field>
+        <field name="publisher">San Diego County (California) Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S193m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Joaquin County (California) Board of Education</field>
+        <field name="title">Guide to music for school personnel</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">37</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">San Joaquin County (California) Board of Education</field>
+        <field name="pub_place">Stockton, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S195g</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">Music education in the seventh and eighth grades : a teachers guide for
+            Santa Clara County Schools</field>
+        <field name="year">1960</field>
+        <field name="date">03/1960</field>
+        <field name="pages">146</field>
+        <field name="keywords">Music education</field>
+        <field name="notes">viii, 146 leaves : ill., music ; 28 cm.; Note(s): Includes
+            bibliographical references (leaves 121-142).</field>
+        <field name="edition">Rev</field>
+        <field name="publisher">Santa Clara County (California) Board of Education</field>
+        <field name="pub_place">Santa Clara, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S23m 1960</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">Music education in the seventh and eighth grades : a teacher guide for
+            Santa Clara County schools</field>
+        <field name="year">1968</field>
+        <field name="date">06/1968</field>
+        <field name="pages">123</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Curricula</field>
+        <field name="keywords">Music</field>
+        <field name="notes">123 leaves : ill., music ; 30 cm.</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Santa Clara County (California) Board of Education</field>
+        <field name="pub_place">San Jose, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S23m 1968</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Van Bodegraven, Paul</field>
+        <field name="author_nat">Paul Van Bodegraven</field>
+        <field name="corp_author">Rhode Island State Department of Education</field>
+        <field name="title">Survey of music in elementary, junior high and senior high schools in
+            Rhode Island</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">School music</field>
+        <field name="publisher">Rhode Island State Department of Education</field>
+        <field name="pub_place">Providence, RI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .R47s</field>
+        <field name="state_country">Rhode Island</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Schools</field>
+        <field name="title">Teachers' guide for classroom music in the kindergarten and first
+            grade</field>
+        <field name="pages">31</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Santa Clara County (California) Schools</field>
+        <field name="pub_place">San Jose, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S23t v. 1</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Schools</field>
+        <field name="title">Teachers' guide for classroom music, grades two and three</field>
+        <field name="year">1951</field>
+        <field name="date">09/1951</field>
+        <field name="pages">50</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Santa Clara County (California) Schools</field>
+        <field name="pub_place">San Jose, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S23t v. 2</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Santa Clara County (California) Board of Education</field>
+        <field name="title">Teacher's guide for classroom music : grades kindergarten through
+            six</field>
+        <field name="year">1969</field>
+        <field name="date">06/1969</field>
+        <field name="pages">175</field>
+        <field name="keywords">Music</field>
+        <field name="notes">175 leaves ; 30 cm.</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Santa Clara County (California) Office of Education</field>
+        <field name="pub_place">San Jose, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S23t 1969</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Shasta County (California) Board of Education</field>
+        <field name="title">Music from every child</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="pages">13</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Shasta County (California) Board of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S53m</field>
+        <field name="state_country">California</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sheboygan (Wisconsin) Public Schools</field>
+        <field name="title">Vocal music instructional guide</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">87</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Sheboygan (Wisconsin) Public Schools</field>
+        <field name="pub_place">Sheboygan, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S539v</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Shorewood (Wisconsin) Public Schools</field>
+        <field name="title">Music in the primary grades</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Shorewood (Wisconsin) Public Schools</field>
+        <field name="pub_place">Shorewood, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S55m v. 1</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Shorewood (Wisconsin) Public Schools</field>
+        <field name="title">Music education for junior high school students</field>
+        <field name="pages">65</field>
+        <field name="keywords">Music</field>
+        <field name="series_title">Shorewood (Wisconsin) Public Schools. Bulletin</field>
+        <field name="series_vol">26</field>
+        <field name="publisher">Shorewood (Wisconsin) Public Schools</field>
+        <field name="pub_place">Shorewood, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S55m v. 3</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">South Dakota State Department of Public Instruction</field>
+        <field name="title">South Dakota course of study in music for elementary and secondary
+            schools</field>
+        <field name="year">1954</field>
+        <field name="date">02/1954</field>
+        <field name="pages">174</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="notes">174 pages : illustrations, music ; 29 cm.</field>
+        <field name="series_title">South Dakota State Department of Public Instruction.
+            Bulletin</field>
+        <field name="series_vol">63</field>
+        <field name="publisher">South Dakota State Department of Public Instruction</field>
+        <field name="pub_place">Pierre, SD</field>
+        <field name="language">English</field>
+        <field name="state_country">780 .S72m</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Music education: Kindergarten</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S95m v. 1</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">Kindergarten</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Superior (Wisconsin) Public Schools</field>
+        <field name="title">Music education: first grade</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Superior (Wisconsin) Public Schools</field>
+        <field name="pub_place">Superior, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .S95m v. 2</field>
+        <field name="state_country">Wisconsin</field>
+        <field name="grade_level_number">1st grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tacoma (Washington) Public Schools</field>
+        <field name="title">Music in the elementary grades: 1</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">53</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tacoma (Washington) Public Schools</field>
+        <field name="pub_place">Tacoma, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T11m v. 1</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_number">1st grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tacoma (Washington) Public Schools</field>
+        <field name="title">Music in the elementary grades: 2</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">77</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tacoma (Washington) Public Schools</field>
+        <field name="pub_place">Tacoma, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T11m v. 2</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_number">2nd grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tacoma (Washington) Public Schools</field>
+        <field name="title">Music in the elementary grades: 4</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">64</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tacoma (Washington) Public Schools</field>
+        <field name="pub_place">Tacoma, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T11m v. 4</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency</field>
+        <field name="title">Music for elementary schools.</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">77</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">v; ill., music ; 28 cm.; Note(s): Prepared in cooperation with the
+            Elementary Division of the Texas Music Educators Association./ Includes bibliographical
+            references.; Responsibility: prepared by the Texas Education Agency in cooperation with
+            the Elementary Division of the Texas Music Educators Association.</field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
+        <field name="series_vol">648</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T35m 1964</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book A2 - Texas Education Agency</field>
+        <field name="title">Music for elementary schools</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">66</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Curricula</field>
+        <field name="keywords">Music</field>
+        <field name="notes">66 p. ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, no. 556./ Includes
+            bibliographies and discographies.; Responsibility: prepared through the leadership of
+            V.J. Kennedy in cooperation with the Elementary Division of the Texas Music Educators
+            Association.</field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
+        <field name="series_vol">556</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T35m 1954</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency</field>
+        <field name="title">Music in elementary education</field>
+        <field name="year">1974</field>
+        <field name="date">1974</field>
+        <field name="pages">74</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">v; ill. ; 29 cm.; Note(s): Accompanied by Appendix (22 p. : ill. ; 22 x
+            28 cm.) ; "Directory": p. 19-22./ Includes bibliographies, discographies, and
+            filmographies.</field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
+        <field name="series_vol">743</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T35m 1974 v. 1-2</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tyler (Texas) Independent School District</field>
+        <field name="title">Curriculum guide for music education : grades 7-12</field>
+        <field name="year">1964</field>
+        <field name="date">08/1964</field>
+        <field name="pages">48</field>
+        <field name="notes">48 leaves ; 22 x 28 cm.; Note(s): Includes bibliographical references
+            (leaves 35-48).; Responsibility: prepared by Bonnie Ammons ... [et al.].</field>
+        <field name="publisher">Tyler (Texas) Independent School District</field>
+        <field name="pub_place">Tyler, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T98c</field>
+        <field name="state_country">Texas</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas School of the Air</field>
+        <field name="corp_author">Texas State Department of Education</field>
+        <field name="title">Teachers' classroom guide for Music is yours, 1948-1949</field>
+        <field name="year">1948</field>
+        <field name="date">1948-1949</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Radio in education</field>
+        <field name="notes">68 pages ; 23 cm.; Note(s): Includes bibliographical references (pages
+            60-68).; Responsibility: the Texas School of the Air.</field>
+        <field name="series_title">Texas School of the Air. Bulletin</field>
+        <field name="series_vol">498</field>
+        <field name="publisher">Texas State Department of Education</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T355m</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Schools</field>
+        <field name="title">Music guide for the Tulare County schools</field>
+        <field name="year">1950</field>
+        <field name="date">1950</field>
+        <field name="pages">68</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tulare County (California) Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .T91m</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Schools</field>
+        <field name="title">Music appreciation no. 1</field>
+        <field name="pages">9</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tulare County (California) Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">789 .T91mu v. 1</field>
+        <field name="state_country">California</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Schools</field>
+        <field name="title">Keys to teaching music reading, part I</field>
+        <field name="year">1953</field>
+        <field name="date">09/1953</field>
+        <field name="pages">4</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tulare County (California) Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">789 .T91mu v. 2</field>
+        <field name="state_country">California</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Tulare County (California) Schools</field>
+        <field name="title">Keys to beginning sight singing</field>
+        <field name="year">1954</field>
+        <field name="date">12/1954</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Tulare County (California) Schools</field>
+        <field name="pub_place">Visalia, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">789 .T91mu v. 3</field>
+        <field name="state_country">California</field>
+    </doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Utah State Department of Public Instruction</field>
+        <field name="title">Classroom use of recordings accompanying music texts</field>
+        <field name="year">1953</field>
+        <field name="date">01/1953</field>
+        <field name="pages">19</field>
+        <field name="keywords">Music</field>
+        <field name="series_title">Utah State Department of Public Instruction. Teaching
+            aids</field>
+        <field name="series_vol">2</field>
+        <field name="publisher">Utah State Department of Public Instruction</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .U89c</field>
+        <field name="state_country">Utah</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Utah State Department of Public Instruction</field>
+        <field name="title">Utah music guide: kindergarten through grade twelve</field>
+        <field name="year">1959</field>
+        <field name="date">01/1959</field>
+        <field name="pages">125</field>
+        <field name="keywords">Music</field>
+        <field name="notes">v; 28 cm; Responsibility: Utah State Dept. of Public
+            Instruction.</field>
+        <field name="publisher">Utah State Department of Public Instruction</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .U89m 1959</field>
+        <field name="state_country">Utah</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Utah State Department of Public Instruction</field>
+        <field name="title">Music guide for the elementary schools</field>
+        <field name="year">1944</field>
+        <field name="date">1944</field>
+        <field name="pages">88</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">music ; 28 cm.; Note(s): Includes bibliographical references and
+            index.</field>
+        <field name="publisher">Utah State Department of Public Instruction</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .U89m 1944</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Virginia State Board of Education</field>
+        <field name="title">Music in grades one through twelve ; a tentative guide to curriculum
+            development</field>
+        <field name="year">1954</field>
+        <field name="date">03/1954</field>
+        <field name="pages">132</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Curricula</field>
+        <field name="notes">ill. ; 23 cm.; Note(s): "Bibliography for eight grade music": p.
+            112-120. "General bibliography": p. 121-132.</field>
+        <field name="series_title">Virginia State Board of Education. Bulletin</field>
+        <field name="series_vol">36</field>
+        <field name="issue">6</field>
+        <field name="publisher">Virginia State Board of Education</field>
+        <field name="pub_place">Richmond, VA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .V81m</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Walworth County (Wisconsin) Schools</field>
+        <field name="title">Music resource unit</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">29</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Walworth County (Wisconsin) Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .W24m</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Warwick (Rhode Island) Public Schools</field>
+        <field name="title">A continuing program in music</field>
+        <field name="year">1967</field>
+        <field name="date">1967</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Warwick (Rhode Island) Public Schools</field>
+        <field name="pub_place">Warwick, RI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .W29c v. 1-2</field>
+        <field name="state_country">Rhode Island</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Warwick (Rhode Island) School Department</field>
+        <field name="title">An emerging program of music for grades I-XII</field>
+        <field name="year">1955</field>
+        <field name="date">09/1955</field>
+        <field name="pages">34</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Warwick (Rhode Island) School Department</field>
+        <field name="pub_place">Warwick, RI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .W29e</field>
+        <field name="state_country">Rhode Island</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="title">A message to parents: preparing your child for school</field>
+        <field name="year">1955</field>
+        <field name="date">11/1955</field>
+        <field name="keywords">Parent participation</field>
+        <field name="keywords">Parent and child</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">370.21 .P54m</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="title">A message to parents: as your child goes to school</field>
+        <field name="year">1952</field>
+        <field name="date">04/1952</field>
+        <field name="keywords">Parent participation</field>
+        <field name="keywords">Parent and child</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">370.21 .P54a</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Webster Groves (Missouri) Public Schools</field>
+        <field name="title">Aids to teaching and integrating music in the elementary school:
+            kindergraten - grades I to IV</field>
+        <field name="year">1948</field>
+        <field name="date">1948</field>
+        <field name="pages">84</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Webster Groves (Missouri) Public Schools</field>
+        <field name="pub_place">Webster Groves, MO</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .W37a</field>
+        <field name="state_country">Missouri</field>
+        <field name="grade_level_number">Kindergarten</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">West Virginia State Department of Education</field>
+        <field name="title">Section 15: music</field>
+        <field name="year">1970</field>
+        <field name="date">1970</field>
+        <field name="pages">17</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">West Virginia State Department of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .W51m</field>
+        <field name="state_country">West Virginia</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Washington State Superintendent of Public Instruction</field>
+        <field name="title">Washington State tentative curriculum guide for music : grades
+            one-six</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="pages">109</field>
+        <field name="keywords">Music</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): Cover title: Curriculum guide, grades 1-6,
+            music./ "Lloyd J. Andrews, State Superintendent of Public Instruction, Olympia,
+            Washington."/ Includes bibliographical references.; Other Titles: Curriculum guide,
+            grades 1-6, music; Curriculum guide, music</field>
+        <field name="publisher">Washington State Superintendent of Public Instruction</field>
+        <field name="pub_place">Olympia, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .W31m</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_number">1st grade</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Wisconsin State Department of Public Instruction</field>
+        <field name="title">Music education in Wisconsin schools</field>
+        <field name="year">1953</field>
+        <field name="date">06/1953</field>
+        <field name="pages">36</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="notes">36 pages : illustrations ; 23 cm; Note(s): Cover title./ Includes
+            bibliographical references (pages 34-36).</field>
+        <field name="edition">Rev.</field>
+        <field name="publisher">Wisconsin State Department of Public Instruction</field>
+        <field name="pub_place">Madison, WI</field>
+        <field name="language">English</field>
+        <field name="call_number">780 .W81m</field>
+        <field name="state_country">Wisconsin</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">American Music Conference (U.S.)</field>
+        <field name="title">A study of instrumental music in 322 school systems</field>
+        <field name="year">1957</field>
+        <field name="date">04/1957</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Music</field>
+        <field name="notes">[12] p. ; 28 cm.; Note(s): Cover title.</field>
+        <field name="publisher">American Music Conference</field>
+        <field name="pub_place">Chicago. IL</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .A51s</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Clarke, Harry F.</field>
+        <field name="author_nat">Harry F. Clarke</field>
+        <field name="author">Lidrbauch, Richard</field>
+        <field name="author_nat">Richard Lidrbauch</field>
+        <field name="author">Moore, C. Aubrey</field>
+        <field name="author_nat">C. Aubrey Moore</field>
+        <field name="author">Schmidt, Otto A.</field>
+        <field name="author_nat">Otto A. Schmidt</field>
+        <field name="author">Rimer, Robert H.</field>
+        <field name="author_nat">Robert H. Rimer</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools</field>
+        <field name="title">Beginning band in junior and senior high school : a guide for
+            teachers</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">29</field>
+        <field name="keywords">Bands</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .C63b v. 1</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools</field>
+        <field name="title">Intermediate band : a guide for teachers</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">16</field>
+        <field name="keywords">Bands</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .C63b v. 2</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Egbert, Marion S.</field>
+        <field name="author_nat">Marion S. Egbert</field>
+        <field name="title">A suggested keyboard experience lesson plan</field>
+        <field name="year">1958</field>
+        <field name="date">1958?</field>
+        <field name="pages">26</field>
+        <field name="keywords">Piano</field>
+        <field name="keywords">Music</field>
+        <field name="notes">26 p. music 28 cm.</field>
+        <field name="publisher">American Music Conference</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .A51su</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="title">Beginning string class in jr. and sr. high schools : a guide for
+            teachers</field>
+        <field name="year">1953</field>
+        <field name="date">1953</field>
+        <field name="pages">24</field>
+        <field name="keywords">Stringed instruments</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools. Music Department</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .C63be</field>
+        <field name="state_country">Ohio</field>
+        <field name="grade_level_group">Middle school</field>
+        <field name="grade_level_group">High school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dallas (Texas) Independent School District</field>
+        <field name="title">Instrumental music : curriculum guide</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">157</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="keywords">School music</field>
+        <field name="notes">ill. ; 28 cm.; Note(s): "Authorized by the Board of Education June 22,
+            1954."</field>
+        <field name="series_title">Dallas (Texas) Independent School District. Curriculum bulletin
+            series</field>
+        <field name="publisher">Dallas (Texas) Independent School District</field>
+        <field name="pub_place">Dallas, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .D14i</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Dallas (Texas) Independent School District</field>
+        <field name="title">Instrumental music program: content, scope, and sequence</field>
+        <field name="year">1959</field>
+        <field name="date">09/1959</field>
+        <field name="pages">7</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Dallas (Texas) Independent School District</field>
+        <field name="pub_place">Dallas, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .D14in</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Denver (Colorado) Public Schools</field>
+        <field name="title">Instrumental music teacher's handbook : for the use of teachers in the
+            elementary schools (tentative)</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">66</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="notes">66 leaves : forms ; 30 cm; Note(s): Mimeographed./ Includes
+            bibliographical references (leaves 48-66).; Responsibility: [prepared by a committee
+            from the professional staff of the Denver Public Schools ; produced by the Department of
+            Music Education in cooperation with the Department of Instruction.].</field>
+        <field name="publisher">Denver (Colorado) Public Schools</field>
+        <field name="pub_place">Denver, CO</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .D41i</field>
+        <field name="state_country">Colorado</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Detroit (Michigan) Public Schools. Department of Music
+            Education</field>
+        <field name="title">Instrumental music in the elementary schools : a guide for teachers and
+            principals</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="pages">69</field>
+        <field name="keywords">School music</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="notes">69 pages : illustrations ; 22 cm</field>
+        <field name="publisher">Detroit (Michigan) Public Schools</field>
+        <field name="pub_place">Detroit, MI</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .D48i</field>
+        <field name="state_country">Michigan</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno (California) City Schools</field>
+        <field name="title">A handbook for instrumental teachers</field>
+        <field name="year">1947</field>
+        <field name="date">09/1947</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="notes">1 volume various pagings</field>
+        <field name="publisher">Fresno (California) City Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .F88h</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Fresno County (California) Schools</field>
+        <field name="title">A handbook for instrumental music for elementary schools</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">18</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Fresno (California) City Schools</field>
+        <field name="pub_place">Fresno, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .F89h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
+        <field name="title">Guidelines for instrumental music in the elementary school</field>
+        <field name="year">1964</field>
+        <field name="date">1964</field>
+        <field name="pages">136</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Granite School District</field>
+        <field name="pub_place">Salt Lake City, UT</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .G75g</field>
+        <field name="state_country">Utah</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles County (California) Superintendent of Schools</field>
+        <field name="title">Instrumental music: a guide to instrumental instruction in the
+            elementary and junior high schools</field>
+        <field name="year">1958</field>
+        <field name="date">09/1958</field>
+        <field name="pages">30</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Los Angeles County (California) Superintendent of Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .L87i</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Forster, Frances</field>
+        <field name="author_nat">Frances Forster</field>
+        <field name="corp_author">Los Angeles (California) City School District. Division of
+            Instructional Services</field>
+        <field name="title">String bass; string class lessons for pupils in the elementary
+            schools</field>
+        <field name="year">1960</field>
+        <field name="date">1960</field>
+        <field name="keywords">Stringed instruments</field>
+        <field name="keywords">Music</field>
+        <field name="notes">2 v. in 1. ill.; Note(s): Includes music.; Responsibility: [prepared by
+            Frances Forster, and others.</field>
+        <field name="series_title">Los Angeles City School District. Division of Instructional
+            Services. Publication</field>
+        <field name="series_vol">EC-181</field>
+        <field name="publisher">Los Angeles (California) City Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .L86s v. 1-2</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Hillsborough County (Florida) Public Schools</field>
+        <field name="title">How we make music : an appreciation course for grades 4-9</field>
+        <field name="year">1958</field>
+        <field name="date">1958-1959</field>
+        <field name="pages">16</field>
+        <field name="keywords">Music appreciation</field>
+        <field name="publisher">Hillsborough County (Florida) Public Schools</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .H64h</field>
+        <field name="grade_level_number">4th grade</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="state_country">Florida</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Funchess, Lloyd Vance</field>
+        <field name="author_nat">Lloyd Vance Funchess</field>
+        <field name="title">Instruments in classroom music</field>
+        <field name="year">1954</field>
+        <field name="date">1954</field>
+        <field name="pages">52</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Musical instruments</field>
+        <field name="notes">52 p. illus. 31 cm.; Note(s): Bibliography: p. 52.; Responsibility:
+            prepared by Lloyd V. Funchess and Winston Hilton, under the direction of J.B.
+            Robertson.</field>
+        <field name="series_title">Louisiana State Department of Education, Bulletin</field>
+        <field name="series_vol">783</field>
+        <field name="publisher">Louisiana State Department of Education</field>
+        <field name="pub_place">Baton Rouge, LA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .L88i</field>
+        <field name="state_country">Louisiana</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Louisville (Kentucky) Public Schools</field>
+        <field name="title">A tentative course of study for instrumental music</field>
+        <field name="year">1946</field>
+        <field name="date">1946</field>
+        <field name="pages">169</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="notes">169 leaves ; 28 cm.; Note(s): Mimeographed./ Includes bibliographical
+            references.</field>
+        <field name="series_title">Louisville (Kentucky) Public Schools. Curriculum bulletin</field>
+        <field name="series_vol">4</field>
+        <field name="issue">2</field>
+        <field name="publisher">Louisville (Kentucky) Public Schools</field>
+        <field name="pub_place">Louisville, KY</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .L88t</field>
+        <field name="state_country">Kentucky</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Memphis (Tennessee) City Schools</field>
+        <field name="title">The Memphis junior-high instrumental music curriculum</field>
+        <field name="year">1953</field>
+        <field name="date">07/1953</field>
+        <field name="pages">12</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Memphis (Tennessee) City Schools</field>
+        <field name="pub_place">Memphis, TN</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .M53c</field>
+        <field name="state_country">Tennessee</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Modesto (California) City Schools</field>
+        <field name="title">Elementary instrumental guide: oboe, flute, brass, strings, clarinet,
+            bassoon, tympani, saxophone</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="notes">1 v. various pagings</field>
+        <field name="publisher">Modesto (California) City Schools</field>
+        <field name="pub_place">Modesto, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .M69e</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Sur, William R.</field>
+        <field name="author_nat">William R. Sur</field>
+        <field name="corp_author">Music Educators National Conference (U.S.)</field>
+        <field name="title">Piano instruction in the schools; a report and interpretation of a
+            national survey</field>
+        <field name="year">1949</field>
+        <field name="date">1949</field>
+        <field name="pages">63</field>
+        <field name="keywords">Piano</field>
+        <field name="keywords">School music</field>
+        <field name="notes">vii; ill., pls. ; 23 cm.; Note(s): Also issued online.; Responsibility:
+            edited by William R. Sur.</field>
+        <field name="publisher">Music Educators National Conference</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .M98p</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">University of the State of New York. Bureau of Secondary
+            Curriculum Development</field>
+        <field name="title">Handbook for applied music, grades 7-12</field>
+        <field name="year">1957</field>
+        <field name="date">1957</field>
+        <field name="pages">183</field>
+        <field name="keywords">School music</field>
+        <field name="publisher">University of the State of New York</field>
+        <field name="pub_place">Albany, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .N53h</field>
+        <field name="state_country">New York</field>
+        <field name="grade_level_number">7th grade</field>
+        <field name="grade_level_number">8th grade</field>
+        <field name="grade_level_number">9th grade</field>
+        <field name="grade_level_number">10th grade</field>
+        <field name="grade_level_number">11th grade</field>
+        <field name="grade_level_number">12th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools</field>
+        <field name="title">Handbook for instrumental music teachers: elementary and secondary
+            schools</field>
+        <field name="year">1955</field>
+        <field name="date">06/1955</field>
+        <field name="pages">44</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Oakland (California) Public Schools</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .O11h</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Beckman, Frederick</field>
+        <field name="author_nat">Frederick Beckman</field>
+        <field name="title">Songs for color xylo</field>
+        <field name="year">1955</field>
+        <field name="date">06/1955</field>
+        <field name="pages">11</field>
+        <field name="keywords">Xylophone music</field>
+        <field name="keywords">Music</field>
+        <field name="notes">Description: 1 score (11 p.) ; 28 cm.; Responsibility: compiled by
+            Frederick Beckman.</field>
+        <field name="publisher">Philadelphia Public Schools, Division of music education</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .P54s v. 1</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="title">Suggestions for using the autoharp to enrich classroom music</field>
+        <field name="year">1959</field>
+        <field name="date">02/1959</field>
+        <field name="pages">18</field>
+        <field name="keywords">Autoharp</field>
+        <field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+        <field name="pub_place">Philadelphia, PA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .P54s v. 2</field>
+        <field name="state_country">Pennsylvania</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Ramapo Central School District No. 2 (Spring Valley, New
+            York)</field>
+        <field name="title">Recommended courses of study for woodwinds, brass and percussion
+            instruments</field>
+        <field name="year">1963</field>
+        <field name="date">1963</field>
+        <field name="pages">33</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Ramapo Central School District No. 2</field>
+        <field name="pub_place">Spring Valley, NY</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .R17r</field>
+        <field name="state_country">New York</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Sacramento (California) City Unified School District</field>
+        <field name="title">Handbook in instrumental music for elementary and junior high
+            schools</field>
+        <field name="year">1955</field>
+        <field name="date">09/1955</field>
+        <field name="pages">72</field>
+        <field name="keywords">Instrumental music</field>
+        <field name="publisher">Sacramento (California) City Unified School District</field>
+        <field name="pub_place">Sacramento, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .S12h</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+        <field name="grade_level_group">Middle school</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">San Diego (California) City Schools</field>
+        <field name="title">Treasury of melodies</field>
+        <field name="year">1944</field>
+        <field name="date">1944</field>
+        <field name="keywords">Music</field>
+        <field name="notes">v. 6 missing</field>
+        <field name="publisher">San Diego (California) City Schools</field>
+        <field name="pub_place">San Diego, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .S194t v. 1-5</field>
+        <field name="state_country">California</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Spokane (Washington) Public Schools</field>
+        <field name="title">Elementary string program</field>
+        <field name="year">1951</field>
+        <field name="date">1951</field>
+        <field name="pages">39</field>
+        <field name="keywords">Stringed instruments</field>
+        <field name="publisher">Spokane (Washington) Public Schools</field>
+        <field name="pub_place">Spokane, WA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .S76e</field>
+        <field name="state_country">Washington</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency. Division of Curriculum Development</field>
+        <field name="title">A handbook for the development of the band program</field>
+        <field name="year">1975</field>
+        <field name="date">Summer, 1975</field>
+        <field name="pages">195</field>
+        <field name="keywords">Bands</field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
+        <field name="series_vol">724</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .T35b</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Baldwin, Lillian Luverne</field>
+        <field name="author_nat">Lillian Luverne Baldwin</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools</field>
+        <field name="title">A folk song appreciation unit</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Folk songs</field>
+        <field name="keywords">Music appreciation</field>
+        <field name="keywords">Musical analysis</field>
+        <field name="notes">1 v. (unnumbered leaf) music 28 cm.; Genre/Form: Juvenile works.</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .C63f</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Baldwin, Lillian Luverne</field>
+        <field name="author_nat">Lillian Luverne Baldwin</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools</field>
+        <field name="title">Music appreciation</field>
+        <field name="pages">14</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Music appreciation</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .C63m</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Baldwin, Lillian Luverne</field>
+        <field name="author_nat">Lillian Luverne Baldwin</field>
+        <field name="corp_author">Cleveland (Ohio) Public Schools</field>
+        <field name="title">Songs from France</field>
+        <field name="pages">20</field>
+        <field name="keywords">Music</field>
+        <field name="keywords">Music appreciation</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .C63f</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Strickling, George F.</field>
+        <field name="author_nat">George F. Strickling</field>
+        <field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+        <field name="title">A syllabus for a one semester course in music literature</field>
+        <field name="year">1950</field>
+        <field name="date">09/1950</field>
+        <field name="pages">57</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Cleveland (Ohio) Public Schools</field>
+        <field name="pub_place">Cleveland, OH</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .C635s</field>
+        <field name="state_country">Ohio</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Lancaster (California) School District</field>
+        <field name="title">Educational services: listening guide, grades 2, 3, 6</field>
+        <field name="keywords">Music appreciation</field>
+        <field name="publisher">Lancaster (California) School District</field>
+        <field name="pub_place">Lancaster, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .L24L v. 2, 3, 6</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">2nd grade</field>
+        <field name="grade_level_number">3rd grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Los Angeles County (California) Office of Superintendent of
+            Schools</field>
+        <field name="title">Music listening guide: suggested recordings and teaching aids for use in
+            elementary schools</field>
+        <field name="year">1952</field>
+        <field name="date">01/1952</field>
+        <field name="pages">171</field>
+        <field name="keywords">Music appreciation</field>
+        <field name="notes">171 p. ill., music. 20 x 25 cm.</field>
+        <field name="publisher">Los Angeles County (California) Office of Superintendent of
+            Schools</field>
+        <field name="pub_place">Los Angeles, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .L87m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_group">Elementary</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency</field>
+        <field name="title">Curriculum guide for the development of the orchestra program</field>
+        <field name="year">1966</field>
+        <field name="date">04/1966</field>
+        <field name="pages">64</field>
+        <field name="keywords">Orchestra</field>
+        <field name="keywords">School music</field>
+        <field name="notes">64 p. ; 28 cm.; Note(s): Developed by the Orchestra Committee of the
+            Texas Music Educators Association./ Bibliographies: p. 59-64.</field>
+        <field name="edition">Tentative</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .T35c</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Texas Education Agency. Division of Program Development. Fine
+            Arts</field>
+        <field name="title">A handbook for the development of the orchestra program</field>
+        <field name="year">1970</field>
+        <field name="date">01/1970</field>
+        <field name="pages">100</field>
+        <field name="keywords">Orchestra</field>
+        <field name="keywords">School music</field>
+        <field name="notes">viii; 26 cm.; Note(s): Includes bibliographies.</field>
+        <field name="series_title">Texas Education Agency. Bulletin</field>
+        <field name="series_vol">694</field>
+        <field name="publisher">Texas Education Agency</field>
+        <field name="pub_place">Austin, TX</field>
+        <field name="language">English</field>
+        <field name="call_number">780.4 .T35h</field>
+        <field name="state_country">Texas</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Oakland (California) Public Schools. Department of Music</field>
+        <field name="title">Music listening guide for fifth and sixth grades</field>
+        <field name="year">1955</field>
+        <field name="date">06/1955</field>
+        <field name="pages">39</field>
+        <field name="keywords">Music</field>
+        <field name="publisher">Oakland (California) Public Schools. Department of Music</field>
+        <field name="pub_place">Oakland, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .O11m</field>
+        <field name="state_country">California</field>
+        <field name="grade_level_number">5th grade</field>
+        <field name="grade_level_number">6th grade</field>
+    </doc>
+
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Ellis, Helen Meredith</field>
+        <field name="author_nat">Helen Meredith Ellis</field>
+        <field name="title">Music for the history course</field>
+        <field name="year">1958</field>
+        <field name="date">04/1958</field>
+        <field name="pages">15</field>
+        <field name="keywords">Music</field>
+        <field name="notes">for Education 296, Dr. R. E. Gross</field>
+        <field name="publisher">Stanford University</field>
+        <field name="pub_place">Stanford, CA</field>
+        <field name="language">English</field>
+        <field name="call_number">780.5 .S79m</field>
+    </doc>
+</add>
