@@ -84,7 +84,6 @@ when adding a document.
     <field name="year" type="string" indexed="true" stored="true" />
     <field name="date" type="string" indexed="true" stored="true" />
     <field name="pages" type="string" indexed="true" stored="true" />
-    <field name="notes" type="text_general" indexed="true" stored="true" />
     <field name="abstract" type="text_general" indexed="true" stored="true" />
     <field name="publisher" type="text_general" indexed="true" stored="true" />
     <field name="pub_place" type="text_general" indexed="true" stored="true" />
@@ -103,6 +102,7 @@ when adding a document.
     <field name="grade_level_number" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="grade_level_group" type="text_general" indexed="true" stored="true" multiValued="true"/>
     <field name="state_country" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="notes" type="text_general" indexed="true" stored="true" multiValued="true"/>
     
     <!-- year sort uses new trie-based int fields, which are recommended for any int and are displayable, sortable, and range-quer
 we use 'tint' for faster range-queries. -->
