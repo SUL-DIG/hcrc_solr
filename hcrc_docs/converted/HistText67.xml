@@ -543,7 +543,8 @@
         <field name="publisher">South Dakota State Department of Public Instruction</field>
         <field name="pub_place">Pierre, SD</field>
         <field name="language">English</field>
-        <field name="state_country">780 .S72m</field>
+        <field name="call_number">780 .S72m</field>
+        <field name="state_country">South Dakota</field>
     </doc>
 
     <doc>
