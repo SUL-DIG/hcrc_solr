@@ -170,8 +170,7 @@
         <field name="type">Book</field>
         <field name="corp_author">New York City Board of Education</field>
         <field name="title">Learning about our city</field>
-        <field name="series_title">A WNYE school broadcast manual</field>
-        <field name="series_title">School Broadcast Manual 1950-51 series</field>
+        <field name="series_title">A WNYE school broadcast manual, School Broadcast Manual 1950-51 series</field>
         <field name="series_vol">2</field>
         <field name="year">1950</field>
         <field name="date">1950</field>
