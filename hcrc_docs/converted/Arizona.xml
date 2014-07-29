@@ -33,7 +33,7 @@
         <field name="keywords">University of Arizona</field>
         <field name="notes">7 p. 28 cm.; Note(s): At head of title: Fifth Legislature. First special
             session. State of Arizona./ F.A. Woodward, chairman</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <!--<field name="notes">Shelved in Cubberley Library Reading Room</field>-->
         <field name="publisher">Arizona State Legislature</field>
         <field name="pub_place">Phoenix, AZ</field>
         <field name="language">English</field>
@@ -56,7 +56,7 @@
             Conference on Education, the Department of Public Instruction is happy to be able to
             cooperate and provide the schools of Arizona with a copy of the complete reports of the
             twelve sub-committees"</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <!--<field name="notes">Shelved in Cubberley Library Reading Room</field>-->
         <field name="publisher">Arizona State Department of Public Instruction</field>
         <field name="pub_place">Phoenix, AZ</field>
         <field name="language">English</field>
@@ -74,7 +74,7 @@
         <field name="keywords">Public schools</field>
         <field name="notes">3 v. diagr. 28 cm.; Note(s): At head of title: Special Legislative
             Committee on State Operations, State of Arizona</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <!--<field name="notes">Shelved in Cubberley Library Reading Room</field>-->
         <field name="publisher">Griffenhagen &amp; Associates</field>
         <field name="pub_place">Chicago, IL</field>
         <field name="language">English</field>
@@ -91,7 +91,7 @@
         <field name="pages">12</field>
         <field name="keywords">Community colleges</field>
         <field name="notes">ill. ; 21 cm.; Note(s): Cover title./ "May, 1969."</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <!--<field name="notes">Shelved in Cubberley Library Reading Room</field>-->
         <field name="publisher">Arizona State Board of Directors for Junior Colleges</field>
         <field name="pub_place">Phoenix, AZ</field>
         <field name="language">English</field>
