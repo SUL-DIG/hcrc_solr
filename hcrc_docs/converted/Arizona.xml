@@ -1,33 +1,283 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
 
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona Teachers' Retirement System</field><field name="title">Arizona Teachers' Retirement System : a circular of information setting forth the privileges and obligations of teachers under the provisions of the Arizona Teachers' Retirement Act</field><field name="year">1947</field><field name="date">1947</field><field name="pages">38</field><field name="keywords">Pensions</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona Teachers' Retirement System</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1947</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona Teachers' Retirement System</field>
+        <field name="title">Arizona Teachers' Retirement System : a circular of information setting
+            forth the privileges and obligations of teachers under the provisions of the Arizona
+            Teachers' Retirement Act</field>
+        <field name="year">1947</field>
+        <field name="date">1947</field>
+        <field name="pages">38</field>
+        <field name="keywords">Pensions</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona Teachers' Retirement System</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1947</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="author">Woodward, F. A.</field><field name="author_nat">F. A. Woodward</field><field name="corp_author">Arizona State Legislature</field><field name="title">Report of Committee appointed to visit the University of Arizona ..</field><field name="year">1922</field><field name="date">1922</field><field name="pages">7</field><field name="keywords">University of Arizona</field><field name="notes">7 p. 28 cm.; Note(s): At head of title: Fifth Legislature. First special session. State of Arizona./ F.A. Woodward, chairman</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Legislature</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1922</field><field name="state_country">Arizona</field><field name="grade_level_group">Postsecondary</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="author">Woodward, F. A.</field>
+        <field name="author_nat">F. A. Woodward</field>
+        <field name="corp_author">Arizona State Legislature</field>
+        <field name="title">Report of Committee appointed to visit the University of Arizona
+            ..</field>
+        <field name="year">1922</field>
+        <field name="date">1922</field>
+        <field name="pages">7</field>
+        <field name="keywords">University of Arizona</field>
+        <field name="notes">7 p. 28 cm.; Note(s): At head of title: Fifth Legislature. First special
+            session. State of Arizona./ F.A. Woodward, chairman</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Legislature</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1922</field>
+        <field name="state_country">Arizona</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Public Instruction</field><field name="corp_author">Arizona White House Conference on Education</field><field name="title">Report of the Arizona White House Conference on Education</field><field name="year">1955</field><field name="date">1955</field><field name="pages">23</field><field name="keywords">Educational planning</field><field name="notes">68 pages ; 28 cm; Note(s): Cover title./ "November 1955."/ "In compliance with the instructions of the Executive Commitee of the Arizona White House Conference on Education, the Department of Public Instruction is happy to be able to cooperate and provide the schools of Arizona with a copy of the complete reports of the twelve sub-committees"</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Public Instruction</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1955</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Public Instruction</field>
+        <field name="corp_author">Arizona White House Conference on Education</field>
+        <field name="title">Report of the Arizona White House Conference on Education</field>
+        <field name="year">1955</field>
+        <field name="date">1955</field>
+        <field name="pages">23</field>
+        <field name="keywords">Educational planning</field>
+        <field name="notes">68 pages ; 28 cm; Note(s): Cover title./ "November 1955."/ "In
+            compliance with the instructions of the Executive Commitee of the Arizona White House
+            Conference on Education, the Department of Public Instruction is happy to be able to
+            cooperate and provide the schools of Arizona with a copy of the complete reports of the
+            twelve sub-committees"</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Public Instruction</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1955</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Griffenhagen &amp; Associates</field><field name="corp_author">Arizona State Legislature</field><field name="title">A report on a study of the public school system of Arizona</field><field name="year">1952</field><field name="date">1952</field><field name="keywords">Public schools</field><field name="notes">3 v. diagr. 28 cm.; Note(s): At head of title: Special Legislative Committee on State Operations, State of Arizona</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Griffenhagen &amp; Associates</field><field name="pub_place">Chicago, IL</field><field name="language">English</field><field name="call_number">379.74 .A3 1952</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Griffenhagen &amp; Associates</field>
+        <field name="corp_author">Arizona State Legislature</field>
+        <field name="title">A report on a study of the public school system of Arizona</field>
+        <field name="year">1952</field>
+        <field name="date">1952</field>
+        <field name="keywords">Public schools</field>
+        <field name="notes">3 v. diagr. 28 cm.; Note(s): At head of title: Special Legislative
+            Committee on State Operations, State of Arizona</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Griffenhagen &amp; Associates</field>
+        <field name="pub_place">Chicago, IL</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1952</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Board of Directors for Junior Colleges</field><field name="title">We believe : Arizona, its community junior colleges</field><field name="year">1969</field><field name="date">1969</field><field name="pages">12</field><field name="keywords">Community colleges</field><field name="notes">ill. ; 21 cm.; Note(s): Cover title./ "May, 1969."</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Board of Directors for Junior Colleges</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1969</field><field name="state_country">Arizona</field><field name="grade_level_group">Postsecondary</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Board of Directors for Junior Colleges</field>
+        <field name="title">We believe : Arizona, its community junior colleges</field>
+        <field name="year">1969</field>
+        <field name="date">1969</field>
+        <field name="pages">12</field>
+        <field name="keywords">Community colleges</field>
+        <field name="notes">ill. ; 21 cm.; Note(s): Cover title./ "May, 1969."</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Board of Directors for Junior Colleges</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1969</field>
+        <field name="state_country">Arizona</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State College at Tempe</field><field name="title">School &amp; college : a report for Arizona educators</field><field name="year">1956</field><field name="date">10/1956</field><field name="pages">19</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Bureau of Educational Research and Service, College of Education, Arizona State College</field><field name="pub_place">Tempe, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1956</field><field name="state_country">Arizona</field><field name="grade_level_group">Postsecondary</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State College at Tempe</field>
+        <field name="title">School &amp; college : a report for Arizona educators</field>
+        <field name="year">1956</field>
+        <field name="date">10/1956</field>
+        <field name="pages">19</field>
+        <field name="keywords">Education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Bureau of Educational Research and Service, College of Education,
+            Arizona State College</field>
+        <field name="pub_place">Tempe, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1956</field>
+        <field name="state_country">Arizona</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Junior College Survey Committee</field><field name="title">Report of the Junior College Survey Committee to the twenty-fourth legislature first regular session</field><field name="year">1958</field><field name="date">1958</field><field name="pages">93</field><field name="keywords">Junior colleges</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">State of Arizona</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1958</field><field name="state_country">Arizona</field><field name="grade_level_group">Postsecondary</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Junior College Survey Committee</field>
+        <field name="title">Report of the Junior College Survey Committee to the twenty-fourth
+            legislature first regular session</field>
+        <field name="year">1958</field>
+        <field name="date">1958</field>
+        <field name="pages">93</field>
+        <field name="keywords">Junior colleges</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">State of Arizona</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1958</field>
+        <field name="state_country">Arizona</field>
+        <field name="grade_level_group">Postsecondary</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Education</field><field name="title">A profile of Arizona teachers and administrators</field><field name="year">1971</field><field name="date">1971</field><field name="pages">119</field><field name="keywords">School administrators</field><field name="keywords">Teachers</field><field name="notes">viii; graphs ; 26 cm.; Genre/Form: Statistics.; Responsibility: prepared by Arizona Department of Education, Division of Planning and Evaluation</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Education</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1971</field><field name="state_country">Arizona</field></doc>
+<!--    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Education</field>
+        <field name="title">A profile of Arizona teachers and administrators</field>
+        <field name="year">1971</field>
+        <field name="date">1971</field>
+        <field name="pages">119</field>
+        <field name="keywords">School administrators</field>
+        <field name="keywords">Teachers</field>
+        <field name="notes">viii; graphs ; 26 cm.; Genre/Form: Statistics.; Responsibility: prepared
+            by Arizona Department of Education, Division of Planning and Evaluation</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Education</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1971</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Administration, Library, Archives and Public Records Division</field><field name="title">Guidelines, school districts, retention &amp; disposal of records</field><field name="year">1975</field><field name="date">01/1975</field><field name="pages">7</field><field name="keywords">School districts</field><field name="notes">7 leaves ; 28 cm.; Genre/Form: Records and correspondence. Records (Sports); Responsibility: compiled by Division of Library, Archives and Public Records, Auditor General and Arizona Association of School Business Officials</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Administration, Library, Archives and Public Records Division</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1975</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Administration, Library, Archives and
+            Public Records Division</field>
+        <field name="title">Guidelines, school districts, retention &amp; disposal of
+            records</field>
+        <field name="year">1975</field>
+        <field name="date">01/1975</field>
+        <field name="pages">7</field>
+        <field name="keywords">School districts</field>
+        <field name="notes">7 leaves ; 28 cm.; Genre/Form: Records and correspondence. Records
+            (Sports); Responsibility: compiled by Division of Library, Archives and Public Records,
+            Auditor General and Arizona Association of School Business Officials</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Administration, Library, Archives and
+            Public Records Division</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1975</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Education</field><field name="title">Discipline resource guide : suggestions from the Discipline Task Force</field><field name="year">1977</field><field name="date">11/1977</field><field name="pages">64</field><field name="keywords">School discipline</field><field name="notes">vi, 64 : forms ; 28 cm; Note(s): "November, 1977."; Other Titles: Suggestions from the Discipline Task Force</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Education</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1977</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Education</field>
+        <field name="title">Discipline resource guide : suggestions from the Discipline Task
+            Force</field>
+        <field name="year">1977</field>
+        <field name="date">11/1977</field>
+        <field name="pages">64</field>
+        <field name="keywords">School discipline</field>
+        <field name="notes">vi, 64 : forms ; 28 cm; Note(s): "November, 1977."; Other Titles:
+            Suggestions from the Discipline Task Force</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Education</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1977</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Education</field><field name="corp_author">Phoenix Metropolitan Chamber of Commerce</field><field name="title">Financing better education-- alternatives? : a report on the conference</field><field name="date">1972?</field><field name="pages">48</field><field name="keywords">School finance</field><field name="notes">ii, 48 leaves ; 28 cm.; Genre/Form: Conference proceedings.; Note(s): Cover title./ Held Jan. 4th and 5th in Phoenix, sponsored jointly by the Arizona State Dept. of Education and the Phoenix Chamber of Commerce.; Other Titles: Financing better education :; a report on the conference</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Education</field><field name="pub_place">Phoenix. AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1972</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Education</field>
+        <field name="corp_author">Phoenix Metropolitan Chamber of Commerce</field>
+        <field name="title">Financing better education-\- alternatives? : a report on the
+            conference</field>
+        <field name="date">1972?</field>
+        <field name="pages">48</field>
+        <field name="keywords">School finance</field>
+        <field name="notes">ii, 48 leaves ; 28 cm.; Genre/Form: Conference proceedings.; Note(s):
+            Cover title./ Held Jan. 4th and 5th in Phoenix, sponsored jointly by the Arizona State
+            Dept. of Education and the Phoenix Chamber of Commerce.; Other Titles: Financing better
+            education :; a report on the conference</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Education</field>
+        <field name="pub_place">Phoenix. AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1972</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Education</field><field name="title">Declining enrollment conference report</field><field name="year">1977</field><field name="date">06/1977</field><field name="pages">26</field><field name="keywords">School attendance</field><field name="notes">x; ges : illustrations ; 28 cm; Genre/Form: Conference proceedings.; Note(s): Conference held Dec. 3, 1976./ Includes bibliographical references (pages 23-26)</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Education</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1977</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Education</field>
+        <field name="title">Declining enrollment conference report</field>
+        <field name="year">1977</field>
+        <field name="date">06/1977</field>
+        <field name="pages">26</field>
+        <field name="keywords">School attendance</field>
+        <field name="notes">x; ges : illustrations ; 28 cm; Genre/Form: Conference proceedings.;
+            Note(s): Conference held Dec. 3, 1976./ Includes bibliographical references (pages
+            23-26)</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Education</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1977</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Education</field><field name="title">Arizona Department of Education publications catalog</field><field name="date">1977?</field><field name="keywords">Catalogs</field><field name="notes">Frequency: Annual; volumes ; 22-28 cm</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Education</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1977</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Education</field>
+        <field name="title">Arizona Department of Education publications catalog</field>
+        <field name="date">1977?</field>
+        <field name="keywords">Catalogs</field>
+        <field name="notes">Frequency: Annual; volumes ; 22-28 cm</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Education</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1977</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">MAP</field><field name="corp_author">Arizona Public Service Company</field><field name="title">State of Arizona school district map</field><field name="keywords">School districts</field><field name="notes">Description: 1 map : photocopy ; 70 x 58 cm.; Genre/Form: Maps.; Note(s): Includes inset: Phoenix Union High School District./ Includes: Composition of high school districts.; Responsibility: map prepared by System Mapping Section, Arizona Public Service Co</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona Public Service Company</field><field name="pub_place">Phoenix, AZ</field><field name="language">English</field><field name="call_number">379.74 .A3 1977</field><field name="state_country">Arizona</field></doc>
+    <doc>
+        <field name="type">MAP</field>
+        <field name="corp_author">Arizona Public Service Company</field>
+        <field name="title">State of Arizona school district map</field>
+        <field name="keywords">School districts</field>
+        <field name="notes">Description: 1 map : photocopy ; 70 x 58 cm.; Genre/Form: Maps.;
+            Note(s): Includes inset: Phoenix Union High School District./ Includes: Composition of
+            high school districts.; Responsibility: map prepared by System Mapping Section, Arizona
+            Public Service Co</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona Public Service Company</field>
+        <field name="pub_place">Phoenix, AZ</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1977</field>
+        <field name="state_country">Arizona</field>
+    </doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Arizona State Department of Education</field><field name="title">Evaluation analysis report for the Arizona Education Program</field><field name="date">1977?</field><field name="keywords">Migrant education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Arizona State Department of Education</field><field name="language">English</field><field name="call_number">379.74 .A3 1976-77</field><field name="state_country">Arizona</field></doc>
-</add>
+    <doc>
+        <field name="type">Book</field>
+        <field name="corp_author">Arizona State Department of Education</field>
+        <field name="title">Evaluation analysis report for the Arizona Education Program</field>
+        <field name="date">1977?</field>
+        <field name="keywords">Migrant education</field>
+        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <field name="publisher">Arizona State Department of Education</field>
+        <field name="language">English</field>
+        <field name="call_number">379.74 .A3 1976-77</field>
+        <field name="state_country">Arizona</field>
+    </doc>
+--></add>
