@@ -1,0 +1,74 @@
+== Procedure for Updating the HCRC SOLR Index
+
+The following procedure is a basic recipe for updating the SOLR index for the application at http://hcrc.stanford.edu. All processes performed on the SOLR index must be done so from the dig-dev.stanford.edu server. If you have issues with accessing that server with your permissions, please contact the system administrator through JIRA.
+
+== Adding New Records to the Github Repository
+
+1. Make sure that you have cloned a copy of the hcrc_solr repository from https://github.com/SUL-DIG/hcrc_solr/. 
+
+2. Once you have a copy of the repository on your machine, navigate to the hcrc_solr repository folder on your machine and copy your new files into  hcrc_docs/to_convert.
+
+3. Open Terminal
+
+4. Navigate to the hcrc_solr folder by using the cd command.
+
+5. Update the repository with your new documents by entering the following commands.
+       git add .
+       git commit -m "Type the reason for your commit here."
+       git push
+       Enter in your username and password if prompted.
+
+== Transforming Records into SOLR Documents
+
+1. Navigate to the scripts folder.
+       cd hcrc_docs/scripts
+
+2. Begin the transformation process.
+       ruby transform.rb
+
+3. If you notice any errors in the output in terminal, most likely you have a structural error in the records. The output should tell you the filename and line number where the error occurred.
+
+4. After the process is finished, your original records should have been moved to hcrc_solr/hcrc_docs/originals, and the SOLR documents should be in hcrc_solr/hcrc_docs/converted. Go into the converted folder and verify that the documents are well-formed before updating the Github repository.
+
+5. Go back to the root folder for hcrc_solr and update the repository with your newly converted SOLR documents by entering the following commands.
+       git add .
+       git commit -m "Type the reason for your commit here."
+       git push
+       Enter in your username and password if prompted.
+
+== Updating the SOLR Index
+
+1. Once you have updated the Github repository, log onto the dig-dev.stanford.edu server. 
+       ssh blacklight@dig-dev.stanford.edu
+
+2. Navigate to the SOLR transformation folder for the HCRC application.
+       cd dig/public/cubb-hcrc/shared/hcrc_solr
+
+3. Now pull down the most recent repository.
+       git pull
+
+4. Next, navigate to the converted folder.
+       cd hcrc_docs/converted
+
+5. The first thing you will need to do is delete the existing records in the test index. 
+       curl https://sul-solr.stanford.edu/solr/dig_hcrc_test/update --data '<delete><query>*:*</query></delete>' -H 'Content-type:text/xml; charset=utf-8'  
+
+       curl https://sul-solr.stanford.edu/solr/dig_hcrc_test/update --data '<commit/>' -H 'Content-type:text/xml; charset=utf-8'
+
+6. Now you need to begin reposting all of the SOLR documents to the index (both the old ones and the new ones).
+       ./post_dev.sh *.xml
+
+7. Go back through the output to make sure there aren't any errors in updating the index.
+
+8. Once you have confirmed that all of SOLR documents posted to the index with no errors, perform the same process for the production index.
+       curl https://sul-solr.stanford.edu/solr/dig_hcrc_prod/update --data '<delete><query>*:*</query></delete>' -H 'Content-type:text/xml; charset=utf-8'  
+
+       curl https://sul-solr.stanford.edu/solr/dig_hcrc_prod/update --data '<commit/>' -H 'Content-type:text/xml; charset=utf-8'
+
+       ./post_prod.sh *.xml
+
+9. The index should now be updated and reflected in the facets and search functionalities within 5-10 minutes at http://hcrc.stanford.edu.
+
+== Questions
+
+Should you have any questions about this process, feel free to contact gworthey@stanford.edu or jacqueline.hettel@gmail.com.
