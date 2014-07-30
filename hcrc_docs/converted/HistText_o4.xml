@@ -1252,6 +1252,8 @@ three series on intergroup relationships, using films as major teaching material
 <field name="publisher">Indiana University</field>
 <field name="pub_place">Bloomington, IN</field>
 <field name="pages">117</field>
+<field name="language">English</field>
+<field name="call_number">370.7 .I39f</field>
 <field name="state_country">Indiana</field>
 </doc>
 
