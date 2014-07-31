@@ -1347,7 +1347,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <doc>
+ <!--   <doc>
         <field name="type">Book</field>
         <field name="corp_author">Houston (Texas) Public Schools</field>
         <field name="title">World history I-II</field>
@@ -1363,7 +1363,7 @@
         <field name="language">English</field>
         <field name="call_number">925 .H84w</field>
         <field name="state_country">Texas</field>
-    </doc>
+    </doc>-->
 
     <!--<doc>
         <field name="type">Book</field>
