@@ -33,7 +33,7 @@
         <field name="keywords">University of Arizona</field>
         <field name="notes">7 p. 28 cm.; Note(s): At head of title: Fifth Legislature. First special
             session. State of Arizona./ F.A. Woodward, chairman</field>
-        <field name="notes">Shelved in Cubberley Library Reading Room</field>
+        <!--<field name="notes">Shelved in Cubberley Library Reading Room</field>-->
         <field name="publisher">Arizona State Legislature</field>
         <field name="pub_place">Phoenix, AZ</field>
         <field name="language">English</field>
