@@ -20,7 +20,7 @@
         <field name="state_country">Arizona</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="author">Woodward, F. A.</field>
         <field name="author_nat">F. A. Woodward</field>
@@ -64,7 +64,7 @@
         <field name="state_country">Arizona</field>
     </doc>
 
-    <doc>
+   <!-- <doc>
         <field name="type">Book</field>
         <field name="corp_author">Griffenhagen &amp; Associates</field>
         <field name="corp_author">Arizona State Legislature</field>
