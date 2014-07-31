@@ -20,7 +20,7 @@
         <field name="state_country">Arizona</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Woodward, F. A.</field>
         <field name="author_nat">F. A. Woodward</field>
@@ -116,7 +116,7 @@
         <field name="call_number">379.74 .A3 1956</field>
         <field name="state_country">Arizona</field>
         <field name="grade_level_group">Postsecondary</field>
-    </doc>
+    </doc>-->
 
     <!--<doc>
         <field name="type">Book</field>
