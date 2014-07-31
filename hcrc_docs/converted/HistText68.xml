@@ -1326,7 +1326,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Burston, Wyndham Hedley</field>
         <field name="author_nat">Wyndham Hedley Burston</field>
@@ -1345,7 +1345,7 @@
         <field name="call_number">925 .H65t no. 17</field>
         <field name="state_country">United Kingdom</field>
         <field name="grade_level_group">High school</field>
-    </doc>
+    </doc>-->
 
  <!--   <doc>
         <field name="type">Book</field>
