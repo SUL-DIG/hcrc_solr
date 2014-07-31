@@ -666,7 +666,7 @@
         <field name="grade_level_number">6th grade</field>
     </doc>
 
-    <!--<doc>
+    <doc>
         <field name="type">Book</field>
         <field name="corp_author">Portland (Oregon) Public Schools</field>
         <field name="title">Twelfth grade elective geography</field>
@@ -761,7 +761,7 @@
         <field name="type">Book</field>
         <field name="corp_author">Pomona (California) City Schools</field>
         <field name="title">Pomona City schools curriculum monograph for social studies department,
-            area-\-place geography, level-\-secondary</field>
+            area--place geography, level--secondary</field>
         <field name="year">1950</field>
         <field name="date">05/1950</field>
         <field name="pages">21</field>
@@ -841,8 +841,8 @@
         <field name="pages">62</field>
         <field name="keywords">Maps</field>
         <field name="keywords">Globes</field>
-        <field name="abstract">Interpreting maps -\- Using maps in actual situations -\- Selecting and
-            procuring maps -\- Evolving long-range plans -\- Handling and caring for maps -\- Locating
+        <field name="abstract">Interpreting maps -- Using maps in actual situations -- Selecting and
+            procuring maps -- Evolving long-range plans -- Handling and caring for maps -- Locating
             more information.</field>
         <field name="notes">vii; ges illustrations, maps 23 cm.; Note(s): Includes bibliographical
             references (pages 60-62).</field>
@@ -959,7 +959,7 @@
         <field name="keywords">Maps</field>
         <field name="notes">63 leaves ; 22 x 27 cm.; Note(s): "September, 1964."/ "Compiled as a
             part of the work of an in-service class in the social studies under the direction of
-            Mrs. Uriel L. Shields, Consultant in Elementary Education"-\-Foreword./ Includes
+            Mrs. Uriel L. Shields, Consultant in Elementary Education"--Foreword./ Includes
             bibliographical references (leaves 62-63).; Responsibility: Donald R. Sheldon, Jeff B.
             West.</field>
         <field name="series_title">Stockton (California) Unified School District. Curriculum
@@ -1222,7 +1222,7 @@
         <field name="state_country">United Kingdom</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="author">Chaloner, W. H.</field>
         <field name="author_nat">W. H. Chaloner</field>
