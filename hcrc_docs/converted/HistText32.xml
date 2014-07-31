@@ -144,6 +144,7 @@ Services</field>
 <field name="pub_place">Hartford, CT</field>
 <field name="language">English</field>
 <field name="call_number">428.7 .C75w</field>
+<field name="call_number">371.9 .C75s</field>
 <field name="state_country">Connecticut</field>
 <field name="grade_level_group">Elementary</field>
 </doc>
