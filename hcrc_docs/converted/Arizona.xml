@@ -118,7 +118,7 @@
         <field name="grade_level_group">Postsecondary</field>
     </doc>
 
-    <doc>
+    <!--<doc>
         <field name="type">Book</field>
         <field name="corp_author">Junior College Survey Committee</field>
         <field name="title">Report of the Junior College Survey Committee to the twenty-fourth
@@ -200,7 +200,7 @@
         <field name="type">Book</field>
         <field name="corp_author">Arizona State Department of Education</field>
         <field name="corp_author">Phoenix Metropolitan Chamber of Commerce</field>
-        <field name="title">Financing better education-- alternatives? : a report on the
+        <field name="title">Financing better education-\- alternatives? : a report on the
             conference</field>
         <field name="date">1972?</field>
         <field name="pages">48</field>
@@ -280,4 +280,4 @@
         <field name="call_number">379.74 .A3 1976-77</field>
         <field name="state_country">Arizona</field>
     </doc>
-</add>
+--></add>
