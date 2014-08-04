@@ -1,0 +1,51 @@
+
+
+TY  - BOOK
+A1  - Cook, Katherine M.
+A2  - United States Office of Education
+T1  - Public education in the Panama Canal zone
+Y1  - 1939
+D1  - 1939
+SP  - 63
+KW  - Public schools
+KW  - Canal Zone
+N1  - v; ill., charts, tables, folded map ; 23 cm.; Note(s): At bottom of title: United States Department of the Interior, Harold L. Ickes, Secretary. Office of Education, J.W. Studebaker, Commissioner./ Includes bibliographical references (p. 56).; Responsibility: by Katherine M. Cook, chief, Division of Special Problems, Office of Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - United States Office of Education bulletin
+V1  - 8
+PB  - United States Office of Education
+CY  - Washington, D.C
+LA  - English
+CN  - 379.74 .C2 1939
+SC  - Panama Canal Zone
+ER  -
+
+TY  - BOOK
+A1  - Lang, Albert R.
+T1  - A resume of the Canal Zone public school system, 1917
+Y1  - 1917
+D1  - 1917
+SP  - 19
+KW  - Public schools
+KW  - Canal Zone
+N1  - 19 p. 21 cm.; Note(s): Cover title./ At head of title: The Panama Canal./ Extract from "Year Book, Society of the Chagres, 1916-17."; Responsibility: by Albert R. Lang
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Balboa Heights, C.Z.
+LA  - English
+CN  - 379.74 .C2 1917
+SC  - Panama Canal Zone
+ER  -
+
+TY  - BOOK
+A2  - Panama Canal Executive Office
+T1  - Rules for the employment of apprentices
+Y1  - 1920
+D1  - 1920
+SP  - 9
+KW  - Apprentices
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Panama Canal Executive Office
+LA  - English
+CN  - 379.74 .C2 1939
+SC  - Panama Canal Zone
+ER  -

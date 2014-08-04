@@ -1,0 +1,430 @@
+
+
+TY  - BOOK
+A1  - Bradford, Mary Carroll Craig
+A2  - Colorado State Department of Public Instruction
+T1  - A course of study for the public schools of Colorado
+Y1  - 1916
+D1  - 1916
+SP  - 430
+KW  - Curricula
+KW  - High schools
+N1  - 430 p. illus.; maps, tables, diagrs. 23 cm.; Responsibility: Issued by the Dept. of public instruction. Mary C.C. Bradford, superintendent, 1914
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev.
+PB  - Colorado State Department of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1916
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado Teacher's Association
+T1  - Report to the Educational Council of the committee on the length of the combined school and college course
+Y1  - 1906
+D1  - 1906
+SP  - 67
+KW  - History
+N1  - 67 ; 23 cm.; Other Titles: At head of title :; Colorado Teacher's Association
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado Teacher's Association
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1906
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Craig,Katherine L.
+A2  - Colorado State Department of Public Instruction
+T1  - State course of study for the elementary and high schools of Colorado
+D1  - 1907?
+KW  - Curricula
+KW  - High schools
+N1  - 70 pages : illustrations ; 21 cm; Note(s): On cover: State course of study, public schools.; Other Titles: State course of study, public schools; Responsibility: prepared by Katherine L. Craig
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Department of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1907
+SC  - Colorado
+G1  - Elementary
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Bradford, Mary Carroll Craig
+A2  - Colorado State Department of Public Instruction
+T1  - A war-modified course of study for the public schools of Colorado
+Y1  - 1918
+D1  - 1918
+KW  - Curricula
+N1  - I. Social subjects. -- II. The tools of education. -- III. The world of nature and of man. -- IV. Special subjects. -- V. Outline courses for high schools, junior and senior high school courses, four year high school outline miscellaneous.
+N1  - War-modified course of study for the public schools of Colorado.; Denver, Eames Bros., State printers, 1918; Responsibility: Issued by the Department of public instruction. Mary C. C. Bradford, superintendent, 1918. Vol. I-V ... Prepared by Mary C. C. Bradford and co-operating educators
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Department of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1918
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Board for Vocational Education
+T1  - Colorado state plan for vocational education and vocational rehabilitation, July 1, 1937 to June 30, 1942 : regulations governing federal and state aided vocational education activites operating under the national and state vocational education and vocational rehabilitation acts
+D1  - 1937?
+SP  - 211
+KW  - Vocational education
+N1  - pt. I. Vocational education -- pt. II. Vocational rehabilitation.
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Board for Vocational Education Bulletin
+V1  - 1
+PB  - Colorado State Board for Vocational Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1937-42
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Teachers College.  Department of Educational Research
+A2  - Colorado Research Foundation
+T1  - High school opportunities in Colorado
+Y1  - 1927
+D1  - 08/1927
+SP  - 83
+KW  - High schools
+N1  - viii; ges : including illustrations, tables.; Note(s): At head of title: Colorado state teachers college./ On cover: Colorado state teachers college bulletin, series xxvii, no. 5. August 1927./ "A sum of money .. from sources outside of the funds of the college ... was handled under the name of the Colorado research foundation."--Page iii
+N1 - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Teachers College
+CY  - Greeley, CO
+LA  - English
+CN  - 379.74 .C3r 1927
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Colorado Association of School Boards
+A2  - Colorado State Department of Education
+T1  - Handbook for Colorado school directors : a guide for effective membership in local school boards
+Y1  - 1958
+D1  - 1958
+SP  - 55
+KW  - School boards
+N1  - 55 pages ; 23 cm; Genre/Form: Handbooks, manuals, etc.; Responsibility: prepared jointly by Colorado Association of School Boards and Colorado State Department of Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1958
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Legislative Council
+T1  - Comic books related matters and problems : Legislative Council report to the Colorado General Assembly
+Y1  - 1956
+D1  - 1956
+SP  - 34
+KW  - Comic books, strips, etc.
+KW  - Censorship
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Legislative Council research publication
+V1  - 19
+PB  - Colorado State Legislative Council
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1956
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Legislative Council
+T1  - Elementary and secondary public school finance report to the Colorado General Assembly
+Y1  - 1956
+D1  - 1956
+SP  - 111
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Legislative Council research publication
+V1  - 17-1
+PB  - Colorado State Legislative Council
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1956
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Report of second annual Workshop for Teachers and Administrators of the Rocky Mountain Area Project for Small High Schools : Aspen, Colorado, summer 1959
+Y1  - 1959
+D1  - 1959
+SP  - 84
+KW  - Rural schools
+N1  - ii, 78 leaves ; 28 cm; Note(s): Includes bibliographical references.; Other Titles: second annual workshop, Rocky Mountain Area Project for Small High Schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Workshop for Teachers and Administrators of the Rocky Mountain Area Project for Small High Schools (1959 : Aspen, Colo.)
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1959
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Legislative Council
+T1  - Educational endeavor in Colorado : a progress report : report to the Colorado General Assembly
+Y1  - 1961
+D1  - 12/1961
+SP  - 8
+KW  - Education
+N1  - iii; ; 28 cm.; Note(s): "December 1961"--Cover./ Includes bibliographical references (p. 8).; Other Titles: Progress report on educational endeavor in Colorado
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Legislative Council
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1961
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Legislative Council
+T1  - Sales ratio report for July 1959 through December 1960 and July 1957 through December 1960. Part 1 : Legislative Council report to the Colorado General Assembly
+Y1  - 1961
+D1  - 09/1961
+SP  - 25
+KW  - Taxation
+N1  - iii; maps ; 28 cm.; Note(s): Includes statistics./ Cover title: Sales ratio study./ "September 1961"--Cover.; Other Titles: Sales ratio study.; Part 1.
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Legislative Council research report
+V1  - 51
+PB  - Colorado State Legislative Council
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1961
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Potts, Alfred M.
+A1  - Redbird-Selam, Helen Marie
+A2  - Colorado Migrant Education Research Project
+A2  - Colorado State Department of Education
+T1  - Providing education for migrant children
+Y1  - 1961
+D1  - 1961
+SP  - 148
+KW  - Children of migrant laborers
+N1  - Origin and support for this study -- The development of Colorado agriculture -- The Colorado migrant flow -- Social profile of agricultural migratory people -- History of migrant education in Colorado -- Findings of the testing programs -- Enrolling migrant pupils -- Survey of school districts having migrant children in regular terms -- Organization for migrant education.; Research on summer school education for migrant children, provided since 1955 by the Colorado Department of Education. "To facilitate the research and experimentation, the Colorado program ... was associated with the Migrant Education Research Program"--P.1.
+N1  - ill..; 28 cm.; Responsibility: Alfred M. Potts ; chapter VI by Helen Marie Redbird ; hand illustrations, Verna Katona ; photos, Myron Wood
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1961
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Financing Colorado's public schools
+Y1  - 1969
+D1  - 01/1969
+SP  - 12
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Department of Education special report
+V1  - 8
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1969
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Goals for education in Colorado
+Y1  - 1962
+D1  - 1962
+SP  - 9
+KW  - Curricula
+N1  - 11 p. ; 10 cm.; Entry: 19820914; Update: 20140420
+PB  - Shelved in Cubberley Library Reading Room
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1962
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+A2  - Colorado Council on Educational Research
+T1  - Colorado graduate research studies in education
+Y1  - 1963
+D1 -  1963
+SP  - 36
+KW  - Bibliography
+KW  - Academic dissertations
+N1  - 1957/58-; Genre/Form: Bibliography.; Geographic: Colorado. United States.; Note(s): "A bibliographical listing and summaries of selected studies."/ Vols. for 1957/58- prepared in cooperation with the Colorado Council on Educational Research
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1963
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Certification of professional school personnel in Colorado : a complilation of Colorado school laws, rules, and regulations relating to the adminstration of the Teacher Certification Act of 1961
+Y1  - 1961
+D1  - 10/1961
+SP  - 15
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1961
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Legislative Council
+T1  - Committee on Denver area schools : report to the Colorado General Assembly
+Y1  - 1974
+D1  - 1974
+SP  - 48
+KW  - Schools
+N1  - v; ; 28 cm.; Responsibility: Colorado Legislative Council
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Legislative Council research publication
+V1  - 209
+PB  - Colorado State Legislative Council
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1974
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Curriculum Information Center
+T1  - Summary of school statistics by county : school year 1974-1956
+D1  - 1975?
+SP  - 99
+KW  - Statistics
+KW  - Schools
+N1  - Genre/Form: Statistics.; Note(s): Chiefly tables.; Responsibility: Curriculum Information Center, Inc
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Curriculum Information Center
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1974-75
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Salaries and related information Certified personnel, Fall 1980
+Y1  - 1976
+D1  - 05/1976
+SP  - 47
+KW  - Pensions
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado Sate Department of Education statistical series
+V1  - 76-3
+PB  - Colorado Sate Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1976
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Advisory Council for Vocational Education
+T1  - Annual report - State Advisory Council for Vocational Education in Colorado
+Y1  - 1970
+D1  - 07/1970
+SP  - 10
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Advisory Council for Vocational Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1970
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Education issues in Colorado; a compilation of some of the major issues facing education today
+Y1  - 1972
+D1  - 1972
+SP  - 196
+KW  - Education
+N1  - 196 p. 28 cm.; Note(s): Includes bibliographical references
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1972
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Financial information, Colorado school districts, 1970-71
+Y1  - 1972
+D1  - 03/1972
+SP  - 57
+KW  - School finance
+N1  - iii; ges : illustrations ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ Chiefly tables./ "March 1972."; Responsibility: prepared by Unit of Information Systems and Certification
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Department of Education statistical series
+V1  - 72-6
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1972
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Legislative Council
+T1  - State aid to schools in Colorado; report to the Colorado General Assembly
+Y1  - 1966
+D1  - 11/1966
+SP  - 358
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Legislative Council research publication
+V1  - 117
+PB  - Colorado State Legislative Council
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1966
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado State Department of Education
+T1  - Revenues and expenditures, Colorado school districts 1972-73
+Y1  - 1974
+D1  - 04/1974
+SP  - 24
+KW  - School finance
+N1  - Genre/Form: Periodicals. Statistics.; Geographic: Colorado.; Responsibility: prepared by School Finance and Data Services, Office of Department Management Services
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Colorado State Department of Education statistical series
+V1  - 74-3
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .C3 1972-73
+SC  - Colorado
+ER  - 
