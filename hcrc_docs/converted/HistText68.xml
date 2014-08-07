@@ -832,6 +832,7 @@
         <field name="state_country">California</field>
     </doc>
 
+<!-- 
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Florida State Department of Education</field>
@@ -841,8 +842,8 @@
         <field name="pages">62</field>
         <field name="keywords">Maps</field>
         <field name="keywords">Globes</field>
-        <field name="abstract">Interpreting maps -- Using maps in actual situations -- Selecting and
-            procuring maps -- Evolving long-range plans -- Handling and caring for maps -- Locating
+        <field name="abstract">Interpreting maps ~~ Using maps in actual situations ~~ Selecting and
+            procuring maps ~~ Evolving long-range plans ~~ Handling and caring for maps ~~ Locating
             more information.</field>
         <field name="notes">vii; ges illustrations, maps 23 cm.; Note(s): Includes bibliographical
             references (pages 60-62).</field>
@@ -959,7 +960,7 @@
         <field name="keywords">Maps</field>
         <field name="notes">63 leaves ; 22 x 27 cm.; Note(s): "September, 1964."/ "Compiled as a
             part of the work of an in-service class in the social studies under the direction of
-            Mrs. Uriel L. Shields, Consultant in Elementary Education"--Foreword./ Includes
+            Mrs. Uriel L. Shields, Consultant in Elementary Education"~~Foreword./ Includes
             bibliographical references (leaves 62-63).; Responsibility: Donald R. Sheldon, Jeff B.
             West.</field>
         <field name="series_title">Stockton (California) Unified School District. Curriculum
@@ -1406,14 +1407,14 @@
         <field name="keywords">Monmouth's Rebellion, 1685</field>
         <field name="keywords">History</field>
         <field name="keywords">Great Britain</field>
-        <field name="abstract">Introductory leaflet -- 1. Map from Itinerarium Angliae / by John
-            Ogilby, 1675 -- 2. Four pages from the Duke of Monmouth's pocket book -- 3. Edward
-            Dummer's plans of the Battle of Sedgemoor -- 4. Letter from Lord Chief Justice Jeffreys
-            to King James II -- 5. Extract from An Account of the Proceedings Against the Rebells --
-            6. Letter from the Duke of Monmouth to James II -- 7. Extract from A Relation of the
-            Great Sufferings of Henry Pitman -- 8. Monmouth's declaration of illegitimacy, in his
-            own hand -- 9. Monmouth's death warrant -- 10. Print of Judge Jeffreys being caught in
-            Wapping -- 11. Transcripts of Exhibits 2, 4 and 6 -- 12. Five broadsheets : I. The new
+        <field name="abstract">Introductory leaflet ~~ 1. Map from Itinerarium Angliae / by John
+            Ogilby, 1675 ~~ 2. Four pages from the Duke of Monmouth's pocket book ~~ 3. Edward
+            Dummer's plans of the Battle of Sedgemoor ~~ 4. Letter from Lord Chief Justice Jeffreys
+            to King James II ~~ 5. Extract from An Account of the Proceedings Against the Rebells ~~
+            6. Letter from the Duke of Monmouth to James II ~~ 7. Extract from A Relation of the
+            Great Sufferings of Henry Pitman ~~ 8. Monmouth's declaration of illegitimacy, in his
+            own hand ~~ 9. Monmouth's death warrant ~~ 10. Print of Judge Jeffreys being caught in
+            Wapping ~~ 11. Transcripts of Exhibits 2, 4 and 6 ~~ 12. Five broadsheets : I. The new
             King ; II. The exiled Duke ; III. The last battle ; IV. "The Hanging Judge" ; V. The
             aftermath.; Time: 1660 - 1685</field>
         <field name="notes">1 portfolio, facsims.; rts. 23 x 35 cm.; Genre/Form: Facsimiles.
@@ -1435,7 +1436,7 @@
         <field name="title">The French Revolution; a collection of contemporary documents</field>
         <field name="keywords">French Revolution</field>
         <field name="keywords">France</field>
-        <field name="abstract">v. 1. The fall of the Bastille.--v. 2. The Terror.; Time: 1789 -
+        <field name="abstract">v. 1. The fall of the Bastille.~~v. 2. The Terror.; Time: 1789 -
             1799</field>
         <field name="notes">2 portfolios. illus. (part col.), facsims., map, plan; rts. 23 x 35 cm.;
             Genre/Form: History. Sources.; Note(s): Includes introductory sheets, reproductions of
@@ -1457,15 +1458,15 @@
         <field name="title">Magna carta: a collection of contemporary documents</field>
         <field name="keywords">Magna carta</field>
         <field name="keywords">History</field>
-        <field name="abstract">Introductory sheet (1 folded sheet) -- Facsimile of Magna Carta from
-            Lincoln Cathedral -- Translation of Magna Carta -- Facsimile of Charter Roll, 1199 --
-            Facsimile of a Pipe Roll, 1130 -- Two pages from a Bestiary of the late 12th century (1
-            sheet) -- King John's tomb in Worcester Cathedral -- Color poster of the Royal standard
-            from King John's reign to the present day -- Costume at the time of King John (2 sheets)
-            -- Broadsheets: King John, 1167-1216 ; Barons and fuedal lords ; Magna Carta : what it
+        <field name="abstract">Introductory sheet (1 folded sheet) ~~ Facsimile of Magna Carta from
+            Lincoln Cathedral ~~ Translation of Magna Carta ~~ Facsimile of Charter Roll, 1199 ~~
+            Facsimile of a Pipe Roll, 1130 ~~ Two pages from a Bestiary of the late 12th century (1
+            sheet) ~~ King John's tomb in Worcester Cathedral ~~ Color poster of the Royal standard
+            from King John's reign to the present day ~~ Costume at the time of King John (2 sheets)
+            ~~ Broadsheets: King John, 1167-1216 ; Barons and fuedal lords ; Magna Carta : what it
             was and what it was not ; The signing of the Magna Carta ; King John and history ;
             England in 1215 ; Did King John lose his treasure in the wash? (map and text).</field>
-        <field name="notes">1 portfolio; Genre/Form: History.; Geographic: Great Britain -- History.
+        <field name="notes">1 portfolio; Genre/Form: History.; Geographic: Great Britain ~~ History.
             Great Britain.; Title Subject: Magna Carta. Magna Carta.; Note(s): Issued in portfolio.;
             Other Titles: Running title on kit items:; King John &amp; Magna carta; Responsibility:
             compiled and edited by John Langdon-Davies.</field>
@@ -1501,16 +1502,16 @@
         <field name="keywords">Conquest of Mexico (1519-1540)</field>
         <field name="keywords">History</field>
         <field name="keywords">Mexico</field>
-        <field name="abstract">Introductory leaflet -- 1. Four pages from the Codex Laud, a Maya
-            folding book, with an interpretation -- 2. The Song of Xipe and other songs from the
-            Florentine Codex -- 2a. Translation of 2 -- 3. Dürer engraving of Hernán Cortés's plan
-            of Tenochtitlán -- 4. Mexican gods and temples -- 5. Four pages from the Codex Mendoza,
-            a manuscript made soon after the conquest -- 6. Two pages from the Lienzo de Tlaxcala, a
-            manuscript made by a native of Mexico shortly after the conquest -- 7. Page from the
-            True History of the Conquest of New Spain / by Bernal Díaz del Castillo -- 7a.
-            Translation of 7 -- 8. Two pages from a letter sent by Hernán Cortés to the Emperor
-            Charles V -- 8a. Translation of 8 -- 9. Maya stone lintel depicting a religious penance
-            -- 10. Six broadsheets : I. Two cultures mingle ; II. Ancient Mexican civilizations ;
+        <field name="abstract">Introductory leaflet ~~ 1. Four pages from the Codex Laud, a Maya
+            folding book, with an interpretation ~~ 2. The Song of Xipe and other songs from the
+            Florentine Codex ~~ 2a. Translation of 2 ~~ 3. Dürer engraving of Hernán Cortés's plan
+            of Tenochtitlán ~~ 4. Mexican gods and temples ~~ 5. Four pages from the Codex Mendoza,
+            a manuscript made soon after the conquest ~~ 6. Two pages from the Lienzo de Tlaxcala, a
+            manuscript made by a native of Mexico shortly after the conquest ~~ 7. Page from the
+            True History of the Conquest of New Spain / by Bernal Díaz del Castillo ~~ 7a.
+            Translation of 7 ~~ 8. Two pages from a letter sent by Hernán Cortés to the Emperor
+            Charles V ~~ 8a. Translation of 8 ~~ 9. Maya stone lintel depicting a religious penance
+            ~~ 10. Six broadsheets : I. Two cultures mingle ; II. Ancient Mexican civilizations ;
             III. Cortés scales the mountains ; IV. The Spaniards defeated ; V. Cortés fights back ;
             VI. Aftermath.; Time: 1519 - 1540</field>
         <field name="notes">1 portfolio. illus., facsims. 23 x 35 cm.; Genre/Form: History.
@@ -1657,7 +1658,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Metropolitan Schools of Nashville and Davidson County</field>
-        <field name="title">Old world--westward bound: social studies a resource guide for sixth
+        <field name="title">Old world~~westward bound: social studies a resource guide for sixth
             grade teachers</field>
         <field name="year">1964</field>
         <field name="date">05/1964</field>
@@ -1727,4 +1728,5 @@
         <field name="call_number">925 .P85c</field>
         <field name="state_country">Oregon</field>
     </doc>
+ -->
 </add>
