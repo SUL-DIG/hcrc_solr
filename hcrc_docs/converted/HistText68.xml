@@ -594,7 +594,7 @@
         <field name="call_number">925 .I29h</field>
         <field name="state_country">Illinois</field>
     </doc>
-<!-- 
+ 
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Ball State Teachers College</field>
@@ -609,7 +609,7 @@
         <field name="call_number">925 .I39w</field>
         <field name="state_country">Indiana</field>
     </doc>
-
+<!--
     <doc>
         <field name="type">Book</field>
         <field name="author">Johnson, David</field>
@@ -699,7 +699,7 @@
         <field name="language">English</field>
         <field name="call_number">925 .J12j no. 51</field>
     </doc>
-
+-->
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Kansas City (Missouri) Public Schools</field>
@@ -887,5 +887,5 @@
         <field name="state_country">Oregon</field>
     </doc>
 
- -->
+
 </add>

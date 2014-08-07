@@ -121,8 +121,7 @@
 
     <doc>
         <field name="type">Book</field>
-        <field name="corp_author">Association of American Geographers. High School Geography
-            Project</field>
+        <field name="corp_author">Association of American Geographers. High School Geography Project</field>
         <field name="title">Cultural geography: student resources book</field>
         <field name="year">1970</field>
         <field name="date">1970</field>
@@ -172,7 +171,7 @@
         <field name="call_number">910 .A84c v. 3</field>
         <field name="grade_level_group">High school</field>
     </doc>
-
+<!-- 
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Forth Worth (Texas) Public Schools</field>
@@ -269,7 +268,7 @@
         <field name="call_number">910 .G34c</field>
         <field name="state_country">Georgia</field>
     </doc>
- <!-- 
+ 
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
