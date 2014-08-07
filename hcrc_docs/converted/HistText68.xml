@@ -437,6 +437,7 @@
         <field name="state_country">United Kingdom</field>
     </doc>
 
+<!-- 
     <doc>
         <field name="type">Book</field>
         <field name="author">Chaloner, W. H.</field>
@@ -886,4 +887,5 @@
         <field name="state_country">Oregon</field>
     </doc>
 
+ -->
 </add>
