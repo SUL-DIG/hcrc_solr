@@ -17,7 +17,7 @@
         <field name="state_country">Washington</field>
         <field name="grade_level_number">6th grade</field>
     </doc>
-
+  <!-- 
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Chicago (Illinois) Board of Education</field>
@@ -34,7 +34,7 @@
         <field name="grade_level_group">High school</field>
     </doc>
     
-    <!-- 
+  
     
     <doc>
         <field name="type">Book</field>
