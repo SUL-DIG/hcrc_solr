@@ -1,0 +1,986 @@
+
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Santa Barbara County book list
+Y1  - 1938
+D1  - 09/1938
+SP  - 256
+KW  - School libraries
+T2  - County of Santa Barbara Department of Education Bulletin
+IS  - 29
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 027.8 .S22s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Baker, John 
+A1  - Clower, Hardigain
+A2  - San Diego (California) City Schools
+T1  - Industrial relations
+Y1  - 1942
+D1  - 1942
+SP  - 91
+KW  - Industrial relations
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 331 .S193i
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Your child in kindergarten
+Y1  - 1947
+D1  - 1947
+KW  - Kindergarten
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 370.21 .S23y
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Barron, J. Roy
+T1  - Operational procedures audio-visual education department, Santa Barbara County Schools
+Y1  - 1954
+D1  - 06/1954
+SP  - 90
+KW  - Audio-visual materials
+PB  - Santa Barbara County (California) Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 371.3095 .S22o
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - King, Phoebe M.
+A1  - Proud, Lois B
+A1  - Taylor, Nell C.
+T1  - How does my family travel in Santa Barbara?: a source preview for the junior primary level
+Y1  - 1940
+D1  - 09/1940
+SP  - 195
+KW  - Travel
+KW  - Santa Barbara
+T2  - Santa Barbara Instructional Material, series II
+IS  - 13
+PB  - Santa Barbara (California) City Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 371.33 .S22hd
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Langston, Daniel W.
+T1  - Trends in county-level school guidance services in California : a research study
+Y1  - 1950
+D1  - 11/1950
+SP  - 207
+KW  - Educational counseling
+N1  - ill., col. maps ; 28 cm.; Note(s): "Selected bibliography": p. 201-207.; Responsibility: by Daniel W. Langston.
+T2  - San Diego County Schools. Education monograph
+IS  - 26
+PB  - Office of Superintendent of Schools, San Diego County
+CY  - San Diego, CA
+LA  - English
+CN  - 371.45 .S194t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - McCampbell, Marian
+A1  - Smith, Nancy V.
+A1  - Richards, Clara R.
+A2  - Santa Barbara (California) City Schools
+T1  - How have some certain cultures contributed to the development of the Santa Barbara area? : China, a source preview for the fourth grade level
+Y1  - 1940
+D1  - 09/1940
+SP  - 81
+KW  - Santa Barbara
+KW  - Curricula
+KW  - China
+KW  - California
+T2  - Santa Barbara instructional material ; ser. 2 
+IS  - 6a
+PB  - Santa Barbara (California) City Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 371.33 .S22hh
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Office of Education
+T1  - Social science teachers guide, grade seven
+Y1  - 1965
+D1  - 1965
+SP  - 240
+KW  - Social sciences
+N1  - Europe, the mediterranean area, and the Middle East; European backgrounds of the United States
+PB  - Santa Clara County (California) Office of Education
+CY  - San Jose, CA
+LA  - English
+CN  - 371.33 .S23s
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher guide for social studies: primary grades
+KW  - Social sciences
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 371.33 .S23t pt. 1
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher guide for social studies: grades four, five and six
+KW  - Social sciences
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 371.33 .S23t pt. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher guide for social studies: grades seven and eight
+KW  - Social sciences
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 371.33 .S23t pt. 3
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher guide for social studies in the elementary schools of Santa Clara County
+KW  - Social sciences
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 371.33 .S23tg
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Textile series: jute
+Y1  - 1938
+D1  - 02/1938
+SP  - 43
+KW  - Textile fibers
+T2  - Santa Barbara County (California) Department of Education Curriculum Bulletin P-116-B
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 371.425 .S22t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Superintendent of Schools Office
+T1  - Resource directory for vocational guidance and counseling in schools in Santa Clara County
+Y1  - 1963
+D1  - 06/1963
+SP  - 67
+KW  - Educational counseling
+ED  - 2nd
+PB  - Santa Clara County (California) Superintendent of Schools Office
+CY  - San Jose, CA
+LA  - English
+CN  - 371.45 .S23r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Superintendent of Schools
+T1  - Critical issues in administration and curriculum with recommendations for education in the postwar period
+Y1  - 1944
+D1  - 12/1944
+SP  - 30
+KW  - Curricula
+KW  - School management and organization
+N1  - 30 leaves.; Note(s): Includes bibliographical references.; Responsibility: by Members of Education 301, Seminar in Education for Postwar Reconstruction, Stanford University.
+T2  - Seminar in Education for Postwar Reconstruction ; (1944 :; Stanford University)
+PB  - Office of the Superintendent of Schools, San Diego County Curriculum Department
+CY  - San Diego, CA
+LA  - English
+CN  - 379 .S194c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Jefferson Intermediate School (Santa Clara, California)
+T1  - Jefferson School student handbook
+Y1  - 1963
+D1  - 1963-1964
+SP  - 40
+KW  - Public schools
+N1  - Frequency: Annual; v. ; 26 cm; Named Corp: Jefferson Intermediate School (Santa Clara, Calif.) -- Handbooks, manuals, etc.; Responsibility: Jefferson Intermediate School.
+PB  - Jefferson Intermediate School
+CY  - Santa Clara, CA
+LA  - English
+CN  - 371.46 .J451s 1963
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Secondary School Curriculum Committee
+T1  - Report of the deliberations of the Santa Barbara County Secondary School Committee on curriculum materials for the secondary school
+Y1  - 1938
+D1  - 1938
+SP  - 61
+KW  - Curricula
+PB  - Santa Barbara County (California) Secondary School Curriculum Committee
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 375 .S22r
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) School Department
+T1  - Report of pilot project in-school work experience for pupils who are orthopedically handicapped
+SP  - 31
+KW  - Children with disabilities
+PB  - Santa Clara County (California) School Department
+CY  - San Jose, CA
+LA  - English
+CN  - 371.9 .S23r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Survey of elementary school practices
+Y1  - 1946
+D1  - 06/1946
+SP  - 124
+KW  - Elementary education
+N1  - A report of a survey of elementary school practices in social studies, science, language arts, and arithmetic, 1944-1945
+PB  - San Diego County (California) Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S194su
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Secondary School Curriculum Committee
+T1  - Report of the deliberations of the Santa Barbara County Secondary School Committee on curriculum materials for the secondary school
+Y1  - 1938
+D1  - 1938
+SP  - 61
+KW  - Curricula
+T2  - Santa Barbara County (California) Secondary School Curriculum Committee. Bulletin
+V1  - 1
+PB  - Santa Barbara County (California) Secondary School Curriculum Committee
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 375.15 .S22r
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Pelko, Emma D.
+A2  - San Diego County (California) Schools
+T1  - Guide to selected topics in California state textbooks, grades three-six, San Diego County schools
+Y1  - 1944
+KW  - Elementary education
+KW  - Textbooks
+KW  - Bibliography
+N1  - 33 p. 28 cm.; Responsibility: Prepared by Mrs. Emma D. Pelko, under the dircetion of Margaret Van Voorhees.
+T2  - San Diego County (California) Schools. Education monograph,; no. 3; Elementary series; 1
+CY  - San Diego, CA
+LA  - English
+CN  - 379.156 .S194g
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - The Foreign Language Association of Northern California
+A2  - Modern Language Association of Southern California
+T1  - Foreign language newsletter
+Y1  - 1966
+D1  - 04/1966
+SP  - 24
+KW  - Languages
+PB  - The Foreign Language Association of Northern California
+CY  - Berkeley, CA
+LA  - English
+CN  - 400 .F70f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Foreign Language Association of Santa Clara County
+A2  - Santa Clara County (California) Office of Education
+T1  - Guidelines for foreign language programs in Santa Clara County
+Y1  - 1965
+D1  - 1965
+SP  - 141
+KW  - Languages
+N1  - music ; 28 cm.; Note(s): "September 1965."/ Includes bibliographical references.; Responsibility: prepared by Working Committees of the Foreign Language Association of Santa Clara County.
+PB  - Santa Clara County (California) Office of Education
+CY  - San Jose, CA
+LA  - English
+CN  - 400 .S23g 1965
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - The power of oral language : speaking and listening : a guide for teachers of English, grades 7, 8, 9
+Y1  - 1966
+D1  - 06/1966
+SP  - 216
+KW  - Oral communication
+N1  - 215 p. ; 30 cm.; Note(s): Includes index.; Responsibility: Santa Clara County Office of Education.
+ED  - Rev.
+PB  - Santa Clara County (California) Board of Education
+CY  - Santa Clara, CA
+LA  - English
+CN  - 428.7 .S23p
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Language arts teachers' guide grades K-6
+Y1  - 1964
+D1  - 09/1964
+SP  - 108
+KW  - Language arts
+N1  - iii; ill. ; 28 cm.; Responsibility: Santa Clara County, Office of Education.
+PB  - Santa Clara County (California) Board of Education
+CY  - Santa Clara, CA
+LA  - English
+CN  - 400 .S23L
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Teachers' guide for printscript in the elementary schools of Santa Clara County
+Y1  - 1949
+D1  - 1949
+SP  - 21
+KW  - Writing
+PB  - Santa Clara County (California) Board of Education
+LA  - English
+CN  - 421 .S23t
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Salinas (California) Union High School District
+T1  - English department guide for instruction, senior high schools grades ten to twelve
+Y1  - 1961
+D1  - 1961
+SP  - 96
+KW  - English language
+PB  - Salinas (California) Union High School District
+CY  - Salinas, CA
+LA  - English
+CN  - 428.2 .S16g
+SC  - California
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for oral and written English (tentative outline), primary grades
+Y1  - 1951
+D1  - 01/1951
+SP  - 25
+KW  - English language
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 428.2 .S23t v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for oral and written English (tentative outline), grade four
+Y1  - 1951
+D1  - 01/1951
+SP  - 20
+KW  - English language
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 428.2 .S23t v. 2
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for oral and written English (tentative outline), grade five
+Y1  - 1951
+D1  - 01/1951
+SP  - 22
+KW  - English language
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 428.2 .S23t v. 3
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for oral and written English (tentative outline), grade six
+Y1  - 1951
+D1  - 01/1951
+SP  - 27
+KW  - English language
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 428.2 .S23t v. 4
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for oral and written English (tentative outline), grade seven
+Y1  - 1951
+D1  - 03/1951
+SP  - 54
+KW  - English language
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 428.2 .S23t v. 5
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for oral and written English (tentative outline), grade eight
+Y1  - 1951
+D1  - 04/1951
+SP  - 66
+KW  - English language
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 428.2 .S23t v. 6
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Tentative arithmetic course of study for seventh and eighth grades
+Y1  - 1938
+D1  - 02/1938
+SP  - 8
+KW  - Arithmetic
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 511.2 .S22t
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for arithmetic, primary grades
+KW  - Arithmetic
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 511.2 .S23t v. 1
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for arithmetic in the elementary schools of Santa Clara County
+KW  - Arithmetic
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 511.2 .S23t v. 2
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for arithmetic, grades seven and eight
+KW  - Arithmetic
+PB  - Santa Clara County (California) Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 511.2 .S23t v. 1
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Board of Education
+T1  - Science teachers' guide, grades K-8
+Y1  - 1964
+D1  - 11/1964
+SP  - 96
+KW  - Science
+PB  - Santa Clara County (California) Board of Education
+LA  - English
+CN  - 519 .S23s
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Larger animals: a portfolio of drawings by Alyn of larger mammals of California with captions by Rose Roberts
+Y1  - 1942
+D1  - 1942
+KW  - Mammals
+N1  - Prepared under direction of City Schools Curriculum Project, Works Projects Administration, O.P. 265-1-07-13.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 590 .S193L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Little animals: a series of lithographs by Alyn of some smaller mammals of California
+Y1  - 1941
+D1  - 1941
+SP  - 74
+KW  - Mammals
+N1  - Prepared under direction of City Schools Curriculum Project, Works Projects Administration, O.P. 265-1-07-23.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 590 .S193Li
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Gratrix, Alice E.
+A1  - Manchestr, Marjorie
+A2  - Santa Barbara (California) City Schools
+T1  - How does the marine life of the Santa Barbara coast serve us? a source preview for the third grade level
+Y1  - 1940
+D1  - 09/1940
+SP  - 44
+KW  - Marine biology
+T2  - Santa Barbara Instructional Material, Series II
+V1  - 16
+PB  - Santa Barbara (California) City Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 597 .S22h
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Sawyer, H. Irene
+A2  - Santa Barbara (California) City Schools
+T1  - How inventions have changed our way of living
+Y1  - 1938
+D1  - 06/1938
+SP  - 50
+KW  - Inventions
+T2  - Santa Barbara (California) City Schools. Monograph
+V1  - 27
+PB  - Santa Barbara (California) City Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 597 .S22h
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) School Health Council
+T1  - Santa Clara County school health policies guide
+SP  - 20
+KW  - School health services
+PB  - Santa Clara County (California) School Health Council
+CY  - Washington, DC
+LA  - English
+CN  - 613 .S23s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - National Technical Center at Phu-tho
+T1  - Curriculums in engineering & technology
+Y1  - 1962
+D1  - 09/1962
+SP  - 23
+KW  - Curricula
+KW  - Engineering
+KW  - Technology
+PB  - National Technical Center at Phu-tho
+CY  - Saigon, Vietnam
+LA  - English
+CN  - 620 .N28c
+SC  - Vietnam
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara Valley Water Conservation District
+A2  - Santa Clara County (California) Superintendent of Schools
+T1  - Water : our buried treasure : the story of water conservation in the Santa Clara Valley
+Y1  - 1960
+D1  - 1960
+SP  - 32
+KW  - Water conservation
+KW  - California
+N1  - ill. ; 21 cm.; Note(s): "A cooperative project of the Santa Clara County School Department and the Santa Clara Valley Water Conservation District."
+PB  - Santa Clara Valley Water Conservation District
+CY  - San Jose, CA
+LA  - English
+CN  - 628 .S23w
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - The citrus industry in California
+Y1  - 1938
+D1  - 02/1938
+SP  - 64
+KW  - Citrus fruit industry
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 9
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbars, CA
+LA  - English
+CN  - 630 .S22c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Conservation of our natural resources
+Y1  - 1938
+D1  - 05/1938
+SP  - 50
+KW  - Conservation of natural resources
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 25
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbars, CA
+LA  - English
+CN  - 631 .S22c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Evans, Mary C.
+A2  - Santa Barbara County (California) Department of Education
+T1  - Conservation of our natural resources
+Y1  - 1938
+D1  - 03/1938
+SP  - 43
+KW  - Conservation of natural resources
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 1
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbars, CA
+LA  - English
+CN  - 640 .S22h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher guide for homemaking, grades seven and eight
+Y1  - 1959
+D1  - 08/1959
+SP  - 139
+KW  - Home economics
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 640 .S23t
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - The petroleum industry
+Y1  - 1938
+D1  - 02/1938
+SP  - 191
+KW  - Petroleum
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 12
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbars, CA
+LA  - English
+CN  - 665 .S22p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Industrial arts guide for grades seven and eight
+Y1  - 1957
+D1  - 08/1957
+SP  - 17
+KW  - Industrial arts
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 680 .S23i v.3
+SC  - California
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Bookmaking: making a sewn book
+Y1  - 1938
+D1  - 02/1938
+SP  - 23
+KW  - Books
+KW  - Bookbinding
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 4
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 680.6 .S22b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Books and bookmaking: how to make a Japanese book, techniques of instruction
+Y1  - 1938
+D1  - 02/1938
+SP  - 14
+KW  - Books
+KW  - Bookbinding
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 3
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 680.6 .S22bo
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara (California) City Schools. Art Department
+T1  - Construction activities for bakery unit
+KW  - Construction
+PB  - Santa Barbara (California) City Schools. Art Department
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 740 .S22c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Baskets and basket making
+Y1  - 1938
+D1  - 02/1938
+SP  - 29
+KW  - Basket making
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 6
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 745 .S22b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Making linoleum block prints
+Y1  - 1938
+D1  - 02/1938
+SP  - 16
+KW  - Linoleum block-printing
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 23
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 745 .S22m
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Paper making
+Y1  - 1938
+D1  - 02/1938
+SP  - 28
+KW  - Paper making
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 2
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 745 .S22p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Paper making: Chinese
+Y1  - 1938
+D1  - 02/1938
+SP  - 51
+KW  - Paper making
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 5
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 745 .S22pa
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara County (California) Department of Education
+T1  - Papyrus and how to make it
+Y1  - 1938
+D1  - 02/1938
+SP  - 21
+KW  - Papyrus
+T2  - Santa Barbara County (California) Department of Education. Monograph
+V1  - 22
+PB  - Santa Barbara County (California) Department of Education
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 745 .S22ph
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Barbara (California) Schools
+T1  - Building power in the skills: developmental music curriculum: a curriculum handbook
+SP  - 203
+KW  - Music
+PB  - Santa Barbara (California) Schools
+CY  - Santa Barbara, CA
+LA  - English
+CN  - 780 .S22b
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for classroom music, grades one through six
+Y1  - 1962
+D1  - 08/1962
+SP  - 57
+KW  - Music
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 780 .S23t 1962
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Santa Clara County (California) Schools
+T1  - Teacher's guide for classroom music, grades kindergarten through six
+Y1  - 1968
+D1  - 06/1968
+KW  - Music
+PB  - Santa Clara County (California) Schools
+LA  - English
+CN  - 780 .S23t 1968
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+
