@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <add>
- <!-- 
+
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Bellingham (Washington) Public Schools</field>
@@ -17,7 +17,7 @@
         <field name="state_country">Washington</field>
         <field name="grade_level_number">6th grade</field>
     </doc>
---> 
+
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Chicago (Illinois) Board of Education</field>
@@ -272,7 +272,7 @@
         <field name="call_number">910 .G34c</field>
         <field name="state_country">Georgia</field>
     </doc>
- 
+<!-- 
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Granite School District (Salt Lake City, Utah)</field>
@@ -707,6 +707,6 @@
         <field name="state_country">Pennsylvania</field>
         <field name="grade_level_number">7th grade</field>
     </doc>
-
+-->
 
 </add>
