@@ -1539,7 +1539,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="author">Mallery,David</field>
-        <field name="author_nat"/>David Mallery</field>
+        <field name="author_nat">David Mallery</field>
         <field name="title">Asia and Africa in the study of history; examples of school programs seeking to teach students to think historically about non-Western civilizations</field>
         <field name="year">1962</field>
         <field name="date">1962</field>
