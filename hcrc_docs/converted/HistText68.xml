@@ -609,7 +609,7 @@
         <field name="call_number">925 .I39w</field>
         <field name="state_country">Indiana</field>
     </doc>
-<!--
+
     <doc>
         <field name="type">Book</field>
         <field name="author">Johnson, David</field>
@@ -664,7 +664,7 @@
         <field name="language">English</field>
         <field name="call_number">925 .J12j no. 3</field>
     </doc>
-
+<!--
     <doc>
         <field name="type">Book</field>
         <field name="author">Langdon-Davies, John</field>

@@ -67,7 +67,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
     </doc>
-
+<!-- 
     <doc>
         <field name="type">Book</field>
         <field name="author">Post, Ronald E.</field>
@@ -171,7 +171,7 @@
         <field name="call_number">910 .A84c v. 3</field>
         <field name="grade_level_group">High school</field>
     </doc>
-<!-- 
+
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Forth Worth (Texas) Public Schools</field>
