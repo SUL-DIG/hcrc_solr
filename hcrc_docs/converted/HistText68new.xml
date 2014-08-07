@@ -33,6 +33,9 @@
         <field name="call_number">910 .C53c v. 1</field>
         <field name="grade_level_group">High school</field>
     </doc>
+    
+    <!-- 
+    
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Chicago (Illinois) Board of Education</field>
@@ -48,7 +51,7 @@
         <field name="call_number">910 .C53c v. 2</field>
         <field name="grade_level_group">High school</field>
     </doc>
-<!-- 
+
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Cincinnati (Ohio) Public Schools</field>
