@@ -84,7 +84,7 @@
         <field name="keywords">Maps</field>
         <field name="keywords">Globes</field>
         <field name="abstract">Interpreting maps ~~ Using maps in actual situations ~~ Selecting and procuring maps ~~ Evolving long-range plans ~~ Handling and caring for maps ~~ Locating more information.</field>
-        <field name="notes">vii; ges illustrations, maps 23 cm.; Note(s): Includes bibliographical references (pages 60-62).</field>
+        <field name="notes">vii; illustrations, maps 23 cm.; Note(s): Includes bibliographical references (pages 60-62).</field>
         <field name="series_title">Florida State Dept. of Education. Bulletin</field>
         <field name="series_vol">22-G</field>
         <field name="publisher">Florida State Department of Education</field>
@@ -368,6 +368,7 @@
         <field name="grade_level_number">9th grade</field>
         <field name="grade_level_number">10th grade</field>
     </doc>
+    
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">El Paso (Texas) Public Schools</field>
@@ -639,8 +640,7 @@
         <field name="abstract">v. 1. The fall of the Bastille.~~v. 2. The Terror.; Time: 1789 - 1799</field>
         <field name="notes">2 portfolios. illus. (part col.), facsims., map, plan; rts. 23 x 35 cm.; Genre/Form: History. Sources.; Note(s): Includes introductory sheets, reproductions of contemporary documents and illustrations, transcript and translation sheets, and broadsheets in each portfolio./ Bibliographies included on introductory sheets.</field>
         <field name="series_title">Jackdaw</field>
-        <field name="series_vol">57</field>
-        <field name="series_vol">58</field>
+        <field name="series_vol">57, 58</field>
         <field name="publisher">Jackdaw Publications</field>
         <field name="pub_place">London, UK</field>
         <field name="language">English</field>
@@ -821,7 +821,7 @@
     <doc>
         <field name="type">Book</field>
         <field name="corp_author">Metropolitan Schools of Nashville and Davidson County</field>
-        <field name="title">Old world~~westward bound: social studies a resource guide for sixth grade teachers</field>
+        <field name="title">Old world--westward bound: social studies a resource guide for sixth grade teachers</field>
         <field name="year">1964</field>
         <field name="date">05/1964</field>
         <field name="pages">80</field>
@@ -886,6 +886,5 @@
         <field name="call_number">925 .P85c</field>
         <field name="state_country">Oregon</field>
     </doc>
-
 
 </add>
