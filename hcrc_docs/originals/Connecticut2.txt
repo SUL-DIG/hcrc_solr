@@ -1,0 +1,657 @@
+
+
+TY  - BOOK
+A1  - Ross, Maurice
+A2  - Connecticut State Department of Education
+T1  - Discussion of state support for education
+Y1  - 1958
+D1  - 02/1958
+SP  - 11
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1958
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Teachers' Retirement Board
+T1  - Retirement system for teachers
+Y1  - 1964
+D1  - 1964
+SP  - 32
+KW  - Pensions
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut Teachers' Retirement Board
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1964
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Teachers' Retirement Board
+T1  - Retirement system for teachers
+Y1  - 1965
+D1  - 1965
+SP  - 34
+KW  - Pensions
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut Teachers' Retirement Board
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1965
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut General Assembly. Commission on School Construction Costs
+T1  - Report of the Commission of the Connecticut General Assembly on School Construction Costs, January 1, 1959
+Y1  - 1959
+D1  - 01/1959
+SP  - 7
+KW  - School finance
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut General Assembly
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1959
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Long range planning and educational specifications for school building economy
+Y1  - 1962
+D1  - 06/1962
+SP  - 35
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education school building economy series
+V1  - 2
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1962
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut General Assembly
+T1  - Report of the Interim Committee on Education...as provided by House joint Resolution 170 of the 1959 Session of the General Assembly
+D1  - 1959?
+SP  - 10
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut General Assembly
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1959
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut General Assembly
+T1  - Report of the Interim Penal Institutions Committee...as provided by House joint Resolution 170 of the 1959 Session of the General Assembly
+D1  - 1959?
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut General Assembly
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1959
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Education Association
+T1  - Patterns for financing Connecticut schools
+Y1  - 1961
+D1  - 1961
+SP  - 28
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut Education Association
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1961
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Study Commission on Higher Education
+T1  - Report to the Governor and the General Assembly
+Y1  - 1965
+D1  - 02/1965
+SP  - 32
+KW  - Higher education
+N1  - 32 p. illus. 23 cm.; Note(s): "Feb. 1965."/ Other Titles: Report of the Study Commission on Higher Education; Responsibility: by the Study Commission on Higher Education; Shelved in Cubberley Library Reading Room
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1965
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Automation in Connecticut schools
+Y1  - 1970
+D1  - 06/1970
+SP  - 20
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education research bulletin
+V1  - 3
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1969-70
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Ross, Maurice
+A2  - Connecticut State Department of Education
+T1  - Connecticut's need for new teachers, 1969-1985
+Y1  - 1969
+D1  - 06/1969
+SP  - 8
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education research bulletin
+V1  - 2
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Ross, Maurice
+A2  - Connecticut State Department of Education
+T1  - Connecticut's need for new teachers, 1970-1986
+Y1  - 1970
+D1  - 06/1970
+SP  - 8
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education research bulletin
+V1  - 4
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969-70
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - School transportation, contract or school-owned?
+Y1  - 1970
+D1  - 06/1970
+SP  - 5
+KW  - Transportation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education research bulletin
+V1  - 2
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969-70
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Citizens for Public Schools
+T1  - The job for state aid
+D1  - 1965?
+SP  - 19
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut Citizens for Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1965
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Qualitative and quantitative performance and achievement in higher education. Report of Task Force IV
+Y1  - 1971
+D1  - 01/1971
+SP  - 66
+KW  - Higher Education
+N1  - 66 p.; Note(s): Includes bibliographical references; Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1971 no.4
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Needs: socio-economic, manpower, regional: report of Task Force I
+Y1  - 1970
+D1  - 12/1970
+SP  - 78
+KW  - Higher Education
+N1  - 78 p.; Note(s): Includes bibliographical references; Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1970 no.1
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Four task forces report to the Connecticut Commission for Higher Education; a summary of their recommendations: action for the seventies
+Y1  - 1970
+D1  - 12/1970
+SP  - 14
+KW  - Economics of education
+KW  - Manpower policy
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1970
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Connecticut reading assessment, 1971-1972
+Y1  - 1972
+D1  - 1972
+SP  - 27
+KW  - Reading
+N1  - 27 pages illustrations 16 x 23 cm; Genre/Form: Statistics.; Note(s): Cover title; Shelved in Cubberley Library Reading Room
+PB  - Connecticut.State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1971-72
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Financing higher education. Report of Task Force III
+Y1  - 1970
+D1  - 12/1970
+SP  - 39
+KW  - Higher education
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1970  no.3
+SC  - Connecticut
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Function, scope and structure of higher education in Connecticut. Report of Task Force II
+Y1  - 1970
+D1  - 12/1970
+SP  - 43
+KW  - Higher education
+N1  - 43 p.; Note(s): Includes bibliographical references.; Other Titles: Function, scope and structure of higher education; Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1970 no.2
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Arthur D. Little, Inc
+A2  - Connecticut Commission for Higher Education
+T1  - Needs for higher education related to regional and statewide economic development in Connecticut; report to Connecticut Commission for Higher Education
+Y1  - 1971
+D1  - 03/1971
+SP  - 136
+KW  - Economics of education
+N1  - xi, 136, [26] pages maps 28 cm; Note(s): Includes bibliographical references; Shelved in Cubberley Library Reading Room
+PB  - Arthur D. Little, Inc
+CY  - Cambridge, MA
+LA  - English
+CN  - 379.74 .C4 1971
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Arthur D. Little, Inc
+A2  - Connecticut Commission for Higher Education
+T1  - An assessment and projection of the resources and needs of independent higher education in Connecticut; a report to the Commission for Higher Education, State of Connecticut
+Y1  - 1971
+D1  - 03/1971
+SP  - 117
+KW  - Government aid to education
+KW  - Higher education
+N1  - 2 volumes 30 cm; Note(s): Includes bibliographical references (v. 2, leaves 3-4); Shelved in Cubberley Library Reading Room
+PB  - Arthur D. Little, Inc
+CY  - Cambridge, MA
+LA  - English
+CN  - 379.74 .C4 1971 v.1
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Bokelman, W. Robert
+A2  - Connecticut Commission for Higher Education
+T1  - Salaries paid to professional staff members in state higher education coordinating commissions and in state boards of higher education, 1973-74
+Y1  - 1974
+D1  - 06/1974
+KW  - College administrators
+N1  - [70] pages : forms ; 28 cm; Genre/Form: Statistics.; Note(s): Consists of data obtained by the Connecticut Commission for Higher Education.; Other Titles: Salaries paid to professional staff members ...; Responsibility: by W. Robert Bokelman; Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1974
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Handbook: higher education in Connecticut; implementation of P.A. 194 (master plan)
+Y1  - 1972
+D1  - 11/1972
+SP  - 75
+KW  - Higher education
+N1  - iii; ges illustrations 28 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s): Original imprint covered by label, as above./ Includes bibliographical references (pages 61-75).; Other Titles: Implementation of P.A. 194 (master plan); Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1972
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Educational Management and Finance
+T1  - The distribution of minority-group pupils and staff in the public schools of Connecticut
+Y1  - 1975
+D1  - 08/1975
+SP  - 19
+KW  - Minorities
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education research bulletin
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1975
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Commission to Study School Finance and Equal Educational Opportunity
+T1  - Financing Connecticut's schools : final report of the Commission to Study School Finance and Equal Educational Opportunity
+Y1  - 1975
+D1  - 01/1975
+SP  - 36
+KW  - School finance
+N1  - iv, 35; ges : illustrations ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title./ Includes bibliographical references; Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission to Study School Finance and Equal Educational Opportunity
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1975
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Forces for change : an account of ESEA Title III
+Y1  - 1974
+D1  - 05/1974
+SP  - 64
+KW  - Education and state
+N1  - 64 pages : illustrations ; 27 cm; Note(s): Includes bibliographical references (page 64); Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1974
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Hadden, Kenneth
+A2  - University of Connecticut
+A2  - Storrs Agricultural Experiment Station
+T1  - School enrollment in Connecticut : past trends and future prospects
+Y1  - 1974
+D1  - 03/1974
+KW  - School enrollment
+N1  - 37 pages : illustrations ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ Includes bibliographical references (page 37).; Responsibility: by Kenneth Hadden [and others]; Shelved in Cubberley Library Reading Room
+T2  - Storrs Agricultural Experiment Station bulletin
+V1  - 427
+PB  - University of Connecticut
+CY  - Storrs, CT
+LA  - English
+CN  - 379.74 .C4 1974
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A1  - Steahr, Thomas E.
+A1  - Lowe, Robert A.
+A2  - University of Connecticut
+A2  - Storrs Agricultural Experiment Station
+T1  - Patterns and trends of college and university student migration in the United States
+Y1  - 1975
+D1  - 01/1975
+SP  - 59
+KW  - College student mobility
+N1  - 59 pages : maps ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (pages 57-59).; Other Titles: Patterns and trends of college and university student migration ...; Responsibility: by Thomas E. Steahr and Robert A. Lowe; Shelved in Cubberley Library Reading Room
+T2  - Storrs Agricultural Experiment Station bulletin
+V1  - 436
+PB  - University of Connecticut
+CY  - Storrs, CT
+LA  - English
+CN  - 379.74 .C4 1975
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+T1  - Strategies for progress : supplemental guide for post-secondary & higher education
+Y1  - 1979
+D1  - 06/1979
+SP  - 11
+KW  - Vocational education
+KW  - Higher education
+N1  - 11 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 10-11).; Other Titles: Supplemental guide for post-secondary & higher education; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Connecticut Master Plan for Vocational and Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+T1  - Strategies for progress : supplemental guide for employers, business & industry organizations
+Y1  - 1979
+D1  - 06/1979
+SP  - 12
+KW  - Vocational education
+KW  - Industry and education
+KW  - Employees
+N1  - 12 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 11-12).; Other Titles: Supplemental guide for employers, business & industry organizations; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational & Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+T1  - Strategies for progress : supplemental guide for state agencies
+Y1  - 1979
+D1  - 06/1979
+SP  - 12
+KW  - Vocational education
+KW  - Education and state
+N1  - 12 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 11-12).; Other Titles: Supplemental guide for state agencies; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational & Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+T1  - Strategies for progress : supplemental guide for organized labor
+Y1  - 1979
+D1  - 06/1979
+SP  - 10
+KW  - Vocational education
+N1  - 10 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 9-10).; Other Titles: Supplemental guide for organized labor; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational & Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+A2  - State Board of Education
+T1  - Strategies for progress : an executive summary
+Y1  - 1979
+D1  - 01/1979
+SP  - 18
+KW  - Career education
+KW  - Vocational education
+N1  - iv; ges : maps ; 28 cm; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references.; Other Titles: Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational & Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+T1  - Strategies for progress : supplemental guide for public education
+Y1  - 1979
+D1  - 06/1979
+SP  - 19
+KW  - Vocational education
+KW  - Public schools
+N1  - 19 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 18-19).; Other Titles: Supplemental guide for public education; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational & Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+T1  - Strategies for progress : supplemental guide for general public community organizations
+Y1  - 1979
+D1  - 06/1979
+SP  - 11
+KW  - Community and school
+KW  - Vocational education
+N1  - 11 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 10-11).; Other Titles: Supplemental guide for general public community organizations; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational & Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - GTB : an aid in understanding Connecticut's Guaranteed Tax Base Grant/School Finance Equalization Program
+D1  - 1977?
+SP  - 23
+KW  - School finance
+KW  - Educational equalization
+N1  - 23 pages ; 22 cm; Note(s): Cover title.; Other Titles: Aid in understanding Connecticut's Guaranteed Tax Base Grant/School Finance Equalization Program; Responsibility: Connecticut State Department of Education; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - New Haven, CT
+LA  - English
+CN  - 379.74 .C4 1977
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Master plan for higher education in Connecticut, 1974-1979 : biennial supplement, 1976
+Y1  - 1976
+D1  - 01/1976
+SP  - 132
+KW  - Higher education
+KW  - Educational planning
+N1  - xii; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical references (page 71); Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1976
+SC  - Connecticut
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Commission for Higher Education
+T1  - Master plan for higher education in Connecticut, 1974-1979 : quality and equality
+Y1  - 1974
+D1  - 01/1974
+SP  - 238
+KW  - Higher education
+KW  - Educational planning
+N1  - xi; ges : illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 181-188); Shelved in Cubberley Library Reading Room
+PB  - Connecticut Commission for Higher Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1974-1979
+SC  - Connecticut
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Master Plan for Vocational and Career Education Policy Advisory Group
+A2  - Connecticut State Board of Education
+T1  - Strategies for progress : background report
+Y1  - 1979
+D1  - 06/1979
+SP  - 130
+KW  - Career education
+KW  - Vocational education
+N1  - ill., maps ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references and index.; Other Titles: Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational & Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1979
+SC  - Connecticut
+ER  -
+
