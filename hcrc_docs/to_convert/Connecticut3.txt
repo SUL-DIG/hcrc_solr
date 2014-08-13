@@ -1,0 +1,149 @@
+
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - Local public school enrollment as of October 1969
+Y1  - 1969
+D1  - 1969
+SP  - 3
+KW  - School enrollment
+N1  - Frequency: Annual; v. ; 28 cm; Named Corp: Connecticut. State Department of Education.; Genre/Form: Statistics.; Geographic: Connecticut.; Note(s): Issued by: State Dept. of Education; Responsibility: Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - Local public school enrollment as of October 1970
+Y1  - 1970
+D1  - 1970
+SP  - 3
+KW  - School enrollment
+N1  - Frequency: Annual; v. ; 28 cm; Named Corp: Connecticut. State Department of Education.; Genre/Form: Statistics.; Geographic: Connecticut.; Note(s): Issued by: State Dept. of Education; Responsibility: Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - Enumeration of children: September 1969
+Y1  - 1969
+D1  - 09/1969
+KW  - Children
+N1  - Responsibility: [by the] Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - Report on the 1969 Enumeration of out-of-school youth
+Y1  - 1969
+D1  - 1969
+SP  - 4
+KW  - Children
+N1  - Responsibility: [by the] Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - The cost of operation of town-owned and contracted-for school buses - 1968-69
+D1  - 1969?
+SP  - 8
+KW  - School buses
+KW  - School children
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1968-69
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - State grants made for public and non-public school activities and programs during 1969-70
+D1  - 1970?
+SP  - 8
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969-70
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - Total current expenses for public schools, 1968-69
+D1  - 1969?
+SP  - 8
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1968-69
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - Current expenditures per pupil for textbooks, school libraries, audio visual materials, and teaching supplies, 1968-69
+Y1  - 1970
+D1  - 08/1970
+SP  - 7
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1968-69
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education. Bureau of Research, Statistics, and Finance
+T1  - Local current expenditures per pupil in Connecticut public schools
+Y1  - 1970
+D1  - 08/1970
+SP  - 29
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1968-69
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Post high school activities of 1969 public high school graduates
+D1  - 1970?
+SP  - 3
+KW  - High school students
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1969
+SC  - Connecticut
+G1  - High school
+ER  -
+
