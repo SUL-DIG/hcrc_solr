@@ -1,0 +1,919 @@
+
+
+
+
+TY  - BOOK
+A2  - Delaware State Department of Public Instruction
+T1  - Integrated curriculum units : social studies, second grade
+Y1  - 1938
+D1  - 09/1938
+SP  - 100
+KW  - Social sciences
+KW  - Elementary education
+KW  - Curricula
+N1  - xiii; ges ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Delaware State Department of Public InstructionCurriculum bulletin
+V1  - 2
+PB  - Delaware State Department of Public Instruction
+CY  - Dover, DE
+LA  - English
+CN  - 371.33 .D34i 1938 #2
+SC  - Delaware
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Delaware State Department of Public Instruction
+T1  - Integrated curriculum units : social studies, first grade
+Y1  - 1938
+D1  - 09/1938
+SP  - 103
+KW  - Social sciences
+KW  - Elementary education
+KW  - Curricula
+N1  - xiii; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Delaware State Department of Public Instruction. Curriculum bulletin
+V1  - 1
+PB  - Delaware State Department of Public Instruction
+CY  - Dover, DE
+LA  - English
+CN  - 371.33 .D34i 1938 #1
+SC  - Delaware
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Delaware State Department of Public Instruction
+T1  - Integrated curriculum units : social studies, third grade
+Y1  - 1938
+D1  - 09/1938
+SP  - 162
+KW  - Social sciences
+KW  - Elementary education
+KW  - Curricula
+N1  - xiv; ges ; 28 cm.; Note(s): Includes bibliographical references.
+T2  - Delaware State Department of Public Instruction. Curriculum bulletin
+V1  - 3
+PB  - Delaware State Department of Public Instruction
+CY  - Dover, DE
+LA  - English
+CN  - 371.33  .D34i 1938 #3
+SC  - Delaware
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Dietrich, Nella M.
+A2  - Florida State Department of Public Instruction
+T1  - Course of study for the elementary schools of Florida
+Y1  - 1924
+D1  - 1924
+SP  - 255
+KW  - Education
+KW  - Curricula
+KW  - Courses of study
+N1  - 255 pages ; 23 cm; Note(s): Includes bibliographical references (p. 254-255).; Responsibility: Edited and compiled by Nella M. Dietrich.
+PB  - Florida State Department of Public Instruction
+CY  - Tallahassee, FL
+LA  - English
+CN  - 375.13 .F63c 1924
+SC  - Florida
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - The course of study for Florida elementary schools, grades I-VI
+Y1  - 1933
+D1  - 1933
+SP  - 816
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - viii; ges; Note(s): Bibliographies: pages 785-816.
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 375.13 .F63c 1933
+SC  - Florida
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+T1  - Course of study for elementary schools
+Y1  - 1929
+D1  - 09/1929
+SP  - 350
+KW  - Curricula
+KW  - Elementary education
+KW  - Courses of study
+N1  - 1 preliminary leaf; ges folded table 23 cm.; Note(s): Cover title.; Responsibility: M.L. Duggan, state superintendent of schools
+T2  - Georgia state school items
+V1  - 6
+IS  - 8
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .G35c 1929
+SC  - Georgia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+T1  - Course of study for elementary schools
+Y1  - 1932
+D1  - 08/1932
+SP  - 349
+KW  - Curricula
+KW  - Elementary education
+KW  - Courses of study
+N1  - 1 preliminary leaf; ges folded table 23 cm.; Note(s): Cover title.; Responsibility: M.L. Duggan, state superintendent of schools
+T2  - Georgia state school items
+V1  - 9
+IS  - 4
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .G35c 1932
+SC  - Georgia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii Territory Department of Public Instruction
+T1  - Course of study for the elementary schools of the territory of Hawaii
+Y1  - 1912
+D1  - 1912
+SP  - 63
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+PB  - Hawaii Territory Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 375.13 .H38c 1912
+SC  - Hawaii
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii (Territory) Department of Public Instruction
+T1  - Official course of study of the elementary grades: vol. 1 primary grades
+Y1  - 1921
+D1  - 09/1921
+SP  - 140
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+PB  - Hawaii Territory Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 375.13 .H38o 1921
+SC  - Hawaii
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Superintendent of Public Instruction
+T1  - Illinois curriculum and course of study guide for elementary grades
+Y1  - 1946
+D1  - 1946?
+SP  - 579
+EP  - 579
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - ix; ges diagrams 23 cm.; Note(s): Includes bibliographical references.
+T2  - Illinois State Superintendent of Public Instruction. Circular, ser. A
+V1  - 32
+PB  - Illinois State Superintendent of Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 375.13 .I29i
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Public Instruction
+T1  - Course of study for high schools
+Y1  - 1913
+D1  - 1913
+KW  - High schools
+KW  - Curricula
+KW  - Courses of study
+N1  - volumes 23 cm; Responsibility: issued by the State Board of Education
+PB  - Arkansas State Department of Public Instruction
+CY  - Ft. Smith, AR
+LA  - English
+CN  - 375.15 .A71c 1913
+SC  - Arkansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Colegrove, Chauncey P.
+A2  - Iowa State Department of Public Instruction
+T1  - Course of study and manual of methods for the elementary schools of Iowa
+Y1  - 1913
+D1  - 08/1913
+SP  - 327
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 327 pages : illustrations ; 23 cm; Responsibility: prepared by Chauncey P. Colegrove.
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 375.13 .I64e 1913
+SC  - Iowa
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cotton, Fassett A.
+A2  - Indiana State Department of Public Instruction
+T1  - State manual and uniform course of study for the elementary schools of Indiana
+Y1  - 1907
+D1  - 1907-1908
+SP  - 144
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 144 pages ; 23 cm; Note(s): Fassett A. Cotton, State Superintendent of Public Instruction./ 1907-1908.; Responsibility: issued by the Dept. of Public Instruction.
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.13 .I39s 1907
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Manual with courses of study for the elementary schools of Indiana
+Y1  - 1919
+D1  - 1919
+SP  - 336
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.13 .I39m 1919
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Manual with courses of study for the elementary schools of Indiana
+Y1  - 1921
+D1  - 1921
+SP  - 276
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.13 .I39m 1921
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+
+TY  - BOOK
+A2  - Indianapolis (Indiana) Public Schools
+T1  - Courses of study, minimum essentials, elementary schools
+Y1  - 1920
+D1  - 1920-1921
+SP  - 184
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+PB  - Indianapolis (Indiana) Public Schools
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.13 .I39c 1920
+SC  - Indiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Public Instruction
+T1  - Course of study for high schools
+Y1  - 1920
+D1  - 1920
+KW  - High schools
+KW  - Curricula
+AB  - pt. 1. General outline.
+PB  - Arkansas State Department of Public Instruction
+CY  - Ft. Smith, AR
+LA  - English
+CN  - 375.15 .A71c 1920
+SC  - Arkansas
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A2  - Delaware State Board of Education
+T1  - Handbook for secondary schools
+Y1  - 1939
+D1  - 03/1939
+SP  - 42
+KW  - High schools
+KW  - Curricula
+KW  - Courses of study
+N1  - 42 pages 23 cm; Note(s): Cover title./ "Good references": page 42.
+PB  - Delaware State Board of Education
+CY  - Dover, DE
+LA  - English
+CN  - 375.15 .D34h 1939
+SC  - Delaware
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Public Instruction
+T1  - Standards and programs of studies for Florida high schools. September 1, 1925
+Y1  - 1925
+D1  - 09/1925
+SP  - 20
+KW  - High schools
+KW  - Curricula
+N1  - 20 p. 23 cm.; Responsibility: Prepared under the direction of W.S. Cawthon, state superintendent of public instruction, Tallahassee.
+PB  - Florida State Superintendent of Public Instruction
+CY  - Tallahassee, FL
+LA  - English
+CN  - 375.15 .F63s 1925
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Stewart, Joseph Spencer
+T1  - Secondary education
+Y1  - 1919
+D1  - 10/1919
+SP  - 35
+KW  - Secondary education
+AB  - Foreword.--Historical sketch.--Objectives of education.--Standards for accrediting high schools in Georgia, approved in 1919, with comments.--The seven groups of high school studies.--Schedules and miscellaneous suggestions.
+N1  - 35 p.; Note(s): Individual record for Georgia high schools (fold.)--included.
+T2  - Bulletin of the University of Georgia
+V1  - 20
+IS  - 1
+PB  - University of Georgia
+CY  - Athens, GA
+LA  - English
+CN  - 375.15 .G35s 1919
+SC  - Georgia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Thackston, John A.
+T1  - High school manual for Florida
+Y1  - 1912
+D1  - 08/1912
+SP  - 146
+KW  - High schools
+KW  - Curricula
+N1  - 146 p.; Responsibility: Prepared by Jno. A. Thackston ... state high school inspector, and others.
+T2  - University of Florida. University record
+V1  - 7
+IS  - 3
+PB  - University of Florida
+CY  - Gainesville, FL
+LA  - English
+CN  - 375.15 .F63h
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii Territory Department of Public Instruction
+T1  - Program of studies for the secondary schools of Hawaii
+Y1  - 1948
+D1  - 01/1948
+KW  - Secondary education
+KW  - Curricula
+N1  - 31 leaves; Note(s): A publication of the Standard program committee./ Mimeographed./ Revised edition of Hawaii (Ter.)--Dept. of public instruction. High school course of study.
+PB  - Hawaii Territory Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 375.15 .H38p 1948
+SC  - Hawaii
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Manual and course of study for the high schools of Idaho
+Y1  - 1923
+D1  - 04/1923
+SP  - 164
+KW  - High schools
+KW  - Curricula 
+ED  - Rev.
+PB  - Idaho State Department of Education
+LA  - English
+CN  - 375.15 .I18 1923
+SC  - Idaho
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Digest of courses of study for secondary schools of Indiana
+Y1  - 1954
+D1  - 1954
+SP  - 302
+KW  - High schools
+KW  - Curricula 
+T2  - Indiana State Department of Public Instruction. Bulletin
+V1  - 210
+ED  - 3rd revision, June, 1954
+PB  - Indiana State Superintendent of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.15 .I39d 1954
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois (Urbana-Champaign campus)
+T1  - High school manual, 1911-1912
+Y1  - 1911
+D1  - 04/1911
+SP  - 123
+KW  - High schools
+KW  - Curricula
+N1  - 123 p. ; 20 cm.; Note(s): Cover title./ "April 10, 1911."
+T2  - University of Illinois bulletin
+V1  - 8
+IS  - 32
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 375.15 .I29h 1911
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - General course of study for Arizona schools
+Y1  - 1922
+D1  - 1922
+SP  - 190
+KW  - Courses of study
+KW  - Curricula
+PB  - Arizona State Department of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.81 .A71g 1922
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - General course of study for Arizona schools
+Y1  - 1923
+D1  - 1923
+SP  - 190
+KW  - Courses of study
+KW  - Curricula
+PB  - Arizona State Department of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.81 .A71g 1923
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - General course of study for Arizona schools
+Y1  - 1928
+D1  - 1928
+SP  - 161
+KW  - Courses of study
+KW  - Curricula
+PB  - Arizona State Department of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.81 .A71g 1928
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Board of Education
+T1  - Course of study for the common schools of Arizona
+Y1  - 1912
+D1  - 1912
+SP  - 129
+KW  - Curricula
+KW  - Courses of study
+N1  - 127, [2] pages 23 cm; Responsibility: Adopted by the State board of education.
+PB  - Arizona State Board of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.81 .A71c 1912
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A1  - Cawthon, William S.
+A2  - Florida State Department of Public Instruction
+T1  - The Florida program of curriculum revision; general plans and organization
+Y1  - 1931
+D1  - 11/1931
+SP  - 22
+KW  - Curricula
+N1  - 22 pages 23 cm.; Responsibility: Prepared under the direction of W.S. Cawthon, State Superintendent of Public Instruction, Tallahassee.
+T2  - Florida State Department of Public Instruction. Curriculum bulletin
+V1  - 1
+PB  - Florida State Department of Public Instruction
+CY  - Tallahassee, FL
+LA  - English
+CN  - 375.81 .F63f 1931
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Murray, John Franklin
+A2  - Colorado State Department of Public Instruction
+T1  - State course of study for the public schools of Colorado : school libraries, college preparatory courses of study : suggestive syllabus of work for the state normal institutes
+Y1  - 1893
+D1  - 1893
+SP  - 71
+KW  - Curricula
+KW  - Courses of study
+N1  - 71 pages ; 24 cm; Note(s): This course was prepared in 1890. Revised in 1893./ Approved and published by John F. Murray, Superintendent of Public Instruction.
+PB  - Colorado State Superintendent of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 375.81 .C71 1893
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Peavey, Angenette J.
+A2  - Colorado State Department of Public Instruction
+T1  - State course of study for the public schools of Colorado : list of books suitable for school libraries, college preparatory courses of study, state normal school
+Y1  - 1895
+D1  - 1895
+SP  - 52
+KW  - Curricula
+KW  - Courses of study
+PB  - Colorado State Superintendent of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 375.81 .C71 1893
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Grenfell, Helen L.
+A2  - Colorado State Department of Public Instruction
+T1  - State course of study for the common schools of Colorado: suggestions for teachers and school officials, college preparatory course of study, school library book list.
+Y1  - 1900
+D1  - 1900
+SP  - 94
+KW  - Curricula
+KW  - Courses of study
+PB  - Colorado State Superintendent of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 375.81 .C71 1893
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A1  - Grenfell, Helen L.
+A2  - Colorado State Department of Public Instruction
+T1  - Colorado Arbor day notes with suggestions for Bird Day, April 20, 1900
+Y1  - 1900
+D1  - 04/1900
+SP  - 30
+KW  - Trees
+PB  - Colorado State Superintendent of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 375.81 .C71 1893
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+T1  - Manual for Georgia teachers
+Y1  - 1925
+D1  - 1925
+SP  - 296
+KW  - Teachers
+KW  - Courses of studies
+PB  - Georgia State Department of Education
+CY  - Atlanta. GA
+LA  - English
+CN  - 375.81 .G35m 1925
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Courses of study and manual of methods for the public schools of Idaho
+Y1  - 1923
+D1  - 11/1923
+SP  - 138
+KW  - Elementary education
+KW  - Courses of study
+KW  - Curricula
+N1  - 138 pages; Genre/Form: Handbooks, manuals, etc.
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 375.81 .I18c 1923
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Courses of study and manual of methods for the public schools of Idaho
+Y1  - 1925
+D1  - 08/1925
+SP  - 160
+KW  - Elementary education
+KW  - Courses of study
+KW  - Curricula
+N1  - 138 pages; Genre/Form: Handbooks, manuals, etc.
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 375.81 .I18c 1925
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A1  - Siders, Walter Raleigh
+A2  - Idaho State Superintendent of Public Instruction
+T1  - Courses of study and manual of methods for the public schools of Idaho
+Y1  - 1915
+D1  - 1915
+SP  - 138
+KW  - Curricula
+KW  - Courses of study
+N1  - 138 pages 23 cm.; Note(s): One leaf of index inserted after p. [22].; Responsibility: Prepared by Mr. Walter R. Siders, superintendent of the Pocatello city schools.
+T2  - Idaho bulletin of education
+V1  - 1
+IS  - 4
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 375.81 .I18c 1915
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A1  - Siders, Walter Raleigh
+A2  - Idaho State Superintendent of Public Instruction
+T1  - Courses of study and manual of methods for the public schools of Idaho
+Y1  - 1918
+D1  - 1918
+SP  - 144
+KW  - Curricula
+KW  - Courses of study
+N1  - 144 pages 23 cm.; Note(s): One leaf of index inserted after p. [22].; Responsibility: Prepared by Mr. Walter R. Siders, superintendent of the Pocatello city schools.  Reprint of May, 1915 edition.
+T2  - Idaho bulletin of education
+V1  - 1
+IS  - 4
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 375.81 .I18c 1915a
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A1  - Siders, Walter Raleigh
+A2  - Idaho State Superintendent of Public Instruction
+T1  - Courses of study and manual of methods for the public schools of Idaho
+Y1  - 1911
+D1  - 1911
+SP  - 143
+KW  - Curricula
+KW  - Courses of study
+N1  - 143 p. ; 24 cm.; Note(s): Includes index.; Other Titles: Courses of study and teacher's manual for the public schools of Idaho; Responsibility: prepared by Walter R. Siders.
+ED  - 3rd
+PB  - Idaho State Superintendent of Public Instruction
+CY  - Boise, ID
+LA  - English
+CN  - 375.81 .I18c 1911
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Education Association. County Superintendents' Section
+T1  - Course of study for the common schools of Illinois
+Y1  - 1918
+C1  - 1918
+SP  - 328
+KW  - Curricula
+KW  - Courses of study
+N1  - rev. by the Standing Committee on State Course of Study chosen by the County Superintendents' Section of the Illinois State Teachers' Association
+ED  - 6th general revision. 
+PB  - Illinois State Education Association
+CY  - Taylorville, IL
+LA  - English
+CN  - 375.81 .I29c 1918
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Education Association. County Superintendents' Section
+T1  - Course of study for the common schools of Illinois
+Y1  - 1925
+C1  - 1925
+SP  - 336
+KW  - Curricula
+KW  - Courses of study
+N1  - rev. by the Standing Committee on State Course of Study chosen by the County Superintendents' Section of the Illinois State Teachers' Association
+ED  - 7th general revision. 
+PB  - Illinois State Education Association
+CY  - Taylorville, IL
+LA  - English
+CN  - 375.81 .I29c 1925
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Education Association. County Superintendents' Section
+T1  - Course of study for the common schools of Illinois
+Y1  - 1907
+D1  - 1907
+SP  - 278
+KW  - Curricula
+KW  - Courses of study
+N1  - 278, [1] pages illustrations, diagrams 22 cm; Note(s): "References books for a school library": pages 264-269; rev. by the Standing Committee of the County Superintendents' Section of the State Teachers' Association
+ED  - 4th general revision
+PB  - Illinois State Education Association
+CY  - Taylorville, IL
+LA  - English
+CN  - 375.81 .I29c 1907
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Education Association. County Superintendents' Section
+T1  - Course of study for the common schools of Illinois
+Y1  - 1897
+D1  - 1897
+SP  - 148
+KW  - Curricula
+KW  - Courses of study
+ED  - Rev
+PB  - Illinois Education Association
+CY  - Taylorville, IL
+LA  - English
+CN  - 375.81 .I29c 1897
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Stadtman, Charles C.
+A2  - Illinois State Curriculum Steering Committee
+T1  - Curriculum bulletin number two: introduction to the tentative curriculum guides for rural schools
+Y1  - 1940
+D1  - 1940
+SP  - 107
+KW  - Curricula
+KW  - Courses of study
+T2  - Illinois State Curriculum Steering Committee. Curriculum number
+V1  - 315
+PB  - Illinois State Curriculum Steering Committee
+LA  - English
+CN  - 375.81 .I29c 1940
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Indiana County Superintendents' Association
+T1  - Course of study for the district schools of Indiana
+Y1  - 1891
+D1  - 1891-1892
+SP  - 30
+KW  - Curricula
+KW  - Courses of study
+PB  - Indiana County Superintendents' Association
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.81 .I39c 1891
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana County Superintendents' Association
+T1  - State manual and uniform course of study for the elementary and high schools of Indiana
+Y1  - 1893
+D1  - 1893
+SP  - 70
+KW  - Curricula
+KW  - Courses of study
+PB  - Indiana County Superintendents' Association
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.81 .I39s 1893
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Program of studies and digest of state courses of study for Indiana schools, grades kindergarten to twelve ... Prepared under the direction of the Inspection division and Roy P. Wisehart, state superintendent of public instruction, 1930
+Y1  - 1930
+D1  - 1930
+SP  - 56
+KW  - Curricula
+KW  - Courses of study
+N1  - 56 pages 23 cm.; Note(s): At head of title: State of Indiana. Department of Public Instruction.
+T2  - Indiana State Department of Public Instruction. Supplement to Bulletin
+V1  - 100
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.81 .I39p 1930
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - State manual and uniform course of study for the public schools of Indiana
+Y1  - 1913
+D1  - 1913-1914
+SP  - 284
+KW  - Curricula
+KW  - Courses of study
+N1  - 284 pages 23 cm; Responsibility: Issued by the Dept. of public instruction. Chas. A. Greathouse, state superintendent of public instruction. 1913-1914.
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.81 .I39s 1913
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - State manual and uniform course of study for the elementary and high schools of Indiana
+Y1  - 1895
+D1  - 1895
+SP  - 116
+KW  - Curricula
+KW  - Courses of study
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.81 .I39s 1895
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - State manual and uniform course of study for the elementary and high schools of Indiana
+Y1  - 1896
+D1  - 1896
+SP  - 85
+KW  - Curricula
+KW  - Courses of study
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.81 .I39s 1896
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - State manual and uniform course of study for the elementary and high schools of Indiana
+Y1  - 1897
+D1  - 1897
+SP  - 198
+KW  - Curricula
+KW  - Courses of study
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 375.81 .I39s 1897
+SC  - Indiana
+ER  - 
+

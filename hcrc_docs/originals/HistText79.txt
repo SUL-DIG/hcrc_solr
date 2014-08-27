@@ -1,0 +1,1226 @@
+
+
+TY  - BOOK
+A1  - Worlton, James T.
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Course of study for regional problems
+Y1  - 1940
+D1  - 1940
+SP  - 138
+N1  - Secondary school program of studies field of the social studies
+KW  - Social sciences
+PB  - Salt Lake City (Utah) Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 371.33 .S17c
+SC  - Utah
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Clare, Frances J.
+A2  - San Diego (California) City Schools
+A2  - San Diego (California) City Schools Curriculum Center
+T1  - Plan for teaching a unit on community life centered around the San Diego Zoo
+Y1  - 1948
+D1  - 1948
+KW  - Community life 
+KW  - Curricula
+KW  - San Diego Zoo
+SP  - 56
+N1  - 56 p. ; 28 cm.; Note(s): "Plan for the unit was developed from suggestions by: Frances Johnson, Mildred Fisk, Anna Mae Bolin, Mona E. Conway ; Construction suggestions contributed by Anna Mae Bolin, Carmen Sikes."; Responsibility: prepared by Frances J. Clare.
+PB  - San Diego (California) City Schools Curriculum Center
+CY  - San Diego, CA
+LA  - English
+CN  - 371.33 .S193pL
+SC  - California
+ER  - 
+
+TY  - BOOK
+T1  - Social studies course of study
+SP  - 98
+KW  - Social sciences
+LA  - English
+CN  - 371.33 .S193s
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena Junior College
+T1  - Human outlook and development : a study of human values; committee on orientation
+Y1  - 1925
+D1  - 1925
+SP  - 133
+KW  - Social sciences
+N1  - xiii; ; 23 cm.; Note(s): Contains references.; Responsibility: Pasadena junior college.
+PB  - Pasadena Junior College
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.9 .P28h
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Board of Education
+T1  - Clothes of the world : a unit of work for grades 3 and 4
+Y1  - 1940
+D1  - 12/1940
+KW  - Clothing and dress
+KW  - Social sciences
+N1  - ill. ; 28 cm.; Note(s): "This unit of work has been prepared for all the elementary schools of San Mateo County."
+T2  - San Mateo County (California) Board of Education. Social Studies Unit
+V1  - 12
+PB  - San Mateo County (California) Board of Education
+CY  - Redwood City, CA
+LA  - English
+CN  - 371.33 .S197c
+SC  - California
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Schenectady (New York) Public Schools
+T1  - Seventh grade social studies : a suggested outline
+Y1  - 1955
+D1  - 05/1955
+KW  - Social sciences
+KW  - Curricula
+SP  - 22
+N1  - 22 leaves ; 28 cm.; Note(s): "May, 1955."/ Includes bibliographical references.; Other Titles: 7th grade social studies
+PB  - Schenectady (New York) Public Schools
+CY  - Schenectady, NY
+LA  - English
+CN  - 371.33 .S32s
+SC  - New York
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How does the motion picture shape our opinion?  How does the radio influence our thinking?
+Y1  - 1940
+D1  - 08/1940
+SP  - 4
+KW  - Motion pictures
+KW  - Radio
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 10.1 - f
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.45 .P27h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - St. Paul (Minnesota) Public Schools
+T1  - Making the most of ourselves: a curriculum resource guide for teachers (ninth grade common learnings)
+Y1  - 1949
+D1  - 09/1949
+SP  - 15
+KW  - Self improvement programs
+T2  - St. Paul (Minnesota) Public Schools. Curriculum bulletin
+V1  - 29
+PB  - St. Paul (Minnesota) Public Schools
+CY  - St. Paul, MN
+LA  - English
+CN  - 371.46 .S15m
+SC  - Minnesota
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Superintendent of Schools
+T1  - Arranging an environment to initiate a unit
+KW  - Classroom environment
+PB  - Tulare County (California) Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 371.63 .T91a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Leandro (California) Unified School District
+T1  - Curriculum guide
+Y1  - 1952
+D1  - 11/1952
+KW  - Curricula
+N1  - Prepared by teachers for Secondary curriculum study.
+PB  - San Leandro (California) Unified School District
+CY  - San Leandro, CA
+LA  - English
+CN  - 373.13 .S196s
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+T1  - Universal Exposition at Saint Louis, 1904
+Y1  - 1904
+D1  - 1904
+SP  - 14
+KW  - Exhibitions
+N1  - ill., map ; 22 cm.; Note(s): Cover title.; Responsibility: by its Division of Exhibits. Department of Education.
+T2  - Circular (Louisiana Purchase expedition (1904 : St. Louis) Division of Exhibits. Department of Education)
+V1  - 2
+PB  - Universal Exposition at Saint Louis, 1904
+CY  - St. Louis, MO
+LA  - English
+CN  - 374.26 .S14u
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A1  - Drag, Francis L.
+T1  - Curriculum laboratories in the United States; a research study, San Diego County Schools
+Y1  - 1947
+D1  - 09/1947
+SP  - 172
+KW  - Instructional materials centers
+KW  - Curricula
+N1  - 172 pages illustrations 28 cm.; Note(s): Includes bibliographical references.  Series edited by John S. Carroll, Superintendent
+T2  - San Diego County (California) Superintendent of Schools. Education monograph
+V1  - 15
+PB  - San Diego County (California) Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S194c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Department of Instruction
+A2  - St. Louis (Missouri) Board of Education
+T1  - Evaluation handbook for elementary schools;
+Y1  - 1952
+D1  - 1952
+SP  - 138
+KW  - Elementary education
+N1  - vi, 138 p.; Responsibility: Charles H. Christel, president, Philip J. Hickey, supt. of instruction ... [et al.].
+ED  - 3rd experimental
+PB  - St. Louis (Missouri) Department of Instruction
+CY  - St. Louis, MO
+LA  - English
+CN  - 375 .S14e
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) Secondary Schools. Organization of Curricular Activities
+T1  - Organization chart and summary of characteristics and activities of curriculum groups for 1937-1938
+Y1  - 1937
+D1  - 10/1937
+SP  - 6
+KW  - Curricula
+PB  - San Diego (California) Secondary Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S194o
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) Secondary Schools
+T1  - Report of a temporary committee on the planning and development of general education programs in secondary schools
+Y1  - 1946
+D1  - 1946?
+SP  - 3
+KW  - Humanistic education
+PB  - San Diego (California) Secondary Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375 .S194r
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Langsdorf, William
+A1  - Melchior, William B.
+A1  - Thomas, Ralph B.
+A2  - Pasadena (California) City Schools
+T1  - American government: a source unit for social studies 1a-b
+Y1  - 1940
+D1  - 08/1940
+SP  - 22
+KW  - Politics and government
+KW  - United States
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 12.1
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 320 .P27a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How can we better understand our place in economic society
+Y1  - 1940
+D1  - 08/1940
+SP  - 4
+KW  - Economics
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 10.3
+ED  - Provisional
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 330 .P27h
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How can we obtain better international cooperation?
+Y1  - 1940
+D1  - 08/1940
+SP  - 2
+KW  - International relations
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 10.5
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 327 .P27ho
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - What effect do books have upon our thinking?  How does advertising affect our thinking?
+Y1  - 1940
+D1  - 08/1940
+SP  - 4
+KW  - International relations
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 10.1-d
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 339.4 .P27c
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - St. Paul (Minnesota) Public Schools
+T1  - Supervising student teachers in the St. Paul elementary schools
+Y1  - 1961
+D1  - 1961
+KW  - Elementary education
+KW  - Student teaching
+T2  - St. Paul (Minnesota) Public Schools. Curriculum bulletin
+V1  - 81
+PB  - St. Paul (Minnesota) Public Schools
+CY  - St. Paul, MN
+LA  - English
+CN  - 370.733 .S15s
+SC  - Minnesota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+T1  - The Community School of St. Louis, kindergarten and six grades.
+D1  - 1968?
+KW  - Elementary education
+PB  - Community School of St. Louis
+CY  - St. Louis, MO
+LA  - English
+CN  - 370.975 .S14c
+SC  - Missouri
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Superintendent of Schools
+T1  - Service area committee reports
+Y1  - 1952
+D1  - 12/1952
+KW  - Schools
+PB  - San Diego County (California) Superintendent of Schools
+LA  - English
+CN  - 371.3 .S194s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Elementary Schools
+T1  - Interesting places to visit
+Y1  - 1938
+D1  - 1938
+KW  - School field trips
+PB  - San Jose (California) Elementary Schools
+CY  - San Jose, CA
+LA  - English
+CN  - 371.3 .S197i
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How do meetings, parades and spectacles affect our thinking?
+Y1  - 1940
+D1  - 08/1940
+SP  - 2
+KW  - Social sciences
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 10.1-L
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.33 .P27h
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) Chamber of Congress. Education Committee
+T1  - Post high school education in the San Diego area, a preliminary study
+Y1  - 1955
+D1  - 05/1955
+KW  - Higher education
+PB  - San Diego (California) Chamber of Congress. Education Committee
+CY  - San Diego, CA
+LA  - English
+CN  - 378.04 .S19p
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How do we safeguard our citizens
+Y1  - 1940
+D1  - 08/1940
+SP  - 6
+KW  - Social sciences
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 9.2
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.33 .P27ho
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - What are my social opportunities and responsibilities in group living?
+Y1  - 1940
+D1  - 08/1940
+SP  - 10
+KW  - Social sciences
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 9.6
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.33 .P27w
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis County (Missouri) Commission on the Teaching of the Social Studies
+T1  - Report
+Y1  - 1938
+D1  - 09/1938
+SP  - 120
+KW  - Social sciences
+PB  - St. Louis County (Missouri) Commission on the Teaching of the Social Studies
+CY  - St. Louis, Missouri
+LA  - English
+CN  - 371.33 .S14r
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - Socializing-integrating activities for grades VII, VIII, and IX committee reports
+Y1  - 1926
+D1  - 1926
+SP  - 65
+KW  - Social sciences
+PB  - St. Louis (Missouri) Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 371.33 .S14so
+SC  - Missouri
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Superintendent of Schools
+T1  - A brief history including an annual report of services rendered in 1947-1948 for education in San Diego County
+Y1  - 1949
+D1  - 01/1949
+KW  - Schools
+KW  - Education
+PB  - San Diego County (California) Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379 .S194f
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hockett, John Alpheus
+A2  - San Diego County (California) Board of Education
+T1  - Report of the survey of the La Mesa-Spring Valley school district, La Mesa, California, 1945
+Y1  - 1945
+D1  - 1945
+SP  - 149
+KW  - Educational surveys
+N1  - 149 leaves illustrations; Other Titles: La Mesa-Spring Valley school district
+T2  - San Diego County (California) Board of Education. Education monograph
+V1  - 5
+PB  - San Diego County (California) Board of Education
+CY  - San Diego, CA
+LA  - English
+CN  - 379 .S194L
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Packard, Emmy Lou
+A2  - San Francisco (California) Unified School District. Elementary School Department
+T1  - San Francisco today
+Y1  - 1948
+D1  - 1948
+SP  - 32
+KW  - Travel
+KW  - San Francisco
+AB  - The story of San Francisco -- The bridges -- A friendly sea gull -- Listening to the city -- Early San Francisco -- Pleasant things to smell -- Places to visit -- The Civic Center -- The city by the Golden Gate -- A city of hills -- Telegraph Hill -- Our pleasant climate -- Our people -- Planning new homes.
+N1  - 32 pages : illustrations (some color), color maps ; 23 cm.; Genre/Form: Juvenile works.; Note(s): Map and illustration on p. [2]-[3] of cover.; Responsibility: by the Elementary School Department ; [text and illustrations by Emmy Lou Packard]. 
+T2  - San Francisco social studies series
+V1  - 1
+PB  - San Francisco (California) Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 979.46 .S19t v. 7
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - What are my personal opportunities and responsibilities?
+Y1  - 1940
+D1  - 08/1940
+SP  - 11
+KW  - Social sciences
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 9.5
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.74 .P27c
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How can one be prepared successfully to carry on his further education
+Y1  - 1940
+D1  - 08/1940
+SP  - 4
+KW  - Social sciences
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 10.2
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.74 .P27h
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Spangler, Gladiss
+A2  - Pasadena (California) City Schools
+T1  - Orientation to new situations
+Y1  - 1940
+D1  - 08/1940
+SP  - 4
+KW  - Social sciences
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 7.1
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.74 .P27o
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - What are my occupational opportunities and responsibilities?
+Y1  - 1940
+D1  - 08/1940
+SP  - 9
+KW  - Occupations
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 9.4
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.74 .P27w
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - What are my educational opportunities
+Y1  - 1940
+D1  - 08/1940
+SP  - 4
+KW  - Education
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 9.3
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.74 .P27wh
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Superintendent of Schools
+T1  - Oral & written language--grades one through eight, course of study
+Y1  - 1957
+D1  - 09/1957
+SP  - 41
+KW  - Language arts
+PB  - San Diego County (California) Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.2 .S19o
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - Guide to language arts experiences, kindergarten through sixth grade
+KW  - Language arts
+T2  - San Jose (California) Unified School District. Curriculum monograph
+V1  - 26
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 428.2 .S197L
+SC  - California
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - MacRae, Margit W.
+A2  - San Diego (California) City Schools
+T1  - Handbook for the teaching of Spanish in elementary grades
+Y1  - 1952
+D1  - 1952
+SP  - 191
+KW  - Spanish language
+N1  - 191 pages 28 cm; Responsibility: edited and compiled by Margit W. MacRae, assisted by Eunice L. Acosta [and others] Reviewed and approved by Instructional Council.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.211 .S193h
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - McKnight, Barbara
+A2  - San Diego (California) City Schools
+A2  - San Diego (California) City Schools Curriculum Center
+T1  - Plan for teaching a unit on communication and records, centered on a study of how the newspaper influences daily living : grade VI
+Y1  - 1949
+D1  - 1949
+SP  - 101
+KW  - Newspapers 
+KW  - Curricula
+N1  - 101 p. ; 28 cm.; Genre/Form: Outlines, syllabi, etc.; Other Titles: How the newspaper influences daily living; Responsibility: prepared by Barbara McKnight.
+PB  - San Diego (California) City Schools Curriculum Center
+CY  - San Diego, CA
+LA  - English
+CN  - 428.24 .S193p
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Hancock, Irene Dorval
+A1  - Segal, Elizabeth
+A2  - San Diego (California) City Schools
+T1  - Guide to resource materials for the first year of Spanish in the elementary grades : grade IV
+Y1  - 1953
+D1  - 1953
+SP  - 241
+KW  - Spanish language
+N1  - ill. ; cm; Responsibility: by Irene Dorval Hancock, and others
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.211 .S193g
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Second year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 2nd
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Third year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 3rd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Fourth year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 4th
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Fifth year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 5th
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Sixth year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 6th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Seventh year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 7th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Eighth year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 8th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Ninth year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 9th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Tenth year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 10th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Eleventh year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 11th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City School
+T1  - Twelfth year
+Y1  - 1919
+D1  - 1919?
+KW  - Literature
+N1  - Words from the masters selected and arranged by Jeremiah M. Rhodes
+T2  - Series education of the child
+PB  - Pasadena (California) City School
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.5 .P27s 12th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Burton, Dwight L.
+A1  - Dunning, Stephen
+A1  - Mosher, Terence D.
+T1  - Courage : Teacher's notebook and lesson plans for Courage
+Y1  - 1960
+SP  - 173
+KW  - Literature
+N1  - ill. ; 28 cm.; Other Titles: Teacher's notebook and lesson plans for Courage.; Responsibility: edited by Dwight L. Burton, Stephen Dunning and Terence D. Mosher.
+T2  - Scholastic literature units
+V1  - 5100
+PB  - Scholastic Book Services
+CY  - New York, NY
+LA  - English
+CN  - 428.5 .S35s
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, Harlan L.
+T1  - Index for elementary science readers
+Y1  - 1955
+D1  - 1955
+SP  - 27
+KW  - Science
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 519 .S19i
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Perry, Winifred
+T1  - Aviation in our modern world: a unit for ninth-grade general science
+Y1  - 1943
+D1  - 1943
+SP  - 73
+KW  - Airplanes
+N1  - An outgrowth of San Diego City Schools Curriculum Development Center, summer of 1942
+ED  - Revised second edition
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 521.9 .S193a
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Lipp, Leta A.
+A2  - San Diego (California) City Schools
+A2  - San Diego (California) City Schools Curriculum Center
+T1  - Plan for teaching a unit on living in a Pueblo Indian home : grade III
+Y1  - 1948
+D1  - 1948
+SP  - 121
+KW  - Pueblo Indians
+KW  - California
+N1  - map ; 28 cm.; Note(s): All left-hand pages are blank and unnumbered./ "Members of Advisory Committee, Nina Burnett, Frances Younkins, Francel Barton, Helen French, Elaine Templin, Vesta Petersen, Mary Virginia Lovelly, Martha K. McIntosh, Chairman."; Other Titles: Living in a Pueblo Indian home; Responsibility: prepared by Leta A. Lipp.
+PB  - San Diego (California) City Schools Curriculum Center
+CY  - San Diego, CA
+LA  - English
+CN  - 572 .S193p
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How can we use science and inventions to improve our way of life? Health
+Y1  - 1940
+D1  - 08/1940
+SP  - 14
+KW  - Health and hygiene
+KW  - Science
+KW  - Inventions
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 7.11, 8.11
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 613 .P27ho
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Department of Instruction
+T1  - Courses of study in sewing and cooking
+Y1  - 1902
+D1  - 02/1902
+SP  - 7
+KW  - Home economics
+T2  - Public school messenger
+V1  - 4
+IS  - 2
+PB  - St. Louis (Missouri) Department of Instruction
+CY  - St. Louis, MO
+LA  - English
+CN  - 640 .S14c
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) Board of Education
+T1  - Course of study for senior high schools: home economics
+Y1  - 1944
+D1  - 1944
+SP  - 28
+KW  - Home economics
+PB  - San Diego (California) Board of Education
+CY  - San Diego, CA
+LA  - English
+CN  - 640 .S19h
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Mateo County (California) Board of Education
+T1  - The story of lighting : a unit of work for grades 5 and 6
+Y1  - 1940
+D1  - 02/1940
+SP  - 85
+KW  - Lighting
+KW  - Social sciences
+KW  - Curricula
+N1  - ill. ; 28 cm.; Note(s): "This unit of work has been prepared for all the elementary schools of San Mateo County."/ Includes bibliographical references.
+T2  - Social Studies Unit
+V1  - 8
+PB  - San Mateo County (California) Elementary Schools
+CY  - Redwood City, CA
+LA  - English
+CN  - 535 .S197s
+SC  - California
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Ziegfeld, Edwin
+A1  - Smith, Mary Elinore
+T1  - Art for daily living : the story of the Owatonna Art Education Project
+Y1  - 1944
+D1  - 1944
+SP  - 155
+KW  - Art
+N1  - ix; ill. ; 23 cm.; Note(s): Photocopy cover title: Art a way of life./ Includes bibliographical references (p. 154-155)./ Reproduction: Photocopy./ Ann Arbor, Mich. :/ University Microfilms International,/ 1980./ 21 cm.; Other Titles: Art a way of life; Responsibility: by Edwin Ziegfeld and Mary Elinore Smith.
+T2  - Owatonna Art Education Project. Publications
+V1  - 4
+PB  - University of Minnesota Press
+CY  - Minneapolis, MN
+LA  - English
+CN  - 740 .O97a
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How do magazines affect our thinking?
+Y1  - 1940
+D1  - 08/1940
+SP  - 14
+KW  - Magazines
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 10.1 - c
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 655 .P27cu
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How does the newspaper affect our thinking?
+Y1  - 1940
+D1  - 08/1940
+SP  - 6
+KW  - Newspapers
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 10.1 - b
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 655 .P27h
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Clare, Frances J.
+T1  - A unit on traveling in our city, grade II
+Y1  - 1952
+D1  - 1952
+SP  - 67
+KW  - Travel
+KW  - San Diego
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 656 .S193u
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Art materials for source units, seventh grade
+Y1  - 1940
+D1  - 08/1940
+SP  - 4
+KW  - Art
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 7.50
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 740 .P27am
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How does the theatre influence our thinking?  How does art affect us?
+Y1  - 1940
+D1  - 08/1940
+SP  - 5
+KW  - Art
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 10.1 - h
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 655 .P27h
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Lewis, Albert J.
+A2  - San Diego (California) City Schools
+T1  - Guide for teaching art 1-2
+Y1  - 1963
+D1  - 1963
+SP  - 75
+KW  - Art
+N1  - illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 67-75).; Responsibility: prepared by Albert J. Lewis.
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 740 .S193g
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How does music influence emotion and thought?  How does personal communication influence thinking?
+Y1  - 1940
+D1  - 08/1940
+SP  - 3
+KW  - Music
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 10.1 - j
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 780 .P27h
+SC  - California
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Lipp, Leta A.
+A2  - San Diego (California) City Schools
+T1  - Plan for teaching a unit on living in a Chinese home, grade III
+Y1  - 1949
+D1  - 1949
+SP  - 119
+KW  - Chinese
+PB  - San Diego (California) City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 951 .S193p
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Our American heritage (Pacific-Southwest region)
+Y1  - 1940
+D1  - 08/1940
+SP  - 6
+KW  - United States history
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 8.3a
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 973 .P27cu
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - How can we improve our self government
+Y1  - 1940
+D1  - 08/1940
+SP  - 9
+KW  - Politics and government
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 9.1
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 973 .P27h
+SC  - California
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Our American heritage (Southwest region)
+Y1  - 1940
+D1  - 08/1940
+SP  - 15
+KW  - United States history
+T2  - Pasadena (California) City Schools. Monograph
+V1  - 8.3b
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 973 .P27o
+SC  - California
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Worlton, James T.
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Course of study for American history and civilization
+Y1  - 1940
+D1  - 1940
+SP  - 122
+KW  - United States history
+T2  - Secondary school program of studies field of the social studies
+PB  - Salt Lake City (Utah) Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 973 .S17c
+SC  - Utah
+G1  - High school
+ER  - 

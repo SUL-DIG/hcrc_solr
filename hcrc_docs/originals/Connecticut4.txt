@@ -1,27 +1,84 @@
 
 
 TY  - BOOK
-A2  - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - Per pupil aid for public school operation paid during 1966-67 on account of 1965-66 ADM
-Y1  - 1966
-D1  - 12/1966
-SP  - 7
-KW  - School finance
+A1  - Bechtel, Helen W.
+A2  - Connecticut State Board of Education
+T1  - An Investigation of First Grade Entrants in the Rural Schools of Connecticut, 1928-1929
+D1  - 1933?
+SP  - 64
+KW  - Elementary education
 N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+T2  - Connecticut State Board of Education. Rural education bulletin
+V1  - 1
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
-CN  - 379.74 .C4 1966
+CN  - 379.74 .C4 1932-33
+SC  - Connecticut
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Connecticut Board of Education
+T1  - School and community field days
+Y1  - 1923
+D1  - 02/1923
+SP  - 28
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut Board of education physical education and health bulletin; series 1922-23
+V1  - 1
+PB  - Connecticut Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1922-33
 SC  - Connecticut
 ER  -
 
 TY  - BOOK
-A2  - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - What's this about state aid to education? A primer
-SP  - 5
-KW  - School finance
+A2  - Connecticut State Board of Education
+T1  - School consolidation in Connecticut; brief history and present status of the movement
+Y1  - 1925
+D1  - 1925
+SP  - 14
+KW  - Schools
 N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+T2  - Connecticut State Board of Education. Research bulletin; series 1925-26
+V1  - 1
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1925-26
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Local school reports with particular reference to those of Connecticute towns and cities
+Y1  - 1925
+D1  - 1925
+SP  - 27
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education research bulletin; series 1925-26
+V1  - 2
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1925-26
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Connecticut school buildings present and future a study based upon the report of the fire escape inspector
+D1  - 1920?
+SP  - 12
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education statistical studies; series 1919-1920
+V1  - 2
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
 CN  - 379.74 .C4
@@ -29,27 +86,49 @@ SC  - Connecticut
 ER  -
 
 TY  - BOOK
-A2  - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - State grant payments made during school year 1965-1966
-Y1  - 1967
-D1  - 1967
-SP  - 10
-KW  - School finance
+A2  - Connecticut State Board of Education
+T1  - Suggestions for a program in educational guidance for secondary schools, emphasizing the life career motive
+Y1  - 1923
+D1  - 1923
+SP  - 41
+KW  - Vocational guidance
 N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+T2  - Connecticut State Board of Education high school bulletin; series 1922-23
+V1  - 2
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
-CN  - 379.74 .C4 1967
+CN  - 379.74 .C4 1923
 SC  - Connecticut
 ER  -
 
 TY  - BOOK
-A2  - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - The financing of improvements in education in Connecticut
-SP  - 2
-KW  - School finance
+A2  - Connecticut State Board of Education
+T1  - War's effects on the high schools of Connecticut
+D1  - 1919?
+SP  - 26
+KW  - War
 N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+T2  - Connecticut State Board of Education high school bulletin; series 1918-1919
+V1  - 3
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1918-1919
+SC  - Connecticut
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - The children of the state, are they where they should be?
+D1  - 1920?
+SP  - 11
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education statistical studies; series 1919-1920
+V1  - 4
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
 CN  - 379.74 .C4
@@ -57,42 +136,287 @@ SC  - Connecticut
 ER  -
 
 TY  - BOOK
-A2  - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - Some proposals for state support of education in Connecticut
-Y1  - 1962
-D1  - 09/1962
-SP  - 10
-KW  - School finance
+A2  - Connecticut State Board of Education
+T1  - Inspection and approval of high schools
+D1  - 1919?
+SP  - 8
+KW  - High schools
 N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+T2  - Connecticut State Board of Education high school bulletin; series 1918-1919
+V1  - 1
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
-CN  - 379.74 .C4 1962
+CN  - 379.74 .C4 1918-1919
+SC  - Connecticut
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Individual instruction of subnormal children in the rural schools of Connecticut
+Y1  - 1932
+D1  - 1932
+SP  - 40
+KW  - Children with disabilites
+KW  - Exceptional children
+N1  - 40 p. illus. 22 cm.; Note(s): "Prepared by Doctor Annette Bennett."/ "Selected list of tests and materials for diagnostic work and individual instruction in reading": p. 38-39. "Selected list of diagnostic and remedial material in arithmetic": p. 39-40; Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education special education bulletin; series 1931-32
+V1  - 1
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1931-32
 SC  - Connecticut
 ER  -
 
 TY  - BOOK
-A2  - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - The equalized educational support plan of the Connecticut State Board of Education SB904 - HB3224
-Y1  - 1963
-D1  - 02/1963
-SP  - 10
-KW  - School finance
+A2  - Connecticut State Board of Education
+T1  - Statistical returns for high schools, 1917-1918
+D1  - 1919?
+SP  - 33
+KW  - Statistics
 N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+T2  - Connecticut State Board of Education high school bulletin; series 1918-1919
+V1  - 2
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
-CN  - 379.74 .C4 1963
+CN  - 379.74 .C4 1918-1919
+SC  - Connecticut
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Holding power of Connecticut high schools
+D1  - 1919?
+SP  - 39
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education high school bulletin; series 1918-1919
+V1  - 5
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1918-1919
+SC  - Connecticut
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Report of the survey of the Orange center school, Orange, Connecticut
+Y1  - 1928
+D1  - 1928
+SP  - 37
+KW  - Educational surveys
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education special education and standards bulletin; series 1927-1928
+V1  - 1
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1927-1928
 SC  - Connecticut
 ER  -
 
 TY  - BOOK
-A2   - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - A proposal for state support of education in Connecticut
+A2  - Connecticut State Board of Education
+T1  - Testing for reclassification; report of the survey of the Milford schools
+Y1  - 1928
+D1  - 1928
+SP  - 79
+KW  - Grading and marking
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education special education and standards bulletin; series 1928-29
+V1  - 1
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1928-1929
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Nathan Hale
+Y1  - 1923
+D1  - 1923
+SP  - 18
+KW  - Hale, Nathan, 1755-1776
+KW  - Biography
+N1  - 18 p. illus. 22 cm.; Responsibility: State Board of Education; Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education Connecticut bulletin; series 1922-1923
+V1  - 3
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1922-1923
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - A manual on blackouts for superintendents of schools
+Y1  - 1942
+D1  - 03/1942
+SP  - 14
+KW  - World War, 1939-1945
+KW  - Blackouts in war
+KW  - Civil defense
+KW  - School management and organization
+KW  - War and education
+N1  - ill. ; 21 cm.; Note(s): Cover title./ "March 1942."/; Responsibility: Connecticut State Department of Education, Bureau of Education and Wartime Activities; Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education. Emergency bulletin
+V1  - 3
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1942
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - A manual on aerial bombardment for superintendents of schools
+Y1  - 1942
+D1  - 06/1942
+SP  - 22
+KW  - World War II
+KW  - Aerial bombing
+KW  - Civil defense
+KW  - School management and organization
+KW  - War and education
+N1  - 22 p. ; 22 cm.; Note(s): Cover title./ "June 1942."/Responsibility: Connecticut State Department of Education, Bureau of Education and Wartime Activities; Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education. Emergency bulletin
+V1  - 4
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1942
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Air raid manual for superintendents of schools
+Y1  - 1942
+D1  - 02/1942
+SP  - 23
+KW  - World War II
+KW  - Civil defense
+KW  - School management and organization
+KW  - War and education
+N1  - 23 pages ; 22 cm; Note(s): Cover title./Responsibility: Connecticut State Department of Education, Bureau of Education and Wartime Activities; Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Department of Education emergency bulletin
+V1  - 2
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1942
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Report of proceedings of midwinter meeting of Connecticut state teachers association, Hartford February 15 and 16, 1918
+Y1  - 1918
+D1  - 1918
+SP  - 57
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education Connecticut bulletin; series 1917-18
+V1  - 21
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4  1917-1918
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A1  - Mosher, Raymond Mylan
+A2  - Connecticut State Board of Education
+T1  - Educative seat work
+Y1  - 1927
+D1  - 1927
+SP  - 48
+KW  - Creative activities and seat work
+N1  - ill. ; 22 cm.; Note(s): At head of title: State board of education./ Prepared by Dr. Raymond M. Mosher./ "A library for primary grade children": p. 47-48.; Responsibility: State Board of Education; Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education Connecticut bulletin; series 1926-27
+V1  - 1
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1926-1927
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Meeting of the Connecticut association of public school superintendents
+Y1  - 1924
+D1  - 1924
+SP  - 15
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education Connecticut bulletin; series 1923-1924
+V1  - 4
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1923-1924
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Report of the committee on standard tests and measurements of the Connecticut school superintendents' association
+D1  - 1919?
+SP  - 10
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education Connecticut bulletin; series 1917-1918
+V1  - 75
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1917-1918
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Financial statistics relating to schools, Connecticut towns and cities, 1922-1923
+Y1  - 1924
+D1  - 1924
+SP  - 62
+KW  - School finance
+N1  - 62, [5] p. incl. tables. 22 cm.; Genre/Form: Statistics.; Responsibility: State board of education, Hartford, Connecticut, 1924; Shelved in Cubberley Library Reading Room
+T2  - Connecticut state board of education research bulletin; series 1923-4
+V1  - 1
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1924
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Suggested procedures in case of air raids
+Y1  - 1941
+D1  - 12/1941
 SP  - 4
-KW  - School finance
-N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+KW  - World War II
+KW  - Civil defense
+KW  - School management and organization
+KW  - War and education
+N1  - 4 pages ; 28 cm; Note(s): Cover title./ "December, 1941."; Responsibility: Connecticut State Department of Education, Division of Instruction; Shelved in Cubberley Library Reading Room
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
 CN  - 379.74 .C4
@@ -100,14 +424,48 @@ SC  - Connecticut
 ER  -
 
 TY  - BOOK
-A2  - Connecticut State Department of Education. Bureau of Research, Statistics and Finance
-T1  - The equalized educational support plan of the Connecticut State Board of Education SB904 - HB3224
-D1  - 1965?
-KW  - School finance
+A2  - Connecticut State Board of Education
+T1  - Opportunities in higher education in Connecticut
+Y1  - 1950
+D1  - 07/1950
+SP  - 19
+KW  - Higher education
 N1  - Shelved in Cubberley Library Reading Room
-PB  - Connecticut State Department of Education
+T2  - Connecticut State Board of Education bulletin
+V1  - 46
+PB  - Connecticut State Board of Education
 CY  - Hartford, CT
 LA  - English
-CN  - 379.74 .C4 1965
+CN  - 379.74 .C4 1950
+SC  - Connecticut
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Connecticut State Board of Education
+T1  - Education in Connecticut
+Y1  - 1954
+D1  - 12/1954
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Connecticut State Board of Education. Bulletin
+V1  - 45
+PB  - Connecticut State Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.74 .C4 1954
 SC  - Connecticut
 ER  -
+
+
+
+
+
+
+
+
+
+
+
+
+
