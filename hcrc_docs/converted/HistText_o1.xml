@@ -1404,23 +1404,6 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wandt, Edwin</field><field name="author_nat">Edwin Wandt</field>
-<field name="author">Aikman, Louis P.</field><field name="author_nat">Louis P. Aikman</field>
-<field name="title">Analysis of the idealized teaching positions desired by student teachers</field>
-<field name="series_title">College of the City of New York. Division of Teacher Education. Office
-of Research and Evaluation. Publication 23</field>
-<field name="year">1954</field>
-<field name="date">07/1954</field>
-<field name="publisher">Division of Teacher Education, College of the City of New York</field>
-<field name="pub_place">New York, NY</field>
-<field name="pages">20</field>
-<field name="language">English</field>
-<field name="notes">20 l. illus. 28 cm.; Responsibility: [by] Edwin Wandt and Louis P. Aikman.
-</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
 <field name="author">Czarra, Fred</field><field name="author_nat">Fred Czarra</field>
 <field name="author">Schwarz, Paula</field><field name="author_nat">Paula Schwarz</field>
 <field name="author">Shannon, Howard</field><field name="author_nat">Howard Shannon</field>
