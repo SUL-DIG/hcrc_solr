@@ -3,9 +3,47 @@
 
 
 
-<doc><field name="type">Book</field><field name="corp_author">Delaware State Department of Public Instruction</field><field name="title">Integrated curriculum units : social studies, second grade</field><field name="year">1938</field><field name="date">09/1938</field><field name="pages">100</field><field name="keywords">Social sciences</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="notes">xiii; ges ; 28 cm.; Note(s): Includes bibliographical references.</field><field name="series_title">Delaware State Department of Public InstructionCurriculum bulletin</field><field name="series_vol">2</field><field name="publisher">Delaware State Department of Public Instruction</field><field name="pub_place">Dover, DE</field><field name="language">English</field><field name="call_number">371.33 .D34i 1938 #2</field><field name="state_country">Delaware</field><field name="grade_level_number">2nd grade</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Delaware State Department of Public Instruction</field>
+<field name="title">Integrated curriculum units : social studies, second grade</field>
+<field name="year">1938</field>
+<field name="date">09/1938</field>
+<field name="pages">100</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">xiii; ges ; 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Delaware State Department of Public InstructionCurriculum bulletin</field>
+<field name="series_vol">2</field>
+<field name="publisher">Delaware State Department of Public Instruction</field>
+<field name="pub_place">Dover, DE</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .D34i 1938 #2</field>
+<field name="state_country">Delaware</field>
+<field name="grade_level_number">2nd grade</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Delaware State Department of Public Instruction</field><field name="title">Integrated curriculum units : social studies, first grade</field><field name="year">1938</field><field name="date">09/1938</field><field name="pages">103</field><field name="keywords">Social sciences</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="notes">xiii; 28 cm.; Note(s): Includes bibliographical references.</field><field name="series_title">Delaware State Department of Public Instruction. Curriculum bulletin</field><field name="series_vol">1</field><field name="publisher">Delaware State Department of Public Instruction</field><field name="pub_place">Dover, DE</field><field name="language">English</field><field name="call_number">371.33 .D34i 1938 #1</field><field name="state_country">Delaware</field><field name="grade_level_number">1st grade</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Delaware State Department of Public Instruction</field>
+<field name="title">Integrated curriculum units : social studies, first grade</field>
+<field name="year">1938</field>
+<field name="date">09/1938</field>
+<field name="pages">103</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Curricula</field>
+<field name="notes">xiii; 28 cm.; Note(s): Includes bibliographical references.</field>
+<field name="series_title">Delaware State Department of Public Instruction. Curriculum bulletin</field>
+<field name="series_vol">1</field>
+<field name="publisher">Delaware State Department of Public Instruction</field>
+<field name="pub_place">Dover, DE</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .D34i 1938 #1</field>
+<field name="state_country">Delaware</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
 
 <doc><field name="type">Book</field><field name="corp_author">Delaware State Department of Public Instruction</field><field name="title">Integrated curriculum units : social studies, third grade</field><field name="year">1938</field><field name="date">09/1938</field><field name="pages">162</field><field name="keywords">Social sciences</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="notes">xiv; ges ; 28 cm.; Note(s): Includes bibliographical references.</field><field name="series_title">Delaware State Department of Public Instruction. Curriculum bulletin</field><field name="series_vol">3</field><field name="publisher">Delaware State Department of Public Instruction</field><field name="pub_place">Dover, DE</field><field name="language">English</field><field name="call_number">371.33  .D34i 1938 #3</field><field name="state_country">Delaware</field><field name="grade_level_number">3rd grade</field></doc>
 
@@ -21,8 +59,13 @@
 
 <doc><field name="type">Book</field><field name="corp_author">Hawaii (Territory) Department of Public Instruction</field><field name="title">Official course of study of the elementary grades: vol. 1 primary grades</field><field name="year">1921</field><field name="date">09/1921</field><field name="pages">140</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="publisher">Hawaii Territory Department of Public Instruction</field><field name="pub_place">Honolulu, HI</field><field name="language">English</field><field name="call_number">375.13 .H38o 1921</field><field name="state_country">Hawaii</field><field name="grade_level_number">Kindergarten</field><field name="grade_level_number">1st grade</field><field name="grade_level_number">2nd grade</field><field name="grade_level_number">3rd grade</field><field name="grade_level_number">4th grade</field></doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Illinois State Superintendent of Public Instruction</field><field name="title">Illinois curriculum and course of study guide for elementary grades</field><field name="year">1946</field><field name="date">1946?</field><field name="pages">579
-EP  - 579</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="notes">ix; ges diagrams 23 cm.; Note(s): Includes bibliographical references.</field><field name="series_title">Illinois State Superintendent of Public Instruction. Circular, ser. A</field><field name="series_vol">32</field><field name="publisher">Illinois State Superintendent of Public Instruction</field><field name="pub_place">Springfield, IL</field><field name="language">English</field><field name="call_number">375.13 .I29i</field><field name="state_country">Illinois</field><field name="grade_level_group">Elementary</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois State Superintendent of Public Instruction</field>
+<field name="title">Illinois curriculum and course of study guide for elementary grades</field>
+<field name="year">1946</field>
+<field name="date">1946?</field>
+<field name="pages">579</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="notes">ix; ges diagrams 23 cm.; Note(s): Includes bibliographical references.</field><field name="series_title">Illinois State Superintendent of Public Instruction. Circular, ser. A</field><field name="series_vol">32</field><field name="publisher">Illinois State Superintendent of Public Instruction</field><field name="pub_place">Springfield, IL</field><field name="language">English</field><field name="call_number">375.13 .I29i</field><field name="state_country">Illinois</field><field name="grade_level_group">Elementary</field></doc>
 
 <doc><field name="type">Book</field><field name="corp_author">Arkansas State Department of Public Instruction</field><field name="title">Course of study for high schools</field><field name="year">1913</field><field name="date">1913</field><field name="keywords">High school</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="notes">volumes 23 cm; Responsibility: issued by the State Board of Education</field><field name="publisher">Arkansas State Department of Public Instruction</field><field name="pub_place">Ft. Smith, AR</field><field name="language">English</field><field name="call_number">375.15 .A71c 1913</field><field name="state_country">Arkansas</field><field name="grade_level_group">High school</field></doc>
 
