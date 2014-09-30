@@ -1,0 +1,894 @@
+
+
+
+
+TY  - BOOK
+A1  - Houston, J. H.
+A1  - Walker, Florence Helen
+A2  - Kansas State Board of Education
+T1  - Course of study for the elementary schools of Kansas
+Y1  - 1932
+D1  - 1932
+SP  - 528
+KW  - Curricula
+KW  - Courses of study
+KW  - Elementary education
+N1  - 528 p. 23 cm.; Note(s): "Bibliography for rural schools": p. 528.; Responsibility: prepared by J.H. Houston and Florence H. Walker, state rural school supervisors. Issued by Geo. A. Allen, Jr., state superintendent of public instruction.
+PB  - Kansas State Board of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375.13 .K16c 1932
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Teachers' guide to the Kansas elementary school program of studies
+Y1  - 1941
+D1  - 1941
+SP  - 259
+KW  - Curricula
+KW  - Elementary education
+KW  - Courses of study
+N1  - 259 pages : illustrations ; 23 cm; Note(s): Includes bibliographical references.; Responsibility: prepared under the direction of Geo. L. McClenny, state superintendent of public instruction.
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375.13 .K16t 1941
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Assignment of study for rural and elementary schools, including calendar, approved library books, price list
+Y1  - 1925
+D1  - 1925-1926
+SP  - 40
+KW  - Rural schools
+KW  - Curricula
+KW  - Elementary education
+KW  - School libraries
+N1  - 40 pages; Genre/Form: Lists.
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375.13 .K16a 1925
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Board of Education
+T1  - Assignment of work by months for rural and elementary schools, 1928-1929. Supplementary to the full course of study for elementary schools of Kansas; also containing new courses of study for grammar and physiology, to be used with the new Denney-Skinner and Burkard-Chambers-Maroney texts in these branches
+Y1  - 1928
+D1  - 1928-1929
+SP  - 188
+KW  - Curricula 
+KW  - Courses of study
+KW  - Elementary education
+N1  - 188 pages diagram 23 cm; Responsibility: Issued by Geo. A. Allen, Jr., state superintendent of public instruction.
+PB  - Kansas State Board of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375.13 .K16a 1928
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+
+TY  - BOOK
+A2  - Kentucky State Board of Education
+T1  - Kentucky state course of study and teacher's manual for the elementary schools, 1925-1929
+Y1  - 1925
+D1  - 1925-1929
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - xiv, 262, [1] pages 23 cm; Responsibility: Prepared by Division of rural schools.
+PB  - Kentucky State Board of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 375.13 .K37m 1925
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - State course of study for elementary schools of Louisiana
+Y1  - 1924
+D1  - 1924
+SP  - 234
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 234 pages including tables, forms 23 cm; Note(s): Includes bibliographical references.; Responsibility: Issued by Department of education, 1924. T.H. Harris, state superintendent.
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.13 .L88s 1924
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - State course of study for elementary schools of Louisiana
+Y1  - 1923
+D1  - 1923
+SP  - 222
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 3 preliminary leaves, [5]-222 pages forms 22 cm; Note(s): Includes bibliographical references.; Responsibility: Issued by Department of education, 1923. T.H. Harris, state superintendent. Vendor Info: Kirtas Technologies, Inc. (KRTS)
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.13 .L88s 1923
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Course of study for the rural schools and the elementary grades of town schools
+Y1  - 1916
+D1  - 1916
+SP  - 174
+KW  - Rural schools
+KW  - Curricula
+KW  - Courses of study
+KW  - Elementary education
+N1  - 174 pages, 1 leaf 23 cm
+VL  - 1st ed. Prepared by C.J. Brown, Jno. M. Foote and Chas. F. Trudeau, under the direction of T.H. Harris, state superintendent of education
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.13 .L88c 1916
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hill, Frank Alpine
+A2  - Massachusetts State Board of Education
+T1  - Course of studies for elementary schools
+Y1  - 1896
+D1  - 1896
+SP  - 129
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 129 pages illustrations; ates 24 cm; Note(s): Prepared by the secretary of the Board, F.A. Hill.; Responsibility: Prepared under the direction of the Massachusetts Board of education.
+ED  - Rev.
+PB  - Massachusetts State Board of Education
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .M41c 1896
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Superintendent of Public Schools
+T1  - A courses of study for the elementary schools of Maine
+SP  - 104
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+PB  - Maine State Superintendent of Public Schools
+CY  - Augusta, ME
+LA  - English
+CN  - 375.13 .M22c
+SC  - Maine
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Superintendent of Public Schools
+T1  - Courses of study. Outlines of instruction, elementary schools
+Y1  - 1918
+D1  - 1918
+SP  - 217
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+PB  - Maine State Superintendent of Public Schools
+CY  - Augusta, ME
+LA  - English
+CN  - 375.13 .M22s 1918
+SC  - Maine
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Course of study syllabus, elementary schools
+Y1  - 1922
+D1  - 1922
+SP  - 199
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 199 pages illustrations (1 color) 23 cm; Note(s): At head of title: State of Michigan. Department of public instruction, Lansing./ Books for teachers: pages 193-196.
+ED  - 14th ed.
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.13 .M62c 1922
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Manual and course of study, elementary schools
+Y1  - 1916
+D1  - 1916
+SP  - 225
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 225, [2] pages illustrations (including music) color plates, maps (1 folded) 23 cm;  Michigan. Department of Public Instruction.; Manual and course of study, elementary schools.; 12th ed.; [Lansing?] The superintendent of public instruction, 1916.
+ED  - 12th
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.13 .M62m 1916
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Course of study for high schools
+Y1  - 1930
+D1  - 1930
+SP  - 30
+KW  - Secondary education
+KW  - Curricula
+KW  - Courses of study
+AB  - IV. History and social science
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375.15 .K16c 1930 pt. 4
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Course of study for high schools
+Y1  - 1917
+D1  - 1917
+KW  - Curricula
+KW  - Secondary education
+KW  - Courses of study
+AB  - I. Synposis.--II. English.--III. Mathematics.--IV. History and social science.--VI. Foreign languages.--IX. Industrial subjects.--X. Music and art.
+N1  - 10 pt. [some parts are missing]; 23 cm; Note(s): At head of title: State of Kansas. Department of education.; Responsibility: Issued by Jess W. Miley, state superintendent of public instruction.
+ED  - Rev. 1919
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 375.15 .K16c 1917
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Course of study for high schools
+Y1  - 1928
+D1  - 1928
+KW  - Curricula
+KW  - Secondary education
+KW  - Courses of study
+AB  - I. Synposis.
+N1  - 23 cm; Note(s): At head of title: State of Kansas. Department of education.; Responsibility: Issued by Georgia A. Allen, state superintendent of public instruction.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 375.15 .K16c 1928 pt. 1
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Supplement to the course of study for high schools and manual for normal and industrial training
+Y1  - 1916
+D1  - 1916
+SP  - 59
+KW  - Curricula
+KW  - Secondary education
+KW  - Courses of study
+N1  - 59 pages ; 23 cm; Note(s): Cover t.p./ At head of title: State of Kansas, Department of Education./ Includes bibliographical references.
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 375.15 .K16s 1916
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Division of Elementary and Secondary Education
+T1  - The seventh and eighth grades in the 12-year program of instruction; a guide for teachers of those grades and for administrators of the general program
+Y1  - 1945
+D1  - 1945
+SP  - 62
+KW  - Courses of study
+KW  - Curricula
+N1  - 62 pages 28 cm.; Responsibility: Issued by John E. Coxe, state Superintendent of education, rev. of no. 557.
+T2  - Louisiana State Division of Elementary and Secondary Education. Bulletin
+V1  - 572
+PB  - Louisiana State Division of Elementary and Secondary Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.14 .L88s
+SC  - Louisiana
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Kalamazoo (Michigan) High School
+T1  - Course of study
+D1  - 1904?
+KW  - Secondary education
+KW  - Courses of study
+KW  - Curriculum
+PB  - Kalamazoo (Michigan) High School
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 375.15 .K14c
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Course of study for rural and graded schools
+Y1  - 1917
+D1  - 1917
+KW  - Courses of study
+KW  - Curricula
+KW  - Rural schools
+N1  - Revised 1919.
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375.81 .K16c 1917
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Superintendent of Education
+T1  - Program of studies for Louisiana high schools
+Y1  - 1944
+D1  - 11/1944
+KW  - Secondary of education
+KW  - Curricula
+KW  - Courses of study
+PB  - Louisiana State Superintendent of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.15 .L88p 1944
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Holloway, James B.
+A1  - Godman, Mark
+A2  - Kentucky State Board of Education
+T1  - Manual, programs, and courses of studies for Kentucky high schools
+Y1  - 1927
+D1  - 1927
+SP  - 312
+KW  - Secondary education
+KW  - Curricula
+KW  - Courses of study
+N1  - viii; 23 cm; Note(s): Includes bibliographical references.; Responsibility: prepared by Division of high school supervision, J.B. Holloway [and] Mark Godman ; pub. by order of State board of education, Frankfort, Kentucky.
+PB  - Kentucky State Board of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 375.15 .K37m 1927
+SC  - Kentucky
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Revised manual containing courses of study : and other information for the use of the county high schools of Kentucky
+Y1  - 1913
+D1  - 08/1913
+SP  - 129
+KW  - Secondary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 129 pages : illustrations ; 23 cm.; Note(s): On cover: Manual and course of study for county high schools (revised).; Other Titles: Manual and course of study for county high schools (revised) 
+T2  - Bulletin of Kentucky Department of Education
+V1  - 6
+IS  - 6
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 375.15 .K37m 1913
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Revised manual containing courses of study and other information for the use of public high schools of Kentucky
+Y1  - 1919
+D1  - 09/1919
+SP  - 153
+KW  - Secondary education
+KW  - Curricula
+KW  - Courses of study
+T2  - Bulletin of Kentucky Department of Education
+V1  - 12
+IS  - 5
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 375.15 .K37m 1919
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Louisiana state course of study and manual of administration for approved high schools
+Y1  - 1925
+D1  - 1925
+SP  - 108
+KW  - Curricula
+KW  - Courses of study
+KW  - Secondary education
+N1  - 108, [4] pages 23 cm
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.15 .L88L 1925
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Course of study for public schools. List of text-books, adopted by the State Board of Education May 26, 1901. State school law, adopted by regular session of the General assembly, 1902
+Y1  - 1902
+D1  - 1902
+SP  - 39
+KW  - Curricula
+KW  - Courses of study
+KW  - Educational law and legislation
+N1  - 39 pages 23 cm; Note(s): At head of title: State of Louisiana.; Responsibility: J.V. Calhoun, state superintendent of public education.
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.81 .L88c 1902
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Eighth annual report of inspector of high schools
+Y1  - 1914
+D1  - 1914-1915
+SP  - 159
+KW  - Secondary education
+KW  - Curricula
+N1  - Biennial report--part III--session 1914-15.
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.15 .L88L 1914
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - State course of study for high schools of Louisiana
+Y1  - 1923
+D1  - 1923
+SP  - 95
+KW  - Secondary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 95 pages 23 cm; Responsibility: Issued by Department of education, 1923. T.H. Harris, state superintendent.
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.15 .L88s 1923
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - State course of study for high schools of Louisiana, 1916
+Y1  - 1916
+D1  - 1916
+SP  - 171
+KW  - Secondary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 171 pages 23 cm; Responsibility: Issued by Department of education, T.H. Harris, state superintendent. Vendor Info: Kirtas Technologies, Inc. (KRTS)
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.15 .L88s 1916
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - State course of study for high schools of Louisiana, 1909-1913
+Y1  - 1909
+D1  - 1909-1913
+SP  - 158
+KW  - Secondary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 3 preliminary leaves, [5]-158 pages folded diagram 23 cm; Responsibility: issued by Department of education.
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.15 .L88s 1909
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Board of Education
+T1  - By-laws, rules and regulations for the administration of the public school system of the state of Maryland, including the course of study for elementary and high schools : adopted by the State Board of Education February 22, 1905. Revised August 29, 1908, and June 29, 1910, and published by authority of the Board. The public school laws of Maryland, as contained in Code of Public General Laws of 1904, Supplement of 1906, and the Acts of 1908 and 1910
+Y1  - 1910
+D1  - 1910
+SP  - 178
+KW  - Educational law and legislation
+KW  - School management and organization
+KW  - Curricula
+KW  - Courses of study
+N1  - 178, x p. ; 24 cm.; Note(s): Includes bibliographical references and index.
+PB  - Maryland State Board of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 375.81 .M39b
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Education
+T1  - The Michigan curriculum program : third report of progress
+Y1  - 1939
+D1  - 01/1939
+SP  - 26
+KW  - Public schools
+KW  - Curricula 
+T2  - Michigan State Department of Public Instruction. Bulletin
+V1  - 311
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.81 .M62m 1939
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Manual and course of study, elementary schools
+Y1  - 1918
+D1  - 1918
+SP  - 290
+KW  - Elementary education
+KW  - Curricula
+KW  - Courses of study
+N1  - 2 preliminary leaves; ges illustrations (including music) color plates, maps 23 cm
+ED  - 13th
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.81 .M62m 1918
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Manual and course of study, county normal training classes
+Y1  - 1916
+D1  - 1916
+SP  - 203
+KW  - Teachers colleges
+KW  - Curricula
+KW  - Teacher training
+N1  - 5 preliminary leaves, [13]-203 pages diagrams 23 cm;
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.81 .M62m 1916
+SC  - Michigan
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - State manual and course of study for the district schools of Michigan
+Y1  - 1894
+D1  - 1894
+SP  - 78
+KW  - Curricula
+KW  - Courses of study
+N1  - 78 p. ; 22 cm.; References: Streeter, F.B. Michigan bibliography,; 3437; Note(s): Cover title./ "Approved and published by the State Superintendent of Public Instruction."; Responsibility: prepared by a committee of county secretaries.
+ED  - 3rd
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.81 .M62s 1894
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - Hammond, Jason E.
+A2  - Michigan State Department of Public Instruction
+T1  - State manual and course of study for the district schools of Michigan;
+Y1  - 1897
+D1  - 1897
+SP  - 164
+KW  - Curricula
+KW  - Courses of study
+N1  - 164 pages illustrations; ates (1 color) diagrams 23 cm; Responsibility: rev. and pub. by Jason E. Hammond, state superintendent of public instruction; with an appendix containing Library list and miscellaneous matter.
+ED  - 4th ed.
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.81 .M62s 1897
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Dothan (Alabama) High School
+T1  - Courses of study
+Y1  - 1923
+D1  - 1923-1924
+KW  - Courses of study
+KW  - Secondary education
+PB  - Dothan (Alabama) High School
+CY  - Dothan, AL
+LA  - English
+CN  - 375.83 .D71c 1923
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kalamazoo (Michigan) Board of Education
+T1  - Course of study and manual of instruction ... Book four - Junior and senior high schools
+Y1  - 1921
+D1  - 1921
+SP  - 89
+KW  - Secondary education
+KW  - Curricula
+PB  - Kalamazoo (Michigan) Board of Education
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 375.83 .K14c 1921 bk 4
+SC  - Michigan
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kalamazoo (Michigan) Board of Education
+T1  - Course of study for the public schools of Kalamazoo, Michigan : book 1, early elementary department
+Y1  - 1923
+D1  - 1923
+SP  - 60
+KW  - Curricula
+KW  - Courses of study
+N1  - 60 p. ; 23 cm.; Note(s): Includes bibliographical references (p. 60).
+PB  - Kalamazoo (Michigan) Board of Education
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 375.83 .K14c 1923 bk 1
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+T1  - The organization and conduct of teacher study groups
+Y1  - 1937
+D1  - 12/37
+SP  - 90
+KW  - Teacher training
+T2  - Georgia program for the improvement of instruction. Bulletin
+V1  - 1
+ED  - Rev.
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 370.72 .G350 1937
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Board of Education
+T1  - State educational institutions open to all : University of Idaho ..., Lewiston State Normal School, Albion State Normal School, Idaho Technical Institute
+Y1  - 1916
+D1  - 04/1916
+SP  - 44
+KW  - Higher education
+KW  - Teacher training
+N1  - ill. ; 23 cm.; Note(s): "April, 1916."
+T2  - Idaho bulletin of education
+V1  - 2
+IS  - 2
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 370.73 .I18s 1916
+SC  - Idaho
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Board of Education
+T1  - Manual of the Board of Education, State of Kansas, for the use of approved institutions of learning and of candidates for the certificates and diplomas
+Y1  - 1894
+D1  - 1894
+SP  - 27
+KW  - Public schools
+N1  - 27 p. ; 23 cm.; Responsibility: issued by the board.
+PB  - Kansas State Board of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 370.76 .K16m 1894
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Superintendent of Public Instruction
+T1  - Working with children in one and two teacher schools
+Y1  - 1942
+D1  - 1942
+SP  - 97
+KW  - Teaching
+PB  - Michigan State Superintendent of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 371.1 .M61w 1942
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Parents' study bulletin
+Y1  - 1936
+D1  - 10/1936
+SP  - 61
+KW  - Parent participation
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 371.103 .K16p 1936
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide for organizing and developing a kindergarten program in Florida
+Y1  - 1955
+D1  - 01/1955
+SP  - 51
+KW  - Kindergarten
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 372.2 .F63g 1955
+SC  - Florida
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A1  - Wiley, Ross B.
+A2  - Hawaii Territory Department of Public Instruction. Division of Research
+T1  - Some descriptions of progressive education in the public schools of Hawaii
+Y1  - 1929
+D1  - 09/1929
+SP  - 287
+KW  - Curricula
+N1  - iv; ges plates (including 1 portrait) 23 cm; Note(s): Foreword signed by Ross B. Wiley, director Division of research./ Running title: Progressive education in Hawaii.; Other Titles: Progressive education in Hawaii.; Responsibility: comp. and ed. by Division of research, Department of public instruction.
+PB  - Hawaii Territory Department of Public Instruction. Division of Research
+CY  - Honolulu, HI
+LA  - English
+CN  - 372.45 .H38s 1929
+SC  - Hawaii
+ER  - 
+
+
+
+
+
+TY  - BOOK
+ID  - 17705
+A1  - Barnes,George Ivan
+A1  - Kentucky. Department of Education
+T1  - A study of the small high schools in Kentucky with recommendations for improvement
+Y1  - 1927
+KW  - High schools -- Kentucky -- Statistics
+KW  - High schools
+KW  - Kentucky
+KW  - Government publication (gpb)
+KW  - State or province government publication (sgp)
+N1  - 63 pages tables 23 cm; Genre/Form: Statistics.; Note(s): At head of title: State department of education.; Responsibility: by George Ivan Barnes, state director of vocational education. McHenry Rhoads, state superintendent of public instruction. This study approved, indorsed and ordered printed by State board of education, Frankfort, Kentucky.; Entry: 19850920; Update: 20140217
+PB  - [State Journal Co., Printer to the Commonwealth
+CY  - Frankfort
+SN  - LCCN: e 28-186
+N1  - LC: LA292.A4
+M1  - Book, Whole
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Handbook on organization and practices for the secondary schools of Kansas. Revision authorized by State board of education, June 15, 1934
+Y1  - 1934
+D1  - 06/1934
+SP  - 86
+KW  - Secondary education
+KW  - Curricula
+KW  - School management and organization
+N1  - 86 pages including map, tables 23 cm; Note(s): At head of title: State of Kansas. Department of education./ "Professional reading": pages 80-83.; Responsibility: Issued by W.T. Markham, state superintendent of public instruction, 1934.
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 373.1 .K16h 1934
+SC  - Kansas
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Handbook on organization and practices for the secondary schools of Kansas.
+Y1  - 1933
+D1  - 1933
+SP  - 58
+KW  - Secondary education
+KW  - School management and organization
+KW  - Curricula
+N1  - 58 pages map 23 cm; Note(s): At head of title: State of Kansas. Department of education./ "Professional reading": pages 56-58.; Responsibility: Issued by W.T. Markham, state superintendent of public instruction, 1933.
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 373.1 .K16h 1933
+SC  - Kansas
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+ID  - 17704
+A1  - Kentucky. Department of Education
+T1  - Manual of organization and administration for high schools, 1940
+Y1  - 1940
+KW  - Education, Secondary -- Kentucky
+KW  - Education, Secondary
+KW  - Kentucky
+KW  - Government publication (gpb)
+KW  - State or province government publication (sgp)
+N1  - pages 519-657 : illustrations ; 23 cm.; Entry: 19861030; Update: 20140826
+T2  - Educational bulletin ;; vol. 8, no. 6; Variation: Educational bulletin (Frankfort, Ky.) ;; v. 8, no. 6.
+PB  - The Dept
+CY  - Frankfort, Ky
+N1  - LC: L152
+M1  - Book, Whole
+ER  - 

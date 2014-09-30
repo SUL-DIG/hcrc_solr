@@ -1,0 +1,539 @@
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Standard course of study for the public high schools of Florida, with an advisory course of study for rural graded schools
+Y1  - 1903
+D1  - 1903
+SP  - 50
+KW  - Curricula
+KW  - Rural schools
+KW  - High schools
+N1  - 50 pages illustrations 23 cm; Responsibility: Prepared by the High school commission, provided for in section 8, chapter 5206, laws of Florida.; Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1903
+SC  - Florida
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Cochran, Thomas
+A2  - Florida State Department of Education
+T1  - History of public school education in Florida
+Y1  - 1921
+D1  - 1921
+SP  - 370
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Florida State Department of Education bulletin
+V1  - 1
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1921
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - State Board regulations relating to standards for accreditation of Florida schools
+Y1  - 1957
+D1  - 1957
+SP  - 70
+KW  - Public schools
+KW  - Accreditation
+N1  - volumes; Note(s): Title varies: 1957, State Board regulations relating to standards for accreditiation of Florida schools.; Other Titles: Standards for accreditation of Florida schools.; State Board regulations relating to standards for accreditation of Florida schools.; Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1957
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - State Board regulations relating to Florida requirements for teacher education and certification
+Y1  - 1957
+D1  - 1957
+KW  - Teachers
+N1  - 237-276; Note(s): Revised June 18, 1957.; Shelved in Cubberley Library Reading Room
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1957
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida Community College Council
+T1  - The community junior college in Florida's future; the report to the State Board of Education, 1957
+Y1  - 1957
+D1  - 1957
+SP  - 71
+KW  - Junior colleges
+N1  - 71 pages tables 23 cm; Note(s): "Suggested additional readings" p. 71.; Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1957
+SC  - Florida
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Junior College Conference
+T1  - Florida's new community junior colleges
+Y1  - 1957
+D1  - 01/1957
+SP  - 40
+KW  - Junior colleges
+N1  - 71 pages tables 23 cm; Note(s): "Suggested additional readings" p. 71.; Shelved in Cubberley Library Reading Room
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1957
+SC  - Florida
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A guide; teaching moral and spiritual values in Florida schools
+Y1  - 1962
+D1  - 1962
+SP  - 86
+KW  - Moral education
+N1  - 86 pages.; Note(s): Includes bibliographical references.; Other Titles: Teaching moral and spiritual values in Florida schools.; Shelved in Cubberley Library Reading Room
+T2  - Florida State Department of Education Bulletin
+V1  - 14
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1962
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - A recommended list of current materials for your professional library
+Y1  - 1958
+D1  - 11/1958
+SP  - 10
+KW  - Library materials
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1958
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Brief chart of certificate requirements
+D1  - 1958?
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1958
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida public school finance program, 1966-67
+Y1  - 1966
+D1  - 08/1966
+SP  - 33
+KW  - School finance
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Florida State Department of Education statistical report
+V1  - 48
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1966
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A1  - Johns, Roe Lyell
+A2  - Florida Educational Research and Development Council
+T1  - Incentive grant for quality education
+Y1  - 1966
+D1  - 1966
+SP  - 18
+KW  - School finance
+N1  - 18 p. ; 23 cm.; Note(s): Cover title.; Responsibility: R.L. Johns. ; Shelved in Cubberley Library Reading Room
+PB  - Florida Educational Research and Development Council
+CY  - Gainesville, FL
+LA  - English
+CN  - 379.74 .F1 1966
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida public school finance program, 1965-66
+Y1  - 1966
+D1  - 06/1966
+SP  - 9
+KW  - School finance
+N1  - 9 p. ; 19 cm.; Note(s): Caption title./ "June 1966."; Responsibility: prepared by the state departments of education and the U.S. Office of Education; Shelved in Cubberley Library Reading Room
+PB  - United States Department of Health, Education, and Welfare. Office of Education, Bureau of Elementary and Secondary Education, Division of State Agency Cooperation
+CY  - Washington, DC
+LA  - English
+CN  - 379.74 .F1 1966
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida index of taxpaying ability and the required county effort
+Y1  - 1966
+D1  - 07/1966
+SP  - 16
+KW  - School finance
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Florida State Department of Education research report
+V1  - 47
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1966
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Memorandum: Effect of new weights in index of taxpaying ability
+Y1  - 1967
+D1  - 02/1967
+SP  - 3
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1967
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida Association of County Superintendents
+A2 -  Florida School Board Association
+T1  - Proposed legislative items (Tentative - January 10, 1967)
+Y1  - 1967
+D1  - 01/1967
+SP  - 7
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .F1 1967
+SC  - Florida
+ER  -
+
+TY  - BOOK
+T1  - Selected data regarding county school systems state of Florida
+D1  - 1967?
+SP  - 48
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .F1 1967
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A1  - Anzalone, Joseph Samuel
+A2  - Florida Board of Regents
+T1  - An interinstitutional admissions program proposal for the State university system of Florida
+Y1  - 1967
+D1  - 1967
+SP  - 189
+KW  - State universities and colleges
+KW  - Admissions
+N1  - vi, 189 leaves 28 cm.; Note(s): Author's name on label./ Also appeared as thesis, Florida State University, with title: Interinstitutional cooperation in college admissions: a proposed coordinated admissions program for the State university system of Florida./ Includes bibliographical references (leaves 180-188).; Shelved in Cubberley Library Reading Room
+T2  - Florida Board of Regents. Publication
+V1  - 108
+PB  - Florida Board of Regents
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1967
+SC  - Florida
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Kirk, Claude
+T1  - Education in Florida : perspective for tomorrow, a special report ..
+Y1  - 1968
+D1  - 09/1967
+SP  - 143
+KW  - Education
+N1  - Advance copy; Shelved in Cubberley Library Reading Room
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1967
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A1  - Tuttle, Lester Eugene
+A1  - Hooker, Dennis A.
+A2  - Florida State Department of Education
+T1  - An annotated bibliography of migrant related materials
+Y1  - 1969
+D1  - 07/1969
+SP  - 108
+KW  - Migrant labor
+N1  - [vii], 108 leaves : illustrations ; 28 cm; Genre/Form: Bibliography.; Note(s): "Established under the provisions of Title I ESEA (PL 89-10 as amended by PL 89-750)."; Responsibility: edited and compiled by Lester E. Tuttle, Jr. ... and Dennis A. Hooker ... with contributions by Kenneth C. Gordon (photography), Anita A. Bradel (reproduction) [and] Sandra Pfanner (cover design and layout).; Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Boca Raton, FL
+LA  - English
+CN  - 379.74 .F1 1969
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida Atlantic University. Migrant Education Cneter
+T1  - Announcement of staff development activities
+D1  - 1969?
+SP  - 7
+KW  - Staff development
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida Atlantic University
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1969
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida educational opinion survey, 1970
+Y1  - 1970
+D1  - 1970
+SP  - 225
+KW  - Public opinion
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1970
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - An assessment of educational needs for learners in Florida
+Y1  - 1970
+D1  - 1970
+SP  - 158
+KW  - Educational planning
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1970
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Your public schools
+D1  - 1969?
+KW  - Public schools
+KW  - School management and organizatio
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1969
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A1  - Tuttle, Lester Eugene
+A1  - Ciccone, Russell A.
+A2  - Florida Atlantic University. Migrant Education Center
+T1  - A Guide to staff development activities : using a Florida conference as a model
+Y1  - 1969
+D1  - 06/1969
+KW  - Children of migrant laborers
+N1  - ii, 108 leaves : illustrations ; 28 cm; Note(s): "Emanating from Migrant Education Center, Florida Atlantic University as authorized by the Florida Board of Regents. Established under the provisions of Title I ESEA (PL 89-10 as amended by PL 89-750)--in cooperation with the Florida State Department of Education, Division of Curriculum and Instruction."/ Includes bibliographical references (leaves 28-29).; Responsibility: edited and compiled by Lester E. Tuttle, Jr. and Russell A. Ciccone.; Shelved in Cubberley Library Reading Room
+PB  - Florida Atlantic University
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1969
+SC  - Florida
+ER  -
+
+TY  - BOOK
+T1  - District school system : pupil and financial data ; report for the fiscal year 1974-1975
+Y1  - 1976
+D1  - 1976
+SP  - 41
+KW  - School finance
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1974-75
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education. Division of Public Schools
+T1  - Historical profile of Florida school districts, 1948-1974
+Y1  - 1975
+D1  - 05/1975
+SP  - 84
+KW  - School districts
+N1  - ii; ges : graphs ; 29 cm.; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+T2  - Florida State Department of Education. Division of Public Schools research report
+V1  - 114
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1975
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Programs for exceptional students : annual report, 1974-75
+KW  - Special education
+KW  - Children with disabilities
+N1  - Frequency: Annual; 73-74-; volumes ; 22-28 cm; Genre/Form: Periodicals. Statistics.; Geographic: Florida.; Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1974-75
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A1  - Stahl, Robert J.
+A1  - Baker, Shelton Dennis
+T1  - The status of population education in Florida : secondary schools during 1973-74
+Y1  - 1976
+D1  - 09/1976
+SP  - 26
+KW  - Population
+N1  - 26 pages ; 27 cm.; Note(s): Includes bibliographical references (page 26).; Responsibility: by Robert J. Stahl and S. Dennis Baker. Vendor Info: Baker and Taylor (BTCP); Shelved in Cubberley Library Reading Room
+T2  - Research monographs (University of Florida. P.K. Yonge Laboratory School)
+V1  - 19
+PB  - P.K. Yonge Laboratory School, College of Education, University of Florida
+CY  - Gainesville, FL
+LA  - English
+CN  - 379.74 .F1 1973-74
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Resource manual for development or analyses of district policies & procedures on student records
+Y1  - 1976
+D1  - 08/1976
+SP  - 78
+KW  - Schools
+KW  - Student records
+N1  - i; ges ; 28 cm; Genre/Form: Records and correspondence.; Note(s): Cover title.; Other Titles: Student records; Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1976
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education. Division of Public Schools Management Information Services
+T1  - Pupils by racial/ethnic category, staff by sex and racial/ethnic category
+Y1  - 1976
+D1  - 05/1976
+SP  - 86
+KW  - Minorities
+KW  - School employees
+KW  - School enrollment
+N1  - Note(s): Designed and prepared by Education Information Services/MIS in the Bureau of Management Systems and Services, Division of Public Schools, Dept. of Education.; Shelved in Cubberley Library Reading Room
+T2  - Division of Public Schools Management Information Services statistical report
+V1  - 76-10
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1975-76
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Legislature. Select Joint Committee on Public Schools
+T1  - Improving education in Florida : a reassessment : a summary
+Y1  - 1978
+D1  - 02/1978
+SP  - 64
+KW  - Educational planning
+N1  - xi leaves; ges : illustrations ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - Florida State Legislature
+CY  - Tallahassee., FL
+LA  - English
+CN  - 379.74 .F1 1978
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Legislature. Select Joint Committee on Public Schools
+T1  - Improving education in Florida : a reassessment
+Y1  - 1978
+D1  - 02/1978
+SP  - 443
+KW  - Educational planning
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Legislature
+CY  - Tallahassee., FL
+LA  - English
+CN  - 379.74 .F1 1978
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education. Division of Public Schools Management Information Services
+T1  - MIS statistical brief; Ranking of Florida, 1978
+Y1  - 1978
+D1  - 06/1978
+SP  - 8
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.74 .F1 1978
+SC  - Florida
+ER  -
+
+TY  - BOOK
+T1  - Proposed transportation formula
+D1  - 1965?
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .F1 1965
+SC  - Florida
+ER  -
+
+TY  - BOOK
+T1  - General information about Florida certificates
+D1  - 1958?
+KW  - Teacher certification
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .F1 1958
+SC  - Florida
+ER  -
+
+
+
+
