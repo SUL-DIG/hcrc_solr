@@ -866,7 +866,7 @@
 <doc>
 <field name="type">Book</field>
 <field name="author">Barnes,George Ivan</field>
-<field name="author_nat"/>George Ivan Barnes</field>
+<field name="author_nat">George Ivan Barnes</field>
 <field name="corp_author">Kentucky State Department of Education</field>
 <field name="title">A study of the small high schools in Kentucky with recommendations for improvement</field>
 <field name="year">1927</field>
