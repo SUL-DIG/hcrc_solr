@@ -18,8 +18,7 @@
 
 <doc><field name="type">Book</field><field name="corp_author">Louisiana State Department of Education</field><field name="title">State course of study for elementary schools of Louisiana</field><field name="year">1923</field><field name="date">1923</field><field name="pages">222</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="notes">3 preliminary leaves, [5]-222 pages forms 22 cm; Note(s): Includes bibliographical references.; Responsibility: Issued by Department of education, 1923. T.H. Harris, state superintendent. Vendor Info: Kirtas Technologies, Inc. (KRTS)</field><field name="publisher">Louisiana State Department of Education</field><field name="pub_place">Baton Rouge, LA</field><field name="language">English</field><field name="call_number">375.13 .L88s 1923</field><field name="state_country">Louisiana</field><field name="grade_level_group">Elementary</field></doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Louisiana State Department of Education</field><field name="title">Course of study for the rural schools and the elementary grades of town schools</field><field name="year">1916</field><field name="date">1916</field><field name="pages">174</field><field name="keywords">Rural schools</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="keywords">Elementary education</field><field name="notes">174 pages, 1 leaf 23 cm
-VL  - 1st ed. Prepared by C.J. Brown, Jno. M. Foote and Chas. F. Trudeau, under the direction of T.H. Harris, state superintendent of education</field><field name="publisher">Louisiana State Department of Education</field><field name="pub_place">Baton Rouge, LA</field><field name="language">English</field><field name="call_number">375.13 .L88c 1916</field><field name="state_country">Louisiana</field><field name="grade_level_group">Elementary</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Louisiana State Department of Education</field><field name="title">Course of study for the rural schools and the elementary grades of town schools</field><field name="year">1916</field><field name="date">1916</field><field name="pages">174</field><field name="keywords">Rural schools</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="keywords">Elementary education</field><field name="notes">174 pages, 1 leaf 23 cm; 1st ed. Prepared by C.J. Brown, Jno. M. Foote and Chas. F. Trudeau, under the direction of T.H. Harris, state superintendent of education</field><field name="publisher">Louisiana State Department of Education</field><field name="pub_place">Baton Rouge, LA</field><field name="language">English</field><field name="call_number">375.13 .L88c 1916</field><field name="state_country">Louisiana</field><field name="grade_level_group">Elementary</field></doc>
 
 <doc><field name="type">Book</field><field name="author">Hill, Frank Alpine</field><field name="author_nat">Frank Alpine Hill</field><field name="corp_author">Massachusetts State Board of Education</field><field name="title">Course of studies for elementary schools</field><field name="year">1896</field><field name="date">1896</field><field name="pages">129</field><field name="keywords">Elementary education</field><field name="keywords">Curricula</field><field name="keywords">Courses of study</field><field name="notes">129 pages illustrations; ates 24 cm; Note(s): Prepared by the secretary of the Board, F.A. Hill.; Responsibility: Prepared under the direction of the Massachusetts Board of education.</field><field name="edition">Rev.</field><field name="publisher">Massachusetts State Board of Education</field><field name="pub_place">Boston, MA</field><field name="language">English</field><field name="call_number">375.13 .M41c 1896</field><field name="state_country">Massachusetts</field><field name="grade_level_group">Elementary</field></doc>
 
@@ -97,20 +96,41 @@ VL  - 1st ed. Prepared by C.J. Brown, Jno. M. Foote and Chas. F. Trudeau, under 
 
 <doc><field name="type">Book</field><field name="author">Wiley, Ross B.</field><field name="author_nat">Ross B. Wiley</field><field name="corp_author">Hawaii Territory Department of Public Instruction. Division of Research</field><field name="title">Some descriptions of progressive education in the public schools of Hawaii</field><field name="year">1929</field><field name="date">09/1929</field><field name="pages">287</field><field name="keywords">Curricula</field><field name="notes">iv; ges plates (including 1 portrait) 23 cm; Note(s): Foreword signed by Ross B. Wiley, director Division of research./ Running title: Progressive education in Hawaii.; Other Titles: Progressive education in Hawaii.; Responsibility: comp. and ed. by Division of research, Department of public instruction.</field><field name="publisher">Hawaii Territory Department of Public Instruction. Division of Research</field><field name="pub_place">Honolulu, HI</field><field name="language">English</field><field name="call_number">372.45 .H38s 1929</field><field name="state_country">Hawaii</field></doc>
 
-
-
-
-
-<doc><field name="type">Book
-ID  - 17705</field><field name="author">Barnes,George Ivan</field><field name="author_nat"/><field name="author">Kentucky. Department of Education</field><field name="author_nat"/><field name="title">A study of the small high schools in Kentucky with recommendations for improvement</field><field name="year">1927</field><field name="keywords">High schools -- Kentucky -- Statistics</field><field name="keywords">High school</field><field name="keywords">Kentucky</field><field name="keywords">Government publication (gpb)</field><field name="keywords">State or province government publication (sgp)</field><field name="notes">63 pages tables 23 cm; Genre/Form: Statistics.; Note(s): At head of title: State department of education.; Responsibility: by George Ivan Barnes, state director of vocational education. McHenry Rhoads, state superintendent of public instruction. This study approved, indorsed and ordered printed by State board of education, Frankfort, Kentucky.; Entry: 19850920; Update: 20140217</field><field name="publisher">[State Journal Co., Printer to the Commonwealth</field><field name="pub_place">Frankfort
-SN  - LCCN: e 28-186</field><field name="notes">LC: LA292.A4
-M1  - Book, Whole</field></doc>
+<doc><field name="type">Book</field>
+<field name="author">Barnes,George Ivan</field>
+<field name="author_nat"/>George Ivan Barnes</field>
+<field name="corp_author">Kentucky State Department of Education</field>
+<field name="title">A study of the small high schools in Kentucky with recommendations for improvement</field>
+<field name="year">1927</field>
+<field name="keywords">High schools</field>
+<field name="notes">63 pages tables 23 cm; Genre/Form: Statistics.; Note(s): At head of title: State department of education.; Responsibility: by George Ivan Barnes, state director of vocational education. McHenry Rhoads, state superintendent of public instruction. This study approved, indorsed and ordered printed by State board of education, Frankfort, Kentucky.</field>
+<field name="publisher">Kentucky State Department of Education</field>
+<field name="pub_place">Frankfort, KY</field>
+<field name="language">English</field>
+<field name="call_number">373.1 .K37s 1927</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_group">High school</field>
+</doc>
 
 <doc><field name="type">Book</field><field name="corp_author">Kansas State Department of Education</field><field name="title">Handbook on organization and practices for the secondary schools of Kansas. Revision authorized by State board of education, June 15, 1934</field><field name="year">1934</field><field name="date">06/1934</field><field name="pages">86</field><field name="keywords">Secondary education</field><field name="keywords">Curricula</field><field name="keywords">School management and organization</field><field name="notes">86 pages including map, tables 23 cm; Note(s): At head of title: State of Kansas. Department of education./ "Professional reading": pages 80-83.; Responsibility: Issued by W.T. Markham, state superintendent of public instruction, 1934.</field><field name="publisher">Kansas State Department of Education</field><field name="pub_place">Topeka, KS</field><field name="language">English</field><field name="call_number">373.1 .K16h 1934</field><field name="state_country">Kansas</field><field name="grade_level_group">Middle school</field><field name="grade_level_group">High school</field></doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Kansas State Department of Education</field><field name="title">Handbook on organization and practices for the secondary schools of Kansas.</field><field name="year">1933</field><field name="date">1933</field><field name="pages">58</field><field name="keywords">Secondary education</field><field name="keywords">School management and organization</field><field name="keywords">Curricula</field><field name="notes">58 pages map 23 cm; Note(s): At head of title: State of Kansas. Department of education./ "Professional reading": pages 56-58.; Responsibility: Issued by W.T. Markham, state superintendent of public instruction, 1933.</field><field name="publisher">Kansas State Department of Education</field><field name="pub_place">Topeka, KS</field><field name="language">English</field><field name="call_number">373.1 .K16h 1933</field><field name="state_country">Kansas</field><field name="grade_level_group">Middle school</field><field name="grade_level_group">High school</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Kansas State Department of Education</field><field name="title">Handbook on organization and practices for the secondary schools of Kansas.</field><field name="year">1933</field><field name="pages">58</field><field name="keywords">Secondary education</field><field name="keywords">School management and organization</field><field name="keywords">Curricula</field><field name="notes">58 pages map 23 cm; Note(s): At head of title: State of Kansas. Department of education./ "Professional reading": pages 56-58.; Responsibility: Issued by W.T. Markham, state superintendent of public instruction, 1933.</field><field name="publisher">Kansas State Department of Education</field><field name="pub_place">Topeka, KS</field><field name="language">English</field><field name="call_number">373.1 .K16h 1933</field><field name="state_country">Kansas</field><field name="grade_level_group">Middle school</field><field name="grade_level_group">High school</field></doc>
 
-<doc><field name="type">Book
-ID  - 17704</field><field name="author">Kentucky. Department of Education</field><field name="author_nat"/><field name="title">Manual of organization and administration for high schools, 1940</field><field name="year">1940</field><field name="keywords">Education, Secondary -- Kentucky</field><field name="keywords">Education, Secondary</field><field name="keywords">Kentucky</field><field name="keywords">Government publication (gpb)</field><field name="keywords">State or province government publication (sgp)</field><field name="notes">pages 519-657 : illustrations ; 23 cm.; Entry: 19861030; Update: 20140826</field><field name="series_title">Educational bulletin ;; vol. 8, no. 6; Variation: Educational bulletin (Frankfort, Ky.) ;; v. 8, no. 6.</field><field name="publisher">The Dept</field><field name="pub_place">Frankfort, Ky</field><field name="notes">LC: L152
-M1  - Book, Whole</field></doc>
+<doc><field name="type">Book</field>
+<field name="corp_author">Kentucky State Department of Education</field>
+<field name="title">Manual of organization and administration for high schools, 1940</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="keywords">Secondary education</field>
+<field name="notes">pages 519-657 : illustrations ; 23 cm.</field>
+<field name="series_title">Kentucky State Department of Education. Educational bulletin</field>
+<field name="series_vol">8</field>
+<field name="issue">6</field>
+<field name="publisher">Kentucky State Department of Education</field>
+<field name="pub_place">Frankfort, KY</field>
+<field name="language">English</field>
+<field name="call_number">373.1 .K37m 1940</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_group">High school</field>
+</doc>
 </add>
