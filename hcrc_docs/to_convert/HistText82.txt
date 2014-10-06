@@ -1,0 +1,1019 @@
+
+
+TY  - BOOK
+A2  - Tulare County Superintendent of Schools
+T1  - Arranging an environment to initiate a unit
+KW  - Classroom environment
+PB  - Tulare County Superintendent of Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 371.63 .T91a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+T1  - Georgia program for the improvement of instruction; guide to curriculum improvement
+Y1  - 1937
+D1  - 05/1937
+SP  - 130
+KW  - Teacher training
+KW  - Curricula
+N1  - 130 pages, chart (folded).; Other Titles: Guide to curriculum improvement.; Curriculum improvement.
+T2  - Georgia State Department of Education. Bulletin
+V1  - 2
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 375 .G35g 1937
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - A suggestive long term legislative plan in the Kansas program for the improvement of instruction
+Y1  - 1938
+D1  - 07/1938
+KW  - School finance
+KW  - School management and organization
+KW  - Teachers
+KW  - Teacher certification
+N1  - 53 pages 23 cm.; Note(s): Includes bibliographical references.; Other Titles: Kansas program for the improvement of instruction; Responsibility: Dale Zeller, director. Hollis L. Caswell [and] Doak S. Campbll, consultants. State Department of education, W.T. Markham, superintendent, Topeka, Kansas.
+T2  - Kansas State Department of Education. Bulletin
+V1  - 4
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375 .K16su 1938
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - MacDonald, James Wallace
+A2  - Massachusetts State Board of Education
+T1  - The Massachusetts high schools, October, 1897
+Y1  - 1897
+D1  - 10/1897
+SP  - 69
+KW  - High schools
+N1  - 69 p. tables.; Responsibility: By J.W. MacDonald, agent of the board of education.
+PB  - Massachusetts State Board of Education
+LA  - English
+CN  - 373.1 .M41m 1897
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Zeller, Dale
+A2  - Kansas State Department of Education
+T1  - A scope and sequence bulletin in the Kansas program for the improvement of instruction
+Y1  - 1938
+D1  - 10/1938
+KW  - Curricula
+N1  - 26 pages 23 cm.; Other Titles: Kansas program for the improvement of instruction.; Responsibility: Dale Zeller, director. Hollis L. Caswell [and] Doak S. Campbell, consultants. State Department of education. W.T. Markham, superintendent. Topeka, Kansas.
+T2  - Kansas State Department of Education. Bulletin
+V1  - 5
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375 .K16s 1938
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Hand, Harold Curtis
+T1  - Principal findings of the 1947-1948 basic studies of the Illinois Secondary School Curriculum Program
+Y1  - 1949
+D1  - 05/1949
+SP  - 77
+KW  - Curricula
+T2  - Illinois Secondary School Curriculum Program. Bulletin
+V1  - 2
+PB  - Illinois Secondary School Curriculum Program
+CY  - Springfield, IL
+LA  - English
+CN  - 375.15 .I29p 1949
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - A guide for exploratory work in the Kansas program for improvement of instruction
+Y1  - 1937
+D1  - 10/1937
+KW  - Curricula
+KW  - Social sciences
+KW  - Courses of study
+N1  - 388 pages 23 cm.; Note(s): "The materials contained in this bulletin were produced during the summer of 1937 in the Curriculum laboratory of the George Peabody college for teachers."--Foreword./ Includes bibliographical references.; Other Titles: Kansas program for the improvement of instruction.; Responsibility: Dale Zeller, director. Hollis L. Caswell [and] Doak S. Campbell, consultants. State department of education, W.T. Markham, superintendent. Topeka, Kan.
+T2  - Kansas State Department of Education. Bulletin
+V1  - 3
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 375 .K16g 1937
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Louisiana program for the improvement of instruction. Second bulletin
+Y1  - 1937
+D1  - 09/1937
+SP  - 249
+KW  - Curricula
+KW  - Teaching
+N1  - 249 pages 23 cm.; Note(s): At head of title: State department of education of Louisiana. September, 1937 .../ "The purpose ... is to continue and supplement ... bulletin no 324, Louisiana program of curriculum development."--Foreword./ Includes bibliographical references.; Other Titles: Louisiana program of curriculum development.; Responsibility: Issued by T.H. Harris, state superintendent of public education, Baton Rouge, 1937.
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 351
+PB  - Louisiana State Department of Education
+CY  - New Orleans, LA
+LA  - English
+CN  - 375 .L88L 1937
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Louisiana program of curriculum development. Study program
+Y1  - 1936
+D1  - 08/1936
+SP  - 166
+KW  - Curricula
+N1  - 166 pages 23 cm.; Note(s): At head of title: State Department of education of Louisiana. August, 1936./ Includes bibliographical references.; Responsibility: Issued by T.H. Harris, state superintendent of public education, Baton Rouge, 1936.
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 324
+PB  - Louisiana State Department of Education
+CY  - New Orleans, LA
+LA  - English
+CN  - 375 .L88L 1936
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Division of Secondary Education
+T1  - Report of Committee on Survey of County Secondary Curriculum Coordination in California
+Y1  - 1946
+D1  - 11/1946
+SP  - 11
+KW  - Curricula
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379 .C15r
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Agricultural and Industrial Development Board of Georgia
+T1  - School leaders manual
+Y1  - 1944
+D1  - 10/1944
+SP  - 32
+KW  - School management and organization
+N1  - v. 24 cm.; Note(s): Part I. Program of educational development for Georgia.; Responsibility: Issued by Education panel.
+PB  - Agricultural and Industrial Development Board of Georgia
+CY  - Athens, GA
+LA  - English
+CN  - 379 .G35s
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Board of Education
+T1  - Tentative bulletin for administrators, supervisors, and teachers on administration and supervision for junior and senior high schools
+Y1  - 1934
+D1  - 09/1934
+SP  - 80
+KW  - School management and organization
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 379 .I18t 1934
+SC  - Idaho
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - State supervisory program for 1946-47
+Y1  - 1946
+D1  - 08/1946
+SP  - 13
+KW  - School management and organization
+T2  - Louisiana State Department of Education. Circular
+V1  - 2635
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379 .L88st 1946
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Arizona State Department of Education
+T1  - Instruction of bilingual children : course of study for elementary schools of Arizona
+Y1  - 1939
+D1  - 1939
+SP  - 114
+KW  - Bilingual
+T2  - Arizona State Department of Education. Bulletin
+V1  - 13
+PB  - Arizona State Department of Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 428.211 .A71c 1939
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Board of Education
+T1  - By-laws, rules and regulations for the administration of the public school system of the State of Maryland. As revised by the State Board of Education, October 10th, 1898
+Y1  - 1898
+D1  - 10/1898
+SP  - 27
+KW  - School management and organization
+PB  - Maryland State Board of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379 .M39b
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College
+T1  - Decisions and comments by ... judges of the Interstate high school music contest
+Y1  - 1937
+D1  - 04/1937
+KW  - Music
+KW  - Competitions
+T2  - Kansas State teachers college bulletin
+V1  - 28
+IS  - 9
+PB  - Kansas State Teachers College
+CY  - Pittsburg, KS
+LA  - English
+CN  - 780 .K16d 1937
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Massachusetts State Department of Education
+A2  - Special Committee on School Observance of Pilgrim Tercentenary
+T1  - The Pilgrim tercentenary, 1620-1920 : suggestions for observance in the schools, giving specimen programs, pilgrim stories, a pageant and a bibliography
+Y1  - 1920
+D1  - 1920
+SP  - 102
+KW  - Pilgrims
+KW  - Pageants
+KW  - History
+KW  - Massachusetts
+N1  - 102 pages : illustrations, music ; 22 cm; Genre/Form: History.; Note(s): At head of title: The Commonwealth of Massachusetts./ Cover title: Programs for the observance of the Pilgrim tercentenary in the schools of Massachusetts, 1620-1920./ Includes bibliographical references (pages 97-102).; Other Titles: Programs for the observance of the Pilgrim tercentenary in the schools of Massachusetts, 1620-1920.; Responsibility: prepared by the Special Committee on the School Observance of the Pilgrim tercentenary.
+PB  - Massachusetts State Department of Education
+CY  - Boston, MA
+LA  - English
+CN  - 925 .M41p
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - Teachers' guide to the Kansas elementary school program of studies. Science. September, 1940
+Y1  - 1940
+D1  - 09/1940
+SP  - 129
+KW  - Science
+KW  - Curricula
+KW  - Courses of study
+N1  - 129 pages 23 cm; Note(s): "These materials have been produced through the efforts of W.A. Stacey ... Adah Cain ... George Turner ... [and] Ethel Nemeyer."--Foreword./ "References" at end of each unit.; Responsibility: Prepared under the direction of Geo. L. McClenny, state superintendent of public instruction.
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 519 .K16t 1940
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Wooster, Lyman Dwight
+T1  - Nature studies (animals)
+Y1  - 1925
+D1  - 09/1925
+SP  - 75
+KW  - Nature study
+T2  - Kansas State Teachers College of Hays bulletin
+V1  - 15
+IS  - 4
+PB  - Kansas State Teachers College of Hays
+CY  - Hays, KS
+LA  - English
+CN  - 590 .K16n 1925
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Courses of study for elementary schools. 1933
+Y1  - 1933
+D1  - 1933
+SP  - 592
+KW  - Curricula
+N1  - xx; ges illustrations 23 cm; Note(s): At head of title: State of Missouri. Department of education./ Blank pages for "Teachers notes": p. 591-592.; Responsibility: Chas. A. Lee, state superintendent of public schools.
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 375.13 .M67c 1933
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Courses of study for elementary schools, 1927
+Y1  - 1927
+D1  - 1927
+SP  - 402
+KW  - Curricula
+KW  - Courses of study
+N1  - 402, [1] pages illustrations 23 cm; Note(s): At head of title: State of Missouri. Deptartment of education./ Includes bibliographical references.; Responsibility: Chas. A. Lee, state superintendent of public schools.
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 375.13 .M67c 1927
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Montana State Department of Public Instruction
+T1  - State course of study for Montana city elementary schools ... 1924
+Y1  - 1924
+D1  - 1924
+SP  - 628
+KW  - Curricula
+KW  - Courses of study
+N1  - 628 pages 23 cm; Responsibility: Prepared by State department of public instruction, Helena, Montana.
+PB  - Montana State Department of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 375.13 .M75st 1924
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Montana State Department of Public Instruction
+T1  - State course of study : city elementary schools of Montana
+Y1  - 1920
+D1  - 1920
+SP  - 432
+KW  - Curricula
+KW  - Courses of study
+N1  - 432 pages ; 23 cm; Responsibility: prepared by State department of public instruction, Helena, Montana.
+PB  - Montana State Department of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 375.13 .M75st 1920
+SC  - Montana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Public Instruction
+T1  - Findings of committee on background and procedure
+Y1  - 1941
+D1  - 01/1941
+SP  - 80
+KW  - Secondary education
+N1  - 80 pages.; Genre/Form: History.; Note(s): Cover title: Findings of committee on background and procedure./ Includes bibliographical references (pages 79-80).
+T2  - The Nebraska High School Improvement Program. Bulletin
+V1  - 1
+IS  - 1
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 373.1 .N36f 1941
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nevada State Board of Education
+T1  - Course of study for the elementary grades. Adopted by the State board of education
+Y1  - 1939
+D1  - 1939
+SP  - 292
+KW  - Curricula
+KW  - Courses of study
+N1  - xx, 292, [5] pages including form 23 cm; Note(s): At head of title: State of Nevada./ Pages at end blank for "Memoranda."/ "Revision of the work that was begun in 1937 under the direction of ... Chauncey W. Smith."--Foreword./ Includes bibliographical references and bibliographies.; Responsibility: Prepared and issued by Department of public instruction and cooperating educators, Carson City, Nevada ...
+PB  - Nevada State Board of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 375.13 .N49c 1939
+SC  - Nevada
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Nevada State Board of Education
+T1  - Elementary course of study
+Y1  - 1922
+D1  - 1922
+SP  - 143
+KW  - Curricula
+KW  - Courses of study
+N1  - 143, [3] p. diagr. 23cm.; Note(s): At head of title: State of Nevada./ W. J. Hunting, superintendent of public instruction./ Bibliography at end of some of the sections.; Responsibility: Adopted by the State board of education, August, 1922.
+PB  - Nevada State Board of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 375.13 .N49e 1922
+SC  - Nevada
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Nevada State Board of Education
+T1  - New course of study for the rural elementary public schools of Nevada
+Y1  - 1916
+D1  - 1916
+SP  - 125
+KW  - Curricula
+KW  - Courses of study
+N1  - 125 pages, 1 leaf 24 cm; Note(s): At head of title: State of Nevada.; Responsibility: Issued by the State board of education.
+PB  - Nevada State Board of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 375.13 .N49n 1916
+SC  - Nevada
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Course of study and syllabus for elementary schools
+Y1  - 1906
+D1  - 1906
+KW  - Curricula
+KW  - Courses of study
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 375.13 .N53c 1906
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Courses of study for the public high schools of North Carolina
+Y1  - 1920
+D1  - 08/1920
+KW  - Curricula
+KW  - Courses of study
+AB  - I. Science-language curriculum.--II. Modern language curriculum.--III. Vocational courses in agriculture and home economics.--IV. Course in teacher training.
+N1  - 25, [1] pages 23 cm.; Responsibility: prepared by J. Henry Highsmith, state inspector of high schools.
+T2  - North Carolina State Department of Public Instruction. High school leaflet
+V1  - 23
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.15 .N85c 1930
+SC  - North Carolina
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Course of study for the elementary schools of North Carolina
+Y1  - 1923
+D1  - 1923
+SP  - 586
+KW  - Curricula
+KW  - Courses of study
+N1  - 586 pages : illustrations ; 24 cm.; Note(s): Includes bibliographical references.
+T2  - North Carolina State Department of Public Instruction. Educational publication
+V1  - 65
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.13 .N85c 1923
+SC  - North Carolina
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - North Dakota elementary courses of study with suggested daily program and organization for rural schools issued by the Department of public instruction
+Y1  - 1928
+D1  - 1928
+SP  - 447
+KW  - Curricula
+KW  - Courses of study
+KW  - Elementary education
+ED  - (Rev., 1929, 1931)
+PB  - North Dakota State Department of Public Instruction
+CY  - Fargo, ND
+LA  - English
+CN  - 375.13 .N86e 1928
+SC  - North Dakota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Nebraska (Lincoln campus)
+T1  - Nebraska high-school manual
+Y1  - 1902
+D1  - 08/1902
+SP  - 43
+KW  - High schools
+T2  - University of Nebraska Bulletin
+V1  - 7
+IS  - 9
+PB  - University of Nebraska
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .N36n 1902
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Nebraska (Lincoln campus)
+T1  - Nebraska high-school manual
+Y1  - 1908
+D1  - 03/1908
+SP  - 93
+KW  - High schools
+N1  - 93 p. 8vo.; Responsibility: Issued by the University of Nebraska and the State Department of Education.
+T2  - University of Nebraska Bulletin
+V1  - 13
+IS  - 8
+PB  - University of Nebraska
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .N36n 1908
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Nebraska (Lincoln campus)
+A2  - Nebraska State Department of Public Instruction
+T1  - Nebraska high-school manual
+Y1  - 1914
+D1  - 08/1914
+SP  - 91
+KW  - High schools
+KW  - Curricula
+T2  - Bulletin of the University of Nebraska
+V1  - 19
+IS  - 14
+PB  - University of Nebraska
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .N36n 1914
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Public Instruction
+T1  - Suggested program of studies for Nebraska high schools
+Y1  - 1945
+D1  - 1945
+SP  - 50
+KW  - Curricula
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .N36s 1945
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Public Instruction
+T1  - Proposed revision of part II of the suggested program of studies for Nebraska high schools
+Y1  - 1948
+D1  - 09/1948
+SP  - 5
+KW  - Curricula
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .N36s 1948
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nevada State Office of the Superintendent of Public Instruction
+T1  - Supplement to high-school course of study. Adopted by the State Board of Education, Sept. 1924
+Y1  - 1924
+D1  - 1924
+SP  - 23
+KW  - High schools
+KW  - Curricula
+N1  - 23, [1] p. 23 cm.; Note(s): At head of title: State of Nevada.
+PB  - Nevada State Office of the Superintendent of Public Instruction
+CY  - Carson City, NV
+LA  - English
+CN  - 375.15 .N49su 1924
+SC  - Nevada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Nevada
+T1  - Register of the University high school for the year April 1, 1908-April 1, 1909
+Y1  - 1908
+D1  - 07/1908
+SO  - 20
+KW  - High schools
+KW  - Curricula
+T2  - University of Nevada Bulletin
+V1  - 2
+IS  - 3
+PB  - University of Nevada
+CY  - Carson City, NV
+LA  - English
+CN  - 375.15 .N49u 1908
+SC  - Nevada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Nevada
+T1  - University high school register
+Y1  - 1909
+D1  - 07/1909
+SP  - 24
+KW  - High schools
+KW  - Curricula
+T2  - University of Nevada Bulletin
+V1  - 3
+IS  - 3
+PB  - University of Nevada
+CY  - Carson City, NV
+LA  - English
+CN  - 375.15 .N49u 1909
+SC  - Nevada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Nevada
+T1  - University high school register
+Y1  - 1910
+D1  - 07/1910
+SP  - 30
+KW  - High schools
+KW  - Curricula
+T2  - University of Nevada Bulletin
+V1  - 4
+IS  - 3
+PB  - University of Nevada
+CY  - Carson City, NV
+LA  - English
+CN  - 375.15 .N49u 1910
+SC  - Nevada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Nevada
+T1  - University high school register
+Y1  - 1911
+D1  - 07/1911
+SP  - 23
+KW  - High schools
+KW  - Curricula
+T2  - University of Nevada Bulletin
+V1  - 5
+IS  - 3
+PB  - University of Nevada
+CY  - Carson City, NV
+LA  - English
+CN  - 375.15 .N49u 1911
+SC  - Nevada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Public Instruction
+T1  - A manual for secondary schools
+Y1  - 1932
+D1  - 1932
+SP  - 222
+KW  - High schools
+KW  - Curricula
+N1  - 222 pages 23 cm; Note(s): At head of title: State of New Jersey. Department of public instruction, Trenton./ "This manual, issued in July 1932, incorporates the provisions of the Public laws of 1932. It replaces the Manual for high schools, issued in 1922, and the Bulletin of information relating to the intermediate and junior high schools, issued in 1927."/ Includes bibliographical references.
+PB  - New Jersey State Department of Public Instruction
+CY  - Trenton, NJ
+LA  - English
+CN  - 375.15 .N51m 1932
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - Administrative manual and course of study for North Dakota high schools
+Y1  - 1931
+D1  - 1931
+SP  - 271
+KW  - Secondary education
+KW  - High schools
+KW  - Curricula
+KW  - School management and organization
+KW  - Courses of study
+N1  - 271 pages ; 23 cm; Note(s): Includes bibliographical references and index.; Responsibility: prepared and issued under the direction of Department of Public Instruction.
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 375.15 .N86a 1931
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - Administrative manual for North Dakota high schools
+Y1  - 1938
+D1  - 1938
+SP  - 57
+KW  - Secondary education
+KW  - High schools
+KW  - School management and organization
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 375.15 .N86a 1938
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Montana State Department of Public Instruction
+T1  - Course of study for the common schools of Montana
+Y1  - 1899
+D1  - 1899
+SP  - 135
+KW  - Courses of study
+KW  - Curricula
+PB  - Montana State Department of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 375.81 .M75c 1899
+SC  - Montana
+ER  - 
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - New Mexico common schools. Course of study
+Y1  - 1921
+D1  - 1921
+SP  - 206
+KW  - Curricula
+KW  - Courses of study
+N1  - 5 preliminary leaves, [9]-206 pages illustrations 23 cm; Note(s): "Revised edition": on cover.; Responsibility: Prepared under direction of the State Board of Education.
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 375.81 .N52c 1921
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - New Mexico common schools course of study
+Y1  - 1920
+D1  - 1920
+SP  - 160
+KW  - Curricula
+KW  - Courses of study
+N1  - 160 pages 24 cm; Note(s): On cover: Some important school laws, 1920.; Responsibility: Prepared under direction of the State Board of Education by the State Superintendent, 1920.
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 375.81 .N52c 1920
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - High school manual for North Dakota high schools
+Y1  - 1928
+D1  - 1928
+SP  - 185
+KW  - Curricula
+KW  - Secondary education
+KW  - School management and organization
+KW  - High schools
+N1  - 185 pages ; 23 cm; Note(s): Includes bibliographical references and index.; Responsibility: prepared and issued under the direction of Department of Public Instruction.
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 375.15 .N86h 1928
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State High School Board
+T1  - A Manual for the use of the state high schools of North Dakota
+Y1  - 1902
+D1  - 1902
+SP  - 86
+KW  - Curricula
+KW  - Secondary education
+KW  - School management and organization
+KW  - High schools
+N1  - v. ; 23 cm; Geographic: North Dakota.; Note(s): Includes bibliographical references.;
+PB  - North Dakota State High School Board
+CY  - Bismarck, ND
+LA  - English
+CN  - 375.15 .N86m 1902
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State High School Board
+T1  - A Manual for the use of the state high schools of North Dakota
+Y1  - 1904
+D1  - 1904
+SP  - 61
+KW  - Curricula
+KW  - Secondary education
+KW  - School management and organization
+KW  - High schools
+N1  - v. ; 23 cm; Geographic: North Dakota.; Note(s): Includes bibliographical references.;
+PB  - North Dakota State High School Board
+CY  - Bismarck, ND
+LA  - English
+CN  - 375.15 .N86m 1904
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State High School Board
+T1  - A Manual for the use of the state high schools of North Dakota
+Y1  - 1913
+D1  - 1913
+SP  - 89
+KW  - Curricula
+KW  - Secondary education
+KW  - School management and organization
+KW  - High schools
+N1  - v. ; 23 cm; Geographic: North Dakota.; Note(s): Includes bibliographical references.;
+PB  - North Dakota State High School Board
+CY  - Bismarck, ND
+LA  - English
+CN  - 375.15 .N86m 1913
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State High School Board
+T1  - A Manual for the use of the state high schools of North Dakota
+Y1  - 1915
+D1  - 1915
+SP  - 93
+KW  - Curricula
+KW  - Secondary education
+KW  - School management and organization
+KW  - High schools
+N1  - v. ; 23 cm; Geographic: North Dakota.; Note(s): Includes bibliographical references.;
+PB  - North Dakota State High School Board
+CY  - Bismarck, ND
+LA  - English
+CN  - 375.15 .N86m 1915
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Cook, Albert Samuel
+A1  - Tall, Lida Lee
+A1  - Davidson, Isobel
+A1  - Nielson, Minnie Jean
+A2  - North Dakota State Department of Public Instruction
+T1  - Course of study, Baltimore County, Maryland, public schools, grades I to VIII; North Dakota State edition
+Y1  - 1921
+D1  - 1921
+SP  - 386
+KW  - Curricula
+KW  - Elementary education
+KW  - Courses of study
+PB  - Warwick & York, Inc
+CY  - Baltimore, MD
+LA  - English
+CN  - 375.81 .N86c 1921
+SC  - North Dakota
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Montana State Department of Public Instruction
+T1  - State course of study for rural schools of Montana ... 1919
+Y1  - 1919
+D1  - 1919
+SP  - 443
+KW  - Curricula
+KW  - Courses of study
+KW  - Rural schools
+N1  - 443 pages 23 cm; Note(s): "References."; Responsibility: Prepared by State department of public instruction, Helena, Montana.
+PB  - Montana State Department of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 375.84 .M75s 1919
+SC  - Montana
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Planning Board
+T1  - The Nebraska educational survey : a report outlining an educational program for Nebraska based on a series of ten fact-finding studies developed in the educational survey by co-operating study committees with a membership of over 100 Nebraska educators and others ..
+Y1  - 1940
+D1  - 04/1940
+SP  - 28
+KW  - Educational planning
+N1  - xi; ; 22 cm.; Note(s): On cover: An educational program for Nebraska./ Also issued online.; Other Titles: Educational program for Nebraska.
+PB  - Nebraska State Planning Board
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.1 .N36e 1940
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - A study in curriculum problems of the North Carolina public schools. Suggestions and practices, 1935
+Y1  - 1935
+D1  - 1935
+SP  - 528
+KW  - Curricula
+N1  - 528 pages illustrations (including music, forms, diagrams) 23 cm.; Note(s): "Curriculum program ... made possible through a subvention of the General Education Board, New York City."--Page [9]./ Includes bibliographical references.; Other Titles: Curriculum problems of the North Carolina public schools.
+T2  - North Carolina State Department of Public Instruction Publication
+V1  - 189
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.81 .N85s 1935
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Suggested procedures for curriculum construction and course of study building, 1934-1935
+Y1  - 1934
+D1  - 1934-1935
+KW  - Curricula
+KW  - Curriculum planning
+SP  - 107
+N1  - 107 pages illustrations, forms 23 cm.; Note(s): Includes bibliographical references.; Other Titles: Curriculum construction and course of study building.; Responsibility: Issued by the state superintendent of public instruction, Raleigh, N.C.
+T2  - North Carolina State Department of Public Instruction. Publication
+V1  - 179
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.81 .N85su 1934
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Biennial report of the Superintendent of Public Instruction of State of North Carolina to Governor Robert B. Glenn, for the scholastic years 1904-1905 and 1905-1906.
+Y1  - 1907
+D1  - 1907
+KW  - Public schools
+KW  - Education
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N85b 1904
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - Course of study for the rural schools of North Dakota
+Y1  - 1928
+D1  - 1928
+SP  - 369
+KW  - Rural schools
+KW  - Curricula
+KW  - Courses of study
+N1  - 369 pages ; 23 cm; Note(s): Includes bibliographical references; Responsibility: issued by the Department of Public Instruction, Bertha R. Palmer, Superintendent ; prepared by Department of Public Instruction and co-operating educators, 1928, Bismarck.
+PB  - North Dakota State Department of Public Instruction
+CY  - Fargo, ND
+LA  - English
+CN  - 375.84 .N86c 1928
+SC  - North Dakota
+ER  - 
