@@ -1852,19 +1852,6 @@ Brothers.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Mathematical Association of America. Committee on the Undegraduate Program in Mathematics. Panel on Teacher Training</field>
-<field name="title">Recommendations for the training of teachers of mathematics</field>
-<field name="keywords">Mathematics</field>
-<field name="year">1966</field>
-<field name="date">1966</field>
-<field name="publisher">Mathematical Association of America</field>
-<field name="pub_place">Berkeley, CA</field>
-<field name="language">English</field>
-<field name="notes">14 p.; Responsibility: Panel on Teacher Training.</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
 <field name="corp_author">Mathematical Association of America. Committee on the Undergraduate
 Program</field>
 <field name="title">Recommendations for the training of teachers of mathematics</field>
@@ -8126,18 +8113,6 @@ illustrated by Luis C. Santoyo.</field>
 <field name="pages">166</field>
 <field name="call_number">371.3095 .S19t c. 2</field>
 <field name="state_country">California</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
-<field name="corp_author">Sacramento State College. Division of Teacher Education</field>
-<field name="title">The teacher education program</field>
-<field name="year">1955</field>
-<field name="date">1955</field>
-<field name="publisher">Sacramento State College</field>
-<field name="pub_place">Sacramento, CA</field>
-<field name="language">English</field>
-<field name="notes">35 p. illus. 23 cm.</field>
 </doc>
 
 <doc>
