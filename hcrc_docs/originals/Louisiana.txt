@@ -1,0 +1,282 @@
+TY  - BOOK
+A1  - Noble, Stuart Grayson
+A1  - Roy, V. L.
+A2  - Louisiana State Department of Education
+T1  - The personnel, preparation and programs of the high-school teaching staff of Louisiana
+Y1  - 1926
+D1  - 12/1926
+SP  - 57
+KW  - High school teachers
+N1  - 57 pages ; 24 cm.; Responsibility: by Stuart G. Noble and V.L. Roy ; introduction by Jno. M. Foote. ; Shelved in Cubberley Library Reading Room
+T2  - Louisiana State Department of Education pamphlet
+V1  - 14
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1926
+SC  - Louisiana
+G1  - High school
+ER  -
+
+TY  - BOOK
+T1  - Act no. 83, House bill no. 127, creating the Teachers' Retirement System of Louisiana
+Y1  - 1936
+D1  - 1936
+SP  - 23
+KW  - Teachers
+N1  - 23 pages; Responsibility: By Frazar and Riddle.; Shelved in Cubberley Library Reading Room
+CY  - Baton Rouge. LA
+LA  - English
+CN  - 379.74 .L1 1936
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+A2  - Northwestern State College of Louisiana
+T1  - Reports of the state teachers institutes, and the State normal school, 1896
+Y1  - 1896
+D1  - 1896
+SP  - 51
+KW  - Teachers' institutes
+N1  - 51 pages 24 cm; Note(s): Includes: Sixth biennial report of Louisiana state normal school, Natchitoches, 1894/96, pp. 32-51.; Shelved in Cubberley Library Reading Room
+PB  - Advocate, official journal of the State of Louisiana
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1896
+SC  - Louisiana
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Report of the Survey commission on the Louisiana state normal college, the Louisiana polytechnic institute, the Southwestern Louisiana institute
+Y1  - 1924
+D1  - 1924
+SP  - 233
+KW  - Teacher training
+KW  - Educational surveys
+KW  - Teachers colleges
+KW  - Northwestern State College of Louisiana
+KW  - Louisiana Polytechnic Institute
+KW  - University of Southwestern Louisiana
+N1  - 233 pages including tables 23 cm; Note(s): At head of title: The state Dept. of education, Baton Rouge, La.; Shelved in Cubberley Library Reading Room
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1924
+SC  - Louisiana
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Proceedings of the Thirteenth Annual Convention of Parish Superintendents of Public Education, Natchitoches, La., June 19, 20 and 21, 1899
+Y1  - 1899
+D1  - 06/1899
+SP  - 89
+KW  - School superintendents
+KW  - School principals
+N1  - 89 pages ; 23 cm; Responsibility: State of Louisiana, Department of Education, Superintendent's Office.; Shelved in Cubberley Library Reading Room
+T2  - Convention of Parish Superintendents of Public Education ; (11th :; 1897 :; New Orleans, La.)
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1899
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - George Peabody College for Teachers
+T1  - Public education in Louisiana; a survey report
+Y1  - 1954
+D1  - 1954
+SP  - 394
+KW  - Public schools
+N1  - viii; ges diagrams, tables 23 cm; Note(s): Also issued online.; Shelved in Cubberley Library Reading Room
+PB  - George Peabody College for Teachers
+CY  - Nashville, TN
+LA  - English
+CN  - 379.74 .L1 1954
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Louisiana school news
+Y1  - 1955
+D1  - 09/1955
+SP  - 23
+KW  - Education
+N1  - Genre/Form: Periodicals.; Geographic: Louisiana.; Department of Education
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1955
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Governor's conference on Education
+T1  - Report Governor's conference on Education in connection with White House Conference on Education
+Y1  - 1955
+D1  - 11/1955
+SP  - 93
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .L1 1955
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State University, Baton Rouge
+A2  - Louisiana State University and Agricultural and Mechanical College
+T1  - Proceedings of the Twenty-Fifth annual October Conference of School Administrators
+Y1  - 1958
+D1  - 1958
+SP  - 94
+KW  - Education
+N1  - Genre/Form: Conference proceedings.; Note(s): Vol. for 1950 issued as the University's Bureau of Educational Research. Sponsored by: College of Education, Louisiana State University and Agricultural and Mechanical College and the State Dept. of Education, 195 -196 ; College of Education, Louisiana State University and the State Dept. of Education, 196 -1970.; Shelved in Cubberley Library Reading Room
+T2  - October Conference
+PB  - Louisiana State University
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1958
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A1  - Shipp, Donald Eugene
+A1  - Hilton, Charles Winston
+A2  - Louisiana Education Research Association
+T1  - School finance in Louisiana; a handbook on local, state and federal school finance in Louisiana
+Y1  - 1962
+D1  - 1962
+SP  - 47
+KW  - School finance
+N1  - 47 pages illustrations.; Note(s): Includes bibliographical references.; Other Titles: Handbook on local, state and federal school finance in Louisiana; Responsibility: [by] Donald E. Shipp, C.W. Hilton and J.B. Gremillion.; Shelved in Cubberley Library Reading Room
+T2  - Louisiana Education Research Association bulletin
+V1  - V
+IS  - 1
+PB  - Louisiana Education Research Association
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1962
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A1  - Smith, Marion B.
+A1  - Bertrand, Alvin Lee
+A2  - Louisiana State University and Agricultural and Mechanical College
+T1  - Rural education in transition : a study of trends and patterns in Louisiana
+Y1  - 1963
+D1  - 12/1963
+SP  - 23
+KW  - Rural education
+N1  - 23 pages ; 23 cm.; Note(s): Includes bibliographical references.; Responsibility: by Marion B. Smith and Alvin L. Bertrand.; Shelved in Cubberley Library Reading Room
+T2  - Louisiana Agricultural Experiment Station bulletin
+V1  - 576
+PB  - Louisiana State University and Agricultural and Mechanical College
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1963
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A1  - Bollich, Reginald A.
+A2  - Louisiana Coordinating Council for Higher Education
+T1  - Enrollment estimations for twenty-four public and private institutions of higher education, state of Louisiana
+Y1  - 1973
+D1  - 1973
+SP  - 32
+KW  - Higher education
+N1  - 32 leaves ; 28 cm; Responsibility: prepared by Reginald A. Bollich, Coordinator of Information Systems, Louisiana Coordinating Council for Higher Education.; Shelved in Cubberley Library Reading Room
+PB  - Louisiana Coordinating Council for Higher Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1973
+SC  - Louisiana
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Louisiana Coordinating Council for Higher Education
+T1  - Master plan toward balanced growth in Louisiana post-high school education : quantity and quality
+Y1  - 1972
+D1  - 1972
+SP  - 11
+KW  - School finance
+KW  - Higher education
+N1  - ix; 28 cm; Note(s): Accompanied by: "Master plan supplement." (vii, 216 p. ; 29 cm.) published: Baton Rouge : [s.n.], 1972. Call number: LC66.L6 Suppl.; Shelved in Cubberley Library Reading Room
+PB  - Louisiana Coordinating Council for Higher Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1972
+SC  - Louisiana
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Louisiana Coordinating Council for Higher Education
+T1  - Master plan supplement
+Y1  - 1972
+D1  - 1972
+SP  - 216
+KW  - School finance
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Louisiana Coordinating Council for Higher Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1972
+SC  - Louisiana
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Prestage,James J.
+A2  - Louisiana Coordinating Council for Higher Education
+T1  - Preliminary fourteen year enrollment estimations for twenty-four public and private institutions of higher education, State of Louisiana
+Y1  - 1972
+D1  - 03/1972
+SP  - 37
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Louisiana Coordinating Council for Higher Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1
+SC  - Louisiana
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Louisiana public and nonpublic schools 1985-86
+D1  - 1986?
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1985-86
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Did you ask...? A guide to visiting-teacher service
+Y1  - 1956
+D1  - 04/1956
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.74 .L1 1956
+SC  - Louisiana
+ER  -
+
