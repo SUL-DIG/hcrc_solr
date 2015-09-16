@@ -1,0 +1,669 @@
+
+TY  - BOOK
+A1  - Brown, George A.
+A2  - Iowa State Department of Public Instruction
+T1  - Iowa's consolidated schools
+Y1  - 1922
+D1  - 1922
+SP  - 100
+KW  - Schools
+N1  - 1 preliminary leaf, 100, [2] pages including illustrations; ans 23 cm; Note(s): At head of title: State of Iowa, 1922./ Added t.p.: New buildings erected since January 1, 1920, and suggestions for meeting legal conditions for receiving state aid./ ; Responsibility: by George A. Brown, consolidated school inspector. Issued by the Department of public instruction, Des Moines, Iowa. Des Moines, Iowa. P.E. McClenahan, superintendent.; Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3  1922
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Frasier, P. G.
+A2  - Iowa State Board for Vocational Education
+T1  - A technique for a vocational education survey of a local community
+Y1  - 1939
+D1  - 12/1939
+SP  - 146
+KW  - Educational surveys
+KW  - Vocational education
+N1  - 146 leaves ; 28 cm.; Note(s): Cover title.; Responsibility: by P.G. Frasier.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Board for Vocational Education Misc. Res.
+V1  - 1
+ED  - Rev.
+PB  - Iowa State Board for Vocational Education
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1939
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Grimes, A. B.
+A2  - Iowa State Department of Public Instruction
+T1  - Survey of public school facilities in Iowa : inventory of existing public school facilities, needs, and resources
+Y1  - 1952
+D1  - 10/1952
+SP  - 90
+KW  - Public schools
+N1  - 90 pages : illustrations ; 28 cm; Note(s): "Prepared by A.B. Grimes."/ "October 1, 1952."; Responsibility: by the Division of Administration and Finance.; Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1952
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Hill, Margaret Keyser
+A2  - State University of Iowa
+T1  - A bibliography of reading lists for retarded readers
+Y1  - 1953
+D1  - 04/1953
+SP  - 12
+KW  - Reading
+KW  - Remedial teaching
+N1  - 12 pages.; Genre/Form: Bibliography.; Responsibility: Compiled by Margaret Keyser Hill.; Shelved in Cubberley Library Reading Room
+T2  - State University of Iowa Extension Bulletin, College of Education Series
+V1  - 37
+ED  - Rev
+PB  - State University of Iowa
+CY  - Iowa City, IA
+LA  - English
+CN  - 379.74 .I3 1953
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Certification and approval of school personnel
+Y1  - 1954
+D1  - 1954
+SP  - 30
+KW  - Teacher certification
+N1  - 30 pages ; 28 cm.; Note(s): "Regulations governing the issuance and renewal of teachers' certificates, and approval of certificate holders to teach or serve in various subject-matter fields or service areas."/ Cover title./ Amendments to bulletin no. 31, issued separately as a circular, but swanked for bulletin (17-P982 73:31/amend.).; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction bulletin
+V1  - 31
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1954
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State General Assembly. Legislative Advisory Committee on the Study of State Aid to Schools
+T1  - Report of the Legislative Advisory Committee on the Study of State Aid to Schools
+Y1  - 1963
+D1  - 01/1963
+SP  - 23
+KW  - Government aid to education
+N1  - 23, [7] leaves ; 28 cm; Note(s): Cover title./ "January 1963."; Shelved in Cubberley Library Reading Room
+PB  - Legislative Advisory Committee on the Study of State Aid to Schools
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1963
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa Higher Education Facilities Commission
+T1  - Biennium report of the Higher Education Facilities Commission of the State of Iowa
+Y1  - 1966
+D1  - 08/1966
+SP  - 28
+KW  - College facilities
+KW  - Student aid
+N1  - v. 28 cm; Genre/Form: Statistics.; Geographic: Iowa.; Shelved in Cubberley Library Reading Room
+PB  - Iowa Higher Education Facilities Commission
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1966
+SC  - Iowa
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Murray, William G.
+A2  - Iowa Taxation Study Committee
+T1  - Report of the Iowa Taxation Study Committee to the Governor and the General Assembly of Iowa
+Y1  - 1956
+D1  - 1956
+SP  - 77
+KW  - Taxation
+N1  - 2 parts in 1.; pt. 1. Iowa's tax system; a factual survey.--Pt. 2. Findings, recommendations and bills.; illustrations, tables 28 cm; Note(s): Director of research: William G. Murray.; Shelved in Cubberley Library Reading Room
+PB  - Iowa Taxation Study Committee
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1956
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Use of state funds to improve public education in Iowa
+Y1  - 1961
+D1  - 02/1961
+SP  - 43
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1961
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Summary of federal programs Fiscal 1973-1974
+D1  - 1974?
+SP  - 17
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1973-74
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa Educational Commission
+T1  - Report of the Educational Commission to the thirty-third General Assembly as provided in chapter 122, Acts of the thirty-second General Assembly
+Y1  - 1908
+D1  - 1908
+SP  - 100
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa Educational Commission
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3  1908
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Iowa special days
+Y1  - 1914
+D1  - 03/1914
+SP  - 100
+KW  - Holidays
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1914
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - State of Iowa, Department of Public Instruction, Des Moines high school statistics, December, 1894
+Y1  - 1894
+D1  - 12/1894
+SP  - 26
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1894
+SC  - Iowa
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Riggs, John F.
+A2  - Iowa State Department of Public Instruction
+T1  - Conditions and needs of Iowa rural schools ..
+Y1  - 1905
+D1  - 1905
+SP  - 81
+KW  - Rural schools
+N1  - Country school statistics.--The country school problem.--Present status of consolidation.--One phase of the teacher problem.--School buildings and grounds.; 81 pages illustrations 23 cm; Responsibility: John F. Riggs, superintendent of public instruction.; Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1905
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Cram, Fred Danford
+A2  - Iowa State Teachers College
+T1  - Surveying rural schools : organization, methods, results and comparisons
+Y1  - 1922
+D1  - 07/1922
+SP  - 75
+KW  - Educational surveys
+KW  - Rural schools
+N1  - 75 pages ; 22 cm.; Responsibility: by Fred D. Cram.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Teachers College bulletin
+V1  - vol. XXIII
+IS  - 3, pt. 1.
+PB  - Iowa State Teachers College
+CY  - Cedar Falls, IA
+LA  - English
+CN  - 379.74 .I3  1922
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Education Association
+T1  - Elimination of obsolete and useless topics and materials from the common branches: being a report of a committee of the Iowa state teachers' association, November 1915
+Y1  - 1915
+D1  - 11/1915
+SP  - 54
+KW  - Curricula
+N1  - 54 p. 1 illus. 23 cm.; Note(s): Cover-title: Report of the Committee on elimination of subject matter./ "Published as an educational bulletin by the Iowa state teachers' association."; Shelved in Cubberley Library Reading Room
+PB  - Iowa State Education Association
+LA  - English
+CN  - 379.74 .I3  1915
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Regulations for standardizing common schools
+Y1  - 1925
+D1  - 1925
+SP  - 87
+KW  - Rural schools
+KW  - School buildings
+N1  - 87 pages : illustrations, plans; traits ; 23 cm; Responsibility: May E. Francis ; issued by the Dept. of Public Instruction.; Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1925
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Rourke, Ellen M.
+A2  - Iowa Bureau of Labor Statistics
+T1  - Special investigation of children in industry attending part-time school
+Y1  - 1926
+D1  - 1926
+SP  - 77
+KW  - Child labor
+KW  - Evening and continuation schools
+N1  - 77 pages ; 26 cm.; Note(s): Cover title.; Responsibility: material gathered and compiled by Ellen M. Rourke.; Shelved in Cubberley Library Reading Room
+T2  - Iowa Bureau of Labor Statistics bulletin
+V1  - 17
+PB  - Iowa Bureau of Labor Statistics
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1926
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Standards for graded and high schools seeking approval for tuition purposes; a manual for public high schools
+Y1  - 1928
+D1  - 1928
+SP  - 44
+KW  - Public schools
+N1  - 44 pages 22 cm; Note(s): At head of title: State of Iowa, 1928./ Agnes Samuelson, superintendent of public instruction./ Includes bibliographical references./ Includes bibliographical references (pages 43-44).; Responsibility: Approved by the Department of public instruction. R.A. Griffin, consolidated schools. W.H. Simons, graded and high schools.; Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - De Moines, IA
+LA  - English
+CN  - 379.74 .I3 1928
+SC  - Iowa
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Standardization of rural schools
+Y1  - 1928
+D1  - 1928
+SP  - 47
+KW  - Rural schools
+N1  - 47 pages including illustrations; ans 22 cm; Note(s): At head of title: State of Iowa, 1928.; Responsibility: Agnes Samuelson, superintendent of public instruction. Jessie M. Parker, inspector of rural schools.; Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1928
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Board for Vocational Education
+T1  - State plans for vocational education in Iowa for the five year period 1932-1937 : adopted by the State Board for Vocational Education and approved by the Federal Board for Vocational Education
+Y1  - 1932
+D1  - 1932
+SP  - 78
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Iowa State Board for Vocational Education bulletin
+V1  - 24
+PB  - Iowa State Board for Vocational Education
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1932-1937
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Stone, Harry Everette
+A2  - Iowa State Department of Public Instruction
+T1  - Consolidated schools in Iowa by H.E. Stone, inspector consolidated schools
+Y1  - 1926
+D1  - 1926
+SP  - 49
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1926
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Handbook of Iowa teachers
+Y1  - 1890
+D1  - 1890
+SP  - 64
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1890
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - School Director's convention held at Des Moines, December 27, 1894
+Y1  - 1894
+D1  - 12/1894
+SP  - 14
+KW  - School supervision
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1894
+SC  - Iowa
+ER  -
+
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - Summary of bills passed by the 49th General Assembly
+Y1  - 1941
+D1  - 1941
+SP  - 9
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1941
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, R. C.
+A2  - Iowa State Department of Public Instruction
+T1  - Distribution of state school funds in Iowa
+Y1  - 1930
+D1  - 07/1930
+SP  - 5
+KW  - School finance
+N1  - 5 leaves ; 28 cm.; Note(s): Caption title./ "R.C. Williams, Director of Research."/ "July 1930."; Responsibility: State of Iowa, Department of Public Instruction.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 2
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1930 no.2
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert C.
+A2  - Iowa State Department of Public Instruction
+T1  - Census of handicapped children. Department of public instruction, manual of research
+Y1  - 1930
+D1  - 1930
+SP  - 7
+KW  - Children with disabilities
+N1  - 15 pages including tables, forms 23 cm.; Note(s): At head of title: State of Iowa, 1930.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 1
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1930 no.1
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert C.
+A2  - Iowa State Department of Public Instruction
+T1  - Census of handicapped children
+Y1  - 1930
+D1  - 1930
+SP  - 15
+KW  - Children with disabilities
+N1  - 15 pages including tables, forms 23 cm.; Note(s): At head of title: State of Iowa, 1930.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 4
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1930 no.4
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - Statistical tables for the Census of handicapped children
+Y1  - 1930
+D1  - 11/1930
+SP  - 8
+KW  - Children with disabilities
+N1  - 8 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): Caption title./ "November, 1930."; Responsibility: R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin 
+V1  - 5
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1930 no.5
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - The status of state programs of special education
+Y1  - 1930
+D1  - 09/1930
+SP -  6
+KW  - Children with disabilities
+KW  - Special education
+N1  - 6 leaves ; 28 cm.; Note(s): Caption title./ "September, 1930."; Responsibility: R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 3
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1930 no.3
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Samuelson, Agnes
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - Public school finance in Iowa : preliminary report
+Y1  - 1930
+D1  - 1930
+SP  - 56
+KW  - School finance
+N1  - 56 pages ; 23 cm.; Responsibility: Agnes, Samuelson, R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 6
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1930 no.6
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - Some facts about Iowa schools : a brief tabular summary of various reports concerning the operation of Iowa's public schools for the biennium ending June 30, 1932
+Y1  - 1933
+D1  - 02/1933
+SP  - 8
+KW  - Public schools
+KW  - School finance
+N1  - 8 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ "February, 1933."; Responsibility: by R.C. Williams. More Records; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 10
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1933 no.10
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - A check list of financial economies for a local school district
+Y1  - 1932
+D1  - 04/1932
+SP  - 12
+KW  - School finance
+KW  - School districts
+N1  - 12 leaves ; 28 cm.; Note(s): Cover title./ "April, 1932."; Responsibility: by R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 9
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1932 no.9
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams,Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - Salaries in the public schools of Iowa, 1931-1932
+Y1  - 1932
+D1  - 01/1932
+SP  - 12
+KW  - Teachers
+KW  - School administrators
+KW  - School finance
+N1  - 12 leaves ; 28 cm.; Note(s): Cover title./ "January, 1932."; Responsibility: by R.C. Williams.;Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 8
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1932 no.8
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - Taxes in consolidated school districts
+Y1  - 1931
+D1  - 11/1931
+SP  - 6
+KW  - School finance
+KW  - School districts
+N1  - 6 leaves ; 28 cm.; Note(s): Cover title./ "November 1931."; Responsibility: by R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 7
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1931 no.7
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, R. C.
+A2  - Iowa State Department of Public Instruction
+T1  - Distribution of state funds to school districts in 1936
+Y1  - 1936
+D1  - 09/1936
+SP  - 6
+KW  - School finance
+N1  - 6 leaves ; 28 cm.; Note(s): "September 15, 1936."; Responsibility: by R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 19
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1936 no.19
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, R. C.
+A2  - Iowa State Department of Public Instruction
+T1  - Distribution of state funds to school districts in 1934
+Y1  - 1934
+D1  - 12/1934
+SP  - 5
+KW  - School finance
+N1  - 5 leaves ; 28 cm.; Responsibility: by R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 17
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1934 no.17
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - Determining per pupil costs for tuition purposes
+Y1  - 1933
+D1  - 05/1933
+SP  - 9
+KW  - School finance
+KW  - School districts
+N1  - Note(s): Cover title./ "May, 1933."; Responsibility: by R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 13
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1933 no.13
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A1  - Williams, Robert Campbell
+A2  - Iowa State Department of Public Instruction
+T1  - Unit levies and costs, 1930-1932
+Y1  - 1933
+D1  - 05/1933
+SP  - 9
+KW  - School finance
+KW  - School districts
+N1  - 9 leaves ; 28 cm.; Note(s): Cover title./ "March, 1933."; Responsibility: by R.C. Williams.; Shelved in Cubberley Library Reading Room
+T2  - Iowa State Department of Public Instruction research bulletin
+V1  - 11
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.74 .I3 1933 no.11
+SC  - Iowa
+ER  -
