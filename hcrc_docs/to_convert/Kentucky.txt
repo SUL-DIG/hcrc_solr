@@ -1,0 +1,361 @@
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Discussion, teachers' retirement system and fourth annual report, June 30, 1944
+Y1  - 1944
+D1  - 12/1944
+KW  - Teachers
+KW  - School finance
+N1  - [375]-442 pages including tables 23 cm.; Note(s): At head of title: Commonwealth of Kentucky.; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education educational bulletin
+V1  - XII
+IS  - 10
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1944
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Fourteenth Annual report of the teachers' retirement system of the Stae of Kentucky, 1953-54
+Y1  - 1954
+D1  - 12/1954
+SP  - 54
+KW  - Teachers
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1954
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Fifteenth Annual report of the teachers' retirement system of the Stae of Kentucky, 1953-54
+Y1  - 1955
+D1  - 10/1955
+SP  - 40
+KW  - Teachers
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1955
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - A study of local school units in Kentucky
+Y1  - 1937
+D1  - 06/1937
+SP  - 126
+KW  - Schools
+N1  - xiii; illustrations (maps) tables, diagrams 24 cm; Note(s): By the Kentucky Department of education. cf. foreword.; Responsibility: By the project staff, Federal project O.P. 5-119. Sponsored by state Department of education, H.W. Peters, superintendent of public instruction, Frankfort, Kentucky, June 30, 1937. ; Shelved in Cubberley Library Reading Room
+PB  - Kentucky State Department of Education
+CY  - Louisville, KY
+LA  - English
+CN  - 379.74 .K3 1937
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A1  - Nash, William Gill
+A2  - Kentucky State Department of Education
+T1  - The training and placement of beginning teachers in the public schools of Kentucky, for the school years 1935-36 through 1939-40 ..
+Y1  - 1940
+D1  - 10/1940
+KW  - Teacher training
+N1  - 2 preliminary leaves, 727-811 pages including tables 23 cm.; Dissertation: Ph. D.; University of Kentucky; 1940; Note(s): Includes bibliographical references (pages 809-811).; Responsibility: by William Gill Nash ...; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of education educational bulletin
+V1  - VIII
+IS  - 8
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1940
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A1  - Richmond, James H.
+A2  - Kentucky State Department of Education
+T1  - The responsibility of government for the support of schools
+Y1  - 1934
+D1  - 11/1934
+SP  - 10
+KW  - Education and state
+KW  - School finance
+N1  - 10 pages ; 23 cm.; Note(s): At head of title: Commonwealth of Kentucky./ "By James H. Richmond."--Page 3./ An address delivered in the fall of 1934, before a number of state and district education associations.; Responsibility: published by Department of Education, James H. Richmond, superintendent of public instruction.; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education educational bulletin
+V1  - 2
+IS  - 9
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1934
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A1  - Combs, Louise
+A1  - Tincher, Wilbur
+A1  - Butler, Wendell P.
+A2  - Kentucky State Department of Education
+T1  - Preparation--Certification of school personnel for Administrative and Special Instructional Services under the Foundation Program Law
+Y1  - 1955
+D1  - 10/1955
+SP  - 8
+KW  - School employees
+KW  - School management and organization
+N1  - 8 leaves ; 28 cm.; Note(s): Cover title./ "October 10, 1955."; Responsibility: prepared by Louise Combs and Wilbur Tincher, Supervisor of Certification, Division of Teacher Education and Certification ; released by Wendell P. Butler, Division of Teacher Education and Certification.; Shelved in Cubberley Library Reading Room
+T2  - Teacher education circular
+V1  - 99
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1955
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - The preparation of public school personnel employed in 224 school districts in Kentucky in 1955-56
+Y1  - 1956
+D1  - 04/1956
+SP  - 18
+KW  - Teacher training
+N1  - 18 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ "April 6, 1956."; Responsibility: prepared by Division of Teacher Education and Certification ; released by Robert R. Martin, Superintendent of Public Instruction; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education teacher education circular
+V1  - 101
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1956
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Looking at teacher supply for Kentucky's children : a whole school generation 1940-1941--1951-1952
+Y1  - 1952
+D1  - 04/1952
+SP  - 26
+KW  - Teachers
+N1  - 25 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ "April 25, 1952."; Responsibility: prepared by Division of Teacher Education and Certification ; released by Wendell P. Butler, Superintendent of Public Instruction.; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education teacher education circular
+V1  - 88
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1952
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Report of proceedings : First Governor's Annual Conference on education
+Y1  - 1956
+D1  - 10/1956
+SP  - 49
+KW  - Education
+N1  - Note(s): "Sheraton-Seelbach Hotel, Louisville, Kentucky, October 3-4, 1956." ; Shelved in Cubberley Library Reading Room
+T2  - Governor's Conference on Education (1st : 1956 : Louisville, Ky.)
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1956
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Report of proceedings : Governor's Second Annual Conference on Education
+Y1  - 1957
+D1  - 09/1957
+SP  - 55
+KW  - Education
+N1  - 55 pages ; 24 cm; Note(s): "Sheraton-Seelbach Hotel, Louisville, Kentucky, September 25-26, 1957."; Shelved in Cubberley Library Reading Room
+T2  - Governor's Conference on Education (2nd : 1957 : Louisville, Ky.)
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1957
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky Council on Public Higher Education
+T1  - Kentucky college and university enrollments 1956 and 1957
+Y1  - 1958
+D1  - 03/1958
+SP  - 44
+KW  - College attendance
+N1  - Statistics.; Geographic: Kentucky.; Note(s): Issued by: Kentucky Council on Public Higher Education, 19-1976; Kentucky Council on Higher Education, 1977-; Responsibility: prepared by Kentucky Council on Public Higher Education.; Shelved in Cubberley Library Reading Room
+PB  - Kentucky Council on Public Higher Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1956/1957
+SC  - Kentucky
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Kentucky Council on Public Higher Education
+T1  - Kentucky college and university enrollments, 1955-56; summary of college personnel reports
+Y1  - 1957
+D1  - 01/1957
+SP  - 22
+KW  - School census
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Kentucky Council on Public Higher Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1955-56
+SC  - Kentucky
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Reporting on teacher shortage during school year, 1955-56
+Y1  - 1956
+D1  - 03/1956
+SP  - 23
+KW  - Teachers
+N1  - 23 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ "March 1, 1956."; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education teacher education circular
+V1  - 102
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1956
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky Council on Public Higher Education
+T1  - Kentucky high school graduates who went to college, 1956; a report on the number and percent of 1956 high school graduates in each Kentucky county who went to college
+Y1  - 1957
+D1  - 07/1957
+SP  - 11
+KW  - Education
+KW  - Statistics
+N1  - 11 leaves illustrations 28 cm; Genre/Form: Statistics.; Shelved in Cubberley Library Reading Room
+PB  - Kentucky Council on Public Higher Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1956
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky Council on Public Higher Education
+T1  - Kentucky High School graduates who went to college 1957 : a report on the number and percent of 1957 High School Graduates in each Kentucky County that went to college
+Y1  - 1958
+D1  - 05/1958
+SP  - 10
+KW  - Education
+KW  - Statistics
+N1  - 10 h.; Responsibility: prepared by Kentucky Council on Public Higher Education.; Shelved in Cubberley Library Reading Room
+PB  - Kentucky Council on Public Higher Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1957
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State General Assembly. Legislative Research Commission
+T1  - State support for municipal colleges
+Y1  - 1958
+D1  - 1958
+SP  - 37
+KW  - Municipal universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Legislative Research Commission research publication
+V1  - 59
+PB  - Kentucky State General Assembly
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1958
+SC  - Kentucky
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Combs, Louise
+A1  - Tincher, Wilbur
+A2  - Kentucky State Department of Education
+T1  - Biennial report 1953-54---1954-55 : Division of Teacher Education and Certification
+Y1  - 1955
+D1  - 11/1955
+SP  - 11
+KW  - Teachers
+N1  - 10 leaves ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ "November 15, 1955."; Responsibility: prepared by Louise Combs and Wilbur Tincher, Supervisor of Certification, Division of Teacher Education and Certification ; released by Wendell P. Butler, Superintendent of Public Instruction.; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education teacher education circular
+V1  - 100
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1955
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - Advancing education in Kentucky : challenges, processes, outcomes, 1956,1957,1958,1959
+Y1  - 1959
+D1  - 11/1959
+KW  - Education
+N1  - 819-976 pages : illustrations; rtraits ; 23 cm.; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education educational bulletin
+V1  - 27
+IS  - 11
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1959
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A1  - Simandle, Sidney
+A2  - Kentucky State Department of Education
+T1  - A cooperative effort to improve the selective admission and retention of teacher candidates in a state
+Y1  - 1964
+D1  - 02/1964
+SP  - 119
+KW  - Teachers
+N1  - ix; ges ; 23 cm.; Dissertation: Ed. d; University of Kentucky; 1964; Note(s): Includes bibliographical references.; Responsibility: by Sidney Simandle.; Shelved in Cubberley Library Reading Room
+T2  - Kentucky State Department of Education educational bulletin
+V1  - 32
+IS  - 2
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1964
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A1  - Stosberg, Don
+A1  - Wagner, D. Patricia
+A1  - Hamilton, Douglas
+A2  - Kentucky Commission on Human Rights
+T1  - Kentucky's Black teacher gap : an analysis of teacher employment, 1954-1974
+D1  - 1975?
+SP  - 20
+KW  - African American teachers
+N1  - 20 pages ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title.; Responsibility: [prepared by Don Stosberg, D. Patricia Wagner, and Douglas Hamilton] ; Shelved in Cubberley Library Reading Room
+PB  - Kentucky Commission on Human Rights
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.74 .K3 1975
+SC  - Kentucky
+ER  -
