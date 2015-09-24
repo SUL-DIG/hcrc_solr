@@ -1,0 +1,1214 @@
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Instructional materials for Virginia public schools
+Y1  - 1942
+D1  - 07/1942
+SP  - 282
+KW  - School libraries
+KW  - Instructional materials
+KW  - Children's literature
+KW  - Bibliography
+KW  - Textbooks
+KW  - Motion pictures in education
+N1  - 282 pages, 3 leaves including illustrations (map) forms 23 cm.; Genre/Form: Bibliography. Catalogs. Lists.; Note(s): A combination of the Audio-visual education catalog no. 1, Films for classroom use, and List of books suggested for first purchase for Viginia elementary schools, 1941, revised and enlarged. cf. Foreword, p. [5]./ "List of supplementary textbooks for elementary grades": pages 9-11.
+T2  - Virginia State Board of Education. Bulletin
+V1  - 25
+IS  - 1
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 371.3095 .V81i 1942
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Manual for junior high schools
+Y1  - 1931
+D1  - 1931
+SP  - 112
+KW  - Junior high schools
+N1  - 112 pages including illustrations, diagrams forms (1 folded) 23 cm; Note(s): At head of title: State of Washington./ "Guidance bibliography": pages 69-71; "List of books for a junior high school library": p. 83-104; "Junior high school bibliography": p. 105-112.; Responsibility: 1931. State Department of education, Olympia.
+PB  - Washington State Department of Education
+CY  - Olympia, WA
+LA  - English
+CN  - 371.46 .W31j 1931
+SC  - Washington
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Department of Education
+T1  - High school manual
+Y1  - 1923
+D1  - 1923?
+SP  - 172
+KW  - High schools
+N1  - Compiled and issued under direction of Josephine Corliss Preston, Superintendent of Public Instruction.
+PB  - Washington State Department of Education
+CY  - Olympia, WA
+LA  - English
+CN  - 371.46 W31h 1923
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Tentative program of studies for broad view of the world: geography, world history, American history, American problems, social problems : secondary schools
+Y1  - 1937
+D1  - 1937
+SP  - 86
+KW  - History
+KW  - Geography
+KW  - Secondary education
+KW  - Curricula
+N1  - 86 pages ; 23 cm; Note(s): At head of title: State of West Virginia.; Responsibility: prepared under the supervision of Forrest W. Stemple ; approved by the State Board of Education, August, 1937.
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 371.33 .W51p 1937
+SC  - West Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Board of Industrial Education
+T1  - Outlines of lessons : Institute of Teachers, Wisconsin Public industrial, commercial, continuation and evening schools, held in Milwaukee, September, 1914
+Y1  - 1914
+D1  - 1914
+SP  - 516
+KW  - Vocational teachers
+KW  - Teacher training
+KW  - Curricula
+KW  - Vocational education
+KW  - Adult education
+N1  - 516 pages ; 23 cm.
+T2  - Bulletin of the Wisconsin State Board of Industrial Education
+V1  - 10
+ED  - 2nd
+PB  - Wisconsin State Board of Industrial Education
+CY  - Madison, WI
+LA  - English
+CN  - 370.72 .W81o 1914
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - A study of small high schools in Wisconsin : report of Committee on small high schools
+Y1  - 1938
+D1  - 1938?
+SP  - 19
+KW  - High schools
+KW  - Curricula
+N1  - 19 pages ; 23 cm.
+T2  - Wisconsin Department of Public Instruction. Curriculum bulletins
+V1  - 2
+IS  - 1
+PB  - Wisconsin Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 373.1 .W81s 1938
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Superintendent of Free Schools
+T1  - State manual and course of primary instruction for the ungraded country and village schools of West Virginia
+Y1  - 1891
+D1  - 1891
+SP  - 27
+KW  - Public schools
+KW  - Rural schools
+PB  - West Virginia State Superintendent of Free Schools
+CY  - Charleston, WV
+LA  - English
+CN  - 375.12 .W51s 1891
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - St. John, C. G.
+A2  - South Dakota Superintendent of Public Instruction
+T1  - Course of study for the elementary schools of South Dakota
+Y1  - 1922
+D1  - 1922
+SP  - 253
+KW  - Elementary schools
+KW  - Curricula
+PB  - J. Fred Olander Company
+CY  - Pierre, SD
+LA  - English
+CN  - 375.13 .S72c 1922
+SC  - South Dakota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - St. John, C. G.
+A2  - South Dakota Superintendent of Public Instruction
+T1  - Course of study for the elementary schools of South Dakota
+Y1  - 1928
+D1  - 1928?
+SP  - 229
+KW  - Elementary schools
+KW  - Curricula
+PB  - J. Fred Olander Company
+CY  - Pierre, SD
+LA  - English
+CN  - 375.13 .S72c 1928
+SC  - South Dakota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Tentative course of study for years one through six
+Y1  - 1936
+D1  - 05/1936
+SP  - 559
+KW  - Elementary education
+KW  - Curricula
+N1  - 559 pages 23 cm.; Note(s): At head of title: ... State department of education./ Includes bibliographical references.; Responsibility: J.C. Matthews, state department director ... L.A. Woods, state superintendent of public instruction 
+T2  - Texas State Department of Education. Bulletin
+V1  - 12
+IS  - 7
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 375.13 T35t 1936
+SC  - Texas
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Utah (State) Department of Public Instruction
+T1  - Utah course of study for the elementary schools: kindergarten - first grade supplement.
+Y1  - 1928
+D1  - 12/1928
+SP  - 71
+KW  - Elementary education
+KW  - Curricula
+N1  - 71 pages ; 21 cm; Responsibility: State Department of Public Instruction.
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.13 U89c 1928a
+SC  - Utah
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Utah (State) Department of Public Instruction
+T1  - Utah course of study for elementary schools
+Y1  - 1928
+D1  - 03/1928
+SP  - 365
+KW  - Elementary education
+KW  - Curricula
+N1  - 365 pages ; 21 cm; Responsibility: State Department of Public Instruction.
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.13 U89c 1928
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Utah (State) Department of Public Instruction
+T1  - Utah course of study for elementary schools
+Y1  - 1923
+D1  - 08/1923
+SP  - 224
+KW  - Elementary education
+KW  - Curricula
+N1  - 224 pages ; 22 cm; Responsibility: State Department of Public Instruction.
+PB  - Utah Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.13 .U89c 1923
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - The state course of study of Vermont. Part one for rural and elementary schools
+Y1  - 1921
+D1  - 1921
+SP  - 324
+KW  - Rural schools
+KW  - Curricula
+KW  - Elementary schools
+N1  - 324 pages illustrations 23 cm; Note(s): On cover: Course of study for the rural and elementary schools of Vermont./ Includes bibliographical references./ "Books for teachers' professional reading": pages 320-324.; Responsibility: Prepared under direction of Clarence H. Dempsey, Commissioner of Education. Authorized by the State Board of Education.
+PB  - Vermont State Department of Education
+CY  - Montpelier. VT
+LA  - English
+CN  - 375.13 .V52c 1921
+SC  _ Vermont
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Course of study for Virginia elementary schools, grades I-VII
+Y1  - 1943
+D1  - 05/1943
+SP  - 553
+KW  - Curricula
+KW  - Elementary education
+KW  - Elementary schools
+N1  - 553 pages tables, diagrams 23 cm.; Note(s): Each section preceded by half-title not included in pagination./ Includes "References" for each subject treated.; Responsibility: Dabney S. Lancaster, superintendent of public instruction, George J. Oliver, director of instruction, Helen Ruth Henderson, supervisor of elementary education.
+T2  - Virginia State Board of Education. Bulletin.
+V1  - 25
+IS  - 6
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.13 .V81c 1943
+SC  - Virginia
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Tentative course of study for Virginia elementary schools
+Y1  - 1933
+D1  - 09/1933
+KW  - Curricula
+KW  - Elementary education
+KW  - Elementary schools
+N1  - 1 volume forms 27 cm; Note(s): At head of title: State board of education./ Three leaves of heavy paper inserted, not included in the paging./ Various pagings./ Lithoprinted./ Includes bibliographical references.; Responsibility: Sidney B. Hall, superintendent of public instruction. D.W. Peters, director of instruction. Ruth Henderson, assistant supervisor of elementary schools. H.L. Caswell, curriculum advisor.
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.13 .V81t 1933
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - State course of study for elementary schools
+Y1  - 1921
+D1  - 01/1921
+SP  - 60
+KW  - Curricula
+KW  - Elementary education
+KW  - Elementary schools
+N1  - 60 pages including forms 23 cm.; Note(s): Includes lists of textbooks.; Responsibility: Reprinted 1921.
+T2  - Virginia State Board of Education. Bulletin
+V1  - 3
+IS  - 2 
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.13 .V81s
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Elementary course of study, state of Washington, 1930
+Y1  - 1930
+D1  - 1930
+SP  - 655
+KW  - Curricula
+KW  - Elementary education
+N1  - 655 pages illustrations (including music, diagrams forms) 23 cm; Note(s): Includes bibliographical references.; Responsibility: Issued by N.D. Showalter, Superintendent of Public Instruction, 1930.
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 375.13 .W31e 1930
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - State course of study for the elementary schools of the state of Washington
+Y1  - 1915
+D1  - 1915
+SP  - 137
+KW  - Elementary education
+KW  - Elementary schools
+KW  - Curricula
+N1  - 137 pages, 1 leaf ; 24 cm; Responsibility: Issued by the Department of Education.
+ED  - 7th
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 375.13 .W31s 1915
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - A manual containing the graded course of study for the elementary schools, including grades 1-6
+Y1  - 1920
+D1  - 1920
+SP  - 105
+KW  - Elementary Education
+KW  - Curricula
+KW  - Elementary schools
+N1  - 105 pages
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .W51c 1920
+SC  - West Virginia
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - The course of study for the elementary schools of West Virginia
+Y1  - 1924
+D1  - 1924
+SP  - 69
+KW  - Elementary education
+KW  - Curricula
+KW  - Elementary schools
+N1  - 69 pages ; 23 cm; Note(s): Cover title./ "Approved by the State Board of Education."; Responsibility: prepared by the Division of Rural Schools, J.D. Muldoon, supervisor.
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .W51c 1924
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Lewis, Virgil Anson
+A2  - West Virginia State Department of Education
+T1  - A manual and graded course of primary instruction for the country and village schools of West Virginia
+Y1  - 1894
+D1  - 1894
+SP  - 93
+KW  - Elementary education
+KW  - Curricula
+KW  - Rural schools
+N1  - 93 pages ; 23 cm; Responsibility: prescribed by the State Superintendent of Free Schools, as required by section 11 of the school law of the state.
+ED  - 2nd ed., rev
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .W51m 1894
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Board of Education
+T1  - A manual containing the graded course of study for the elementary schools of West Virginia
+Y1  - 1914
+D1  - 1914
+SP  - 236
+KW  - Elementary education
+KW  - Curricula
+KW  - Elementary schools
+N1  - 236 pages 23 cm; Responsibility: Prepared by the State board of education and issued by the Department of free schools, M.P. Shawkey, state superintendent, Charleston.
+ED  - Rev. ed.
+PB  - West Virginia State Board of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .W51m 1914
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Board of Education
+T1  - Standards for classified elementary schools.
+SP  - 15
+KW  - Elementary education
+KW  - Elementary schools
+PB  - West Virginia State Board of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .W51s
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education. Division of Elementary Schools
+T1  - Suggested plans for organization and procedure for one-teacher elementary schools including minimum standards of equipment
+Y1  - 1939
+D1  - 08/1939
+SP  - 130
+KW  - Rural schools
+KW  - Elementary education
+KW  - Curricula
+KW  - Elementary schools
+KW  - Project method in teaching
+KW  - School furniture and equipment
+N1  - 130 pages 23 cm; Note(s): At head of title: West Virginia public schools./ Includes bibliographical references.; Responsibility: Prepared under direction of Division of elementary schools, Department of education. Approved by W.W. Trent, state superintendent of free schools.
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .W51 su 1939
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Superintendent of Public Instruction
+T1  - Manual of the elementary course of study for the common schools of Wisconsin
+Y1  - 1902
+D1  - 1902
+SP  - 153
+KW  - Elementary education
+KW  - Curricula
+N1  - 153 pages : illustrations ; 23 cm
+ED  - 11th
+PB  - Wisconsin State Superintendent of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.13 .W81m 1902
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Superintendent of Public Instruction
+T1  - Manual of the elementary course of study for the common schools of Wisconsin
+Y1  - 1913
+D1  - 1913
+SP  - 351
+KW  - Elementary education
+KW  - Curricula
+N1  - 351 pages : illustrations ; 23 cm
+ED  - 15th
+PB  - Wisconsin State Superintendent of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.13 .W81m 1913
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - A course of study for the elementary schools of Wisconsin
+Y1  - 1929
+D1  - 1929
+SP  - 288
+KW  - Elementary education
+KW  - Curricula
+N1  - 288 pages 23 cm; Note(s): Includes bibliographical references./ Also issued online.; Responsibility: Issued by John Callahan, state superintendent.
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.13 .W81c 1929
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - A course of study for the elementary schools of Wisconsin
+Y1  - 1923
+D1  - 1923
+SP  - 227
+KW  - Elementary education
+KW  - Curricula
+N1  - 227 pages including illustrations, tables 23 cm; Responsibility: Issued by John Callahan, state superintendent.
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.13 .W81c 1923
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Manual of the elementary course of study for the common schools of Wisconsin
+Y1  - 1896
+D1  - 1896
+SP  - 115
+KW  - Elementary education
+KW  - Curricula
+N1  - 115 pages : illustrations ; 23 cm; Responsibility: J.Q. Emery, state superintendent.
+ED  - 9th
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+SC  - Wisconsin
+CN  - 375.13 .W81m 1896
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Manual of the elementary course of study for the common schools of Wisconsin
+Y1  - 1894
+D1  - 1894
+SP  - 115
+KW  - Elementary education
+KW  - Curricula
+N1  - 2 preliminary leaves; ges 23 cm; Note(s): [With Manual of the elementary course of study for the common schools ... 5th ed. (rev.) Madison, 1889]./ Also issued online.; Responsibility: Oliver E. Wells, state superintendent.
+ED  - 8th ed. (rev.)
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.13 .W81m 1894
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Utah (State) Department of Public Instruction
+T1  - Utah course of study for the secondary schools: the junior high school
+Y1  - 1923
+D1  - 07/1923
+SP  - 120
+KW  - Secondary education
+KW  - High schools
+KW  - Curricula
+N1  - 22 cm; Responsibility: State department of public instruction. C.N. Jensen, superintendent. Salt Lake City, Utah. July, 1923.
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.14 .U89c 1923
+SC  - Utah
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Board of Education
+T1  - Organization, administration and course of study for junior and senior high schools.
+Y1  - 1926
+D1  - 1926
+SP  - 301
+KW  - Curricula
+KW  - Secondary education
+PB  - West Virginia State Board of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.14 .W51o 1926
+SC  - West Virginia
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - District of Columbia Board of Education
+T1  - Washington high schools: course of study outlined.
+Y1  - 1903
+D1  - 1903-1904
+KW  - Secondary education
+KW  - Curricula
+T2  - District of Columbia Board of Education. Circular
+V1  - 1
+PB  - District of Columbia Board of Education
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .D61c 1903
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - District of Columbia Board of Education
+T1  - Washington public schools: courses of study for the high schools
+Y1  - 1923
+D1  - 01/1923
+KW  - Secondary education
+KW  - Curricula
+SP  - 29
+T2  - District of Columbia Board of Education. School document
+V1  - 2
+ED  - Rev.
+PB  - District of Columbia Board of Education
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .D61c 1923
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - District of Columbia Board of Education
+T1  - Washington public schools: courses of study for the high schools
+Y1  - 1932
+D1  - 1932
+KW  - Secondary education
+KW  - Curricula
+ED  - Rev.
+PB  - District of Columbia Board of Education
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .D61c 1932
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Manual of the elementary course of study for the common schools of Wisconsin
+Y1  - 1916
+D1  - 1916
+SP  - 339
+KW  - Elementary education
+KW  - Curricula
+N1  - 339 pages illustrations (including plans) 23 cm; Responsibility: C.P. Cary, state superintendent.
+ED  - 16th ed. Rewritten
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.13 .W81m 1916
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Benton, Guy Potter
+A2  - University of Vermont
+T1  - College requirements and the secondary curriculum; addresses presented at the Educational conference held at the University of Vermont in connection with the inauguration of Guy Potter Benton as president of the university, October fifth, nineteen hundred eleven
+Y1  - 1911
+D1  - 10/1911
+SP  - 79
+KW  - Universities and colleges
+KW  - Entrance requirements
+KW  - Education and state
+KW  - Secondary education
+KW  - Curricula
+AB  - Introduction [by] J.F. Messenger. -- Present tendencies in college education [by] John Dewey. -- Present tendencies in secondary education [by E.C. Moore. -- Preparation for college [by] J.E. Lough. -- The small high school and thecollege [by] E.M. Roscoe. -- The doomed pupil [by] J.P. Taylor. -- The inspirational effect of college possibilities [by] E.L. Ingalls. -- The new requirements at the University of Chicago [by] J.H. Tufts. -- Discussion [by] J.A. Dale. -- Discussion [by] L.R. Allen. -- Education and the state [by] G.P. Benton.
+N1  - 79 pages 23 cm
+PB  - University of Vermont
+CY  - Burlington, VT
+LA  - English
+CN  - 375.15 .V52c 1911
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - High school manual for South Dakota
+Y1  - 1929
+D1  - 1929
+SP  - 142
+KW  - Secondary education
+KW  - Curricula
+N1  - 142 pages ; 24 cm; Note(s): Includes bibliographical references.; Responsibility: E.C. Giffen, Superintendent of Public Instruction.
+ED  - 3rd
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 375.15 .S72h 1929
+SC  - South Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - Circular of information and outline of state high school course of study
+Y1  - 1915
+D1  - 1915
+SP  - 67
+KW  - High schools
+KW  - Curricula
+N1  - 67 pages ; 22 cm
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.15 .U89c 1915
+SC  - Utah
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Utah (State) Department of Public Instruction
+T1  - Utah course of study for the secondary schools
+Y1  - 1923
+D1  - 07/1923
+SP  - 94
+KW  - Secondary education
+KW  - Curricula
+N1  - 22 cm; Responsibility: State department of public instruction. C.N. Jensen, superintendent. Salt Lake City, Utah. July, 1923.
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.15 .U89c 1923
+SC  - Utah
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Board of Education
+T1  - High schools of Vermont : manual and courses of study
+Y1  - 1928
+D1  - 1928
+SP  - 79
+KW  - Secondary education
+KW  - Curricula
+N1  - 23 cm.; Note(s): Includes bibliographical references.; Responsibility: issued by the State Board of Education.
+T2  - Vermont State Board of Education. Whole bulletin
+V1  - H.S.1
+PB  - Vermont State Board of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 375.15 .V52h 1928
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Board of Education
+T1  - High schools of Vermont: manual and courses of study
+Y1  - 1923
+D1  - 1923
+SP  - 73
+KW  - Secondary education
+KW  - Curricula
+N1  - 23 cm.; Note(s): Includes bibliographical references.; Responsibility: issued by the State Board of Education.
+T2  - Vermont State Board of Education. Whole bulletin
+V1  - 1
+PB  - Vermont State Board of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 375.15 .V52h 1923
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - McFarland, Raymond
+T1  - Secondary education in Vermont
+Y1  - 1912
+D1  - 05/1912
+SP  - 43
+KW  - Secondary education
+KW  - Public schools
+N1  - 43 pages 20 cm.
+T2  - Middlebury College bulletin
+V1  - 6
+IS  - 5
+PB  - Middlebury College
+CY  - Middlebury, VT
+LA  - English
+CN  - 375.15 .V52s 1912
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Manual and courses of study for the high schools of Virginia
+Y1  - 1919
+D1  - 09/1919
+SP  - 183
+KW  - Secondary education
+KW  - Curricula
+N1  - 183 pages.
+T2  - Virginia State Board of Education. Bulletin
+V1  - 2
+IS  - 2
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.15 .V81n 1919
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Materials of instruction suggested for the first year of the core curriculum of Virginia secondary schools
+Y1  - 1938
+D1  - 09/1938
+SP  - 206
+KW  - Secondary education
+KW  - Curricula
+N1  - 3 preliminary leaves, xxi; ges; Note(s): Mimeographed.
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.15 .V81m 1938
+SC  - Virginia
+G1  - High school
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Materials of instruction suggested for the second year of the core curriculum of Virginia secondary schools
+Y1  - 1938
+D1  - 10/1938
+SP  - 201
+KW  - Secondary Education
+KW  - Curricula
+N1  - 3 preliminary leaves, xxi; Note(s): Mimeographed.
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.15 .V81m 1938a
+SC  - Virginia
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Manual of the free high schools of Wisconsin
+Y1  - 1894
+D1  - 1894
+SP  - 108
+KW  - High schools
+KW  - Curricula
+N1  - 108 pages : charts ; 23 cm; Note(s): Includes index.; Other Titles: Free high schools of Wisconsin manual
+ED  - 2nd ed., rev
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.15 .W81f 1894
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - A manual of the high schools of Wisconsin
+Y1  - 1924
+D1  - 1924
+SP  - 194
+KW  - High schools
+KW  - Curricula
+PB  - Wisconsin State Department of Public Instruction
+CY  - Madison, WI
+LA  - English
+CN  - 375.15 .W81ma 1924
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Board of Education
+T1  - Course of study of the public schools of the city of Oakland ..
+Y1  - 1900
+D1  - 1900
+SP  - 124
+KW  - Public schools
+KW  - Curricula
+N1  - 124 pages;  Bound with other school manuals.
+PB  - Oakland Board of Education
+CY  - Oakland, CA
+LA  - English
+CN  - 375.81 .W31t 1900+
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Board of Education
+T1  - Outline of studies for the public schools of the City of Alameda, California
+Y1  - 1900
+D1  - 1900
+SP  - 115
+KW  - Public schools
+KW  - Curricula
+N1  - 115 pages;  Bound with other school manuals.
+PB  - Alameda Board of Education
+CY  - Alameda, CA
+LA  - English
+CN  - 375.81 .W31t 1900+
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Parkinson, Dera D.
+T1  - A school program for South Carolina
+Y1  - 1919
+D1  - 05/1919
+SP  - 23
+KW  - Education
+N1  - 22, [1] pages table 24 cm.; Note(s): Responsibility: by Dera D. Parkinson 
+T2  - Bulletin of the University of South Carolina
+V1  - 80
+PB  - University of South Carolina
+CY  - Columbia, SC
+LA  - English
+CN  - 375.81 .S72s 1919
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - School manual for Riverside County: containing the course of study, rules concerning teachers' certificates, graduation of pupils and general suggestions for schools
+Y1  - 1899
+D1  - 1899
+SP  - 88
+KW  - Curricula
+KW  - School management and organization
+N1  - 88 pages : illustrations ; 22 cm; Note(s): "Issued by the County Board of Education, Paul G. Ward, President." Bound with other school manuals.
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.81 .W31t 1900+
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Board of Education
+T1  - Outline of studies for the primary and grammar schools of the city of Stockton, California. 1900
+Y1  - 1900
+D1  - 1900
+SP  - 219
+KW  - Public schools
+N1  - 221 pages;  Bound with other school manuals.
+PB  - Stockton Board of Education
+CY  - Stockton, CA
+LA  - English
+CN  - 375.81 .W31t 1900+
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Procedures for Virginia state curriculum program
+Y1  - 1932
+D1  - 07/1932
+SP  - 159
+KW  - Curricula
+N1  - 159 pages including tables, forms 23 cm.; Note(s): Includes bibliographical references.; Other Titles: Virginia state curriculum program; Responsibility: Sidney B. Hall, Superintendent of Public Instruction. D.W. Peters, Director of Instruction. H.L. Caswell, Curriculum Adviser
+T2  - Virginia State Board of Education. Bulletin.
+V1  - 15
+IS  - 1
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 375.81 .V81p 1932
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Harvey, Lorenzo Dow
+T1  - Course of study for state graded schools of the first and second class of Wisconsin
+Y1  - 1901
+D1  - 1901
+SP  - 39
+KW  - Elementary education
+KW  - Curricula
+AB  - A course of study based on the work outlined for the several grades as described in the Manual of the course of study for common schools.
+N1  - 39 p. ; 23 cm.; Responsibility: issued by L.D. Harvey.
+PB  - Wisconsin State Superintendent of Education
+CY  - Madison, WI
+LA  - English
+CN  - 375.81 .W81c 1901
+SC  - Wisconsin
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Jackson, B. B.
+T1  - Outline of the course of study for the public schools of the city of Superior, Wisconsin
+Y1  - 1905
+D1  - 1905
+SP  - 92
+KW  - Curricula
+KW  - Public schools
+N1  - 92 pages; Responsibility: B.B. Jackson.
+PB  - Superior (Wisconsin) Board of Education
+CY  - Superior, WI
+LA  - English
+CN  - 375.83 .S95c 1905
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Utah (State) Department of Public Instruction
+T1  - Character education, supplement to the Utah state course of study for elementary and high schools ..
+Y1  - 1925
+D1  - 09/1925
+SP  = 60
+KW  - Character education
+KW  - Moral education
+N1  - 60 pages 23 cm
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 377.2 .U89c 1925
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Vermont State Board of Education
+T1  - Rural schools of Vermont and their improvement
+Y1  - 1922
+D1  - 1922
+SP  - 64
+KW  - Rural schools
+N1  - 64 pages illustrations 23 cm.; Responsibility: issued by the State Board of education ... Pub. by authority of the State board of control.
+T2  - Vermont State Board of Education. Bulletin
+V1  - 2
+PB  - Vermont State Board of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 375.84 .V52r 1922
+SC  - Vermont
+ER  - 
+
+TY  - BOOK
+A1  - Combs, Morgan La Fayette
+A1  - Ellis, Henry Grant
+A2  - Virginia State Board of Education
+T1  - Manual of administration for the high schools of Virginia ..
+Y1  - 1924
+D1  - 07/1924
+SP  - 84
+KW  - High schools
+KW  - Curricula
+N1  - 84 pages including tables 23 cm.; Note(s): Prepared by M.L. Combs and Henry G. Ellis. cf. p. [3]./ Includes bibliographical references (pages 67-80).
+T2  - Virginia State Board of Education. Bulletin
+V1  - 7
+IS  - 1, Suppl. no. 2
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 379.74 .V81m 1924
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Fowlkes, J. G.
+A1  - Jones, L. F.
+T1  - State support for public high schools in Wisconsin
+Y1  - 1931
+D1  - 01/1931
+SP  - 82
+KW  - School finance
+KW  - High schools
+N1  - 82 pages tables (some folded) 23 cm.; Note(s): Includes bibliographical references (pages 79-80).; Responsibility: by John Guy Fowlkes and Lee Francis Jones.
+T2  - University of Wisconsin. Bureau of educational research bulletin
+V1  - 12
+PB  - University of Wisconsin
+CY  - Madison, WI
+LA  - English
+CN  - 379.11 .W85s 1931
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Manual of administration for the high schools of Virginia
+Y1  - 1942
+D1  - 08/1942
+SP  - 296
+KW  - High schools
+KW  - Secondary education
+KW  - Curricula
+N1  - [5]-296 pages including tables, forms 23 cm.; Note(s): At head of title: State Board of Education./ Supersedes Manual of administration for high schools of Virginia, 1937. cf. p. [25]./ "Southern Association standards for high schools": p. [281]-290./ Includes bibliographical references.; Responsibility: Dabney S. Lancaster, superintendent of public instruction, George J. Oliver, director of instruction, Fred M. Alexander, supervisor of secondary education.
+T2  - Virginia State Board of Education. Bulletin
+V1  - 25
+IS  - 2
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 379.74 .V81m 1942
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - State manual of Washington
+Y1  - 1938
+D1  - 01/1928
+SP  - 141
+KW  - Education
+KW  - School management and organization
+N1  - 141 pages folded maps 23 cm; Note(s): On cover: Rev. ed. 1938.; Responsibility: Issued by Stanley F. Atwood, superintendent of public instruction ...
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W31s 1938
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Tentative outline of the content of science suggested for the core curriculum of Virginia secondary schools, grades VIII-XI
+Y1  - 1935
+D1  - 10/1935
+SP  - 72
+KW  - Science
+KW  - Secondary education
+N1  - viii; 28 cm; Note(s): Mimeographed.
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 519 .V81t 1935
+SC  - Virginia
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Tentative course of study for Virginia secondary schools: French and Spanish
+Y1  - 1933
+D1  - 09/1933
+SP  - 119
+KW  - French language
+KW  - Spanish language
+KW  - Curricula
+KW  - Secondary education
+N1  - 28 cm.; Note(s): Mimeographed./ Sidney B. Hall, superintendent of public instruction. D.W. Peters, director of instruction. H.L. Caswell, curriculum adivser.
+T2  - Virginia State Board of Education. Bulletin.
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 440 .V81t 1933
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Manual on organization and administration, secondary schools : approved by the State Board of Education
+Y1  - 1937
+D1  - 08/1937
+SP  - 88
+KW  - Curricula
+KW  - Secondary education 
+N1  - 88 pages ; 23 cm; Note(s): At head of title: State of West Virginia./ "W.W. Trent, State Superintendent of Free Schools; A.J. Gibson, State Supervisor of High Schools."
+ED  - Rev.
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 W51m 1937
+SC  - West Virginia
+G1  - High school
+ER  - 
