@@ -1,0 +1,571 @@
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - The Negro books for young people
+Y1  - 1968
+D1  - 1968
+SP  - 44
+KW  - African Americans
+KW  - Juvenile literature
+KW  - Bibliography
+N1  - 44 pages 28 cm
+PB  - Library Department, Division of Instructional Media, Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 428.4 .O11n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Wallen, Norman E.
+A1  - Wallen, Mary A.
+T1  - Activity book for people in communities
+Y1  - 1972
+D1  - 1972
+SP  - 64
+KW  - Community life
+PB  - Addison-Wesley Publishing Company, Inc.
+CY  - Menlo Park, CA
+LA  - English
+CN  - 371.33 .W35a
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - New Haven Unified School District
+T1  - Discipline handbook, 1989-1990
+Y1  - 1989
+D1  - 1989-1990
+SP  - 40
+KW  - Discipline
+PB  - New Haven Unified School District
+CY  - Union City, CA
+LA  - English
+CN  - 371.22 .N515d 1989
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Unit 6: Your school, your community, your self
+Y1  - 1993
+D1  - 07/1993
+KW  - Community life
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 7/14/93
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 371.33 .S781y 1993 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alameda County (California) Schools
+T1  - Handbook on school health services
+Y1  - 1952
+D1  - 1952
+SP  - 53
+KW  - School health services
+N1  - Compiled 1948-49. Revised 1952.
+PB  - Alameda County Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 371.79 .A318s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Regulations pertaining to the operation of Alberta senior high schools
+Y1  - 1965
+D1  - 1965
+SP  - 59
+KW  - School management and organization
+KW  - High schools
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 375.15 .A318h
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Victoria Composite High School
+T1  - Toward a brighter future: educational opportunities '66
+Y1  - 1966
+D1  - 1966
+SP  - 16
+KW  - High schools
+KW  - Curricula
+PB  - Victoria Composite High School
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 375.15 .A32e
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Unit 7: Evolution: your place in the history of life
+Y1  - 1993
+D1  - 07/1993
+KW  - Evolution
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 7/26/93
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 570 .S781e 1993 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Genetics: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1995
+D1  - 11/1995
+KW  - Genetics
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft 11/28/95. Manuscript with field test art.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 570 .S781g 1995 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Genetics: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 03/1996
+KW  - Genetics
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  March 13, 1996. Manuscript with field test art.
+ED  - Teacher's resource edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 570 .S781g 1996 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Unit 18: Human development: cells to organisms
+Y1  - 1993
+D1  - 07/1993
+KW  - Human development
+N1  - Draft 7/13/93
+ED  - Teachers edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 570 .S781h 1993 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - The lives of cells
+Y1  - 1993
+D1  - 11/1993
+KW  - Cells
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 11/11/93
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 570 .S781L 1993 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Lives of cells
+Y1  - 1996
+D1  - 08/1996
+KW  - Cells
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft 8/21/96. Manuscript with field test art.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 570 .S781L 1996 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Unit 9: The concept of culture
+Y1  - 1993
+D1  - 07/1993
+KW  - Culture
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 7/18/92
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 572 .S781c 1993 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Mission control: the nervous system
+Y1  - 1992
+D1  - 09/1992
+KW  - Nervous system
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 9/12/92
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 611 .S781m 1992
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Nervous system: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Nervous system
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft 11/17/95. Manuscript with field test art.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 611 .S781n 1996 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Nervous system: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 03/1996
+KW  - Nervous system
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  March 13, 1996. Manuscript with field test art.
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 611 .S781n 1996 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Breathing & respiration: gassing up to live
+Y1  - 1992
+D1  - 09/1992
+KW  - Respiration
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 9/28/92
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 611 .S781b 1992
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Breathing: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Respiration
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  March 13, 1995. Manuscript with field test art.
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781b 1996 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Breathing: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Respiration
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft3/31/95. Manuscript with field test art.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781b 1996 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Circulation: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Circulation
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  March 13, 1995. Manuscript with field test art.
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781c 1996 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Circulation: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Circulation
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft 7/24/95. Manuscript with field test art.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781c 1996 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Group activities: unit: circulatory system
+Y1  - 1995
+D1  - 05/1995
+KW  - Circulation
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781ci 1995
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Power pumping: heart, circulation, and heart disease risk and prevention
+Y1  - 1993
+D1  - 1993
+KW  - Circulation
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 9/16/92
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781p 1993
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Group activities: unit: respiratory system
+Y1  - 1995
+D1  - 03/1995
+KW  - Respiration
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781r 1995
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Unit III: Sexuality
+Y1  - 1992
+D1  - 07/1992
+KW  - Sex instruction
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 7/14/92
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612 .S781s 1992
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Sexuality: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Sex instruction
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  March 13, 1996 Manuscript with field test art.
+ED  - Teacher's resource edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612.4 .S781s 1996 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Sexuality: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Sex instruction
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft 2/10/95. Manuscript with field test art.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612.4 .S781s 1996 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Group activities: unit: your changing body, the reproductive system, and sexuality
+Y1  - 1995
+D1  - 03/1995
+KW  - Sex instruction
+N1  - March 2, 1995.
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 612.4 .S781y 1995
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Unit 4: Becoming an adult
+Y1  - 1993
+D1  - 07/1995
+KW  - Adolescence
+KW  - Maturation (Psychology)
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 7/17/93
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 613.3 .S781y 1993 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Reproduction: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 1996
+KW  - Sex instruction
+KW  - Reproduction
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft 7/31/96.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 613.3 .S7814 1996 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Reproduction: an interdisciplinary life science curriculum for the middle grades
+Y1  - 1996
+D1  - 03/1996
+KW  - Sex instruction
+KW  - Reproduction
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  March 13, 1996.
+ED  - Teacher's resource edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 613.3 .S781r 1996 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Unit I: Your changing body
+Y1  - 1992
+D1  - 06/1992
+KW  - Sex instruction
+KW  - Adolescence
+N1  - Stanford Program in Human Biology. Middle Grades Life Sciences Curriculum. This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 6.23.92.
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 613.3 .S781y 1992
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Your changing body
+Y1  - 1995
+D1  - 01/1995
+KW  - Sex instruction
+KW  - Adolescence
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York.  Draft 1/31/95. Manuscript with field test art.
+ED  - Student edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 613.3 .S781y 1995 student
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Program in Human Biology
+T1  - Your changing body
+Y1  - 1996
+D1  - 03/1996
+KW  - Sex instruction
+KW  - Adolescence
+N1  - Developed by the Program in Human Biology at Stanford University with support from the National Science Foundation and Carnegie Corporation of New York. March 13, 1996. Manuscript with field test art.
+ED  - Teacher's  resource edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 613.3 .S781y 1995 teacher
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Stanford University. Human Biology Middle Grades Life Science Project
+T1  - Your family
+Y1  - 1993
+D1  - 07/1993
+KW  - Family life education
+N1  - This is a 1993-1994 field test version. The text, illustrations and activities are in ROUGH form.  Many revisions will be made before final publication. Draft 7/17/93
+ED  - Teacher edition
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 645 .S781y 1993
+SC  - California
+G1  - Middle school
+ER  - 
+
