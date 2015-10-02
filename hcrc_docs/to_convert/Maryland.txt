@@ -1,0 +1,348 @@
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Education for our times : a state action program
+Y1  - 1959
+D1  - 05/1959
+SP  - 37
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1959
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Rhodes, Harry C
+A2  - Maryland State Department of Education
+T1  - Lay participation in school budget development in Maryland
+Y1  - 1960
+D1  - 1960
+SP  - 96
+KW  - School budgets
+N1  - 96 pages ; 23 cm.; Other Titles: Review of the Fiscal Policy for Public Education in Maryland; Responsibility: Harry C. Rhodes.; Shelved in Cubberley Library Reading Room
+T2  - Maryland State Department of Education staff study
+V1  - 13
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1960
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Sartorius, William S.
+A2  - Maryland State Department of Education
+T1  - The fortunes of equalization in Maryland since 1920
+Y1  - 1960
+D1  - 1960
+SP  - 70
+KW  - School finance
+KW  - Educational equalization
+N1  - 14 pages : illustrations ; 23 cm.; Other Titles: Review of the fiscal policy for public education in Maryland; Responsibility: William H. Sartorius.; Shelved in Cubberley Library Reading Room
+T2  - Maryland State Department of Education Staff study
+V1  - 3
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1960
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland Board of Trustees of the Teachers' Retirement System
+T1  - Laws governing the teacher's retirement system of the State of Maryland
+Y1  - 1969
+D1  - 07/1969
+SP  - 42
+KW  - Pensions
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maryland. Board of Trustees of the Teachers' Retirement System
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1969
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Stapleton, Edward G.
+A2  - Maryland State Department of Education
+T1  - Educational progress in Maryland public schools since 1916
+Y1  - 1959
+D1  - 1959
+SP  - 55
+KW  - Public schools
+N1  - 55 pages ; 24 cm.; Note(s): Cover title./ "Review of the fiscal policy for public education in Maryland."; Other Titles: Review of the fiscal policy for public education in Maryland; Responsibility: Edward G. Stapleton.; Shelved in Cubberley Library Reading Room
+T2  - Maryland State Department of Education staff study
+V1  - 1
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - Maryland
+SC  - 379.74 .M11 1959
+ER  - 
+
+TY  - BOOK
+A1  - Willis, Charles W.
+A2  - Maryland State Department of Education
+T1  - A program of financing school construction designed to safeguard the current operating program in Maryland
+Y1  - 1959
+D1  - 1959
+SP  - 43
+KW  - School buildings
+N1  - 43 pages ; 23 cm.; Note(s): Supplements the department's The cooperative study policy committee report.; Responsibility: Charles W. Willis.; Shelved in Cubberley Library Reading Room
+T2  - Maryland State Department of Education state study
+V1  - 8
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1959
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Special education of atypical children in Maryland; report of the committee appointed by the Maryland State Board of Education
+Y1  - 1956
+D1  - 1956
+SP  - 58
+KW  - Special education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1956
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Major speeches delivered at the Conference of Elementary and High School Supervisors ... Oct. 3 and 4, 1957; Conference of Maryland Elementary School Principals ... March 3 and 4, 1958; Conference of Maryland High School Principals ... March 27 and 28, 1958
+Y1  - 1959
+D1  - 1959
+SP  - 65
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1959
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+A2  - University of Maryland
+T1  - A study of the relationship between subjects taken and other selected factors for the Class of 1958, Maryland Public High Schools
+Y1  - 1959
+D1  - 12/1959
+SP  - 82
+KW  - High schools
+KW  - Curricula
+N1  - ii; tables ; 28 cm; Responsibility: A co-operative project of the Maryland State Dept. of Education, the twenty-four local school systems, and the University of Maryland ; Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1959
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Public secondary education in Maryland : report
+Y1  - 1961
+D1  - 1961
+SP  - 145
+KW  - Secondary education
+N1  - vi; ges : illustrations ; 28 cm; Responsibility: of the State Committee to Study the Maryland Public Secondary Schools.; Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1961
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Educating the highly able
+Y1  - 1962
+D1  - 12/1962
+SP  - 43
+KW  - Gifted children
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Maryland school bulletin
+V1  - 39
+IS  - 1
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1962
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Major speeches delivered at the Maryland Conference on Secondary Education : Lord Baltimore Hotel, March 22 and 23, 1962, and Maryland Conference on Elementary Education, Emerson Hotel, Baltimore, April 12 and 13, 1962
+Y1  - 1962
+D1  - 1962
+SP  - 77
+KW  - Elementary education
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Maryland Conference on Secondary Education (1962 : Baltimore, Md.)
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1962
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Zimmerman, David W.
+A2  - Maryland State Department of Education
+T1  - The nonproperty tax potential of Maryland
+Y1  - 1961
+D1  - 1961
+SP  - 30
+KW  - Taxation
+N1  - 30 pages ; 23 cm.; Note(s): Supplements the department's The cooperative study policy Committee report.; Responsibility: David W. Zimmerman.; Shelved in Cubberley Library Reading Room
+T2  - Review of the fiscal policy for public education in Maryland. Staff study
+V1  - 4
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1961
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Financing education for our times in Maryland; State aid to education as of July 1, 1964
+Y1  - 1964
+D1  - 05/1964
+SP  - 37
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1964
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Our dropouts : the Maryland cooperative study of dropouts
+Y1  - 1963
+D1  - 06/1963
+KW  - Dropouts
+KW  - School attendance
+N1  - [48] pages ; 22 x 29 cm; Note(s): Cover title.; Other Titles: Maryland cooperative study of dropouts.; Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1963
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Education in Maryland : a perspective
+Y1  - 1968
+D1  - 1968
+SP  - 24
+KW  - Education
+N1  - 1 volume (various pagings) : color illustrations; Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1968
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - State Board for Community Colleges
+T1  - Statewide master plan for community colleges in Maryland, fiscal years 1975-1985
+Y1  - 1975
+D1  - 05/1975
+SP  - 213
+KW  - Community colleges
+N1  - xii; illustrations ; 28 cm; Note(s): "Presented to His Excellency, the Governor, Comptroller of the Treasury, State Treasurer, the Department of Budget and Fiscal Planning, the Department of State Planning, the General Assembly, the Maryland Council for Higher Education, the Community College Boards of Trustees of the State of Maryland."; Responsibility: Maryland State Board for Community Colleges.; Shelved in Cubberley Library Reading Room
+PB  -  Maryland State Board for Community Colleges
+CY  - Annapolis, MD
+LA  - English
+CN  - 379.74 .M11 1975
+SC  - Maryland
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Board for Community Colleges
+T1  - Third Annual report and recommendations of the Maryland State Board for Community Colleges
+Y1  - 1972
+D1  - 1972
+SP  - 24
+KW  - Community colleges
+KW  - Higher education
+KW  - Education and state
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maryland State Board for Community Colleges
+CY  - Annapolis, MD
+LA  - English
+CN  - 379.74 .M11 1972
+SC  - Maryland
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Maryland Department of State Planning
+T1  - Public school enrollment projections, 1977-1987
+Y1  - 1978
+D1  - 06/1978
+SP  - 206
+KW  - School census
+N1  - xxii; ges : illustrations ; 28 cm.; Note(s): "June, 1978."; Shelved in Cubberley Library Reading Room
+T2  - Maryland Department of State Planning publication
+V1  - 342
+PB  - Maryland Department of State Planning
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1978
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - Watts, Ronald C.
+A2  - Maryland State Department of Education
+T1  - A study of desired student involvement in five selected areas of decision making in high schools in Maryland school systems
+D1  - 1973?
+SP  - 40
+KW  - Student participation in administration
+KW  - High schools
+N1  - 40 pages 23 cm.; Note(s): "This study was carried out by Ronald C. Watts, specialist in urban education."/ Includes bibliographical references (page 32).; Shelved in Cubberley Library Reading Room
+PB  - Maryland State Department of Education
+T2  - Maryland State Department of Education occasional paper in research
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1973
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Maryland Board of Trustees of the Teachers' Retirement System
+T1  - Hand book of information of information explaining the teachers' retirement system of the State of Maryland
+Y1  - 1964
+D1  - 03/1964
+SP  - 10
+KW  - Pensions
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maryland Board of Trustees of the Teachers' Retirement System
+CY  - Baltimore, MD
+LA  - English
+CN  - 379.74 .M11 1964
+SC  - Maryland
+ER  - 
