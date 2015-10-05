@@ -1,0 +1,489 @@
+
+TY  - BOOK
+A1  - Kirk, William
+A2  - Maine State Legislature. Education Finance Commission
+T1  - Summary of the recommendations of the Education Finance Commission
+Y1  - 1979
+D1  - 03/1979
+SP  - 22
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Legislature
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1979
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Maine educational facts
+Y1  - 1969
+D1  - 1969
+KW  - Statistics
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1969
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Maine educational facts
+Y1  - 1968
+D1  - 1968
+KW  - Statistics
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1968
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Preliminary directory of educational adminstrators 1968-69
+D1  - 1969?
+SP  - 47
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1968-69
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - The 1968-1969 educational directory is out of print. The following is a list of superintendents of schools as of July 1, 1969
+D1  - 1969?
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1969
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Maine school statistics July 1, 1966 - June 30, 1967, Elementary and secondary per pupil expenditures, state aid and the foundation program - 1968
+Y1  - 1968
+D1  - 1968
+SP  - 28
+KW  - School finance
+Kw  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1968
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Maine educational digest, a capsule reference to facts about the people, places and cost of education in Maine as of October, 1968
+Y1  - 1968
+D1  - 1968
+KW  - School finance
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1968
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine Advisory Commission for the Higher Education Study
+T1  - Higher education in the State of Maine
+Y1  - 1967
+D1  - 01/1967
+SP  - 23
+KW  - Higher education
+KW  - Educational planning
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine Advisory Commission for the Higher Education Study
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1967
+SC  - Maine
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Planning Committee for the White House Conference on Education
+T1  - Maine folks look at their schools, reports on the state and national White House Conferences on Education, 1955
+Y1  - 1955
+D1  - 1955
+SP  - 48
+KW  - Education congresses
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Planning Committee for the White House Conference on Education
+LA  - English
+CN  - 379.74 .M1 1955
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - State certification of superintendence grade
+Y1  - 1955
+D1  - 1955
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+LA  - English
+CN  - 379.74 .M1 1955
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Improvement of school buildings and grounds
+Y1  - 1904
+D1  - 1904
+SP  - 52
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1904
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Approval of secondary schools
+Y1  - 1915
+D1  - 1915
+SP  - 35
+KW  - High school
+KW  - Secondary education
+N1  - 35 pages, [1] folded leaf : form ; 23 cm; Note(s): Cover title./ From title page: "A manual containing the requirements for approval of secondary schools of the State of Maine for the purposes of state aid and tuition relations, and suggested courses of study." ; Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1915
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Union of towns for the purpose of employing superintendents of schools
+Y1  - 1898
+D1  - 1898
+SP  - 8
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1898
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - Thoughts by the way 1904
+Y1  - 1904
+D1  - 1904
+SP  - 24
+KW  - Education
+N1  - 24 pages 22 cm; Note(s): "A list of pamphlets issued by the Educational Department": p. 23-24.; Responsibility: By the State Superintendent of Public Schools of Maine. ; Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1904
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - An experiment in child study
+SP  - 19
+KW  - Child development
+KW  - Child psychology
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - A study of the condition of the schools of Maine
+Y1  - 1899
+D1  - 1899
+SP  - 39
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+LA  - English
+CN  - 379.74 .M1 1899
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - A study of things the school should do for the child, suggestions on study of U.S. history, and arithmetic, and some gains
+Y1  - 1902
+D1  - 1902
+SP  - 24
+KW  - Education
+N1  - 24 pages 22 cm; Responsibility: By the State Superintendent of Public Schools of Maine. ; Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1902
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - A study of the needs of the schools of Maine
+Y1  - 1899
+D1  - 1899
+SP  - 22
+KW  - Education
+N1  - 22 pages 23 cm; Note(s): Cover title.; Responsibility: By the State Superintendent of Public Schools.; Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1899
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - A plan for the study of local history and kindred subjects in the public schools
+Y1  - 1901
+D1  - 1901
+SP  - 15
+KW  - Curricula
+KW  - History
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1901
+SC  - Maine
+ER  - 
+ 
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Study of the schools of northeastern Maine
+D1  - 1896?
+SP  - 38
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Sketches, designs and plans for school-buildings, school yards and outhouses
+Y1  - 1896
+D1  - 1896
+SP  - 63
+KW  - School buildings
+N1  - ill. ; 23 cm; Genre/Form: Specifications.; Note(s): Cover title/ "State of Maine."; Responsibility: prepared under the direction of the State Superintendent of Common Schools ; Shelved in Cubberley Library Reading Room
+PB  - State Department of Education
+LA  - English
+CN  - 379.74 .M1 1896
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Sketches, designs and plans for school-buildings, school yards and outhouses
+Y1  - 1897
+D1  - 1897
+SP  - 56
+KW  - School buildings
+N1  - ill. ; 23 cm; Genre/Form: Specifications.; Note(s): Cover title/ "State of Maine."; Responsibility: prepared under the direction of the State Superintendent of Common Schools ; Shelved in Cubberley Library Reading Room
+PB  - State Department of Education
+LA  - English
+CN  - 379.74 .M1 1897
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - A study of our public school system with regard to purpose, scope of instruction, organization, present condition and needs
+D1  - 1896?
+SP  - 16
+KW  - Public schools
+N1  - 16 pages ; 23 cm; Genre/Form: Statistics.; Responsibility: State of Maine, Educational department.; Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A2  - Maine Office of state commissioner of education
+T1  - School improvement league of Maine. Library and art exchange
+Y1  - 1898
+D1  - 05/1898
+SP  - 16
+KW  - Art
+KW  - School libraries
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1898
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Sketches, designs and plans for school buildings, school yards and outhouses
+Y1  - 1897
+D1  - 1897
+SP  - 56
+KW  - School buildings
+N1  - 56 p. : ill.; ans ; 23 cm.; Responsibility: prepared under the direction of the State Superintendent of Public Schools, Maine ; Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1897
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Manual for the use of officers and members of county teachers' institutes
+SP  - 45
+KW  - Teacher training
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - Words, reading and literature, and the school as it was, is and should be
+D1  - 1907?
+SP  - 27
+KW  - Curricula
+KW  - English literature
+N1  - 27 pages 22 cm; Responsibility: From the Educational Department, State of Maine ; Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1907
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - For the better education of youth
+D1  - 1903?
+SP  - 14
+KW  - Educational law and legislation
+N1  - 14 pages ; 23 cm; Responsibility: State of Maine, Educational department.; Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1903
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - A course of study for the elementary schools of Maine
+D1  - 1895?
+SP  - 86
+KW  - Curricula
+N1  - 86 pages illustrations, diagrams 23 cm; Note(s): Prefatory note signed: W.W. Stetson, state superintendent of public schools./ Bibliographies interspersed./ Also issued online.; Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1895
+SC  - Maine
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Examination for state certificates
+Y1  - 1904
+D1 -  1904
+SP  - 22
+KW  - Teacher certification
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1 1904
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine Office of State Commissioner of Education
+T1  - The work of School improvement league and suggestions for the future
+SP  - 15
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine Office of State Commissioner of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Standard schools the next thing for Maine
+SP  - 14
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Standard schools of Maine comments and outline
+SP  - 8
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Observations made by the Superintendent
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Maine State Department of Education
+LA  - English
+CN  - 379.74 .M1
+SC  - Maine
+ER  -
