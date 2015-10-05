@@ -1,0 +1,94 @@
+
+TY  - BOOK
+A2  - Montana Legislative Council. Subcommittee on Education
+T1  - Postsecondary vocational-technical education governance : a report to the Forty-sixth Legislature
+Y1  - 1978
+D1  - 11/1978
+SP  - 91
+KW  - Vocational education
+N1  - iii; ges, 54 columns : illustrations ; 28 cm; Note(s): Cover title: Vocational education governance./ On cover: Interim study by the Subcommittee on Education./ Also available online.; Other Titles: Vocational education governance.; Responsibility: Subcommittee on Education.; Shelved in Cubberley Library Reading Room
+PB  - Montana Legislative Council
+CY  - Helena, MT
+LA  - English
+CN  - 379.74 .M71 1978
+SC  - Montana
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Montana Legislative Council. Subcommittee on Education
+T1  - Community college governance : a report to the Forty-sixth Legislative
+Y1  - 1978
+D1  - 1978
+SP  - 35
+KW  - Universities and colleges
+N1  - i, 22; ges ; 29 cm; Note(s): Errata slip inserted./ Includes bibliographical references./ Also available online.; Responsibility: Subcommittee on Education.; Shelved in Cubberley Library Reading Room
+PB  - Montana Legislative Council
+CY  - Helena, MT
+LA  - English
+CN  - 379.74 .M71 1978
+SC  - Montana
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Montana State Office of the Superintendent of Public Instruction
+T1  - 1970 overview: a synopsis of 135 ESEA title I projects in Montana
+Y1  - 1970
+D1  - 08/1970
+SP  - 123
+KW  - Compensatory education
+N1  - 123 pages 29 cm; Other Titles: Synopsis of 135 ESEA title I projects in Montana Vendor Info: Baker and Taylor (BTCP); Shelved in Cubberley Library Reading Room
+PB  - Montana State Office of the Superintendent of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 379.74 .M71 1970
+SC  - Montana
+ER  - 
+
+TY  - BOOK
+A2  - Arthur D. Little, Inc
+A2  - Montana State Office of the Superintendent of Public Instruction
+T1  - Educational needs in Montana : report to Superintendent of Public Instruction, State of Montana
+Y1  - 1968
+D1  - 12/1968
+SP  - 33
+KW  - Educational planning
+N1  - 1 volume (various pagings) ; 29 cm; Note(s): "C-70874."; Responsibility: Arthur D. Little, Inc.; Shelved in Cubberley Library Reading Room
+PB  - Arthur D. Little
+CY  - Helena, MT
+LA  - English
+CN  - 379.74 .M71 1968
+SC  - Montana
+ER  -
+
+TY  - BOOK
+A2  - Montana University System. Office of the Executive Secretary
+T1  - Montana University System--role and scope
+Y1  - 1970
+D1  - 12/1970
+SP  - 79
+KW  - Montana University System
+N1  - i, 90 leaves : illustrations ; 28 cm; Note(s): Cover title./ "November 1971."/ Responsibility: Office of the Executive Secretary.; Shelved in Cubberley Library Reading Room
+PB  - Montana University System
+CY  - Helena, MT
+LA  - English
+CN  - 379.74 .M71 1970
+SC  - Montana
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Montana State Office of the Superintendent of Public Instruction
+T1  - Innovative and exemplary projects in Montana schools
+Y1  - 1969
+D1  - 04/1969
+SP  - 19
+KW  - Federal aid to education
+N1  - 19 pages : illustrations ; 28 cm;  Other Titles: At head of title:; Title III; the Elementary and Secondary Education Act of 1965, Public Law 89-10 as amended; Shelved in Cubberley Library Reading Room
+CY  - Helena, MT
+LA  - English
+CN  - 379.74 .M71 1969
+SC  - Montana
+ER  -
+
