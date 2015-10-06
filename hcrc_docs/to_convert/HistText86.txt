@@ -1,0 +1,1399 @@
+
+TY  - BOOK
+A1  - King, A. Richard
+A2  - Kabul University, Afghanistan
+T1  - Developing a new curriculum for Afghanistan elementary schools.
+Y1  - 1967
+D1  - 06/1967
+KW  - Elementary education
+KW  - Curricula
+PB  - Kabul University
+CY  - Kabul, Afghanistan
+LA  - English
+CN  - 375.13 .K11d
+SC  - Afghanistan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Upsurge
+Y1  - 1974
+D1  - 1974?
+SP  - 41
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Responsibility: New South Wales Department of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53u
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity : a bulletin for teachers in secondary schools
+Y1  - 1962
+D1  - 1962
+SP  - 86
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1962 #17
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity : a bulletin for teachers in secondary schools
+Y1  - 1962
+D1  - 1962
+SP  - 40
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1962 #18
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity : a bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 77
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1963 #19
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity : a bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 70
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1963 #20
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity : a bulletin for teachers in secondary schools
+Y1  - 1964
+D1  - 1964
+SP  - 63
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1964 #21
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity: a bulletin for teachers of general activities classes
+Y1  - 1957
+D1  - 1957
+SP  - 39
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1957 #6
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity: a bulletin for teachers of general activities classes
+Y1  - 1957
+D1  - 1957
+SP  - 46
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1957 #7
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity: a bulletin for teachers of general activities classes
+Y1  - 1958
+D1  - 1958
+SP  - 48
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1958 #10
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity: a bulletin for teachers of general activities classes
+Y1  - 1959
+D1  - 1959
+SP  - 59
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1959 #11
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity: a bulletin for teachers of general activities classes
+Y1  - 1960
+D1  - 1960
+SP  - 64
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1960 #13
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity: a bulletin for teachers of general activities classes
+Y1  - 1960
+D1  - 1960
+SP  - 40
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1960 #14
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Activity: a bulletin for teachers of general activities classes
+Y1  - 1961
+D1  - 1961
+SP  - 77
+KW  - Children with disabilities
+KW  - Remedial teaching
+KW  - Special education
+N1  - Preceding Title: Activity (Sydney, N.S.W.) Succeeding Title: Upsurge; Responsibility: New South Wales. Dept. of Education.
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1960 #16
+G1  - High school
+ER  - 
+
+TY  - BOOK
+T1  - Handbook for teachers of general studies activities course
+Y1  - 1958
+D1  - 1958
+SP  - 6
+KW  - Secondary education
+KW  - Curricula
+KW  - New South Wales
+KW  - Children with disabilities
+KW  - Remedial teaching
+PB  - Government Printer
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.9 .N53a 1958
+SC  - Australia
+G1  - High school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Home economics bulletin for teachers in secondary schools
+Y1  - 1971
+D1  - 1971
+SP  - 48
+KW  - Home economics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 640 .N53h 1971 #14
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A home economics bulletin for teachers in secondary schools
+Y1  - 1965
+D1  - 1965
+SP  - 52
+KW  - Home economics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 640 .N53h 1965 #13
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A home economics bulletin for teachers in secondary schools
+Y1  - 1962
+D1  - 1962
+SP  - 58
+KW  - Home economics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 640 .N53h 1962 #18
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A home economics bulletin for teachers in secondary schools
+Y1  - 1961
+D1  - 1961
+SP  - 38
+KW  - Home economics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 640 .N53h 1961 #7
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A home economics bulletin for teachers in secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 30
+KW  - Home economics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 640 .N53h 1959 #5
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A home economics bulletin for teachers in secondary schools
+Y1  - 1958
+D1  - 1958
+SP  - 48
+KW  - Home economics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 640 .N53h 1958 #4
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: home making
+Y1  - 1956
+D1  - 1956
+SP  - 5
+KW  - Home economics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 640 .N53g 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: art
+Y1  - 1956
+D1  - 1956
+SP  - 4
+KW  - Art education
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 740 .N53g 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: craftwork and hobbies
+Y1  - 1956
+D1  - 1956
+SP  - 7
+KW  - Handicraft
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 745 .N53g 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: English
+Y1  - 1956
+D1  - 1956
+SP  - 7
+KW  - English language
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 428.2 .N53g 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: Mathematics
+Y1  - 1956
+D1  - 1956
+SP  - 5
+KW  - Mathematics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 511.6 .N53ge 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: Music
+Y1  - 1956
+D1  - 1956
+SP  - 4
+KW  - Music
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 780 .N53g 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: Science
+Y1  - 1956
+D1  - 1956
+SP  - 6
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53g 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: The social studies
+Y1  - 1956
+D1  - 1956
+SP  - 6
+KW  - Social sciences
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.33 .N53g 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Needlework bulletin for teachers in secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 35
+KW  - Sewing
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.364 .N53n 1956 #8
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Needlework bulletin for teachers in secondary schools
+Y1  - 1962
+D1  - 1962
+SP  - 64
+KW  - Sewing
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.364 .N53n 1962 #11
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Needlework bulletin for teachers in secondary schools
+Y1  - 1964
+D1  - 1964
+SP  - 64
+KW  - Sewing
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.364 .N53n 1964 #13
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - The Leader : a bulletin for principals and inspectors
+Y1  - 1958
+D1  - 1958
+SP  - 76
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53L 1958 #2
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - The Leader : a bulletin for principals and inspectors
+Y1  - 1958
+D1  - 1958
+SP  - 84
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53L 1958 #3
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - The Leader : a bulletin for principals and inspectors
+Y1  - 1959
+D1  - 1959
+SP  - 82
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53L 1959 #4
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - School management bulletin : for secondary school principals and their deputies
+Y1  - 1959
+D1  - 1959
+SP  - 64
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53s 1959 #2
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - School management bulletin : for secondary school principals and their deputies
+Y1  - 1959
+D1  - 1959
+SP  - 66
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53s 1960 #3
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - School management bulletin : for secondary school principals and their deputies
+Y1  - 1962
+D1  - 1962
+SP  - 78
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53s 1962 #5
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - School management bulletin : for secondary school principals and their deputies
+Y1  - 1963
+D1  - 1963
+SP  - 81
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53s 1963 #6
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - School management bulletin : for secondary school principals and their deputies
+Y1  - 1965
+D1  - 1965
+SP  - 50
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53s 1965 #7
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - School management bulletin : for secondary school principals and their deputies
+Y1  - 1966
+D1  - 1966
+SP  - 81
+KW  - School management and organization
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 379 .N53s 1966 #8
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - An English-history bulletin for teachers in secondary schools
+Y1  - 1957
+D1  - 1957
+SP  - 85
+KW  - English language
+KW  - English literature
+KW  - History
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 428.2 .N53s 1957 #13
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - An English-history bulletin for teachers in secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 86
+KW  - English language
+KW  - English literature
+KW  - History
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 428.2 .N53s 1959 #15
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - An English-history bulletin for teachers in secondary schools
+Y1  - 1962
+D1  - 1962
+SP  - 74
+KW  - English language
+KW  - English literature
+KW  - History
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 428.2 .N53s 1962 #20
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - An English-history bulletin for teachers in secondary schools
+Y1  - 1964
+D1  - 1964
+SP  - 79
+KW  - English language
+KW  - English literature
+KW  - History
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 428.2 .N53s 1964 #21
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - An English-history bulletin for teachers in secondary schools
+Y1  - 1967
+D1  - 1967
+SP  - 56
+KW  - English language
+KW  - English literature
+KW  - History
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 428.2 .N53s 1967 #24
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - General activities course: physical education
+Y1  - 1956
+D1  - 1956
+SP  - 14
+KW  - Physical education and training
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 613.4 .N53ge 1956
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Health and physical education bulletin for teachers in secondary schools
+Y1  - 1968
+D1  - 1968
+SP  - 95
+KW  - Physical education and training
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 613.4 .N53h 1968 #19
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Physical education bulletin for teachers in secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 80
+KW  - Physical education and training
+N1  - Packaged with charts on "Parallel Bar Work," "High Horizontal Bar," "Three Man Balances," map of main stadium, Olympic Games 1956, "Questionnaire Findings Chart," "Athletics - M.C.G. Field layout & communications, Olympic Games 1956, drawing no. A-35"
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 613.4 .N53ph 1959 #8
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Physical education bulletin for teachers in secondary schools
+Y1  - 1959
+D1  - 1959
+SP  - 72
+KW  - Physical education and training
+N1  - Packaged with chart on "Some European National Costumes"
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 613.4 .N53ph 1959 #9
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Physical education bulletin for teachers in secondary schools
+Y1  - 1960
+D1  - 1960
+SP  - 123
+KW  - Physical education and training
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 613.4 .N53ph 1960 #11
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Physical education bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 76
+KW  - Physical education and training
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 613.4 .N53ph 1963 #17
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Western Australia Education Department
+T1  - Provisional curriculum for use in coloured schools
+Y1  - 1952
+D1  - 1952
+SP  - 80
+KW  - Aboriginal Australians
+KW  - Curricula
+N1  - 80 pages : illustrations ; 34 cm; Note(s): Cover title.
+PB  - Western Australia Education Department
+CY  - Perth, Western Australia
+LA  - English
+CN  - 370.994 .W52p 1952
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1962
+D1  - 1962
+SP  - 130
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 7
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 119
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 8
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1964
+D1  - 1964
+SP  - 112
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 9
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1967
+D1  - 1967
+SP  - 79
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 10
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1968
+D1  - 1968
+SP  - 109
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 11
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1968
+D1  - 1968
+SP  - 65
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 12
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1970
+D1  - 1970
+SP  - 60
+KW  - Science
+N1  - Cover title is "Science bulletin for teachers in secondary schools"; inside title is "A science bulletin"
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 13
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1971
+D1  - 1971
+SP  - 69
+KW  - Science
+N1  - Oversized  33.5 cm
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 15
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1974
+D1  - 1974
+SP  - 86
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 19
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1975
+D1  - 1975
+SP  - 63
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 21
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1974
+D1  - 1974
+SP  - 60
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 20
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A science bulletin for teachers in secondary schools
+Y1  - 1975
+D1  - 1975
+SP  - 64
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 22
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Science bulletin
+Y1  - 1976
+D1  - 1976
+SP  - 87
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 23
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Science bulletin
+Y1  - 1977
+D1  - 1977
+SP  - 47
+KW  - Science
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 519 .N53s no. 25
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+A2  - Modern Language Teachers Association of N.S.W
+T1  - Esprit and geist : a bulletin for teachers of modern languages
+Y1  - 1958
+D1  - 1958
+SP  - 73
+KW  - Modern languages
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 400 .N53e 1958 #1
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+A2  - Modern Language Teachers Association of N.S.W
+T1  - Esprit and geist : a bulletin for teachers of modern languages
+Y1  - 1960
+D1  - 1960
+SP  - 60
+KW  - Modern languages
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 400 .N53e 1960 #3
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Industrial arts bulletin for teachers of secondary schools
+Y1  - 1971
+D1  - 1971
+SP  - 63
+KW  - Industrial arts
+N1  - Preceding Title: Manual arts bulletin for teachers in secondary schools
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 680 .N53in 1971 #11
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Manual arts bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 1968
+KW  - Industrial arts
+KW  - Manual training
+N1  - Succeeding Title: Industrial arts bulletin for teachers in secondary schools
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 680 .N53m 1963 #3
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A commercial bulletin for teachers in secondary schools
+Y1  - 1957
+D1  - 1957
+SP  - 51
+KW  - Business education
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 650 .N53c 1957 #4
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A commercial bulletin for teachers in secondary schools
+Y1  - 1958
+D1  - 1958
+SP  - 48
+KW  - Business education
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 650 .N53c 1958 #6
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A commercial bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 44
+KW  - Business education
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 650 .N53c 1963 #10
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A commercial bulletin for teachers in secondary schools
+Y1  - 1971
+D1  - 1971
+SP  - 38
+KW  - Business education
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 650 .N53c 1971 #13
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A mathematics bulletin for teachers in secondary schools
+Y1  - 1960
+D1  - 1960
+SP  - 46
+KW  - Mathematics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 511.6 .N53mb 1960 #11
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A mathematics bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 37
+KW  - Mathematics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 511.6 .N53mb 1963 #14
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A mathematics bulletin for teachers in secondary schools
+Y1  - 1963
+D1  - 1963
+SP  - 42
+KW  - Mathematics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 511.6 .N53mb 1963 #15
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - A mathematics bulletin for teachers in secondary schools
+Y1  - 1965
+D1  - 1965
+SP  - 47
+KW  - Mathematics
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 511.6 .N53mb 1965 #17
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Western Australia Education Department
+T1  - The curriculum of the primary schools: with notes and appendices
+Y1  - 1908
+D1  - 1908
+SP  - 68
+KW  - Elementary education
+KW  - Curricula 
+N1  - 68 pages : illustrations ; 21 cm
+PB  - Western Australia Education Department
+CY  - Perth, Western Australia
+LA  - English
+CN  - 375.11 .W52c 1908
+SC  - Australia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Western Australia Education Department
+T1  - Interim curriculum for high schools: introductory section
+Y1  - 1955
+D1  - 1955
+SP  - 7
+KW  - High schools
+KW  - Curricula
+N1  - Note(s): Part of a folder containing leaflets on each of the school subjects issued.
+PB  - Western Australia Education Department
+CY  - Perth, Western Australia 
+LA  - English
+CN  - 375.15 .w52i 1955
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Western Australia Education Department
+T1  - Interim curriculum for high schools: mathematics section (third year High School Certificate Course)
+Y1  - 1955
+D1  - 1955
+SP  - 12
+KW  - Mathematics
+N1  - 12 pages ; 24 cm.; Note(s): At head of title : Western Australia, Education Department.
+PB  - Western Australia Education Department
+CY  - Perth, Western Australia
+LA  - English
+CN  - 511.6 .W52m 1955
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Western Australia Education Department
+T1  - Interim curriculum for high schools: English (third year High School Certificate Course)
+Y1  - 1955
+D1  - 1955
+SP  - 17
+KW  - English language
+N1  - 17 pages ; 24 cm.; Note(s): At head of title : Western Australia, Education Department.
+PB  - Western Australia Education Department
+CY  - Perth, Western Australia
+LA  - English
+CN  - 428.2 .W521 1955
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - World Federation of United Nations Associations
+A2  - United Nations Association of Australia
+T1  - Teaching about the United Nations : proceedings of the Seminar on Teaching about the United Nations, held at The University of New England, Armidale, New South Wales, Australia, 17-30 January, 1961
+Y1  - 1961
+D1  - 01/1961
+SP  - 152
+KW  - United Nations
+N1  - 152 pages ; 25 cm; Note(s): Title from cover; cover subtitle: proceedings of W.F.U.N.A. seminar.; Responsibility: organised by the World Federation of United Nations Associations in collaboration with UNESCO and the United Nations Association of Australia.
+T2  - Seminar on Teaching About the United Nations (1961 : Armidale, N.S.W.)
+PB  - University of New England
+CY  - Armidale, New South Wales
+LA  - English
+CN  - 326 .W921t
+SC  - Australia
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Alternative curriculum for use in secondary schools
+Y1  - 1954
+D1  - 1954
+SP  - 225
+KW  - Curricula
+KW  - Secondary education
+N1  - 225 pages : illustrations ; 24 cm
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 373.13 .N53a 1954
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New South Wales Department of Education
+T1  - Leaving and intermediate certificate examinations : official handbook for the year 1952
+Y1  - 1951
+D1  - 1951
+SP  - 347
+KW  - Examinations
+PB  - New South Wales Department of Education
+CY  - Sydney, New South Wales
+LA  - English
+CN  - 371.27 .N53L 1951
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Victoria Education Department
+T1  - Revised social studies syllabuses for technical and secondary schools
+Y1  - 1954
+D1  - 1954
+SP  - 15
+KW  - Social sciences
+PB  - Victoria Education Department
+CY  - Melbourne, Australia
+LA  - English
+CN  - 371.33 .V645r 1954
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Australia Education Department
+T1  - Technical high schools English : experimental course for technical high schools : to be taken instead of English literature in second year
+Y1  - 1961
+D1  - 1961?
+SP  - 45
+KW  - English language
+N1  - 45 pages ; 27 cm
+PB  - South Australia Education Department
+CY  - Adelaide, South Australia
+LA  - English
+CN  - 428.2 .S70t
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Australia Education Department
+T1  - Woodwork: syllabus and general instructions
+Y1  - 1924
+D1  - 1924
+SP  - 94
+KW  - Woodwork (Manual training)
+PB  - South Australia Education Department
+CY  - Adelaide, South Australia
+LA  - English
+CN  - 680.4 .S70w
+SC  - Australia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Australia Education Department. Technical Branch
+T1  - Syllabus of general mathematics course
+SP  - 79
+KW  - Mathematics
+N1  - Prepared by a committee of inspectors and teachers of the technical high schools
+PB  - Technical Correspondence School
+CY  - Adelaide, South Australia
+LA  - English
+CN  - 511.6 .S70s
+SC  - Australia
+G1  - High school
+ER  - 
+
