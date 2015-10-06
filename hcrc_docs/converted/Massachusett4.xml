@@ -67,8 +67,8 @@
 <field name="publisher">Massachusetts State House of Representatives</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1965</field>
+<field name="call_number">379.74 .M2 1965</field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -86,8 +86,8 @@
 <field name="publisher">Massachusetts Legislative Research Council</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1968</field>
+<field name="call_number">379.74 .M2 1968</field>
+<field name="state_country">Massachusetts</field>
 <field name="grade_level_group">Postsecondary</field>
 </doc>
 
@@ -138,8 +138,8 @@
 <field name="publisher">Massachusetts State Board of Higher Education</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1970</field>
+<field name="call_number">379.74 .M2 1970</field>
+<field name="state_country">Massachusetts</field>
 <field name="grade_level_group">Postsecondary</field>
 </doc>
 
@@ -155,8 +155,8 @@
 <field name="notes">v, viii; ges illustrations 28 cm; Note(s): "Research for this study was conducted for the Commission by the Institute for Educational Development."/ Report submitted to the General Court of Massachusetts./ Includes bibliographical references.; Shelved in Cubberley Library Reading Room</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1971</field>
+<field name="call_number">379.74 .M2 1971</field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -187,8 +187,8 @@
 <field name="publisher">Massachusetts State Board of Higher Education</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1977</field>
+<field name="call_number">379.74 .M2 1977</field>
+<field name="state_country">Massachusetts</field>
 <field name="grade_level_group">Postsecondary</field>
 </doc>
 
@@ -207,8 +207,8 @@
 <field name="publisher">Massachusetts State Board of Higher Education</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1971</field>
+<field name="call_number">379.74 .M2 1971</field>
+<field name="state_country">Massachusetts</field>
 <field name="grade_level_group">Postsecondary</field>
 </doc>
 
@@ -224,8 +224,8 @@
 <field name="publisher">Massachusetts State Department of Education</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1974</field>
+<field name="call_number">379.74 .M2 1974</field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -242,8 +242,8 @@
 <field name="publisher">Massachusetts Special Commission on Unequal Educational Opportunity</field>
 <field name="pub_place">Boston, MA</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1975</field>
+<field name="call_number">379.74 .M2 1975</field>
+<field name="state_country">Massachusetts</field>
 </doc>
 
 <doc>
@@ -263,7 +263,7 @@
 <field name="keywords">Day care centers</field>
 <field name="notes">1 volume (various pagings) 28 cm; Note(s): "A study for the Massachusetts Advisory Council on Education."; Responsibility: [by] Richard R. Rowe, director and editor, Robert A. Fein [and others] Program in public psychology for the Faculties of Divinity, Education, Medicine, Arts and Sciences, Harvard University.; Shelved in Cubberley Library Reading Room</field>
 <field name="language">English</field>
-<field name="call_number">Massachusetts</field>
-<field name="state_country">379.74 .M2 1972</field>
+<field name="call_number">379.74 .M2 1972</field>
+<field name="state_country">Massachusetts</field>
 </doc>
 </add>
