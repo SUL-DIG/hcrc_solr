@@ -1,0 +1,482 @@
+
+
+
+
+TY  - BOOK
+A2  - Minas Gerais (Brazil). Secretaria do Interior
+T1  - Programma de ensino dos grupos escolares e escolas publicas primarias do estado : decreto n. 3.405, de 15 de janeiro de 1912
+Y1  - 1912
+D1  - 1912
+KW  - Educational law and legislation
+N1  - 140 pages
+PB  - Imprensa Official do Estado de Minas
+CY  - Bello Horizonte, Brazil
+LA  - Portuguese
+CN  - 379.374 .M664p 1912
+SC  - Brazil
+G1  - Elementary
+ER  - 
+
+TY  - Book
+A2  - Departamento de Educacao do Distrito Federal (Brazil)
+T1  - Programa de ciencias sociais: escola elementar: volume primeiro
+Y1  - 1934
+D1  - 1934
+SP  - 136
+KW  - Social sciences
+KW  - Curricula
+N1  - Volume primeiro 1, 2, e 3, anos, Edicao preliminar
+T2  - Programas e guias de ensino, Series C
+V1  - 4
+PB  - Companhia Editora Nacional
+CY  - Sao Paulo, Brazil
+LA  - Portuguese
+CN  - 371.33 .D42p 1934 v. 1
+SC  - Brazil
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - Book
+A2  - Departamento de Educacao do Distrito Federal (Brazil)
+T1  - Programa de ciencias sociais: escola elementar: volume segundo
+Y1  - 1934
+D1  - 1934
+SP  - 239
+KW  - Social sciences
+KW  - Curricula
+N1  - Volume segundo 4 e 5 anos, Edicao preliminar
+T2  - Programas e guias de ensino, Series C
+V1  - 4-a
+PB  - Companhia Editora Nacional
+CY  - Sao Paulo, Brazil
+LA  - Portuguese
+CN  - 371.33 .D42p 1934 v. 2
+SC  - Brazil
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - British Columbia Department of Education
+T1  - Regulations and courses of study for provincial normal schools
+Y1  - 1928
+D1  - 1928-1929
+SP  - 20
+KW  - Teachers training
+KW  - Curriculum planning
+PB  - British Columbia Department of Education
+CY  - Victoria, BC
+LA  - English
+CN  - 370.734 .B8625r 1928
+SC  - Canada
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - British Columbia Department of Education
+T1  - New programme of studies for the high and technical schools of British Columbia
+Y1  - 1930
+D1  - 1930
+SP  - 198
+KW  - Secondary education
+KW  - Technical education
+KW  - Curricula
+PB  - British Columbia Department of Education
+CY  - Victoria, BC
+LA  - English
+CN  - 375.15 .B8625n 1930
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - British Columbia Department of Education
+T1  - Programme of studies for the high, technical and normal schools of British Columbia
+Y1  - 1925
+D1  - 1925-1926
+SP  - 77
+KW  - Secondary education
+KW  - Technical education
+KW  - Teacher training
+KW  - Curricula
+PB  - British Columbia Department of Education
+CY  - Victoria, BC
+LA  - English
+CN  - 375.15 .B8625p 1925
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - British Columbia Department of Education
+T1  - Courses of study for the public high, technical and normal schools of British Columbia
+Y1  - 1920
+D1  - 1920
+SP  - 69
+KW  - Secondary education
+KW  - Technical education
+KW  - Teacher training
+KW  - Curricula
+PB  - British Columbia Department of Education
+CY  - Victoria, BC
+LA  - English
+CN  - 375.15 .B8625c 1920
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Morgan, S. A.
+A2  - Ontario Department of Education
+T1  - The Montessori method; an exposition and criticism
+Y1  - 1913
+D1  - 1913
+SP  - 72
+KW  - Education
+KW  - Montessori, Maria, 1870-1952
+N1  - 72 pages illustrations 25 cm.; Responsibility: by S.A. Morgan ... Printed by order of the Legislative Assembly of Ontario.
+T2  - Ontario Department of Education. Bulletin
+V1  - 1
+PB  - L.K. Cameron
+CY  - Toronto, Ontario
+LA  - English
+CN  - 372.15 .O591m 1913
+SC  - Canada
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ontario College of Education. Department of Educational Research
+T1  - An annotated guide to certain educational research materials available in selected Toronto libraries
+Y1  - 1949
+D1  - 1949
+SP  - 47
+KW  - Library materials
+KW  - Education research
+N1  - ii, 47 leaves 28 cm.; Genre/Form: Bibliography of bibliographies Bibliography.; Note(s): Cover title.
+T2  - Educational research series
+V1 -  19
+PB  - Ontario College of Education Department of Educational Research
+CY  - Toronto, Ontario
+LA  - English
+CN  - 027.8 .T686a 1949
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A1  - Joblin, E. E. M.
+A2  - Ontario College of Education. Department of Educational Research
+T1  - Bibliographies for teachers. No. III, The North American Indians
+Y1  - 1947
+D1  - 1947
+SP  - 29
+KW  - Indians of North America
+KW  - Bibliography
+AB  - A. Indian education in Canada and the United States. -- B. References on Indian life for school use.
+N1  - 29 leaves ; 28 cm.; Genre/Form: Bibliography.; Other Titles: North American Indians; Responsibility: E.E.M. Joblin.
+T2  - Educational research series
+V1  - 15
+PB  - Ontario College of Education Department of Educational Research
+CY  - Toronto, Ontario
+LA  - English
+CN  - 970.1 .T686b
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A2  - Ontario Department of Education
+T1  - Course of study, grade XIII: physics
+Y1  - 1946
+D1  - 3/1946
+SP  - 7
+KW  - Physics
+KW  - Curricula
+N1  - Reprinted without change from Circular H.S. 18A, printed in August, 1944.
+T2  - Ontario Department of Education. Circular H.S.
+V1  - 18A
+PB  - Ontario Department of Education
+CY  - Toronto, Ontario
+LA  - English
+CN  - 530 .T686c
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A2  - Ontario College of Education. Department of Educational Research
+T1  - Elementary graded reading series, with grade, title, publisher, and price for each individual book
+Y1  - 1945
+D1  - 1945
+SP  - 16
+KW  - Bibliography
+KW  - Readers
+N1  - 16 leaves 28 cm.; Genre/Form: Bibliography.
+T2  - Educational research series
+V1  - 12
+PB  - Ontario College of Education. Department of Educational Research
+CY  - Toronto, Ontario
+LA  - English
+CN  - 428.4 .T686e 1945
+SC  - Canada
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - British Columbia Department of Education
+T1  - Programme of studies for the senior high schools of British Columbia: the commercial studies
+Y1  - 1946
+D1  - 1946
+SP  - 178
+KW  - Secondary education
+KW  - Curricula
+PB  - British Columbia Department of Education
+CY  - Victoria, BC
+LA  - English
+CN  - 375.15 .B8625p 1946
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Junior high school curriculum guide, social studies
+Y1  - 1970
+D1  - 1970
+SP  - 64
+KW  - Curricula
+KW  - Social sciences
+N1  - 64 pages ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.
+T2  - [Alberta curriculum guides]
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 371.33 .A32t v.2
+SC  - Canada
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - senior high school curriculum guide, social studies
+Y1  - 1970
+D1  - 1970
+SP  - 35
+KW  - Curricula
+KW  - Social sciences
+N1  - 35 pages ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.
+T2  - [Alberta curriculum guides]
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 371.33 .A32t v.3
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Program of studies for senior high schools of Alberta
+Y1  - 1965
+D1  - 1965
+SP  - 180
+KW  - High schools
+KW  - Curricula
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 375.15 .A333 1965
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Winne, Philip H.
+A1  - Marx, Ronald W.
+A2  - Instructional Psychology Research Group. Simon Fraser University
+T1  - Teachers' and students' views of cognitive processes for learning from teaching
+Y1  - 1980
+D1  - 10/1980
+SP  - 122
+KW  - Cognition in children
+N1  - Responsibility: Philip H. Winne and Ronald W. Marx with the assistance of Joan Belfry, Dawn Howard, Armine Jeknavorian, and Beverly Keizer
+PB  - Simon Fraser University
+CY  - Burnaby, BC
+LA  - English
+CN  - 370.225 .S60 1980
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Program of studies for junior high schools of Alberta
+Y1  - 1963
+D1  - 1963
+SP  - 110
+KW  - Junior high schools
+KW  - Curricula
+N1  - 110 pages ; 25 cm; Note(s): "This Program of Studies contains an outline of the content of each course in the Junior High School together with a list of the authorized texts and approved secondary references."/ Includes bibliographical references.
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 375 .A32p v. 2
+SC  - Canada
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Program of studies for senior high schools of Alberta
+Y1  - 1967
+D1  - 1967
+SP  - 172
+KW  - Curricula
+KW  - Secondary education
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 375 .A32p v. 3
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Junior high school curriculum guide for general science
+Y1  - 1951
+D1  - 1951
+SP  - 129
+KW  - Curricula
+KW  - Science
+N1  - 129 pages ; 24 cm.; Note(s): Includes bibliographical references.
+T2  - [Alberta curriculum guides]
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 519 .A33s v. 2
+SC  - Canada
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Program of studies for the high school: prescribed courses and special regulations for the commercial subjects
+Y1  - 1947
+D1  - 9/1947
+SP  - 19
+KW  - Secondary education
+KW  - Curricula
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 650 .E24p
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - McNally Composite High School (Edmonton, Alberta)
+T1  - Teacher's handbook
+Y1  - 1965
+D1  - 1965?
+KW  - Teaching
+KW  - High schools
+N1  - 106 leaves ; 28 cm; Note(s): Cover title.; Responsibility: McNally Composite High School.
+PB  - McNally Composite High School
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 370.72 .A32t
+SC  - Canada
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Tentative course outline for social studies (grades I-XII) in the Province of Alberta
+Y1  - 1969
+D1  - 01/1969
+SP  - 17
+KW  - Curricula
+KW  - Social sciences
+N1  - 17 pages ; 28 cm.; Note(s): Cover title./ January 1969./ Course outline approved in principle by the Elementary and Secondary School Curriculum Boards, January 1969./ Includes bibliographical references.
+T2  - [Alberta curriculum guides]
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 371.33 .A32t v. 1
+SC  - Canada
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Alberta Department of Education
+T1  - Program of studies for elementary schools of Alberta
+Y1  - 1965
+D1  - 1965
+SP  - 53
+KW  - Elementary education
+KW  - Curricula
+N1  - 53 pages ; 25 cm; Note(s): Includes bibliographical references.
+PB  - Alberta Department of Education
+CY  - Edmonton, Alberta
+LA  - English
+CN  - 375 .A32p v. 1
+SC  - Canada
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Québec (Province) Department of Public Instruction
+T1  - Handbook for teachers in the Protestant schools of the province of Quebec
+Y1  - 1947
+D1  - 1947
+SP  - 263
+KW  - Curricula
+KW  - Public schools
+N1  - 263 pages ; 25 cm; Responsibility: Department of Education.
+PB  - Québec (Province) Department of Public Instruction
+CY  - Quebec
+LA  - English
+CN  - 370.72 .Q3h 1947
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A2  - Québec (Province) Department of Public Instruction
+T1  - 1949 supplement to The handbook for teachers
+Y1  - 1949
+D1  - 1949
+SP  - 31
+KW  - Curricula
+KW  - Public schools
+PB  - Québec (Province) Department of Public Instruction
+CY  - Quebec
+LA  - English
+CN  - 370.72 .Q3h 1949
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A2  - Saskatchewan Department of Education
+T1  - Course of study for public schools
+Y1  - 1920
+D1  - 1920
+SP  - 46
+KW  - Public schools
+KW  - Curricula
+PB  - Saskatchewan Department of Education
+CY  - Regina, Saskatchewan
+LA  - English
+CN  - 375.9 .S252c 1920
+SC  - Canada
+ER  - 
