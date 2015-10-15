@@ -1,0 +1,229 @@
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Financing Mississippi public schools
+Y1  - 1969
+D1  - 01/1969
+SP  - 19
+KW  - Public schools
+KW  - School management and organization
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1969
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Financing Mississippi public schools
+Y1  - 1964
+D1  - 07/1964
+SP  - 19
+KW  - Public schools
+KW  - School management and organization
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1964
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A1  - Seaman, Don F.
+A1  - Kohler, Emmett T.
+A2  - Mississippi State Department of Education
+T1  - Adult basic education in Mississippi; an evaluation
+Y1  - 1969
+D1  - 06/1969
+KW  - Adult education
+N1  - volumes 28 cm; Note(s): Includes bibliographical references (v. 1, leaf 106).; Responsibility: [by] Don F. Seaman [and] Emmett T. Kohler.; Shelved in Cubberley Library Reading Room
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1969
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Financing Mississippi public schools
+Y1  - 1971
+D1  - 05/1971
+SP  - 29
+KW  - School finance
+N1  - 29 pages 28 cm; Responsibility: Prepared by Ruby M. Thompson.; Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1971
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Statistical data - 1965-66
+D1  - 1966?
+SP  - 80
+KW  - Statistics
+N1  - v. ill. 29 cm; Genre/Form: Periodicals. Statistics.; Geographic: Mississippi.; Note(s): "Bulletin SD."; Shelved in Cubberley Library Reading Room
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1965-66
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Statistical data - 1967-68
+D1  - 1968?
+SP  - 76
+KW  - Statistics
+N1  - v. ill. 29 cm; Genre/Form: Periodicals. Statistics.; Geographic: Mississippi.; Note(s): "Bulletin SD."; Shelved in Cubberley Library Reading Room
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1967-68
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Current expenditures per pupil by school districts and related information 1964-65
+D1  - 1965?
+KW  - School finance
+N1  - v; Genre/Form: Statistics.; Geographic: Mississippi.; Note(s): Issued by Division of Administration and Finance, Mississippi State Dept. of Education.; General Info: Also issued -1969/70 as Mississippi Dept. of Education. Division of Administration and Finance. Bulletin CE. Issued with: Mississippi. Dept. of Education. Division of Administration and Finance./ Bulletin CE; Shelved in Cubberley Library Reading Room
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1964-65
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - University of Mississippi. Bureau of Educational Research
+T1  - Information on Mississippi schools for use in preparing for the 1955 White House Conference on Education
+Y1  - 1955
+D1  - 07/1955
+SP  - 48
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of Mississippi
+CY  - Oxford, MS
+LA  - English
+CN  - 379.74 .M5 1955
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A1  - Broom, Knox McLeod
+A2  - Mississippi State Department of Education
+T1  - Public junior college bulletin
+D1  - 1921?
+SP  - 43
+KW  - Junior colleges
+N1  - 43 pages including portrait, tables 22 cm.; Note(s): At head of title: State of Mississippi. Department of education./ "Selected bibliography": page 43.; Responsibility: by Knox M. Broom, state supervisor agricultural high schools and junior colleges. Issued by W.F. Bond, state superintendent of education.; Shelved in Cubberley Library Reading Room
+T2  - Mississippi State Department of Education bulletin
+V1  - 58
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1921
+SC  - Mississippi
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Handbook for school administrators
+Y1  - 1953
+D1  - 06/1953
+SP  - 127
+KW  - School management and organization
+N1  - 127 pages 23 cm.; Note(s): A revision of Bulletin 114, published in 1946 under title: A manual of administration for the schools of Mississippi./ With : A suggested program of oral communication for Mississippi schools / Mississippi. Division of Instruction. -- A report to the people of Mississippi on the White House Conference on Education / Mississippi. State Department of Education. Jackson, 1953-1955. Bound together subsequent to publication.; Shelved in Cubberley Library Reading Room
+T2  - Mississippi State Department of Education Mississippi school bulletin
+V1  - 138
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1953
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Legislature. Legislative Committee on State Printing Plants
+T1  - Report of Legislative Committee on State Printing Plants : as provided by Senate Resolution no. 56
+Y1  - 1928
+D1  - 10/1928
+SP  - 152
+KW  - Textbooks
+KW  - Printing
+N1  - 152 pages ; 23 cm; Note(s): Cover title./ "October 1928."/ Includes bibliographical references (pages 143-145) and index.; Other Titles: State printing plants; Shelved in Cubberley Library Reading Room
+PB  - Mississippi State Legislature
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1928
+SC  - Mississippi
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Procedures for production of curriculum materials
+Y1  - 1935
+D1  - 10/1935
+SP  - 228
+KW  - High schools
+KW  - Curricula
+N1  - 228 pages.; Note(s): Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - Mississippi State Department of Education bulletin
+V1  - 2
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1935
+SC  - Mississippi
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Board of Education
+T1  - Regulations and suggestions concerning county agricultural high schools in Mississippi, July, 1919
+Y1  - 1919
+D1  - 07/1919
+SP  - 54
+KW  - High schools
+KW  - Agricultural education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Mississippi State Board of Education bulletin
+V1  - 12
+PB  - Mississippi State Board of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1919
+SC  - Mississippi
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Mississippi State Department of Public Education
+T1  - Pt. I. Consolidation of schools and transportation of pupils. Pt. II. County agricultural high schools with course of study ..
+Y1  - 1917
+D1  - 1917
+SP  - 54
+KW  - Rural schools
+N1  - 56 pages, . 1 leaf, illustrations 24 cm; Note(s): At head of title: State department of public education, Jackson, Miss. Bulletin no. 10, 1917.; Responsibility: Prepared by J.T. Calhoun ...; Shelved in Cubberley Library Reading Room
+T2  - Mississippi State Department of Public Education bulletin
+V1  - 10
+PB  - Mississippi State Department of Public Education
+CY  - Jackson, MS
+LA  - English
+CN  - 379.74 .M5 1917
+SC  - Mississippi
+ER  -
