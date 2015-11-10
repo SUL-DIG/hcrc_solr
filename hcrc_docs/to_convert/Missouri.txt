@@ -1,0 +1,314 @@
+
+TY  - BOOK
+A1  - Baker, Sam
+T1  - Educational outlook in Missouri
+Y1  - 1920
+D1  - 1920
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .M6 1920
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Handbook of instructions for Missouri uniform school accounting system
+Y1  - 1934
+D1  - 1934
+SP  - 46
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Missouri State Department of Education
+LA  - English
+CN  - 379.74 .M6 1934
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A1  - Carpenter, W. W.
+A2  - Missouri State Department of Education
+T1  - Schoolhouse planning and construction
+Y1  - 1946
+D1  - 1946
+SP  - 244
+KW  - School buildings
+N1  - 244 pages illustrations 23 cm.; Responsibility: by W.W. Carpenter; assisted by E.J. Reynolds, and graduate students, University of Missouri.; Shelved in Cubberley Library Reading Room
+T2  - Missouri State Department of Education publication
+V1  - 5
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1946
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Schoolhouse planning and construction
+Y1  - 1933
+D1  - 1933
+SP  - 116
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Missouri State Department of Education bulletin
+V1  - 2
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1933
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Organization and administration of high schools, 1924
+Y1  - 1924
+D1  - 1924
+SP  - 117
+KW  - High schools
+N1  - 117 pages 23 cm; Note(s): At head of title: State of Missouri. Department of education.; Responsibility: Chas. A. Lee, state superintendent of public schools.; Shelved in Cubberley Library Reading Room
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1924
+SC  - Missouri
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Missouri Governor's State Commission on Education
+T1  - Report of the Governor's State Commission on Education to the Fifty-ninth General Assembly
+Y1  - 1937
+D1  - 1937
+SP  - 78
+KW  - Educational surveys
+N1  - 78 pages ; 23 cm; Note(s); Shelved in Cubberley Library Reading Room
+PB  - Missouri Governor's State Commission on Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1937
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Plans for school buildings & equipment in Missouri
+Y1  - 1920
+D1  - 1920
+SP  - 54
+KW  - School buildings
+N1  - 54 pages : illustrations; ans ; 23 cm; Other Titles: Plans for school buildings and equipment in Missouri; Shelved in Cubberley Library Reading Room
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1920
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri Citizens Commission for the Study of Education
+A2  - Missouri State  Department of Education
+T1  - Missouri plans for better schools; a digest of the Report
+Y1  - 1952
+D1  - 09/1952
+SP  - 72
+KW  - Public schools
+N1  - 72 pages illustrations, color maps 28 cm; Note(s): "Published as a supplement to the One hundred third annual report, Missouri public schools."; Shelved in Cubberley Library Reading Room
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1952
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri Commission on Higher Education
+T1  - First coordinated plan for Missouri higher education
+Y1  - 1966
+D1  - 09/1966
+SP  - 46
+KW  - Educational planning
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Missouri Commission on Higher Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1966
+SC  - Missouri
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Financing Missouri public schools; a look into the future
+Y1  - 1960
+D1  - 05/1960
+SP  - 14
+KW  - School finance
+N1  - 14 pages, illustrations; Note(s): Includes bibliographical references (page 14).; Shelved in Cubberley Library Reading Room
+PB  - Missouri State Department of Education
+LA  - English
+CN  - 379.74 .M6 1960
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A1  - Swanson, J. Chester
+A1  - Kigin, Denis J.
+A1  - Fielding, Marvin R.
+A2  - University of California, Berkeley. School of Education
+T1  - A gateway to higher economic levels vocational-technical education to serve Missouri
+Y1  - 1966
+D1  - 1966
+SP  - 66
+KW  - Technical education
+KW  - Vocational education
+N1  - viii; ges : charts, maps ; 24 cm; Responsibility: J. Chester Swanson, Denis J. Kigin, Marvin R. Fielding.; Shelved in Cubberley Library Reading Room
+PB  - University of California
+CY  - Berkeley, CA
+LA  - English
+CN  - 379.74 .M6 1966
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri Commission on Higher Education
+T1  - 1967-68 appropriations recommendations for Missouri higher education and 1965-66 institutional reports of income and expenditures
+Y1  - 1966
+D1  - 11/1966
+SP  - 37
+KW  - Higher education
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Missouri Commission on Higher Education
+LA  - English
+CN  - 379.74 .M6 1966
+SC  - Missouri
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Statistical data and information related to financing public elementary and secondary education in Missouri
+Y1  - 1964
+D1  - 03/1964
+SP  - 29
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Missouri State Department of Education
+LA  - English
+CN  - 379.74 .M6 1964
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - CTB/McGraw-Hill. Department of Programs and Services
+A2  - Missouri State Department of Education
+T1  - Missouri elementary education: an assessment of fourth and sixth grade basic skills, 1971
+Y1  - 1971
+D1  - 09/1971
+KW  - Elementary education
+N1  - 1 volume (various pagings) illustrations 28 cm; Genre/Form: Statistics.; Note(s): On spine: An assessment of fourth and sixth grade basic skills.; Other Titles: Assessment of fourth and sixth grade basic skills; Responsibility: Prepared for Missouri State Dept. of Education. ; Shelved in Cubberley Library Reading Room
+PB  - Missouri Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1971
+SC  - Missouri
+G1  - Elementary
+G2  - 4th
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - CTB/McGraw-Hill. Department of Programs and Services
+A2  - Missouri State Department of Education
+T1  - Missouri elementary education: an assessment of fourth and sixth grade basic skills, summary
+Y1  - 1971
+D1  - 09/1971
+SP  - 26
+KW  - Elementary education
+N1  - illustrations 28 cm; Genre/Form: Statistics.;  Other Titles: Assessment of fourth and sixth grade basic skills; Responsibility: Prepared for Missouri State Dept. of Education. ; Shelved in Cubberley Library Reading Room
+PB  - Missouri State Department of Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1971
+SC  - Missouri
+G1  - Elementary
+G2  - 4th
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - Missouri Commission on Higher Education
+T1  - Missouri enrollment projections, 1970-1985
+Y1  - 1970
+D1  - 06/1970
+SP  - 200
+KW  - School enrollment
+N1  - iii leaves; ges illustrations, maps 28 cm; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - Missouri Commission on Higher Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1970
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri Governor's Task Force on the Role of Private Higher Education in Missouri
+T1  - The Tucker report
+Y1  - 1970
+D1  - 12/1970
+SP  - 38
+KW  - Higher education and state
+KW  - Government aid to education
+N1  - 38 pages 22 cm; Note(s): "In recognition of the great work for the citizen and the students of the State by our late Chairman, the Honorable Raymond R. Tucker ... the Task Force ... voted to name this, our report, the Tucker report."; Shelved in Cubberley Library Reading Room
+PB  - Missouri Governor's Task Force on the Role of Private Higher Education in Missouri
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1970
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - University of Minnesota
+A2  - Missouri School District Reorganization Commission
+T1  - School district organization for Missouri; a plan to provide equal access to educational opportunity for all children
+Y1  - 1968
+D1  - 11/1968
+SP  - 127
+KW  - School districts
+N1  - 127 pages maps (2 folded); Responsibility: The report of the Missouri School District Reorganization Commission; professional consultants, Bureau of Field Studies and Surveys, University of Minnesota.; Shelved in Cubberley Library Reading Room
+PB  - Missouri School District Reorganization Commission
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1968
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Missouri State Department of Higher Education
+T1  - Enrollment patterns in Missouri higher education, fall, 1974
+Y1  - 1975
+D1  - 05/1975
+SP  - 129
+KW  - College attendance
+N1  - i; 22 x 28 cm; Note(s): Tables.; Responsibility: Missouri Department of Higher Education.; Shelved in Cubberley Library Reading Room
+PB  - Missouri State Department of Higher Education
+CY  - Jefferson City, MO
+LA  - English
+CN  - 379.74 .M6 1975
+SC  - Missouri
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Missouri Governor's Conference on Education
+T1  - Challenges for improving education in Missouri
+Y1  - 1966
+D1  - 1966
+SP  - 32
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Missouri Governor's Conference on Education
+LA  - English
+CN  - 379.74 .M6 1966
+SC  - Missouri
+ER  -
