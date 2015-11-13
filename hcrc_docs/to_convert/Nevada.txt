@@ -1,0 +1,172 @@
+
+TY  - BOOK
+A1  - Gale, Frederick C.
+T1  - Nevada education : the crucial years of 1861-1886
+Y1  - 1975
+D1  - 1975
+SP  - 28
+KW  - Education
+N1  - 28 pages ; 28 cm; Genre/Form: History.; Note(s): Cover title./ "Commissioned by the John C. Fremont Chapter DAR for the 50th Nevada State Conference NSDAR."; Responsibility: by Frederick C. Gale.; Shelved in Cubberley Library Reading Room
+PB  - Division of State, County & Municipal Archives, Secretary of State
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1975
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - Nevada elementary and secondary school civil rights survey
+Y1  - 1975
+D1  - 1975
+SP  - 3
+KW  - Evaluation
+KW  - Civil rights
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+LA  - English
+CN  - 379.74 .N11 1975
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - University of Nevada System
+T1  - Comprehensive plan : 1975, route, 1979
+D1  - 1975?
+KW  - Higher education
+N1  - iv, [152] pages : illustrations ; 28 cm; Note(s): Cover title./ Includes bibliographical references (page 151).; Responsibility: University of Nevada System.; Shelved in Cubberley Library Reading Room
+PB  - University of Nevada System
+LA  - English
+CN  - 379.74 .N11 1975
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - Procedures for dismissals and refusal to reemploy : including NRS 391 as amended
+Y1  - 1974
+D1  - 1974
+SP  - 28
+KW  - School personnel management
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1974
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - Nevada teacher certification requirements : effective date September 1, 1974
+Y1  - 1974
+D1  - 09/1974
+SP  - 20
+KW  - Teacher certification
+N1  - 20 pages ; 22 cm; Responsibility: Dept. of Education, State of Nevada.; Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1974
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - 1973-74 Nevada needs assessment : pretest data summaries : third, fifth, seventh grades
+Y1  - 1974
+D1  - 03/1974
+SP  - 87
+KW  - Students
+N1  - 87 pages ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1973-74
+SC  - Nevada
+G2  - 3rd
+G2  - 5th
+G2  - 7th
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - 1972-73 Nevada needs assessment; cognitive pretest-posttest comparisons, affective presurvey-postsurvey comparisons, third grade and fourth grade
+Y1  - 1973
+D1  - 1973
+SP  - 69
+KW  - Students
+N1  - b-c leaves; 28 cm; Genre/Form: Statistics.; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1972-73
+SC  - Nevada
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - A plan for organization and administration
+Y1  - 1966
+D1  - 12/1966
+SP  - 58
+KW  - Educational planning
+N1  - 58 p. ; 27 cm.; Note(s): Cover title./ "December 1966."; Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1966
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - Interim report of selected data
+Y1  - 1969
+D1  - 1969
+SP  - 70
+KW  - School finance
+N1  - Frequency: Annual; Genre/Form: Periodicals. Statistics.; Geographic: Nevada.; Responsibility: by the Superintendent of Public Instruction.; Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1969
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A1  - Haglund, E. A.
+A2  - Nevada State Department of Education
+T1  - Indian integration in Nevada public schools
+Y1  - 1966
+D1  - 1966
+SP  - 25
+KW  - Indians of North America
+KW  - School integration
+KW  - Segregation in education
+KW  - Public schools
+N1  - 25 leaves 28 cm; Note(s): Cover title.; Responsibility: [by E.A. Haglund].; Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.74 .N11 1966
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+A2  - Tucker-Davis Educational consultants
+T1  - A report to the State Board of Education with recommendations for the State Department of Education
+Y1  - 1967
+D1  - 08/1967
+SP  - 47
+KW  - Education
+N1  - Note(s): on cover "A report : legislative enactment, type and number of consultants, implementing organization chart, facility planning" :Shelved in Cubberley Library Reading Room
+PB  - Nevada State Department of Education
+LA  - English
+CN  - 379.74 .N11 1967
+SC  - Nevada
+ER  -
