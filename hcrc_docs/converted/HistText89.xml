@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version="1.0" encoding="UTF-8"?>
 
-
+<add>
 <doc>
 <field name="type">Book</field>
 <field name="author">Hamon Du Fougeray, E.</field>
@@ -961,6 +961,4 @@
 <field name="state_country">Czech Republic</field>
 <field name="grade_level_group">Elementary</field>
 </doc>
-
-
 </add>
