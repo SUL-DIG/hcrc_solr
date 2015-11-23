@@ -1,101 +1,966 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 
 
-<doc><field name="type">Book</field><field name="author">Hamon Du Fougeray, E.</field><field name="author_nat">E. Hamon Du Fougeray</field><field name="title">Manuel pratique des méthodes d'enseignement spéciales aux enfants anormaux</field><field name="year">1896</field><field name="date">1896</field><field name="pages">288</field><field name="keywords">Special education</field><field name="notes">xx; illustrations.; Note(s): Publications du Progrès médical.</field><field name="series_title">Bibliothèque d'éducation spéciale</field><field name="series_vol">5</field><field name="publisher">Alcan</field><field name="pub_place">Paris. France</field><field name="language">French</field><field name="call_number">371.8 .F765</field><field name="state_country">France</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Hamon Du Fougeray, E.</field>
+<field name="author_nat">E. Hamon Du Fougeray</field>
+<field name="title">Manuel pratique des méthodes d'enseignement spéciales aux enfants anormaux</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="pages">288</field>
+<field name="keywords">Special education</field>
+<field name="notes">xx; illustrations.; Note(s): Publications du Progrès médical.</field>
+<field name="series_title">Bibliothèque d'éducation spéciale</field>
+<field name="series_vol">5</field>
+<field name="publisher">Alcan</field>
+<field name="pub_place">Paris. France</field>
+<field name="language">French</field>
+<field name="call_number">371.8 .F765</field>
+<field name="state_country">France</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Berger G., C.</field><field name="author_nat">C. Berger G.</field><field name="title">Cuaderno de trabajo para la clase de química para sexto grado de primaria</field><field name="year">1954</field><field name="date">1954</field><field name="pages">84</field><field name="keywords">Elementary education</field><field name="keywords">Chemistry</field><field name="notes">1 v. (84 p.) : fig. ; In-8°; Responsibility: C. Berger G.</field><field name="series_title">Colección Libro escolar</field><field name="series_vol">14</field><field name="publisher">Editorial del Ministerio de educación pública</field><field name="pub_place">Guatemala</field><field name="language">Spanish</field><field name="call_number">540 .G91c 1954</field><field name="state_country">Guatemala</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Berger G., C.</field>
+<field name="author_nat">C. Berger G.</field>
+<field name="title">Cuaderno de trabajo para la clase de química para sexto grado de primaria</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">84</field>
+<field name="keywords">Elementary education</field>
+<field name="keywords">Chemistry</field>
+<field name="notes">1 v. (84 p.) : fig. ; In-8°; Responsibility: C. Berger G.</field>
+<field name="series_title">Colección Libro escolar</field>
+<field name="series_vol">14</field>
+<field name="publisher">Editorial del Ministerio de educación pública</field>
+<field name="pub_place">Guatemala</field>
+<field name="language">Spanish</field>
+<field name="call_number">540 .G91c 1954</field>
+<field name="state_country">Guatemala</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Fernández Cruz, Soledad</field><field name="author_nat">Soledad Fernández Cruz</field><field name="title">Morazanide. Espiritu de America</field><field name="year">1942</field><field name="date">1942</field><field name="keywords">History</field><field name="notes">40 pages illustrations</field><field name="publisher">La independencia</field><field name="pub_place">San Pedro Sula, Honduras</field><field name="language">Spanish</field><field name="call_number">980 .F30e</field><field name="state_country">Honduras</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Fernández Cruz, Soledad</field>
+<field name="author_nat">Soledad Fernández Cruz</field>
+<field name="title">Morazanide. Espiritu de America</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="keywords">History</field>
+<field name="notes">40 pages illustrations</field>
+<field name="publisher">La independencia</field>
+<field name="pub_place">San Pedro Sula, Honduras</field>
+<field name="language">Spanish</field>
+<field name="call_number">980 .F30e</field>
+<field name="state_country">Honduras</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Ministry of Commerce and Industry, Government of India</field><field name="title">Second ad hoc training course in industrial economic investigation</field><field name="year">1958</field><field name="date">1958</field><field name="pages">237</field><field name="keywords">Economics</field><field name="keywords">Industries</field><field name="publisher">Government of India Press</field><field name="pub_place">New Delhi, India</field><field name="language">English</field><field name="call_number">371.49 .I35s</field><field name="state_country">India</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ministry of Commerce and Industry, Government of India</field>
+<field name="title">Second ad hoc training course in industrial economic investigation</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">237</field>
+<field name="keywords">Economics</field>
+<field name="keywords">Industries</field>
+<field name="publisher">Government of India Press</field>
+<field name="pub_place">New Delhi, India</field>
+<field name="language">English</field>
+<field name="call_number">371.49 .I35s</field>
+<field name="state_country">India</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Japanese National Commission for UNESCO</field><field name="title">Guidebook for the teaching of science in elementary schools in Japan</field><field name="year">1972</field><field name="date">1972</field><field name="pages">104</field><field name="keywords">Science</field><field name="notes">104 pages 26 cm; Note(s): Cover title./ Translation of Shogakko shidosho rikahen.</field><field name="publisher">Japanese National Commission for Unesco</field><field name="pub_place">Tokyo, Japan</field><field name="language">English</field><field name="call_number">519 .J35g</field><field name="state_country">Japan</field><field name="grade_level_group">Elementary</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Japanese National Commission for UNESCO</field>
+<field name="title">Guidebook for the teaching of science in elementary schools in Japan</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">104</field>
+<field name="keywords">Science</field>
+<field name="notes">104 pages 26 cm; Note(s): Cover title./ Translation of Shogakko shidosho rikahen.</field>
+<field name="publisher">Japanese National Commission for Unesco</field>
+<field name="pub_place">Tokyo, Japan</field>
+<field name="language">English</field>
+<field name="call_number">519 .J35g</field>
+<field name="state_country">Japan</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Curriculum Development and Research Centre (Kenya). Primary Science Section</field><field name="title">Science: schemes of work for standards 1, 2 &amp; 3</field><field name="year">1968</field><field name="date">1968</field><field name="pages">58</field><field name="keywords">Science</field><field name="keywords">Curricula</field><field name="notes">58p.; Responsibility: prepared by the Primary Science Section, CDRC Ministry of Education, Kenya.</field><field name="publisher">Jomo Kenyatta Foundation</field><field name="pub_place">Nairobi, Kenya</field><field name="language">English</field><field name="call_number">519 .K371s v. 1</field><field name="state_country">Kenya</field><field name="grade_level_group">Elementary</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Curriculum Development and Research Centre (Kenya). Primary Science Section</field>
+<field name="title">Science: schemes of work for standards 1, 2 &amp; 3</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">58</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="notes">58p.; Responsibility: prepared by the Primary Science Section, CDRC Ministry of Education, Kenya.</field>
+<field name="publisher">Jomo Kenyatta Foundation</field>
+<field name="pub_place">Nairobi, Kenya</field>
+<field name="language">English</field>
+<field name="call_number">519 .K371s v. 1</field>
+<field name="state_country">Kenya</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Curriculum Development and Research Centre (Kenya). Primary Science Section</field><field name="title">Science: schemes of work for standards 4 &amp; 5</field><field name="year">1968</field><field name="date">1968</field><field name="pages">66</field><field name="keywords">Science</field><field name="keywords">Curricula</field><field name="abstract">Science: schemes of work for standards 4 &amp; 5 / Curriculum Development and Research Centre (Kenya). Primary Science Section.; Jomo Kenyatta Foundation. 1968 English Book 66p. Nairobi : Jomo Kenyatta Foundation,</field><field name="notes">66p.; Responsibility: prepared by the Primary Science Section, CDRC Ministry of Education, Kenya.</field><field name="publisher">Jomo Kenyatta Foundation</field><field name="pub_place">Nairobi, Kenya</field><field name="language">English</field><field name="call_number">519 .K371s v. 2</field><field name="state_country">Kenya</field><field name="grade_level_group">Elementary</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Curriculum Development and Research Centre (Kenya). Primary Science Section</field>
+<field name="title">Science: schemes of work for standards 4 &amp; 5</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">66</field>
+<field name="keywords">Science</field>
+<field name="keywords">Curricula</field>
+<field name="abstract">Science: schemes of work for standards 4 &amp; 5 / Curriculum Development and Research Centre (Kenya). Primary Science Section.; Jomo Kenyatta Foundation. 1968 English Book 66p. Nairobi : Jomo Kenyatta Foundation,</field>
+<field name="notes">66p.; Responsibility: prepared by the Primary Science Section, CDRC Ministry of Education, Kenya.</field>
+<field name="publisher">Jomo Kenyatta Foundation</field>
+<field name="pub_place">Nairobi, Kenya</field>
+<field name="language">English</field>
+<field name="call_number">519 .K371s v. 2</field>
+<field name="state_country">Kenya</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Japan Ministry of Education</field><field name="title">Revised curriculum in Japan for elementary and lower secondary schools</field><field name="year">1960</field><field name="date">1960</field><field name="pages">66</field><field name="keywords">Curricula</field><field name="keywords">Elementary education</field><field name="notes">iii; 26 cm; Note(s): "MEJ 6297."/ Also issued online.; Responsibility: Research Section, Research Bureau, Ministry of Education, Government of Japan.</field><field name="publisher">Ministry of Education</field><field name="pub_place">Tokyo, Japan</field><field name="language">English</field><field name="call_number">375.13 .J35r</field><field name="state_country">Japan</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Japan Ministry of Education</field>
+<field name="title">Revised curriculum in Japan for elementary and lower secondary schools</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">66</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">iii; 26 cm; Note(s): "MEJ 6297."/ Also issued online.; Responsibility: Research Section, Research Bureau, Ministry of Education, Government of Japan.</field>
+<field name="publisher">Ministry of Education</field>
+<field name="pub_place">Tokyo, Japan</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .J35r</field>
+<field name="state_country">Japan</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Korean Educational Development Institute</field><field name="title">An application of a new instructional model</field><field name="year">1974</field><field name="date">07/1974</field><field name="pages">19</field><field name="keywords">Elementary education</field><field name="notes">Summary report of the second small-scale tryout of the KEDI instruction system</field><field name="publisher">Korean Educational Development Institute</field><field name="series_title">Korean Educational Development Institute. Research report</field><field name="series_vol">8</field><field name="pub_place">Seoul, Korea</field><field name="language">Korean</field><field name="language">English</field><field name="call_number">375.13 .K83a 1974</field><field name="state_country">Korea, South</field><field name="grade_level_group">Elementary</field><field name="grade_level_group">Middle school</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Korean Educational Development Institute</field>
+<field name="title">An application of a new instructional model</field>
+<field name="year">1974</field>
+<field name="date">07/1974</field>
+<field name="pages">19</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">Summary report of the second small-scale tryout of the KEDI instruction system</field>
+<field name="publisher">Korean Educational Development Institute</field>
+<field name="series_title">Korean Educational Development Institute. Research report</field>
+<field name="series_vol">8</field>
+<field name="pub_place">Seoul, Korea</field>
+<field name="language">Korean</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .K83a 1974</field>
+<field name="state_country">Korea, South</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Carey, Robert D.</field><field name="author_nat">Robert D. Carey</field><field name="title">Low cost business education furniture</field><field name="year">1960</field><field name="date">1960?</field><field name="pages">25</field><field name="keywords">School furniture and equipment</field><field name="notes">"Special school furniture that can be made locally or in the school shop built to business education standards."</field><field name="publisher">College of West Africa</field><field name="pub_place">Monrovia, Liberia</field><field name="language">English</field><field name="call_number">650 .W51L</field><field name="state_country">Liberia</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Carey, Robert D.</field>
+<field name="author_nat">Robert D. Carey</field>
+<field name="title">Low cost business education furniture</field>
+<field name="year">1960</field>
+<field name="date">1960?</field>
+<field name="pages">25</field>
+<field name="keywords">School furniture and equipment</field>
+<field name="notes">"Special school furniture that can be made locally or in the school shop built to business education standards."</field>
+<field name="publisher">College of West Africa</field>
+<field name="pub_place">Monrovia, Liberia</field>
+<field name="language">English</field>
+<field name="call_number">650 .W51L</field>
+<field name="state_country">Liberia</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Chavez Orozco, Luis</field><field name="author_nat">Luis Chavez Orozco</field><field name="title">Historia de Mexico: epoca Precortesiana</field><field name="year">1934</field><field name="date">1934</field><field name="pages">254</field><field name="keywords">History</field><field name="keywords">Mexico</field><field name="notes">"Cursos de historia en las escuelas de segunda ensenanza," Segun las Programas Oficiales Vigentes"; Estate of Dr. P.A. Martin.</field><field name="series_vol">1</field><field name="publisher">Editorial Patria</field><field name="pub_place">Mexico</field><field name="language">Spanish</field><field name="call_number">972 .C51h 1934</field><field name="state_country">Mexico</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Chavez Orozco, Luis</field>
+<field name="author_nat">Luis Chavez Orozco</field>
+<field name="title">Historia de Mexico: epoca Precortesiana</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="pages">254</field>
+<field name="keywords">History</field>
+<field name="keywords">Mexico</field>
+<field name="notes">"Cursos de historia en las escuelas de segunda ensenanza," Segun las Programas Oficiales Vigentes"; Estate of Dr. P.A. Martin.</field>
+<field name="series_vol">1</field>
+<field name="publisher">Editorial Patria</field>
+<field name="pub_place">Mexico</field>
+<field name="language">Spanish</field>
+<field name="call_number">972 .C51h 1934</field>
+<field name="state_country">Mexico</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Bunt, Lucas N. H.</field><field name="author_nat">Lucas N. H. Bunt</field><field name="title">The teaching of mathematics to students between 16 and 21 years of age in the Netherlands; a report to the International Commission on Mathematical Instruction</field><field name="year">1955</field><field name="date">1955</field><field name="pages">98</field><field name="keywords">Mathematics</field><field name="notes">xi; folded diagram 26 cm.; Note(s): "Publication of the Institute of Education, State University of Utrecht."/ Issued also as International Commission on Mathematical Instruction. Dutch National Subcommittee. [Report] 2.</field><field name="series_title">Acta paedagogica Ultrajectina</field><field name="series_vol">9</field><field name="publisher">J.B. Wolters</field><field name="pub_place">Groningen, Netherlands</field><field name="language">English</field><field name="call_number">511.6 .B93t</field><field name="state_country">Netherlands</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Bunt, Lucas N. H.</field>
+<field name="author_nat">Lucas N. H. Bunt</field>
+<field name="title">The teaching of mathematics to students between 16 and 21 years of age in the Netherlands; a report to the International Commission on Mathematical Instruction</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">98</field>
+<field name="keywords">Mathematics</field><field name="notes">xi; folded diagram 26 cm.; Note(s): "Publication of the Institute of Education, State University of Utrecht."/ Issued also as International Commission on Mathematical Instruction. Dutch National Subcommittee. [Report] 2.</field>
+<field name="series_title">Acta paedagogica Ultrajectina</field>
+<field name="series_vol">9</field>
+<field name="publisher">J.B. Wolters</field>
+<field name="pub_place">Groningen, Netherlands</field>
+<field name="language">English</field>
+<field name="call_number">511.6 .B93t</field>
+<field name="state_country">Netherlands</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Cotterell, Frank</field><field name="author_nat">Frank Cotterell</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">A sheep station</field><field name="year">1960</field><field name="date">1960</field><field name="pages">24</field><field name="keywords">Wool industry</field><field name="keywords">History</field><field name="keywords">Sheep industry</field><field name="keywords">Sheep ranches</field><field name="keywords">New Zealand</field><field name="notes">24, [8] pages : illustrations, maps ; 18 x 23 cm.; Genre/Form: History. Juvenile works.; Responsibility: by Frank Cotterell.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">13</field><field name="issue">9</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">630 .C84s 1960</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Cotterell, Frank</field>
+<field name="author_nat">Frank Cotterell</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">A sheep station</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">24</field>
+<field name="keywords">Wool industry</field>
+<field name="keywords">History</field>
+<field name="keywords">Sheep industry</field>
+<field name="keywords">Sheep ranches</field>
+<field name="keywords">New Zealand</field>
+<field name="notes">24, [8] pages : illustrations, maps ; 18 x 23 cm.; Genre/Form: History. Juvenile works.; Responsibility: by Frank Cotterell.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">13</field>
+<field name="issue">9</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">630 .C84s 1960</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Sengupta, Padmini Sathianadhan</field><field name="author_nat">Padmini Sathianadhan Sengupta</field><field name="author">Sengupta, Kamalini</field><field name="author_nat">Kamalini Sengupta</field><field name="author">Campbell, P. F.</field><field name="author_nat">P. F. Campbell</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Life in Madras state</field><field name="year">1960</field><field name="date">1960</field><field name="pages">31</field><field name="keywords">Tamil</field><field name="keywords">India</field><field name="keywords">Social life and customs</field><field name="keywords">Chennai</field><field name="notes">31 pages : illustrations ; 21 cm.; References: Bagnall,; N1381; Genre/Form: Juvenile works.; Responsibility: by Padmini Sengupta ; decorations by Kamalini Sengupta ; cover by Peter Campbell.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">13</field><field name="issue">8</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">954 .S465L 1960</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Sengupta, Padmini Sathianadhan</field>
+<field name="author_nat">Padmini Sathianadhan Sengupta</field>
+<field name="author">Sengupta, Kamalini</field>
+<field name="author_nat">Kamalini Sengupta</field>
+<field name="author">Campbell, P. F.</field>
+<field name="author_nat">P. F. Campbell</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Life in Madras state</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">31</field>
+<field name="keywords">Tamil</field>
+<field name="keywords">India</field>
+<field name="keywords">Social life and customs</field>
+<field name="keywords">Chennai</field>
+<field name="notes">31 pages : illustrations ; 21 cm.; References: Bagnall,; N1381; Genre/Form: Juvenile works.; Responsibility: by Padmini Sengupta ; decorations by Kamalini Sengupta ; cover by Peter Campbell.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">13</field>
+<field name="issue">8</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">954 .S465L 1960</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Stevens, Joan</field><field name="author_nat">Joan Stevens</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Some nineteenth century novels and their first publication</field><field name="year">1961</field><field name="date">1961</field><field name="pages">36</field><field name="keywords">English literature</field><field name="notes">35 pages : illustrations ; 22 cm.; Genre/Form: Criticism, interpretation, etc.; Responsibility: by Joan Stevens ; and illustrated by engravings from the books mentioned.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">14</field><field name="issue">2</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">428.5 .S82s 1961</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Stevens, Joan</field>
+<field name="author_nat">Joan Stevens</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Some nineteenth century novels and their first publication</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">36</field>
+<field name="keywords">English literature</field>
+<field name="notes">35 pages : illustrations ; 22 cm.; Genre/Form: Criticism, interpretation, etc.; Responsibility: by Joan Stevens ; and illustrated by engravings from the books mentioned.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">14</field>
+<field name="issue">2</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">428.5 .S82s 1961</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Wood, F. L. W.</field><field name="author_nat">F. L. W. Wood</field><field name="author">McDonald, Jill</field><field name="author_nat">Jill McDonald</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">"Her Majesty commands" : the story of the opening of Parliament</field><field name="year">1958</field><field name="date">1958</field><field name="pages">36</field><field name="keywords">Great Britain</field><field name="keywords">History</field><field name="keywords">Parliament</field><field name="keywords">New Zealand</field><field name="notes">35 pages : illustrations ; 22 cm.; Genre/Form: History.; Other Titles: Story of the opening of Parliament; Responsibility: by F.L.W. Wood ; illustrated by Jill McDonald.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">12</field><field name="issue">2</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">942 .W90h 1958</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Wood, F. L. W.</field>
+<field name="author_nat">F. L. W. Wood</field>
+<field name="author">McDonald, Jill</field>
+<field name="author_nat">Jill McDonald</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">"Her Majesty commands" : the story of the opening of Parliament</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">36</field>
+<field name="keywords">Great Britain</field>
+<field name="keywords">History</field>
+<field name="keywords">Parliament</field>
+<field name="keywords">New Zealand</field>
+<field name="notes">35 pages : illustrations ; 22 cm.; Genre/Form: History.; Other Titles: Story of the opening of Parliament; Responsibility: by F.L.W. Wood ; illustrated by Jill McDonald.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">12</field>
+<field name="issue">2</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">942 .W90h 1958</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Cotterell, Frank</field><field name="author_nat">Frank Cotterell</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Town milk supply</field><field name="year">1956</field><field name="date">1956</field><field name="pages">32</field><field name="keywords">Dairying</field><field name="keywords">Milk</field><field name="keywords">New Zealand</field><field name="notes">31 pages : illustrations ; 22 cm.; Note(s): Caption title.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">10</field><field name="issue">5</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">637 .C84t 1956</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Cotterell, Frank</field>
+<field name="author_nat">Frank Cotterell</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Town milk supply</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">32</field>
+<field name="keywords">Dairying</field>
+<field name="keywords">Milk</field>
+<field name="keywords">New Zealand</field>
+<field name="notes">31 pages : illustrations ; 22 cm.; Note(s): Caption title.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">10</field>
+<field name="issue">5</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">637 .C84t 1956</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Eiby, G. A.</field><field name="author_nat">G. A. Eiby</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">This earth of ours, part one.</field><field name="year">1958</field><field name="date">1958</field><field name="pages">36</field><field name="keywords">Earth</field><field name="notes">illustrations, maps; rtraits ; 22 cm.; Note(s): At head of title: The International Geophysical Year.; Responsibility: by G.A. Eiby.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">11</field><field name="issue">9</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">520 .E30t 1958</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Eiby, G. A.</field>
+<field name="author_nat">G. A. Eiby</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">This earth of ours, part one.</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">36</field>
+<field name="keywords">Earth</field>
+<field name="notes">illustrations, maps; rtraits ; 22 cm.; Note(s): At head of title: The International Geophysical Year.; Responsibility: by G.A. Eiby.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">11</field>
+<field name="issue">9</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">520 .E30t 1958</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Marsh, Ngaio</field><field name="author_nat">Ngaio Marsh</field><field name="author">Williams, Sam</field><field name="author_nat">Sam Williams</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Play production</field><field name="year">1960</field><field name="date">1960</field><field name="pages">36</field><field name="keywords">Theater</field><field name="notes">35, [1] pages : illustrations ; 22 cm.; References: Bagnall; N1381; Genre/Form: Juvenile works.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by Ngaio Marsh, drawings by Sam Williams.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">13</field><field name="issue">4</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">428.73 .M37p 1960</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Marsh, Ngaio</field>
+<field name="author_nat">Ngaio Marsh</field>
+<field name="author">Williams, Sam</field>
+<field name="author_nat">Sam Williams</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Play production</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="pages">36</field>
+<field name="keywords">Theater</field>
+<field name="notes">35, [1] pages : illustrations ; 22 cm.; References: Bagnall; N1381; Genre/Form: Juvenile works.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by Ngaio Marsh, drawings by Sam Williams.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">13</field>
+<field name="issue">4</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">428.73 .M37p 1960</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Packard, Andrew</field><field name="author_nat">Andrew Packard</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">The meaning of animal form. Part one : looking at animals</field><field name="year">1958</field><field name="date">1958</field><field name="pages">36</field><field name="keywords">Animal ecology</field><field name="keywords">Animal behavior</field><field name="notes">36 pages : illustrations ; 22 cm.; Note(s): Responsibility: by Andrew Packard.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">11</field><field name="issue">8</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">599 .P11m pt. 1 1958</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Packard, Andrew</field>
+<field name="author_nat">Andrew Packard</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">The meaning of animal form. Part one : looking at animals</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">36</field>
+<field name="keywords">Animal ecology</field>
+<field name="keywords">Animal behavior</field>
+<field name="notes">36 pages : illustrations ; 22 cm.; Note(s): Responsibility: by Andrew Packard.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">11</field>
+<field name="issue">8</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">599 .P11m pt. 1 1958</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Packard, Andrew</field><field name="author_nat">Andrew Packard</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">The meaning of animal form. Part two : change and continuity</field><field name="year">1959</field><field name="date">1959</field><field name="pages">32</field><field name="keywords">Animal ecology</field><field name="keywords">Animal behavior</field><field name="notes">32 pages : illustrations ; 22 cm.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by Andrew Packard.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">12</field><field name="issue">3</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">599 .P11m pt. 2 1959</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Packard, Andrew</field>
+<field name="author_nat">Andrew Packard</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">The meaning of animal form. Part two : change and continuity</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">32</field>
+<field name="keywords">Animal ecology</field>
+<field name="keywords">Animal behavior</field>
+<field name="notes">32 pages : illustrations ; 22 cm.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by Andrew Packard.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">12</field>
+<field name="issue">3</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">599 .P11m pt. 2 1959</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Robinson, K. W.</field><field name="author_nat">K. W. Robinson</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">The south-east coastlands</field><field name="year">1961</field><field name="date">1961</field><field name="pages">36</field><field name="keywords">Agriculture</field><field name="keywords">Australia</field><field name="notes">35 pages : illustrations ; 22 cm.; Genre/Form: Juvenile works.; Note(s): Includes bibliographical references.; Responsibility: by K.W. Robinson.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">14</field><field name="issue">1</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">630 .R64s 1961</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Robinson, K. W.</field>
+<field name="author_nat">K. W. Robinson</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">The south-east coastlands</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">36</field>
+<field name="keywords">Agriculture</field>
+<field name="keywords">Australia</field>
+<field name="notes">35 pages : illustrations ; 22 cm.; Genre/Form: Juvenile works.; Note(s): Includes bibliographical references.; Responsibility: by K.W. Robinson.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">14</field>
+<field name="issue">1</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">630 .R64s 1961</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Musgrove, S.</field><field name="author_nat">S. Musgrove</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Action and word in Shakespeare</field><field name="year">1956</field><field name="date">1956</field><field name="pages">32</field><field name="keywords">Acting in literature</field><field name="keywords">Performing arts</field><field name="keywords">Shakespeare, William, 1564-1616</field><field name="notes">31, [2] pages ; 22 cm.; References: Bagnall,Note(s): Caption title./ Includes bibliographical references (page 33).; Responsibility: by S. Musgrove.</field><field name="series_title">Post-primary bulletin</field><field name="series_vol">10</field><field name="issue">4</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">428.2 .M98a 1956</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Musgrove, S.</field>
+<field name="author_nat">S. Musgrove</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Action and word in Shakespeare</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">32</field>
+<field name="keywords">Acting in literature</field>
+<field name="keywords">Performing arts</field>
+<field name="keywords">Shakespeare, William, 1564-1616</field>
+<field name="notes">31, [2] pages ; 22 cm.; References: Bagnall,Note(s): Caption title./ Includes bibliographical references (page 33).; Responsibility: by S. Musgrove.</field>
+<field name="series_title">Post-primary bulletin</field>
+<field name="series_vol">10</field>
+<field name="issue">4</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">428.2 .M98a 1956</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Reid, J. C.</field><field name="author_nat">J. C. Reid</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Listening to radio</field><field name="year">1957</field><field name="date">1957</field><field name="pages">32</field><field name="keywords">Radio broadcasting</field><field name="notes">31, [1] : illustrations ; 22 cm.; References: Bagnall; Note(s): Caption title.; Responsibility: by J.C. Reid.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">11</field><field name="issue">4</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington] New Zealand</field><field name="language">English</field><field name="call_number">655 .R32L 1957</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Reid, J. C.</field>
+<field name="author_nat">J. C. Reid</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Listening to radio</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="pages">32</field>
+<field name="keywords">Radio broadcasting</field>
+<field name="notes">31, [1] : illustrations ; 22 cm.; References: Bagnall; Note(s): Caption title.; Responsibility: by J.C. Reid.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">11</field><field name="issue">4</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington] New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">655 .R32L 1957</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Sengupta, Padmini Sathianadhan</field><field name="author_nat">Padmini Sathianadhan Sengupta</field><field name="author">Sengupta, Kamalini</field><field name="author_nat">Kamalini Sengupta</field><field name="author">Clouston, Evelyn</field><field name="author_nat">Evelyn Clouston</field><field name="author">Cowan, Roy</field><field name="author_nat">Roy Cowan</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Life in a Bengal village</field><field name="year">1959</field><field name="date">1959</field><field name="pages">48</field><field name="keywords">Manners and customs</field><field name="keywords">Rural conditions</field><field name="keywords">West Bengal</field><field name="keywords">India</field><field name="notes">47 pages : illustrations, map ; 22 cm.; Note(s): Illustrated cover./ Series statement from back cover.; Responsibility: by Padmini Sengupta ; drawings by Kamalini Sengupta ; cover by Eveleyn Clouston ; [map by Roy Cowan].</field><field name="series_title">Post primary school bulletin</field><field name="series_vol">13</field><field name="issue">3</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">954 .S465L 1959</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Sengupta, Padmini Sathianadhan</field>
+<field name="author_nat">Padmini Sathianadhan Sengupta</field>
+<field name="author">Sengupta, Kamalini</field>
+<field name="author_nat">Kamalini Sengupta</field>
+<field name="author">Clouston, Evelyn</field>
+<field name="author_nat">Evelyn Clouston</field>
+<field name="author">Cowan, Roy</field>
+<field name="author_nat">Roy Cowan</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Life in a Bengal village</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">48</field>
+<field name="keywords">Manners and customs</field>
+<field name="keywords">Rural conditions</field>
+<field name="keywords">West Bengal</field>
+<field name="keywords">India</field>
+<field name="notes">47 pages : illustrations, map ; 22 cm.; Note(s): Illustrated cover./ Series statement from back cover.; Responsibility: by Padmini Sengupta ; drawings by Kamalini Sengupta ; cover by Eveleyn Clouston ; [map by Roy Cowan].</field>
+<field name="series_title">Post primary school bulletin</field>
+<field name="series_vol">13</field>
+<field name="issue">3</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">954 .S465L 1959</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Sutch, W. B.</field><field name="author_nat">W. B. Sutch</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Paul's penny : a study in private and public finance</field><field name="year">1956</field><field name="date">1956</field><field name="pages">56</field><field name="keywords">Saving and investment</field><field name="keywords">Public finance</field><field name="keywords">Personal finance</field><field name="notes">55 pages : illustrations ; 22 cm.; References: Bagnall,; Note(s): Caption title./ Includes bibliographical references.; Responsibility: W.B. Sutch.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">10</field><field name="issue">6</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">647 .S96p 1956</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Sutch, W. B.</field>
+<field name="author_nat">W. B. Sutch</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Paul's penny : a study in private and public finance</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">56</field>
+<field name="keywords">Saving and investment</field>
+<field name="keywords">Public finance</field>
+<field name="keywords">Personal finance</field>
+<field name="notes">55 pages : illustrations ; 22 cm.; References: Bagnall,; Note(s): Caption title./ Includes bibliographical references.; Responsibility: W.B. Sutch.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">10</field>
+<field name="issue">6</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">647 .S96p 1956</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Andrews, Isobel</field><field name="author_nat">Isobel Andrews</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Serve hym forthe : a history of the kitchen</field><field name="year">1961</field><field name="date">1961</field><field name="pages">32</field><field name="keywords">History</field><field name="keywords">Kitchens</field><field name="notes">31 pages : illustrations ; 22 cm.; Responsibility: by Isobel Andrews.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">14</field><field name="issue">4</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">925 .A54s 1961</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Andrews, Isobel</field>
+<field name="author_nat">Isobel Andrews</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Serve hym forthe : a history of the kitchen</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">32</field>
+<field name="keywords">History</field>
+<field name="keywords">Kitchens</field>
+<field name="notes">31 pages : illustrations ; 22 cm.; Responsibility: by Isobel Andrews.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">14</field>
+<field name="issue">4</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">925 .A54s 1961</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Cotterell, Frank</field><field name="author_nat">Frank Cotterell</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Thread and fabric</field><field name="year">1959</field><field name="date">1959</field><field name="pages">40</field><field name="keywords">Textile fabrics</field><field name="keywords">Textile industry</field><field name="notes">39, [1] pages : illustrations ; 22 cm.; References: Bagnall, Note(s): Includes bibliographical references (page 40).; Responsibility: by Frank Cotterell.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">12</field><field name="issue">6</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">677 .C84t 1959</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Cotterell, Frank</field>
+<field name="author_nat">Frank Cotterell</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Thread and fabric</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">40</field>
+<field name="keywords">Textile fabrics</field>
+<field name="keywords">Textile industry</field>
+<field name="notes">39, [1] pages : illustrations ; 22 cm.; References: Bagnall, Note(s): Includes bibliographical references (page 40).; Responsibility: by Frank Cotterell.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">12</field>
+<field name="issue">6</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">677 .C84t 1959</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Davin, Dan</field><field name="author_nat">Dan Davin</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Katherine Mansfield in her letters</field><field name="year">1959</field><field name="date">1959</field><field name="pages">24</field><field name="keywords">Mansfield, Katherine, 1888-1923</field><field name="notes">23, [1] pages : illustrations ; 22 cm; Title Subject: Correspondence (Mansfield, Katherine); Note(s): "Prepared and originally published as a post-primary school bulletin by the Department of Education. P. &amp; S. serial no. 20."/ Includes bibliographical references (pages 23-24).; Responsibility: by D.M. Davin.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">13</field><field name="issue">1</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">428.5 .D25K 1959</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Davin, Dan</field>
+<field name="author_nat">Dan Davin</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Katherine Mansfield in her letters</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">24</field>
+<field name="keywords">Mansfield, Katherine, 1888-1923</field>
+<field name="notes">23, [1] pages : illustrations ; 22 cm; Title Subject: Correspondence (Mansfield, Katherine); Note(s): "Prepared and originally published as a post-primary school bulletin by the Department of Education. P. & S. serial no. 20."/ Includes bibliographical references (pages 23-24).; Responsibility: by D.M. Davin.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">13</field>
+<field name="issue">1</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">428.5 .D25K 1959</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Ellis, Joan</field><field name="author_nat">Joan Ellis</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">A bridge</field><field name="year">1959</field><field name="date">1959</field><field name="pages">27</field><field name="keywords">Bridges</field><field name="keywords">History</field><field name="keywords">New Zealand</field><field name="notes">27 pages : illustrations ; 17 x 21 cm.; Genre/Form: History.; Responsibility: by Joan Ellis.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">12</field><field name="issue">5</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">388 .E40b 1959</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Ellis, Joan</field>
+<field name="author_nat">Joan Ellis</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">A bridge</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">27</field>
+<field name="keywords">Bridges</field>
+<field name="keywords">History</field>
+<field name="keywords">New Zealand</field>
+<field name="notes">27 pages : illustrations ; 17 x 21 cm.; Genre/Form: History.; Responsibility: by Joan Ellis.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">12</field>
+<field name="issue">5</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">388 .E40b 1959</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Cotterell, Frank</field><field name="author_nat">Frank Cotterell</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Electricity in everyday use: part one</field><field name="year">1956</field><field name="date">1956</field><field name="pages">24</field><field name="keywords">Electricity</field><field name="notes">illustrations ; 22 cm.; References: Bagnall, Note(s): Caption title.; Responsibility: by Frank Cotterell.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">9</field><field name="issue">10</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">680 .C84e 1956</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Cotterell, Frank</field>
+<field name="author_nat">Frank Cotterell</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Electricity in everyday use: part one</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">24</field>
+<field name="keywords">Electricity</field>
+<field name="notes">illustrations ; 22 cm.; References: Bagnall, Note(s): Caption title.; Responsibility: by Frank Cotterell.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">9</field>
+<field name="issue">10</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">680 .C84e 1956</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Crocombe, Ron G.</field><field name="author_nat">Ron G. Crocombe</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">The Cook Islands</field><field name="year">1958</field><field name="date">1958</field><field name="pages">36</field><field name="keywords">Cook Islands</field><field name="notes">35 pages illustrations 22 cm.; Note(s): At head of title: About the Pacific.; Other Titles: About the Pacific: the Cook Islands</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">12</field><field name="issue">1</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">996 .C94c 1958</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Crocombe, Ron G.</field>
+<field name="author_nat">Ron G. Crocombe</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">The Cook Islands</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">36</field>
+<field name="keywords">Cook Islands</field>
+<field name="notes">35 pages illustrations 22 cm.; Note(s): At head of title: About the Pacific.; Other Titles: About the Pacific: the Cook Islands</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">12</field>
+<field name="issue">1</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">996 .C94c 1958</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Crosby, G. H. V.</field><field name="author_nat">G. H. V. Crosby</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">Plastics</field><field name="year">1963</field><field name="date">1963</field><field name="pages">32</field><field name="keywords">Plastics</field><field name="notes">31 pages : illustrations ; 21 cm.; Genre/Form: Juvenile works.; Responsibility: G.H.V. Crosby.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">13</field><field name="issue">6</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">668 .C94p 1963</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Crosby, G. H. V.</field>
+<field name="author_nat">G. H. V. Crosby</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">Plastics</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="pages">32</field>
+<field name="keywords">Plastics</field>
+<field name="notes">31 pages : illustrations ; 21 cm.; Genre/Form: Juvenile works.; Responsibility: G.H.V. Crosby.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">13</field>
+<field name="issue">6</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">668 .C94p 1963</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Eiby, G. A.</field><field name="author_nat">G. A. Eiby</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">The scientists</field><field name="year">1961</field><field name="date">1961</field><field name="pages">32</field><field name="keywords">Technical writing</field><field name="notes">31 pages ; 22 cm.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by G.A. Eiby. Other Titles: Writing in New Zealand.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">14</field><field name="date">3</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">519 .E30s 1961</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Eiby, G. A.</field>
+<field name="author_nat">G. A. Eiby</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">The scientists</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="pages">32</field>
+<field name="keywords">Technical writing</field>
+<field name="notes">31 pages ; 22 cm.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by G.A. Eiby. Other Titles: Writing in New Zealand.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">14</field>
+<field name="date">3</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">519 .E30s 1961</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Nayacakalou, R. R.</field><field name="author_nat">R. R. Nayacakalou</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">About the Pacific : village life in Fiji</field><field name="year">1959</field><field name="date">1959</field><field name="pages">40</field><field name="keywords">Fiji</field><field name="keywords">Social life and customs</field><field name="notes">39 pages : illustrations ; 22 cm; Other Titles: Village life in Fiji; Responsibility: by R.R. Nayacakalou.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">12</field><field name="issue">8</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">996 .N32v 1959</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Nayacakalou, R. R.</field>
+<field name="author_nat">R. R. Nayacakalou</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">About the Pacific : village life in Fiji</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">40</field>
+<field name="keywords">Fiji</field>
+<field name="keywords">Social life and customs</field>
+<field name="notes">39 pages : illustrations ; 22 cm; Other Titles: Village life in Fiji; Responsibility: by R.R. Nayacakalou.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">12</field>
+<field name="issue">8</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">996 .N32v 1959</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Robertson, James</field><field name="author_nat">James Robertson</field><field name="corp_author">New Zealand Department of Education. School Publications Branch</field><field name="title">The orchestra: part two</field><field name="year">1959</field><field name="date">1959</field><field name="pages">32</field><field name="keywords">Musical instruments</field><field name="keywords">Orchestra</field><field name="notes">illustrations ; 21 cm.; Responsibility: by James Robertson.</field><field name="series_title">Post-primary school bulletin</field><field name="series_vol">12</field><field name="issue">9</field><field name="publisher">New Zealand Department of Education. School Publications Branch</field><field name="pub_place">Wellington, New Zealand</field><field name="language">English</field><field name="call_number">780.4 .R64o 1959</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Robertson, James</field>
+<field name="author_nat">James Robertson</field>
+<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
+<field name="title">The orchestra: part two</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">32</field>
+<field name="keywords">Musical instruments</field>
+<field name="keywords">Orchestra</field>
+<field name="notes">illustrations ; 21 cm.; Responsibility: by James Robertson.</field>
+<field name="series_title">Post-primary school bulletin</field>
+<field name="series_vol">12</field>
+<field name="issue">9</field>
+<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
+<field name="pub_place">Wellington, New Zealand</field
+><field name="language">English</field>
+<field name="call_number">780.4 .R64o 1959</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">New Zealand Department of Education</field><field name="title">November-December examinations, 1905 : examination papers</field><field name="year">1906</field><field name="date">1906</field><field name="pages">57</field><field name="keywords">Examinations</field><field name="notes">57 pages, [1] folded leaf and [3] folded pages of plates : illustrations ; 21 cm</field><field name="publisher">New Zealand. Department of Education</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">371.27 .N54e 1906</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Zealand Department of Education</field>
+<field name="title">November-December examinations, 1905 : examination papers</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="pages">57</field>
+<field name="keywords">Examinations</field>
+<field name="notes">57 pages, [1] folded leaf and [3] folded pages of plates : illustrations ; 21 cm</field>
+<field name="publisher">New Zealand. Department of Education</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">371.27 .N54e 1906</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">New Zealand Department of Education</field><field name="title">December examinations, 1911 : examination papers (with extracts from examiners' reports)</field><field name="year">1912</field><field name="date">1912</field><field name="pages">87</field><field name="keywords">Examinations</field><field name="notes">87 pages, [1] folded leaf and [3] folded pages of plates : illustrations ; 21 cm</field><field name="publisher">New Zealand. Department of Education</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">371.27 .N54e 1912</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Zealand Department of Education</field>
+<field name="title">December examinations, 1911 : examination papers (with extracts from examiners' reports)</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="pages">87</field>
+<field name="keywords">Examinations</field>
+<field name="notes">87 pages, [1] folded leaf and [3] folded pages of plates : illustrations ; 21 cm</field>
+<field name="publisher">New Zealand. Department of Education</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">371.27 .N54e 1912</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">New Zealand Department of Education</field><field name="title">November-December examinations, 1923 : examination papers</field><field name="year">1924</field><field name="date">1924</field><field name="pages">88</field><field name="keywords">Examinations</field><field name="notes">88 pages, folded pages of plates : illustrations ; 21 cm</field><field name="publisher">New Zealand. Department of Education</field><field name="pub_place">Wellington New Zealand</field><field name="language">English</field><field name="call_number">371.27 .N54e 1924</field><field name="state_country">New Zealand</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Zealand Department of Education</field>
+<field name="title">November-December examinations, 1923 : examination papers</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="pages">88</field>
+<field name="keywords">Examinations</field>
+<field name="notes">88 pages, folded pages of plates : illustrations ; 21 cm</field>
+<field name="publisher">New Zealand. Department of Education</field>
+<field name="pub_place">Wellington New Zealand</field>
+<field name="language">English</field>
+<field name="call_number">371.27 .N54e 1924</field>
+<field name="state_country">New Zealand</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Paraguay Ministerio de Educación y Culto</field><field name="title">Boletín de educación Paraguaya</field><field name="year">1966</field><field name="date">1966</field><field name="pages">61</field><field name="keywords">Education</field><field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field><field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field><field name="pub_place">Asunción, Paraguay</field><field name="language">English</field><field name="call_number">379.89 .P222b no. 56 1966</field><field name="state_country">Paraguay</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Paraguay Ministerio de Educación y Culto</field>
+<field name="title">Boletín de educación Paraguaya</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="pages">61</field>
+<field name="keywords">Education</field>
+<field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field>
+<field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field>
+<field name="pub_place">Asunción, Paraguay</field>
+<field name="language">English</field>
+<field name="call_number">379.89 .P222b no. 56 1966</field>
+<field name="state_country">Paraguay</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Paraguay Ministerio de Educación y Culto</field><field name="title">Boletín de educación Paraguaya</field><field name="year">1970</field><field name="date">1970</field><field name="pages">56</field><field name="keywords">Education</field><field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field><field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field><field name="pub_place">Asunción, Paraguay</field><field name="language">English</field><field name="call_number">379.89 .P222b no. 73 1970</field><field name="state_country">Paraguay</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Paraguay Ministerio de Educación y Culto</field>
+<field name="title">Boletín de educación Paraguaya</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">56</field>
+<field name="keywords">Education</field>
+<field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field>
+<field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field>
+<field name="pub_place">Asunción, Paraguay</field>
+<field name="language">English</field>
+<field name="call_number">379.89 .P222b no. 73 1970</field>
+<field name="state_country">Paraguay</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Paraguay Ministerio de Educación y Culto</field><field name="title">Boletín de educación Paraguaya</field><field name="year">1970</field><field name="date">1970</field><field name="pages">60</field><field name="keywords">Education</field><field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field><field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field><field name="pub_place">Asunción, Paraguay</field><field name="language">English</field><field name="call_number">379.89 .P222b no. 74 1970</field><field name="state_country">Paraguay</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Paraguay Ministerio de Educación y Culto</field>
+<field name="title">Boletín de educación Paraguaya</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">60</field>
+<field name="keywords">Education</field>
+<field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field>
+<field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field>
+<field name="pub_place">Asunción, Paraguay</field>
+<field name="language">English</field>
+<field name="call_number">379.89 .P222b no. 74 1970</field>
+<field name="state_country">Paraguay</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Paraguay Ministerio de Educación y Culto</field><field name="title">Boletín de educación Paraguaya</field><field name="year">1971</field><field name="date">1971</field><field name="pages">54</field><field name="keywords">Education</field><field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field><field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field><field name="pub_place">Asunción, Paraguay</field><field name="language">English</field><field name="call_number">379.89 .P222b no. 75 1971</field><field name="state_country">Paraguay</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Paraguay Ministerio de Educación y Culto</field>
+<field name="title">Boletín de educación Paraguaya</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="pages">54</field>
+<field name="keywords">Education</field>
+<field name="notes">v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.</field>
+<field name="publisher">Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay</field>
+<field name="pub_place">Asunción, Paraguay</field>
+<field name="language">English</field>
+<field name="call_number">379.89 .P222b no. 75 1971</field>
+<field name="state_country">Paraguay</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Isthmian Canal Commission (U.S.). Executive Department. Division of Schools</field><field name="title">Course of study, Canal Zone elementary schools. Isthmus of Panama</field><field name="year">1920</field><field name="date">1920</field><field name="pages">142</field><field name="keywords">Public schools</field><field name="keywords">Curricula</field><field name="publisher">Panama Canal Press</field><field name="pub_place">Mount Hope, Panama</field><field name="language">English</field><field name="call_number">375.13 .P20c 1920</field><field name="state_country">Panama</field><field name="grade_level_group">Elementary</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Isthmian Canal Commission (U.S.). Executive Department. Division of Schools</field>
+<field name="title">Course of study, Canal Zone elementary schools. Isthmus of Panama</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="pages">142</field>
+<field name="keywords">Public schools</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Panama Canal Press</field>
+<field name="pub_place">Mount Hope, Panama</field>
+<field name="language">English</field>
+<field name="call_number">375.13 .P20c 1920</field>
+<field name="state_country">Panama</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Panama Canal Division of Schools</field><field name="title">Manual of rules and regulations, Canal Zone White Schools, 1920</field><field name="year">1920</field><field name="date">1920</field><field name="pages">37</field><field name="keywords">School management and organization</field><field name="publisher">Panama Canal Division of Schools</field><field name="pub_place">Mount Hope, Panama</field><field name="language">English</field><field name="call_number">379.728 .P20m 1920</field><field name="state_country">Panama</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Panama Canal Division of Schools</field>
+<field name="title">Manual of rules and regulations, Canal Zone White Schools, 1920</field>
+<field name="year">1920</field
+><field name="date">1920</field>
+<field name="pages">37</field>
+<field name="keywords">School management and organization</field>
+<field name="publisher">Panama Canal Division of Schools</field>
+<field name="pub_place">Mount Hope, Panama</field>
+<field name="language">English</field>
+<field name="call_number">379.728 .P20m 1920</field>
+<field name="state_country">Panama</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="author">Vitarelli, William V.</field><field name="author_nat">William V. Vitarelli</field><field name="corp_author">Palau district, Trust Territory of the Pacific Islands</field><field name="title">Education in Palau</field><field name="year">1951</field><field name="date">1951</field><field name="pages">16</field><field name="keywords">Education</field><field name="series_title">Trust Territory of the Pacific Islands. Dept. of education. Palau district. Educational bulletin</field><field name="series_vol">1</field><field name="publisher">Palau district, Trust Territory of the Pacific Islands</field><field name="pub_place">Koror, Palau</field><field name="language">English</field><field name="call_number">370 .P17e</field><field name="state_country">Palau</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="author">Vitarelli, William V.</field>
+<field name="author_nat">William V. Vitarelli</field>
+<field name="corp_author">Palau district, Trust Territory of the Pacific Islands</field>
+<field name="title">Education in Palau</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="pages">16</field>
+<field name="keywords">Education</field>
+<field name="series_title">Trust Territory of the Pacific Islands. Dept. of education. Palau district. Educational bulletin</field>
+<field name="series_vol">1</field>
+<field name="publisher">Palau district, Trust Territory of the Pacific Islands</field>
+<field name="pub_place">Koror, Palau</field>
+<field name="language">English</field>
+<field name="call_number">370 .P17e</field>
+<field name="state_country">Palau</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">K. K. [kaiserlich und königlich] Landesschulrathes</field><field name="title">Lehrplan für achtclassige Volksschulen mit deutscher Unterrichtssprache im Königreiche Böhmen</field><field name="year">1898</field><field name="date">1898</field><field name="pages">12</field><field name="notes">Kundgemacht mit Erlass des k. k. [kaiserlich und königlich] Landesschulrathes vom 23. Februar 1898, [paragraph sign?] 40.220.</field><field name="keywords">Curricula</field><field name="keywords">Elementary education</field><field name="publisher">K.K. Schulbücher Verlag</field><field name="pub_place">Prague</field><field name="language">German</field><field name="call_number">375.13 .K12L 1898</field><field name="state_country">Czech Republic</field><field name="grade_level_group">Elementary</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">K. K. [kaiserlich und königlich] Landesschulrathes</field>
+<field name="title">Lehrplan für achtclassige Volksschulen mit deutscher Unterrichtssprache im Königreiche Böhmen</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="pages">12</field>
+<field name="notes">Kundgemacht mit Erlass des k. k. [kaiserlich und königlich] Landesschulrathes vom 23. Februar 1898, [paragraph sign?] 40.220.</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">K.K. Schulbücher Verlag</field>
+<field name="pub_place">Prague</field>
+<field name="language">German</field>
+<field name="call_number">375.13 .K12L 1898</field>
+<field name="state_country">Czech Republic</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">K. K. [kaiserlich und königlich] Landesschulrathes</field><field name="title">Lehrplan für vierclassige Volksschulen mit deutscher Unterrichtssprache im Königreiche Böhmen</field><field name="year">1898</field><field name="date">1898</field><field name="pages">9</field><field name="notes">Kundgemacht mit Erlass des k. k. [kaiserlich und königlich] Landesschulrathes vom 23. Februar 1898, [paragraph sign?] 40.220.</field><field name="keywords">Curricula</field><field name="keywords">Elementary education</field><field name="publisher">K.K. Schulbücher Verlag</field><field name="pub_place">Prague</field><field name="language">German</field><field name="call_number">375.13 .K12Le 1898</field><field name="state_country">Czech Republic</field><field name="grade_level_group">Elementary</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">K. K. [kaiserlich und königlich] Landesschulrathes</field>
+<field name="title">Lehrplan für vierclassige Volksschulen mit deutscher Unterrichtssprache im Königreiche Böhmen</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="pages">9</field>
+<field name="notes">Kundgemacht mit Erlass des k. k. [kaiserlich und königlich] Landesschulrathes vom 23. Februar 1898, [paragraph sign?] 40.220.</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Elementary education</field>
+<field name="publisher">K.K. Schulbücher Verlag</field>
+<field name="pub_place">Prague</field>
+<field name="language">German</field>
+<field name="call_number">375.13 .K12Le 1898</field>
+<field name="state_country">Czech Republic</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
 
 
 </add>
