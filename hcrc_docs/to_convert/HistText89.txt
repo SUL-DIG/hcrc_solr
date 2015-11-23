@@ -1,0 +1,880 @@
+
+
+TY  - BOOK
+A1  - Hamon Du Fougeray, E.
+T1  - Manuel pratique des méthodes d'enseignement spéciales aux enfants anormaux
+Y1  - 1896
+D1  - 1896
+SP  - 288
+KW  - Special education
+N1  - xx; illustrations.; Note(s): Publications du Progrès médical.
+T2  - Bibliothèque d'éducation spéciale
+V1  - 5
+PB  - Alcan
+CY  - Paris. France
+LA  - French
+CN  - 371.8 .F765
+SC  - France
+ER  - 
+
+TY  - BOOK
+A1  - Berger G., C.
+T1  - Cuaderno de trabajo para la clase de química para sexto grado de primaria
+Y1  - 1954
+D1  - 1954
+SP  - 84
+KW  - Elementary education
+KW  - Chemistry
+N1  - 1 v. (84 p.) : fig. ; In-8°; Responsibility: C. Berger G.
+T2  - Colección Libro escolar
+V1  - 14
+PB  - Editorial del Ministerio de educación pública
+CY  - Guatemala
+LA  - Spanish
+CN  - 540 .G91c 1954
+SC  - Guatemala
+ER  - 
+
+TY  - BOOK
+A1  - Fernández Cruz, Soledad
+T1  - Morazanide. Espiritu de America
+Y1  - 1942
+D1  - 1942
+KW  - History
+N1  - 40 pages illustrations
+PB  - La independencia
+CY  - San Pedro Sula, Honduras
+LA  - Spanish
+CN  - 980 .F30e
+SC  - Honduras
+ER  - 
+
+TY  - BOOK
+A2  - Ministry of Commerce and Industry, Government of India
+T1  - Second ad hoc training course in industrial economic investigation
+Y1  - 1958
+D1  - 1958
+SP  - 237
+KW  - Economics
+KW  - Industries
+PB  - Government of India Press
+CY  - New Delhi, India
+LA  - English
+CN  - 371.49 .I35s
+SC  - India
+ER  - 
+
+TY  - BOOK
+A2  - Japanese National Commission for UNESCO
+T1  - Guidebook for the teaching of science in elementary schools in Japan
+Y1  - 1972
+D1  - 1972
+SP  - 104
+KW  - Science
+N1  - 104 pages 26 cm; Note(s): Cover title./ Translation of Shogakko shidosho rikahen.
+PB  - Japanese National Commission for Unesco
+CY  - Tokyo, Japan
+LA  - English
+CN  - 519 .J35g
+SC  - Japan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Curriculum Development and Research Centre (Kenya). Primary Science Section
+T1  - Science: schemes of work for standards 1, 2 & 3
+Y1  - 1968
+D1  - 1968
+SP  - 58
+KW  - Science
+KW  - Curricula
+N1  - 58p.; Responsibility: prepared by the Primary Science Section, CDRC Ministry of Education, Kenya.
+PB  - Jomo Kenyatta Foundation
+CY  - Nairobi, Kenya
+LA  - English
+CN  - 519 .K371s v. 1
+SC  - Kenya
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Curriculum Development and Research Centre (Kenya). Primary Science Section
+T1  - Science: schemes of work for standards 4 & 5
+Y1  - 1968
+D1  - 1968
+SP  - 66
+KW  - Science
+KW  - Curricula
+AB  - Science: schemes of work for standards 4 & 5 / Curriculum Development and Research Centre (Kenya). Primary Science Section.; Jomo Kenyatta Foundation. 1968 English Book 66p. Nairobi : Jomo Kenyatta Foundation,
+N1  - 66p.; Responsibility: prepared by the Primary Science Section, CDRC Ministry of Education, Kenya.
+PB  - Jomo Kenyatta Foundation
+CY  - Nairobi, Kenya
+LA  - English
+CN  - 519 .K371s v. 2
+SC  - Kenya
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Japan Ministry of Education
+T1  - Revised curriculum in Japan for elementary and lower secondary schools
+Y1  - 1960
+D1  - 1960
+SP  - 66
+KW  - Curricula
+KW  - Elementary education
+N1  - iii; 26 cm; Note(s): "MEJ 6297."/ Also issued online.; Responsibility: Research Section, Research Bureau, Ministry of Education, Government of Japan.
+PB  - Ministry of Education
+CY  - Tokyo, Japan
+LA  - English
+CN  - 375.13 .J35r
+SC  - Japan
+ER  - 
+
+TY  - BOOK
+A2  - Korean Educational Development Institute
+T1  - An application of a new instructional model
+Y1  - 1974
+D1  - 07/1974
+SP  - 19
+KW  - Elementary education
+N1  - Summary report of the second small-scale tryout of the KEDI instruction system
+PB  - Korean Educational Development Institute
+T2  - Korean Educational Development Institute. Research report
+V1  - 8
+CY  - Seoul, Korea
+LA  - Korean
+LA  - English
+CN  - 375.13 .K83a 1974
+SC  - Korea, South
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Carey, Robert D.
+T1  - Low cost business education furniture
+Y1  - 1960
+D1  - 1960?
+SP  - 25
+KW  - School furniture and equipment
+N1  - "Special school furniture that can be made locally or in the school shop built to business education standards."
+PB  - College of West Africa
+CY  - Monrovia, Liberia
+LA  - English
+CN  - 650 .W51L
+SC  - Liberia
+ER  - 
+
+TY  - BOOK
+A1  - Chavez Orozco, Luis
+T1  - Historia de Mexico: epoca Precortesiana
+Y1  - 1934
+D1  - 1934
+SP  - 254
+KW  - History
+KW  - Mexico
+N1  - "Cursos de historia en las escuelas de segunda ensenanza," Segun las Programas Oficiales Vigentes"; Estate of Dr. P.A. Martin.
+V1  - 1
+PB  - Editorial Patria
+CY  - Mexico
+LA  - Spanish
+CN  - 972 .C51h 1934
+SC  - Mexico
+ER  - 
+
+TY  - BOOK
+A1  - Bunt, Lucas N. H.
+T1  - The teaching of mathematics to students between 16 and 21 years of age in the Netherlands; a report to the International Commission on Mathematical Instruction
+Y1  - 1955
+D1  - 1955
+SP  - 98
+KW  - Mathematics
+N1  - xi; folded diagram 26 cm.; Note(s): "Publication of the Institute of Education, State University of Utrecht."/ Issued also as International Commission on Mathematical Instruction. Dutch National Subcommittee. [Report] 2.
+T2  - Acta paedagogica Ultrajectina
+V1  - 9
+PB  - J.B. Wolters
+CY  - Groningen, Netherlands
+LA  - English
+CN  - 511.6 .B93t
+SC  - Netherlands
+ER  - 
+
+TY  - BOOK
+A1  - Cotterell, Frank
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - A sheep station
+Y1  - 1960
+D1  - 1960
+SP  - 24
+KW  - Wool industry
+KW  - History
+KW  - Sheep industry
+KW  - Sheep ranches
+KW  - New Zealand
+N1  - 24, [8] pages : illustrations, maps ; 18 x 23 cm.; Genre/Form: History. Juvenile works.; Responsibility: by Frank Cotterell.
+T2  - Post-primary school bulletin
+V1  - 13
+IS  - 9
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington New Zealand
+LA  - English
+CN  - 630 .C84s 1960
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Sengupta, Padmini Sathianadhan
+A1  - Sengupta, Kamalini
+A1  - Campbell, P. F.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Life in Madras state
+Y1  - 1960
+D1  - 1960
+SP  - 31
+KW  - Tamil
+KW  - India
+KW  - Social life and customs
+KW  - Chennai
+N1  - 31 pages : illustrations ; 21 cm.; References: Bagnall,; N1381; Genre/Form: Juvenile works.; Responsibility: by Padmini Sengupta ; decorations by Kamalini Sengupta ; cover by Peter Campbell.
+T2  - Post-primary school bulletin
+V1  - 13
+IS  - 8
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington New Zealand
+LA  - English
+CN  - 954 .S465L 1960
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Stevens, Joan
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Some nineteenth century novels and their first publication
+Y1  - 1961
+D1  - 1961
+SP  - 36
+KW  - English literature
+N1  - 35 pages : illustrations ; 22 cm.; Genre/Form: Criticism, interpretation, etc.; Responsibility: by Joan Stevens ; and illustrated by engravings from the books mentioned.
+T2  - Post-primary school bulletin
+V1  - 14
+IS  - 2
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 428.5 .S82s 1961
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Wood, F. L. W.
+A1  - McDonald, Jill
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - "Her Majesty commands" : the story of the opening of Parliament
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Great Britain
+KW  - History
+KW  - Parliament
+KW  - New Zealand
+N1  - 35 pages : illustrations ; 22 cm.; Genre/Form: History.; Other Titles: Story of the opening of Parliament; Responsibility: by F.L.W. Wood ; illustrated by Jill McDonald.
+T2  - Post-primary school bulletin
+V1  - 12
+IS  - 2
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 942 .W90h 1958
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Cotterell, Frank
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Town milk supply
+Y1  - 1956
+D1  - 1956
+SP  - 32
+KW  - Dairying
+KW  - Milk
+KW  - New Zealand
+N1  - 31 pages : illustrations ; 22 cm.; Note(s): Caption title.
+T2  - Post-primary school bulletin
+V1  - 10
+IS  - 5
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 637 .C84t 1956
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Eiby, G. A.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - This earth of ours, part one.
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Earth
+N1  - illustrations, maps; rtraits ; 22 cm.; Note(s): At head of title: The International Geophysical Year.; Responsibility: by G.A. Eiby.
+T2  - Post-primary school bulletin
+V1  - 11
+IS  - 9
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington New Zealand
+LA  - English
+CN  - 520 .E30t 1958
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Marsh, Ngaio
+A1  - Williams, Sam
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Play production
+Y1  - 1960
+D1  - 1960
+SP  - 36
+KW  - Theater
+N1  - 35, [1] pages : illustrations ; 22 cm.; References: Bagnall; N1381; Genre/Form: Juvenile works.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by Ngaio Marsh, drawings by Sam Williams.
+T2  - Post-primary school bulletin
+V1  - 13
+IS  - 4
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 428.73 .M37p 1960
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Packard, Andrew
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - The meaning of animal form. Part one : looking at animals
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Animal ecology
+KW  - Animal behavior
+N1  - 36 pages : illustrations ; 22 cm.; Note(s): Responsibility: by Andrew Packard.
+T2  - Post-primary school bulletin
+V1  - 11
+IS  - 8
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington New Zealand
+LA  - English
+CN  - 599 .P11m pt. 1 1958
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Packard, Andrew
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - The meaning of animal form. Part two : change and continuity
+Y1  - 1959
+D1  - 1959
+SP  - 32
+KW  - Animal ecology
+KW  - Animal behavior
+N1  - 32 pages : illustrations ; 22 cm.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by Andrew Packard.
+T2  - Post-primary school bulletin
+V1  - 12
+IS  - 3
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington New Zealand
+LA  - English
+CN  - 599 .P11m pt. 2 1959
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Robinson, K. W.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - The south-east coastlands
+Y1  - 1961
+D1  - 1961
+SP  - 36
+KW  - Agriculture
+KW  - Australia
+N1  - 35 pages : illustrations ; 22 cm.; Genre/Form: Juvenile works.; Note(s): Includes bibliographical references.; Responsibility: by K.W. Robinson.
+T2  - Post-primary school bulletin
+V1  - 14
+IS  - 1
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 630 .R64s 1961
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Musgrove, S.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Action and word in Shakespeare
+Y1  - 1956
+D1  - 1956
+SP  - 32
+KW  - Acting in literature
+KW  - Performing arts
+KW  - Shakespeare, William, 1564-1616
+N1  - 31, [2] pages ; 22 cm.; References: Bagnall,Note(s): Caption title./ Includes bibliographical references (page 33).; Responsibility: by S. Musgrove.
+T2  - Post-primary bulletin
+V1  - 10
+IS  - 4
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 428.2 .M98a 1956
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Reid, J. C.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Listening to radio
+Y1  - 1957
+D1  - 1957
+SP  - 32
+KW  - Radio broadcasting
+N1  - 31, [1] : illustrations ; 22 cm.; References: Bagnall; Note(s): Caption title.; Responsibility: by J.C. Reid.
+T2  - Post-primary school bulletin
+V1  - 11
+IS  - 4
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington] New Zealand
+LA  - English
+CN  - 655 .R32L 1957
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Sengupta, Padmini Sathianadhan
+A1  - Sengupta, Kamalini
+A1  - Clouston, Evelyn
+A1  - Cowan, Roy
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Life in a Bengal village
+Y1  - 1959
+D1  - 1959
+SP  - 48
+KW  - Manners and customs
+KW  - Rural conditions
+KW  - West Bengal
+KW  - India
+N1  - 47 pages : illustrations, map ; 22 cm.; Note(s): Illustrated cover./ Series statement from back cover.; Responsibility: by Padmini Sengupta ; drawings by Kamalini Sengupta ; cover by Eveleyn Clouston ; [map by Roy Cowan].
+T2  - Post primary school bulletin
+V1  - 13
+IS  - 3
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 954 .S465L 1959
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Sutch, W. B.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Paul's penny : a study in private and public finance
+Y1  - 1956
+D1  - 1956
+SP  - 56
+KW  - Saving and investment
+KW  - Public finance
+KW  - Personal finance
+N1  - 55 pages : illustrations ; 22 cm.; References: Bagnall,; Note(s): Caption title./ Includes bibliographical references.; Responsibility: W.B. Sutch.
+T2  - Post-primary school bulletin
+V1  - 10
+IS  - 6
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 647 .S96p 1956
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Andrews, Isobel
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Serve hym forthe : a history of the kitchen
+Y1  - 1961
+D1  - 1961
+SP  - 32
+KW  - History
+KW  - Kitchens
+N1  - 31 pages : illustrations ; 22 cm.; Responsibility: by Isobel Andrews.
+T2  - Post-primary school bulletin
+V1  - 14
+IS  - 4
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 925 .A54s 1961
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Cotterell, Frank
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Thread and fabric
+Y1  - 1959
+D1  - 1959
+SP  - 40
+KW  - Textile fabrics
+KW  - Textile industry
+N1  - 39, [1] pages : illustrations ; 22 cm.; References: Bagnall, Note(s): Includes bibliographical references (page 40).; Responsibility: by Frank Cotterell.
+T2  - Post-primary school bulletin
+V1  - 12
+IS  - 6
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 677 .C84t 1959
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Davin, Dan
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Katherine Mansfield in her letters
+Y1  - 1959
+D1  - 1959
+SP  - 24
+KW  - Mansfield, Katherine, 1888-1923
+N1  - 23, [1] pages : illustrations ; 22 cm; Title Subject: Correspondence (Mansfield, Katherine); Note(s): "Prepared and originally published as a post-primary school bulletin by the Department of Education. P. & S. serial no. 20."/ Includes bibliographical references (pages 23-24).; Responsibility: by D.M. Davin.
+T2  - Post-primary school bulletin
+V1  - 13
+IS  - 1
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 428.5 .D25K 1959
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Ellis, Joan
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - A bridge
+Y1  - 1959
+D1  - 1959
+SP  - 27
+KW  - Bridges
+KW  - History
+KW  - New Zealand
+N1  - 27 pages : illustrations ; 17 x 21 cm.; Genre/Form: History.; Responsibility: by Joan Ellis.
+T2  - Post-primary school bulletin
+V1  - 12
+IS  - 5
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 388 .E40b 1959
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Cotterell, Frank
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Electricity in everyday use: part one
+Y1  - 1956
+D1  - 1956
+SP  - 24
+KW  - Electricity
+N1  - illustrations ; 22 cm.; References: Bagnall, Note(s): Caption title.; Responsibility: by Frank Cotterell.
+T2  - Post-primary school bulletin
+V1  - 9
+IS  - 10
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 680 .C84e 1956
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Crocombe, Ron G.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - The Cook Islands
+Y1  - 1958
+D1  - 1958
+SP  - 36
+KW  - Cook Islands
+N1  - 35 pages illustrations 22 cm.; Note(s): At head of title: About the Pacific.; Other Titles: About the Pacific: the Cook Islands
+T2  - Post-primary school bulletin
+V1  - 12
+IS  - 1
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 996 .C94c 1958
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Crosby, G. H. V.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - Plastics
+Y1  - 1963
+D1  - 1963
+SP  - 32
+KW  - Plastics
+N1  - 31 pages : illustrations ; 21 cm.; Genre/Form: Juvenile works.; Responsibility: G.H.V. Crosby.
+T2  - Post-primary school bulletin
+V1  - 13
+IS  - 6
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 668 .C94p 1963
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Eiby, G. A.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - The scientists
+Y1  - 1961
+D1  - 1961
+SP  - 32
+KW  - Technical writing
+N1  - 31 pages ; 22 cm.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by G.A. Eiby. Other Titles: Writing in New Zealand.
+T2  - Post-primary school bulletin
+V1  - 14
+D1  - 3
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 519 .E30s 1961
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Nayacakalou, R. R.
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - About the Pacific : village life in Fiji
+Y1  - 1959
+D1  - 1959
+SP  - 40
+KW  - Fiji
+KW  - Social life and customs
+N1  - 39 pages : illustrations ; 22 cm; Other Titles: Village life in Fiji; Responsibility: by R.R. Nayacakalou.
+T2  - Post-primary school bulletin
+V1  - 12
+IS  - 8
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 996 .N32v 1959
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A1  - Robertson, James
+A2  - New Zealand Department of Education. School Publications Branch
+T1  - The orchestra: part two
+Y1  - 1959
+D1  - 1959
+SP  - 32
+KW  - Musical instruments
+KW  - Orchestra
+N1  - illustrations ; 21 cm.; Responsibility: by James Robertson.
+T2  - Post-primary school bulletin
+V1  - 12
+IS  - 9
+PB  - New Zealand Department of Education. School Publications Branch
+CY  - Wellington, New Zealand
+LA  - English
+CN  - 780.4 .R64o 1959
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A2  - New Zealand Department of Education
+T1  - November-December examinations, 1905 : examination papers
+Y1  - 1906
+D1  - 1906
+SP  - 57
+KW  - Examinations
+N1  - 57 pages, [1] folded leaf and [3] folded pages of plates : illustrations ; 21 cm
+PB  - New Zealand. Department of Education
+CY  - Wellington New Zealand
+LA  - English
+CN  - 371.27 .N54e 1906
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A2  - New Zealand Department of Education
+T1  - December examinations, 1911 : examination papers (with extracts from examiners' reports)
+Y1  - 1912
+D1  - 1912
+SP  - 87
+KW  - Examinations
+N1  - 87 pages, [1] folded leaf and [3] folded pages of plates : illustrations ; 21 cm
+PB  - New Zealand. Department of Education
+CY  - Wellington New Zealand
+LA  - English
+CN  - 371.27 .N54e 1912
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A2  - New Zealand Department of Education
+T1  - November-December examinations, 1923 : examination papers
+Y1  - 1924
+D1  - 1924
+SP  - 88
+KW  - Examinations
+N1  - 88 pages, folded pages of plates : illustrations ; 21 cm
+PB  - New Zealand. Department of Education
+CY  - Wellington New Zealand
+LA  - English
+CN  - 371.27 .N54e 1924
+SC  - New Zealand
+ER  - 
+
+TY  - BOOK
+A2  - Paraguay Ministerio de Educación y Culto
+T1  - Boletín de educación Paraguaya
+Y1  - 1966
+D1  - 1966
+SP  - 61
+KW  - Education
+N1  - v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.
+PB  - Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay
+CY  - Asunción, Paraguay
+LA  - English
+CN  - 379.89 .P222b no. 56 1966
+SC  - Paraguay
+ER  - 
+
+TY  - BOOK
+A2  - Paraguay Ministerio de Educación y Culto
+T1  - Boletín de educación Paraguaya
+Y1  - 1970
+D1  - 1970
+SP  - 56
+KW  - Education
+N1  - v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.
+PB  - Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay
+CY  - Asunción, Paraguay
+LA  - English
+CN  - 379.89 .P222b no. 73 1970
+SC  - Paraguay
+ER  - 
+
+TY  - BOOK
+A2  - Paraguay Ministerio de Educación y Culto
+T1  - Boletín de educación Paraguaya
+Y1  - 1970
+D1  - 1970
+SP  - 60
+KW  - Education
+N1  - v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.
+PB  - Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay
+CY  - Asunción, Paraguay
+LA  - English
+CN  - 379.89 .P222b no. 74 1970
+SC  - Paraguay
+ER  - 
+
+TY  - BOOK
+A2  - Paraguay Ministerio de Educación y Culto
+T1  - Boletín de educación Paraguaya
+Y1  - 1971
+D1  - 1971
+SP  - 54
+KW  - Education
+N1  - v; Genre/Form: Periodicals.; Geographic: Paraguay.; Note(s): Issued by Paraguay. Ministerio de Educación y Culto.
+PB  - Ministerio de Educación y Culto, Mision de UNESCO en el Paraguay
+CY  - Asunción, Paraguay
+LA  - English
+CN  - 379.89 .P222b no. 75 1971
+SC  - Paraguay
+ER  - 
+
+TY  - BOOK
+A2  - Isthmian Canal Commission (U.S.). Executive Department. Division of Schools
+T1  - Course of study, Canal Zone elementary schools. Isthmus of Panama
+Y1  - 1920
+D1  - 1920
+SP  - 142
+KW  - Public schools
+KW  - Curricula
+PB  - Panama Canal Press
+CY  - Mount Hope, Panama
+LA  - English
+CN  - 375.13 .P20c 1920
+SC  - Panama
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Panama Canal Division of Schools
+T1  - Manual of rules and regulations, Canal Zone White Schools, 1920
+Y1  - 1920
+D1  - 1920
+SP  - 37
+KW  - School management and organization
+PB  - Panama Canal Division of Schools
+CY  - Mount Hope, Panama
+LA  - English
+CN  - 379.728 .P20m 1920
+SC  - Panama
+ER  - 
+
+TY  - BOOK
+A1  - Vitarelli, William V.
+A2  - Palau district, Trust Territory of the Pacific Islands
+T1  - Education in Palau
+Y1  - 1951
+D1  - 1951
+SP  - 16
+KW  - Education
+T2  - Trust Territory of the Pacific Islands. Dept. of education. Palau district. Educational bulletin
+V1  - 1
+PB  - Palau district, Trust Territory of the Pacific Islands
+CY  - Koror, Palau
+LA  - English
+CN  - 370 .P17e
+SC  - Palau
+ER  - 
+
+TY  - BOOK
+A2  - K. K. [kaiserlich und königlich] Landesschulrathes
+T1  - Lehrplan für achtclassige Volksschulen mit deutscher Unterrichtssprache im Königreiche Böhmen
+Y1  - 1898
+D1  - 1898
+SP  - 12
+N1  - Kundgemacht mit Erlass des k. k. [kaiserlich und königlich] Landesschulrathes vom 23. Februar 1898, [paragraph sign?] 40.220.
+KW  - Curricula
+KW  - Elementary education
+PB  - K.K. Schulbücher Verlag
+CY  - Prague
+LA  - German
+CN  - 375.13 .K12L 1898
+SC  - Czech Republic
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - K. K. [kaiserlich und königlich] Landesschulrathes
+T1  - Lehrplan für vierclassige Volksschulen mit deutscher Unterrichtssprache im Königreiche Böhmen
+Y1  - 1898
+D1  - 1898
+SP  - 9
+N1  - Kundgemacht mit Erlass des k. k. [kaiserlich und königlich] Landesschulrathes vom 23. Februar 1898, [paragraph sign?] 40.220.
+KW  - Curricula
+KW  - Elementary education
+PB  - K.K. Schulbücher Verlag
+CY  - Prague
+LA  - German
+CN  - 375.13 .K12Le 1898
+SC  - Czech Republic
+G1  - Elementary
+ER  - 
+
+
