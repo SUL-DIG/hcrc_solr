@@ -643,7 +643,7 @@ KW  - Technical writing
 N1  - 31 pages ; 22 cm.; Note(s): Caption title./ Includes bibliographical references.; Responsibility: by G.A. Eiby. Other Titles: Writing in New Zealand.
 T2  - Post-primary school bulletin
 V1  - 14
-D1  - 3
+IS  - 3
 PB  - New Zealand Department of Education. School Publications Branch
 CY  - Wellington, New Zealand
 LA  - English
