@@ -593,27 +593,6 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Davin, Dan</field>
-<field name="author_nat">Dan Davin</field>
-<field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
-<field name="title">Katherine Mansfield in her letters</field>
-<field name="year">1959</field>
-<field name="date">1959</field>
-<field name="pages">24</field>
-<field name="keywords">Mansfield, Katherine, 1888-1923</field>
-<field name="notes">23, [1] pages : illustrations ; 22 cm; Title Subject: Correspondence (Mansfield, Katherine); Note(s): "Prepared and originally published as a post-primary school bulletin by the Department of Education. P. & S. serial no. 20."/ Includes bibliographical references (pages 23-24).; Responsibility: by D.M. Davin.</field>
-<field name="series_title">Post-primary school bulletin</field>
-<field name="series_vol">13</field>
-<field name="issue">1</field>
-<field name="publisher">New Zealand Department of Education. School Publications Branch</field>
-<field name="pub_place">Wellington, New Zealand</field>
-<field name="language">English</field>
-<field name="call_number">428.5 .D25K 1959</field>
-<field name="state_country">New Zealand</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
 <field name="author">Ellis, Joan</field>
 <field name="author_nat">Joan Ellis</field>
 <field name="corp_author">New Zealand Department of Education. School Publications Branch</field>
@@ -794,6 +773,5 @@
 <field name="call_number">371.27 .N54e 1912</field>
 <field name="state_country">New Zealand</field>
 </doc>
-
 
 </add>
