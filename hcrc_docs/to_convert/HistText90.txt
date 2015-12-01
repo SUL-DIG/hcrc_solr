@@ -1,0 +1,1523 @@
+
+TY  - BOOK
+A1  - Roldan, Jose S.
+A2  - Philippine School of Arts and Trades
+T1  - Administrative manual
+Y1  - 1959
+D1  - 1958-1959
+KW  - School management and organization
+N1  - Prepared by The Planning Committee
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.401 .P55m v. 1
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippine School of Arts and Trades
+T1  - Supervisory conferences
+Y1  - 1959
+D1  - 1959
+KW  - School management and organization
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.401 .P55m v. 2
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Datu, Galicano J.
+A2  - Philippine School of Arts and Trades
+T1  - A manual for course of study development
+Y1  - 1959
+D1  - 1959
+KW  - Curricula
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.401 .P55m v. 3
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Roldan, Jose S.
+A2  - Philippine School of Arts and Trades
+T1  - Sample instructional materials in applied electronics
+Y1  - 1959
+D1  - 1959
+KW  - Industrial arts
+KW  - Electronics
+N1  - Prepared by the electrical staff
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.401 .P55m v. 4
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Angeles, Cecilio L.
+A2  - Philippine School of Arts and Trades
+T1  - A guide to student teaching in industrial education
+Y1  - 1959
+D1  - 1959
+KW  - Industrial arts
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.401 .P55m v. 5
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Roldan, Jose S.
+A2  - Philippine School of Arts and Trades
+T1  - Faculty seminars
+Y1  - 1959
+D1  - 1958-1959
+KW  - Industrial arts
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.401 .P55m v. 6
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - New Albany-Floyd County Consolidated Schools
+T1  - This is our community, Floyd County, Indiana : for the fourth grade boys and girls of the New Albany-Floyd County Schools
+Y1  - 1961
+D1  - 04/1961
+SP  - 25
+KW  - Indiana
+KW  - United States history
+N1  - Contains a photo of the donor, Kathleen Martin, from 4th grade.
+ED  - Sixth
+PB  - New Albany-Floyd County Consolidated Schools
+CY  - New Albany, IN
+LA  - English
+CN  - 977 .F64t 1961
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A1  - Costales, Federico F.
+A1  - Olson, Delmar Walter
+T1  - Ceramics for schools and industry in developing countries
+Y1  - 1959
+D1  - 1959
+SP  - 120
+KW  - Pottery
+N1  - 120 pages illustrations 27 cm; Note(s): Includes bibliographical references.; Responsibility: [by] Federico F. Costales [and] Delmar W. Olson.
+PB  - Philippines Bureau of Public Schools
+CY  - Manila, Philippines
+LA  - English
+CN  - 745 .P54c 1959
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Hernandez, Jose M.
+A2  - College English Teachers Association of the Philippines. National Conference (3rd : 1952 : Manila, Philippines?)
+T1  - CETA proceedings : Third National Conference, November 1952
+Y1  - 1952
+D1  - 11/1952
+SP  - 134
+KW  - College teachers
+KW  - English teachers
+KW  - Philippine language speakers
+N1  - i, 134 9. ; 32 cm; Note(s): Cover title./ On cover: CETA 1950. For better standards of English./ On cover: We recognize the need for improving the standards of English in the Philippines so as to meet the requirements of effective communication needed for understanding among the citizens of a democracy and the peoples of the world.; Other Titles: Third National Conference, November 1952; 3rd National Conference, November 1952; CETA proceedings, 1952; Responsibility: Jose M. Hernandez [and others]. Author's copy, Miss A. L. Samonte, Bureau of P.S. Manila.
+PB  - College English Teachers Association of the Philippines
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.211 .C69p 1952
+SC  - Philippines
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Miller, Hugo Herman
+A2  - Philippines Bureau of Education
+T1  - Economic conditions in the Philippines, including a study of the economic and physical laws which underlie them
+Y1  - 1911
+D1  - 1911
+SP  - 11
+KW  - Philippines
+KW  - Economic conditions
+N1  - 18 pages 27 cm
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 991 .P54e 1911
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Free-hand drawing for primary grades. Grades I-II
+Y1  - 1917
+D1  - 1917
+SP  - 30
+KW  - Drawing
+N1  - 1st of 2 volumes; color frontispieces; plates 26 cm; Note(s): At head of title: The government of the Philippine Islands, Department of public instruction, Bureau of education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 741 .P54f 1917 v. 1
+SC  - Philippines
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Free-hand drawing for primary grades. Grades III-IV
+Y1  - 1917
+D1  - 1917
+SP  - 30
+KW  - Drawing
+N1  - 2nd of 2 volumes; color frontispieces; plates (some color) 26 cm; Note(s): At head of title: The government of the Philippine Islands, Department of public instruction, Bureau of education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 741 .P54f 1917 v. 2
+SC  - Philippines
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Outline in conversational English for grades 1, 2, 3, and, 4, Tayabas province
+Y1  - 1917
+D1  - 1917
+SP  - 46
+KW  - English language
+N1  - 46 pages 24 cm
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.2 .P54o 1917
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - English composition : a manual for use in Philippine public schools
+Y1  - 1917
+D1  - 1917
+SP  - 43
+KW  - English language
+KW  - Composition and exercises
+N1  - 43 pages ; 23 cm; Note(s): At head of title: Department of Public Instruction, Bureau of Education, Manila./ "146491."
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.2 .P54e 1917
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Supplementary drill exercises in language for grade V, book I
+Y1  - 1936
+D1  - 1936
+SP  - 43
+KW  - English language
+KW  - Composition and exercises
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.2 .P54s 1936 pt. 1
+SC  - Philippines
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Supplementary drill exercises in language for grade V, book II
+Y1  - 1936
+D1  - 1936
+SP  - 84
+KW  - English language
+KW  - Composition and exercises
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.2 .P54s 1936 pt. 2
+SC  - Philippines
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Supplementary drill exercises in language for grade V, book III
+Y1  - 1936
+D1  - 1936
+SP  - 111
+KW  - English language
+KW  - Composition and exercises
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.2 .P54s 1936 pt. 3
+SC  - Philippines
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Key for supplementary drill exercises in language for grade V, books I, II, and III
+Y1  - 1936
+D1  - 1936
+SP  - 48
+KW  - English language
+KW  - Composition and exercises
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.2 .P54s 1936 pt. 4
+SC  - Philippines
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in composition for first year
+Y1  - 1936
+D1  - 1936
+SP  - 92
+KW  - English language
+KW  - Composition and exercises
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.2 .P54c 1936
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Cheney, Frank W.
+A2  - Philippines Bureau of Education
+T1  - Manual in woodworking for Philippine public schools
+Y1  - 1917
+D1  - 1917
+SP  - 120
+KW  - Woodwork (Manual training)
+N1  - 120 pages illustrations; plates, diagrams 23 cm.; Note(s): At head of title: The Government of the Philippine Islands. Department of Public Instruction .../ On cover: By Frank W. Cheney.
+T2  - Philippine craftsman reprint series
+V1  - 2
+ED  - 2nd
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 680.4 .P54m 1917
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Music for primary grades
+Y1  - 1917
+D1  - 1917
+SP  - 40
+KW  - School music
+N1  - 40 pages 23 cm; Note(s): At head of title: The government of the Philippine Islands. Department of public instruction. Bureau of education./ "This course of study was first published in 1915"-Page 3.; Other Titles: At head of title:; Government of the Philippine Islands. Department of public instruction. Bureau of education
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 780 .P54m 1917
+SC  - Philippines
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Egbert, Nelly Young
+A2  - Philippines Bureau of Education
+T1  - List of books in the American Circulating Library of Manila
+Y1  - 1907
+D1  - 1907
+SP  - 256
+KW  - Bibliography
+KW  - Library materials
+N1  - 256 pages 23 cm; Responsibility: Compiled by Nelly Young Egbert, Librarian. 
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 010 .P54L 1907
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Philippine nautical school manual
+Y1  - 1918
+D1  - 1918
+SP  - 26
+KW  - Nautical training-schools
+N1  - 26 pages including forms 23 cm; Note(s): At head of title: The government of the Philippine Islands. Department of public instruction. Bureau of education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.43 .P54p 1918
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Agricultural clubs for Filipino boys and girls : organization pamphlet
+Y1  - 1917
+D1  - 1917
+SP  - 32
+KW  - Agricultural education
+T2  - Philippines Bureau of Education Circular 
+V1  - 64
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 630 .P54a 1917
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Supplementary problems for classes in agriculture. Grades VI and VII
+Y1  - 1917
+D1  - 1917
+SP  - 79
+KW  - Arithmetic
+N1  - 79 pages 23 cm; Genre/Form: Problems and exercises. Textbooks.; Note(s): At head of title: Bureau of education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 511.2 .P54s 1917
+SC  - Philippines
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Earnest, W. W.
+T1  - A war catechism : questions and answers concerning the great World war, Its casues and progress, our country's part in It, our duties as citizens
+Y1  - 1918
+D1  - 1918
+SP  - 32
+KW  - World War I
+KW  - Civics
+N1  - 32 pages ; 23 cm; Responsibility: W. W. Earnest, Superintendent of Schools, Champaign, Illinois.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 940.93 .E12w 1918
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Civics, hygiene, and sanitation for use in grades I to VI, inclusive : a manual for teachers
+Y1  - 1919
+D1  - 1919
+SP  - 93
+KW  - Civics
+KW  - Health education
+N1  - ill., diagrs. ; 23 cm.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 613 .P54e 1919
+SC  - Philippines
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study for primary grades with suggestions to teachers
+Y1  - 1918
+D1  - 1918
+SP  - 138
+KW  - Curricula
+KW  - Elementary education
+N1  - 138 pages 23 cm; Note(s): At head of title: The Government of the Philippine Islands. Department of public instruction ...
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 375.13 .P54c 1918
+SC  - Philippines
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Butts, Susie M.
+A2  - Philippines Bureau of Education
+T1  - Housekeeping, a textbook for girls in the public intermediate schools of the Philippines
+Y1  - 1919
+D1  - 1919
+SP  - 230
+KW  - Home economics
+N1  - 230 pages frontispiece, illustrations 23 cm; Genre/Form: Textbooks.; Note(s): At head of title: The government of the Philippine Islands. Department of Public Instruction. Bureau of Education.; Responsibility: by Susie M. Butts.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 640 .P54h 1919
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Cutler, Horace E.
+A1  - Atkins, Hiram Buffington
+A2  - Philippines Bureau of Education
+T1  - Embroidery, a manual for use in Philippine public schools
+Y1  - 1919
+D1  - 1919
+SP  - 96
+KW  - Sewing
+N1  - 96 pages illustrations 23 cm; Note(s): At head of title: The government of the Philippine Islands. Department of public instruction. Bureau of education./ "Prepared by Mr. Horace E. Cutler and Mr. H. Buffington Atkins."--Page 3.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.364 .P54e 1919
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - England, Frederick O.
+A2  - Philippines Bureau of Education
+T1  - Physical education: a manual for teachers
+Y1  - 1919
+D1  - 1919
+SP  - 374
+KW  - Physical education and training
+N1  - 374 pages illustrations (including music) 23 cm; Note(s): At head of title: The government of the Philippine Islands. Department of public instruction. Bureau of education.; Responsibility: by Frederick O. England. A manual for teachers.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 613.4 .P54p 1919
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Prose selections
+Y1  - 1920
+D1  - 1920
+SP  - 110
+KW  - English literature
+N1  - 110 pages portraits 23 cm; Note(s): At head of title: The government of the Philippine Islands. Department of public instruction. Bureau of education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.5 .P54p 1920
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Catalog of handwoven products of the Philippine public schools
+Y1  - 1920
+D1  - 1920
+SP  - 45
+KW  - Basket making
+KW  - Weaving
+N1  - 45 pages color frontispiece, illustrations 26 cm; Note(s): At head of title: The Government of the Philippine Islands, Department of Public Instruction, Bureau of Education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 745 .P54c 1920
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study for intermediate grades, with suggestions to teachers
+Y1  - 1917
+D1  - 1917
+SP  - 218
+KW  - Curricula
+KW  - Philippines
+N1  - 218 pages diagrams 24 cm; Note(s): At head of title: The Government of the Philippine Islands, Department of public instruction, Bureau of education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 375.14 .P54c 1917
+SC  - Philippines
+G1  - Middle school
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Bantug, José P.
+A2  - Philippines Bureau of Education
+A2  - Philippine Health Service
+T1  - Health; a manual for teachers
+Y1  - 1928
+D1  - 1928
+SP  - 55
+KW  - School hygiene
+KW  - Health education
+N1  - 55 pages 23 cm; Note(s): At head of title: The Government of the Philippine Islands. Department of public instruction./ Dr. Jose P. Bantug, chairman./ Includes bibliographical references (pages 51-54).; Responsibility: Pub. concurrently by the Bureau of education and the Philippine health service.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 613 .P54h 1928
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Keenan, Sarah Isabel
+T1  - Our brown brother
+Y1  - 1924
+D1  - 1924
+SP  - 30
+KW  - Philippines
+N1  - 30 pages ; 24 cm; Responsibility: by Sarah Isabel Keenan (an American teacher in the Philippines).
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 991 .P54o 1924
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in phonics for primary grades : grades I, II, III, and IV
+Y1  - 1932
+D1  - 1932
+SP  - 334
+KW  - Reading
+KW  - English language
+KW  - Pronunciation
+N1  - vi, 334 [i.e. 234] pages ; 23 cm; Note(s): At head of title: The government of the Philippine islands. Dept. of public instruction. Bureau of education./ Page 234 incorrectly numbered 334.; Responsibility: the Government of the Philippine Islands, Dept. of Public Instruction, Bureau of Education.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.4 .P54c 1932
+SC  - Philippines
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Tentative objectives for the study of embroidery and other fine needlework, tatting, crochet in the intermediate grades
+Y1  - 1932
+D1  - 1932
+SP  - 70
+KW  - Sewing
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.364 .P54t 1932
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Outline of a course in agricultural economics
+Y1  - 1930
+D1  - 1930
+SP  - 28
+KW  - Agricultural education
+N1  - Revised April 1, 1930
+ED  - Revised
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 630 .P54o 1930
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Tentative courses of study in woodworking. Course A for the third year, Course B for the fourth year
+Y1  - 1933
+D1  - 1933
+SP  - 102
+KW  - Woodwork (Manual training)
+N1  - Note(s): Reproduction: Mimeographed.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 680.4 .P54t 1933
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Tentative courses of study in machine shop and general metal work. Course A for the third year, Course B for the fourth year
+Y1  - 1933
+D1  - 1933
+SP  - 102
+KW  - Machine-shop practice
+KW  - Metal-work
+N1  - Note(s): Mimeographed.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 680.3 .P54t 1933
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in music for primary grades
+Y1  - 1933
+D1  - 1933
+SP  - 77
+KW  - Music
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 780 .P54c 1933
+SC  - Philippines
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Courses of study in horticulture; Course A for the third year and Course B for the fourth year
+Y1  - 1933
+D1  - 1933
+SP  - 141
+KW  - Horticulture
+N1  - Note(s): Mimeographed.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 630 .P54c 1933
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Tentative courses of study in poultry and swine; Course A for the third year and Course B for the fourth year
+Y1  - 1933
+D1  - 1933
+SP  - 120
+KW  - Poultry
+KW  - Swine
+N1  - Note(s): Mimeographed.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 636 .P54t 1933
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in retail merchandising: course A and course B
+Y1  - 1933
+D1  - 1933
+SP  - 167
+KW  - Retail trade
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 658 .P54c 1933
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in retail merchandising
+Y1  - 1940
+D1  - 1940
+SP  - 459
+KW  - Retail trade
+N1  - Course I. for the third year, Course II. for the fourth year.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 658 .P54c 1940
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in industrial arts instruction for normal schools
+Y1  - 1934
+D1  - 1934
+SP  - 95
+KW  - Industrial arts
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 680 .P54c 1934
+SC  - Philippines
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Elementary science references: community assembly lectures
+Y1  - 1934
+D1  - 1934
+SP  - 154
+KW  - Science
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 519 .P54e 1934
+SC  - Philippines
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in gardening and elementary science for grade IV
+Y1  - 1934
+D1  - 1934
+SP  - 128
+KW  - Science
+KW  - Gardening
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 580.5 .P54c 1934
+SC  - Philippines
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in first year algebra
+Y1  - 1934
+D1  - 1934
+SP  - 205
+KW  - Algebra
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 512 .P54c 1934
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in advanced algebra
+Y1  - 1936
+D1  - 1936
+SP  - 108
+KW  - Algebra
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 512 .P54c 1936
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Tentative courses of study in automobile mechanics. Course A for the third year, Course B for the fourth year
+Y1  - 1933
+D1  - 1933
+SP  - 154
+KW  - Automobiles mechanics
+N1  - Note(s): Reproduction: Mimeographed.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 580.3 .P54ta 1933
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Courses of study in agronomy; Course A for the third year, and Course B for the fourth year
+Y1  - 1933
+D1  - 1933
+SP  - 178
+KW  - Gardening
+KW  - Agriculture
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 630.7 .P54c 1933
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Courses of study in typewriting and stenography for secondary schools
+Y1  - 1935
+D1  - 1935
+SP  - 81
+KW  - Typewriting
+KW  - Shorthand
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 652 .P54c 1935
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Tentative course of study in electricity
+Y1  - 1935
+D1  - 1935
+SP  - 41
+KW  - Electricity
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 537 .P54t 1935
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Tentative course in Spanish for the third and fourth year
+Y1  - 1933
+D1  - 1933
+SP  - 102
+KW  - Spanish language
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 428.211 .P54ts 1933
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in geography for grade V
+Y1  - 1934
+D1  - 1934
+SP  - 162
+KW  - Geography
+N1  - 162 pages ; 23 cm
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 910 .P54c 1934
+SC  - Philippines
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in geography for grade VI
+Y1  - 1935
+D1  - 1935
+SP  - 190
+KW  - Geography
+N1  - 190 pages ; 23 cm
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 910 .P54c 1935
+SC  - Philippines
+G1  - Elementary
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in Philippine history and government for the fourth year
+Y1  - 1935
+D1  - 1935
+SP  - 86
+KW  - Politics and government
+KW  - History
+KW  - Philippines
+N1  - 86 pages ; 23 cm.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 991 .P54c 1935 12th
+SC  - Philippines
+G1  - High school
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in Philippine history and government for grade VII
+Y1  - 1935
+D1  - 1935
+SP  - 88
+KW  - Politics and government
+KW  - History
+KW  - Philippines
+N1  - 88 pages ; 23 cm.
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 991 .P54c 1935 7th
+SC  - Philippines
+G1  - Middle school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in Oriental history for the third year
+Y1  - 1936
+D1  - 1936
+SP  - 69
+KW  - Politics and government
+KW  - History
+KW  - Asia
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 950 .P54c 1936
+SC  - Philippines
+G1  - High school
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in animal husbandry including animal and human ecology for the second year
+Y1  - 1937
+D1  - 1937
+SP  - 195
+KW  - Animal culture
+KW  - Human ecology
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 636 .P54c 1937
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in biology
+Y1  - 1937
+D1  - 1937
+SP  - 180
+KW  - Biology
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 570 .P54c 1937
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in Philippine social life
+Y1  - 1937
+D1  - 1937
+SP  - 303
+KW  - Social life and customs
+KW  - Philippines
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 991 .P54cp 1937
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in character for the second year
+Y1  - 1939
+D1  - 1939
+SP  - 149
+KW  - Character education
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 377.2 .P54c 1939 2nd year
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in character for the third year
+Y1  - 1939
+D1  - 1939
+SP  - 165
+KW  - Character education
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 377.2 .P54c 1939 3rd year
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in character for the fourth year
+Y1  - 1939
+D1  - 1939
+SP  - 167
+KW  - Character education
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 377.2 .P54c 1939 4th year
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Suggestions for teaching character for the fourth year
+Y1  - 1939
+D1  - 1939
+SP  - 46
+KW  - Character education
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 377.2 .P54s 1939
+SC  - Philippines
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Social studies in the intermediate grades: a course of study
+Y1  - 1946
+D1  - 1946
+SP  - 142
+KW  - Social sciences
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.33 .P55s
+SC  - Philippines
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Education
+T1  - Course of study in arithmetic for the intermediate grades
+Y1  - 1947
+D1  - 1947
+SP  - 50
+KW  - Arithmetic
+PB  - Philippines Bureau of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 511.2 .P55c
+SC  - Philippines
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philippine Association of School Superintendents
+T1  - Home economics in the community-school program
+Y1  - 1954
+D1  - 03/1954
+SP  - 31
+KW  - Home economics
+T2  - Philippine Association of School Superintendents Quarterly Bulletin
+V1  - 3
+IS  - 3
+PB  - Philippine Association of School Superintendents
+CY  - Manila, Philippines
+LA  - English
+CN  - 640 .P55h
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Department of Education
+T1  - Objectives in elementary home economics: food, grades V and VI
+Y1  - 1948
+D1  - 1948
+SP  - 32
+KW  - Home economics
+KW  - Food
+PB  - Philippines Department of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 641 .P55o
+SC  - Philippines
+G1  - Elementary
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Department of Education
+T1  - Agenda for curriculum development conference, July 15, 1953
+Y1  - 1953
+D1  - 07/1953
+KW  - Curricula
+KW  - Elementary education
+PB  - Philippines Department of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 375.13 .P55a 1953
+SC  - Philippines
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Public Schools
+T1  - Developing and enriching the local curriculum for increased agricultural production
+Y1  - 1955
+D1  - 01/1955
+SP  - 90
+KW  - Agricultural education
+KW  - Curricula
+KW  - Curriculum planning
+N1  - v; ges : illustrations, maps, music ; 26 cm; Genre/Form: Conference papers and proceedings.; Note(s): Legaspi, Albay; January 3-15, 1955.; Responsibility: prepared by the delegates from Albay.
+T2  - Regional Curriculum Development Workshop (1955 : Legaspi city, Philippines)
+PB  - Bureau of Public Schools, Department of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 630 .P54d 1955
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Pineda,Juliana Cruz
+T1  - Ang batang nag-aaral
+Y1  - 1947
+D1  - 1947
+SP  - 102
+KW  - Readers
+KW  - Tagalog language
+N1  - illustrations 21 cm; Genre/Form: Readers.; Note(s): At head of title: A Primary reader.
+PB  - Philippine Book Company
+CY  - Manila, Philippines
+LA  - Tagalog
+CN  - 490 .P54a
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Aguilar, José V.
+T1  - This is our community school
+Y1  - 1951
+D1  - 1951
+SP  - 137
+KW  - Philippines
+KW  - Education
+N1  - viii; 21 cm; Responsibility: by Jose V. Aguilar.
+PB  - Bookman, Inc
+CY  - Manila, Philippines
+LA  - English
+CN  - 375.81 .A30
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Bernardino, Vitaliano
+A1  - Fresnoza, Florencio
+T1  - Integrative teaching for Philippine schools
+Y1  - 1952
+D1  - 1952
+SP  - 307
+KW  - Curricula
+KW  - Education
+KW  - Philippines
+N1  - 307 pages illustrations 23 cm; Responsibility: by Vitaliano Bernardino and Florencio Fresnoza.
+PB  - Abiva Publishing House
+CY  - Manila, Philippines
+LA  - English
+CN  - 375.81 .P54i 1952
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Solís, Miguela M.
+T1  - Teaching the Filipino child to read
+Y1  - 1955
+D1  - 1955
+SP  - 176
+KW  - Reading
+KW  - Elementary education
+KW  - Philippines
+N1  - 176 pages illustrations 22 cm; Responsibility: by Miguela M. Solís, Jesús F. Barroso [and] Josefina R. Navarro.
+PB  - Eagle Publishing Company
+CY  - Quezon City, Philippines
+LA  - English
+CN  - 428.4 .S685
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Institute of National Language (Philippines)
+T1  - A national language--English vocabulary
+Y1  - 1940
+D1  - 1940
+SP  - 180
+KW  - Tagalog language
+KW  - Dictionaries
+N1  - 180 pages 19 cm; Genre/Form: Dictionaries.; Responsibility: Published by the Institute of National Language, commonwealth of the Philippines.
+ED  - First school edition
+PB  - Bureau of Printing
+CY  - Manila, Philippines
+LA  - Tagalog
+LA  - English
+CN  - 499 .N54n
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Public Schools
+T1  - The curriculum quarterly
+Y1  - 1956
+D1  - 03/1956
+SP  - 53
+KW  - Curricula
+V1  - 1
+IS  - 3
+PB  - Philippines Bureau of Public Schools
+CY  - Manila, Philippines
+LA  - English
+CN  - 375 .P54c 1956
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Roldan, Jose S.
+A1  - Vergara, Jose R.
+T1  - Student teaching in industrial education
+Y1  - 1956
+D1  - 1956
+SP  - 37
+KW  - Industrial arts
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 680 .R70s 1956
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Morantte, P. C.
+T1  - Aviation education pamphlets
+Y1  - 1948
+D1  - 1948
+KW  - Aeronautics
+PB  - Philippines Civil Aeronautics Administration
+CY  - Manila, Philippines
+LA  - English
+CN  - 521.9 .P54a 1948
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Public Schools
+T1  - A course of study in clothing and textiles for grades V and VI
+Y1  - 1948
+D1  - 1948
+SP  - 55
+KW  - Clothing and dress
+KW  - Textile fabrics
+PB  - Bureau of Public Schools, Department of Education
+CY  - Manila, Philippines
+LA  - English
+CN  - 646 .P54c 1948
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A1  - Vento, Charles J.
+A2  - National Media Production Center
+T1  - Let charts help
+SP  - 48
+KW  - Instructional materials
+KW  - Posters in education
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.3095 .N27L
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - National Media Production Center
+T1  - You can earn more money in coffee raising
+KW  - Coffee plantations
+PB  - National Media Producation Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 633 .N27y
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - National Media Production Center
+T1  - Help destroy flies : they are a menace to health
+KW  - Pest control
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 595.7 .N27h
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - National Media Production Center
+T1  - Grow vegetables in your home yard
+KW  - Gardening
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 580.5 .N27g
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - National Media Production Center
+T1  - Bringing up our children
+KW  - Child rearing
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 649 .N27b
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - National Media Production Center
+T1  - Guide to raising fruit trees
+KW  - Fruit-culture
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 634 .N27g
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - National Media Production Center
+T1  - 12 fundamental health rules for everyone
+KW  - Health and hygiene
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 613 .N27t
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - National Media Production Center
+T1  - Tuberculosis can be cured
+KW  - Health and hygiene
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 613 .N27tb
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippine Department of Agriculture
+T1  - How to make a bamboo washing board
+KW  - Laundry
+PB  - National Media Production Center
+CY  - Manila, Philippines
+LA  - English
+CN  - 648 .P54h
+SC  - Philippines
+ER  - 
+
+TY  - Book
+A2  - Philippine Association of School Superintendents
+T1  - Instruction in the vernacular in the Philippine public schools
+Y1  - 1953
+D1  - 03/1953
+SP  - 39
+KW  - Language and education
+T2  - Philippine Association of School Superintendents Quarterly bulletin
+V1  - 2
+IS  - 3
+PB  - Philippine Association of School Superintendents
+CY  - Manila, Philippines
+LA  - English
+CN  - 371.34 .P54i 1953
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippines Bureau of Public Schools
+T1  - The community school program
+Y1  - 1954
+D1  - 09/1954
+SP  - 17
+KW  - Rural schools
+PB  - Philippines Bureau of Public Schools
+CY  - Manila, Philippines
+LA  - English
+CN  - 375.84 .P54c 1954
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippine Tourist and Travel Association
+T1  - Information and data on things of interest to Manila visitors
+KW  - Philippines
+PB  - Philippine Tourist and Travel Association
+CY  - Manila, Philippines
+LA  - English
+CN  - 991 .P54i
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Cebu Normal School, Philippines
+T1  - 1954 interscholastic meet; souvenir handbook, Cebu City
+Y1  - 1954
+D2  - 02/1954
+SP  - 111
+KW  - Philippines
+PB  - Cebu Normal School
+CY  - Cebu City, Philippines
+LA  - English
+CN  - 375.83 .P54n 1954
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Philippine School of Arts and Trades
+T1  - Advanced administration and supervision: a souvenir report 
+Y1  - 1957
+D1  - Summer, 1957
+SP  - 32
+KW  - School management and organization
+N1  - From the class of Dr. Claude H. Ewing and Mr. Conrado de los Reyes.
+PB  - Philippine School of Arts and Trades
+CY  - Manila, Philippines
+LA  - English
+CN  - 379.04 .P54 1957
+SC  - Philippines
+ER  - 
+
+
+
