@@ -1494,7 +1494,7 @@ TY  - BOOK
 A2  - Cebu Normal School, Philippines
 T1  - 1954 interscholastic meet; souvenir handbook, Cebu City
 Y1  - 1954
-D2  - 02/1954
+D1  - 02/1954
 SP  - 111
 KW  - Philippines
 PB  - Cebu Normal School
