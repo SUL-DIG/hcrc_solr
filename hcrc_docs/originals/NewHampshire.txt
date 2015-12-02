@@ -40,8 +40,7 @@ Y1  - 1956
 D1  - 04/1956
 SP  - 99
 KW  - School management and organization
-KW  - New Hampshire
-N1  - 99 pages : illustrations ; 22 x 29 cm; Responsibility: a joint project of CPEA in New England, New Hampshire State Department of Education, and New Hampshire Association of School Superintendents. ; Shelved in Cubberley Library Reading Room
+N1  - 99 pages : illustrations ; 22 x 29 cm; Responsibility: a joint project of CPEA in New England, New Hampshire State Department of Education, and New Hampshire Association of School Superintendents.; Shelved in Cubberley Library Reading Room
 PB  - New Hampshire Association of School Superintendents
 CY  - Concord, NH
 LA  - English
@@ -63,6 +62,9 @@ CY  - Concord, NH
 LA  - English
 CN  - 379.74 .N12 1924
 SC  - New Hampshire
+G1  - Middle school
+G2  - 7th
+G2  - 8th
 ER  -
 
 TY  - BOOK
@@ -82,7 +84,7 @@ SC  - New Hampshire
 ER  -
 
 TY  - BOOK
-A2  - New Hampshire State  Board of Education
+A2  - New Hampshire State Board of Education
 T1  - Program of studies recommended for the elementary schools of New Hampshire
 Y1  - 1921
 D1  - 1921
@@ -146,7 +148,7 @@ D1  - 1915?
 SP  - 6
 KW  - Agricultural education
 N1  - Shelved in Cubberley Library Reading Room
-T2  - New Hampshire State Department of Public Instruction institute circular
+T2  - New Hampshire State Department of Public Instruction Institute circular
 V1  - 6
 PB  - New Hampshire State Department of Public Instruction
 LA  - English
@@ -162,7 +164,7 @@ D1  - 1914?
 SP  - 14
 KW  - Vegetable gardening
 N1  - Shelved in Cubberley Library Reading Room
-T2  - New Hampshire State Department of Public Instruction institute circular
+T2  - New Hampshire State Department of Public Instruction Institute circular
 V1  - 17
 PB  - New Hampshire State Department of Public Instruction
 LA  - English
@@ -177,7 +179,7 @@ T1  - A model rural school
 SP  - 7
 KW  - Rural education
 N1  - Shelved in Cubberley Library Reading Room
-T2  - New Hampshire State Department of Public Instruction institute circular
+T2  - New Hampshire State Department of Public Instruction Institute circular
 PB  - New Hampshire State Department of Public Instruction
 LA  - English
 CN  - 379.74 .N12
@@ -726,4 +728,4 @@ CY  - Concord, NH
 LA  - English
 CN  - 379.74 .N12 1971-72
 SC  - New Hampshire
-ER  -
+ER 
