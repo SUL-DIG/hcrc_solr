@@ -1,0 +1,630 @@
+
+
+
+
+TY  - BOOK
+A1  - Feliciano Mendoza, Ester
+T1  - Arco Iris
+Y1  - 1951
+D1  - 12/1951
+KW  - Poetry
+N1  - 51 pages : illustrations, music ; 28 cm.; Note(s): Poems and short stories.; Responsibility: Ester Feliciano Mendoza.
+T2  - Lecturas suplementarias
+V1  - 4
+IS  - 1
+PB  - Consejo Superior de Enseñanza de Puerto Rico, Universidad de Puerto Rico
+CY  - Río Piedras, Puerto Rico
+LA  - Spanish
+CN  - 468.5 .P97a v. 1
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Maisonet Crespo, Luis A.
+T1  - Arte para la escuela elemental
+Y1  - 1955
+D1  - 1955
+SP  - 158
+KW  - Art
+N1  - ix; illustrations 28 cm.; Note(s): Includes bibliographical references (page 158).
+T2  - Departamento de Instrucción Pública. Publicaciones
+V1  - 4
+IS  - 92
+PB  - Editorial del Departamento de Instrucción Pública, Estado Libre Asociado de Puerto Rico
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 740 .P97a
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+T1  - Plan de la campana para reducir el analfabetismo en Puerto Rico
+Y1  - 1953
+D1  - 1953
+KW  - Literacy
+T2  - Departamento de Instrucción Pública. Publicaciones
+V1  - 4
+IS  - 61
+PB  - Editorial del Departamento de Instrucción Pública, Estado Libre Asociado de Puerto Rico
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 374 .P97p
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Education
+T1  - Interpretación y sintesis del programa de problemas de la comunidad; escuela elemental
+Y1  - 1954
+D1  - 04/1954
+SP  - 44
+KW  - Community life
+T2  - Puerto Rico. Dept. of Education. Publicaciones
+V1  - 4
+IS  - 78
+PB  - Departamento de instrucción publica
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 323 .P97i
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Collazo, Francisco
+A2  - Puerto Rico Department of Education
+T1  - Programa de la segunda unidad rural
+Y1  - 1953
+D1  - 03/1953
+SP  - 31EP  - 31
+KW  - Rural schools
+N1  - charts.; Note(s): Memorandum no. 47 of March 20, 1953 signed: Francisco Collazo.
+T2  - Departamento de Instrucción Pública. Publications
+V1  - 4
+IS  - 40
+PB  - Editorial del Departamento de Instrucción Pública
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 375.15 .P97ps
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Education
+T1  - Puerto Rico: su ambiente geográfico; manual de geografía de Puerto Rico para séptimo grado preparado en la Sección de Estudios Sociales del Departamento de Instrucción Pública
+Y1  - 1955
+D1  - 1955
+SP  - 185
+KW  - Travel
+KW  - Puerto Rico
+N1  - xiv; illustrations, maps 28 cm.; Note(s): Includes bibliographical references.
+T2  - Puerto Rico.; Department of Education.; Publicaciónes
+V1  - 4
+IS  - 94
+PB  - Departamento de instrucción publica
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 972.9 .P97p
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Education
+T1  - Programa de educación secundaria
+Y1  - 1952
+D1  - 1952
+SP  - 181
+KW  - Secondary education
+N1  - 181 pages ; 25 cm; Note(s): Includes bibliographical references.; Responsibility: División Técnica de Departamento de Instrucción.
+PB  - Editorial del Departamento de Instrucción
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 375.15 .P97pe 1952
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Círculo de Renovación del Currículo Escolar de Puerto Rico
+T1  - La salud mental en la formación del niño : ponencias de un foro aupiciado por el Círculo de Renovación del Currículo Escolar de Puerto Rico, 1951
+Y1  - 1951
+D1  - 1951
+SP  - 52
+KW  - Child mental health
+KW  - Child development
+AB  - La salud mental en la formación del niño / Luis Manuel Morales -- El hogar como factor determinante en la formación del niño / Josefita Monserrate de Sellés -- La comunidad como factor determinante en la formación del niño / Rosita Cesaní -- Decálogo del maestro como higienista mental / Efraín Sánchez Hidaldo -- Problemas de conducta del niño escolar / Rita Acacia Ortiz -- La importancia del método / Angeles Cebollero -- Los niños hablan / Ismael Rodíguez Bou -- Recomendaciones de los grupos que discutieron las ponencias.
+N1  - 52 pages ; 21 cm; Note(s): Title form cover./ Includes bibliographical references.
+T2  - Foro sobre salud mental (1951 : San Juan, P.R.)
+PB  - Editorial del Departamento de Instrucción
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 371.9 .P97s
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Feliciano Mendoza, Ester
+A1  - Rodríguez Bou, Ismael
+A1  - Laguerre, Enrique A.
+A2  - Universidad de Puerto Rico. Consejo Superior de Enseñanza
+T1  - Arco Iris : suplemento para el maestro
+Y1  - 1949
+D1  - 1949
+SP  - 17
+KW  - Poetry
+KW  - Short stories
+N1  - 17 p. ; 28 cm.; Note(s): At head of title: "Trabajos de investigaciones auspiciadas por el Consejo Superior de Enseñanza bajo la dirección de Ismael Rodríguez Bou."; Responsibility: Ester Feliciano Mendoza y Enrique A. Laguerre.
+T2  - Lecturas suplementarias
+V1  - 4
+IS  - 2
+PB  - Editorial del Departamento de Instrucción
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 468.5 .P97a v. 2
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Rodríguez Bou, Ismael
+T1  - Manual para la enseñanza de lectura y escritura a adultos analfabetos
+Y1  - 1953
+D1  - 1953
+SP  - 39
+KW  - Adult education
+KW  - Literacy
+N1  - 39 p. ; 28 cm.; Note(s): At head of title: "Trabajos de investigacion auspiciad0s por el Consejo Superior de Enseñanza bajo la dirección de Ismael Rodríguez Bou."; Responsibility: Ester Feliciano Mendoza y Enrique A. Laguerre.
+V1  - 4
+IS  - 49
+PB  - Editorial del Departamento de Instrucción
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 374 .P97m
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Nacional Education Association
+A2  - American Association of School Administrators
+T1  - Valores morales y espirituales en las escuelas públicas
+Y1  - 1952
+D1  - 1952
+SP  - 112
+KW  - Moral education
+N1  - "La publicación española se ha hecho por recomendación del Comité de Etica y Relaciones Humanas del Departamento de Instrucción de Puerto rico, con la debida autorización de los editores originales."
+PB  - Editorial del Departamento de Instrucción
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 377.2 .P97v
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Education
+T1  - Lecturas para sexto grado
+Y1  - 1957
+D1  - 1957
+SP  - 63
+KW  - Readers
+KW  - Spanish language
+N1  - 63 pages illustrations 20 cm; Genre/Form: Readers.; Responsibility: colección del material de lectura publicado en el Suplemento del semanario Escuela del Departamento de Instrucción Pública del Estado Libre Asociado de Puerto Rico.
+PB  - Editorial del Departamento de Instrucción Pública
+CY  - Santurce, Puerto Rico
+LA  - Spanish
+CN  - 468.5 .P97L v. 2
+SC  - Puerto Rico
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Joint Committee on School Health
+A2  - Puerto Rico Department of Education
+T1  - Normas para el programa de salud escolar en Puerto Rico
+Y1  - 1951
+D1  - 1951
+SP  - 50
+KW  - School hygiene
+KW  - Puerto Rico
+N1  - 50 pages : illustrations.; Note(s): Previous ed. published under title: Normas para el programa de higiene escolar de Puerto Rico.; Other Titles: Normas para el programa de higiene escolar de Puerto Rico.; Responsibility: preparado por el Comité Interdepartamental de Higiene Escolar.
+T2  - Publicaciones / Departamento de Instrucción de P.R.
+V1  - 4
+IS  - 9
+PB  - Editorial del Departamento de Instrucción Pública
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 613 .P97n 1951
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Rodriguez Bou, Ismael
+T1  - La composición escrita en la escuela elemental; estudio de temas y errores más frecuentes
+Y1  - 1949
+D1  - 1949
+SP  - 64
+KW  - Spanish language
+N1  - 64 pages 24 cm.; Note(s): Includes bibliographical references (pages 61-64).
+T2  - Consejo Superior de Enseñanza de Puerto Rico. Pubblicaciones [sic] pedagógicas
+V1  - 2
+IS  - 8
+PB  - Universidad de Puerto Rico
+CY  - Río Piedras. Puerto Rico
+LA  - Spanish
+CN  - 460 .P97c 1949
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Colorado, Antonio J.
+A1  - de Frondizi, Josefina B
+A1  - de Guzmán, Gloria Virella
+A1  - de Garcia, Elena Ayala
+A2  - Puerto Rico Department of Education
+T1  - Vidas heroicas; libros de biografías para los grados superiores de la escuela elemental
+Y1  - 1955
+D1  - 1955
+SP  - 165
+KW  - Spanish language
+KW  - Readers
+KW  - Biography
+N1  - portraits 21 cm; Genre/Form: Juvenile works. Readers.; Responsibility: [Colaboraron en este libro: Antonio J. Colorado, et. al.
+PB  - Departamento de Instrucción Pública
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 460 .P97v 1955
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Education
+T1  - Feliz viaje; preparemos a nuestros ninõs para la escuela. Folleto para los padres cuyos hijos estén por ingresar a primer grado
+Y1  - 1954
+D1  - 1954
+SP  - 29
+KW  - Readiness for school
+N1  - 29 pages illustrations 22 cm; Note(s): "Serie III, no. LX."/ Translation of Happy Journey.
+V1  - 3
+IS  - 60
+PB  - Editorial del Departamento de Instrucción Pública
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 370.21 .P97f
+SC  - Puerto Rico
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - McCroskey, Ward C.
+A2  - Puerto Rico Department of Education
+T1  - Course of study for the high schools of Porto Rico
+Y1  - 1918
+D1  - 1918
+SP  - 114
+KW  - Curricula
+KW  - High schools
+N1  - 114 pages 23 cm.; Note(s): At head of title: Government of Porto Rico. Department of education ...; Responsibility: ed. by Ward C. McCroskey
+T2  - Puerto Rico Department of Education Bulletin
+V1  - 4
+IS  - 19
+PB  - Bureau of supplies, printing and transportation
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+LA  - English
+CN  - 375.15 .P97c 1918
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Post, Emily
+T1  - La etiqueta automovilística de Emily Post
+Y1  - 1955
+D1  - 05/1955
+SP  - 48
+KW  - Etiquette
+KW  - Traffic safety
+N1  - 48 pages : illustrations ; 12 cm; Responsibility: Emily Post ; traducido y preparado por Departamento de Obras Públicas.
+PB  - Editorial del Departamento de Instrucción Publica
+CY  - San Juan, Puerto Rico
+LA  - Spanish
+CN  - 371.76 .P97e 1955
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Puerto Rico. Department of Labor. Migration Division
+T1  - Songs and games from Puerto Rico
+Y1  - 1957
+D1  - 1957
+KW  - Music
+KW  - Games
+N1  - 1 folded leaf : illustrations ; 22 cm
+PB  - Commonwealth of Puerto Rico. Department of Labor, Migration Division
+CY  - New York, NY
+LA  - English
+LA  - Spanish
+CN  - 780 .P97s 1957
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Labor. Migration Division
+T1  - The migration division of the Department of Labor, Commonwealth of Puerto Rico : policy, functions, objectives
+Y1  - 1957
+D1  - 1957
+KW  - Puerto Rico
+N1  - 1 folded leaf ; 23 cm
+PB  - Commonwealth of Puerto Rico, Migration Division, Dept. of Labor
+CY  - New York, NY
+LA  - English
+CN  - 972.9 .P97m 1957
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Labor. Migration Division
+T1  - Puerto Rico's operation bootstrap
+Y1  - 1957
+D1  - 11/1957
+KW  - Puerto Rico
+N1  - 1 folded leaf : illustrations ; 22 cm
+PB  - Commonwealth of Puerto Rico, Department of Labor, Migration Division
+CY  - New York, NY
+LA  - English
+CN  - 972.9 .P97p 1957
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Education
+T1  - Public school system of Puerto Rico : general information
+Y1  - 1957
+D1  - 1957
+SP  - 10
+KW  - Public schools
+KW  - Puerto Rico
+N1  - 10 pages : illustrations ; 22 cm.; Note(s): Cover title.; Responsibility: Commonwealth of Puerto Rico, Department of Education Press.
+T2  - Puerto Rico Department of Education [Publication]
+V1  - 4
+IS  - 122
+PB  - Puerto Rico Department of Education
+CY  - San Juan, Puerto Rico
+LA  - English
+CN  - 375.81 .P97p 1957
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A2  - Puerto Rico Department of Labor. Migration Division
+T1  - The world's newest commonwealth: Puerto Rico
+Y1  - 1957
+D1  - 11/1957
+KW  - Puerto Rico
+N1  - 1 folded sheet. photographs, maps, sketches; 22 cm..
+PB  - Puerto Rico. Department of Labor. Migration Division
+CY  - New York, NY
+LA  - English
+CN  - 972.9 .P97w 1957
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Sayers, Raymond S.
+A2  - Puerto Rico Department of Labor. Migration Division
+T1  - New York teachers in Puerto Rican schools
+Y1  - 1957
+D1  - 11/1957
+KW  - Teachers
+KW  - Puerto Rico
+PB  - Puerto Rico. Department of Labor. Migration Division
+CY  - New York, NY
+LA  - English
+CN  - 371.1 .P97n 1957
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Sternau, Herbert
+T1  - Puerto Rico and the Puerto Ricans; an outline of basic facts for speakers, educators, civic and religious leaders
+Y1  - 1958
+D1  - 04/1958
+SP  - 36
+KW  - Puerto Ricans
+KW  - Puerto Rico
+N1  - 36 pages 22 cm; Note(s): Cover title./ Includes bibliographical references (pages 33-34).
+ED  - 2nd
+PB  - Council of Spanish-American Organizations and American Jewish Committee
+CY  - New York, NY
+LA  - English
+CN  - 972.9 .P97pr 1958
+SC  - Puerto Rico
+ER  - 
+
+TY  - BOOK
+A1  - Korovkin, F. P.
+A1  - Levin, S. E.
+T1  - Zadaniia dlia uchashchikhsia zaochnoi srednei shkoly : SSSR istoriia, IX klass
+Y1  - 1958
+D1  - 1958
+SP  - 85
+KW  - Russian history
+ED  - 6th
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 947 .G60z 1958
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Ministerstva Prosveshcheniia RSFSR
+T1  - Shkol'nye programmy: literatura IX-XI klassy
+Y1  - 1959
+D1  - 1959
+SP  - 39
+KW  - Literature
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 428.5 .G60s 1959
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Glavnoe Upravlenie Vysshikh i Srednikh Pedagogicheskikh Uche'nykh Zavedekii Ministerstva Prosveshcheniia RSFSR
+T1  - Programmy pedagogicheskikh uchilishch
+Y1  - 1957
+D1  - 1957
+SP  - 47
+KW  - Music education
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 780 .G60p 1957
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A1  - Mikhailov, N. N.
+T1  - Prostory i bogatstva nashei rodiny. (Materialy dlia politicheskikh zaniatii po teme "Nasha velikaia Sovetskaia rodina.")
+Y1  - 1955
+D1  - 1955
+SP  - 40
+KW  - Russia
+N1  - 39 pages illustrations 20 cm; Note(s): This title published by the author in several editions of various length and scope.
+PB  - Voennoe Izdatel'ctvo Ministerstva Oborony Soiuza SSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 947 .G60p 1955
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Glavnoe Upravlenie Vysshikh i Srednikh Pedagogicheskikh Uche'nykh Zavedekii Ministerstva Prosveshcheniia RSFSR
+T1  - Programmy pedagogicheskikh uchilishch s dvukhgodichnym i chetyrekhgodichnym srokami obucheniia: istoria pedagogiki
+Y1  - 1957
+D1  - 1957
+SP  - 30
+KW  - Pedagogy
+PB  - Uchpedgiz
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 947 .G60p 1955
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Glavnoe Upravlenie Vysshikh i Srednikh Pedagogicheskikh Uche'nykh Zavedekii Ministerstva Prosveshcheniia RSFSR
+T1  - Programmy pedagogicheskikh institutov: spetsual'nyi kurs grammatiki sovpemennovo angliiskovo iazyka
+Y1  - 1957
+D1  - 1957
+SP  - 21
+KW  - English language
+KW  - Grammar
+PB  - Uchpedgiz
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 428.2 .G60p 1957
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Glavnoe Upravlenie Vysshikh i Srednikh Pedagogicheskikh Uche'nykh Zavedekii Ministerstva Prosveshcheniia RSFSR
+T1  - Programmy pedagogicheskikh institutov: Angliiskii iazyk
+Y1  - 1956
+D1  - 1956
+SP  - 21
+KW  - English language
+PB  - Uchpedgiz
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 428.2 .G60p 1956
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Ministerstva Prosveshcheniia RSFSR
+T1  - Shkol'nye programmy: nachal'nykh klassov vos'miletnei shkoly
+Y1  - 1959
+D1  - 1959
+SP  - 142
+KW  - Curricula
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 375 .G60s 1959
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Russian S.F.S.R
+T1  - Polozheniia o vos’miletnei shkole RSFSR, o srednei obshcheobrazovatel’noi trudovoi politekhnicheskoi shkole s proizvodstvennym obucheniem RSFSR, o vechernei (smennoi) srednei obshcheobrazovatel’noi shkole RSFSR
+Y1  - 1960
+D1  - 1960
+SP  - 45
+KW  - Russia
+KW  - Educational law and legislation
+N1  - 45 pages ; 20 cm
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 379.74 .G60p 1960
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Russian S.F.S.R
+A2  - Glavnoe Upravlenie Shkol Ministerstva Prosveshcheniia RSFSR
+T1  - Programmy srednei shkoly na 1958-1959 uchebnyi god : inostrannye iazyki : angliiskii, nemetskii, frantsuzskii
+Y1  - 1958
+D1  - 1958
+SP  - 53
+KW  - Modern languages
+KW  - Russia
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 400 .G60p 1958
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Russian S.F.S.R
+A2  - Glavnoe Upravlenie Shkol Ministerstva Prosveshcheniia RSFSR
+T1  - Programmy srednei shkoly na 1958-1959 uchebnyi god : istoriia SSSR, novaia istoriia
+Y1  - 1958
+D1  - 1958
+SP  - 69
+KW  - Russian history
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 947 .G60p 1958
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Russian S.F.S.R
+A2  - Glavnoe Upravlenie Shkol Ministerstva Prosveshcheniia RSFSR
+T1  - Bilety dlia ekzamenov na attestat zrelosti za kurs srednei shkoly na 1959/60 uchebnyi god
+Y1  - 1960
+D1  - 1960
+SP  - 40
+KW  - Examinations
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 947 .G60p 1958
+SC  - Russia
+ER  - 
+
+TY  - BOOK
+A2  - Glavnoe Upravlenie Vysshikh i Srednikh Pedagogicheskikh Uche'nykh Zavedekii Ministerstva Prosveshcheniia RSFSR
+T1  - Programmy doshkol'nykh pedagogicheskikh uchilishch: istoriia pedagogiki
+Y1  - 1957
+D1  - 1957
+SP  - 21
+KW  - Pedagogy
+PB  - Gosudarstvennoe Uche'no-pedagogicheskoe Izdatel'ctvo Ministerstva Prosveshcheniia RSFSR
+CY  - Moskva, Russia
+LA  - Russian
+CN  - 370.6 .G60pp 1957
+SC  - Russia
+ER  - 
+
