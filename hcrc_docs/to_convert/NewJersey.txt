@@ -1,0 +1,334 @@
+TY  - BOOK
+A2  - New Jersey State Commission on State Tax Policy
+T1  - Increased state aid to public schools and distribution of the cost of expanding public services : tenth report of the Commission on State Tax Policy
+Y1  - 1963
+D1  - 1963
+SP  - 240
+KW  - School finance
+KW  - Taxation
+KW  - Sales tax
+N1  - xxi; 26 cm; Note(s): At head of title: State of New Jersey./ "Submitted to the Governor and the Legislature of the State of New Jersey, January 10, 1963."; Other Titles: Tenth report of the Commission on State Tax Policy; Shelved in Cubberley Library Reading Room
+T2  - New Jersey State Commission on State Tax Policy report
+V1  - 10
+PB  - New Jersey State Commission on State Tax Policy
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1963
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Commission on State Tax Policy
+T1  - Financing school buildings in New Jersey : eighth report of the Commission on State Tax Policy
+Y1  - 1955
+D1  - 05/1955
+SP  - 60
+KW  - School buildings
+N1  - xi; 23 cm; Note(s): At head of title: State of New Jersey./ "Submitted to the Governor and to the Legislature, May 1955."; Other Titles: Eighth report of the Commission on State Tax Policy; Shelved in Cubberley Library Reading Room
+T2  - New Jersey State Commission on State Tax Policy report
+V1  - 8
+PB  - New Jersey State Commission on State Tax Policy
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1955
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Commission on State Tax Policy
+T1  - Public school financing in New Jersey : a problem of more money where it is most needed
+Y1  - 1954
+D1  - 03/1954
+SP  - 189
+KW  - School finance
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - New Jersey State Commission on State Tax Policy report
+V1  - 7
+PB  - New Jersey State Commission on State Tax Policy
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1954
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - Compendium of educational research, planning, assessment and evaluation activities : United States and Canada
+Y1  - 1977
+D1  - 11/1977
+SP  - 259
+KW  - Educational planning
+KW  - Educational accountability
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1977
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Higher Education
+T1  - Bilingual higher education resources in New Jersey colleges and universities, 1978
+Y1  - 1978
+D1  - 1978
+SP  - 83
+KW  - Bilingual education
+N1  - 83, [22] pages ; 28 cm.; Shelved in Cubberley Library Reading Room
+T2  - New Jersey State Department of Higher Education survey
+V1  - 77-13
+PB  - New Jersey State Department of Higher Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1978
+SC  - New Jersey
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Library. Development Bureau
+A2  - New Jersey State Department of Education
+T1  - School media programs special purpose grants funded by Title II of the Elementary and Secondary Education Act
+Y1  - 1977
+D1  - 02/1977
+SP  - 15
+KW  - Demonstration centers in education
+KW  - Instructional materials centers
+KW  - Media programs
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Library
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1977
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Library. Development Bureau
+A2  - New Jersey State Department of Education
+T1  - School media programs special purpose grants funded by Title II of the Elementary and Secondary Education Act
+Y1  - 1976
+D1  - 02/1976
+SP  - 11
+KW  - Demonstration centers in education
+KW  - Instructional materials centers
+KW  - Media programs
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Library
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1976
+SC  - New Jersey
+ER  - 
+ 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - Educational programs that work : a catalogue of demonstration sites of successful educational programs disseminated through the New Jersey Elementary and Secondary Education Act, Title III, IV-C Program
+Y1  - 1975
+D1  - 09/1975
+KW  - Demonstration centers in education
+KW  - Educational innovations
+N1  - [2 volumes] : illustrations ; 28 cm; Named Corp: United States. Elementary and Secondary Education Act, Title III.; Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1975
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Education. Division of Vocational Education
+T1  - Directory of private trade, technical, and art schools, revised: March 1, 1976
+Y1  - 1976
+D1  - 03/1976
+KW  - Art schools
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Education
+LA  - English
+CN  - 379.74 .N2 1976
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A1  - Berke, Joel S.
+A1  - Sinkin, Judy G.
+A2  - New Jersey Education Reform Project
+T1  - Paying for New Jersey's schools : problems and proposals : a report to the New Jersey Education Reform Project
+Y1  - 1974
+D1  - 02/1974
+SP  - 52
+N1  - 28 cm; Note(s): Draft.; Responsibility: by Joel S. Berke and Judy G. Sinkin.; Shelved in Cubberley Library Reading Room
+PB  - New Jersey Education Reform Project
+CY  - Newark, NJ
+LA  - English
+CN  - 379.74 .N2 1974
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Education. Division of Vocational Education
+T1  - Financial report 1971-72 on the distribution of Federal and State-aid funds
+D1  - 1972?
+SP  - 27
+KW  - Federal aid to vocation education
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1971-72
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - Toward better schools in New Jersey
+D1  - 1971?
+SP  - 13
+KW  - School management and organization
+KW  - School districts
+N1  - 13 pages : illustrations ; 22 x 28 cm; Note(s): This booklet has been designed to provide the public with answers to questions concerning changes in the organizational structure of the state's school districts./ Summary and recommendations of New Jersey State Committee to Study the Next Steps of Regionalization and Consolidation in the School Districts of New Jersey -- in back pocket./ Cover title.; Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1971
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Higher Education
+T1  - The educational opportunity fund, third annual report 1971-1973
+Y1  - 1973
+D1  - 03/1973
+SP  - 7
+KW  - Government aid to higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Higher Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1971-73
+SC  - New Jersey
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Higher Education
+T1  - The educational opportunity fund, second annual report 1969-1970
+Y1  - 1971
+D1  - 03/1971
+SP  - 26
+KW  - Government aid to higher education
+N1  - Note(s): on cover "investment in the future" ; Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Higher Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1971
+SC  - New Jersey
+G1  - Postsecondary
+ER  -
+
+
+TY  - BOOK
+A2  - New Jersey Board of Higher Education
+T1  - Goals for higher education in New Jersey
+Y1  - 1970
+D1  - 01/1970
+SP  - 130
+KW  - Higher education
+N1  - 130 pages : illustrations ; 28 cm.; Responsibility: New Jersey Board of Higher Education. Shelved in Cubberley Library Reading Room
+T2  - New Jersey master plan for higher education
+V1  - 1
+PB  - New Jersey Board of Higher Education
+LA  - English
+CN  - 379.74 .N2 1970
+SC  - New Jersey
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - New Jersey Development Council
+T1  - Research bulletin : Council schools at Work
+Y1  - 1970
+D1  - 1970
+SP  - 39
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - New Jersey Development Council research bulletin
+V1  - 14
+IS  - 5
+PB  - New Jersey Development Council
+CY  - New Brunswick, NJ
+LA  - English
+CN  - 379.74 .N2 1970
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Higher Education
+T1  - Regional demand for undergraduate education in New Jersey
+Y1  - 1971
+D1  - 04/1971
+SP  - 7
+KW  - College attendance
+KW  - Educational planning
+N1  - 41; ges 28 cm; Genre/Form: Statistics.; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Higher Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1970
+SC  - New Jersey
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Krupnick, M. Jack
+A2  - New Jersey State Department of Education
+T1  - A summary of public education in New Jersey, September 1967 : select school, classroom, pupil, and personnel information by county
+Y1  - 1968
+D1  - 08/1968
+SP  - 30
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - New Jersey Department of Education Office of Statistical Services report
+V1  - 382
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1968
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Department of Education
+T1  - Report of the State Committee to Study the Next Steps of Regionalization and Consolidation in School Districts of New Jersey
+Y1  - 1969
+D1  - 04/1969
+SP  - 109
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1969
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Aid to School Districts Study Commission
+T1  - A commitment to New Jersey's children: a State school support program for New Jersey; final report to the Governor and the Legislature (pursuant to P.L. 1966, c 32)
+Y1  - 1968
+D1  - 12/1968
+SP  - 101
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Jersey State Aid to School Districts Study Commission
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.74 .N2 1698
+SC  - New Jersey
+ER  - 
+
+
