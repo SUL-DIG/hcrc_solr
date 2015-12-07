@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Treasury Department</field>
+<field name="title">The School Fund</field>
+<field name="year">1909</field><field name="date">11/1909</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1909</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut Teachers' Retirement Board</field>
+<field name="title">Connecticut Teachers' Retirement System</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="pages">14</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="keywords">Pensions</field>
+<field name="notes">14 p. ; 22 cm.; Note(s): Title from cover./ "Chapter 57, General statutes 1918, chapters 61, 83, 261, 270 and 318, Public acts 1919" (p. [5])./ "Administrative rules adopted by the Teachers' Retirement Board" (p. 14)./ Includes index; Shelved in Cubberley Library Reading Room.</field>
+<field name="publisher">Connecticut Teachers' Retirement Board</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1919</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mathewson, Robert Hendry</field>
+<field name="author_nat">Robert Hendry Mathewson</field>
+<field name="corp_author">Connecticut State Department of Education. Division of Research</field>
+<field name="corp_author">Connecticut Youth Council</field>
+<field name="title">Youth problems in Connecticut. Prepared for the Connecticut Youth Council by the Division of Research, State Department of Education</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="pages">37</field>
+<field name="keywords">Youth</field>
+<field name="keywords">Occupations</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1940</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Simpson, Alfred Dexter</field>
+<field name="author_nat">Alfred Dexter Simpson</field>
+<field name="title">Financing education in Connecticut, a proposed plan to enable the state of Connecticut to meet more adequately its educational responsibility</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="pages">198</field>
+<field name="keywords">Academic dissertations</field>
+<field name="keywords">School finance</field>
+<field name="notes">198 p., 1 l. 23 cm.; Dissertation: Thesis (Ph. D.)--Columbia University, 1927.; Note(s): Vita./ "List of references cited": p. 161-163.; Responsibility: by Alfred Dexter Simpson; Shelved in Cubberley Library Reading Room.</field>
+<field name="publisher">State of Connecticut</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1927</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Survey of school building needs</field>
+<field name="year">1949</field>
+<field name="date">10/1949</field>
+<field name="pages">41</field>
+<field name="keywords">Educational surveys</field>
+<field name="keywords">School buildings</field>
+<field name="notes">41 pages ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title./ "Revised to October 24, 1949 at request of local Boards of Education."/ Includes bibliographical references.; Responsibility: Connecticut State Department of Education; Shelved in Cubberley Library Reading Room.</field>
+<field name="edition">Rev</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1949</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="corp_author">American Association of University Women</field>
+<field name="title">The boards of education of Connecticut, a study by the American association of university women</field>
+<field name="year">1941</field>
+<field name="date">04/1941</field>
+<field name="pages">48</field>
+<field name="keywords">School boards</field>
+<field name="notes">48 pages 6 charts, 19 tables 22 cm.; Note(s): Cover title./ At head of title: Connecticut state department of education, Hartford Connecticut; Shelved in Cubberley Library Reading Room.</field>
+<field name="series_title">Connecticut State Department of Education bulletin</field>
+<field name="series_vol">X</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1941</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut Teachers' Retirement Board</field>
+<field name="title">Connecticut Teachers' Retirement System</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="pages">12</field>
+<field name="keywords">Pensions</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Connecticut Teachers' Retirement Board</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1940</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">As the twig is bent : an interpretation of the job of the elementary school</field>
+<field name="year">1947</field>
+<field name="date">05/1947</field>
+<field name="pages">14</field>
+<field name="keywords">Elementary education</field>
+<field name="notes">14 pages : illustrations ; 22 cm.; Note(s): "May 1947."; Responsibility: Connecticut State Department of Education, Bureau of School and Community Services, Hartford; Shelved in Cubberley Library Reading Room.</field>
+<field name="series_title">Connecticut State Department of Education bulletin</field>
+<field name="series_vol">44</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1947</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ryder, Theodore</field>
+<field name="author_nat">Theodore Ryder</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">The development of professional supervision of schools in Connecticut</field>
+<field name="year">1945</field>
+<field name="date">10/1945</field>
+<field name="pages">32</field>
+<field name="keywords">School supervision</field>
+<field name="notes">32 pages 22 cm.; Note(s): At head of title: Connecticut. State dept. of education. Division of research and planning./ Includes bibliographical references (pages 31-32).; Responsibility: [by Theodore Ryder]; Shelved in Cubberley Library Reading Room.</field>
+<field name="series_title">Connecticut State Department of Education bulletin</field>
+<field name="series_vol">42</field>
+<field name="publisher">Connecticut State Dept. of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1945</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Emergency teacher training program : report of activities from February, 1949 through September, 1950 and through August 31, 1951</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">24</field>
+<field name="keywords">Teacher Training</field>
+<field name="notes">24 pages ; 23 cm.; Note(s): Cover title./ At head of title: State of Connecticut./ Includes bibliographical references; Shelved in Cubberley Library Reading Room.</field>
+<field name="series_title">Connecticut State Department of Education bulletin</field>
+<field name="series_vol">57</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1952</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Learning in Connecticut</field>
+<field name="year">1952</field>
+<field name="date">06/1952</field>
+<field name="keywords">Education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field><field name="language">English</field>
+<field name="call_number">379.74 .C4 1952</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Planning for a regional school district</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="pages">36</field>
+<field name="keywords">High school</field>
+<field name="keywords">School districts</field>
+<field name="keywords">Regional planning</field>
+<field name="notes">36; 23 cm.; Note(s): Includes bibliographical references; Shelved in Cubberley Library Reading Room.</field>
+<field name="series_title">Connecticut State Department of Education bulletin</field>
+<field name="series_vol">54</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1952</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ross, Maurice J.</field>
+<field name="author_nat">Maurice J. Ross</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">The relationship of public and non-public schools in Connecticut : a status study</field>
+<field name="year">1956</field>
+<field name="date">05/1956</field>
+<field name="pages">57</field>
+<field name="keywords">Private schools</field>
+<field name="keywords">Public schools</field>
+<field name="notes">v, 57 leaves : forms, maps ; 28 cm.; Note(s): Cover title./ "May, 1956."/ Accompanied by: Principles and procedures for accrediting independent secondary schools / Connecticut State Department of Education, Division of Instructional Services (leaves 50-57 ; 28 cm.).; Responsibility: by Maurice J. Ross (Bureau of Research and Statistics); Shelved in Cubberley Library Reading Room.</field>
+<field name="series_title">Connecticut State Department of Education research bulletin</field>
+<field name="series_vol">6</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1954</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Board of Education</field>
+<field name="title">Statistical data for discussion groups : Seventh Annual Connecticut Conference on Education ... Nov. 30-Dec. 1, 1954</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="pages">20</field>
+<field name="keywords">Statistics</field>
+<field name="notes">charts.; Note(s): Cover title./ "In preparation for the White House Conference on Education, 1955."; Other Titles: Connecticut Conference on Education; Shelved in Cubberley Library Reading Room.</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1954</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Report on Connecticut conferences on education 1954-1955, in preparation for 1955 White House Conference on Education</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="pages">32</field>
+<field name="keywords">Education</field>
+<field name="notes">32 pages illustrations 22 cm; Note(s): "Sponsored by the Governor of Connecticut, Connecticut Council on Education, and Connecticut State Department of Education in cooperation with United States Office of Education; Shelved in Cubberley Library Reading Room.</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Report of Seventh Annual Connecticut conference on education in preparation for 1955 White House Conference on Education</field>
+<field name="date">1954?</field>
+<field name="pages">47</field>
+<field name="keywords">Education</field>
+<field name="notes">Note(s): "Sponsored by the Governor of Connecticut, Connecticut Council on Education, and Connecticut State Department of Education in cooperation with United States Office of Education; Shelved in Cubberley Library Reading Room.</field>
+<field name="language">English</field><field name="call_number">379.74 .C4  1954</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Safety in school transportation; a check list</field>
+<field name="year">1955</field>
+<field name="date">05/1955</field>
+<field name="pages">16</field>
+<field name="keywords">Transportation</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1955</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="corp_author">University of Connecticut</field>
+<field name="title">A study of the problems confronting higher education in Connecticut : a report to the General Assembly.</field>
+<field name="year">1957</field>
+<field name="date">01/1957</field>
+<field name="pages">24</field>
+<field name="keywords">Universities and colleges</field>
+<field name="notes">tables.; Note(s): Cover title.; Other Titles: Problems confronting higher education in Connecticut.; Responsibility: State Board of Education [and] Board of Trustees, University of Connecticut; Shelved in Cubberley Library Reading Room.</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1957</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Harrington, Gordon M.</field>
+<field name="author_nat">Gordon M. Harrington</field>
+<field name="corp_author">Connecticut State Department of Education</field>
+<field name="title">Technicians for Connecticut industry; a study of need for technical institutes</field>
+<field name="year">1957</field>
+<field name="date">02/1957</field>
+<field name="pages">52</field>
+<field name="keywords">Technical education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Connecticut State Department of Education bulletin</field>
+<field name="series_vol">82</field>
+<field name="publisher">Connecticut State Department of Education</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4 1957</field>
+<field name="state_country">Connecticut</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stetler, Henry G.</field>
+<field name="author_nat">Henry G. Stetler</field>
+<field name="corp_author">Connecticut Commission on Civil Rights</field>
+<field name="title">Comparative study of Negro and white dropouts in selected Connecticut high schools</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="pages">47</field>
+<field name="keywords">School attendance</field>
+<field name="notes">viii; diagrs., tables. 23 cm.; Note(s): Addendum slip inserted.; Responsibility: by Henry G. Stetler, supervisor, Research Division, Connecticut Commission on Civil Rights; Shelved in Cubberley Library Reading Room.</field>
+<field name="publisher">Connecticut Commission on Civil Rights</field>
+<field name="pub_place">Hartford, CT</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .C4  1959</field>
+<field name="state_country">Connecticut</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc><field name="type">Book</field><field name="author">Ross, Maurice</field><field name="author_nat">Maurice Ross</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Discussion of state support for education</field><field name="year">1958</field><field name="date">02/1958</field><field name="pages">11</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1958</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Teachers' Retirement Board</field><field name="title">Retirement system for teachers</field><field name="year">1964</field><field name="date">1964</field><field name="pages">32</field><field name="keywords">Pensions</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Teachers' Retirement Board</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1964</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Teachers' Retirement Board</field><field name="title">Retirement system for teachers</field><field name="year">1965</field><field name="date">1965</field><field name="pages">34</field><field name="keywords">Pensions</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Teachers' Retirement Board</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1965</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut General Assembly. Commission on School Construction Costs</field><field name="title">Report of the Commission of the Connecticut General Assembly on School Construction Costs, January 1, 1959</field><field name="year">1959</field><field name="date">01/1959</field><field name="pages">7</field><field name="keywords">School finance</field><field name="keywords">School buildings</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut General Assembly</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1959</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Long range planning and educational specifications for school building economy</field><field name="year">1962</field><field name="date">06/1962</field><field name="pages">35</field><field name="keywords">School buildings</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education school building economy series</field><field name="series_vol">2</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1962</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut General Assembly</field><field name="title">Report of the Interim Committee on Education...as provided by House joint Resolution 170 of the 1959 Session of the General Assembly</field><field name="date">1959?</field><field name="pages">10</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut General Assembly</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1959</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut General Assembly</field><field name="title">Report of the Interim Penal Institutions Committee...as provided by House joint Resolution 170 of the 1959 Session of the General Assembly</field><field name="date">1959?</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut General Assembly</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1959</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Education Association</field><field name="title">Patterns for financing Connecticut schools</field><field name="year">1961</field><field name="date">1961</field><field name="pages">28</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Education Association</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1961</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Study Commission on Higher Education</field><field name="title">Report to the Governor and the General Assembly</field><field name="year">1965</field><field name="date">02/1965</field><field name="pages">32</field><field name="keywords">Higher education</field><field name="notes">32 p. illus. 23 cm.; Note(s): "Feb. 1965."/ Other Titles: Report of the Study Commission on Higher Education; Responsibility: by the Study Commission on Higher Education; Shelved in Cubberley Library Reading Room</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1965</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Automation in Connecticut schools</field><field name="year">1970</field><field name="date">06/1970</field><field name="pages">20</field><field name="keywords">School management and organization</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education research bulletin</field><field name="series_vol">3</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1969-70</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="author">Ross, Maurice</field><field name="author_nat">Maurice Ross</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Connecticut's need for new teachers, 1969-1985</field><field name="year">1969</field><field name="date">06/1969</field><field name="pages">8</field><field name="keywords">Teachers</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education research bulletin</field><field name="series_vol">2</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="author">Ross, Maurice</field><field name="author_nat">Maurice Ross</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Connecticut's need for new teachers, 1970-1986</field><field name="year">1970</field><field name="date">06/1970</field><field name="pages">8</field><field name="keywords">Teachers</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education research bulletin</field><field name="series_vol">4</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969-70</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">School transportation, contract or school-owned?</field><field name="year">1970</field><field name="date">06/1970</field><field name="pages">5</field><field name="keywords">Transportation</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education research bulletin</field><field name="series_vol">2</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969-70</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Citizens for Public Schools</field><field name="title">The job for state aid</field><field name="date">1965?</field><field name="pages">19</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Citizens for Public Schools</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1965</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Qualitative and quantitative performance and achievement in higher education. Report of Task Force IV</field><field name="year">1971</field><field name="date">01/1971</field><field name="pages">66</field><field name="keywords">Higher Education</field><field name="notes">66 p.; Note(s): Includes bibliographical references; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1971 no.4</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Needs: socio-economic, manpower, regional: report of Task Force I</field><field name="year">1970</field><field name="date">12/1970</field><field name="pages">78</field><field name="keywords">Higher Education</field><field name="notes">78 p.; Note(s): Includes bibliographical references; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1970 no.1</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Four task forces report to the Connecticut Commission for Higher Education; a summary of their recommendations: action for the seventies</field><field name="year">1970</field><field name="date">12/1970</field><field name="pages">14</field><field name="keywords">Economics of education</field><field name="keywords">Manpower policy</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1970</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Connecticut reading assessment, 1971-1972</field><field name="year">1972</field><field name="date">1972</field><field name="pages">27</field><field name="keywords">Reading</field><field name="notes">27 pages illustrations 16 x 23 cm; Genre/Form: Statistics.; Note(s): Cover title; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut.State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1971-72</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Financing higher education. Report of Task Force III</field><field name="year">1970</field><field name="date">12/1970</field><field name="pages">39</field><field name="keywords">Higher education</field><field name="keywords">Universities and colleges</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1970  no.3</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Function, scope and structure of higher education in Connecticut. Report of Task Force II</field><field name="year">1970</field><field name="date">12/1970</field><field name="pages">43</field><field name="keywords">Higher education</field><field name="notes">43 p.; Note(s): Includes bibliographical references.; Other Titles: Function, scope and structure of higher education; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1970 no.2</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Arthur D. Little, Inc</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Needs for higher education related to regional and statewide economic development in Connecticut; report to Connecticut Commission for Higher Education</field><field name="year">1971</field><field name="date">03/1971</field><field name="pages">136</field><field name="keywords">Economics of education</field><field name="notes">xi, 136, [26] pages maps 28 cm; Note(s): Includes bibliographical references; Shelved in Cubberley Library Reading Room</field><field name="publisher">Arthur D. Little, Inc</field><field name="pub_place">Cambridge, MA</field><field name="language">English</field><field name="call_number">379.74 .C4 1971</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Arthur D. Little, Inc</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">An assessment and projection of the resources and needs of independent higher education in Connecticut; a report to the Commission for Higher Education, State of Connecticut</field><field name="year">1971</field><field name="date">03/1971</field><field name="pages">117</field><field name="keywords">Government aid to education</field><field name="keywords">Higher education</field><field name="notes">2 volumes 30 cm; Note(s): Includes bibliographical references (v. 2, leaves 3-4); Shelved in Cubberley Library Reading Room</field><field name="publisher">Arthur D. Little, Inc</field><field name="pub_place">Cambridge, MA</field><field name="language">English</field><field name="call_number">379.74 .C4 1971 v.1</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="author">Bokelman, W. Robert</field><field name="author_nat">W. Robert Bokelman</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Salaries paid to professional staff members in state higher education coordinating commissions and in state boards of higher education, 1973-74</field><field name="year">1974</field><field name="date">06/1974</field><field name="keywords">College administrators</field><field name="notes">[70] pages : forms ; 28 cm; Genre/Form: Statistics.; Note(s): Consists of data obtained by the Connecticut Commission for Higher Education.; Other Titles: Salaries paid to professional staff members ...; Responsibility: by W. Robert Bokelman; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1974</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Handbook: higher education in Connecticut; implementation of P.A. 194 (master plan)</field><field name="year">1972</field><field name="date">11/1972</field><field name="pages">75</field><field name="keywords">Higher education</field><field name="notes">iii; ges illustrations 28 cm.; Genre/Form: Handbooks, manuals, etc.; Note(s): Original imprint covered by label, as above./ Includes bibliographical references (pages 61-75).; Other Titles: Implementation of P.A. 194 (master plan); Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1972</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Educational Management and Finance</field><field name="title">The distribution of minority-group pupils and staff in the public schools of Connecticut</field><field name="year">1975</field><field name="date">08/1975</field><field name="pages">19</field><field name="keywords">Minorities</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education research bulletin</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1975</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission to Study School Finance and Equal Educational Opportunity</field><field name="title">Financing Connecticut's schools : final report of the Commission to Study School Finance and Equal Educational Opportunity</field><field name="year">1975</field><field name="date">01/1975</field><field name="pages">36</field><field name="keywords">School finance</field><field name="notes">iv, 35; ges : illustrations ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title./ Includes bibliographical references; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission to Study School Finance and Equal Educational Opportunity</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1975</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Forces for change : an account of ESEA Title III</field><field name="year">1974</field><field name="date">05/1974</field><field name="pages">64</field><field name="keywords">Education and state</field><field name="notes">64 pages : illustrations ; 27 cm; Note(s): Includes bibliographical references (page 64); Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1974</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="author">Hadden, Kenneth</field><field name="author_nat">Kenneth Hadden</field><field name="corp_author">University of Connecticut</field><field name="corp_author">Storrs Agricultural Experiment Station</field><field name="title">School enrollment in Connecticut : past trends and future prospects</field><field name="year">1974</field><field name="date">03/1974</field><field name="keywords">School enrollment</field><field name="notes">37 pages : illustrations ; 28 cm.; Genre/Form: Statistics.; Note(s): Cover title./ Includes bibliographical references (page 37).; Responsibility: by Kenneth Hadden [and others]; Shelved in Cubberley Library Reading Room</field><field name="series_title">Storrs Agricultural Experiment Station bulletin</field><field name="series_vol">427</field><field name="publisher">University of Connecticut</field><field name="pub_place">Storrs, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1974</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="author">Steahr, Thomas E.</field><field name="author_nat">Thomas E. Steahr</field><field name="author">Lowe, Robert A.</field><field name="author_nat">Robert A. Lowe</field><field name="corp_author">University of Connecticut</field><field name="corp_author">Storrs Agricultural Experiment Station</field><field name="title">Patterns and trends of college and university student migration in the United States</field><field name="year">1975</field><field name="date">01/1975</field><field name="pages">59</field><field name="keywords">College student mobility</field><field name="notes">59 pages : maps ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (pages 57-59).; Other Titles: Patterns and trends of college and university student migration ...; Responsibility: by Thomas E. Steahr and Robert A. Lowe; Shelved in Cubberley Library Reading Room</field><field name="series_title">Storrs Agricultural Experiment Station bulletin</field><field name="series_vol">436</field><field name="publisher">University of Connecticut</field><field name="pub_place">Storrs, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1975</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Strategies for progress : supplemental guide for post-secondary &amp; higher education</field><field name="year">1979</field><field name="date">06/1979</field><field name="pages">11</field><field name="keywords">Vocational education</field><field name="keywords">Higher education</field><field name="notes">11 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 10-11).; Other Titles: Supplemental guide for post-secondary &amp; higher education; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Connecticut Master Plan for Vocational and Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Strategies for progress : supplemental guide for employers, business &amp; industry organizations</field><field name="year">1979</field><field name="date">06/1979</field><field name="pages">12</field><field name="keywords">Vocational education</field><field name="keywords">Industry and education</field><field name="keywords">Employees</field><field name="notes">12 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 11-12).; Other Titles: Supplemental guide for employers, business &amp; industry organizations; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational &amp; Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field></doc>
+
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Strategies for progress : supplemental guide for state agencies</field><field name="year">1979</field><field name="date">06/1979</field><field name="pages">12</field><field name="keywords">Vocational education</field><field name="keywords">Education and state</field><field name="notes">12 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 11-12).; Other Titles: Supplemental guide for state agencies; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational &amp; Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Strategies for progress : supplemental guide for organized labor</field><field name="year">1979</field><field name="date">06/1979</field><field name="pages">10</field><field name="keywords">Vocational education</field><field name="notes">10 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 9-10).; Other Titles: Supplemental guide for organized labor; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational &amp; Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="corp_author">State Board of Education</field><field name="title">Strategies for progress : an executive summary</field><field name="year">1979</field><field name="date">01/1979</field><field name="pages">18</field><field name="keywords">Career education</field><field name="keywords">Vocational education</field><field name="notes">iv; ges : maps ; 28 cm; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references.; Other Titles: Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational &amp; Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Strategies for progress : supplemental guide for public education</field><field name="year">1979</field><field name="date">06/1979</field><field name="pages">19</field><field name="keywords">Vocational education</field><field name="keywords">Public schools</field><field name="notes">19 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 18-19).; Other Titles: Supplemental guide for public education; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational &amp; Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Strategies for progress : supplemental guide for general public community organizations</field><field name="year">1979</field><field name="date">06/1979</field><field name="pages">11</field><field name="keywords">Community and school</field><field name="keywords">Vocational education</field><field name="notes">11 p. ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references (p. 10-11).; Other Titles: Supplemental guide for general public community organizations; Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational &amp; Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">GTB : an aid in understanding Connecticut's Guaranteed Tax Base Grant/School Finance Equalization Program</field><field name="date">1977?</field><field name="pages">23</field><field name="keywords">School finance</field><field name="keywords">Educational equalization</field><field name="notes">23 pages ; 22 cm; Note(s): Cover title.; Other Titles: Aid in understanding Connecticut's Guaranteed Tax Base Grant/School Finance Equalization Program; Responsibility: Connecticut State Department of Education; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">New Haven, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1977</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Master plan for higher education in Connecticut, 1974-1979 : biennial supplement, 1976</field><field name="year">1976</field><field name="date">01/1976</field><field name="pages">132</field><field name="keywords">Higher education</field><field name="keywords">Educational planning</field><field name="notes">xii; ges : illustrations ; 28 cm.; Note(s): Includes bibliographical references (page 71); Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1976</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Commission for Higher Education</field><field name="title">Master plan for higher education in Connecticut, 1974-1979 : quality and equality</field><field name="year">1974</field><field name="date">01/1974</field><field name="pages">238</field><field name="keywords">Higher education</field><field name="keywords">Educational planning</field><field name="notes">xi; ges : illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 181-188); Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut Commission for Higher Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1974-1979</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Master Plan for Vocational and Career Education Policy Advisory Group</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Strategies for progress : background report</field><field name="year">1979</field><field name="date">06/1979</field><field name="pages">130</field><field name="keywords">Career education</field><field name="keywords">Vocational education</field><field name="notes">ill., maps ; 28 cm.; Note(s): Cover title./ At head of title: Connecticut master plan for vocational and career education, 1979 revision./ Includes bibliographical references and index.; Other Titles: Connecticut master plan for vocational and career education, 1979 revision; Responsibility: [Master Plan for Vocational &amp; Career Education Policy Advisory Group]; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1979</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">Local public school enrollment as of October 1969</field><field name="year">1969</field><field name="date">1969</field><field name="pages">3</field><field name="keywords">School enrollment</field><field name="notes">Frequency: Annual; v. ; 28 cm; Named Corp: Connecticut. State Department of Education.; Genre/Form: Statistics.; Geographic: Connecticut.; Note(s): Issued by: State Dept. of Education; Responsibility: Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">Local public school enrollment as of October 1970</field><field name="year">1970</field><field name="date">1970</field><field name="pages">3</field><field name="keywords">School enrollment</field><field name="notes">Frequency: Annual; v. ; 28 cm; Named Corp: Connecticut. State Department of Education.; Genre/Form: Statistics.; Geographic: Connecticut.; Note(s): Issued by: State Dept. of Education; Responsibility: Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">Enumeration of children: September 1969</field><field name="year">1969</field><field name="date">09/1969</field><field name="keywords">Children</field><field name="notes">Responsibility: [by the] Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">Report on the 1969 Enumeration of out-of-school youth</field><field name="year">1969</field><field name="date">1969</field><field name="pages">4</field><field name="keywords">Children</field><field name="notes">Responsibility: [by the] Connecticut State Department of Education, Bureau of Research, Statistics and Finance; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">The cost of operation of town-owned and contracted-for school buses - 1968-69</field><field name="date">1969?</field><field name="pages">8</field><field name="keywords">School buses</field><field name="keywords">School children</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1968-69</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">State grants made for public and non-public school activities and programs during 1969-70</field><field name="date">1970?</field><field name="pages">8</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969-70</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">Total current expenses for public schools, 1968-69</field><field name="date">1969?</field><field name="pages">8</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1968-69</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">Current expenditures per pupil for textbooks, school libraries, audio visual materials, and teaching supplies, 1968-69</field><field name="year">1970</field><field name="date">08/1970</field><field name="pages">7</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1968-69</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education. Bureau of Research, Statistics, and Finance</field><field name="title">Local current expenditures per pupil in Connecticut public schools</field><field name="year">1970</field><field name="date">08/1970</field><field name="pages">29</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1968-69</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Post high school activities of 1969 public high school graduates</field><field name="date">1970?</field><field name="pages">3</field><field name="keywords">High school students</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1969</field><field name="state_country">Connecticut</field><field name="grade_level_group">High school</field></doc>
+<doc><field name="type">Book</field><field name="author">Bechtel, Helen W.</field><field name="author_nat">Helen W. Bechtel</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">An Investigation of First Grade Entrants in the Rural Schools of Connecticut, 1928-1929</field><field name="date">1933?</field><field name="pages">64</field><field name="keywords">Elementary education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education. Rural education bulletin</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1932-33</field><field name="state_country">Connecticut</field><field name="grade_level_group">Elementary</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut Board of Education</field><field name="title">School and community field days</field><field name="year">1923</field><field name="date">02/1923</field><field name="pages">28</field><field name="keywords">Schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut Board of education physical education and health bulletin; series 1922-23</field><field name="series_vol">1</field><field name="publisher">Connecticut Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1922-33</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">School consolidation in Connecticut; brief history and present status of the movement</field><field name="year">1925</field><field name="date">1925</field><field name="pages">14</field><field name="keywords">Schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education. Research bulletin; series 1925-26</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1925-26</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Local school reports with particular reference to those of Connecticute towns and cities</field><field name="year">1925</field><field name="date">1925</field><field name="pages">27</field><field name="keywords">Schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education research bulletin; series 1925-26</field><field name="series_vol">2</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1925-26</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Connecticut school buildings present and future a study based upon the report of the fire escape inspector</field><field name="date">1920?</field><field name="pages">12</field><field name="keywords">School buildings</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education statistical studies; series 1919-1920</field><field name="series_vol">2</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Suggestions for a program in educational guidance for secondary schools, emphasizing the life career motive</field><field name="year">1923</field><field name="date">1923</field><field name="pages">41</field><field name="keywords">Vocational guidance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education high school bulletin; series 1922-23</field><field name="series_vol">2</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1923</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">War's effects on the high schools of Connecticut</field><field name="date">1919?</field><field name="pages">26</field><field name="keywords">War</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education high school bulletin; series 1918-1919</field><field name="series_vol">3</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1918-1919</field><field name="state_country">Connecticut</field><field name="grade_level_group">High school</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">The children of the state, are they where they should be?</field><field name="date">1920?</field><field name="pages">11</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education statistical studies; series 1919-1920</field><field name="series_vol">4</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Inspection and approval of high schools</field><field name="date">1919?</field><field name="pages">8</field><field name="keywords">High school</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education high school bulletin; series 1918-1919</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1918-1919</field><field name="state_country">Connecticut</field><field name="grade_level_group">High school</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Individual instruction of subnormal children in the rural schools of Connecticut</field><field name="year">1932</field><field name="date">1932</field><field name="pages">40</field><field name="keywords">Children with disabilites</field><field name="keywords">Exceptional children</field><field name="notes">40 p. illus. 22 cm.; Note(s): "Prepared by Doctor Annette Bennett."/ "Selected list of tests and materials for diagnostic work and individual instruction in reading": p. 38-39. "Selected list of diagnostic and remedial material in arithmetic": p. 39-40; Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education special education bulletin; series 1931-32</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1931-32</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Statistical returns for high schools, 1917-1918</field><field name="date">1919?</field><field name="pages">33</field><field name="keywords">Statistics</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education high school bulletin; series 1918-1919</field><field name="series_vol">2</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1918-1919</field><field name="state_country">Connecticut</field><field name="grade_level_group">High school</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Holding power of Connecticut high schools</field><field name="date">1919?</field><field name="pages">39</field><field name="keywords">High school</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education high school bulletin; series 1918-1919</field><field name="series_vol">5</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1918-1919</field><field name="state_country">Connecticut</field><field name="grade_level_group">High school</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Report of the survey of the Orange center school, Orange, Connecticut</field><field name="year">1928</field><field name="date">1928</field><field name="pages">37</field><field name="keywords">Educational surveys</field><field name="keywords">Public schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education special education and standards bulletin; series 1927-1928</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1927-1928</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Testing for reclassification; report of the survey of the Milford schools</field><field name="year">1928</field><field name="date">1928</field><field name="pages">79</field><field name="keywords">Grading and marking</field><field name="keywords">Educational surveys</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education special education and standards bulletin; series 1928-29</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1928-1929</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Nathan Hale</field><field name="year">1923</field><field name="date">1923</field><field name="pages">18</field><field name="keywords">Hale, Nathan, 1755-1776</field><field name="keywords">Biography</field><field name="notes">18 p. illus. 22 cm.; Responsibility: State Board of Education; Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education Connecticut bulletin; series 1922-1923</field><field name="series_vol">3</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1922-1923</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">A manual on blackouts for superintendents of schools</field><field name="year">1942</field><field name="date">03/1942</field><field name="pages">14</field><field name="keywords">World War, 1939-1945</field><field name="keywords">Blackouts in war</field><field name="keywords">Civil defense</field><field name="keywords">School management and organization</field><field name="keywords">War and education</field><field name="notes">ill. ; 21 cm.; Note(s): Cover title./ "March 1942."/; Responsibility: Connecticut State Department of Education, Bureau of Education and Wartime Activities; Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education. Emergency bulletin</field><field name="series_vol">3</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1942</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">A manual on aerial bombardment for superintendents of schools</field><field name="year">1942</field><field name="date">06/1942</field><field name="pages">22</field><field name="keywords">World War II</field><field name="keywords">Aerial bombing</field><field name="keywords">Civil defense</field><field name="keywords">School management and organization</field><field name="keywords">War and education</field><field name="notes">22 p. ; 22 cm.; Note(s): Cover title./ "June 1942."/Responsibility: Connecticut State Department of Education, Bureau of Education and Wartime Activities; Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education. Emergency bulletin</field><field name="series_vol">4</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1942</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Department of Education</field><field name="title">Air raid manual for superintendents of schools</field><field name="year">1942</field><field name="date">02/1942</field><field name="pages">23</field><field name="keywords">World War II</field><field name="keywords">Civil defense</field><field name="keywords">School management and organization</field><field name="keywords">War and education</field><field name="notes">23 pages ; 22 cm; Note(s): Cover title./Responsibility: Connecticut State Department of Education, Bureau of Education and Wartime Activities; Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Department of Education emergency bulletin</field><field name="series_vol">2</field><field name="publisher">Connecticut State Department of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1942</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Report of proceedings of midwinter meeting of Connecticut state teachers association, Hartford February 15 and 16, 1918</field><field name="year">1918</field><field name="date">1918</field><field name="pages">57</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education Connecticut bulletin; series 1917-18</field><field name="series_vol">21</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4  1917-1918</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="author">Mosher, Raymond Mylan</field><field name="author_nat">Raymond Mylan Mosher</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Educative seat work</field><field name="year">1927</field><field name="date">1927</field><field name="pages">48</field><field name="keywords">Creative activities and seat work</field><field name="notes">ill. ; 22 cm.; Note(s): At head of title: State board of education./ Prepared by Dr. Raymond M. Mosher./ "A library for primary grade children": p. 47-48.; Responsibility: State Board of Education; Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education Connecticut bulletin; series 1926-27</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1926-1927</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Meeting of the Connecticut association of public school superintendents</field><field name="year">1924</field><field name="date">1924</field><field name="pages">15</field><field name="keywords">School superintendents</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education Connecticut bulletin; series 1923-1924</field><field name="series_vol">4</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1923-1924</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Report of the committee on standard tests and measurements of the Connecticut school superintendents' association</field><field name="date">1919?</field><field name="pages">10</field><field name="keywords">School superintendents</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education Connecticut bulletin; series 1917-1918</field><field name="series_vol">75</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1917-1918</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Financial statistics relating to schools, Connecticut towns and cities, 1922-1923</field><field name="year">1924</field><field name="date">1924</field><field name="pages">62</field><field name="keywords">School finance</field><field name="notes">62, [5] p. incl. tables. 22 cm.; Genre/Form: Statistics.; Responsibility: State board of education, Hartford, Connecticut, 1924; Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut state board of education research bulletin; series 1923-4</field><field name="series_vol">1</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1924</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Suggested procedures in case of air raids</field><field name="year">1941</field><field name="date">12/1941</field><field name="pages">4</field><field name="keywords">World War II</field><field name="keywords">Civil defense</field><field name="keywords">School management and organization</field><field name="keywords">War and education</field><field name="notes">4 pages ; 28 cm; Note(s): Cover title./ "December, 1941."; Responsibility: Connecticut State Department of Education, Division of Instruction; Shelved in Cubberley Library Reading Room</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4</field><field name="state_country">Connecticut</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Opportunities in higher education in Connecticut</field><field name="year">1950</field><field name="date">07/1950</field><field name="pages">19</field><field name="keywords">Higher education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education bulletin</field><field name="series_vol">46</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1950</field><field name="state_country">Connecticut</field><field name="grade_level_group">Postsecondary</field></doc>
+<doc><field name="type">Book</field><field name="corp_author">Connecticut State Board of Education</field><field name="title">Education in Connecticut</field><field name="year">1954</field><field name="date">12/1954</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Connecticut State Board of Education. Bulletin</field><field name="series_vol">45</field><field name="publisher">Connecticut State Board of Education</field><field name="pub_place">Hartford, CT</field><field name="language">English</field><field name="call_number">379.74 .C4 1954</field><field name="state_country">Connecticut</field></doc>
+</add>
