@@ -1,0 +1,570 @@
+
+
+
+
+TY  - BOOK
+A2  - Singapore Ministry of Education
+T1  - Syllabus for English, primary 1 and 2 draft
+Y1  - 1971
+SP  - 65
+KW  - English language
+PB  - Singapore Ministry of Education
+CY  - Singapore
+LA  - English
+CN  - 428.2 .S61e v. 1
+SC  - Singapore
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Singapore Ministry of Education
+T1  - Syllabus for English, primary 3 and 4 draft
+Y1  - 1971
+SP  - 123
+KW  - English language
+PB  - Singapore Ministry of Education
+CY  - Singapore
+LA  - English
+CN  - 428.2 .S61e v. 2
+SC  - Singapore
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Singapore Ministry of Education
+T1  - Revised syllabus for primary 1 and 2 science draft
+Y1  - 1971
+D1  - 1971
+SP  - 10
+KW  - Science
+N1  - illustrations 19 x 27 cm; Note(s): Cover title: Syllabus for science.; Other Titles: Syllabus for science
+PB  - Singapore Ministry of Education
+CY  - Singapore
+LA  - English
+CN  - 519 .S61s v. 1
+SC  - Singapore
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Singapore Ministry of Education
+T1  - Revised syllabus for primary 3 and 4 science draft
+Y1  - 1971
+D1  - 1971
+SP  - 32
+KW  - Science
+N1  - illustrations 19 x 27 cm; Note(s): Cover title: Syllabus for science.; Other Titles: Syllabus for science
+PB  - Singapore Ministry of Education
+CY  - Singapore
+LA  - English
+CN  - 519 .S61s v. 2
+SC  - Singapore
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Singapore Ministry of Education
+T1  - English as a second language : revised syllabus for primary 1 and 2
+Y1  - 1971
+D1  - 1971
+SP  - 17
+KW  - English language
+N1  - ill. ; 19 x 27 cm.; Genre/Form: Outlines and syllabi.; Note(s): Draft copy.; Other Titles: Syllabus for English 2nd language, primary 1 and 2
+PB  - Singapore Ministry of Education
+CY  - Singapore
+LA  - English
+CN  - 428.211 .S61e v. 1
+SC  - Singapore
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Singapore Ministry of Education
+T1  - English as a second language : revised syllabus for primary 3 and 4
+Y1  - 1971
+D1  - 1971
+SP  - 22
+KW  - English language
+N1  - ill. ; 19 x 27 cm.; Genre/Form: Outlines and syllabi.; Note(s): Draft copy.; Other Titles: Syllabus for English 2nd language, primary 3 and 4.
+PB  - Singapore Ministry of Education
+CY  - Singapore
+LA  - English
+CN  - 428.211 .S61e v. 2
+SC  - Singapore
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Singapore Ministry of Education
+T1  - Revised primary 1 and 2 syllabus for civics, draft
+Y1  - 1971
+D1  - 1971
+SP  - 8
+KW  - Civics
+N1  - First of 2 volumes ; 20 x 27 cm; Genre/Form: Outlines and syllabi.; Note(s): Cover title./ "Syllabus for Primary 3 and 4 civics"--T.p., v. 2./ "Revised Primary 1 and 2 syllabus for civics"--T.p., v. 1./ T.p. of each v. stamped: Draft.; Other Titles: Syllabus and guidelines for civics.
+PB  - Singapore Ministry of Education
+CY  - Singapore
+LA  - English
+CN  - 377.2 .S61c v. 1
+SC  - Singapore
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cuevas, Valentin F.
+T1  - Vocational training II
+Y1  - 1964
+D1  - 1964
+SP  - 33
+KW  - Vocational education
+T2  - Spanish subjects
+V1  - 105
+PB  - Publicaciones Españolas
+CY  - Madrid, Spain
+LA  - English
+CN  - 371.401 .P97v v. 1
+SC  - Spain
+ER  - 
+
+TY  - BOOK
+A1  - Moreno Ballesteros, Manuel
+T1  - Intensive vocational training
+Y1  - 1964
+D1  - 1964
+SP  - 30
+KW  - Vocational education
+N1  - 30 pages illustrations 25 cm.
+T2  - Spanish topics
+V1  - 436
+PB  - Publicaciones Españolas
+CY  - Madrid, Spain
+LA  - English
+CN  - 371.401 .P97v v. 2
+SC  - Spain
+ER  - 
+
+TY  - BOOK
+A1  - Zeiss, Cecelia M.
+T1  - The teaching of English in South African schools; a select bibliography
+Y1  - 1965
+D1  - 1965
+SP  - 19
+KW  - English language
+KW  - Bibliography
+KW  - Afrikaans speakers
+N1  - 19 leaves 30 cm; Dissertation: diploma in librarianship; University of the Witwatersrand; Genre/Form: Bibliography.; Note(s): Also issued online.; Responsibility: compiled by Cecelia M. Zeiss.
+PB  - University of the Witwatersrand
+CY  - Johannesburg, South Africa
+LA  - English
+CN  - 428.211 .W83t
+SC  - South Africa
+ER  - 
+
+TY  - BOOK
+T1  - Arbetsbok i hembygdskunskap, klass III
+Y1  - 1938
+D1  - 1938
+KW  - Sweden
+N1  - Scrapbook of drawings, photos, maps, etc.
+PB  - Junior Red Cross of Midsommarkransen Public School
+CY  - Stockholm, Sweden
+LA  - Swedish
+CN  - 948.5 .M63a
+SC  - Sweden
+ER  - 
+
+TY  - BOOK
+A1  - Sandberg, Fredrik
+A1  - Knös, Börje
+T1  - Education and scientific research in Sweden
+Y1  - 1938
+D1  - 1938
+SP  - 76
+KW  - Education
+KW  - Sweden
+KW  - Science
+AB  - Education in Sweden, by Fr. Sandberg. The Swedish universities, institutions of scientific research and cultural establishments, by Börje knös.
+N1  - 76 pages, 1 leaf 22 cm.; Responsibility: by Fr. Sandberg and Börje Knös.
+T2  - New Sweden tercentenary publications
+PB  - Printed A. Bonniers boktrycheri
+CY  - Stockholm, Sweden
+LA  - English
+CN  - 370 .S20e 1938
+SC  - Sweden
+ER  - 
+
+TY  - BOOK
+T1  - Svenska Ungdomens Röda kors
+Y1  - 1938
+D1  - 1938
+V1  - 15
+IS  - 4
+KW  - Sweden
+PB  - Ungdomens Röda kors, Emil Kihlströms tr.)
+CY  - Stockholm, Sweden
+LA  - Swedish
+CN  - 400 .S96s 1938
+SC  - Sweden
+ER  - 
+
+TY  - BOOK
+A1  - Yang, Ching-mai
+T1  - Essentials of the English tense
+Y1  - 1954
+D1  - 1954
+SP  - 83
+KW  - English language
+KW  - Grammar
+N1  - Cover in Chinese
+PB  - Tamkang English College
+CY  - China, Taiwan
+LA  - English
+LA  - Chinese
+CN  - 428.211 T15t v. 2
+SC  - China, Taiwan
+ER  - 
+
+TY  - BOOK
+A1  - Pratt, Charles A.
+T1  - 500
+Y1  - 1967
+D1  - 1967
+SP  - 35
+KW  - Teaching aids
+N1  - This preliminary report gives details of the planning and provision for a comprehensive, two year, teaching aids course at University College, Dar es Salaam, to cater to 500 students during term time with comparable facilities for in-service training in the vacations.
+PB  - University College
+CY  - Dar es Salaam, Tanzania
+LA  - English
+CN  - 371.3095 .D21t 1967
+SC  - Tanzania
+ER  - 
+
+TY  - BOOK
+A2  - Thailand-UNESCO Fundamental Education Centre
+T1  - TUFEC provisional programme of study
+Y1  - 1954
+D1  - 1954
+SP  - 60
+KW  - Curricula
+KW  - Thailand
+KW  - Educational assistance
+KW  - Thailand
+N1  - 60 pages 22 cm
+PB  - Thailand-UNESCO Fundamental Education Centre
+CY  - Ubol, Thailand
+LA  - English
+CN  - 959.3 .T42t 1954
+SC  - Thailand
+ER  - 
+
+TY  - BOOK
+A2  - Unesco Regional Office for Education in Asia
+T1  - Regional workshop on population and family education, 7 September - 7 October 1970: draft sample instructional materials: science/mathematics
+Y1  - 1971
+D1  - 1971
+SP  - 55
+KW  - Population
+KW  - Family life education
+KW  - Science
+KW  - Mathematics
+N1  - First of 2 v. : ill. ; 30 x 21 cm.; Other Titles: Population and family education.; Responsibility: Regional Workshop on Population and Family Education, 7 September--7 October 1970.
+T2  - Regional Workshop on Population and Family Education
+PB  - Unesco Regional Office for Education in Asia
+CY  - Bangkok, Thailand
+LA  - English
+CN  - 371.33 .U56p v. 1
+SC  - Thailand
+ER  - 
+
+TY  - BOOK
+A2  - Unesco Regional Office for Education in Asia
+T1  - Regional workshop on population and family education, 7 September - 7 October 1970: draft sample instructional materials: social studies
+Y1  - 1971
+D1  - 1971
+SP  - 73
+KW  - Population
+KW  - Family life education
+KW  - Social sciences
+N1  - Second of 2 v. : ill. ; 30 x 21 cm.; Other Titles: Population and family education.; Responsibility: Regional Workshop on Population and Family Education, 7 September--7 October 1970.
+T2  - Regional Workshop on Population and Family Education
+PB  - Unesco Regional Office for Education in Asia
+CY  - Bangkok, Thailand
+LA  - English
+CN  - 371.33 .U56p v. 2
+SC  - Thailand
+ER  - 
+
+TY  - BOOK
+A2  - Unesco Regional Office for Education in Asia. Population Education Clearing House Service
+T1  - Population, population and family education and family planning: accessions list July - September 1973
+Y1  - 1973
+D1  - 09/1973
+SP  - 59
+KW  - Population
+KW  - Family life education
+N1  - BKP/73/D/652-500
+PB  - Unesco Regional Office for Education in Asia
+CY  - Bangkok, Thailand
+LA  - English
+CN  - 371.33 .U56p v. 3
+SC  - Thailand
+ER  - 
+
+TY  - BOOK
+A2  - Unesco Regional Office for Education in Asia Population Education Clearing House Service
+T1  - Population, population and family education and family planning: supplement to bibliography
+Y1  - 1973
+D1  - 01/1973
+SP  - 20
+KW  - Population
+KW  - Family life education
+KW  - Bibliography
+PB  - Unesco Regional Office for Education in Asia
+CY  - Bangkok, Thailand
+LA  - English
+CN  - 371.33 .U56p v. 4
+SC  - Thailand
+ER  - 
+
+TY  - BOOK
+A1  - Hawes, H. W. R.
+A2  - History Syllabus Panel
+T1  - History teachers' handbook for Uganda. Part 1 for Primary Three and Four
+Y1  - 1965
+D1  - 1965
+SP  - 90
+KW  - History
+N1  - Responsibility: produced by the History Syllabus Panel ; edited by H.W.R. Hawes.
+PB  - Longmans of Uganda
+CY  - Kampala, Uganda
+LA  - English
+CN  - 960 .K15h v. 1
+SC  - Uganda
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hodges, M.
+A2  - History Syllabus Panel
+T1  - History teachers' handbook for Uganda. Part 3 for Primary Six
+Y1  - 1966
+D1  - 1966
+SP  - 87
+KW  - History
+N1  - Responsibility: produced by the History Syllabus Panel ; edited by Miss M. Hodges.
+PB  - Longmans of Uganda
+CY  - Kampala, Uganda
+LA  - English
+CN  - 960 .K15h v. 3
+SC  - Uganda
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Whelan, J. P.
+A2  - History Syllabus Panel
+T1  - History teachers' handbook for Uganda. Part 2 for Primary Five
+Y1  - 1966
+D1  - 1966
+SP  - 44
+KW  - History
+N1  - Responsibility: produced by the History Syllabus Panel ; edited by J.P. Whelan.
+PB  - Longmans of Uganda
+CY  - Kampala, Uganda
+LA  - English
+CN  - 960 .K15h v. 2
+SC  - Uganda
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Great Britain Board of Education
+T1  - Examinations in Art. Question papers 1948. The Intermediate Examination in Arts and Crafts. The Examination for the National Diploma in Design
+Y1  - 1948
+D1  - 1948
+KW  - Examinations
+PB  - His Majesty's Stationery Office
+CY  - London, United Kingdom
+LA  - English
+CN  - 379.42 G786 ex 1948
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - Great Britain Board of Education
+T1  - Examinations in Art. Question papers 1948. The Intermediate Examination in Arts and Crafts. The Examination for the National Diploma in Design
+Y1  - 1949
+D1  - 1949
+KW  - Examinations
+PB  - His Majesty's Stationery Office
+CY  - London, United Kingdom
+LA  - English
+CN  - 379.42 G786 ex 1949
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - Great Britain Board of Education
+T1  - The Montessori system of education
+Y1  - 1912
+D1  - 1912
+SP  - 27
+KW  - Montessori method of education
+N1  - 27 pages ; 25 cm.
+T2  - Educational pamphlets / Board of Education, Great Britain
+V1  - 24
+PB  - His Majesty's Stationery Office
+CY  - London, United Kingdom
+LA  - English
+CN  - 372.15 .G786m 1912
+SC  - United Kingdom
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Mason, Charlotte M.
+A2  - Parents' National Educational Union
+T1  - Some suggestions for the school curriculum of girls and boys under 14
+Y1  - 1906
+D1  - 1906
+SP  - 32
+KW  - Elementary education
+PB  - Parents National Educational Union
+CY  - London, United Kington
+LA  - English
+CN  - 375.15 .G786s 1906
+SC  - United Kingdom
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Great Britain Education Department
+T1  - Code of regulations for day schools
+Y1  - 1894
+D1  - 1894
+SP  - 93
+KW  - Educational law and legislation
+PB  - His Majesty's Stationery Office
+CY  - London, United Kingdom
+LA  - English
+CN  - 379.42 .G75dd 1894
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A1  - Rödiger, Wilhelm
+A1  - Boase, T. S. R.
+T1  - The Teaching of History: its Purpose, Material and Method
+Y1  - 1937
+D1  - 1937
+SP  - 34
+KW  - History
+T2  - "Friends of Europe" publications
+V1  - 57
+PB  - Friends of Europe
+CY  - London, United Kingdom
+LA  - English
+CN  - 925 .R70t 1937
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - London County Council
+T1  - Evening education: commercial technical, domestic and gender, session 1913-14
+Y1  - 1913
+D1  - 1913
+SP  - 16
+KW  - Adult education
+PB  - London County Council
+CY  - London, United Kingdom
+LA  - English
+CN  - 379.74 .L847e 1913
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - República de Venezuela Ministerio de Educación
+T1  - Inglés
+Y1  - 1972
+D1  - 1972
+SP  - 39
+KW  - English language
+KW  - Conversation and phrase books
+T2  - Ciclo diversificado : area común; primer año; programa de ... / República de Venezuela. Ministerio de Educación
+V1  - 3
+PB  - República de Venezuela Ministerio de Educación
+CY  - Caracas, Venezuela
+LA  - Spanish
+CN  - 428.2 .V45p
+SC  - Venezuela
+ER  - 
+
+TY  - BOOK
+A1  - Temple, Judith M.
+T1  - This is my province
+Y1  - 1966
+D1  - 1966
+SP  - 144
+KW  - Geography
+N1  - 144 pages illustrations, maps 21 cm.; Note(s): Includes bibliographical references.; Responsibility: by Judith M. Temple.
+T2  - Social studies for Zambia
+V1  - 2
+PB  - Lutterworth Press
+CY  - London, United Kingdom
+LA  - English
+CN  - 371.33 .Z23s v. 2
+SC  - Zambia
+ER  - 
+
+TY  - BOOK
+A1  - Temple, Judith M.
+T1  - This is my home
+Y1  - 1966
+D1  - 1966
+SP  - 87
+KW  - Social sciences
+N1  - 87 pages illustrations 21 cm.; Note(s): Includes bibliographical references (page 87).; Responsibility: by Judith M. Temple.
+T2  - Social studies for Zambia
+V1  - 1
+PB  - Lutterworth Press
+CY  - London, United Kingdom
+LA  - English
+CN  - 371.33 .Z23s v. 1
+SC  - Zambia
+ER  - 
+
+TY  - BOOK
+A1  - Temple, Judith M.
+T1  - This is my country
+Y1  - 1966
+D1  - 1966
+SP  - 203
+KW  - Social sciences
+KW  - Zambia
+N1  - 203 pages illustrations, maps 21 cm.; Responsibility: by Judith M. Temple.
+T2  - Social studies for Zambia
+V1  - 3
+PB  - Lutterworth Press
+CY  - London, United Kingdom
+LA  - English
+CN  - 371.33 .Z23s v. 3
+SC  - Zambia
+ER  - 
+
+TY  - BOOK
+A1  - Temple, Judith M.
+T1  - These are our neighbours
+Y1  - 1966
+D1  - 1966
+SP  - 200
+KW  - Social sciences
+KW  - Africa
+N1  - 200 pages : illustrations, maps ; 20 cm.; Responsibility: by Judith M. Temple.
+T2  - Social studies for Zambia
+V1  - 4
+PB  - Lutterworth Press
+CY  - London, United Kingdom
+LA  - English
+CN  - 371.33 .Z23s v. 4
+SC  - Zambia
+ER  - 
