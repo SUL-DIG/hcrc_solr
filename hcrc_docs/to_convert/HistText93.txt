@@ -1,0 +1,654 @@
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - High interest low vocabulary booklist
+Y1  - 1954
+D1  - 09/1954
+SP  - 21
+KW  - Children's literature
+KW  - Bibliography
+PB  - Alameda Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 375.13 .A318g suppl. 1954
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Department of instruction
+Y1  - 1954
+D1  - 08/1954
+SP  - 4
+KW  - Teaching
+PB  - Alameda Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 375.13 .A318d 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Albany High School
+T1  - Course of study and notes
+D1  - 1917-1918
+KW  - Curricula
+PB  - Albany High School
+LA  - English
+CN  - 375.15 .A32c 1917
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Albany High School
+T1  - Course of study and notes
+D1  - 1920-1921
+KW  - Curricula
+PB  - Albany High School
+LA  - English
+CN  - 375.15 .A32c 1920
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Albuquerque (New Mexico) Board of Education
+T1  - General statement of work in all departments of the Albuquerque Public Schools compiled by Superintendent of Schools
+Y1  - 1906
+D1  - 1906-1907
+SP  - 110
+KW  - Public schools
+KW  - Curricula
+PB  - Albuquerque Board of Education
+CY  - Albuquerque, NM
+LA  - English
+CN  - 375.83 .A35g 1906-07
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - Albuquerque (New Mexico) Board of Education
+T1  - A course of study for all departments of the Albuquerque Public Schools compiled by Superintendent of Schools
+Y1  - 1909
+D1  - 1909-1910
+SP  - 72
+KW  - Public schools
+KW  - Curricula
+PB  - Albuquerque Board of Education
+CY  - Albuquerque, NM
+LA  - English
+CN  - 375.83 .A35c 1909-10
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - Alhambra (California) City Schools
+T1  - Course of study for the kindergarten and the elementary schools (grades I to VIII, inclusive)
+Y1  - 1930
+D1  - 1930
+SP  - 283
+KW  - Curricula
+PB  - Alhambra City Schools
+CY  - Alhambra, CA
+LA  - English
+CN  - 375.13 .A39c 1930
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Altoona (Pennsylvania) Public Schools
+T1  - Term of 1898-99
+Y1  - 1898
+D1  - 1898-1899
+KW  - Public schools
+KW  - Directories
+PB  - Altoona Public Schools
+CY  - Altoona, PA
+LA  - English
+CN  - 379.16 .A465t 1898-99
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Altoona (Pennsylvania) Public Schools
+T1  - Course of study
+Y1  - 1907
+D1  - 1907
+SP  - 239
+KW  - Curricula
+PB  - Altoona Public Schools
+CY  - Altoona, PA
+LA  - English
+CN  - 375.83 .A465c 1907
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Amador (California) County Schools
+T1  - Manual for the elementary schools of Amador County containing course of study
+Y1  - 1931
+D1  - 06/1931
+SP  - 51
+KW  - Curricula
+KW  - Educational law and legislation
+N1  - "Rules and regulations of the County Board of Education, rules concerning the graduation of pupils and general suggestions for schools."
+PB  - Amador County Schools
+LA  - English
+CN  - 375.82 .A49m 1931
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Anderson (Indiana) Public Schools
+T1  - Manual of the public schools of Anderson, Indiana
+Y1  - 1898
+D1  - 1898-1899
+SP  - 145
+KW  - Curricula
+N1  - Bound with 1901.
+PB  - Anderson Public Schools
+CY  - Anderson, IN
+LA  - English
+CN  - 375.83 .A54m 1898
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Anderson (Indiana) Public Schools
+T1  - Manual of the public schools of Anderson, Indiana
+Y1  - 1901
+D1  - 1901
+SP  - 195
+KW  - Curricula
+N1  - Bound with 1898-9.
+PB  - Anderson Public Schools
+CY  - Anderson, IN
+LA  - English
+CN  - 375.83 .A54m 1898
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1891-1892
+Y1  - 1892
+D1  - 1891-1892
+SP  - 39
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1892
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1892-1893
+Y1  - 1893
+D1  - 1892-1893
+SP  - 72
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1893
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1897-1898
+Y1  - 1898
+D1  - 1897-1898
+SP  - 43
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1898
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1899-1900
+Y1  - 1900
+D1  - 1899-1900
+SP  - 46
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1900
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1900-1901
+Y1  - 1901
+D1  - 1900-1901
+SP  - 51
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1901
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1901-1902
+Y1  - 1902
+D1  - 1901-1902
+SP  - 46
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1902
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1902-1903
+Y1  - 1903
+D1  - 1902-1903
+SP  - 46
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1903
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1903-1904
+Y1  - 1904
+D1  - 1903-1904
+SP  - 54
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1904
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1904-1905
+Y1  - 1905
+D1  - 1904-1905
+SP  - 52
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1905
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1905-1906
+Y1  - 1906
+D1  - 1905-1906
+SP  - 45
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1906
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1906-1907
+Y1  - 1907
+D1  - 1906-1907
+SP  - 45
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1907
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1909-1910
+Y1  - 1910
+D1  - 1909-1910
+SP  - 48
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1910
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1910-1911
+Y1  - 1911
+D1  - 1910-1911
+SP  - 50
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1911
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1911-1912
+Y1  - 1912
+D1  - 1911-1912
+SP  - 51
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1912
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1912-1913
+Y1  - 1913
+D1  - 1912-1913
+SP  - 53
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1913
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1914-1915
+Y1  - 1915
+D1  - 1914-1915
+SP  - 57
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1915
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1915-1916
+Y1  - 1916
+D1  - 1915-1916
+SP  - 59
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1916
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Catalogue of the Ann Arbor High School for the academic year 1916-1917
+Y1  - 1917
+D1  - 1916-1917
+SP  - 60
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1917
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Course of study for the grades
+Y1  - 1917
+D1  - 08/1917
+SP  - 64
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.13 .A61c 1917
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Ann Arbor High School for the academic year 1918-1919
+Y1  - 1918
+D1  - 1918-1919
+SP  - 16
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A61c 1918
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Asbury Park (New Jersey) Public Schools
+T1  - Curriculum of the Asbury Park High School
+Y1  - 1904
+D1  - 1903-1904
+KW  - Curricula
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .A80c 1903
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Asheville (North Carolina) City Schools
+T1  - Course of study for guidance of teachers
+Y1  - 1901
+D1  - 1901-1902
+SP  - 63
+KW  - Curricula
+PB  - Asheville City Schools
+CY  - Asheville, NC
+ED  - First
+LA  - English
+CN  - 375.83 .A82c 1901
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Asheville (North Carolina) City Schools
+T1  - Course of study for guidance of teachers
+Y1  - 1906
+D1  - 1906-1907
+SP  - 135
+KW  - Curricula
+PB  - Asheville City Schools
+CY  - Asheville, NC
+ED  - Second
+LA  - English
+CN  - 375.83 .A82c 1906
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - Outlines for the primary department
+Y1  - 1916
+D1  - 1916-1917
+SP  - 186
+KW  - Curricula
+PB  - Atlanta Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A85o 1916
+SC  - Georgia
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Arlington (Massachusetts) High School
+T1  - Courses of study
+Y1  - 1919
+D1  - 09/1919
+KW  - Curricula
+PB  - Arlington Schools
+CY  - Arlington, MA
+LA  - English
+CN  - 375.15 .A72c 1919
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Atlantic City (New Jersey) Public Schools
+T1  - Curriculum for the kindergarten and primary grades
+Y1  - 1913
+D1  - 1913
+SP  - 129
+KW  - Curricula
+PB  - Atlantic City Public Schools
+CY  - Atlantic City, NJ
+LA  - English
+CN  - 375.12 .A89c 1913
+SC  - New Jersey
+G1  - Elementary
+G1  - Prek
+ER  - 
+
+TY  - BOOK
+A2  - Atlantic City (New Jersey) Public Schools
+T1  - Curriculum for the grammar grades
+Y1  - 1913
+D1  - 1913
+SP  - 131
+KW  - Curricula
+PB  - Atlantic City Public Schools
+CY  - Atlantic City, NJ
+LA  - English
+CN  - 375.14 .A89c 1913
+SC  - New Jersey
+G1  - Elementary
+G1  - Middle school
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Atlantic City (New Jersey) Public Schools
+T1  - Course of study grammar grades
+Y1  - 1926
+D1  - 1926
+SP  - 234
+KW  - Curricula
+PB  - Atlantic City Public Schools
+CY  - Atlantic City, NJ
+LA  - English
+CN  - 375.14 .A89c 1926
+SC  - New Jersey
+G1  - Elementary
+G1  - Middle school
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) High Schools
+T1  - Courses of study
+Y1  - 1917
+D1  - 1917-1918
+KW  - Curricula
+PB  - Atlanta High Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.15 .A85c 1917
+SC  - Georgia
+G1  - High schools
+ER  -
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - The course of study for the elementary schools
+Y1  - 1920
+D1  - 1921-1922
+SP  - 130
+KW  - Curricula
+PB  - Atlanta Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A85c 1920
+SC  - Georgia
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  -
+
+TY  - BOOK
+A2  - Atlanta (Georgia) Public Schools
+T1  - The course of study for the elementary schools
+Y1  - 1922
+D1  - 1922-1923
+SP  - 129
+KW  - Curricula
+PB  - Atlanta Public Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.13 .A85c 1922
+SC  - Georgia
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  -
+
