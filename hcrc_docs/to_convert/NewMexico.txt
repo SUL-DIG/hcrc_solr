@@ -1,0 +1,263 @@
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - A report to the state on Title I of the Elementary and Secondary Education Act of 1965
+D1  - 1969?
+SP  - 32
+KW  - School finance
+KW  - Students
+KW  - Children with social disabilities
+KW  - Federal aid to education
+N1  - 32 pages : illustrations ; 28 cm; Note(s): Cover title.; Other Titles: Title I in New Mexico :; a summary; Responsibility: [State of New Mexico Board of Education ; Leonard J. De Layo].; Shelved in Cubberley Library Reading Room
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1969
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Kool, Roland
+A1  - Orton, Eliot S.
+A2  - New Mexico Office of the Governor
+A2  - New Mexico Committee on Educational and Training Needs for Economic Improvement
+T1  - A report to the Governor's Council of Economic Advisors, State of New Mexico
+Y1  - 1975
+D1  - 12/1975
+SP  - 56
+KW  - Vocational education
+N1  - v, 57 leaves ; 28 cm.; Responsibility: from the Committee on Educational and Training Needs for Economic Improvement ; co-chairmen, Roland Kool, Eliot S. Orton ; members, Ray Chavez ... [et al.].; Shelved in Cubberley Library Reading Room
+PB  - New Mexico Office of the Governor
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1975
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - Annual evaluation report P.L. 89-10, as amended by P.L. 89-750 for migrant programs for fiscal year ending June 30, 1974
+D1  - 1974?
+SP  - 35
+KW  - Children of migrant laborers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1974
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Superintendent of Public Instruction
+T1  - Reflections on living. A report from the superintendent on activities of the Department of Education
+Y1  - 1972
+D1  - 01/1972
+SP  - 48
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1972
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Gott, John W.
+A2 -  New Mexico State Planning Office
+T1  - Financial structure of the New Mexico education system
+Y1  - 1966
+D1  - 1966
+SP  - 41
+KW  - School finance
+N1  - 41 pages : illustrations ; 23 cm; Note(s): "Phase I, state resources development plan."/ Includes bibliographical references (pages 40-41).; Shelved in Cubberley Library Reading Room
+PB  - New Mexico State Planning Office
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1966
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Green, James W.
+A1  - Rodgers, Jessie
+A2  - New Mexico Education Association
+T1  - Toward a better understanding of school finances in New Mexico
+Y1  - 1964
+D1  - 1964
+KW  - School finance
+N1  - 1 volume (various pagings) : 1 illustration ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title./ "Prepared by James W. Green ... and Mrs. Jessie Rodgers"--1st prelim. page./ "Revised April 1964 to include Public School Appropriation made by Special Legislative Session 1964"--1st prelim. page.; Shelved in Cubberley Library Reading Room
+PB  - New Mexico Education Association
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1964
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Mort, Paul R.
+A2  - New Mexico State Board of Education
+T1  - Toward a more dynamic fiscal policy for New Mexico schools : a report to the State Board of Education
+Y1  - 1961
+D1  - 10/1961
+SP  - 21
+KW  - School finance
+N1  - v; ges ; 22 cm; Note(s): Cover title./ Includes bibliographical references.; Responsibility: by Paul R. Mort.; Shelved in Cubberley Library Reading Room
+PB  - New Mexico State Board of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1961
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Murphy, Irvin Philip
+T1  - Analysis and evaluation of the New Mexico school code; a report to the legislature. Excerpts of a research study prepared during the period of July 1958 to June 1961
+Y1  - 1961
+D1  - 11/1961
+SP  - 318
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1961
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Chapman, John W.
+A2  - New Mexico Civilian Defense Agency
+T1  - Manual for civilian defense in the schools
+D1  - 1952?
+KW  - Civil defense
+KW  - School management and organization
+N1  - 1 volume (unpaged) 28 cm; Note(s): N.M. State doc. no.: J87.N6 M304.61 C58.; Responsibility: prepared by John W. Chapman, state director of civilian defense.; Shelved in Cubberley Library Reading Room
+PB  - New Mexico Civilian Defense Agency
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1952
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Donnelly, Thomas C.
+A2  - University of New Mexico. Division of Research, Department of Government.
+T1  - The state educational system
+Y1  - 1946
+D1  - 04/1946
+SP  - 35
+KW  - Education
+N1  - 35 pages tables (some folded) 22 cm.; Note(s): N.M. State doc. call no.: J87.N6 F101.41 no. 1.; Responsibility: by Thomas C. Donnelly.; Shelved in Cubberley Library Reading Room
+T2  - University of New Mexico Division of Research
+V1  - 1
+PB  - University of New Mexico
+CY  - Albuquerque, NM
+LA  - English
+CN  - 379.74 .N3 1946
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A1  - Miller, Ruth C.
+A2  - New Mexico State Department of Education
+T1  - Plans for vocational education in New Mexico
+Y1  - 1917
+D1  - 1917
+SP  - 22
+KW  - Vocational education
+N1  - 22 pages 28 cm.; Responsibility: under the provisions of the Smith-Hughes Act. Adopted by the State Board of Education, Aug. 24, 1917. Prepared by Ruth C. Miller.; Shelved in Cubberley Library Reading Room
+T2  - New Mexico State Board for Vocational Education Vocational bulletin
+V1  - 1
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1917
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - New Mexico schools' handbook of reporting forms
+Y1  - 1960
+D1  - 10/1960
+SP  - 51
+KW  - School reports
+N1  - 51 pages : forms ; 28 cm; Genre/Form: Blank forms.; Responsibility: [New Mexico Dept. of Education, Division of Statistics].; Shelved in Cubberley Library Reading Room
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1960
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Board of Education
+T1  - Revised plans for vocational education in New Mexico
+D1  - 1919?
+SP  - 52
+KW  - Vocational education
+N1  - Responsibility: under the provisions of the Smith-Hughes Act. Adopted by the State Board for Vocational Education, April, 1919.; Shelved in Cubberley Library Reading Room
+T2  - New Mexico State Board for Vocational Education Vocational bulletin
+V1  - 4
+PB  - New Mexico State Board of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1919-20
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - Specification for school busses 1939-40
+D1  - 1940?
+SP  - 24
+KW  - School buses
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1939-40
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico Educational Budget Auditor
+T1  - Financial study of distribution according to teacher allocation laws
+D1  - 1956?
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1955-56
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - teacher education for New Mexico summer workshop schedules
+Y1  - 1958
+D1  - 1958
+SP  - 41
+KW  - Teacher training
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1958
+SC  - new Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico Governor's Public School Study Commission
+T1  - Report to the Governor
+Y1  - 1964
+D1  - 12/1964
+SP  - 153
+KW  - Public education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Mexico Governor's Public School Study Commission
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.74 .N3 1964
+SC  - New Mexico
+ER  - 
