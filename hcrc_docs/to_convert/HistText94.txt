@@ -1,0 +1,1314 @@
+
+TY  - BOOK
+A2  - Augusta (Maine) Schools
+T1  - Cony High School
+Y1  - 1903
+D1  - 1903-1904
+KW  - High schools
+PB  - Cony High School
+CY  - Augusta, ME
+LA  - English
+CN  - 375.15 .A91c 1903
+SC  - Maine
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Austin (Texas) Public Schools
+T1  - Course of study of the public schools of the city of Austin, Texas for the year beginning September 1, 1904
+Y1  - 1904
+D1  - 1904
+SP  - 63
+KW  - Curricula
+PB  - Austin Public Schools
+CY  - Austin, TX
+LA  - English
+CN  - 375.83 A93c 1904
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Austin (Texas) Public Schools
+T1  - Course of study of the high schools
+Y1  - 1916
+D1  - 1916-1917
+SP  - 97
+KW  - Curricula
+KW  - High schools
+PB  - Austin Public Schools
+CY  - Austin, TX
+LA  - English
+CN  - 375.15 A93c 1916
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Lyman, Rollo L.
+A1  - Sisk, M. Lucetta
+A1  - Boettner A.A.
+A1  - Dearborn, Frances r.
+A2  - Baltimore County (Maryland) Public Schools
+T1  - Course of study in English: part three: grades seven to nine
+Y1  - 1937
+D1  - 1937
+SP  - 240
+KW  - English language
+PB  - Baltimore County Board of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 428.2 .B19c 1937
+SC  - Maryland
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Bangor (Maine) High School
+T1  - Catalogue
+Y1  - 1904
+D1  - 1904-1905
+SP  - 31
+KW  - Curricula
+PB  - Bangor High School
+CY  - Bangor, ME
+LA  - English
+CN  - 375.15 .B20c 1904
+SC  - Maine
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Bangor (Maine) High School
+T1  - Catalogue
+Y1  - 1916
+D1  - 1916-1917
+SP  - 50
+KW  - Curricula
+PB  - Bangor High School
+CY  - Bangor, ME
+LA  - English
+CN  - 375.15 .B20c 1916
+SC  - Maine
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Newark (New Jersey) Board of Education
+A2  - Barringer High School
+T1  - Courses of study
+Y1  - 1913
+D1  - 01/1913
+KW  - Curricula
+PB  - Newark Board of Education
+CY  - Newark, NJ
+LA  - English
+CN  - 375.15 .N532c 1913
+SC  - New Jersey
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Bay City (Michigan) Board of Education
+T1  - Manual of public schools
+Y1  - 1904
+D1  - 1904
+SP  - 216
+KW  - Curricula
+PB  - Bay City Board of Education
+CY  - Bay City, MI
+LA  - English
+CN  - 375.83 .B35m 1904
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Bay City (Michigan) Public Schools
+T1  - Manual and course of study
+Y1  - 1915
+D1  - 05/1915
+SP  - 232
+KW  - Curricula
+PB  - Bay City Public Schools
+CY  - Bay City, MI
+LA  - English
+CN  - 375.83 .B35m 1915
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Beaumont (Texas) Schools
+T1  - Course of study
+Y1  - 1920
+D1  - 1920-1921
+SP  - 108
+KW  - Curricula
+PB  - Beaumont (Texas) Schools
+CY  - Beaumont, TX
+LA  - English
+CN  - 375.83 .B40c 1920
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Beaverhead County (Montana) Schools
+T1  - Beaverhead County Free High School catalog, course of study, general information, rules and regulations
+Y1  - 1904
+D1  - 1904-1905
+SP  - 61
+KW  - Curricula
+KW  - High schools
+PB  - Beaverhead County Free High School
+CY  - Dillon, MT
+LA  - English
+CN  - 375.15 .B401c 1904
+SC  - Montana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Bellingham (Washington) Public Schools
+T1  - Courses of study for the high schools
+Y1  - 1922
+D1  - 1922
+KW  - Curricula
+KW  - High schools
+PB  - Bellingham Public Schools
+CY  - Bellingham, WA
+LA  - English
+CN  - 375.15 .B43 1922
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - Course of study for the public schools of the town of Berkeley
+Y1  - 1906
+D1  - 1906
+SP  - 75
+KW  - Curricula
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.83 .B51c 1906
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - Course of study of the Berkeley High School
+Y1  - 1913
+D1  - 1913
+SP  - 76
+KW  - Curricula
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.15 .B51c 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - Course of study intermediate schools
+Y1  - 1913
+D1  - 1913-1914
+SP  - 46
+KW  - Curricula
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.14 .B51c 1913
+SC  - California
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - A course of study for the elementary schools of Berkeley, California
+Y1  - 1915
+D1  - 1915-1916
+SP  - 188
+KW  - Curricula
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.13 .B51co 1915
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - Course of study of the Berkeley High School
+Y1  - 1923
+D1  - 01/1923
+SP  - 88
+KW  - Curricula
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+T2  - Course of study monographs, high school
+V1  - 1
+LA  - English
+CN  - 375.15 .B51c 1923
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools. Bureau of Curriculum
+T1  - Development of the Bureau of Curriculum, January 4, 1932 to July 1, 1942
+Y1  - 1942
+D1  - 07/1942
+SP  - 28
+KW  - Curricula
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.83 .B51d 1942
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Beverly (Massachusetts) Schools
+T1  - Courses of study: high school
+Y1  - 1916
+D1  - 1916
+SP  - 28
+KW  - Curricula
+KW  - High schools
+PB  - Beverly Schools
+CY  - Beverly, MA
+LA  - English
+CN  - 375.15 .B56c 1916
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Binghamton (New York) Department of Education
+T1  - Central High School courses of study
+Y1  - 1916
+D1  - 1916?
+KW  - Curricula
+KW  - High schools
+PB  - Binghamton Department of Education
+CY  - Binghamton, NY
+LA  - English
+CN  - 375.15 .B60c
+SC  - New York
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Birmingham (Alabama) Public Schools
+T1  - The Birmingham High School course of study and general regulations
+Y1  - 1910
+D1  - 1910
+SP  - 51
+KW  - Curricula
+KW  - High schools
+PB  - Birmingham Public Schools
+CY  - Birmingham, AL
+LA  - English
+CN  - 375.15 .B61b 1910
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Birmingham (Alabama) Public Schools
+T1  - High School course of study and regulations
+Y1  - 1911
+D1  - 1911-1912
+SP  - 16
+KW  - Curricula
+KW  - High schools
+PB  - Birmingham Public Schools
+CY  - Birmingham, AL
+LA  - English
+CN  - 375.15 .B61h 1911
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Birmingham (Alabama) Public Schools
+T1  - Courses of study and regulations: Birmingham high schools
+Y1  - 1922
+D1  - 1922-1923
+SP  - 48
+KW  - Curricula
+KW  - High schools
+PB  - Birmingham Public Schools
+CY  - Birmingham, AL
+LA  - English
+CN  - 375.15 .B61c 1922
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Birmingham (Alabama) Public Schools
+T1  - Courses of study and regulations: Birmingham high schools
+Y1  - 1923
+D1  - 1923-1924
+SP  - 46
+KW  - Curricula
+KW  - High schools
+PB  - Birmingham Public Schools
+CY  - Birmingham, AL
+LA  - English
+CN  - 375.15 .B61c 1923
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boise (Idaho) City Public Schools
+T1  - Course of study for the high school
+Y1  - 1902
+D1  - 1903-1904
+SP  - 10
+KW  - Curricula
+KW  - High schools
+PB  - Boise City Public Schools
+CY  - Boise, Idaho
+LA  - English
+CN  - 375.15 .B72c 1903
+SC  - Idaho
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A1  - Prince, John T.
+A2  - Massachusetts State Board of Education
+T1  - A preliminary report upon a course of studies for elementary schools
+Y1  - 1897
+D1  - 1897
+SP  - 46
+KW  - Curricula
+KW  - Elementary education
+PB  - Massachusetts State Board of Education
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .M41p 1897
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Latin School Association
+T1  - Catalogue of the public Latin school in Boston
+Y1  - 1898
+D1  - 10/1898
+SP  - 56
+KW  - Curricula
+PB  - Boston Latin School Association
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B73c 1898
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Manual of the public schools of the city of Boston
+Y1  - 1901
+D1  - 1901
+SP  - 146
+KW  - Public schools
+KW  - Directories
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.83 .B74m 1901
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1903
+D1  - 1903-1904
+SP  - 52
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1903
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1906
+D1  - 1906-1907
+SP  - 64
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1906
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - A provisional course of study for the elementary schools
+Y1  - 1907
+D1  - 1907
+SP  - 90
+KW  - Curricula
+KW  - Elementary education
+PB  - Boston Public Schools
+CY  - Boston, MA
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 5
+LA  - English
+CN  - 375.13 .B74p 1907
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Course of study for the girls' high school of practical arts
+Y1  - 1907
+D1  - 1907
+SP  - 8
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 8
+LA  - English
+CN  - 375.15 .B74cg 1907
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Rules of the school committee and regulations of the public schools of the city of Boston
+Y1  - 1908
+D1  - 190
+SP  - 209
+KW  - Curricula
+KW  - Educational law and legislation
+PB  - Boston Public Schools
+CY  - Boston, MA
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 4
+LA  - English
+CN  - 375.83 .B74r 1908
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1908
+D1  - 1908-1909
+SP  - 66
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1908
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1909
+D1  - 1909-1910
+SP  - 74
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1909
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1910
+D1  - 1910-1911
+SP  - 82
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1910
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1911
+D1  - 1911-1912
+SP  - 86
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1911
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1912
+D1  - 1912-1913
+SP  - 88
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1912
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1913
+D1  - 1913-1914
+SP  - 90
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1913
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1914
+D1  - 1914-1915
+SP  - 96
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1914
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Catalogue of the English high school in Boston
+Y1  - 1915
+D1  - 1916-1916
+SP  - 108
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74ce 1915
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Course of study for the elementary schools: fifth grade
+Y1  - 1926
+D1  - 1926
+SP  - 211
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 8
+ED  - Revised
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74c 1926 5th
+SC  - Massachusetts
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Course of study for the elementary schools: fifth grade
+Y1  - 1926
+D1  - 1926
+SP  - 240
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 18
+ED  - Revised
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74c 1926 6th
+SC  - Massachusetts
+G1  - Elementary
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Syllabus for the elementary schools: second grade
+Y1  - 1916
+D1  - 1916
+SP  - 93
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 15
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74s 1916 2nd
+SC  - Massachusetts
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Syllabus for the elementary schools: third grade
+Y1  - 1916
+D1  - 1916
+SP  - 125
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 16
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74s 1916 3rd
+SC  - Massachusetts
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Syllabus for the elementary schools: fourth grade
+Y1  - 1916
+D1  - 1916
+SP  - 69
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 11
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74s 1916 4th
+SC  - Massachusetts
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Syllabus for the elementary schools: sixth grade
+Y1  - 1920
+D1  - 1920
+SP  - 157
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 8
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74s 1920 6th
+SC  - Massachusetts
+G1  - Elementary
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Syllabus for the summer review elementary schools: grades IV-VIII
+Y1  - 1920
+D1  - 1920
+SP  - 36
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 4
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74s 1920 4th-8th
+SC  - Massachusetts
+G1  - Elementary
+G1  - Middle school
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - A provisional course of study for the evening elementary schools
+Y1  - 1911
+D1  - 1911
+SP  - 41
+KW  - Curricula
+KW  - Elementary education
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 10
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.13 .B74p 1911
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - A provisional course of study for the evening high schools
+Y1  - 1912
+D1  - 1912
+SP  - 89
+KW  - Curricula
+KW  - High schools
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 4
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74p 1912
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - A provisional course of study for the evening high schools
+Y1  - 1917
+D1  - 1917
+SP  - 83
+KW  - Curricula
+KW  - High schools
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 8
+ED  - Revised
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74p 1917
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Course of study for general high schools
+Y1  - 1911
+D1  - 1911
+SP  - 20
+KW  - Curricula
+KW  - High schools
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 11
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74c 1911
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Curricula for general high schools
+Y1  - 1917
+D1  - 1917
+SP  - 21
+KW  - Curricula
+KW  - High schools
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 9
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74c 1917
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Course of study for general high schools
+Y1  - 1916
+D1  - 1916
+SP  - 17
+KW  - Curricula
+KW  - High schools
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 10
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74c 1916
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Courses of study with mechanic arts, for boys, and practical arts, for girls for intermediate schools and classes
+Y1  - 1919
+D1  - 1919
+SP  - 11
+KW  - Curricula
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 15
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.14 .B74c 1919
+SC  - Massachusetts
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Candidates eligible for appointment as teachers
+Y1  - 1919
+D1  - 07/1919
+SP  - 51
+KW  - Curricula
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 14
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.83 .B74ca 1919
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - The Boston Public Latin , high and industrial schools: what they offer pupils from the elementary schools
+Y1  - 1917
+D1  - 03/1917
+SP  - 30
+KW  - Curricula
+KW  - High schools
+N1  - "A guide tothe choice of a suitable secondary school."
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 2
+ED  - Revised
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74b 1917
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Courses of study in general science for intermediate classes
+Y1  - 1917
+D1  - 1917
+SP  - 41
+KW  - Curricula
+KW  - Science
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 7
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 519 .B74c 1917
+SC  - Massachusetts
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Outline of work in geography and history for intermediate classes
+Y1  - 1917
+D1  - 1917
+SP  - 31
+KW  - Curricula
+KW  - History
+KW  - Geography
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 10
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 910 .B74o 1917
+SC  - Massachusetts
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Outline of work in French and in German for intermediate classes in the elementary grades
+Y1  - 1915
+D1  - 1915
+SP  - 23
+KW  - Curricula
+KW  - French language
+KW  - German language
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 13
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 440 .B74o 1915
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Syllabus for the kindergarten home visiting and mothers' meetings
+Y1  - 1917
+D1  - 1917
+SP  - 40
+KW  - Curricula
+KW  - Kindergarten
+T2  - Boston (Massachusetts) Public Schools. School document
+V1  - 10
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.11 .B74s 1917
+SC  - Massachusetts
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+A2  - Roxbury Latin School
+T1  - Catalogue of the Roxbury Latin School
+Y1  - 1923
+D1  - 1923-1924
+SP  - 44
+KW  - Curricula
+KW  - High schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74c 1923
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Manual of the public schools of the city of Boston
+Y1  - 1929
+D1  - 1929
+SP  - 381
+KW  - Directories
+KW  - Public schools
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.83 .B74m 1929
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Braddock Township (Pennsylvania) Public Schools
+T1  - Course of study, rules and regulations of the Braddock Township public schools
+Y1  - 1897
+D1  - 1897
+SP  - 32
+KW  - Curricula
+KW  - Public schools
+N1  - "Adopted by the Board of Directors, January 8th, 1897."
+PB  - Braddock Township Public Schools
+LA  - English
+CN  - 375.84 .B83c 1897
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Bristol (Connecticut) Department of Education
+T1  - Bristol public schools elementary course of study, revised September 1931
+Y1  - 1931
+D1  - 1931
+KW  - Elementary education
+KW  - Curricula
+PB  - Bristol Department of Education
+CY  - Bristol, CT
+LA  - English
+CN  - 375.13 .B85e 1931
+SC  - Connecticut
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Burlington (Vermont) Public Schools
+T1  - Edmunds High School, Burlington, Vermont
+Y1  - 1901
+D1  - 06/1901
+KW  - Curricula
+KW  - High schools
+PB  - Burlington Schools
+CY  - Burlington, VT
+LA  - English
+CN  - 375.15 .B95e 1901
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Burlington (Vermont) Public Schools
+T1  - Burlington High School courses of study
+Y1  - 1913
+D1  - 1913
+KW  - Curricula
+KW  - High schools
+PB  - Burlington Schools
+CY  - Burlington, VT
+LA  - English
+CN  - 375.15 .B95b 1913
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Burlington (Vermont) Public Schools
+T1  - Provisional course of study
+Y1  - 1914
+D1  - 1914
+KW  - Curricula
+KW  - Public schools
+PB  - Burlington Schools
+CY  - Burlington, VT
+LA  - English
+CN  - 375.83 .B95p 1914
+SC  - Vermont
+ER  - 
+
+TY  - BOOK
+A2  - Bradford (Pennsylvania) Public Schools
+T1  - Courses of Study, Bradford high school
+Y1  - 1903
+D1  - 1903-1904
+SP  - 23
+KW  - Curricula
+KW  - High schools
+PB  - Bradford Public Schools
+CY  - Bradford, PA
+LA  - English
+CN  - 375.15 .B83c 1903
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Butler (Pennsylvania) Public Schools
+T1  - Manual, Butler High School
+Y1  - 1910
+D1  - 1910
+SP  - 33
+KW  - Curricula
+KW  - High schools
+PB  - Butler Public Schools
+CY  - Butler, PA
+LA  - English
+CN  - 375.15 .B97m 1910
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Butler (Pennsylvania) Public Schools
+T1  - Manual, Butler High School
+Y1  - 1915
+D1  - 1915
+SP  - 37
+KW  - Curricula
+KW  - High schools
+PB  - Butler Public Schools
+CY  - Butler, PA
+LA  - English
+CN  - 375.15 .B97m 1915
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Butler (Pennsylvania) Public Schools
+T1  - Course of study for the public schools of Butler, PA
+Y1  - 1915
+D1  - 01/1915
+SP  - 330
+KW  - Curricula
+KW  - Public schools
+PB  - Butler Public Schools
+CY  - Butler, PA
+LA  - English
+CN  - 375.83 .B97c 1915
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Butler (Pennsylvania) Public Schools
+T1  - Course of study for the public schools of Butler, PA
+Y1  - 1906
+D1  - 06/1906
+SP  - 208
+KW  - Curricula
+KW  - Public schools
+PB  - Butler Public Schools
+CY  - Butler, PA
+LA  - English
+CN  - 375.83 .B97c 1906
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - School manual for the public schools of Butte County
+Y1  - 1896
+D1  - 1896
+SP  - 80
+KW  - Public schools
+N1  - Adopted by the Board of Education, June 15, 1896
+PB  - Butte County Public Schools
+CY  - Oroville, CA
+LA  - English
+CN  - 375.82 .B98s 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - School manual for the public schools of Butte County
+Y1  - 1898
+D1  - 1898
+SP  - 76
+KW  - Public schools
+N1  - Adopted by the Board of Education, June 18, 1898
+PB  - Butte County Public Schools
+CY  - Chico, CA
+LA  - English
+CN  - 375.82 .B98s 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - School manual for the public schools of Butte County
+Y1  - 1908
+D1  - 1908
+SP  - 72
+KW  - Public schools
+N1  - Adopted by the Board of Education, June 30, 1908
+PB  - Butte County Public Schools
+CY  - Chico, CA
+LA  - English
+CN  - 375.82 .B98s 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - School manual and course of study for the public schools of Butte County
+Y1  - 1916
+D1  - 06/1916
+SP  - 117
+KW  - Public schools
+N1  - Adopted by the Board of Education, June 30, 1916
+PB  - Butte County Public Schools
+LA  - English
+CN  - 375.82 .B98s 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - School manual and course of study for the public schools of Butte County, California
+Y1  - 1930
+D1  - 06/1930
+SP  - 106
+KW  - Public schools
+N1  - Adopted by the Board of Education, June 27, 1930
+PB  - Butte County Public Schools
+LA  - English
+CN  - 375.82 .B98s 1930
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - School manual for the public schools of Butte County
+Y1  - 1912
+D1  - 1912
+SP  - 48
+KW  - Public schools
+N1  - Adopted by the Board of Education, June 30, 1912, revised December, 1912. Revised edition to go into effect July 1, 1913.
+PB  - Butte County Public Schools
+CY  - Chico, CA
+LA  - English
+CN  - 375.82 .B98s 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Butte (Montana) Board of Education
+T1  - Butte High School catalogue revised course of study and general information
+Y1  - 1907
+D1  - 1907
+SP  - 56
+KW  - Curricula
+KW  - High schools
+PB  - Butte Board of Education
+CY  - Butte, MT
+LA  - English
+CN  - 375.15 .B98c 1907
+SC  - Montana
+G1  - High school
+ER  - 
