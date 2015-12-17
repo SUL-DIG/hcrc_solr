@@ -1,0 +1,389 @@
+
+TY  - BOOK
+A1  - Morehouse, Ward
+A2  - University of the State of New York
+T1  - Intellectual effort for its own reward: the New York State Area Studies Program for key teachers and supervisors
+Y1  - 1964
+D1  - 04/1964
+SP  - 25
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1964
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Investments in the future: the Regents proposals for the expansion and improvement of education in New York state
+Y1  - 1960
+D1  - 12/1960
+SP  - 53
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1961
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Burlingham, Charles C.
+A2  - New York State. Governor's Committee on the Costs of Public Education in the State
+T1  - Report of the Governor's Committee on the Costs of Public Education in the State of New York
+Y1  - 1933
+D1  - 1933
+SP  - 101
+KW  - School finance
+N1  - 101 pages : charts, tables ; 23 cm; Note(s): Charles C. Burlingham, chairman.; Shelved in Cubberley Library Reading Room
+PB  - New York State Governor's Committee on the Costs of Public Education in the State
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1933
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Cheney, Lloyd L.
+A2  - University of the State of New York
+T1  - Souvenir of the dedication of the New York state education building, Albany, October 15, 16, 17, 1912
+Y1  - 1912
+D1  - 10/1912
+SP  - 82
+KW  - Education
+N1  - 82 pages including frontispiece : illustrations; portrait, facsimiles ; 26 cm.; Note(s): Lloyd L. Cheney, ed./ "Noteworthy manuscripts and relics in the custody of the Education department": p. 69-71./ "Important dates in the history of education in New York": p. 72, 74./ "Statistical information": p. 75-76./ Responsibility: State of New York. Education department; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1912
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Office of Education Performance Review
+T1  - The public school principal: an overview
+Y1  - 1974
+D1  - 12/1974
+SP  - 46
+KW  - School superintendents
+KW  - School principals
+N1  - iv; illustrations 28 cm; Note(s): Errata sheet inserted./ Shelved in Cubberley Library Reading Room
+PB  - New York State Office of Education Performance Review
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1974
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Task Force on Financing Higher Education
+T1  - Higher education in New York State; a report to Governor Nelson A. Rockefeller from the Task Force on Financing Higher Education
+Y1  - 1973
+D1  - 03/1973
+SP  - 70
+KW  - Universities and colleges
+N1  - iii; illustrations 26 cm; Genre/Form: Statistics.; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - New York State Task Force on Financing Higher Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1973
+SC  - New York
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Cooperative Development of Public School Administration in New York State
+T1  - A developing concept of the superintendency of education
+D1  - 1955?
+SP  - 32
+KW  - School superintendents
+KW  - School principals
+N1  - 32 pages 22 x 28 cm.; Note(s): "A joint project of New York's State Education Dept., Council of School Superintendents, Central School Principals Association, School Boards Association, State Teachers Association, and the Cooperative Program in Educational Administration - Middle Atlantic Region."/ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - Cooperative Development of Public School Administration in New York State Resource manual
+V1  - 1
+ED  - Rev.
+PB  - Cooperative Development of Public School Administration in New York State
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1955 no.1
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - Cooperative Development of Public School Administration in New York State
+T1  - Proposed policies and procedures for licensing the Chief School administrator in New York State
+D1  - 1955?
+SP  - 24
+KW  - School superintendents
+KW  - School principals
+N1  - 32 pages 22 x 28 cm.; Note(s): "A joint project of New York's State Education Dept., Council of School Superintendents, Central School Principals Association, School Boards Association, State Teachers Association, and the Cooperative Program in Educational Administration - Middle Atlantic Region."/ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - Cooperative Development of Public School Administration in New York State Resource manual
+V1  - 3
+PB  - Cooperative Development of Public School Administration in New York State
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1955 no.3
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - Cooperative Development of Public School Administration in New York State
+T1  - Toward improved school administration - a summary of proposals for the recruitment, selection, preparation and licensure of the Chief School Administrator contained in CDPSA resource manual 2 and 3
+D1  - 1954?
+SP  - 10
+KW  - School superintendents
+KW  - School principals
+N1  - 32 pages 22 x 28 cm.; Note(s): "A joint project of New York's State Education Dept., Council of School Superintendents, Central School Principals Association, School Boards Association, State Teachers Association, and the Cooperative Program in Educational Administration - Middle Atlantic Region."/ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+PB  - Cooperative Development of Public School Administration in New York State
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1954 no.2-3
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Association of District Superintendents
+A2  - New York State Education Department
+T1  - Rural leadership and service; a discussion guide for developing the future status of the district superintendency
+Y1  - 1951
+D1  - 1951
+KW  - Rural schools
+KW  - School management and organization
+N1  - 2 volumes illustrations 22 x 29 cm; Note(s): Cover title./ Part 2: The structure of the area superintendency.; Responsibility: [Prepared for use in the study of the changing status of the district superintendency in New York State. A joint project of the New York State Association of District Superintendents, and others].; Shelved in Cubberley Library Reading Room
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1951
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Perkins, James A.
+A2  - New York State Education Department. Regents Advisory Committee on Educational Leadership
+T1  - College and University Presidents. Recommendations and Report of a Survey
+Y1  - 1967
+D1  - 05/1967
+SP  - 73
+KW  - Task performance
+KW  - Recruitment
+KW  - Rating scales
+KW  - Interprofessional relationship
+KW  - Employer employee relationship
+KW  - Credentials
+KW  - Careers
+KW  - Administrator selection
+KW  - Administrator responsibility
+KW  - Administrator evaluation
+KW  - Administrator characteristics
+KW  - Administrative problems
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1967
+SC  - New York
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - The State department of Education. Organization, services, functions
+Y1  - 1949
+D1  - 1949
+KW  - Education
+N1  - 8 unnumbered pages (folded) illustrations 29 cm; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1949
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - The New York State Education Department, 1900-65
+Y1  - 1967
+D1  - 11/1967
+SP  - 63
+KW  - University of the State of New York
+N1  - vi; ges ; 28 cm; Genre/Form: History.; Note(s): Includes bibliographical references (page 49)./ Shelved in Cubberley Library Reading Room
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1967
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York. Bureau of Curriculum Research
+T1  - Bureau of Curriculum Research, Organization, Functions and Relationships
+Y1  - 1961
+D1  - 09/1961
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York Bureau of Curriculum Research
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1961
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Draper, A. S.
+A2  - New York State Department of Education
+T1  - Our children, our schools, and our industries commissioner's special theme, annual report 1908
+Y1  - 1908
+D1  - 1908
+SP  - 48
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1908
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Department of Education
+T1  - The New York State Annual Evaluation Report for 1968-69 Fiscal Year, Elementary and Secondary Education Act of 1965-Title I
+D1  - 1969?
+SP  - 166
+KW  - Test results
+KW  - Statistical data
+KW  - Reading tests
+KW  - Program budgeting
+KW  - Private schools
+KW  - Measurement instruments
+KW  - Information dissemination
+KW  - Handicapped children
+KW  - Enrollment
+KW  - Community action
+KW  - Attendance
+KW  - Ancillary school services
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Department of Education
+LA  - English
+CN  - 379.74 .N45s 1968-69
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Skinner, Charles Rufus
+A2  - New York State Department of Public Instruction
+T1  - Child study
+Y1  - 1897
+D1  - 1897
+SP  - 111
+KW  - Child psychology
+KW  - Child development
+N1  - [2]; 23 cm; Note(s): Cover title.; Responsibility: Reprint from the annual report of Charles R. Skinner ... ; Shelved in Cubberley Library Reading Room
+PB  - New York State Department of Public Instruction
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1897
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Quality in education in New York State, 1962
+Y1  - 1962
+D1  - 1962
+SP  - 32
+KW  - Education
+N1  - 32 pages : illustrations (some color) ; 21 cm; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - The University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1962
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Steps toward better education. Highlights from the activities of the New York State Education Department for the year 1959-60
+Y1  - 1961
+D1  - 1961
+SP  - 40
+KW  - Education
+KW  - University of the State of New York
+N1  - 40 pages diagrams 23 cm; Note(s): "Contains highlights from the annual report [of the Commissioner of Education] for the school year ending June 30, 1960."/ "Department publications related to 1959-60 school year," p. 39-40."; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1959-60
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Progress in education; a report of the activities of the New York State Education Department for the improvement of education in the year 1961-62
+Y1  - 1962
+D1  - 1962
+SP  - 67
+KW  - Education
+KW  - University of the State of New York
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1961/62
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Horner, Harlan Hoyt
+A2  - University of the State of New York
+T1  - Education in New York State, 1784-1954
+Y1  - 1954
+D1  - 1954
+SP  - 166
+KW  - Education
+KW  - University of the State of New York
+N1  - x, 166 pages illustrations; portraits, map, facsimiles 29 cm; Genre/Form: History.; Note(s): "Issued in connection with the eighty-seventh convocation of the University of the State of New York in celebration of the one hundred and seventieth anniversary of the University, the one hundredth anniversary of the State Department of Public Instruction and the fiftieth anniversary of the State Education Department. April 8-9, 1954."; Responsibility: compiled and edited by Harlan Hoyt Horner. ; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1954
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - Regents Council on Readjustment of High School Education
+T1  - The schools we need, now and for tomorrow. : a report to the citizens of New York State
+Y1  - 1954
+D1  - 07/1954
+SP  - 32
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Regents Council on Readjustment of High School Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1954
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - New York State Department of Education
+T1  - This is our story - fifty years of educational progress under the New York State Board of Regents
+Y1  - 1954
+D1  - 04/1954
+SP  - 41
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1954
+SC  - New York
+ER  - 
+ 
+
+ 
+
+ 
