@@ -1,0 +1,1337 @@
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - Suggestions to teachers in guiding the child's experiences
+Y1  - 1938
+D1  - 1938-1939
+SP  - 203
+KW  - Elementary education
+KW  - Curricula
+PB  - Butte County Public Schools
+LA  - English
+CN  - 375.13 .B98s 1938
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Calavaras County (California) Board of Education
+T1  - Manual for the use of the public schools of Calavaras County, Cal. containing rules of the Board of Education, course of study, suggestions to teachers, list of library books, etc.
+Y1  - 1895
+D1  - 07/1895
+SP  - 56
+KW  - Public schools
+KW  - Curricula
+PB  - Calavaras County Board of Education
+CY  - San Andreas, CA
+LA  - English
+CN  - 375.82 .C14m 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Calavaras County (California) Board of Education
+T1  - Manual for the use of the public schools of Calavaras County, California containing rules of the Board of Education, course of study, suggestions to teachers and trustees, list of library books, etc., etc.
+Y1  - 1899
+D1  - 1899
+SP  - 78
+KW  - Public schools
+KW  - Curricula
+PB  - Calavaras County Board of Education
+CY  - San Andreas, CA
+LA  - English
+CN  - 375.82 .C14m 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Calavaras County (California) Board of Education
+T1  - Manual for the use of the public schools of Calavaras County, California containing rules of the Board of Education, course of study, suggestions to teachers and trustees, list of library books, etc., etc.
+Y1  - 1902
+D1  - 1902
+SP  - 80
+KW  - Public schools
+KW  - Curricula
+PB  - Calavaras County Board of Education
+CY  - San Andreas, CA
+LA  - English
+CN  - 375.82 .C14m 1902
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Calavaras County (California) Board of Education
+T1  - Manual for the public schools of Calaveras County
+Y1  - 1913
+D1  - 07/1913
+SP  - 78
+KW  - Public schools
+KW  - Curricula
+PB  - Calavaras County Board of Education
+CY  - San Andreas, CA
+LA  - English
+CN  - 375.82 .C14m 1913
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Calavaras County (California) Board of Education
+T1  - Manual for the public schools of Calavaras County
+Y1  - 1920
+D1  - 06/1920
+SP  - 50
+KW  - Public schools
+KW  - Curricula
+N1  - Includes two supplements
+PB  - Calavaras County Board of Education
+CY  - San Andreas, CA
+LA  - English
+CN  - 375.82 .C14m 1920
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Calavaras County (California) Board of Education
+T1  - Manual of information for the elementary schools of Calaveras County, California
+Y1  - 1933
+D1  - 07/1933
+SP  - 68
+KW  - Elementary education
+KW  - Curricula
+N1  - Includes two supplements
+PB  - Calavaras County Board of Education
+CY  - San Andreas, CA
+LA  - English
+CN  - 375.13 .C14m 1933
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Calavaras County (California) Board of Education
+T1  - Sylllabus of courses of study of the Calaveras County High School
+D1  - 1910?
+KW  - High schools
+KW  - Curricula
+PB  - Calavaras County Board of Education
+CY  - San Andreas, CA
+LA  - English
+CN  - 375.15 .C14s 1933
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Calumet (Michigan) Public Schools
+T1  - Public Schools of Calumet, Michigan
+Y1  - 1906
+D1  - 08/1906
+SP  - 105
+KW  - Curricula
+KW  - Public schools
+PB  - Calumet Public Schools
+CY  - Calumet, MI
+LA  - English
+CN  - 375.83 .C16p 1906
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Camden (New Jersey) Public Schools
+T1  - Outlines for the work in music, physical training, drawing, and manual training in the elementary schools of the city of Camden
+Y1  - 1906
+D1  - 1906
+SP  - 137
+KW  - Curricula
+KW  - Elementary education
+PB  - Camden Public Schools
+CY  - Camden, NJ
+LA  - English
+CN  - 375.13 .C20o 1906
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Canton (Ohio) Public Schools
+T1  - Announcement of the Canton High School
+Y1  - 1903
+D1  - 1903
+SP  - 24
+KW  - Curricula
+KW  - High schools
+PB  - Canton Public Schools
+CY  - Canton, OH
+LA  - English
+CN  - 375.15 .C22a 1903
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cedar Rapids (Iowa) Public Schools
+T1  - Rules and courses of studies in Washington High School
+Y1  - 1916
+D1  - 1916
+SP  - 39
+KW  - Curricula
+KW  - High schools
+PB  - Cedar Rapids Public Schools
+CY  - Cedar Rapids, Iowa
+LA  - English
+CN  - 375.15 .C38r 1916
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Charleston (West Virginia) Public Schools
+T1  - Courses of study, rules and regulations
+Y1  - 1908
+D1  - 1908
+SP  - 101
+KW  - Curricula
+KW  - Public schools
+PB  - Charleston Public Schools
+CY  - Charleston, WV
+LA  - English
+CN  - 375.83 .C47c 1908
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Charleston (South Carolina) Public Schools
+T1  - The high school of Charleston courses of study
+Y1  - 1921
+D1  - 1921-1922
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - Charleston Public Schools
+CY  - Charleston, SC
+LA  - English
+CN  - 375.15 .C47c 1921
+SC  - South Carlina
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Charleston (West Virginia) Public Schools
+T1  - Course of study for elementary schools
+Y1  - 1924
+D1  - 1924
+SP  - 443
+KW  - Curricula
+KW  - Elementary education
+PB  - Charleston Public Schools
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .C47c 1924
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Charlotte (North Carolina) City Schools
+T1  - Handbook for teachers
+Y1  - 1958
+D1  - 1958-1959
+SP  - 24
+KW  - Directories
+KW  - Public schools
+PB  - Charlotte City Schools
+CY  - Charlotte, NC
+LA  - English
+CN  - 375.83 .C47h 1958
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Chehalis (Washington) City Schools
+T1  - Course of study of the city schools
+Y1  - 1913
+D1  - 09/1913
+SP  - 136
+KW  - Curricula
+KW  - Public schools
+PB  - Chehalis City Schools
+CY  - Chehalis, WA
+LA  - English
+CN  - 375.83 .C51c 1913
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Chelsea (Massachusetts) Schools
+T1  - Provisional courses of study for the public elementary and junior high schools of the city of Chelsea, Massachusetts
+Y1  - 1917
+D1  - 1917
+SP  - 153
+KW  - Curricula
+KW  - Elementary education
+PB  - Chelsea Schools
+CY  - Chelsea, MA
+LA  - English
+CN  - 375.83 .C515p 1917
+SC  - Massachusetts
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Chester (Pennsylvania) School District
+T1  - Manual and course of study of the public schools of the school district of the city of Chester, Pennsylvania
+Y1  - 1916
+D1  - 1916-1917
+SP  - 188
+KW  - Curricula
+KW  - Public schools
+PB  - Chester School District
+CY  - Chester, PA
+LA  - English
+CN  - 375.83 .C517m 1916
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Cheyenne (Wyoming) Public Schools
+T1  - Manual of the public schools of Cheyenne, Wyo.
+Y1  - 1903
+D1  - 07/1903
+SP  - 45
+KW  - Curricula
+KW  - Public schools
+N1  - Rules of the Board of School Trustees, with regulations and course of study of the public schools of District Number One, Laramie County, Wyo.
+PB  - Cheyenne Public Schools
+CY  - Cheyenne, WY
+LA  - English
+CN  - 375.83 .C53m 1903
+SC  - Wyoming
+ER  - 
+
+TY  - BOOK
+A2  - Cheyenne (Wyoming) Public Schools
+T1  - Manual of the public schools of Cheyenne, Wyo.
+Y1  - 1913
+D1  - 05/1913
+SP  - 28
+KW  - Curricula
+KW  - Public schools
+N1  - Adopted May 22, 1913.
+PB  - Cheyenne Public Schools
+CY  - Cheyenne, WY
+LA  - English
+CN  - 375.83 .C53m 1913
+SC  - Wyoming
+ER  - 
+
+TY  - BOOK
+A2  - Cheyenne (Wyoming) Public Schools
+T1  - Course of study of the public schools of Cheyenne, Wyo.
+Y1  - 1913
+D1  - 05/1913
+SP  - 92
+KW  - Curricula
+KW  - Public schools
+N1  - Adopted by the Board of Education May, 1913.
+PB  - Cheyenne Public Schools
+CY  - Cheyenne, WY
+LA  - English
+CN  - 375.83 .C53c 1913
+SC  - Wyoming
+ER  - 
+
+TY  - BOOK
+A2  - Cherokee County (Kansas) Schools. High School
+T1  - Seventeenth annual catalogue for 1916-1917 with announcements and courses of study for 1917-1918
+Y1  - 1917
+D1  - 07/1917
+SP  - 67
+KW  - Curricula
+KW  - High schools
+PB  - Cherokee County Schools
+CY  - Columbus, KS
+LA  - English
+CN  - 375.15 .C516s 1917
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Francis W. Parker School
+T1  - Catalogue of the Francis W. Parker School
+D1  - 1929?
+SP  - 175
+KW  - Curricula
+PB  - Francis W. Parker School
+CY  - Chicago, IL
+LA  - English
+CN  - 375.1 .P23c 1929?
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Course of study for the high schools of Chicago with requirements for admission to the normal school
+Y1  - 1905
+D1  - 06/1905
+SP  - 16
+KW  - Curricula
+KW  - High schools
+PB  - Chicago Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 375.15 .C53c 1905
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education. Education Division
+T1  - An outline of the high school course of study
+Y1  - 1922
+D1  - 07/1922
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Chicago Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 375.15 .C53o 1922
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - The preschool curriculum of the Chicago Public Schools
+Y1  - 1953
+D1  - 1953
+SP  - 57
+KW  - Curricula
+KW  - Preschool education
+T2  - Curriculum brochure
+V1  - 5
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375.11 .C53p 1953
+SC  - Illinois
+G1  - Prek
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Course of study and syllabus for teachers: elementary grades
+Y1  - 1909
+D1  - 1909-1910
+SP  - 83
+KW  - Curricula
+KW  - Elementary education
+PB  - Cincinnati Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375.13 .C57c 1909
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Courses of study of high schools
+Y1  - 1912
+D1  - 1912
+SP  - 8
+KW  - Curricula
+KW  - High schools
+PB  - Cincinnati Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375.15 .C57c 1912
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - High school courses of study
+Y1  - 1919
+D1  - 05/1919
+SP  - 7
+KW  - Curricula
+KW  - High schools
+PB  - Cincinnati Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375.15 .C57h 1919
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - The intermediate manual: a teachers guide: grades four, five, and six
+Y1  - 1949
+D1  - 1949
+SP  - 482
+KW  - Curricula
+KW  - Elementary education
+PB  - Cincinnati Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375.13 .C57i 1949
+SC  - Ohio
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - The primary manual: a teachers guide: kindergarten and grades one, two and three
+Y1  - 1951
+D1  - 1951
+SP  - 577
+KW  - Curricula
+KW  - Elementary education
+PB  - Cincinnati Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 375.12 .C57p 1951
+SC  - Ohio
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Clayton (Missouri) Public Schools. Glenridge School
+T1  - Glenridge activity units
+Y1  - 1937
+D1  - Spring, 1937
+SP  - 354
+KW  - Curricula
+PB  - Clayton Public Schools
+CY  - Clayton, MO
+LA  - English
+CN  - 375.1 .C60g 1937
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Clayton (Missouri) Public Schools. Glenridge School
+T1  - Growth in a democracy
+Y1  - 1939
+D1  - 1939
+SP  - 218
+KW  - Curricula
+KW  - Elementary education
+T2  - Glenridge curriculum series
+V1  - 3
+PB  - Clayton Public Schools
+CY  - Clayton, MO
+LA  - English
+CN  - 375.13 .C60g 1939
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleburne (Texas) Public Schools
+T1  - Handbook for teachers of the primary department of Cleburne public schools
+Y1  - 1926
+D1  - 06/1926
+SP  - 143
+KW  - Curricula
+KW  - Elementary education
+PB  - Cleburne Public Schools
+CY  - Cleburne, TX
+LA  - English
+CN  - 375.12 .C61h 1926
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education
+T1  - Illustrated course of study: an outline of the curriculum of the various types of Cleveland's senior high schools
+Y1  - 1926
+D1  - 1926
+SP  - 48
+KW  - Curricula
+KW  - High schools
+N1  - Cover - "Cleveland's high schools, what they are, what they offer"
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63i 1926
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education
+T1  - Cleveland's high schools: what they offer in the way of academic, technical and commercial education: an outline of their work for parents and pupils
+Y1  - 1915
+D1  - 06/1915
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63c 1915
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Central High School
+T1  - Manual training department: assignment of work
+Y1  - 1902
+D1  - 1902-1903
+KW  - Curricula
+KW  - High schools
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63m 1902
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - High school courses of study
+Y1  - 1900
+D1  - 1900
+KW  - Curricula
+KW  - High schools
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63h 1900
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Courses of study of the academic high schools of Cleveland
+Y1  - 1911
+D1  - 1911
+KW  - Curricula
+KW  - High schools
+PB  - Cleveland Board of Education
+ED  - Revised
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63c 1911
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Courses of study of the Cleveland high schools
+KW  - Curricula
+KW  - High schools
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63c
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education
+T1  - Course of study for the Cleveland Technical High School
+Y1  - 1908
+D1  - 1908-1909
+KW  - Curricula
+KW  - High schools
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63c 1908
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Elementary Schools
+T1  - Time schedule assignment of work and suggestive programs
+Y1  - 1910
+D1  - 1910-1911
+KW  - Curricula
+KW  - Elementary education
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.13 .C63t 1910
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools. Elementary Schools
+T1  - Assignment of work time schedule suggestive programs
+Y1  - 1912
+D1  - 1912-1913
+KW  - Curricula
+KW  - Elementary education
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.13 .C63a 1912
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Central High School
+T1  - Latin department: assignment of work
+Y1  - 1901
+D1  - 1901-1902
+KW  - Curricula
+KW  - High schools
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63L 1901
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education
+T1  - Illustrated course of study: junior high schools
+Y1  - 1929
+D1  - 1929
+SP  - 63
+KW  - Curricula
+PB  - Cleveland Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.14 .C63i 1929
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rannells, Bill U.
+A2  - Cleveland (Ohio) East High School
+T1  - Presentation of the East High School, Cleveland, Ohio
+Y1  - 1901
+D1  - 02/1901
+KW  - High schools
+N1  - "Established September 1900."  Memo "To The President and Faculty Committee" give stats and information on teachers, courses of study, and facilities. Signed by Bill Rannells, Principal.
+PB  - Cleveland (Ohio) East High School
+CY  - Cleveland, OH
+LA  - English
+CN  - 373.1 .C63p 1901
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - East Cleveland (Ohio) Schools. Shaw High School
+T1  - Courses of study
+Y1  - 1927
+D1  - 1927-1928
+KW  - Curricula
+KW  - High schools
+PB  - Shaw High School
+CY  - East Cleveland, OH
+LA  - English
+CN  - 375.15 .E13c 1927
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Clyde Township (Illinois) High School
+T1  - Announcement of courses of study of Clyde Township High School
+D1  - 1904?
+SP  - 14
+KW  - Curricula
+KW  - High schools
+PB  - Clyde Township High School
+CY  - Clyde, IL
+LA  - English
+CN  - 375.15 .C649a
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Coffeyville (Kansas) Public Schools
+T1  - The Coffeyville Public Schools
+Y1  - 1939
+D1  - 1939-1940
+SP  - 128
+KW  - Curricula
+KW  - Public schools
+PB  - Coffeyville Public Schools
+CY  - Coffeyville, KS
+LA  - English
+CN  - 375.83 .C67c 1939
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Peavey, Angenette J.
+A2  - Colorado State Superintendent of Public Instruction
+T1  - State course of study for the public schools of Colorado
+Y1  - 1895
+D1  - 1895
+SP  - 52
+KW  - Curricula
+PB  - Colorado State Superintendent of Public Instruction
+CY  - Denver, CO
+LA  - English
+CN  - 375.81 .C71s 1895
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado Springs (Colorado) Public Schools
+T1  - Outline of course of study for the elementary and high schools
+Y1  - 1897
+D1  - 1897-1898
+SP  - 105
+KW  - Curricula
+PB  - Colorado Springs Public Schools
+CY  - Colorado Springs, CO
+LA  - English
+CN  - 375.83 .C71o 1897
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Colorado Springs (Colorado) High Schools
+T1  - Announcement
+Y1  - 1916
+D1  - 1916-1917
+KW  - Curricula
+KW  - High schools
+PB  - Colorado Springs High Schools
+CY  - Colorado Springs, CO
+LA  - English
+CN  - 375.15 .C71a 1916
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Columbia (South Carolina) Public Schools
+T1  - Course of study city public schools
+Y1  - 1907
+D1  - 1907
+SP  - 128
+KW  - Curricula
+KW  - Public schools
+ED  - Second
+PB  - Columbia Public Schools
+CY  - Columbia, SC
+LA  - English
+CN  - 375.83 .C72c 1907
+SC  - South Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Columbus (Georgia) Public Schools
+T1  - Courses of study for the Columbus public schools
+Y1  - 1919
+D1  - 1919-1920
+SP  - 96
+KW  - Curricula
+KW  - Public schools
+PB  - Columbus Public Schools
+CY  - Columbus, GA
+LA  - English
+CN  - 375.83 .C72c 1919
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Columbus (Ohio) Public Schools
+T1  - Outline of course of study: intermediate schools
+D1  - 1919?
+KW  - Curricula
+PB  - Columbus Public Schools
+CY  - Columbus, OH
+LA  - English
+CN  - 375.14 .C72o
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Colusa County (California) Board of Education
+T1  - School manual for Colusa County containing the course of study, rules concerning teachers' certificates, graduation of pupils and general suggestions for schools
+Y1  - 1896
+D1  - 1896
+SP  - 56
+KW  - Curricula
+KW  - Public schools
+PB  - Colusa County (California) Board of Education
+CY  - Colusa, CA
+LA  - English
+CN  - 375.82 .C72s 1896
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Colusa County (California) Board of Education
+T1  - School manual for Colusa County containing the course of study, rules concerning teachers' certificates, graduation of pupils and general suggestions for schools
+Y1  - 1900
+D1  - 06/1900
+SP  - 75
+KW  - Curricula
+KW  - Public schools
+PB  - Colusa County (California) Board of Education
+CY  - Colusa, CA
+LA  - English
+CN  - 375.82 .C72s 1900
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Colusa County (California) Board of Education
+T1  - School manual for Colusa County containing the course of study, rules concerning teachers' certificates, graduation of pupils and general suggestions for schools
+Y1  - 1912
+D1  - 07/1912
+SP  - 91
+KW  - Curricula
+KW  - Public schools
+PB  - Colusa County (California) Board of Education
+CY  - Colusa, CA
+LA  - English
+CN  - 375.82 .C72s 1912
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Colusa County (California) Board of Education
+T1  - Manual public schools Colusa County
+Y1  - 1916
+D1  - 06/1916
+SP  - 95
+KW  - Curricula
+KW  - Public schools
+PB  - Colusa County (California) Board of Education
+CY  - Colusa, CA
+LA  - English
+CN  - 375.82 .C72m 1916
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Colusa County (California) Board of Education
+T1  - Manual public schools Colusa County
+Y1  - 1920
+D1  - 06/1920
+SP  - 79
+KW  - Curricula
+KW  - Public schools
+N1  - Includes "Supplement to School manual 1921"
+PB  - Colusa County (California) Board of Education
+CY  - Colusa, CA
+LA  - English
+CN  - 375.82 .C72m 1920
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Colusa County (California) Board of Education
+T1  - Supplement to manual
+Y1  - 1931
+D1  - 1931
+SP  - 15
+KW  - Curricula
+KW  - Public schools
+PB  - Colusa County (California) Board of Education
+CY  - Colusa, CA
+LA  - English
+CN  - 375.82 .C72s 1931
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Revised course of study, Contra Costa County
+Y1  - 1915
+D1  - 06/1915
+KW  - Curricula
+KW  - Public schools
+ED  - Revised
+PB  - Contra Costa County Schools
+LA  - English
+CN  - 375.82 .C77r 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Revised course of study for the public schools of Contra Costa County, California
+Y1  - 1896
+D1  - 06/1896
+KW  - Curricula
+KW  - Public schools
+N1  - "Containing course of study, rules and regulations, suggestions to teachers, library list and miscellaneous matters"
+ED  - Revised
+PB  - Contra Costa County Schools
+LA  - English
+CN  - 375.82 .C77r 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Catalogue of the public schools of Contra Costa County, California
+Y1  - 1898
+D1  - 06/1898
+KW  - Curricula
+KW  - Public schools
+N1  - "Containing course of study, rules and regulations, suggestions to teachers, and miscellaneous matters"
+ED  - Revised
+PB  - Contra Costa County Schools
+LA  - English
+CN  - 375.82 .C77c 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Revised course of study for the public schools of Contra Costa County, California
+Y1  - 1900
+D1  - 06/1900
+KW  - Curricula
+KW  - Public schools
+ED  - Revised
+PB  - Contra Costa County Schools
+LA  - English
+CN  - 375.82 .C77r 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Revised course of study for the public schools of Contra Costa County, California
+Y1  - 1902
+D1  - 06/1902
+KW  - Curricula
+KW  - Public schools
+N1  - "Containing course of study, rules and regulations, suggestions to teachers, and miscellaneous matters"
+ED  - Revised
+PB  - Contra Costa County Schools
+LA  - English
+CN  - 375.82 .C77r 1902
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - General course of study for kindergarten, pre-primer, grades I, II, and III
+Y1  - 1932
+D1  - 1932
+SP  - 119
+KW  - Curricula
+KW  - Elementary education
+T2  - Contra Costa County (California) Public Schools. Curriculum bulletin
+V1  - 1
+PB  - Contra Costa County Public Schools
+LA  - English
+CN  - 375.12 .C77g 1932
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Cooper, Georgia
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Orinda piolet project, 1955-1957
+Y1  - 1960
+D1  - 06/1960
+KW  - Elementary education
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77o 1960
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Corona (California) City Schools
+T1  - Course of study
+Y1  - 1919
+D1  - 1919-1920
+KW  - Curricula
+PB  - Corona City Schools
+CY  - Corona, CA
+LA  - English
+CN  - 375.15 .C82c 1919
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Covina (California) School District
+T1  - Educational services notebook
+Y1  - 1958
+D1  - 1958-59
+KW  - Curricula
+PB  - Covina School District
+CY  - Covina, CA
+LA  - English
+CN  - 375.13 .C87e 1958
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Crawfordsville (Indiana) Schools
+T1  - Crawfordsville Departmental School
+Y1  - 1914
+D1  - 1914-1915
+KW  - Curricula
+PB  - Crawfordsville Departmental School
+CY  - Crawfordsville, IN
+LA  - English
+CN  - 375.83 .C90c 1914
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Crawfordsville (Indiana) Schools. Senior High School
+T1  - Courses of study effective September 1920
+Y1  - 1920
+D1  - 1920
+KW  - Curricula
+PB  - Crawfordsville Senior High School
+CY  - Crawfordsville, IN
+LA  - English
+CN  - 375.15 .C90c 1920
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Crawfordsville (Indiana) Schools. High School
+T1  - Curriculum
+Y1  - 1914
+D1  - 1914
+SP  - 7
+KW  - Curricula
+PB  - Crawfordsville Senior High School
+CY  - Crawfordsville, IN
+LA  - English
+CN  - 375.15 .C90c 1914
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Cumberland County (Tennessee) Schools
+T1  - Annual catalogue of the Cumberland County High School
+Y1  - 1913
+D1  - 1913-1914
+SP  - 31
+KW  - Curricula
+KW  - High schools
+PB  - Cumberland County Schools
+CY  - Crossville, TN
+LA  - English
+CN  - 375.15 .C965a 1913
+SC  - Tennessee
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Public Schools
+T1  - Assignment of teachers and course of study
+Y1  - 1909
+D1  - 1909-1910
+SP  - 28
+KW  - Curricula
+KW  - Public schools
+PB  - Dallas Public Schools
+CY  - Dallas, TX
+LA  - English
+CN  - 375.83 .D14a 1909
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Public Schools
+T1  - Course of study in the public schools of Dallas, Texas
+Y1  - 1913
+D1  - 1913-1914
+SP  - 32
+KW  - Curricula
+KW  - Public schools
+PB  - Dallas Public Schools
+CY  - Dallas, TX
+LA  - English
+CN  - 375.83 .D14c 1913
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - The Dalles (Oregon) High School
+T1  - Senior high school: outline--English course
+Y1  - 1916
+D1  - 1916
+KW  - Curricula
+KW  - High schools
+PB  - The Dalles High School
+CY  - The Dalles, OR
+LA  - English
+CN  - 375.15 .D145s 1916
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Ritchie, Mary D.
+A2  - The Dalles (Oregon) High School
+T1  - Outline of course of study: Latin
+Y1  - 1917
+D1  - 1917
+KW  - Curricula
+KW  - High schools
+PB  - The Dalles High School
+CY  - The Dalles, OR
+LA  - English
+CN  - 375.15 .D145o 1917
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Gronewald, A. E.
+A2  - The Dalles (Oregon) High School
+T1  - Outline of German course of study
+Y1  - 1917
+D1  - 1917
+KW  - Curricula
+KW  - German language
+PB  - The Dalles High School
+CY  - The Dalles, OR
+LA  - English
+CN  - 430 .D145o 1917
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Newton, Lena B.
+A2  - The Dalles (Oregon) High School
+T1  - Outline of teachers' training course
+Y1  - 1917
+D1  - 1917
+KW  - Curricula
+KW  - Teacher training
+PB  - The Dalles High School
+CY  - The Dalles, OR
+LA  - English
+CN  - 379.74 .D145o 1917
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Davenport (Iowa) High School
+T1  - Yearbook of the high school, 1912-1913
+Y1  - 1912
+D1  - 1912-1913
+KW  - Curricula
+KW  - High schools
+PB  - Davenport High School
+CY  - Davenport, IA
+LA  - English
+CN  - 375.15 .D24y 1912
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - The course of study of the public schools of the City of Dayton, Ohio
+Y1  - 1917
+D1  - 06/1917
+KW  - Curricula
+KW  - Public schools
+PB  - Dayton Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 375.83 .D27c 1917
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - A suggestive course of study for the first grade
+Y1  - 1931
+D1  - 1931
+SP  - 224
+KW  - Curricula
+KW  - Elementary education
+T2  - Dayton Public Schools. Curriculum bulletin
+V1  - 1
+PB  - Dayton Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 375.13 .D27s 1931 no. 1
+SC  - Ohio
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - A suggestive course of study for the second grade
+Y1  - 1931
+D1  - 1931
+SP  - 153
+KW  - Curricula
+KW  - Elementary education
+T2  - Dayton Public Schools. Curriculum bulletin
+V1  - 2
+PB  - Dayton Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 375.13 .D27s 1931 no. 2
+SC  - Ohio
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Dayton (Ohio) Public Schools
+T1  - A suggestive course of study for the third grade
+Y1  - 1931
+D1  - 1931
+SP  - 139
+KW  - Curricula
+KW  - Elementary education
+T2  - Dayton Public Schools. Curriculum bulletin
+V1  - 3
+PB  - Dayton Public Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 375.13 .D27s 1931 no. 3
+SC  - Ohio
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+
+
