@@ -1,0 +1,951 @@
+
+
+
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual of the common schools of Fresno County, California
+Y1  - 1897
+D1  - 1897
+SP  - 66
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual of the common schools of Fresno County, California
+Y1  - 1893
+D1  - 1893
+SP  - 64
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1893
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual of the public schools of Fresno County, California
+Y1  - 1901
+D1  - 1901
+SP  - 97
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual, public schools, Fresno County
+Y1  - 1915
+D1  - 06/1915
+SP  - 87
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual, public schools, Fresno County, California
+Y1  - 1925
+D1  - 07/1925
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual, public schools, Fresno County, California
+Y1  - 1935
+D1  - 1935
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1935
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual, public schools, Fresno County, California
+Y1  - 1921
+D1  - 07/1921
+SP  - 227
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual of the public schools of Fresno County, California
+Y1  - 1891
+D1  - 1891
+SP  - 92
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1891
+SC  - California
+ER  - 
+
+ΩTY  - BOOK
+A2  - Fresno County (California) Board of Education
+T1  - Manual of the public schools of Fresno County, California
+Y1  - 1891
+D1  - 1891
+SP  - 92
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 1891
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Manual and course of study
+D1  - 1950s?
+KW  - Public schools
+KW  - Curricula
+PB  - Fresno County Board of Education
+CY  - Fresno, CA
+LA  - English
+CN  - 375.82 .F88m 195-
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fort Wayne (Indiana) Schools
+T1  - Courses of study in the high school
+Y1  - 1898
+D1  - 1898-1899
+KW  - High schools
+KW  - Curricula
+PB  - Fort Wayne Schools
+CY  - Fort Wayne, IN
+LA  - English
+CN  - 375.15 .F375c 1898
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the public schools of Glenn County, Cal. containing course of study and rules and regulations of the Board of Education
+Y1  - 1899
+D1  - 1899
+SP  - 36
+KW  - Public schools
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.82 .G558m 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Linn, Louis P.
+A2  - Fresno County (California) Superintendent of Schools. Division of Secondary Education
+T1  - A survey of practices in Fresno County high schools
+Y1  - 1938
+D1  - 10/1938
+SP  - 56
+KW  - High schools
+N1  - Louis P. Linn, Assistant Superintendent, Fresno County Schools
+PB  - Fresno County Superintendent of Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 375.15 .F88s 1938
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Linn, Louis P.
+A2  - Fresno County (California) Superintendent of Schools. Division of Secondary Education
+T1  - A survey of practices in Fresno County high schools, part II
+Y1  - 1940
+D1  - 04/1940
+SP  - 41
+KW  - High schools
+N1  - Louis P. Linn, Assistant Superintendent, Fresno County Schools
+PB  - Fresno County Superintendent of Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 375.15 .F88s 1940
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fullerton (California) Union High School
+T1  - Catalogue
+Y1  - 1913
+D1  - 1913-1914
+SP  - 40
+KW  - High schools
+KW  - Curricula
+PB  - Fullerton Union High School
+CY  - Fullerton, CA
+LA  - English
+CN  - 375.15 .F89c 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Galveston (Texas) Independent School District
+T1  - Course of study for the public schools of the city of Galveston
+Y1  - 1901
+D1  - 1901-1902
+SP  - 61
+KW  - Curricula
+KW  - Public schools
+PB  - Galveston Independent School District
+CY  - Galveston, TX
+LA  - English
+CN  - 375.83 .G18c 1901
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Galveston (Texas) Independent School District
+T1  - Course of study and rules and regulations for the government of the public schools of the city of Galveston
+Y1  - 1908
+D1  - 1908-1909
+SP  - 81
+KW  - Curricula
+KW  - Public schools
+PB  - Galveston Independent School District
+CY  - Galveston, TX
+LA  - English
+CN  - 375.83 .G18c 1908
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Galveston (Texas) Independent School District
+T1  - Annual report, course of study and rules for the government of the public schools of the city of Galveston
+Y1  - 1913
+D1  - 1913-1914
+SP  - 157
+KW  - Curricula
+KW  - Public schools
+PB  - Galveston Independent School District
+CY  - Galveston, TX
+LA  - English
+CN  - 375.83 .G18a 1913
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Galveston (Texas) Public Schools
+T1  - Course of study and rules for the government of the public schools of the city of Galveston
+Y1  - 1916
+D1  - 1916-1917
+SP  - 116
+KW  - Curricula
+KW  - Public schools
+PB  - Galveston Public Schools
+CY  - Galveston, TX
+LA  - English
+CN  - 375.83 .G18c 1916
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Galveston (Texas) Public Schools
+T1  - Course of study
+Y1  - 1920
+D1  - 1920-1921
+SP  - 96
+KW  - Curricula
+KW  - Public schools
+PB  - Galveston Public Schools
+CY  - Galveston, TX
+LA  - English
+CN  - 375.83 .G18c 1920
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Gloucester (Massachusetts) Public Schools
+T1  - [High school course of study]
+D1  - 1919?
+KW  - Curricula
+KW  - High schools
+PB  - Gloucester Public Schools
+CY  - Gloucester, MA
+LA  - English
+CN  - 375.15 .G56h
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Gold Hill (Nevada) Public Schools
+T1  - Course of study for the public schools of Gold Hill, Nevada
+Y1  - 1890
+D1  - 1890
+KW  - Curricula
+KW  - Public schools
+N1  - Also contains ads for various businesses in Gold Hill and Virginia City, Nevada throughout.
+PB  - Gold Hill Public Schools
+CY  - Virginia City, NV
+LA  - English
+CN  - 375.84 .G565 1890
+SC  - Nevada
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - The high school year book
+Y1  - 1896
+D1  - 1896
+SP  - 126
+KW  - High schools
+KW  - Curricula
+PB  - Grand Rapids Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 375.15 .G75h 1896
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - Hand book of the Grand Rapids high schools for the school year 1903-1904
+Y1  - 1904
+D1  - 1903-1904
+KW  - High schools
+KW  - Curricula
+PB  - Grand Rapids Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 375.15 .G75h 1904
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - Bulletin of the Grand Rapids high schools
+D1  - 1914?
+SP  - 10
+KW  - High schools
+KW  - Curricula
+PB  - Grand Rapids Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 375.15 .G75b
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Public Schools
+T1  - Course of study, Grand Rapids Public Schools
+Y1  - 1906
+D1  - 1906
+SP  - 59
+KW  - Public schools
+KW  - Curricula
+PB  - Grand Rapids Public Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 375.83 .G75c 1906
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - Manual
+Y1  - 1928
+D1  - 1928-1929
+SP  - 88
+KW  - Public schools
+KW  - Directories
+KW  - Curricula
+PB  - Grand Rapids Board of Education
+CY  - Grand Rapids, Mi
+LA  - English
+CN  - 375.83 .G75m 1928
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - Manual
+Y1  - 1933
+D1  - 1933-1934
+SP  - 95
+KW  - Public schools
+KW  - Directories
+KW  - Curricula
+PB  - Grand Rapids Board of Education
+CY  - Grand Rapids, Mi
+LA  - English
+CN  - 375.83 .G75m 1933
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (California) Union High School
+T1  - Outline of studies for the Glendale Union High School
+Y1  - 1904
+D1  - 1904-1905
+KW  - High schools
+KW  - Curricula
+PB  - Glendale Union High School
+CY  - Glendale, CA
+LA  - English
+CN  - 375.15 .G55o 1904
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (California) Union High School
+T1  - Manual of the Glendale Union High School
+Y1  - 1909
+D1  - 1909-1910
+KW  - High schools
+KW  - Curricula
+PB  - Glendale Union High School
+CY  - Glendale, CA
+LA  - English
+CN  - 375.15 .G55m 1909
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Glendale (Arizona) Board of Trustees
+T1  - Catalogue of the Glendale Union High and grade schools
+Y1  - 1913
+D1  - 1913-1914
+SP  - 66
+KW  - Public schools
+KW  - Curricula
+PB  - Glendale Board of Trustees
+CY  - Glendale, AZ
+LA  - English
+CN  - 375.83 .G55c 1913
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the public schools of Glenn County, Cal. containing course of study and rules and regulations of the Board of Education
+Y1  - 1896
+D1  - 1896
+SP  - 37
+KW  - Public schools
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.82 .G558m 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the public schools of Glenn County, Cal., containing course of study and rules and regulations of the Board of Education
+Y1  - 1901
+D1  - 1901
+SP  - 33
+KW  - Public schools
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.82 .G558m 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the public schools of Glenn County, Cal., containing course of study and rules and regulations of the Board of Education
+Y1  - 1903
+D1  - 1903
+SP  - 32
+KW  - Public schools
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.82 .G558m 1903
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the elementary schools of Glenn County, containing course of study and rules and regulations of the Board of Education, rules concerning the graduation of pupils and general suggestions for schools
+Y1  - 1911
+D1  - 1911-1912
+SP  - 125
+KW  - Elementary education
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.13 .G558m 1911
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the elementary schools of Glenn County, containing course of study, rules and regulations of the Board of Education, rules concerning the graduation of pupils and general suggestions for schools
+Y1  - 1915
+D1  - 1915-1916
+SP  - 91
+KW  - Elementary education
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.13 .G558m 1915
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the elementary schools of Glenn County, containing course of study, rules and regulations of the Board of Education, rules concerning the graduation of pupils and general suggestions for schools
+Y1  - 1923
+D1  - 1923-1924
+SP  - 61
+KW  - Elementary education
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.13 .G558m 1923
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the elementary schools of Glenn County, containing course of study, rules and regulations of the Board of Education, rules concerning the graduation of pupils and general suggestions for schools
+Y1  - 1921
+D1  - 1921-1922
+SP  - 64
+KW  - Elementary education
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.13 .G558m 1921
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Manual for the elementary schools of Glenn County, containing course of study, rules and regulations of the Board of Education, rules concerning the graduation of pupils and general suggestions for schools
+Y1  - 1925
+D1  - 1925-1926
+SP  - 61
+KW  - Elementary education
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.13 .G558m 1925
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Mapes, E. P.
+A1  - Camper, Ralph W.
+A1  - Marshall, Leon
+A2  - Glenn County (California) Board of Education
+T1  - Manual and course of study for the elementary schools of Glenn County
+Y1  - 1935
+D1  - 08/1935
+KW  - Elementary education
+KW  - Curricula
+N1  - Prepared by E.P. Mapes, County Superintendent of Schools; Ralph W. Camper, Rural Supervisor; and Leon Marshall, Deputy County Superintendent of Schools
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.13 .G558m 1935
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Glenn County (California) Board of Education
+T1  - Year book of Glen County High School, containing the officers and teachers with announcements, calendar, course of study, and rules and regulations
+Y1  - 1912
+D1  - 1912-1913
+SP  - 22
+KW  - High schools
+KW  - Curricula
+PB  - Glenn County Board of Education
+CY  - Willows, CA
+LA  - English
+CN  - 375.15 .G558y 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Lissinger, Leon
+A1  - Glaeser, George
+A1  - Clapp, Virginia
+A1  - Tarr, Donald
+A1  - Kleinfelter, John
+A2  - Grossmont (California) Union High School District
+T1  - Studies in success: a promising approach to the vocational guidance of average high school pupils
+Y1  - 1964
+KW  - Vocational guidance
+PB  - Grossmont Union High School District
+CY  - Grossmont, CA
+LA  - English
+CN  - 371.4 .G87s 1964
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hamilton County (Tennessee) Public Schools
+T1  - Professional yearbook supplement, grades 1-6
+Y1  - 1940
+D1  - 1940-1941
+SP  - 55
+KW  - Teachers
+KW  - Elementary education
+PB  - Hamilton County Public Schools
+LA  - English
+CN  - 371.1 .H215p 1940 Suppl.
+SC  - Tennessee
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  -  
+
+TY  - BOOK
+A2  - Hamilton County (Tennessee) Public Schools
+T1  - Professional yearbook, grade 6
+Y1  - 1940
+D1  - 1940-1941
+SP  - 173
+KW  - Teachers
+KW  - Elementary education
+PB  - Hamilton County Public Schools
+LA  - English
+CN  - 371.1 .H215p 1940 Gr. 6
+SC  - Tennessee
+G1  - Elementary
+G2  - 6th
+ER  -  
+
+TY  - BOOK
+A2  - Harrisburg (Pennsylvania) Public Schools
+T1  - Course of study
+Y1  - 1913
+D1  - 09/1913
+SP  - 121
+KW  - Curricula
+KW  - Public schools
+PB  - Harrisburg Public Schools
+CY  - Harrisburg, PA
+LA  - English
+CN  - 375.83 .H31c 1913
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Harrisburg (Pennsylvania) Public Schools
+T1  - Outline of course of study
+Y1  - 1915
+D1  - 09/1915
+SP  - 125
+KW  - Curricula
+KW  - Public schools
+ED  - Revised
+PB  - Harrisburg Public Schools
+CY  - Harrisburg, PA
+LA  - English
+CN  - 375.83 .H31c 1915
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Grinnell (Iowa) Board of Education
+T1  - Regulations and course of study of the high school, Grinnell Iowa
+Y1  - 1902
+D1  - 02/1902
+SP  - 12
+KW  - High schools
+KW  - Curricula
+PB  - Grinnell Board of Education
+CY  - Grinnell, IA
+LA  - English
+CN  - 375.15 .G84r 1902
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hart (Michigan) Board of Education
+T1  - Announcement and course of study of the Hart High School
+Y1  - 1912
+D1  - 1912-1913
+SP  - 28
+KW  - High schools
+KW  - Curricula
+PB  - Hart Board of Education
+CY  - Hart, Michigan
+LA  - English
+CN  - 375.15 .H315a 1912
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hartford (Connecticut) Public Schools. Hartford Public High School
+T1  - Manual training department circular of information
+Y1  - 1899
+D1  - 06/1899
+SP  - 21
+KW  - Manual training
+KW  - Curricula
+KW  - High schools
+PB  - Hartford Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 375.15 .H32m 1899
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hartford (Connecticut) Public Schools. Hartford Public High School
+T1  - Triennial catalogue of the Hartford Public High School
+Y1  - 1900
+D1  - 1900
+SP  - 170
+KW  - Curricula
+KW  - High schools
+PB  - Hartford Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 375.15 .H32t 1900
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hemet (California) Union High School
+T1  - Courses of instruction
+Y1  - 1910
+D1  - 1910-1911
+KW  - Curricula
+KW  - High schools
+PB  - Hemet Union High School
+CY  - Hemet, CA
+LA  - English
+CN  - 375.15 .H45c 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hemet (California) Union High School
+T1  - Manual of the Hemet Union High School
+Y1  - 1912
+D1  - 1912-1913
+SP  - 25
+KW  - Curricula
+KW  - High schools
+PB  - Hemet Union High School
+CY  - Hemet, CA
+LA  - English
+CN  - 375.15 .H45m 1912
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Holtville (California) Union High School
+T1  - Manual of the Holtville Union High School
+Y1  - 1911
+D1  - 1911
+SP  - 34
+KW  - Curricula
+KW  - High schools
+PB  - Holtville Union High School
+CY  - Holtville, CA
+LA  - English
+CN  - 375.15 .H755m 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Columbia University. Teachers College
+T1  - The Horace Mann School for Boys under the auspices of Teachers College, Columbia University
+Y1  - 1922
+D1  - 1922-1923
+SP  - 28
+KW  - Private schools
+KW  - Curricula
+PB  - Columbia University Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 378.77 .C72h 1922
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Hillsborough County (Florida) Public Schools
+T1  - Course of study for the schools in Hillsborough County, Fla., duties of teachers, supervisor and trustees, and general regulations of the board of public instruction
+Y1  - 1910
+D1  - 1910
+SP  - 62
+KW  - Public schools
+KW  - Curricula
+PB  - Hillsborough County Public Schools
+CY  - Tampa, FL
+LA  - English
+CN  - 375.82 .H64c 1910
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Houghton (Michigan) High School
+T1  - To ambitious young people--an opportunity: Business Department, Houghton High School
+Y1  - 1901
+D1  - 1901
+SP  - 12
+KW  - Curricula
+KW  - Business education
+PB  - Houghton High School
+CY  - Detroit, MI
+LA  - English
+CN  - 375.15 .H83t 1901
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Course of study of the public schools of the independent school district of the city of Houston, Texas
+Y1  - 1917
+D1  - 1917-1918
+SP  - 219
+KW  - Curricula
+KW  - Public schools
+PB  - Houston Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 375.83 .H84c 1917
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Course of study of the public schools of the independent school district of the city of Houston, Texas
+Y1  - 1920
+D1  - 1920-1921
+SP  - 231
+KW  - Curricula
+KW  - Public schools
+PB  - Houston Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 375.83 .H84c 1920
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Course of study of the public schools of the independent school district of the city of Houston, Texas
+Y1  - 1923
+D1  - 1923-1924
+SP  - 234
+KW  - Curricula
+KW  - Public schools
+PB  - Houston Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 375.83 .H84c 1923
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Curriculum revision and development in Houston, Texas (1924-1930)
+Y1  - 1930
+D1  - 1930?
+SP  - 108
+KW  - Curricula
+KW  - Public schools
+PB  - Houston Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 375.83 .H84cu 1930
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - An overview of the instructional program
+Y1  - 1963
+D1  - 05/1963
+SP  - 65
+KW  - Curricula
+KW  - Public schools
+PB  - Houston Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 375.83 .H84o 1963
+SC  - Texas
+ER  - 
+
