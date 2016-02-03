@@ -1,0 +1,515 @@
+
+TY  - BOOK
+A1  - Esterquest, Ralph T.
+A2  - University of the State of New York
+T1  - Strengthening medical library resources in New York State
+Y1  - 1963
+D1  - 1963
+SP  - 29
+KW  - Medical libraries
+KW  - Library cooperation
+KW  - New York State Medical Library
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1963
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State
+T1  - An act to amend the education law, in relation to development of reference and research library resources, and making an appropriation therefor
+Y1  - 1962
+D1  - 01/1962
+SP  - 12
+N1  - 12 pages; Note(s): At head of title: State of New York. Print. 949. Intro. 949. In Assembly (prefiled) January 3, 1962./ Introduced by Mr. Brady (on recommendation of the New York State Education Department); Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .N45s 1962
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Committee on Public Library Service
+T1  - Report of the Commissioner of Education's Committee on Public Library Service, 1957
+Y1  - 1958
+D1  - 1958
+SP  - 196
+KW  - Libraries
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s  1958
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+A2  - New York State Library
+T1  - Report of the Commissioner's Committee on Reference and Research Library Resources
+Y1  - 1961
+D1  - 12/1961
+SP  - 43
+KW  - Library surveys
+KW  - Libraries
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Library
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1961
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Commissioner of Education's Committee on Direct Access
+T1  - Report of the Commissioner of Education's Committee on Direct Access
+Y1  - 1974
+D1  - 1974
+SP  - 64
+KW  - Public libraries
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1974
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Roseberry, Cecil R.
+A2  - University of the State of New York
+T1  - For the Government and people of this State : a history of the New York State Library
+Y1  - 1970
+D1  - 1970
+SP  - 126
+KW  - New York State Library
+N1  - v; ill. ; 28 cm.; Other Titles: History of the New York State Library; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Office of Foreign Area Studies
+T1  - Foreign area studies and the college library : selected papers presented at a conference on Reference Services for Foreign Area Studies ... 1964.
+Y1  - 1965
+D1  - 1965
+SP  - 73
+KW  - Area studies
+N1  - 73 pages ; 28 cm.; Genre/Form: Conference papers and proceedings.; Responsibility: Ed. by Ward Morehouse; Shelved in Cubberley Library Reading Room
+T2  - Foreign Area Materials Center occasional publication
+V1  - 1
+PB  - University of the State of New York Office of Foreign Area Studies
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1965
+SC  - New York
+G1  - Postsecondary
+ER  - 
+
+
+TY  - BOOK
+A1  - Allen, James Edward
+A2  - New York State Library
+T1  - A guide to the papers of James E. Allen, Jr., President of the University of the State of New York and Commissioner of Education, 1955-1969
+Y1  - 1970
+D1  - 1970
+SP  - 68
+KW  - Allen, James Edward
+N1  - 68 pages 23 cm; Genre/Form: Catalogs. History.; Note(s): "The Allen papers are a collection of documents drawn from the files of the Commissioner's Office."; Shelved in Cubberley Library Reading Room
+PB  - New York State Library
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Fediuk, Simon
+A2  - New York State Division of Human Rights
+T1  - Bibliography on education; Special Collection
+Y1  - 1970
+D1  - 1970
+SP  - 60
+KW  - Education
+N1  - 60 pages 28 cm.; Genre/Form: Bibliography.; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+T2  - New York State Reference Library special collection
+V1  - 2
+PB  - New York State Division of Human Rights
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Division of Health, Physical Education and Recreation
+T1  - Report on the physical fitness of pupils in the schools of New York State
+Y1  - 1966
+D1  - 05/1966
+SP  - 10
+KW  - Physical education and training
+N1  - 4 pages illustrations 28 cm; Other Titles: Physical fitness of pupils in the schools of New York State; Shelved in Cubberley Library Reading Room
+PB  - New York State Division of Health, Physical Education and Recreation
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1966
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Division for Youth
+T1  - The Governor's Conference on Youth, April 5, 1968, Biltmore Hotel, New York, New York
+Y1  - 1968
+D1  - 05/1968
+SP  - 78
+KW  - Youth
+N1  - 78 pages : illustrations ; 17 x 25 cm; Genre/Form: Conference papers and proceedings.; Other Titles: Report on the Governor's Conference on Youth, April 5, 1968 ; Shelved in Cubberley Library Reading Room
+T2  - Governor's Conference on Youth (N.Y.), New York (1968)
+PB  - State of New York Division for Youth
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Allen, James E.
+A2  - University of the State of New York
+T1  - Addresses and papers of James E. Allen, Jr. : President of the University of the State of New York and Commissioner of Education. Volume I, September 1955-June 1957
+Y1  - 1959
+D1  - 1959
+SP  - 236
+KW  - Education
+N1  - 236 pages ; 23 cm; Note(s): No subsequent volumes issued./; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1959
+SC  - New York
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Maclay, G. E.
+A2  - University of the State of New York. Division of Industrial Education. Bureau of Occupational Extension and Industrial Services
+T1  - Management development service
+Y1  - 1950
+D1  - 07/1950
+SP  - 19
+KW  - Education
+KW  - State or province government publication (sgp)
+N1  - 19 pages; Note(s): Cover title.; Responsibility: [prepared by G.E. Maclay and W.D. Weitz]. ; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1950
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Bureau of Physical Education
+T1  - A guide for the development of standards and the curriculum in physical education
+D1  - 1951?
+SP  - 31
+KW  - Physical education and training
+N1  - 31 pages ; 24 cm.; Responsibility: New York State Physical Education Standards Project.; Shelved in Cubberley Library Reading Room
+T2  - New York State Bureau of Physical Education physical education standards project bulletin
+V1  - 2
+PB  - New York State Bureau of Physical Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1951
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Committee for the White House Conference on Education
+T1  - Reports to the people of New York State and to the National Committee for the White House Conference, 1955
+Y1  - 1955
+D1  - 1955
+SP  - 93
+KW  - Education
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1955
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Ryther, John H.
+A2  - University of the State of New York
+T1  - Oceanography in New York : a prospectus
+Y1  - 1966
+D1  - 08/1966
+SP  - 34
+KW  - Oceanography
+N1  - v; ges ; 22 cm; Note(s): "This report ... is the first of a series planned by the State Education Department's, Office of Science and Technology."; Responsibility: by John H. Ryther; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1966
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Emerson, Lynn Arthur
+A1  - Beach, Charles Kenneth
+A2  - New York State Bureau of Industrial and Technical Education
+T1  - Technical occupations in the State of New York, with implications for State institutes of applied arts and sciences
+Y1  - 1946
+D1  - 03/1946
+KW  - Occupations
+KW  - Technical education
+N1  - 1 volume illustrations 29 cm; Note(s): "Lynn Emerson of Cornell University advised in the tentative planning of the surveys."/ Includes bibliographical references.; Responsibility: by C. Kenneth Beach and associates.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1946
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Finegan, Thomas E.
+A2  - University of the State of New York
+T1  - The life and public services of Andrew S. Draper
+Y1  - 1914
+D1  - 1914
+SP  - 29
+KW  - Draper, Andrew Sloan, 1848-1913
+N1  - 29 pages 23 cm; Note(s): Also issued online.; Responsibility: By Thomas E. Finegan. An address delivered before the New York State Teachers Association at Syracuse, November 26, 1913; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1914
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Brown, David W.
+A2  - New York State. Temporary Commission of Investigation
+T1  - After ten years of educational opportunity programs in New York State -- : June 24, 1977
+Y1  - 1977
+D1  - 06/1977
+SP  - 63
+KW  - Student financial aid administration
+KW  - Government aid to higher education
+KW  - People with social disabilities
+N1  - 63 pages ; 28 cm; Note(s): Cover title./ David W. Brown, chairman.; Other Titles: Educational opportunity programs in New York State; Responsibility: State of New York Commission of Investigation.; Shelved in Cubberley Library Reading Room
+PB  - New York State Temporary Commission of Investigation
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N47t 1977
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Educational Board
+A2  - Public Education Association of the City of New York
+T1  - Fiscal policy for public education in the State of New York, report of a joint committee representing the New York State Educational Conference Board and the Public Education Association of New York City
+Y1  - 1947
+D1  - 09/1947
+SP  - 112
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Educational Board
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N47n
+SC  - New York
+M1  - Book, Whole
+ER  -
+
+TY  - BOOK
+A1  - Esmond, Irwin
+A2  - New York State Teachers Association
+T1  - Public education in New York state : a brief outline of the history, development and organization of the state public school system and a digest of the laws under which it operates.
+Y1  - 1937
+D1  - 1937
+SP  - 61
+KW  - Public schools
+N1  - 61 pages ; 20 cm; Responsibility: by Irwin Esmond; Shelved in Cubberley Library Reading Room
+PB  - New York State Teachers Association
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N47e
+SC  - New York
+ER  -
+
+TY  - BOOK
+T1  - Laws relating to common schools, with the instructions of the department
+D1  - 1844?
+SP  - 699
+KW  - Educational law and legislation
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .N47cs
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Regent's bulletin
+Y1  - 1891
+D1  - 04/1891
+SP  - 174
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - University of the State of New York regent's bulletin
+V1  - 5
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N47as
+SC  - New York
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Lalley, Richard Andrew
+A2  - Cornell University. Department of Education
+A2  - University of the State of New York
+T1  - The Status and role of lunchroom aides in selected New York State school districts. Phase two of a continuing study. School paraprofessionals: roles and job satisfactions
+Y1  - 1970
+D1  - 02/1970
+SP  - 36
+KW  - School employees
+KW  - School lunchrooms, cafeterias, etc
+KW  - Food service employees
+N1  - vi; ges (chiefly tables) 28 cm; Note(s): "Report ... made by Cornell University staff; Richard Lalley [and others]."; Other Titles: School paraprofessionals.; Shelved in Cubberley Library Reading Room
+PB  - Cornell University
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Morgenstein, Melvin
+A1  - Strongin, Harriet
+A2  - University of the State of New York
+A2  - Nassau Community College
+T1  - A study of student dropouts from vocationally oriented business programs at Nassau Community College
+Y1  - 1970
+D1  - 07/1970
+SP  - 114
+KW  - Business education
+KW  - Dropouts
+KW  - Nassau Community College
+N1  - vii; illustrations 28 cm; Note(s): Spine title: Attrition study of business programs at Nassau C.C./ On cover: Research Coordinating Unit, final report./ Prepared in cooperation with the University of the State of New York, Bureau of Occupational Research./ Includes bibliographical references (page 70).; Other Titles: Attrition study of business programs at Nassau C.C.; Responsibility: by Melvin Morgenstein and Harriet Strongin.; Shelved in Cubberley Library Reading Room
+PB  - Nassau Community College
+CY  - Garden City, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Pallone, Nathaniel J.
+A1  - Rickard, Fred S.
+A1  - Hurley, Robert B.
+A2  - New York University. School of Education. Center for Field Research
+A2  - University of the State of New York
+T1  - Race, sex, and social mobility: an exploration of occupational aspirations and expectations among black and white youth in four New York State cities; a summary
+Y1  - 1970
+D1  - 06/1970
+SP  - 5
+KW  - Student aspirations
+KW  - Vocational guidance
+N1  - iii, 5 leaves 28 cm; Note(s): A study by the Center for Field Research, School of Education, New York University in cooperation with the Bureau of Occupational Education Research.; Responsibility: by Nathaniel J. Pallone, Fred S. Rickard, Robert B. Hurley.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Information Center on Education
+T1  - Code manual for public school districts of New York State, 1976/1977
+D1  - 1977?
+SP  - 45
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1976/1977
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Winters, Joseph Stephen
+A2  - University of the State of New York
+T1  - Career programs in two-year colleges
+Y1  - 1970
+D1  - 1970
+SP  - 84
+KW  - Community colleges
+KW  - Curricula
+N1  - vii; 22 cm; Note(s): On cover: Research Coordinating Unit.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - McCowan, Richard J.
+A1  - Mongerson, M. Duane
+A2  - Campus Laboratory School State University College at Buffalo
+T1  - A simulated instructional model for educating mentally retarded students employment in the hotel-motel industry
+Y1  - 1969
+D1  - 12/1969
+SP  - 31
+KW  - Children with mental disabilities
+N1  - V; ill. ; 28 cm; Note(s): References: p. 27-31.; Responsibility: Richard J. McCowan.; Shelved in Cubberley Library Reading Room
+PB  - State University College at Buffalo
+CY  - Buffalo, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Morgenstein, Melvin
+A1  - Strongin, Harriet
+A2  - University of the State of New York
+T1  - Study of articulation program between Nassau Community College and Topic House (Nassau County drug addiction rehabilitation center) with regard to vocational business training programs; final report
+Y1  - 1969
+D1  - 07/1969
+SP  - 66
+KW  - Drug addicts
+KW  - Youth
+N1  - vi; forms 28 cm; Note(s): On cover: Research Coordinating Unit./ Includes bibliographical references (page 53).; Responsibility: [by Melvin Morgenstein and Harriet Strongin] ; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Spengler, James R.
+A2  - Western New York School Development Council
+T1  - The attitudes of school board members toward occupational education
+Y1  - 1969
+D1  - 10/1969
+SP  - 71
+KW  - School board members
+KW  - Vocational education
+N1  - vi; 28 cm; Note(s): "October 1969."; Responsibility: by James R. Spengler.; Shelved in Cubberley Library Reading Room
+PB  - Western New York School Development Council
+CY  - Williamsville, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  - 
