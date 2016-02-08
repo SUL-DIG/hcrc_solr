@@ -1,0 +1,1580 @@
+
+TY  - BOOK
+A2  - The Dalles (Oregon) High School
+T1  - Courses of study
+Y1  - 1916
+D1  - 1916
+KW  - Curricula
+KW  - High schools
+PB  - The Dalles High School
+CY  - The Dalles, OR
+LA  - English
+CN  - 375.15 .D145c 1916
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Deerfield Township (Illinois) High School
+T1  - Deerfield Township High School, 1903-4
+Y1  - 1903
+D1  - 1903-1904
+SP  - 15
+KW  - Curricula
+KW  - High schools
+PB  - Deerfield Township High School
+CY  - Highland Park, IL
+LA  - English
+CN  - 375.15 .D30d 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Deerfield Township (Illinois) High School
+T1  - Year book
+Y1  - 1904
+D1  - 1904-1905
+SP  - 55
+KW  - Curricula
+KW  - High schools
+PB  - Deerfield Township High School
+CY  - Highland Park, IL
+LA  - English
+CN  - 375.15 .D30y 1904
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Deerfield Township (Illinois) High School
+T1  - Year book
+Y1  - 1906
+D1  - 1906-1907
+SP  - 59
+KW  - Curricula
+KW  - High schools
+PB  - Deerfield Township High School
+CY  - Highland Park, IL
+LA  - English
+CN  - 375.15 .D30y 1906
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Deerfield Township (Illinois) High School
+T1  - Year book
+Y1  - 1907
+D1  - 1907-1908
+SP  - 59
+KW  - Curricula
+KW  - High schools
+PB  - Deerfield Township High School
+CY  - Highland Park, IL
+LA  - English
+CN  - 375.15 .D30y 1907
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Deerfield Township (Illinois) High School
+T1  - Year book
+Y1  - 1908
+D1  - 1908-1909
+SP  - 63
+KW  - Curricula
+KW  - High schools
+PB  - Deerfield Township High School
+CY  - Highland Park, IL
+LA  - English
+CN  - 375.15 .D30y 1908
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Deerfield Township (Illinois) High School
+T1  - Year book
+Y1  - 1909
+D1  - 1909-1910
+SP  - 53
+KW  - Curricula
+KW  - High schools
+PB  - Deerfield Township High School
+CY  - Highland Park, IL
+LA  - English
+CN  - 375.15 .D30y 1909
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Del Norte County (California) Public Schools
+T1  - Manual for the public schools, containing the course of study, suggestions, rules and regulations, and high school curriculum.
+Y1  - 1897
+D1  - 1897
+SP  - 43
+KW  - Curricula
+KW  - Public schools
+PB  - Del Norte County Public Schools
+LA  - English
+CN  - 375.82 .D35m 1897
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Del Norte County (California) Public Schools
+T1  - Manual for the public schools of Del Norte County, containing the course of study, suggestions, rules and regulations, and high school curriculum.
+Y1  - 1900
+D1  - 1900
+SP  - 16
+KW  - Curricula
+KW  - Public schools
+PB  - Del Norte County Public Schools
+LA  - English
+CN  - 375.82 .D35m 1900
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Syllabus for teachers: second grade
+Y1  - 1910
+D1  - 1910
+SP  - 47
+KW  - Curricula
+KW  - Elementary education
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375.13 .D41s 1910
+SC  - Colorado
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Syllabus for teachers of arithmetic: sixth, seventh and eighth grades
+Y1  - 1910
+D1  - 1910
+SP  - 11
+KW  - Curricula
+KW  - Arithmetic
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 511.2 .D41s 1910
+SC  - Colorado
+G1  - Middle school
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Course of study for the elementary schools of the city and county of Denver, Colorado
+Y1  - 1910
+D1  - 1910?
+SP  - 56
+KW  - Curricula
+KW  - Elementary education
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 375.13 .D41c 1910
+SC  - Colorado
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Denver serves its children: a handbook of school and community resources for the use of parents and teachers
+Y1  - 1948
+D1  - 1948
+SP  - 48
+KW  - Child welfare
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 362.7 .D41d 1948
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Effective learning for use in junior high school
+Y1  - 1949
+D1  - 1949
+SP  - 72
+KW  - Psychology of learning
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 370.225 .D41e 1949
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Catalogue of the Detroit high schools for 1900-1901
+Y1  - 1901
+D1  - 1900-1901
+SP  - 109
+KW  - Curricula
+KW  - High schools
+PB  - Detroit Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 375.15 .D48c 1901
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Catalogue of the Detroit high schools for 1902-1903
+Y1  - 1903
+D1  - 1902-1903
+SP  - 110
+KW  - Curricula
+KW  - High schools
+PB  - Detroit Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 375.15 .D48c 1903
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Outline of work - evening sessions
+Y1  - 1908
+D1  - 09/1908
+SP  - 26
+KW  - Curricula
+KW  - Evening and continuation schools
+N1  - Also includes small posters in Italian, Hebrew, and Polish
+PB  - Detroit Public Schools
+CY  - Detroit, MI
+LA  - English
+LA  - Italian
+LA  - Hebrew
+LA  - Polish
+CN  - 374.81 .D48o 1908
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Evening high schools - detailed course in mechanical drawing, architectural drawing, workshop calculations, manual training, domestic science, domestic art, millinery
+Y1  - 1908
+D1  - 09/1908
+SP  - 16
+KW  - Curricula
+KW  - Evening and continuation schools
+KW  - Manual training
+KW  - Home economics
+PB  - Detroit Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 374.81 .D48e 1908
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Evening sessions - high schools, continuation schools program and outline of work
+Y1  - 1909
+D1  - 10/1909
+KW  - Curricula
+KW  - Evening and continuation schools
+PB  - Detroit Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 374.81 .D48e 1909
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Catalogue of the Detroit high schools for 1909-1910-1911
+Y1  - 1911
+D1  - 1909-1911
+SP  - 98
+KW  - Curricula
+KW  - High schools
+PB  - Detroit Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 375.15 .D48c 1911
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Hand book of the Detroit Junior High Schools
+Y1  - 1916
+D1  - 1916-1917
+SP  - 129
+KW  - Curricula
+KW  - Junior high schools
+PB  - Detroit Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 375.14 .D48h 1916
+SC  - Michigan
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - District of Columbia Public Schools. Curriculum Committee for Health, Physical Education and Safety in the Elementary School
+T1  - Child growth and development, characteristics and needs
+Y1  - 1946
+D1  - 09/1946
+KW  - Child development
+N1  - A chart.
+PB  - District of Columbia Public Schools
+CY  - Washington, DC
+LA  - English
+CN  - 370.21 .D61c 1946
+SC  - District of Columbia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - El Paso (Texas) Board of Education
+T1  - El Paso High School courses of study
+KW  - Curricula
+KW  - High schools
+N1  - Includes slip with corrections for textbooks used.
+PB  - El Paso Board of Education
+CY  - El Paso, TX
+LA  - English
+CN  - 375.15 .E37e
+SC  - Texas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Public Schools
+T1  - Course of study: primary and intermediate grades
+Y1  - 1920
+D1  - 1920-1921
+SP  - 222
+KW  - Curricula
+KW  - Elementary education
+PB  - Fort Worth Public Schools
+CY  - Fort Worth, TX
+LA  - English
+CN  - 375.13 .F73c 1920
+SC  - Texas
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Curriculum guide for elementary schools
+Y1  - 1945
+D1  - 1945
+SP  - 533
+KW  - Curricula
+KW  - Elementary education
+PB  - Kern County Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 375.13 .K39c 1945
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Outline of studies for the elementary schools of Kern County
+Y1  - 1902
+D1  - 1902
+SP  - 107
+KW  - Curricula
+KW  - Elementary education
+ED  - Second
+PB  - Kern County Office of Superintendent of Schools
+LA  - English
+CN  - 375.13 .K39o 1902
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Course of study for the elementary schools of Kern County
+Y1  - 1905
+D1  - 1905
+SP  - 69
+KW  - Curricula
+KW  - Elementary education
+PB  - Kern County Office of Superintendent of Schools
+LA  - English
+CN  - 375.13 .K39c 1905
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Manual of the elementary schools of Kern County
+Y1  - 1906
+D1  - 1906
+SP  - 68
+KW  - Curricula
+KW  - Elementary education
+PB  - Kern County Office of Superintendent of Schools
+LA  - English
+CN  - 375.13 .K39m 1906
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Manual of the elementary schools of Kern County
+Y1  - 1914
+D1  - 1914-1915
+SP  - 101
+KW  - Curricula
+KW  - Elementary education
+PB  - Kern County Office of Superintendent of Schools
+LA  - English
+CN  - 375.13 .K39m 1914
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Kern County schools - basic curriculum chart: social objectives
+Y1  - 1944
+D1  - 1944-1945
+KW  - Curricula
+KW  - Elementary education
+N1  - A large chart
+PB  - Kern County Office of Superintendent of Schools
+LA  - English
+CN  - 375.13 .K39k 1944
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Educational improvement for schools of Kern County, California
+Y1  - 1950
+D1  - 1950-1951
+KW  - Public schools
+PB  - Kern County Office of Superintendent of Schools
+LA  - English
+CN  - 379.1 .K39e 1950
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Manual of the public schools of Kern County
+Y1  - 1896
+D1  - 1896
+KW  - Public schools
+PB  - Kern County Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 375.82 .K39m 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Revised manual for the public schools of Kern County
+Y1  - 1899
+D1  - 06/1899
+KW  - Public schools
+PB  - Kern County Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 375.82 .K39m 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Manual of the Kern County high school
+Y1  - 1900
+D1  - 1900
+KW  - Curriculum
+KW  - High schools
+PB  - Kern County Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 375.15 .K39m 1900
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Manual of the elementary schools Kern County, California
+Y1  - 1924
+D1  - 1924-1925
+KW  - Curriculum
+KW  - Elementary education
+PB  - Kern County Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 375.13 .K39m 1924
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kern County (California) Office of Superintendent of Schools
+T1  - Manual of the elementary schools Kern County, California
+Y1  - 1921
+D1  - 1921-1922
+KW  - Curriculum
+KW  - Elementary education
+PB  - Kern County Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 375.13 .K39m 1921
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kittitas County (Washington) Superintendent of Instruction
+T1  - An outline course of study for the common schools of Kittitas County, Washington
+Y1  - 1915
+D1  - 1915-1920
+KW  - Curricula
+KW  - Public schools
+PB  - Kittitas County Superintendent of Instruction
+CY  - Bakersfield, CA
+LA  - English
+CN  - 375.82 .K56o 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Knoxville (Tennessee) City Schools
+T1  - Course of study, public schools, Knoxville, Tenn.
+Y1  - 1898
+D1  - 1898-1899
+SP  - 58
+KW  - Curricula
+KW  - Public schools
+PB  - Knoxville City Schools
+CY  - Knoxville, TN
+LA  - English
+CN  - 375.83 .K73c 1898
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - Kokomo (Indiana) High School
+T1  - Kokomo High School
+Y1  - 1903
+D1  - 1903-1904
+KW  - Curricula
+KW  - High schools
+PB  - Kokomo High School
+CY  - Kokomo, IN
+LA  - English
+CN  - 375.15 .K80k 1903
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Marion (Indiana) Superintendent of City Schools
+T1  - The junior high school course of study
+KW  - Curricula
+KW  - Junior high schools
+PB  - Marion Superintendent of City Schools
+CY  - Marion, IN
+LA  - English
+CN  - 375.14 .M335j
+SC  - Indiana
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Marion (Ohio) City Schools
+T1  - Harding High School course of study
+Y1  - 1918
+D1  - 08/1918
+KW  - Curricula
+KW  - High schools
+PB  - Marion City Schools
+CY  - Marion, OH
+LA  - English
+CN  - 375.15 .M34c 1918
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - LaGrande (Oregon) Public Schools
+T1  - High school semester program is made
+D1  - 1917?
+SP  - 4
+KW  - Curricula
+KW  - High schools
+PB  - LeGrande Public Schools
+CY  - LeGrande, OR
+LA  - English
+CN  - 375.15 .L17h 191-
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - School manual of Lake County, California
+Y1  - 1914
+D1  - 1914-1915
+KW  - Curricula
+KW  - Public schools
+N1  - Cover title: Course of Study - Lake County, California
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1914
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - School manual of Lake County, California
+Y1  - 1915
+D1  - 1915-1916
+KW  - Curricula
+KW  - Public schools
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - Supplement to the course of study for the schools of Lake County, California
+Y1  - 1921
+D1  - 09/1921
+KW  - Curricula
+KW  - Public schools
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - Revision of course of study Lake County school manual
+Y1  - 1925
+D1  - 09/1925
+KW  - Curricula
+KW  - Public schools
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - Supplement to the Lake County course of study
+Y1  - 1927
+D1  - 1927
+KW  - Curricula
+KW  - Public schools
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1927
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - Supplement to the Lake County course of study
+Y1  - 1928
+D1  - 1928
+KW  - Curricula
+KW  - Public schools
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1928
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - Supplement to the Lake County course of study
+Y1  - 1929
+D1  - 06/1929
+KW  - Curricula
+KW  - Public schools
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1929
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lake County (California) Board of Education
+T1  - Manual of the public schools of Lake County, California
+Y1  - 1924
+D1  - 06/1924
+KW  - Curricula
+KW  - Public schools
+PB  - Lake County Board of Education
+CY  - Lakeport, CA
+LA  - English
+CN  - 375.82 .L185s 1924
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lakewood (Ohio) Public Schools
+T1  - Manual of the Lakewood public schools
+Y1  - 1911
+D1  - 1911
+SP  - 60
+KW  - Curricula
+KW  - Public schools
+PB  - Lakewood Public Schools
+CY  - Lakewood, OH
+LA  - English
+CN  - 375.83 .L19m 1911
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - La Mesa-Spring Valley School District
+T1  - A guide for 6th grade teachers
+Y1  - 1958
+D1  - 08/1958
+SP  - 99
+KW  - Curricula
+KW  - Elementary education
+PB  - La Mesa-Spring Valley School District
+CY  - La Mesa, CA
+LA  - English
+CN  - 375.13 .L22g 1958 6th
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - La Salle-Peru Township (Illinois) Schools
+T1  - The bureau of educational counsel: a student personnel department
+Y1  - 1927
+D1  - 1923-1926
+SP  - 52
+KW  - Guidance
+PB  - La Salle-Peru Township Schools
+CY  - La Salle, IL
+LA  - English
+CN  - 371.426 .L33b 1927
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - La Salle-Peru Township (Illinois) Schools
+T1  - Fifth annual catalogue of the La Salle-Peru Township high school
+Y1  - 1903
+D1  - 1903-1904
+SP  - 55
+KW  - Curricula
+KW  - High schools
+PB  - La Salle-Peru Township Schools
+CY  - La Salle, IL
+LA  - English
+CN  - 375.15 .L33a 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lansing (Michigan) Board of Education
+T1  - Catalogue of Lansing High School
+Y1  - 1903
+D1  - 1903-1904
+SP  - 45
+KW  - Curricula
+KW  - High schools
+PB  - Lansing Board of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 375.15 .L25c 1903
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lansing (Michigan) Board of Education
+T1  - Course of study ad text books for the Lansing High School
+Y1  - 1911
+D1  - 1911-1912
+KW  - Curricula
+KW  - High schools
+PB  - Lansing Board of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 375.15 .L25c 1911
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lassen County (California) Office of Education
+T1  - School manual and course of study of Lassen County, California
+Y1  - 1916
+D1  - 1916-1917
+KW  - Curricula
+KW  - Public schools
+PB  - Lassen County Office of Education
+CY  - Susanville, CA
+LA  - English
+CN  - 375.82 .L34s 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lassen County (California) Office of Education
+T1  - Course of study for the public schools of Lassen County, California
+Y1  - 1920
+D1  - 1920-1921
+KW  - Curricula
+KW  - Public schools
+PB  - Lassen County Office of Education
+CY  - Susanville, CA
+LA  - English
+CN  - 375.82 .L34c 1920
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lassen County (California) Office of Education
+T1  - Course of study, Lassen County Schools, California
+Y1  - 1923
+D1  - 1923
+KW  - Curricula
+KW  - Public schools
+PB  - Lassen County Office of Education
+CY  - Susanville, CA
+LA  - English
+CN  - 375.82 .L34c 1923
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Lassen County (California) Office of Education
+T1  - Course of study, elementary schools of lassen County
+Y1  - 1927
+D1  - 1927
+KW  - Curricula
+KW  - Public schools
+PB  - Lassen County Office of Education
+CY  - Susanville, CA
+LA  - English
+CN  - 375.13 .L34c 1927
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Leadville (Colorado) Public Schools
+T1  - Courses of study for the Leadville High School
+Y1  - 1900
+D1  - 1900-1901
+KW  - Curricula
+KW  - High schools
+PB  - Leadville Public Schools
+CY  - Leadville, CO
+LA  - English
+CN  - 375.15 .L43c 1900
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Leadville (Colorado) Public Schools
+T1  - Directory, Leadville Public Schools
+Y1  - 1901
+D1  - 1901-1902
+KW  - Directories
+PB  - Leadville Public Schools
+CY  - Leadville, CO
+LA  - English
+CN  - 379.16 .L43d 1901
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - La Mars (iowa) Public Schools
+T1  - Courses of study, high school department
+Y1  - 1900
+D1  - 09/1900
+KW  - Curricula
+KW  - High schools
+PB  - La Mars Public Schools
+CY  - La Mars, IA
+LA  - English
+CN  - 375.15 .L215c 1900
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lima (Ohio) Public Schools
+T1  - Courses of study, Lima City schools
+Y1  - 1915
+D1  - 09/1915
+SP  - 162
+KW  - Curricula
+KW  - Public schools
+N1  - Cover title: Manual of courses of study and report
+PB  - Lima Public Schools
+CY  - Lima, OH
+LA  - English
+CN  - 375.83 .L725c 1915
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Lima (Ohio) Public Schools
+T1  - A souvenir of Lima high schools: vocational courses: day school - night school
+Y1  - 1919
+D1  - 1919
+SP  - 39
+KW  - Curricula
+KW  - High schools
+KW  - Vocational education
+N1  - Cover title: Central High School, South High School
+PB  - Lima Public Schools
+CY  - Lima, OH
+LA  - English
+CN  - 375.15 .L725s 1919
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Public Schools
+T1  - Course of study rules and regulations of the Lincoln Public Schools
+Y1  - 1900
+D1  - 1900
+SP  - 150
+KW  - Curricula
+KW  - Public schools
+N1  - Cover title: Manual of the Lincoln Public Schools
+PB  - Lincoln Public Schools
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.83 .L73c 1900
+SC  - Nebraska
+ER - 
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Public Schools
+T1  - Course of study and syllabuses in general lessons for the elementary schools of Lincoln, Nebraska
+Y1  - 1906
+D1  - 01/1906
+SP  - 39
+KW  - Curricula
+KW  - Elementary education
+PB  - Lincoln Public Schools
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.13 .L73c 1906
+SC  - Nebraska
+G1  - Elementary
+ER - 
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Public Schools. Lincoln High School
+T1  - Courses of study and general information
+Y1  - 1912
+D1  - 1912-1913
+KW  - Curricula
+KW  - High schools
+PB  - Lincoln Public Schools
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .L73c 1912
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Public Schools. Lincoln High School
+T1  - Manual of administration, curriculum organization and social control
+Y1  - 1919
+D1  - 1919-1920
+KW  - Curricula
+KW  - High schools
+PB  - Lincoln Public Schools
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .L73c 1919
+SC  - Nebraska
+G1  - High school
+ER - 
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Public Schools
+T1  - Curriculum and building needs in the high school
+Y1  - 1926
+D1  - 04/1926
+SP  - 24
+KW  - Curricula
+KW  - High schools
+PB  - Lincoln Public Schools
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.15 .L73c 1926
+SC  - Nebraska
+G1  - High school
+ER - 
+
+TY  - BOOK
+A2  - Little Rock (Arkansas) Public Schools. High School
+T1  - General information and courses of study
+D1  - 1918?
+SP  - 20
+KW  - Curricula
+KW  - High schools
+PB  - Little Rock Public Schools
+CY  - Little Rock, AK
+LA  - English
+CN  - 375.15 .L78g
+SC  - Arkansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Logan (Utah) Public Schools
+T1  - Rules, regulations and course of study of the public schools of the City of Logan
+Y1  - 1898
+D1  - 09/1898
+SP  - 26
+KW  - Curricula
+KW  - Public schools
+PB  - Logan Public Schools
+CY  - Logan, UT
+LA  - English
+CN  - 375.83 .L825r 1898
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Logan (Utah) Public Schools
+T1  - Course of study
+Y1  - 1917
+D1  - 09/1917
+SP  - 89
+KW  - Curricula
+KW  - Public schools
+PB  - Logan Public Schools
+CY  - Logan, UT
+LA  - English
+CN  - 375.83 .L825c 1917
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools
+T1  - Long Beach High School course of study
+D1  - 1910?
+SP  - 8
+KW  - Curricula
+KW  - High schools
+PB  - Long Beach Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.15 .L825c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools
+T1  - Year book of the Long Beach City Public Schools: elementary and kindergarten departments
+Y1  - 1911
+D1  - 1911-1912
+SP  - 102
+KW  - Curricula
+KW  - Elementary education
+PB  - Long Beach Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 375.13 .L825y
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Manual of the public schools of Los Angeles County, California, containing course of study, suggestions to teachers, rules and regulations, etc.
+Y1  - 1891
+D1  - 07/1891
+SP  - 54
+KW  - Curricula
+KW  - Public schools
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.82 .L879m 1891
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Course of study of the public schools of Los Angeles County, California
+Y1  - 1898
+D1  - 07/1898
+SP  - 30
+KW  - Curricula
+KW  - Public schools
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.82 .L879c 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Manual of the course of the public schools of Los Angeles County, California
+Y1  - 1901
+D1  - 1901-1902
+SP  - 68
+KW  - Curricula
+KW  - Elementary education
+N1  - Cover title: Teachers' manual - outline of studies of...primary and grammar grades
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.82 .L879m 1901
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Manual and course of the public schools of Los Angeles County, California
+Y1  - 1903
+D1  - 1903-1904
+SP  - 97
+KW  - Curricula
+KW  - Elementary education
+N1  - Cover title: Manual and course of study for the primary and grammar schools of Los Angeles County, California
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.82 .L879m 1903
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Manual and course of the public schools of Los Angeles County, California
+Y1  - 1906
+D1  - 1906-1907
+SP  - 101
+KW  - Curricula
+KW  - Elementary education
+N1  - Cover title: Manual and course of study for the primary and grammar schools of Los Angeles County, California
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.82 .L879m 1906
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Manual and course of study for the elementary schools of Los Angeles County, California
+Y1  - 1912
+D1  - 1912-1913
+SP  - 204
+KW  - Curricula
+KW  - Elementary education
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.82 .L879m 1912
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Teachers' guide intermediate unit: courses of study for teachers of fourth, fifth, and sixth grades, Los Angeles County, California
+Y1  - 1931
+D1  - 1931
+SP  - 522
+KW  - Curricula
+KW  - Public schools
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.13 .L879t 1931
+SC  - California
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Their first years in school: a course of study for kindergarten and first two years of the elementary schools of Los Angeles County
+Y1  - 1939
+D1  - 1939
+SP  - 281
+KW  - Curricula
+KW  - Elementary education
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.82 .L879t 1939
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Course of study for the elementary schools of Los Angeles County, California
+Y1  - 1944
+D1  - 02/1944
+SP  - 252
+KW  - Curricula
+KW  - Elementary education
+PB  - Los Angeles County Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.13 .L879c 1944
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Course of study for kindergarten, primary, grammar and high school grades
+Y1  - 1899
+D1  - 1899-1900
+SP  - 59
+KW  - Curricula
+KW  - Public schools
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.83 .L869c 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Course of study and manual: elementary department
+Y1  - 1907
+D1  - 1907-1908
+SP  - 224
+KW  - Curricula
+KW  - Elementary education
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.13 .L869c 1907
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Courses of study for the Los Angeles City High School
+Y1  - 1910
+D1  - 1910-1911
+SP  - 202
+KW  - Curricula
+KW  - High schools
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L869c 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Courses of study for the Los Angeles City High School
+Y1  - 1911
+D1  - 1911-1912
+SP  - 220
+KW  - Curricula
+KW  - High schools
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L869c 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Thomas Starr King Junior High School
+T1  - A school adventure-bound
+Y1  - 1939
+D1  - 1938-1939
+KW  - Student publications
+PB  - Thomas Starr King Junior High School
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.24 .L869s 1939
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Catalog of authorized subjects, junior and senior high school
+Y1  - 1963
+D1  - 1963
+SP  - 91
+KW  - Curricula
+KW  - High schools
+KW  - Junior high schools
+ED  - 1963 revision
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.83 .L869c 1963
+SC  - California
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Catalog of authorized subjects, junior and senior high school
+Y1  - 1964
+D1  - 1964
+SP  - 96
+KW  - Curricula
+KW  - High schools
+KW  - Junior high schools
+ED  - 1964 revision
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.83 .L869c 1964
+SC  - California
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Courses of study for the high and intermediate schools of Los Angeles City School District
+Y1  - 1913
+D1  - 1913-1914
+SP  - 194
+KW  - Curricula
+KW  - High schools
+KW  - Junior high schools
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.83 .L869c 1913
+SC  - California
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Courses of study for the high and intermediate schools of Los Angeles City School District
+Y1  - 1912
+D1  - 1912-1913
+SP  - 163
+KW  - Curricula
+KW  - High schools
+KW  - Junior high schools
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.83 .L869c 1912
+SC  - California
+G1  - High school
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Public Schools
+T1  - Partial course of study: drawing, manual training, primary manual training, home economics
+D1  - 1914?
+SP  - 35
+KW  - Curricula
+KW  - Manual training
+KW  - Drawing
+KW  - Home economics
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.83 .L869p
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Miscellaneous forms
+KW  - Student records
+N1  - Includes: "Form 58: report card Los Angeles Polytechnic High School", [enrollment card], "Courses I-XVII"-list of subjects with room for marks.
+PB  - Los Angeles City Public Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.26 .L869m
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City High School District
+T1  - Courses of study - Hollywood High School
+Y1  - 1910
+D1  - 1910-1911
+KW  - Curricula
+KW  - High schools
+N1  - Chart
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L869ch 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City High School District
+T1  - Courses of study - Los Angeles High School
+Y1  - 1913
+D1  - 1913-1914
+KW  - Curricula
+KW  - High schools
+N1  - Chart
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L869cl 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City High School District
+T1  - Courses of study - Lincoln High School
+Y1  - 1913
+D1  - 1913-1914
+KW  - Curricula
+KW  - High schools
+N1  - Chart
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L869cln 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City High School District
+T1  - Courses of study - Hollywood High School
+Y1  - 1913
+D1  - 1913-1914
+KW  - Curricula
+KW  - High schools
+N1  - Chart
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L869ch 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Course of study - Intermediate schools of Los Angeles, 1917-1918
+Y1  - 1917
+D1  - 1917-1918
+KW  - Curricula
+KW  - Junior high schools
+N1  - Chart
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.14 .L869ci 1917
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City High School District
+T1  - Manual Arts High School - Information for students
+KW  - Curricula
+KW  - High schools
+KW  - Manual arts
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L869m
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lompoc (California) Union High School
+T1  - Course of study
+Y1  - 1912
+D1  - 1912-1913
+KW  - Curricula
+KW  - High schools
+PB  - Lompoc Union High School
+CY  - Lompoc, CA
+LA  - English
+CN  - 375.15 .L828c 1912
+SC  - California
+G1  - High school
+ER  - 
+
+
