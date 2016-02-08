@@ -1,0 +1,1403 @@
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - School lunch
+Y1  - 1955
+D1  - 1955
+SP  - 134
+KW  - School lunches
+N1  - 134 pages illustrations 26 cm.; Note(s): Issued by the division under an earlier name: Bureau of Field Financial Services./ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 8
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.8 1955
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Personnel management in public schools
+Y1  - 1955
+D1  - 1955
+SP  - 80
+KW  - Civil service
+KW  - School personnel management
+N1  - 80 pages : illustrations ; 26 cm.; Note(s): Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 10
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.10 1955
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Budget
+Y1  - 1956
+D1  - 1956
+SP  - 212
+KW  - School finance
+N1  - 212 pages illustrations 26 cm.; Note(s): Issued by the division under an earlier name: Bureau of Field Financial Services.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 3
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.3 1956
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Insurance
+Y1  - 1956
+D1  - 1956
+SP  - 96
+KW  - Insurance
+N1  - 96 pages illustrations 26 cm.; Note(s): Issued by the division under an earlier name: Bureau of Field Financial Services.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 2
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.2 1956
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Responsibility
+Y1  - 1955
+D1  - 1955
+SP  - 83
+KW  - Public schools
+N1  - 83 pages illustrations 26 cm.; Note(s): "Erratum" slip mounted on p. [56]./ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 1
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.1 1955
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Transportation
+Y1  - 1955
+D1  - 1955
+SP  - 128
+KW  - School children
+N1  - 128 pages illustrations 26 cm.; Genre/Form: Handbooks and manuals.; Note(s): Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 6
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.6 1955
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - University of the State of New York
+T1  - Accounting & reporting
+Y1  - 1956
+D1  - 1956
+SP  - 144
+KW  - School reports
+N1  - 144 pages illustrations 26 cm.; Note(s): Issued by the division under an earlier name: Bureau of Field Financial Services.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 4
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.4 1956
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Operation & maintenance
+Y1  - 1955
+D1  - 1955
+SP  - 116
+KW  - Janitors
+KW  - School buildings
+N1  - 116 pages illustrations 26 cm.; Note(s): Issued by the division under an earlier name: Bureau of Field Financial Services./ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 7
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.7 1955
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Purchases and stores
+Y1  - 1955
+D1  - 1955
+SP  - 88
+KW  - Public schools
+KW  - School finance
+N1  - 88 pages illustrations 26 cm.; Shelved in Cubberley Library Reading Room
+T2  - School business management handbook
+V1  - 5
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45bu no.5 1955
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Burke, Arvid James
+A2  - New York State Educational Conference Board
+T1  - Intergovernmental relations in public school finance, 1970
+Y1  - 1969
+D1  - 03/1969
+SP  - 47
+KW  - School finance
+N1  - iv; ges ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: by Arvid J. Burke. More Records: Shelved in Cubberley Library Reading Room
+T2  - New York State Report of the study of the New York State school support formula staff study
+V1  - 1
+PB  - New York State Educational Conference Board
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Garms, Walter I.
+A1  - Smith, Mark C.
+A2  - New York State Educational Conference Board
+T1  - Development of a measure of educational need and its use in a state school support formula
+Y1  - 1969
+D1  - 06/1969
+SP  - 89
+KW  - Educational tests and measurements
+KW  - Government aid to education
+N1  - iv; ges ; 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Responsibility: by Walter I. Garms and Mark C. Smith.; Shelved in Cubberley Library Reading Room
+T2  - New York State Report of the study of the New York State school support formula staff study
+V1  - 4
+PB  - New York State Educational Conference Board
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Lorette, Robert L.
+A2  - New York State Educational Conference Board
+T1  - Governmental structure for public school finance
+Y1  - 1969
+D1  - 04/1969
+SP  - 47
+KW  - Education and state
+KW  - School finance
+N1  - ii; ges ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (pages 46-47).; Responsibility: by Robert L. Lorette, Gerald Carozza, Daniel Greco.; Shelved in Cubberley Library Reading Room
+T2  - New York State Report of the study of the New York State school support formula staff study
+V1  - 3
+PB  - New York State Educational Conference Board
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Polley, John W.
+A2  - New York State Educational Conference Board
+T1  - The fiscal structure for education
+Y1  - 1969
+D1  - 04/1969
+SP  - 27
+KW  - Taxation
+KW  - School finance
+N1  - iv; ges ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (page 29).; Responsibility: by John W. Polley.; Shelved in Cubberley Library Reading Room
+T2  - New York State Report of the study of the New York State school support formula staff study
+V1  - 2
+PB  - New York State Educational Conference Board
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Financial support: nonpublic schools, New York State
+Y1  - 1969
+D1  - 10/1969
+KW  - Private schools
+KW  - School finance
+N1  - 44, [70] pages 28 cm; Note(s): Includes bibliographical references (pages 43-44 (1st group)).; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - Educational Research Services, Inc
+A2  - University of the State of New York
+T1  - A summary report on an analysis of New York State school aid correction : prepared for the University of the State of New York, the State Education Department
+Y1  - 1966
+D1  - 12/1966
+SP  - 49
+KW  - School finance
+KW  - Government aid to education
+N1  - 49 pages ; 28 cm; Note(s): Cover title./ "December 1966."; Responsibility: Educational Research Services, Inc.; Shelved in Cubberley Library Reading Room
+PB  - Educational Research Services
+CY  - White Plains, NY
+LA  - English
+CN  - 379.74 .N45s 1966
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Hogan, Lloyd L.
+A2  - University of the State of New York
+T1  - Measurement of the ability of local governments to finance local public services
+Y1  - 1967
+D1  - 05/1967
+SP  - 102
+KW  - Local finance
+KW  - Local taxation
+N1  - viii, 102, [2] pages 28 cm; Note(s): Includes bibliographical references (pages 103-104).; Responsibility: by Lloyd L. Hogan.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1967
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - State University of New York at Buffalo
+A2  - Western New York School Study Council
+T1  - Financial data for schools of western New York 1961-62
+D1  - 1962?
+SP  - 53
+KW  - School finance
+N1  - v. : tables ; 28 cm; Genre/Form: Periodicals. Statistics.; Geographic: New York (State); Note(s): A report made for the Western New York School Study Council by the Educational Research Center of the School of Education, University of Buffalo.; Shelved in Cubberley Library Reading Room
+PB  - State University of New York at Buffalo
+CY  - Buffalo, NY
+LA  - English
+CN  - 379.74 .N45s 1961-62
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - The regional support of education in the Albany Capital area
+Y1  - 1968
+D1  - 06/1968
+SP  - 63
+KW  - School finance
+N1  - vi; ges 28 cm; Note(s): "One of a series of studies carried out under the auspices of the Joint Legislative Committee on Metropolitan and Regional Areas of the New York State Legislature."; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Bureau of Educational Finance Research
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Understanding financial support of public schools
+Y1  - 1968
+D1  - 09/1968
+SP  - 34
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Understanding problems in school finance
+Y1  - 1967
+D1  - 09/1967
+KW  - School finance
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Bureau of Educational Finance Research
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1967
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Burlingham, Charles C.
+A2  - New York State. Governor's Committee on the Costs of Public Education in the State
+T1  - Report of the Governor's Committee on the Costs of Public Education in the State of New York
+Y1  - 1933
+D1  - 1933
+SP  - 101
+KW  - School finance
+N1  - 101 pages : charts, tables ; 23 cm; Note(s): Charles C. Burlingham, chairman./ Also issued online.; Shelved in Cubberley Library Reading Room
+PB  - New York State Governor's Committee on the Costs of Public Education in the State
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1933
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Mort, Paul R.
+A1  - Simpson, Alfred Dexter
+A1  - Lawler, Eugene S.
+A1  - Essex, Don L.
+A2  - New York State. Commission for the Revision of the Tax Laws
+T1  - State support for public schools in New York as related to tax relief and educational expansion. A report to the New York state commission for the revision of the tax laws
+D1  - 1932?
+SP  - 81
+KW  - School finance
+KW  - Taxation
+N1  - 1 preliminary leaf; ges including tables, diagrams 23 cm.; Note(s): "This document is one of a number of technical analyses which have been prepared for the use of the commission by members of its research staff and which appear as appendices to the commission's final report of February, 1932".--Verso of title page.; Responsibility: by Paul R. Mort, Alfred D. Simpson, Eugene S. Lawler, Don L. Essex.; Shelved in Cubberley Library Reading Room
+T2  - New York State Commission for the revision of the tax laws memorandum
+V1  - 2
+PB  - New York State Commission for the Revision of the Tax Laws
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1932
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Committee on the State Educational Program
+T1  - Report on state aid for common schools : Jan. 28, 1948
+Y1  - 1948
+D1  - 1948
+SP  - 16
+KW  - School finance
+KW  - Government aid to education
+N1  - 16 pages ; 23 cm.; Note(s): Cover title.; Other Titles: Governor's Committee on the State Educational Program report on state aid for common schools; Responsibility: State of New York, the Governor's Committee on the State Educational Program. ; Shelved in Cubberley Library Reading Room
+PB  - New York State Committee on the State Educational Program
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1948
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Governor's Committee on the Marketing of School Bonds
+T1  - Schools for New York; a report
+Y1  - 1957
+D1  - 1957
+SP  - 42
+KW  - School bonds
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Governor's Committee on the Marketing of School Bonds
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1957
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Temporary Commission on Educational Finances
+T1  - Financing public education in New York State : final report
+Y1  - 1956
+D1  - 1956
+SP  - 342
+KW  - School finance
+KW  - Education and state
+N1  - xii; ges : illustrations ; 23 cm; Note(s): Issued also as Legislative document, 1956, no. 39./ A preliminary report was issued in February, 1955 under title: Financing education in New York State.; Other Titles: Final report; Responsibility: Temporary Commission on Educational Finances. ; Shelved in Cubberley Library Reading Room
+PB  - New York State Temporary Commission on Educational Finances
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1956
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Hedlund, Paul A
+A2  - New York State Education Department
+T1  - The first year impact of a new plan for state-local sharing of educational costs in New York State
+Y1  - 1963
+D1  - 11/1963
+SP  - 11
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1963
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Budget Division. Education Unit
+T1  - Reducing the variations in per pupil operating expense among New York State school districts by enlarging the tax base : a regional tax base model
+Y1  - 1978
+D1  - 09/1978
+SP  - 94
+KW  - Real property tax
+N1  - vi; 28 cm; Genre/Form: Statistics.; Note(s): Cover title./ "September 1978."/ Map on p. [3] of cover./ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+PB  - New York State Budget Division Education Unit
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1978
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Legislature. Task Force on Critical Problems
+T1  - The three billion dollar hurdle : information for financing education
+Y1  - 1976
+D1  - 04/1976
+SP  - 66
+KW  - Government aid to education
+N1  - 2 pts in 1. : illustrations ; 28 cm; Note(s): Appendices: A. (p. 37-65 of pt. 1) Major forms and documents from the New York State aid to elementary and secondary education information system.--B. (pt. 2) Comparative Development Studies Center, State University of New York at Albany. State aid to elementary and secondary education: the need for a policy information system.; Other Titles: Information for financing education; Major forms and documents from the New York State aid to elementary and secondary education information system; Responsibility: a report by the Senate Task Force on Critical Problems; Shelved in Cubberley Library Reading Room
+PB  - New York State Legislature
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1976
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Budget Division. Education Unit
+T1  - Measuring the wealth of school districts for the apportionment of aid to public schools in New York State : full valuation vs. personal income
+Y1  - 1978
+D1  - 08/1978
+SP  - 86
+KW  - Income
+KW  - School districts
+N1  - vii; ges, [1] leaf of plates : map ; 28 cm; Genre/Form: Statistics.; Note(s): Cover title./ "August 1978."/ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+PB  - New York State Budget Division Education Unit
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1978
+SC  - New York
+ER  -
+
+ 
+TY  - BOOK
+A1  - Shalala, Donna E.
+A2  - New York State. Governor's Advisory Panel of Consultants
+T1  - Educational finance and the New York State real property tax : the inescapable relationship
+Y1  - 1976
+D1  - 05/1976
+SP  - 32
+KW  - Education and state
+KW  - School finance
+KW  - Real property tax
+
+N1  - vi; 28 cm; Note(s): Donna Shalala, chairman.; Responsibility: [reviewed by members of Governor Carey's Advisory Panel of Consultants ... technical staff work involved in the preparation of this report has been done by staff members in the New York State Board of Equalization and Assessment and the New York State Division of the Budget, Education Unit]. ; Shelved in Cubberley Library Reading Room
+PB  - New York State Governor's Advisory Panel of Consultants
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1976
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - Educational Conference Board of New York State
+T1  - Education for the seventies : a review of public school finance, 1969-1970
+Y1  - 1969
+D1  - 09/1969
+SP  - 55
+KW  - Education and state
+KW  - School finance
+N1  - 55 pages ; 22 cm; Responsibility: presented by the New York State Educational Conference Board. More Records: ; Shelved in Cubberley Library Reading Room
+PB  - Educational Conference Board of New York State
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Mapp, Harry P.
+A1  - Boisvert, Richard N.
+A2  - New York State College of Agriculture and Life Sciences
+T1  - An economic evaluation of the alternative school financing proposals in New York State
+Y1  - 1972
+D1  - 05/1972
+SP  - 16
+KW  - Income tax
+KW  - Real property tax
+N1  - 16 leaves ; 28 cm.; Note(s): "Prepared for the Northeast Agricultural Council Annual Meeting, Truro, Nova Scotia, June 19-21, 1972"--Leaf 1./ "May 1972."/ Includes bibliographical references (leaf 16).; Responsibility: by Harry P. Mapp, Jr. and Richard N. Boisvert.; Shelved in Cubberley Library Reading Room
+T2  - Cornell agricultural economics staff paper
+V1  - 72-12
+PB  - New York State College of Agriculture and Life Sciences
+CY  - Ithaca, NY
+LA  - English
+CN  - 379.74 .N45s 1972
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Department of Audit and Control
+T1  - Financial data on the schools : a digest
+D1  - 1970?
+SP  - 16
+KW  - School finance
+N1  - 16 pages : charts, maps; rtraits ; 28 cm; Genre/Form: Statistics.; Note(s): "Digested from material prepared for the 13th annual edition of Financial data for school districts."; Responsibility: State of New York, Department of Audit and Control.; Shelved in Cubberley Library Reading Room
+PB  - New York State Department of Audit and Control
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Financial aid for New York State students : a report
+Y1  - 1974
+D1  - 03/1974
+SP  - 125
+KW  - Student aid
+N1  - pt. 1. Sources of financial aid for New York State students, 1972-73.--pt. 2. How scholar incentive recipients finance college costs., xxiv; ges ; 28 cm; Responsibility: by the Board of Regents to the Governor and the Legislature in fulfillment of section 606 of the Education law.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1974
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - A study of comparative costs of education among states
+Y1  - 1969
+D1  - 10/1969
+SP  - 70
+KW  - School finance
+KW  - Education and state
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - The impact of Federal aid for elementary and secondary education 1971-72
+Y1  - 1973
+D1  - 10/1973
+SP  - 12
+KW  - School finance
+KW  - Federal aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1973
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Educational Finance
+T1  - Full State funding of elementary and secondary education in New York State
+Y1  - 1972
+D1  - 02/1972
+SP  - 45
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1972
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - An Overview of school revenues and expenditures for elementary and secondary education, New York State 1970 legislation
+Y1  - 1970
+D1  - 10/1970
+SP  - 27
+KW  - Elementary education
+KW  - School finance
+KW  - Secondary education
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Educational expenditures : interstate comparisons
+Y1  - 1969
+D1  - 11/1969
+SP  - 28
+KW  - School finance
+N1  - 28 pages : illustrations ; 14 x 22 cm; Note(s): "October 1969."/ Cover title.; Responsibility: University of the State of New York, State Education Department.; Shelved in Cubberley Library Reading Room
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Federal funds for education : a resolution of the Regents of the University of the State of New York
+Y1  - 1969
+D1  - 12/1969
+SP  - 7
+KW  - Federal aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Federal aid paid to New York State school districts; an analysis, 1966-67
+Y1  - 1969
+D1  - 05/1969
+SP  - 97
+KW  - Federal aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Understanding financial support of public schools, 1974-1975
+Y1  - 1974
+D1  - 07/1974
+SP  - 25
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1974-75
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Understanding financial support of public schools, 1970-71
+Y1  - 1970
+D1  - 09/1970
+SP  - 38
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970-71
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - State aid to New York State school districts, 1965-66
+Y1  - 1967
+D1  - 01/1967
+SP  - 56
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1965-66
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Hedlund, Paul A
+A2  - University of the State of New York
+T1  - State aid to New York State school districts paid during the school years 1958-59 and 1959-60 including four year trends in school finances
+Y1  - 1960
+D1  - 11/1960
+SP  - 51
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1959/1960
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Summary report of 1957-58 studies in State aid to school districts
+Y1  - 1958
+D1  - 1958
+SP  - 111
+KW  - Education and state
+KW  - School finance
+N1  - 111 pages illustrations 23 cm; Responsibility: Fiscal Studies Section, Office of Research, New York State Education Dept.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1957-58
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Summary report of 1958-59 studies in state aid to school districts
+Y1  - 1959
+D1  - 1959
+SP  - 119
+KW  - Education and state
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s  1958-59
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Analysis of school finances, New York State school districts 1967-68
+Y1  - 1969
+D1  - 05/1969
+SP  - 45
+KW  - School finance
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1967-68
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Analysis of school finances, New York State school districts 1968-69
+Y1  - 1970
+D1  - 05/1970
+SP  - 46
+KW  - School finance
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968-69
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Analysis of school finances, New York State school districts 1966-67
+Y1  - 1968
+D1  - 02/1968
+SP  - 44
+KW  - School finance
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1966-67
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - Conference of Large City Boards of Education of New York State
+T1  - Conference of Large City Boards of Education of New York State, an Analysis of the Educational and Financial Needs of Large Cities in N.Y.State with Recommendations for Revision of the State Aid Formulas
+Y1  - 1964
+D1  - 09/1964
+SP  - 18
+KW  - Vocational education
+KW  - Racial balance
+KW  - Handicapped children
+KW  - Financial support
+KW  - Educational environment
+KW  - Disadvantaged
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Conference of Large City Boards of Education of New York State
+LA  - English
+CN  - 379.74 .N45s 1964
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - Conference of Large City Boards of Education of New York State
+T1  - Conference of Large City Boards of Education of New York State, an Analysis of the Educational and Financial Needs of Large Cities in N.Y.State with Recommendations for Revision of the State Aid Formulas
+Y1  - 1963
+D1  - 09/1963
+SP  - 19
+KW  - Vocational education
+KW  - Racial balance
+KW  - Handicapped children
+KW  - Financial support
+KW  - Educational environment
+KW  - Disadvantaged
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Conference of Large City Boards of Education of New York State
+LA  - English
+CN  - 379.74 .N45s 1963
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Studies of public school support 1969 series, studies of fiscal support selected topics 1968-69 school year
+Y1  - 1970
+D1  - 05/1970
+SP  - 94
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Studies of public school support 1968 series, studies of fiscal support 1967-68 school year
+Y1  - 1969
+D1  - 05/1969
+SP  - 84
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Studies of public school support 1967 series, The urban education crisis: some fiscal considerations
+Y1  - 1968
+D1  - 02/1968
+SP  - 81
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1967
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Educational Finance Research
+T1  - Studies of public school support 1966 series, Vital issues in public school fiannce
+Y1  - 1967
+D1  - 02/1967
+SP  - 75
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1966
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Educational Finance
+T1  - State aid for elementary and secondary education in New York State as apportioned in 1966-67
+Y1  - 1967
+D1  - 12/1967
+SP  - 53
+KW  - School finance
+N1  - v. ; 28 cm; Responsibility: prepared by the University of the State of New York, State Education Department, Division of Educational Finance; Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1966-67
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Bureau of Municipal Research and Statistics
+T1  - Tax limits of school districts in cities, 1952-1970
+Y1  - 1970
+D1  - O4/1970
+SP  - 146
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Albany, NY
+PB  - New York State Bureau of Municipal Research and Statistics
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2 - University of the State of New York
+T1  - Programs, services, materials of the New York State Education Department for Black and Puerto Rican studies : the multiethnic task force
+D1  - 1970?
+SP  - 52
+KW  - African Americans
+KW  - Multicultural education
+KW  - Puerto Ricans
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1970
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Elementary Curriculum Development
+T1  - Educating migrant children
+Y1  - 1968
+D1  - 1968
+SP  - 80
+KW  - Children of migrant laborers
+KW  - Elementary education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968
+SC  - New York
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Division for Handicapped Children
+T1  - Special education projects in New York State for fiscal year, 1973 : abstracts
+Y1  - 1973
+D1  - 1973
+SP  - 248
+KW  - Children with disabilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1973
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Research
+T1  - Project ideas : noteworthy practices found in New York State's locally devised compensatory education projects
+Y1  - 1978
+D1  - 06/1978
+SP  - 33
+KW  - Compensatory education
+KW  - Project method in teaching
+N1  - iv; ges ; 14 x 22 cm; Note(s): "June 1978."; Responsibility: prepared by the Division of Research and Bureau of School and Categorical Programs Evaluation for the Office of ESC Education Opportunity Programs and Office of Urban School Services.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1978
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Department of Mental Hygiene. Office of Program Planning and Coordination
+T1  - Appropriateness of the continued institutionalization of the State school population in New York State
+Y1  - 1969
+D1  - 06/1959
+SP  - 95
+KW  - People with mental disabilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Department of Mental Hygiene
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Office of Social Research and Program Information. Bureau of Program Information and Analysis
+T1  - Trends in number and characteristics of delinquent children placed in care by the courts : New York State, 1957-1965 : a report
+Y1  - 1969
+D1  - 11/1969
+SP  - 48
+KW  - Children
+KW  - Juvenile delinquency
+N1  - ix, 48 [i.e. 57] pages : graphs ; 28 cm.; Genre/Form: Statistics.; Responsibility: prepared by the New York State Department of Social Services, Office of Social Research and Program Information, Bureau of Program Information and Analysis.; Shelved in Cubberley Library Reading Room
+T2  - New York State Department of Social Services program analyses report
+V1  - 39
+PB  - New York State Department of Social Services
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Urban and Community Programs Evaluation
+T1  - Urban education program, 1971-72
+D1  - 1972?
+SP  - 94
+KW  - Urban Education
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1971-72
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Evaluation
+T1  - The urban education program, 1968-69; a report of program activity submitted to the New York State Legislature
+D1  - 1969?
+SP  - 66
+KW  - Urban education
+KW  - Government aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968-69
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Office of the Coordinator, Title I-E.S.E.A
+T1  - Federally funded programs providing educational experiences for disadvantaged children and youth in New York State, ESEA title I, 1965-66 organized into counties and congressional districts
+D1  - 1969?
+SP  - 191
+KW  - Children with social disabilities
+KW  - Federal aid to education
+KW  - People with social disabilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968-69
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Educational Conference Board
+T1  - 1957 review of fiscal policy for public education in New York State : state and local support of the foundation program
+Y1  - 1957
+D1  - 08/1957
+SP  - 38
+KW  - School finance
+N1  - 1 volume (paged variously) : illustrations ; 23 cm; Note(s): Cover title./ Spine title: Fiscal policy for public education, 1957./ "August, 1957."; Other Titles: Review of fiscal policy for public education; Fiscal policy for public education, 1957; Shelved in Cubberley Library Reading Room
+PB  - New York State Educational Conference Board
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1957
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Recreation for the elderly : a city and state responsibility
+Y1  - 1957
+D1  - 1957
+SP  - 10
+KW  - Older people
+KW  - Recreation
+N1  - 10 pages ; 23 cm
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1957
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Division of Research
+T1  - Emotionally disturbed children; an annotated bibliography
+Y1  - 1968
+D1  - 07/1968
+SP  - 46
+KW  - Mentally ill children
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Division of Research
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Biber, Barbara
+A2  - University of the State of New York
+T1  - The impact of deprivation on young children
+Y1  - 1965
+D1  - 06/1965
+SP  - 6
+KW  - Children
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1965
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Caring makes a difference report of the fiscal 1969 Program for the Education of Migratory Children
+Y1  - 1969
+D1  - 12/1969
+SP  - 14
+KW  - Migrant education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1969
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Mortenson, Kenneth E.
+A2  - New York State Engineering Educational Resources Study Council
+T1  - A study of the engineering educational resources in the State of New York
+Y1  - 1967
+D1  - 07/1967
+SP  - 98
+KW  - Engineering
+N1  - 98 pages color illustrations 28 cm; Note(s): Cover title./ On spine: Engineering educational resources in New York State./ "Initiated by the Office of Science and Technology of the New York State Education Department."; Other Titles: Engineering educational resources in New York State; Responsibility: Submitted by Kenneth E. Mortenson. ; Shelved in Cubberley Library Reading Room
+PB  - New York State Engineering Educational Resources Study Council
+CY  - Troy, NY
+LA  - English
+CN  - 379.74 .N45s 1967
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Closing the gap; a report of the first two years of experience with ESEA, title I in New York State
+Y1  - 1968
+D1  - 08/1968
+SP  - 34
+KW  - Children with social disabilities
+KW  - Federal aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1968
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Information Center on Education
+T1  - Education statistics, New York State 1961-62 estimates
+Y1  - 1961
+D1  - 08/1961
+SP  - 24
+KW  - Education
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Information Center on Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1961
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Information Center on Education
+T1  - Education statistics, New York State prepared especially for members of the legislature
+Y1  - 1976
+D1  - 01/1976
+SP  - 18
+KW  - Education
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Information Center on Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1976
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Information Center on Education
+T1  - Projections of public and nonpublic school enrollment and high school graduates in New York State 1974-75 to 1992-93
+Y1  - 1974
+D1  - 1974
+SP  - 15
+KW  - High school graduate
+KW  - School enrollment
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Information Center on Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1974
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Education for veterans' children
+D1  - 1950?
+SP  - 15
+KW  - Educational planning
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1950
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Cowen, Philip A.
+A1  - Page, Joseph Edward
+A2  - University of the State of New York
+T1  - A generation of education
+Y1  - 1939
+D1  - 1939
+SP  - 73
+KW  - Public schools
+N1  - 73 pages : diagrams ; 21 x 26 cm; Genre/Form: Statistics.; Note(s): Cover title./ "The data were collected and arranged by Philip A. Cowen and the designing of the cover and symbols and the drawing of the charts were done by Joseph E. Page."--Page [1].; Responsibility: New York State Education Department. ; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1939
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Investment and return; public education - New York State
+Y1  - 1967
+D1  - 03/1967
+SP  - 32
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1967
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Statistical Services
+T1  - New York State school districts as of September 1, 1958
+D1  - 1958?
+SP  - 60
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York. Bureau of Statistical Services
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1958
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Statistical Services
+T1  - Statistical and financial data on education in New York State on basis of information at hand in December 1958
+Y1  - 1958
+D1  - 12/1958
+KW  - Education
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1958
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State. Bureau of Municipal Research and Statistics
+T1  - Tax limits of school districts in cities, 1963-1973
+Y1  - 1973
+D1  - 06/1973
+SP  - 168
+KW  - School districts
+N1  - 168 pages : graphs ; 28 cm; Genre/Form: Statistics.; Shelved in Cubberley Library Reading Room
+PB  - New York State Department of Audit and Control
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1973
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Information Center on Education
+T1  - First count summary of 1970 census data by school district, New York State
+Y1  - 1973
+D1  - 1973
+SP  - 191
+KW  - Population
+KW  - School districts
+N1  - 191 pages 28 cm; Genre/Form: Census data. Statistics.; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Information Center on Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1973
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Doherty, Leo D.
+A1  - Wheatley, Artrelle
+A2  - University of the State of New York. Division of Research
+T1  - A review of studies of economies in schoolhouse construction
+Y1  - 1960
+D1  - 05/1960
+SP  - 27
+KW  - School buildings
+N1  - 27 pages ; 28 cm; Note(s): "May 1960."/ Includes bibliographical references (pages 22-27).; Responsibility: Leo D. Doherty, associate in education research and Artelle Wheatley, research aide. ; Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York Division of Research
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1960
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Statistical Services
+T1  - School districts, enrollment, staff, and schoolhousing, New York State, fall 1963
+Y1  - 1964
+D1  - 03/1964
+SP  - 20
+KW  - School buildings
+KW  - School census
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York. Bureau of Statistical Services
+CY  - New York, NY
+LA  - English
+CN  - 379.74 .N45s 1964
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Statistical Services
+T1  - Education statistics estimates, Fall 1977
+D1  - 1977?
+KW  - Education
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N45s 1977
+SC  - New York
+ER  -
