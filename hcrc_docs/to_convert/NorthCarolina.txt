@@ -1,0 +1,471 @@
+
+TY  - BOOK
+T1  - Rural schools of high efficiency for North Carolinian whites at Shelter Neck, Pender County and Swansboro, Onslow County
+Y1  - 1913
+D1  - 1913
+SP  - 15
+KW  - Public schools
+KW  - Rural schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Boston, MA
+LA  - English
+CN  - 379.74 .N5 1913
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Plans for public school houses : with explanations, specifications, bills of material and estimates of cost
+Y1  - 1903
+D1  - 1903
+SP  - 38
+KW  - School buildings
+N1  - 38 pages, [3] leaves of plates : illustrations; ans ; 23 cm; Genre/Form: Specifications.; Responsibility: prepared for the State Superintendent of Public Instruction by Barrett & Thomson Architects.; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1903
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - Coon, Charles L.
+A2  - North Carolina State Department of Public Instruction
+T1  - Statistical record of the progress of public education in North Carolina, 1870-1906
+Y1  - 1907
+D1  - 1907
+SP  - 30
+KW  - School finance
+KW  - Public education
+N1  - 23 pages tables 24 cm; Responsibility: By Charles L. Coon.; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1907
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - High school reorganization, 1925-26
+D1  - 1926?
+SP  - 39
+KW  - High schools
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - North Carolina State Department of Public Instruction educational publication
+V1  - 98
+PB  - North Carolina State Superintendent of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1926
+SC  - North Carolina
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Southall, Maycie Katherine
+A2  - North Carolina State Department of Public Instruction
+T1  - A study of the value of supervision in consolidated schools
+Y1  - 1925
+D1  - 1925
+SP  - 38
+KW  - School management and organization
+KW  - Rural schools
+KW  - School supervision
+N1  - 38 pages : illustrations ; 23 cm.; Note(s): Cover title./ "October 1, 1926"--Preface./ Includes bibliographical references.; Responsibility: Maycie Southall ... ; Shelved in Cubberley Library Reading Room
+T2  - North Carolina State Department of Public Instruction educational publication
+V1  - 106
+PB  - North Carolina State Superintendent of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1925
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina Committee for the Study of Public School Finance
+T1  - Report of the North Carolina Committee for the Study of Public School Finance
+Y1  - 1958
+D1  - 11/1958
+SP  - 68
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - North Carolina Committee for the Study of Public School Finance
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1958
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - Carr, James O.
+A2  - North Carolina State Educational Commission
+T1  - Consolidated report of the State Educational Commission on the public school system of North Carolina
+Y1  - 1928
+D1  - 1928
+SP  - 657
+KW  - Educational surveys
+N1  - maps, tables, diagrams 24 cm; Note(s): J.O. Carr, chairman.; General Info: Other format available: Online version:; North Carolina. State Educational Commission.; Consolidated report of the state Educational Commission on the public school system of North Carolina.; Raleigh, Edwards & Broughton Co., 1928; Responsibility: with a foreword by Governor A.W. McLean ... ;Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Educational Commission
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1928
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - McCall, William A.
+A2  - North Carolina State Department of Public Instruction
+T1  - Measurement of teacher merit
+Y1  - 1952
+D1 -  04/1952
+SP  - 40
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - North Carolina State Department of Public Instruction publication
+V1  - 284
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1952
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - Noble, M. C. S., Jr.
+A2  - North Carolina State Department of Public Instruction
+T1  - Current reports on activity programs, projects, research studies, etc., in North Carolina
+Y1  - 1929
+D1  - 08/1929
+SP  - 47
+KW  - Education research
+KW  - Project method in teaching
+N1  - 47 pages ; 23 cm.; Note(s): Cover title./ Includes index./ "For the Scholastic Year 1928-1929, volume II."; General Info: Other format available: Online version:; Noble, M.C.S. (Marcus Cicero Stephens), 1899-1962.; Current reports on activity programs, projects, research studies, etc., in North Carolina.; Raleigh, N.C. : State Superintendent of Public Instruction, [1929]; Responsibility: M.C.S. Noble, Jr.; Shelved in Cubberley Library Reading Room
+T2  - North Carolina State Department of Public Instruction educational publication
+V1  - 139
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1929
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - Noble, Marcus Cicero Stephens
+A2  - North Carolina State Department of Public Instruction
+T1  - Teacher training in North Carolina
+Y1  - 1929
+D1  - 06/1929
+SP  - 70
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - North Carolina State Department of Public Instruction educational publication
+V1  - 135
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1929
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Board of Equalization
+T1  - Report of the State Board of Equalization for the scholastic years 1931-1932 and 1932-1933
+Y1  - 1932
+D1  - 11/1932
+KW  - School finance
+N1  - Frequency: Biennial; 1927/29-(1931/1932 and 1932/1933).; 3 v. ; 23-36 cm; Named Corp: North Carolina. State Board of Equalization -- Periodicals.; Note(s): Title from cover.; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Board of Equalization
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1932
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Committee for White House Conference
+A2  - North Carolina State Department of Public Instruction
+T1  - North Carolina education, twentieth century. Report to the White House Conference on Education, held in Washington, November 28-December 1, 1955
+Y1  - 1955
+D1  - 11/1955
+SP  - 64
+KW  - Education
+N1  - 64 pages illustrations, map 22 x 28 cm; Note(s): Cover title.; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+LA  - English
+CN  - 379.74 .N5 1955
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - Carroll, Adger B.
+A1  - Ihnen, Loren A.
+A2  - United States Office of Manpower Policy, Evaluation, and Research
+A2  - North Carolina State University. Department of Economics
+T1  - Costs and returns of technical education; a pilot study
+Y1  - 1966
+D1  - 07/1966
+SP  - 52
+KW  - Technical education
+KW  - School finance
+N1  - iii, 52 leaves; Note(s): Includes bibliographical references (pages 51-52).; Responsibility: prepared for Office of Manpower Policy, Evaluation and Research, U.S. Dept. of Labor, by Adger B. Carroll and Loren A. Ihnen.; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State University
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1966
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina Board of Higher Education
+T1  - Private higher education in North Carolina: conditions and prospects; a study of enrollment, finances, and related subjects, 1965-1970
+Y1  - 1971
+D1  - 04/1971
+SP  - 91
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - North Carolina Board of Higher Education Special report
+V1  - 2-71
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1971
+SC  - North Carolina
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - North Carolina Department of Community Colleges
+T1  - North Carolina community college system biennial report
+Y1  - 1974
+D1  - 06/1974
+SP  - 118
+KW  - Community colleges
+N1  - illus. 23 cm; Geographic: North Carolina.; Shelved in Cubberley Library Reading Room
+PB  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1974
+SC  - North Carolina
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Superintendent's Task Force on Secondary Education
+A2  - North Carolina State Department of Public Instruction
+T1  - Channels for changing secondary schools : a report from the State Superintendent's Task Force on Secondary Education, 1974
+Y1  - 1974
+D1  - 10/1974
+SP  - 80
+KW  - Curricula
+KW  - Secondary education
+N1  - 28 cm; Note(s): Cover title./ Includes bibliographical references (pages 75-77).; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1974
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Board of Education
+T1  - North Carolina QEQ test : what is the quality education quotient of your school and community?
+Y1  - 1961
+D1  - 10/1961
+SP  - 21
+KW  - Educational surveys
+KW  - Intelligence tests
+N1  - 21 pages ; 22 cm; Note(s): Cover title./ Pages 20-21 left blank for notes./ "10-20-61"--T.p. verso.; Other Titles: QEQ test; Quality Education Quotient test; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1961
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Board of Health
+T1  - The Health bulletin
+Y1  - 1970
+D1  - 01/1970
+SP  - 16
+KW  - Public Health
+KW  - Sanitation
+N1  - v. : ill. ; 23 cm. v. 28, no. 6- Sept. 1913-; Genre/Form: Periodicals.; Geographic: North Carolina -- Sanitation -- Periodicals. North Carolina.; Shelved in Cubberley Library Reading Room
+V1  - 85
+IS  - 1
+PB  - North Carolina State Board of Health
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1970
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - Warren, Lindsay C.
+A2  - North Carolina Governor's Study Committee on Structure and Organization of Higher Education
+T1  - Report of the Governor's Study Committee on Structure and Organization of Higher Education
+Y1  - 1971
+D1  - 05/1971
+SP  - 105
+KW  - Universities and colleges
+KW  - Higher education
+N1  - 28 cm; Other Titles: Structure and organization of higher education; Responsibility: submitted to Robert W. Scott, Governor, State of North Carolina by Lindsay C. Warren, Jr., chairman. May 17, 1971.; Shelved in Cubberley Library Reading Room
+PB  - North Carolina Governor's Study Committee on Structure and Organization of Higher Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1971
+SC  - North Carolina
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Conner, H. T.
+A1  - Brown, William J.
+A2  - North Carolina State Department of Public Instruction
+T1  - State assessment of educational progress in North Carolina, summary : reading
+Y1  - 1975
+D1  - 11/1975
+SP  - 41
+KW  - Education research
+KW  - Reading
+N1  - 22 cm; Note(s): Cover title./ "State assessment of educational progress in North Carolina, 1974-75, Grade 6"--P. [i]./ "November, 1975"--T.p. verso.; Other Titles: Reading; Responsibility: [prepared by H.T. Conner and William J. Brown, Jr.].; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1974-75
+SC  - North Carolina
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A1  - Kraus, Ingrid
+A2  - North Carolina State Department of Public Instruction
+T1  - State assessment of educational progress in North Carolina, summary : science
+Y1  - 1976
+D1  - 03/1976
+KW  - Education research
+KW  - Science
+N1  - ii, 14 leaves ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-1975, grade 6"--Prelim. [i]./ Cover title./ "March, 1976"--P. [2] of cover./ Reproduction: Photocopy.; Other Titles: Science; Responsibility: [prepared by Ingrid Kraus].; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, N.C
+LA  - English
+CN  - 379.74 .N5 1974-75
+SC  - North Carolina
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A1  - Kraus, Ingrid
+A2  - North Carolina State Department of Public Instruction
+T1  - State assessment of educational progress in North Carolina, summary : health, physical education
+Y1  - 1975
+D1  - 12/1975
+SP  - 16
+KW  - Education research
+KW  - Health education
+N1  - iv; 16 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-75, grade 6"--P. [i]./ Cover title./ "December, 1975"--T.p. verso.; Other Titles: Health, physical education; Responsibility: [prepared by Ingrid Kraus].; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1974-75
+SC  - North Carolina
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - State assessment of educational progress in North Carolina, summary : school characteristics and classroom practices
+Y1  - 1976
+D1  - 01/1976
+SP  - 17
+KW  - Education research
+N1  - ii;17 pages ; 22 cm; Note(s): Cover title./ "State assessment of educational progress in North Carolina, 1974-75, grade 6"--P. [i]./ "January, 1976"--T.p. verso.; Other Titles: School characteristics and classroom practices; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, N.C
+LA  - English
+CN  - 379.74 .N5 1974-75
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A1  - O'Reilly, James
+A2  - North Carolina State Department of Public Instruction
+T1  - State assessment of educational progress in North Carolina, summary : mathematics
+Y1  - 1976
+D1  - 03/1976
+SP  - 17
+KW  - Education research
+KW  - Mathematics
+N1  - ii; 17 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-1976, Grade 6"--Page [i]./ Cover title./ "March, 1976"--Title page verso.; Other Titles: Mathematics; Responsibility: [prepared by James O'Reilly].; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1974-75
+SC  - North Carolina
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A1  - O'Reilly, James
+A2  - North Carolina State Department of Public Instruction
+T1  - State assessment of educational progress in North Carolina, summary : language arts
+Y1  - 1976
+D1  - 02/1976
+SP  - 20
+KW  - Education research
+KW  - Language arts
+N1  - iv;20 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-75, grade 6"--Page [i]./ Cover title./ "February, 1976"--Title page verso.; Other Titles: Language arts; Responsibility: [prepared by James O'Reilly].; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, N.C
+LA  - English
+CN  - 379.74 .N5 1974-75
+SC  - North Carolina
+G2  - 6th
+ER  -
+
+TY  - BOOK
+A2  - North Carolina State Department of Public Instruction
+T1  - Eliminating sex discrimination in schools : a source book
+Y1  - 1975
+D1  - 05/1975
+SP  - 150
+KW  - Sex discrimination in education
+KW  - Discrimination in education
+KW  - Sexism in textbooks
+N1  - illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 141-150).; Responsibility: Research and Information Center, State Department of Public Instruction. ; Shelved in Cubberley Library Reading Room
+PB  - North Carolina State Department of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1975
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - University of North Carolina. Board of Governors
+T1  - Long-range planning 1977-1982
+Y1  - 1977
+D1  - 1977
+SP  - 554
+KW  - Universities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of North Carolina Board of Governors
+LA  - English
+CN  - 379.74 .N5 1977
+SC  - North Carolina
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - North Carolina General Assembly
+T1  - Law, rules and regulations governing rural libraries
+Y1  - 1901
+D1  - 1901
+SP  - 7
+KW  - Libraries
+N1  - Shelved in Cubberley Library Reading Room
+PB  - North Carolina General Assembly
+CY  - Raleigh, NC
+LA  - English
+CN  - 379.74 .N5 1901
+SC  - North Carolina
+ER  - 
