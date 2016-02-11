@@ -1,54 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
-
-<doc>
-<field name="type">Book</field>
-<field name="title">Rural schools of high efficiency for North Carolinian whites at Shelter Neck, Pender County and Swansboro, Onslow County</field>
-<field name="year">1913</field>
-<field name="date">1913</field>
-<field name="pages">15</field>
-<field name="keywords">Public schools</field>
-<field name="keywords">Rural schools</field>
-<field name="notes">Shelved in Cubberley Library Reading Room</field>
-<field name="pub_place">Boston, MA</field>
-<field name="language">English</field>
-<field name="call_number">379.74 .N5 1913</field>
-<field name="state_country">North Carolina</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
-<field name="corp_author">North Carolina State Department of Public Instruction</field>
-<field name="title">Plans for public school houses : with explanations, specifications, bills of material and estimates of cost</field>
-<field name="year">1903</field>
-<field name="date">1903</field>
-<field name="pages">38</field>
-<field name="keywords">School buildings</field>
-<field name="notes">38 pages, [3] leaves of plates : illustrations; 23 cm; Genre/Form: Specifications.; Responsibility: prepared for the State Superintendent of Public Instruction by Barrett & Thomson Architects.; Shelved in Cubberley Library Reading Room</field>
-<field name="publisher">North Carolina State Department of Public Instruction</field>
-<field name="pub_place">Raleigh, NC</field>
-<field name="language">English</field>
-<field name="call_number">379.74 .N5 1903</field>
-<field name="state_country">North Carolina</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
-<field name="author">Coon, Charles L.</field>
-<field name="author_nat">Charles L. Coon</field>
-<field name="corp_author">North Carolina State Department of Public Instruction</field>
-<field name="title">Statistical record of the progress of public education in North Carolina, 1870-1906</field>
-<field name="year">1907</field>
-<field name="date">1907</field>
-<field name="pages">30</field>
-<field name="keywords">School finance</field>
-<field name="keywords">Public education</field>
-<field name="notes">23 pages tables 24 cm; Responsibility: By Charles L. Coon.; Shelved in Cubberley Library Reading Room</field>
-<field name="publisher">North Carolina State Department of Public Instruction</field>
-<field name="pub_place">Raleigh, NC</field>
-<field name="language">English</field>
-<field name="call_number">379.74 .N5 1907</field>
-<field name="state_country">North Carolina</field>
-</doc>
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
 
 <doc>
 <field name="type">Book</field>
