@@ -54,7 +54,8 @@
 <field name="type">Book</field>
 <field name="corp_author">North Carolina State Department of Public Instruction</field>
 <field name="title">High school reorganization, 1925-26</field>
-<field name="date">1926?</field><field name="pages">39</field>
+<field name="date">1926?</field>
+<field name="pages">39</field>
 <field name="keywords">High school</field>
 <field name="keywords">School management and organization</field>
 <field name="notes">Shelved in Cubberley Library Reading Room</field>
@@ -131,7 +132,7 @@
 <field name="corp_author">North Carolina State Department of Public Instruction</field>
 <field name="title">Measurement of teacher merit</field>
 <field name="year">1952</field>
-<field>name="date">04/1952</field>
+<field name="date">04/1952</field>
 <field name="pages">40</field>
 <field name="keywords">Teachers</field>
 <field name="notes">Shelved in Cubberley Library Reading Room</field>
