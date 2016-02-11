@@ -1,31 +1,514 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 
-<doc><field name="type">Book</field><field name="title">Rural schools of high efficiency for North Carolinian whites at Shelter Neck, Pender County and Swansboro, Onslow County</field><field name="year">1913</field><field name="date">1913</field><field name="pages">15</field><field name="keywords">Public schools</field><field name="keywords">Rural schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="pub_place">Boston, MA</field><field name="language">English</field><field name="call_number">379.74 .N5 1913</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">Plans for public school houses : with explanations, specifications, bills of material and estimates of cost</field><field name="year">1903</field><field name="date">1903</field><field name="pages">38</field><field name="keywords">School buildings</field><field name="notes">38 pages, [3] leaves of plates : illustrations; ans ; 23 cm; Genre/Form: Specifications.; Responsibility: prepared for the State Superintendent of Public Instruction by Barrett &amp; Thomson Architects.; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1903</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">Coon, Charles L.</field><field name="author_nat">Charles L. Coon</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">Statistical record of the progress of public education in North Carolina, 1870-1906</field><field name="year">1907</field><field name="date">1907</field><field name="pages">30</field><field name="keywords">School finance</field><field name="keywords">Public education</field><field name="notes">23 pages tables 24 cm; Responsibility: By Charles L. Coon.; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1907</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">High school reorganization, 1925-26</field><field name="date">1926?</field><field name="pages">39</field><field name="keywords">High school</field><field name="keywords">School management and organization</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">North Carolina State Department of Public Instruction educational publication</field><field name="series_vol">98</field><field name="publisher">North Carolina State Superintendent of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1926</field><field name="state_country">North Carolina</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="author">Southall, Maycie Katherine</field><field name="author_nat">Maycie Katherine Southall</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">A study of the value of supervision in consolidated schools</field><field name="year">1925</field><field name="date">1925</field><field name="pages">38</field><field name="keywords">School management and organization</field><field name="keywords">Rural schools</field><field name="keywords">School supervision</field><field name="notes">38 pages : illustrations ; 23 cm.; Note(s): Cover title./ "October 1, 1926"--Preface./ Includes bibliographical references.; Responsibility: Maycie Southall ... ; Shelved in Cubberley Library Reading Room</field><field name="series_title">North Carolina State Department of Public Instruction educational publication</field><field name="series_vol">106</field><field name="publisher">North Carolina State Superintendent of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1925</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina Committee for the Study of Public School Finance</field><field name="title">Report of the North Carolina Committee for the Study of Public School Finance</field><field name="year">1958</field><field name="date">11/1958</field><field name="pages">68</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina Committee for the Study of Public School Finance</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1958</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">Carr, James O.</field><field name="author_nat">James O. Carr</field><field name="corp_author">North Carolina State Educational Commission</field><field name="title">Consolidated report of the State Educational Commission on the public school system of North Carolina</field><field name="year">1928</field><field name="date">1928</field><field name="pages">657</field><field name="keywords">Educational surveys</field><field name="notes">maps, tables, diagrams 24 cm; Note(s): J.O. Carr, chairman.; General Info: Other format available: Online version:; North Carolina. State Educational Commission.; Consolidated report of the state Educational Commission on the public school system of North Carolina.; Raleigh, Edwards &amp; Broughton Co., 1928; Responsibility: with a foreword by Governor A.W. McLean ... ;Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Educational Commission</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1928</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">McCall, William A.</field><field name="author_nat">William A. McCall</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">Measurement of teacher merit</field><field name="year">1952</field><field>name="date">04/1952</field><field name="pages">40</field><field name="keywords">Teachers</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">North Carolina State Department of Public Instruction publication</field><field name="series_vol">284</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1952</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">Noble, M. C. S., Jr.</field><field name="author_nat">Jr. Noble, M. C. S.</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">Current reports on activity programs, projects, research studies, etc., in North Carolina</field><field name="year">1929</field><field name="date">08/1929</field><field name="pages">47</field><field name="keywords">Education research</field><field name="keywords">Project method in teaching</field><field name="notes">47 pages ; 23 cm.; Note(s): Cover title./ Includes index./ "For the Scholastic Year 1928-1929, volume II."; General Info: Other format available: Online version:; Noble, M.C.S. (Marcus Cicero Stephens), 1899-1962.; Current reports on activity programs, projects, research studies, etc., in North Carolina.; Raleigh, N.C. : State Superintendent of Public Instruction, [1929]; Responsibility: M.C.S. Noble, Jr.; Shelved in Cubberley Library Reading Room</field><field name="series_title">North Carolina State Department of Public Instruction educational publication</field><field name="series_vol">139</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1929</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">Noble, Marcus Cicero Stephens</field><field name="author_nat">Marcus Cicero Stephens Noble</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">Teacher training in North Carolina</field><field name="year">1929</field><field name="date">06/1929</field><field name="pages">70</field><field name="keywords">Teachers</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">North Carolina State Department of Public Instruction educational publication</field><field name="series_vol">135</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1929</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Board of Equalization</field><field name="title">Report of the State Board of Equalization for the scholastic years 1931-1932 and 1932-1933</field><field name="year">1932</field><field name="date">11/1932</field><field name="keywords">School finance</field><field name="notes">Frequency: Biennial; 1927/29-(1931/1932 and 1932/1933).; 3 v. ; 23-36 cm; Named Corp: North Carolina. State Board of Equalization -- Periodicals.; Note(s): Title from cover.; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Board of Equalization</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1932</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Committee for White House Conference</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">North Carolina education, twentieth century. Report to the White House Conference on Education, held in Washington, November 28-December 1, 1955</field><field name="year">1955</field><field name="date">11/1955</field><field name="pages">64</field><field name="keywords">Education</field><field name="notes">64 pages illustrations, map 22 x 28 cm; Note(s): Cover title.; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="language">English</field><field name="call_number">379.74 .N5 1955</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">Carroll, Adger B.</field><field name="author_nat">Adger B. Carroll</field><field name="author">Ihnen, Loren A.</field><field name="author_nat">Loren A. Ihnen</field><field name="corp_author">United States Office of Manpower Policy, Evaluation, and Research</field><field name="corp_author">North Carolina State University. Department of Economics</field><field name="title">Costs and returns of technical education; a pilot study</field><field name="year">1966</field><field name="date">07/1966</field><field name="pages">52</field><field name="keywords">Technical education</field><field name="keywords">School finance</field><field name="notes">iii, 52 leaves; Note(s): Includes bibliographical references (pages 51-52).; Responsibility: prepared for Office of Manpower Policy, Evaluation and Research, U.S. Dept. of Labor, by Adger B. Carroll and Loren A. Ihnen.; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State University</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1966</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina Board of Higher Education</field><field name="title">Private higher education in North Carolina: conditions and prospects; a study of enrollment, finances, and related subjects, 1965-1970</field><field name="year">1971</field><field name="date">04/1971</field><field name="pages">91</field><field name="keywords">Higher education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">North Carolina Board of Higher Education Special report</field><field name="series_vol">2-71</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1971</field><field name="state_country">North Carolina</field><field name="grade_level_group">Postsecondary</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina Department of Community Colleges</field><field name="title">North Carolina community college system biennial report</field><field name="year">1974</field><field name="date">06/1974</field><field name="pages">118</field><field name="keywords">Community colleges</field><field name="notes">illus. 23 cm; Geographic: North Carolina.; Shelved in Cubberley Library Reading Room</field><field name="publisher">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1974</field><field name="state_country">North Carolina</field><field name="grade_level_group">Postsecondary</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Superintendent's Task Force on Secondary Education</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">Channels for changing secondary schools : a report from the State Superintendent's Task Force on Secondary Education, 1974</field><field name="year">1974</field><field name="date">10/1974</field><field name="pages">80</field><field name="keywords">Curricula</field><field name="keywords">Secondary education</field><field name="notes">28 cm; Note(s): Cover title./ Includes bibliographical references (pages 75-77).; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1974</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Board of Education</field><field name="title">North Carolina QEQ test : what is the quality education quotient of your school and community?</field><field name="year">1961</field><field name="date">10/1961</field><field name="pages">21</field><field name="keywords">Educational surveys</field><field name="keywords">Intelligence tests</field><field name="notes">21 pages ; 22 cm; Note(s): Cover title./ Pages 20-21 left blank for notes./ "10-20-61"--T.p. verso.; Other Titles: QEQ test; Quality Education Quotient test; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Board of Education</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1961</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Board of Health</field><field name="title">The Health bulletin</field><field name="year">1970</field><field name="date">01/1970</field><field name="pages">16</field><field name="keywords">Public Health</field><field name="keywords">Sanitation</field><field name="notes">v. : ill. ; 23 cm. v. 28, no. 6- Sept. 1913-; Genre/Form: Periodicals.; Geographic: North Carolina -- Sanitation -- Periodicals. North Carolina.; Shelved in Cubberley Library Reading Room</field><field name="series_vol">85</field><field name="issue">1</field><field name="publisher">North Carolina State Board of Health</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1970</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">Warren, Lindsay C.</field><field name="author_nat">Lindsay C. Warren</field><field name="corp_author">North Carolina Governor's Study Committee on Structure and Organization of Higher Education</field><field name="title">Report of the Governor's Study Committee on Structure and Organization of Higher Education</field><field name="year">1971</field><field name="date">05/1971</field><field name="pages">105</field><field name="keywords">Universities and colleges</field><field name="keywords">Higher education</field><field name="notes">28 cm; Other Titles: Structure and organization of higher education; Responsibility: submitted to Robert W. Scott, Governor, State of North Carolina by Lindsay C. Warren, Jr., chairman. May 17, 1971.; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina Governor's Study Committee on Structure and Organization of Higher Education</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1971</field><field name="state_country">North Carolina</field><field name="grade_level_group">Postsecondary</field></doc>
-<doc><field name="type">Book</field><field name="author">Conner, H. T.</field><field name="author_nat">H. T. Conner</field><field name="author">Brown, William J.</field><field name="author_nat">William J. Brown</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">State assessment of educational progress in North Carolina, summary : reading</field><field name="year">1975</field><field name="date">11/1975</field><field name="pages">41</field><field name="keywords">Education research</field><field name="keywords">Reading</field><field name="notes">22 cm; Note(s): Cover title./ "State assessment of educational progress in North Carolina, 1974-75, Grade 6"--P. [i]./ "November, 1975"--T.p. verso.; Other Titles: Reading; Responsibility: [prepared by H.T. Conner and William J. Brown, Jr.].; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1974-75</field><field name="state_country">North Carolina</field><field name="grade_level_number">6th grade</field></doc>
-<doc><field name="type">Book</field><field name="author">Kraus, Ingrid</field><field name="author_nat">Ingrid Kraus</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">State assessment of educational progress in North Carolina, summary : science</field><field name="year">1976</field><field name="date">03/1976</field><field name="keywords">Education research</field><field name="keywords">Science</field><field name="notes">ii, 14 leaves ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-1975, grade 6"--Prelim. [i]./ Cover title./ "March, 1976"--P. [2] of cover./ Reproduction: Photocopy.; Other Titles: Science; Responsibility: [prepared by Ingrid Kraus].; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, N.C</field><field name="language">English</field><field name="call_number">379.74 .N5 1974-75</field><field name="state_country">North Carolina</field><field name="grade_level_number">6th grade</field></doc>
-<doc><field name="type">Book</field><field name="author">Kraus, Ingrid</field><field name="author_nat">Ingrid Kraus</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">State assessment of educational progress in North Carolina, summary : health, physical education</field><field name="year">1975</field><field name="date">12/1975</field><field name="pages">16</field><field name="keywords">Education research</field><field name="keywords">Health education</field><field name="notes">iv; 16 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-75, grade 6"--P. [i]./ Cover title./ "December, 1975"--T.p. verso.; Other Titles: Health, physical education; Responsibility: [prepared by Ingrid Kraus].; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1974-75</field><field name="state_country">North Carolina</field><field name="grade_level_number">6th grade</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">State assessment of educational progress in North Carolina, summary : school characteristics and classroom practices</field><field name="year">1976</field><field name="date">01/1976</field><field name="pages">17</field><field name="keywords">Education research</field><field name="notes">ii;17 pages ; 22 cm; Note(s): Cover title./ "State assessment of educational progress in North Carolina, 1974-75, grade 6"--P. [i]./ "January, 1976"--T.p. verso.; Other Titles: School characteristics and classroom practices; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, N.C</field><field name="language">English</field><field name="call_number">379.74 .N5 1974-75</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="author">O'Reilly, James</field><field name="author_nat">James O'Reilly</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">State assessment of educational progress in North Carolina, summary : mathematics</field><field name="year">1976</field><field name="date">03/1976</field><field name="pages">17</field><field name="keywords">Education research</field><field name="keywords">Mathematics</field><field name="notes">ii; 17 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-1976, Grade 6"--Page [i]./ Cover title./ "March, 1976"--Title page verso.; Other Titles: Mathematics; Responsibility: [prepared by James O'Reilly].; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1974-75</field><field name="state_country">North Carolina</field><field name="grade_level_number">6th grade</field></doc>
-<doc><field name="type">Book</field><field name="author">O'Reilly, James</field><field name="author_nat">James O'Reilly</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">State assessment of educational progress in North Carolina, summary : language arts</field><field name="year">1976</field><field name="date">02/1976</field><field name="pages">20</field><field name="keywords">Education research</field><field name="keywords">Language arts</field><field name="notes">iv;20 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-75, grade 6"--Page [i]./ Cover title./ "February, 1976"--Title page verso.; Other Titles: Language arts; Responsibility: [prepared by James O'Reilly].; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, N.C</field><field name="language">English</field><field name="call_number">379.74 .N5 1974-75</field><field name="state_country">North Carolina</field><field name="grade_level_number">6th grade</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina State Department of Public Instruction</field><field name="title">Eliminating sex discrimination in schools : a source book</field><field name="year">1975</field><field name="date">05/1975</field><field name="pages">150</field><field name="keywords">Sex discrimination in education</field><field name="keywords">Discrimination in education</field><field name="keywords">Sexism in textbooks</field><field name="notes">illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 141-150).; Responsibility: Research and Information Center, State Department of Public Instruction. ; Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina State Department of Public Instruction</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1975</field><field name="state_country">North Carolina</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">University of North Carolina. Board of Governors</field><field name="title">Long-range planning 1977-1982</field><field name="year">1977</field><field name="date">1977</field><field name="pages">554</field><field name="keywords">Universities</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">University of North Carolina Board of Governors</field><field name="language">English</field><field name="call_number">379.74 .N5 1977</field><field name="state_country">North Carolina</field><field name="grade_level_group">Postsecondary</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">North Carolina General Assembly</field><field name="title">Law, rules and regulations governing rural libraries</field><field name="year">1901</field><field name="date">1901</field><field name="pages">7</field><field name="keywords">Libraries</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">North Carolina General Assembly</field><field name="pub_place">Raleigh, NC</field><field name="language">English</field><field name="call_number">379.74 .N5 1901</field><field name="state_country">North Carolina</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="title">Rural schools of high efficiency for North Carolinian whites at Shelter Neck, Pender County and Swansboro, Onslow County</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="pages">15</field>
+<field name="keywords">Public schools</field>
+<field name="keywords">Rural schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="pub_place">Boston, MA</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1913</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Plans for public school houses : with explanations, specifications, bills of material and estimates of cost</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="pages">38</field>
+<field name="keywords">School buildings</field>
+<field name="notes">38 pages, [3] leaves of plates : illustrations; ans ; 23 cm; Genre/Form: Specifications.; Responsibility: prepared for the State Superintendent of Public Instruction by Barrett & Thomson Architects.; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1903</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Coon, Charles L.</field>
+<field name="author_nat">Charles L. Coon</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Statistical record of the progress of public education in North Carolina, 1870-1906</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="pages">30</field>
+<field name="keywords">School finance</field>
+<field name="keywords">Public education</field>
+<field name="notes">23 pages tables 24 cm; Responsibility: By Charles L. Coon.; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1907</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">High school reorganization, 1925-26</field>
+<field name="date">1926?</field><field name="pages">39</field>
+<field name="keywords">High school</field>
+<field name="keywords">School management and organization</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">North Carolina State Department of Public Instruction educational publication</field>
+<field name="series_vol">98</field>
+<field name="publisher">North Carolina State Superintendent of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1926</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Southall, Maycie Katherine</field>
+<field name="author_nat">Maycie Katherine Southall</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">A study of the value of supervision in consolidated schools</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="pages">38</field>
+<field name="keywords">School management and organization</field>
+<field name="keywords">Rural schools</field>
+<field name="keywords">School supervision</field>
+<field name="notes">38 pages : illustrations ; 23 cm.; Note(s): Cover title./ "October 1, 1926"--Preface./ Includes bibliographical references.; Responsibility: Maycie Southall ... ; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">North Carolina State Department of Public Instruction educational publication</field>
+<field name="series_vol">106</field>
+<field name="publisher">North Carolina State Superintendent of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1925</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina Committee for the Study of Public School Finance</field>
+<field name="title">Report of the North Carolina Committee for the Study of Public School Finance</field>
+<field name="year">1958</field>
+<field name="date">11/1958</field>
+<field name="pages">68</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina Committee for the Study of Public School Finance</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1958</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carr, James O.</field>
+<field name="author_nat">James O. Carr</field>
+<field name="corp_author">North Carolina State Educational Commission</field>
+<field name="title">Consolidated report of the State Educational Commission on the public school system of North Carolina</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="pages">657</field>
+<field name="keywords">Educational surveys</field>
+<field name="notes">maps, tables, diagrams 24 cm; Note(s): J.O. Carr, chairman.; General Info: Other format available: Online version:; North Carolina. State Educational Commission.; Consolidated report of the state Educational Commission on the public school system of North Carolina.; Raleigh, Edwards & Broughton Co., 1928; Responsibility: with a foreword by Governor A.W. McLean ... ;Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Educational Commission</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1928</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McCall, William A.</field>
+<field name="author_nat">William A. McCall</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Measurement of teacher merit</field>
+<field name="year">1952</field>
+<field>name="date">04/1952</field>
+<field name="pages">40</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">North Carolina State Department of Public Instruction publication</field>
+<field name="series_vol">284</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1952</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Noble, M. C. S., Jr.</field>
+<field name="author_nat">Jr. Noble, M. C. S.</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Current reports on activity programs, projects, research studies, etc., in North Carolina</field>
+<field name="year">1929</field>
+<field name="date">08/1929</field>
+<field name="pages">47</field>
+<field name="keywords">Education research</field>
+<field name="keywords">Project method in teaching</field>
+<field name="notes">47 pages ; 23 cm.; Note(s): Cover title./ Includes index./ "For the Scholastic Year 1928-1929, volume II."; General Info: Other format available: Online version:; Noble, M.C.S. (Marcus Cicero Stephens), 1899-1962.; Current reports on activity programs, projects, research studies, etc., in North Carolina.; Raleigh, N.C. : State Superintendent of Public Instruction, [1929]; Responsibility: M.C.S. Noble, Jr.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">North Carolina State Department of Public Instruction educational publication</field>
+<field name="series_vol">139</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1929</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Noble, Marcus Cicero Stephens</field>
+<field name="author_nat">Marcus Cicero Stephens Noble</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Teacher training in North Carolina</field>
+<field name="year">1929</field>
+<field name="date">06/1929</field>
+<field name="pages">70</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">North Carolina State Department of Public Instruction educational publication</field>
+<field name="series_vol">135</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1929</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Board of Equalization</field>
+<field name="title">Report of the State Board of Equalization for the scholastic years 1931-1932 and 1932-1933</field>
+<field name="year">1932</field>
+<field name="date">11/1932</field>
+<field name="keywords">School finance</field>
+<field name="notes">Frequency: Biennial; 1927/29-(1931/1932 and 1932/1933).; 3 v. ; 23-36 cm; Named Corp: North Carolina. State Board of Equalization -- Periodicals.; Note(s): Title from cover.; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Board of Equalization</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1932</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Committee for White House Conference</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">North Carolina education, twentieth century. Report to the White House Conference on Education, held in Washington, November 28-December 1, 1955</field>
+<field name="year">1955</field>
+<field name="date">11/1955</field>
+<field name="pages">64</field>
+<field name="keywords">Education</field>
+<field name="notes">64 pages illustrations, map 22 x 28 cm; Note(s): Cover title.; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1955</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Carroll, Adger B.</field>
+<field name="author_nat">Adger B. Carroll</field>
+<field name="author">Ihnen, Loren A.</field>
+<field name="author_nat">Loren A. Ihnen</field>
+<field name="corp_author">United States Office of Manpower Policy, Evaluation, and Research</field>
+<field name="corp_author">North Carolina State University. Department of Economics</field>
+<field name="title">Costs and returns of technical education; a pilot study</field>
+<field name="year">1966</field>
+<field name="date">07/1966</field>
+<field name="pages">52</field>
+<field name="keywords">Technical education</field>
+<field name="keywords">School finance</field>
+<field name="notes">iii, 52 leaves; Note(s): Includes bibliographical references (pages 51-52).; Responsibility: prepared for Office of Manpower Policy, Evaluation and Research, U.S. Dept. of Labor, by Adger B. Carroll and Loren A. Ihnen.; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State University</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1966</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina Board of Higher Education</field>
+<field name="title">Private higher education in North Carolina: conditions and prospects; a study of enrollment, finances, and related subjects, 1965-1970</field>
+<field name="year">1971</field>
+<field name="date">04/1971</field>
+<field name="pages">91</field>
+<field name="keywords">Higher education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">North Carolina Board of Higher Education Special report</field>
+<field name="series_vol">2-71</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1971</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina Department of Community Colleges</field>
+<field name="title">North Carolina community college system biennial report</field>
+<field name="year">1974</field>
+<field name="date">06/1974</field>
+<field name="pages">118</field>
+<field name="keywords">Community colleges</field>
+<field name="notes">illus. 23 cm; Geographic: North Carolina.; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Superintendent's Task Force on Secondary Education</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Channels for changing secondary schools : a report from the State Superintendent's Task Force on Secondary Education, 1974</field>
+<field name="year">1974</field>
+<field name="date">10/1974</field>
+<field name="pages">80</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Secondary education</field>
+<field name="notes">28 cm; Note(s): Cover title./ Includes bibliographical references (pages 75-77).; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Board of Education</field>
+<field name="title">North Carolina QEQ test : what is the quality education quotient of your school and community?</field>
+<field name="year">1961</field>
+<field name="date">10/1961</field>
+<field name="pages">21</field>
+<field name="keywords">Educational surveys</field>
+<field name="keywords">Intelligence tests</field>
+<field name="notes">21 pages ; 22 cm; Note(s): Cover title./ Pages 20-21 left blank for notes./ "10-20-61"--T.p. verso.; Other Titles: QEQ test; Quality Education Quotient test; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Board of Education</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1961</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Board of Health</field>
+<field name="title">The Health bulletin</field>
+<field name="year">1970</field>
+<field name="date">01/1970</field>
+<field name="pages">16</field>
+<field name="keywords">Public Health</field>
+<field name="keywords">Sanitation</field>
+<field name="notes">v. : ill. ; 23 cm. v. 28, no. 6- Sept. 1913-; Genre/Form: Periodicals.; Geographic: North Carolina -- Sanitation -- Periodicals. North Carolina.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_vol">85</field>
+<field name="issue">1</field>
+<field name="publisher">North Carolina State Board of Health</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1970</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Warren, Lindsay C.</field>
+<field name="author_nat">Lindsay C. Warren</field>
+<field name="corp_author">North Carolina Governor's Study Committee on Structure and Organization of Higher Education</field>
+<field name="title">Report of the Governor's Study Committee on Structure and Organization of Higher Education</field>
+<field name="year">1971</field>
+<field name="date">05/1971</field>
+<field name="pages">105</field>
+<field name="keywords">Universities and colleges</field>
+<field name="keywords">Higher education</field>
+<field name="notes">28 cm; Other Titles: Structure and organization of higher education; Responsibility: submitted to Robert W. Scott, Governor, State of North Carolina by Lindsay C. Warren, Jr., chairman. May 17, 1971.; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina Governor's Study Committee on Structure and Organization of Higher Education</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1971</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Conner, H. T.</field>
+<field name="author_nat">H. T. Conner</field>
+<field name="author">Brown, William J.</field>
+<field name="author_nat">William J. Brown</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">State assessment of educational progress in North Carolina, summary : reading</field>
+<field name="year">1975</field>
+<field name="date">11/1975</field>
+<field name="pages">41</field>
+<field name="keywords">Education research</field>
+<field name="keywords">Reading</field>
+<field name="notes">22 cm; Note(s): Cover title./ "State assessment of educational progress in North Carolina, 1974-75, Grade 6"--P. [i]./ "November, 1975"--T.p. verso.; Other Titles: Reading; Responsibility: [prepared by H.T. Conner and William J. Brown, Jr.].; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974-75</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kraus, Ingrid</field>
+<field name="author_nat">Ingrid Kraus</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">State assessment of educational progress in North Carolina, summary : science</field>
+<field name="year">1976</field>
+<field name="date">03/1976</field>
+<field name="keywords">Education research</field>
+<field name="keywords">Science</field>
+<field name="notes">ii, 14 leaves ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-1975, grade 6"--Prelim. [i]./ Cover title./ "March, 1976"--P. [2] of cover./ Reproduction: Photocopy.; Other Titles: Science; Responsibility: [prepared by Ingrid Kraus].; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974-75</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kraus, Ingrid</field>
+<field name="author_nat">Ingrid Kraus</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">State assessment of educational progress in North Carolina, summary : health, physical education</field>
+<field name="year">1975</field>
+<field name="date">12/1975</field>
+<field name="pages">16</field>
+<field name="keywords">Education research</field>
+<field name="keywords">Health education</field>
+<field name="notes">iv; 16 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-75, grade 6"--P. [i]./ Cover title./ "December, 1975"--T.p. verso.; Other Titles: Health, physical education; Responsibility: [prepared by Ingrid Kraus].; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974-75</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">State assessment of educational progress in North Carolina, summary : school characteristics and classroom practices</field>
+<field name="year">1976</field>
+<field name="date">01/1976</field>
+<field name="pages">17</field>
+<field name="keywords">Education research</field>
+<field name="notes">ii;17 pages ; 22 cm; Note(s): Cover title./ "State assessment of educational progress in North Carolina, 1974-75, grade 6"--P. [i]./ "January, 1976"--T.p. verso.; Other Titles: School characteristics and classroom practices; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, N.C</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974-75</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">O'Reilly, James</field>
+<field name="author_nat">James O'Reilly</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">State assessment of educational progress in North Carolina, summary : mathematics</field>
+<field name="year">1976</field>
+<field name="date">03/1976</field>
+<field name="pages">17</field>
+<field name="keywords">Education research</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">ii; 17 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-1976, Grade 6"--Page [i]./ Cover title./ "March, 1976"--Title page verso.; Other Titles: Mathematics; Responsibility: [prepared by James O'Reilly].; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974-75</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">O'Reilly, James</field>
+<field name="author_nat">James O'Reilly</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">State assessment of educational progress in North Carolina, summary : language arts</field>
+<field name="year">1976</field>
+<field name="date">02/1976</field>
+<field name="pages">20</field>
+<field name="keywords">Education research</field>
+<field name="keywords">Language arts</field><field name="notes">iv;20 pages : illustrations ; 22 cm; Note(s): "State assessment of educational progress in North Carolina, 1974-75, grade 6"--Page [i]./ Cover title./ "February, 1976"--Title page verso.; Other Titles: Language arts; Responsibility: [prepared by James O'Reilly].; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, N.C</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1974-75</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina State Department of Public Instruction</field>
+<field name="title">Eliminating sex discrimination in schools : a source book</field>
+<field name="year">1975</field>
+<field name="date">05/1975</field>
+<field name="pages">150</field>
+<field name="keywords">Sex discrimination in education</field>
+<field name="keywords">Discrimination in education</field>
+<field name="keywords">Sexism in textbooks</field>
+<field name="notes">illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 141-150).; Responsibility: Research and Information Center, State Department of Public Instruction. ; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina State Department of Public Instruction</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1975</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of North Carolina. Board of Governors</field>
+<field name="title">Long-range planning 1977-1982</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="pages">554</field>
+<field name="keywords">Universities</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">University of North Carolina Board of Governors</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1977</field>
+<field name="state_country">North Carolina</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">North Carolina General Assembly</field>
+<field name="title">Law, rules and regulations governing rural libraries</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="pages">7</field>
+<field name="keywords">Libraries</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">North Carolina General Assembly</field>
+<field name="pub_place">Raleigh, NC</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .N5 1901</field>
+<field name="state_country">North Carolina</field>
+</doc>
 </add>
