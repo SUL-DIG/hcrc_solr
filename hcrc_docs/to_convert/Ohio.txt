@@ -1,0 +1,719 @@
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Lists of institutions in Ohio approved for teacher training
+Y1  - 1933
+D1  - 11/1933
+SP  - 7
+KW  - Teacher training
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1933
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+T1  - Instructions and suggestions to township boards of education regarding organization and methods of procedure under the workman law together with a suggestive course of study for country schools
+D1  - 1893?
+SP  - 20
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .O1 1893
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - The classification of pupils in elementary schools; report of the classification committee to the director of education
+Y1  - 1925
+D1  - 1925
+SP  - 160
+KW  - Curricula
+KW  - Elementary schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ohio State Department of Education special studies series
+V1  - 5
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1925
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Centralization and consolidation of schools in Ohio
+Y1  - 1925
+D1  - 07/1925
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1925
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio Office of the Governor
+T1  - The Ohio Plan
+D1  - 1970?
+SP  - 10
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio Office of the Governor
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1970
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+T1  - State assistance to schools - summary by counties (including cities and exempted villages) of payments made in the 1966 fiscal year
+D1  - 1966?
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .O1 1966
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State University
+T1  - Delegate's handbook for the second Ohio White House Conference on Education
+Y1  - 1955
+D1  - 10/1955
+SP  - 16
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio State University
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1955
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Bliss, Walton Boyd
+A2  - Ohio State Department of Education
+T1  - Who shall teach? A summary of the department's program of mental measurement of prospective teachers
+Y1  - 1923
+D1  - 1923
+SP  - 34
+KW  - Psychological tests
+KW  - Teaching
+N1  - 34 pages 24 cm.; Note(s): Page of Addenda and errata laid in.; Responsibility: by Walton B. Bliss.; Shelved in Cubberley Library Reading Room
+T2  - Ohio State Department of Education special studies series
+V1  - 4
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1923
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Jones, Edmund Adams
+A1  - Williams, Henry Graham
+A1  - Thompson, William Oxley
+A1  - Shankland, S. D.
+A1  - Carr, John W.
+A2  - Ohio Education Association. School Revenue Commission
+T1  - Report of the School revenue commission to the Ohio State Teachers' Association
+Y1  - 1907
+D1  - 06/1907
+SP  - 100
+KW  - School tax
+KW  - Teachers
+KW  - Public schools
+KW  - School lands
+N1  - 100 pages 26 cm; Note(s): On cover: Submitted at its annual meeting held at Put-in-Bay, June 25-27, 1907.; Shelved in Cubberley Library Reading Room
+PB  - Ohio Education Association
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1907
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Miller, Frank W.
+A2  - Ohio State Department of Public Instruction
+T1  - Elementary course of study
+Y1  - 1915
+D1  - 08/1915
+SP  - 226
+KW  - Curricula
+N1  - 226 pages diagrams 24 cm.; Responsibility: prepared under the direction of Frank W. Miller, Superintendent of public instruction; Shelved in Cubberley Library Reading Room
+T2  - Ohio State Department of Public Instruction bulletin
+V1  - 5
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1915
+SC  - Ohio
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Public Instruction
+T1  - Report of proceedings, Ohio schoolmen's conference, October 11-12, 1920
+Y1  - 1920
+D1  - 10/1920
+SP  - 82
+KW  - Education
+KW  - Teachers
+N1  - 82 pages; Note(s): At head of title: State of Ohio. Department of public instruction.; Responsibility: issued under the direction of Vernon M. Riegel, Superintendent of public instruction; Shelved in Cubberley Library Reading Room
+T2  - Ohio Schoolmen's Conference (1920 : Columbus)
+PB  - Ohio State Department of Public Instruction
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1920
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Bliss, Walton Boyd
+A2  - Ohio State Department of Education
+T1  - Ohio high school standards (junior and senior): A manual of suggestions and requirements for high school teachers and administrators
+Y1  - 1923
+D1  - 1923
+SP  - 175
+KW  - Curricula
+N1  - 175 pages including plan 24 cm; Note(s): On cover: State of Ohio. Dept. of education ... 1923 revision./ Includes bibliographical references.; Responsibility: prepared by Walton B. Bliss ... under the direction of Vernon M. Riegel, superintendent of public instruction as director of education; Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1923
+SC  - Ohio
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Bliss, Walton Boyd
+A1  - Ulery, Cloyce Benjamin
+A2  - Ohio State Department of Education
+T1  - Ohio high school standards (junior and senior) A manual of suggestions and requirements for high school teachers and administrators
+Y1  - 1925
+D1  - 1925
+SP  - 183
+KW  - High schools
+KW  - Curricula
+N1  - 183 pages including plans 25 cm; Note(s): On cover: State of Ohio. Dept. of education ... 1925 revision.; Responsibility: Prepared by Walton B. Bliss, assistant director of education, and C.B. Ulery, high school supervisor, under the direction of Vernon M. Riegel, superintendent of public instruction, as director of education; Shelved in Cubberley Library Reading Room
+PB  - State of Ohio Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1925
+SC  - Ohio
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Teachers Association
+T1  - The financing of public education in Ohio
+Y1  - 1923
+D1  - 11/1923
+SP  - 72
+KW  - School finance
+N1  - 72 pages diagrams, table 23 cm; Note(s): Also issued online.; Responsibility: A report by the Committee on finance to the Educational Council of the Ohio State Teachers Association, November 10, 1923.; Shelved in Cubberley Library Reading Room
+PB  - Ohio State Teachers Association
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1923
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - A Directory of the recognized High Schools of Ohio and of school officials
+Y1  - 1924
+D1  - 01/1924
+SP  - 82
+KW  - School districts
+N1  - Frequency: Annual; -1923/1924.; volumes ; 24 cm; Genre/Form: Directories.; Geographic: Ohio.; General Info: Continues: Official directory of the recognized high schools of Ohio and of school officials./ Continued by: Educational directory.; Responsibility: State of Ohio, Department of Education; Shelved in Cubberley Library Reading Room
+PB  - State of Ohio Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1924
+SC  - Ohio
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Mort, Paul R.
+A2  - Ohio School Survey Commission
+T1  - Equalizing educational opportunity in Ohio; report of a survey of state and local support of public schools
+Y1  - 1932
+D1  - 12/1932
+SP  - 149
+KW  - School finance
+KW  - Taxation
+N1  - 149 pages including tables, diagrams 24 cm; Note(s): Paul R. Mort, director.; Responsibility: The Ohio school survey commission. December 27, 1932.; Shelved in Cubberley Library Reading Room
+PB  - Ohio School Survey Commission
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1932
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Report of the state teachers retirement system of Ohio, September 1, 1937 to August 31, 1942
+Y1  - 1943
+D1  - 1943
+SP  - 27
+KW  - School finance
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1943
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Safety bulletin for elementary schools
+Y1  - 1937
+D1  - 08/1937
+SP  - 39
+KW  - Accident prevention
+KW  - Traffic accidents
+KW  - Ohio
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, CA
+LA  - English
+CN  - 379.74 .O1 1937
+SC  - Ohio
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A1  - Lammel, Rose
+A2  - Ohio State Department of Education
+T1  - Science education for the elementary schools of Ohio
+Y1  - 1945
+D1  - 1945
+SP  - 192
+KW  - Science
+N1  - 192 pages.; Note(s): Prepared by Rose Lammel.--Acknowledgements./ "Books for enrichment of science teaching," prepared by Frieda Heller: pages 175-192.; Shelved in Cubberley Library Reading Room
+T2  - Ohio State Department of Education curriculum bulletin
+V1  - 3
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1943
+SC  - Ohio
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Progress report, August 15, 1943 to August 15, 1944
+Y1  - 1944
+D1  - 08/1944
+SP  - 129
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1944
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - State Teachers Retirement System of Ohio
+T1  - Manual of information
+Y1  - 1948
+D1  - 1948
+SP  - 35
+KW  - Teachers
+KW  - Pensions
+N1  - 35, [1] pages ; 19 cm; Genre/Form: Handbooks and manuals.; Note(s): Cover title.; Responsibility: the State Teachers Retirement System of Ohio.; Shelved in Cubberley Library Reading Room
+PB  - State Teachers Retirement System of Ohio
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1948
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Bridge, Franklin M.
+A1  - Furman, James M.
+A1  - Wheeler, Charles
+A1  - Ingler, Charles W.
+A2  - Ohio General Assembly. Legislative Service Commission
+T1  - Financing public schools in Ohio
+Y1  - 1957
+D1  - 02/1957
+SP  - 59
+KW  - School finance
+KW  - Education and state
+N1  - 59 pages ; 28 cm.; Note(s): "February, 1957."; Responsibility: research staff: Franklin M. Bridge, Research Associate and Project Officer ; James M. Furman, Research Associate ; Charles Wheeler, Research Editor ; Charles W. Inger, Jr., Supervisor of Research.; Shelved in Cubberley Library Reading Room
+T2  - Ohio Legislative Service Commission staff research report
+V1  - 19
+PB  - Ohio Legislative Service Commission
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1957
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Administrative, instructional and non-instructional salaries in Ohio, School year 1964-65
+Y1  - 1965
+D1  - 1965
+SP  - 133
+KW  - Teachers
+KW  - Pensions
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1965
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Administrative, instructional and non-instructional salaries in Ohio, School year 1966-67
+Y1  - 1967
+D1  - 1967
+SP  - 147
+KW  - Teachers
+KW  - Pensions
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1965
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - A profile of state support for public schools in Ohio, 1961-1965
+Y1  - 1965
+D1  - 1965
+SP  - 50
+KW  - Government aid to education
+N1  - v, 50 leaves : illustrations ; 28 cm; Responsibility: Division of School Finance, Ohio Department of Education.; Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1965
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - Costs per pupil in average daily membership in Ohio's city, exempted village and county school districts
+Y1  - 1963
+D1  - 1963
+SP  - 36
+KW  - School finance
+N1  - Frequency: Annual; July 1, 1958 to June 30, 1959-July 1, 1970 to June 30, 1971.; volumes : tables ; 28 cm; Genre/Form: Periodicals.; Geographic: Ohio.; Note(s): Title from cover./ Prepared by: Division of Research, State Dept. of Education, 1958/1959-196 ; Dept. of Education, Division of Computer Services and Statistical reports, 196 -1970/1971.; General Info: Formed by the union of: Costs per pupil in average daily membership in Ohio city school districts; Costs per pupil in average daily membership in Ohio exempted village school districts, and: Costs per pupil in average daily membership in Ohio county school districts.; Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1963
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Peterjohn, Alvin K.
+A1  - Mosure, Jeanne L.
+A1  - Tully, James K.
+A2  - Ohio General Assembly. Legislative Service Commission
+T1  - School finance equalization in Ohio
+Y1  - 1959
+D1  - 02/1959
+SP  - 54
+KW  - Education and state
+KW  - School finance
+N1  - 54 pages ; 28 cm.; Note(s): "February, 1959."; Responsibility: Alvin K. Peterjohn, Chief of Fiscal Research ; Jeanne Mosure, Research Associate ; James K. Tully, Research Clerk.; Shelved in Cubberley Library Reading Room
+T2  - Ohio Legislative Service Commission staff research report
+V1  - 38
+PB  - Ohio Legislative Service Commission
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1959
+SC  - Ohio
+ER  -
+
+
+TY  - BOOK
+A2  - Ohio State Board of Education
+A2  - National Association of State Boards of Education
+T1  - Education symposium on urban problems : a report
+Y1  - 1966
+D1  - 1966
+SP  - 17
+KW  - Urban education
+N1  - Responsibility: sponsored by the State Board of Education of Ohio and the Northeast Region of the National Association of State Boards of Education.; Shelved in Cubberley Library Reading Room
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1966
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Board of Education
+T1  - The Ohio law for state support of public schools
+Y1  - 1966
+D1  - 1966
+SP  - 23
+KW  - Government aid to education
+KW  - Educational law and legislation
+KW  - Public schools
+N1  - 24 pages 23 cm; Responsibility: Prepared by Division of School Finance, John M. Parsons, director.; Shelved in Cubberley Library Reading Room
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1966
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio State Department of Education
+T1  - A master plan for school district organization in Ohio. The Project Staff, the Master Plan, School District Organization, the State Dept. of Education
+Y1  - 1966
+D1  - 12/1966
+SP  - 175
+KW  - School districts
+N1  - 175 pages 23 cm; Note(s): Cover title./ A report by the Project Staff to Martin Essex. Ralph D. Purdy, project director.; Shelved in Cubberley Library Reading Room
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1966
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Atwater, David S.
+A2  - Ohio General Assembly. Legislative Service Commission
+T1  - Goals and practices in public education
+Y1  - 1965
+D1  - 02/1965
+SP  - 89
+KW  - Public education
+N1  - 89 pages : charts ; 23 cm.; Note(s): "February, 1965."; Responsibility: research staff: David S. Atwater [and others].; Shelved in Cubberley Library Reading Room
+T2  - Ohio Legislative Service Commission staff research report
+V1  - 73
+PB  - Ohio Legislative Service Commission
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1965
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Capital plan for higher education, 1969-1975
+Y1  - 1969
+D1  - 03/1969
+SP  - 21
+KW  - Higher education
+KW  - Educational planning
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio Board of Regents
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1969
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio School Survey Commission
+T1  - Report and recommendations of the Ohio School Survey Commission
+Y1  - 1967
+D1  - 01/1967
+SP  - 6
+KW  - Educational surveys
+N1  - 12 pages ; 23 cm; Note(s): "January, 1967."; Other Titles: Goals for progress :; report of the Ohio School Survey Commission; Shelved in Cubberley Library Reading Room
+PB  - Ohio School Survey Commission
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1967
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Warren, Roger D.
+A1  - Sakss, Uldis J.
+A1  - Clausen, Modelle
+A2  - Ohio General Assembly. Legislative Service Commission
+A2  - Committee to Study the Ohio School Foundation Program
+T1  - The Ohio school foundation program : and report of the Committee to Study the Ohio School Foundation Program
+Y1  - 1969
+D1  - 01/1969
+SP  - 64
+KW  - School finance
+N1  - 64 pages ; 28 cm.; Note(s): "January, 1969."/ Bibliographical references included in "Notes."; Other Titles: Report of the Committee to Study the Ohio School Foundation Program; Responsibility: research staff: Roger D. Warren ..., Uldis J. Sakss ..., Modelle Clausen ... More Records: Show record information Vendor Info: Baker and Taylor (BTCP); Shelved in Cubberley Library Reading Room
+T2  - Ohio Legislative Service Commission staff research report
+V1  - 94
+PB  - Ohio Legislative Service Commission
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1969
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Computer services, universities
+Y1  - 1973
+D1  - 07/1973
+SP  - 133
+KW  - Universities and colleges
+N1  - 133 pages : illustrations ; 28 cm; Note(s): Includes bibliographical references (pages 130-133)./ Also issued online.; Responsibility: prepared by a task force of university representatives with direction and staff assistance provided by the Ohio Board of Regents.; Shelved in Cubberley Library Reading Room
+PB  - Ohio Board of Regents
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1973
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Program budgeting--universities
+Y1  - 1974
+D1  - 07/1973
+SP  - 92
+KW  - Universities and colleges
+KW  - Higher education and state
+KW  - Program budgeting
+N1  - 92 pages ; 28 cm; Genre/Form: Handbooks and manuals.; Note(s): Prepared by a task force of University representatives with direction and staff assistance provided by The Ohio Board of Regents."/ "July 1, 1973."/ Includes bibliographical references (pages 69-71).; Responsibility: Management Improvement Program, Ohio Board of Regents, MIP.; Shelved in Cubberley Library Reading Room
+PB  - The Board; Distributed by Management Division, Academy for Educational Development
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1975
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Higher education in Ohio master plan, 1976
+Y1  - 1976
+D1  - 09/1976
+SP  - 90
+KW  - Universities and colleges
+KW  - Government aid to higher education
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio Board of Regents
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1976
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Higher education in Ohio master plan, 1976 : summary
+Y1  - 1977
+D1  - 1977
+SP  - 12
+KW  - Higher education
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ohio Board of Regents
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1976
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Personnel management, universities
+Y1  - 1974
+D1  - 01/1974
+SP  - 123
+KW  - Universities and colleges
+KW  - College teachers
+N1  - 123 pages ; 28 cm; Note(s): Includes bibliographical references (pages 113-123)./ Also issued online.; Responsibility: prepared by a task force of university representatives with direction and staff assistance provided by the Ohio Board of Regents.; Shelved in Cubberley Library Reading Room
+PB  - Ohio Board of Regents
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1974
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Planning universities
+Y1  - 1973
+D1  - 07/1973
+SP  - 100
+KW  - Higher education
+KW  - Educational planning
+N1  - 100 pages diagrams 28 cm; Note(s): Includes bibliographical references (pages 91-93).; Responsibility: Prepared by a task force of university representatives with direction and staff assistance provided by the Ohio Board of Regents.; Shelved in Cubberley Library Reading Room
+PB  - Ohio Board of Regents
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1973
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio Board of Regents
+T1  - Schedule building and student registration : universities
+Y1  - 1973
+D1  - 07/1973
+SP  - 63
+KW  - Student registration
+KW  - School schedules
+N1  - 63 pages ; 28 cm; Responsibility: Management Improvement Program, Ohio Board of Regents.; Shelved in Cubberley Library Reading Room
+PB  - Ohio Board of Regents
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1973
+SC  - Ohio
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Ohio Education Association
+T1  - Basic financial data of Ohio school districts, 1975
+Y1  - 1975
+D1  - 03/1975
+SP  - 60
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ohio Education Association research report
+V1  - 30
+PB  - Ohio Education Association
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1975
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ohio General Assembly. Education Review Committee
+T1  - Report of the Education Review Committee
+Y1  - 1974
+D1  - 12/1974
+SP  - 40
+KW  - Government aid to education
+KW  - Public schools
+N1  - i, 61 leaves ; 28 cm; Note(s): Cover title./ "December 15, 1974."; General Info: Final draft.; Responsibility: Ohio General Assembly, Education Review Committee.; Shelved in Cubberley Library Reading Room
+PB  - Ohio General Assembly Education Review Committee
+CY  - Columbus, OH
+LA  - English
+CN  - 379.74 .O1 1974
+SC  - Ohio
+ER  - 
