@@ -1,0 +1,1053 @@
+
+TY  - BOOK
+A2  - Logan (Utah) Public Schools
+T1  - The standing rules of the Board of Education
+D1  - 1919?
+SP  - 23
+KW  - School boards
+PB  - Logan Public Schools
+CY  - Logan, Utah
+LA  - English
+CN  - 379.74 .L825s
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools
+T1  - Course of study - Louisville Boys High School
+Y1  - 1918
+D1  - 06/1918
+KW  - Curricula
+KW  - High schools
+PB  - Louisville Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 375.15 .L89c 1916
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools
+T1  - Report of the Girls High School of Louisville, Ky.
+Y1  - 1916
+D1  - 12/1916
+KW  - Curricula
+KW  - High schools
+PB  - Louisville Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 375.15 .L89r 1916
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lompoc (California) Union High School
+T1  - Course of study
+D1  - 1910?
+KW  - Curricula
+KW  - High schools
+PB  - Lompoc Union High School
+CY  - Lompoc, CA
+LA  - English
+CN  - 375.15 .L828c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Louisville (Kentucky) Public Schools
+T1  - Requirements for graduation and course of study of the Louisville Boys' High School
+D1  - 1920?
+KW  - Curricula
+KW  - High schools
+PB  - Louisville Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 375.15 .L89rg
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lowell (Massachusetts) High School
+T1  - Courses of study
+Y1  - 1904
+D1  - 1904-1905
+KW  - Curricula
+KW  - High schools
+PB  - Lowell High School
+CY  - Lowell, MA
+LA  - English
+CN  - 375.15 .L915c 1904
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lowell (Massachusetts) High School
+T1  - Courses of study
+Y1  - 1905
+D1  - 1905-1906
+KW  - Curricula
+KW  - High schools
+PB  - Lowell High School
+CY  - Lowell, MA
+LA  - English
+CN  - 375.15 .L915c 1905
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lynn (Massachusetts) Public Schools. Classical High School
+T1  - Course of study
+Y1  - 1918
+D1  - 09/1918
+KW  - Curricula
+KW  - High schools
+PB  - Lynn Public Schools
+CY  - Lynn, Massachusetts
+LA  - English
+CN  - 375.15 .L93c 1918
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Lynn (Massachusetts) Public Schools. English High School
+T1  - Course of study
+Y1  - 1918
+D1  - 09/1918
+KW  - Curricula
+KW  - High schools
+PB  - Lynn Public Schools
+CY  - Lynn, Massachusetts
+LA  - English
+CN  - 375.15 .L93co 1918
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California, containing course of study, suggestions to teachers, rules and regulations, etc.
+Y1  - 1897
+D1  - 1897-1898
+SP  - 43
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California, containing course of study, suggestions to teachers, rules and regulations, etc.
+Y1  - 1899
+D1  - 1899-1900
+SP  - 56
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California, containing course of study, suggestions to teachers, rules and regulations, etc.
+Y1  - 1902
+D1  - 1902-1903
+SP  - 86
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1902
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California
+Y1  - 1905
+D1  - 1905-1906
+SP  - 175
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1905
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California
+Y1  - 1911
+D1  - 1911-1912
+SP  - 72
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California
+Y1  - 1914
+D1  - 06/1914
+SP  - 101
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1914
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California
+Y1  - 1921
+D1  - 06/1921
+SP  - 74
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Manual of the public schools of Madera County, California
+Y1  - 1926
+D1  - 06/1926
+SP  - 88
+KW  - Curricula
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1926
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Revision of manual Madera County, California
+Y1  - 1934
+D1  - 06/1934
+SP  - 32
+KW  - Curricula
+KW  - Public schools
+ED  - Revised
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 375.82 .M17m 1934
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Directory of Madera County schools for year ending June 30, 1914
+Y1  - 1913
+D1  - 1913-1914
+KW  - Directories
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 379.16 .M17d 1913
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madera County (California) Superintendent of Schools
+T1  - Directory of Madera County schools for year ending June 30, 1914
+Y1  - 1913
+D1  - 1913-1914
+KW  - Directories
+KW  - Public schools
+PB  - Madera County Superintendent of Schools
+CY  - Madera, CA
+LA  - English
+CN  - 379.16 .M17d 1913
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mariposa County (California) Public Schools
+T1  - Public school teachers, Mariposa County, 1908-9
+Y1  - 1908
+D1  - 1908-1909
+KW  - Directories
+KW  - Public schools
+PB  - Mariposa County Public Schools
+CY  - Mariposa, CA
+LA  - English
+CN  - 379.16 .M35p 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools. Madison High School
+T1  - Courses of study
+D1  - 1912?
+KW  - Curricula
+KW  - High schools
+PB  - Madison Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 375.15 .M18c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - McAdoo, W. C.
+A2  - Madison (Wisconsin) Public Schools. Madison High School
+T1  - Address by Hon. W. G. McAdoo, Secretary of the Treasury
+Y1  - 1917
+D1  - 10/1917
+KW  - High schools
+PB  - Madison Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 375.15 .M18c
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Malden (Massachusetts) Public Schools
+T1  - City of Malden public school souvenir to commemorate the two hundred fiftieth anniversary of the municipality, 1649-1899
+Y1  - 1899
+D1  - 1899
+SP  - 228
+KW  - Public schools
+PB  - Malden Public Schools
+CY  - Malden, MA
+LA  - English
+CN  - 375.83 .M26c 1899
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Manhasset (New York) Public Schools
+T1  - Manhasset Board of Education's new approach to policy making
+Y1  - 1956
+D1  - 12/1956
+SP  - 6
+KW  - Education and state
+KW  - School boards
+PB  - Manhasset Public Schools
+CY  - Manhasset, NY
+LA  - English
+CN  - 379.74 .M27m 1956
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Manhasset (New York) Public Schools
+T1  - Facts about the Manhasset Public Schools
+SP  - 15
+KW  - Public schools
+PB  - Manhasset Public Schools
+CY  - Manhasset, NY
+LA  - English
+CN  - 370.21 .M27f
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Superintendent of Schools
+T1  - Manual for the public schools of Marin County, Cal. containing course of study, and suggestions to teachers
+Y1  - 1896
+D1  - 06/1896
+SP  - 44
+KW  - Curricula
+KW  - Public schools
+PB  - Marin County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M33m 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Superintendent of Schools
+T1  - Manual for the public schools of Marin County, Cal. containing graded course of study, and suggestions to teachers
+Y1  - 1900
+D1  - 06/1900
+SP  - 50
+KW  - Curricula
+KW  - Public schools
+PB  - Marin County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M33m 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Superintendent of Schools
+T1  - Manual for the public schools of Marin County, Cal. containing graded course of study, and suggestions to teachers
+Y1  - 1905
+D1  - 06/1905
+SP  - 84
+KW  - Curricula
+KW  - Public schools
+PB  - Marin County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M33m 1905
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Superintendent of Schools
+T1  - Manual for the public schools of Marin County, Cal. containing graded course of study, and suggestions to teachers
+Y1  - 1911
+D1  - 06/1911
+SP  - 89
+KW  - Curricula
+KW  - Public schools
+PB  - Marin County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M33m 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Marin County (California) Superintendent of Schools
+T1  - Course of study
+Y1  - 1959
+D1  - 1959
+KW  - Curricula
+KW  - Public schools
+PB  - Marin County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M33m 1959
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mariposa County (California) Public Schools
+T1  - School manual of Mariposa County
+Y1  - 1886
+D1  - 11/1886
+SP  - 11
+KW  - Curricula
+KW  - Public schools
+PB  - Mariposa County Public Schools
+CY  - Mariposa, CA
+LA  - English
+CN  - 375.82 .M35s 1886
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mariposa County (California) Public Schools
+T1  - Revised manual of the public schools of Mariposa County, California
+Y1  - 1895
+D1  - 05/1895
+SP  - 28
+KW  - Curricula
+KW  - Public schools
+PB  - Mariposa County Public Schools
+CY  - Mariposa, CA
+LA  - English
+CN  - 375.82 .M35r 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mariposa County (California) Public Schools
+T1  - Manual and course of study for the elementary schools
+Y1  - 1925
+D1  - 1925
+SP  - 62
+KW  - Curricula
+KW  - Elementary education
+PB  - Mariposa County Public Schools
+CY  - Mariposa, CA
+LA  - English
+CN  - 375.13 .M35m 1925
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Marshalltown (Iowa) High School
+T1  - Course of study
+Y1  - 1903
+D1  - 1903
+SP  - 23
+KW  - Curricula
+KW  - High schools
+PB  - Marshalltown High School
+CY  - Marshalltown, IA
+LA  - English
+CN  - 375.15 .M37c 1903
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Marysville (California) Public Schools
+T1  - Course of study
+KW  - Curricula
+KW  - Public schools
+PB  - Marysville Public Schools
+CY  - Marysville, CA
+LA  - English
+CN  - 375.83 .M39c
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mason City (Iowa) High School
+T1  - Course of study
+Y1  - 1919
+D1  - 1919-1920
+KW  - Curricula
+KW  - High schools
+PB  - Mason City High School
+CY  - Mason City, IA
+LA  - English
+CN  - 375.15 .M39c 1919
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - McAlester (Oklahoma) High School
+T1  - High school course
+Y1  - 1915
+D1  - 1915-1916
+KW  - Curricula
+KW  - High schools
+PB  - McAlester High School
+CY  - McAlester, OK
+LA  - English
+CN  - 375.15 .M43h 1915
+SC  - Oklahoma
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Memphis (Tennessee) City School System
+T1  - Courses of study in Memphis high schools
+Y1  - 1907
+D1  - 1907-1908
+KW  - Curricula
+KW  - High schools
+PB  - Memphis City School System
+CY  - Memphis, TN
+LA  - English
+CN  - 375.15 .M53c 1907
+SC  - Tennessee
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Melrose (Massachusetts) High School
+T1  - Courses of study
+Y1  - 1919
+D1  - 1919-1920
+KW  - Curricula
+KW  - High schools
+PB  - Melrose High School
+CY  - Melrose, CA
+LA  - English
+CN  - 375.15 .M50c 1919
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Manual for the public schools of Mendocino County
+Y1  - 1895
+D1  - 07/1895
+SP  - 56
+KW  - Curricula
+KW  - Public schools
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M53m 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - School manual for Mendocino County, containing the course of study, rules concerning teachers' certificates, graduation of pupils, and general suggestions for schools
+Y1  - 1901
+D1  - 07/1901
+SP  - 55
+KW  - Curricula
+KW  - Public schools
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M53m 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Manual for the public schools of Mendocino County
+Y1  - 1916
+D1  - 07/1916
+SP  - 67
+KW  - Curricula
+KW  - Public schools
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M53m 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Manual for the public schools of Mendocino County
+Y1  - 1921
+D1  - 07/1921
+SP  - 67
+KW  - Curricula
+KW  - Public schools
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.82 .M53m 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Report of the County Superintendent of Schools, Mendocino County
+Y1  - 1923
+D1  - 1923
+SP  - 34
+KW  - Curricula
+KW  - Public schools
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 370.21 .M53r 1923
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Course of study for the elementary schools of Mendocino County, California
+Y1  - 1923
+D1  - 07/1923
+SP  - 49
+KW  - Curricula
+KW  - Elementary education
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.13 .M53c 1923
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Supplement to the course of study for the elementary schools of Mendocino County, California
+Y1  - 1924
+D1  - 07/1924
+SP  - 16
+KW  - Curricula
+KW  - Elementary education
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.13 .M53c 1924
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Course of study for the elementary schools of Mendocino County, California
+Y1  - 1925
+D1  - 07/1925
+SP  - 78
+KW  - Curricula
+KW  - Elementary education
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.13 .M53c 1925
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Course of study for the elementary schools of Mendocino County for 1933
+Y1  - 1933
+D1  - 1933
+SP  - 22
+KW  - Curricula
+KW  - Elementary education
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.13 .M53c 1933
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Mendocino County (California) Superintendent of Schools. Elementary School
+T1  - Tentative course of study and textbook list
+Y1  - 1940
+D1  - 1940-1941
+SP  - 57
+KW  - Curricula
+KW  - Elementary education
+PB  - Mendocino County Superintendent of Schools
+LA  - English
+CN  - 375.13 .M53t
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual of the public schools of Merced County, Cal., containing course of study, suggestions to teachers and trustees; rules and regulations
+Y1  - 1897
+D1  - 06/1897
+SP  - 73
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual of the public schools of Merced County, Cal., containing course of study, suggestions to teachers and trustees; rules and regulations
+Y1  - 1901
+D1  - 1901
+SP  - 74
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual and course of study for the schools of Merced
+Y1  - 1911
+D1  - 1911
+SP  - 81
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual and course of study of the Merced County High School
+Y1  - 1911
+D1  - 1911-1912
+SP  - 36
+KW  - Curricula
+KW  - High schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.15 .M55m 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual and course of study of the schools of Merced County
+Y1  - 1914
+D1  - 1914
+SP  - 68
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1914
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual for the schools of Merced County, California
+Y1  - 1921
+D1  - 1921
+SP  - 40
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual for the schools of Merced County, California
+Y1  - 1923
+D1  - 1923
+SP  - 44
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1923
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual for the schools of Merced County, California
+Y1  - 1925
+D1  - 1925
+SP  - 48
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Manual for the schools of Merced County, California
+Y1  - 1928
+D1  - 1928
+SP  - 71
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1928
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Merced County (California) Public Schools
+T1  - Supplement to the manual for the schools of Merced County
+Y1  - 1929
+D1  - 1929-1930
+SP  - 11
+KW  - Curricula
+KW  - Public schools
+PB  - Merced County Public Schools
+CY  - Merced, CA
+LA  - English
+CN  - 375.82 .M55m 1929
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Meridian (Mississippi) Separate School District. Committee on Elementary Curriculum
+T1  - Elementary curriculum for the Meridian, Mississippi public schools
+Y1  - 1940
+D1  - 1940
+SP  - 301
+KW  - Curricula
+KW  - Elementary education
+T2  - Meridian Public Schools. Report.
+V1  - 1
+PB  - Meridian Public Schools
+CY  - Meridian, MS
+LA  - English
+CN  - 375.13 .M56e 1940
+SC  - Mississippi
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Meridian (Mississippi) Public Schools. High School
+T1  - Course of study
+Y1  - 1921
+D1  - 1921-1922
+KW  - Curricula
+KW  - High schools
+PB  - Meridian Public Schools
+CY  - Meridian, MS
+LA  - English
+CN  - 375.15 .M56e 1921
+SC  - Mississippi
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Middletown (Connecticut) High School
+T1  - Courses of study
+D1  - 1916?
+KW  - Curricula
+KW  - High schools
+PB  - Middletown High School
+CY  - Middletown, CT
+LA  - English
+CN  - 375.15 ,M62c
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Middletown (Ohio) Public Schools
+T1  - High school courses
+Y1  - 1904
+D1  - 05/1904
+KW  - Curricula
+KW  - High schools
+PB  - Middletown Public Schools
+CY  - Middletown, OH
+LA  - English
+CN  - 375.15 .M621h 1904
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Middletown (Ohio) Public Schools
+T1  - Corps of teachers
+Y1  - 1908
+D1  - 04/1908
+KW  - Curricula
+KW  - High schools
+PB  - Middletown Public Schools
+CY  - Middletown, OH
+LA  - English
+CN  - 379.16 .M621c 1908
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Milton (Massachusetts) High School
+T1  - Courses of study
+Y1  - 1910
+D1  - 1910
+SP  - 21
+KW  - Curricula
+KW  - High schools
+PB  - Milton High School
+CY  - Milton, MA
+LA  - English
+CN  - 375.15 .M66c 1910
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. High School
+T1  - Course of study
+Y1  - 1892
+D1  - 06/1892
+SP  - 16
+KW  - Curricula
+KW  - High schools
+PB  - Milwaukee High School
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.15 .M66co 1892
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. High School
+T1  - Course of study
+Y1  - 1891
+D1  - 08/1891
+SP  - 16
+KW  - Curricula
+KW  - High schools
+PB  - Milwaukee High School
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.15 .M66co 1891
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Graded course of the Milwaukee public schools
+Y1  - 1895
+D1  - 1895
+SP  - 206
+KW  - Curricula
+KW  - Public schools
+ED  - 6th
+PB  - Milwaukee Pubic Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.83 .M66co 1895
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Graded course of the Milwaukee public schools
+Y1  - 1898
+D1  - 1898
+SP  - 151
+KW  - Curricula
+KW  - Public schools
+ED  - 7th
+PB  - Milwaukee Pubic Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.83 .M66co 1898
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Graded course of the Milwaukee public schools
+Y1  - 1901
+D1  - 10/1901
+SP  - 171
+KW  - Curricula
+KW  - Public schools
+ED  - 8th
+PB  - Milwaukee Pubic Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.83 .M66co 1901
+SC  - Wisconsin
+ER  - 
+
+
+
