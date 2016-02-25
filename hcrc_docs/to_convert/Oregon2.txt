@@ -1,0 +1,1136 @@
+
+TY  - BOOK
+A1  - Maaske, Roben J.
+T1  - The status of the elementary school principal in Oregon
+Y1  - 1936
+D1  - 09/1936
+KW  - Elementary school principals
+KW  - School management and organization
+KW  - School superintendents
+N1  - 72 pages tables, diagram 23 cm; Dissertation: M.A.; University of Oregon; 1936; Note(s): Includes bibliographical references (pages 65-66).; General Info: Other format available: Online version:; Maaske, Roben Johne, 1903-; Status of the elementary school principal in Oregon.; Salem, s.n. 1936; Other Titles: Elementary school principal in Oregon; Responsibility: by Roben Johne Maaske.; Shelved in Cubberley Library Reading Room
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1936
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Morris, Victor Pierpont
+A2  - Oregon Educational Commission
+T1  - Report of the Educational Commission
+Y1  - 1935
+D1  - 01/1935
+SP  - 48
+KW  - Educational surveys
+KW  - School management and organization
+N1  - 48 pages including tables 23 cm; Note(s): Victor P. Morris, chairman.; Responsibility: Appointed by Governor Julius L. Meier pursuant to House joint resolution 16, 1933 session of the Oregon legislature.; Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Commission
+CY  - Portland, OR
+LA  - English
+CN  - 379.74 .O2 1935
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Standards for Oregon rural elementary schools, 1937
+Y1  - 1937
+D1  - 1937
+SP  - 7
+KW  - Rural schools
+KW  - Standards
+N1  - 7 pages 24 cm; Note(s): Cover title./ "Revised ... by a committee of county school superintendents and adopted by that body at the conference in 1936"--Page 3.; Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1937
+G1  - Elementary
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Office of Superintendent of Public Instruction
+T1  - A manual for officers and principals of small high schools
+Y1  - 1934
+D1  - 1934
+SP  - 45
+KW  - High schools
+N1  - 45 pages 23 cm; Responsibility: State of Oregon. 1934. Issued by C.A. Howard, superintendent of public instruction. More Records Shelved in Cubberley Library Reading Room
+ED  - Rev.
+PB  - Oregon State Office of Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1934
+SC  - Oregon
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Walker, Troy D.
+A1  - Emerson, D. A.
+A1  - Bain, V. D.
+A2  - Oregon State Office of Superintendent of Public Instruction
+T1  - A manual on the construction and care of school buildings
+Y1  - 1937
+D1  - 1937
+SP  - 119
+KW  - School buildings
+N1  - 119 pages 23 cm; Note(s): Includes bibliographical references (pages 118-119).; Responsibility: Prepared by Troy D. Walker, high school principal, Baker, Oregon. D.A. Emerson, State Department of Education, Salem. Dr. V.D. Bain, State Department of Education, Salem. Issued by C.A. Howard, Superintendent of Public Instruction, Salem, Oregon. 1937.; Shelved in Cubberley Library Reading Room
+PB  - Oregon State Office of Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1937
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Adams, Orville Daniel
+A2  - Oregon State Board for Vocational Education
+T1  - A list of supplementary bulletins for supervisors and teachers in trade and industrial training
+Y1  - 1929
+D1  - 03/1929
+SP  - 29
+KW  - Manual training
+KW  - Vocational education
+N1  - 29 pages ; 23 cm.; Genre/Form: Bibliography.; Note(s): "March, 1929."; Responsibility: compiled by O.D. Adams.; Shelved in Cubberley Library Reading Room
+T2  - Oregon State Board for Vocational Education bulletin
+V1  - 10
+PB  - Oregon State Board for Vocational Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1929
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Brigham, L. E.
+A2  - Oregon State Board for Vocational Education
+T1  - A review of Portland's apprentice-built home project
+Y1  - 1929
+D1  - 03/1929
+SP  - 16
+KW  - Apprenticeship programs
+KW  - House construction
+KW  - Vocational education
+N1  - 16 pages : illustrations ; 23 cm.; Note(s): "March, 1929."; Responsibility: [L.E. Brigham].; Shelved in Cubberley Library Reading Room
+T2  - Oregon State Board for Vocational Education bulletin
+V1  - 8
+PB  - Oregon State Board for Vocational Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1929
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Office of Superintendent of Public Instruction
+T1  - Suggestions for organizing parent-teacher associations
+Y1  - 1925
+D1  - 1925
+SP  - 30
+KW  - Parents' and teachers' associations
+N1  - 30 pages 24 cm; Responsibility: Issued by J.A. Churchill, superintendent of public instruction; Shelved in Cubberley Library Reading Room
+PB  - Oregon State Office of Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1929
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Office of Superintendent of Public Instruction
+T1  - Parent-teacher associations in the rural and village schools of Oregon
+Y1  - 1915
+D1  - 1915
+SP  - 15
+KW  - Parents' and teachers' associations
+N1  - 15 pages 23 cm; Note(s): Also available in digital form on the Internet Archive Web site.; Responsibility: Issued by J.A. Churchill, superintendent of public instruction.; Shelved in Cubberley Library Reading Room
+PB  - Oregon State Office of Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1915
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Lessons in fire prevention for use in the public schools, 1914
+Y1  - 1914
+D1  - 1914
+SP  - 24
+KW  - Public schools
+KW  - Fire prevention
+N1  - 24 pages; Responsibility: Issued by J.A. Churchill, superintendent of public instruction; Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1914
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Industrial club work of Oregon boys and girls a brief review with some suggestions for the future
+Y1  - 1915
+D1  - 1915
+SP  - 42
+KW  - Agricultural education
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1915
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board for Vocational Education
+T1  - An outline of the activities of the State Board for Vocational Education
+Y1  - 1929
+D1  - 03/1929
+SP  - 16
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Oregon State Board for Vocational Education bulletin
+V1  - 9
+PB  - Oregon State Board for Vocational Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1929
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Individualizing instruction; a synthesis of current thinking
+Y1  - 1965
+D1  - 05/1965
+KW  - Individualized instruction
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Oregon education development
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+A2  - Governor's Education Improvement Advisory Commission
+T1  - Vocational education; a statement with suggested guidelines for Oregon schools
+Y1  - 1965
+D1  - 1965
+SP  - 15
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Governor's Education Improvement Advisory Commission report
+V1  - 2
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+A2  - Governor's Education Improvement Advisory Commission
+T1  - Financing Oregon education; a statement with suggested guidelines for Oregon schools
+Y1  - 1965
+D1  - 1965
+SP  - 8
+KW  - School finance
+N1  - 8 pages 28 cm.; Responsibility: a statement prepared by the Governor's Education Improvement Advisory Commission in cooperation with the State Advisory Committee on School Finance, Frank Farmer ... and Thomas James ...; Shelved in Cubberley Library Reading Room
+T2  - Governor's Education Improvement Advisory Commission report
+V1  - 3
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Writing acceptable research proposals
+Y1  - 1965
+D1  - 09/1965
+SP  - 5
+KW  - Proposal writing in educational research
+N1  - 5 pages ; 28 cm.; Note(s): "September 1965."/ Includes bibliographical references.; Shelved in Cubberley Library Reading Room
+T2  - Oregon education development
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - A survey of major funding agencies for education delveopment projects
+Y1  - 1965
+D1  - 08/1965
+SP  - 25
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Oregon education development
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+A2  - Governor's Education Improvement Advisory Commission
+T1  - In-service education for teachers and administrators; a statement with suggested guidelines for Oregon schools
+Y1  - 1965
+D1  - 1965
+SP  - 9
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Governor's Education Improvement Advisory Commission report
+V1  - 4
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+A2  - Governor's Education Improvement Advisory Commission
+T1  - Programs for children with special education needs; a statement with suggested guidelines for Oregon schools
+Y1  - 1965
+D1  - 1965
+SP  - 21
+KW  - Special education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Governor's Education Improvement Advisory Commission report
+V1  - 1
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Empey, Donald Warne
+A2  - Oregon School Study Council
+T1  - A study of the impact of Title III of the National defense education act of 1958 on Oregon public schools
+Y1  - 1964
+D1  - 1964
+SP  - 222
+KW  - School finance
+KW  - United States National Defense Education Act of 1958
+N1  - 222 leaves; Title Subject: National Defense Education Act of 1958 (United States); Note(s): Thesis, Ed. D., Oregon, School of Education./ Vita./ Includes bibliographical references (leaves 175-180).; Other Titles: University of Oregon theses, School of Education, Ed. D., 1964.; Impact of Title III of the National defense education act of 1958 on Oregon public schools.; Shelved in Cubberley Library Reading Room
+T2  - Oregon School Study Council bulletin
+V1  - 8
+IS  - 2
+PB  - Oregon School Study Council
+LA  - English
+CN  - 379.74 .O2 v.8:no.2 1964
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Farner, Frank
+A2  - Oregon School Study Council
+T1  - The teacher salary cost analysis program and an analysis of the importance of the distribution of teachers on the salary schedule to Oregon district teachers salary costs
+Y1  - 1965
+D1  - 11/1965
+SP  - 24
+KW  - Teachers
+KW  - School finance
+N1  - 24 leaves ; 28 cm.; Note(s): "November, 1965"--Cover.; Responsibility: by Frank Farner.; Shelved in Cubberley Library Reading Room
+T2  - Oregon School Study Council bulletin
+V1  - 9
+IS  - 5
+PB  - Oregon School Study Council
+CY  - Eugene, OR
+LA  - English
+CN  - 379.74 .O2 v.9:no.5 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Farner, Frank
+A2  - University of Oregon. School of Education. Bureau of Educational Research
+A2  - Oregon Legislative Assembly. Interim Committee on Education
+T1  - Financial implications of the reorganization of the non-unified school districts of Oregon
+Y1  - 1964
+D1  - 08/1964
+KW  - School finance
+N1  - 1 volume (various pagings); Note(s): "Project Director: Frank Farner."/ "August 1964."; Responsibility: prepared for the Oregon Legislative Interim Committee on Education by the Bureau of Educational Research, School of Education, University of Oregon; Shelved in Cubberley Library Reading Room
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 379.74 .O2 1964
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Farner, Frank
+A2  - University of Oregon. School of Education. Bureau of Educational Research
+T1  - Equalization aid apportionment alternatives county apportionment formula compared with the current formula
+Y1  - 1965
+D1  - 03/1965
+KW  - School finance
+N1  - 1 volume (various pagings); Note(s): "Project Director: Frank Farner."/ "March 1965."; Shelved in Cubberley Library Reading Room
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - The Oregon program; an effort of local schools, higher education and the State Department of Education to improve education and to save a generation of time by accelerating change
+Y1  - 1964
+D1  - 1964
+SP  - 40
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1964
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - The structure of knowledge and the nature of inquiry; a report of the 1964 Oregon Program workshop
+Y1  - 1965
+D1  - 1965
+SP  - 83
+KW  - Theory of knowledge
+KW  - Education research
+N1  - 83 pages 23 cm; Note(s): Cover title./ At head of title: The Oregon program; a design for the improvement of education./ Errata slip inserted./ Includes bibliographical references (pages 77-83).; Shelved in Cubberley Library Reading Room
+T2  - Structure of Knowledge and the Nature of Inquiry Workshop (1964 : Willamette University)
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1965
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Public Employees Retirement Board
+T1  - Public employees retirement law of the State of Oregon, chapter 237 Oregon revised statutes 1961
+Y1  - 1961
+D1  - 1961
+KW  - Civil service
+KW  - Finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Public Employees Retirement Board
+CY  - Portland, OR
+LA  - English
+CN  - 379.74 .O2 1961
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Public Employees Retirement Board
+T1  - Retirement plan of the State of Oregon, revised 1962
+Y1  - 1962
+D1  - 01/1962
+SP  - 33
+KW  - Civil service
+KW  - Finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Public Employees Retirement Board
+CY  - Portland, OR
+LA  - English
+CN  - 379.74 .O2 1962
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - University of Oregon. School of Education. Bureau of Educational Research
+T1  - An analysis of total property tax rates in Oregon school districts 1963-64 prepared for Portland School District no.1
+Y1  - 1964
+D1  - 10/1964
+KW  - Property Tax
+KW  - Finance
+N1  - 1 volume (various pagings); Note(s): "Project Director: Frank Farner and Robert R. Rath."/Shelved in Cubberley Library Reading Room
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 379.74 .O2 1964
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - The Oregon project a design for the improvement of education a preliminary draft of a proposal developed under the leadership of the Oregon State Department of Education
+Y1  - 1961
+D1  - 02/1961
+KW  - Education
+N1  - 1 volume (various pagings); Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+LA  - English
+CN  - 379.74 .O2 1961
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Farner, Frank
+A2  - University of Oregon. School of Education. Bureau of Educational Research and Service
+T1  - Economic, sociological and demographic characteristics of Oregon school districts and their relationship to district financial practices
+Y1  - 1966
+D1  - 04/1966
+SP  - 164
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Bureau of Educational Research and Service educational research report
+V1  - 1
+IS  - 2
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 379.74 .O2 v.1:no.2 1966
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Legislative Assembly. Legislative Interim Committee on Education
+T1  - Report of the Legislative Interim Committee on Education
+Y1  - 1970
+D1  - 11/1970
+SP  - 180
+KW  - Education and state
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Legislative Assembly
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Legislative Assembly. Legislative Interim Committee on Education
+T1  - Report of the Legislative Interim Committee on Education including supplement
+Y1  - 1972
+D1  - 10/1972
+SP  - 295
+KW  - Education and state
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Legislative Assembly
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1972
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Office of Superintendent of Public Instruction
+T1  - A new management organizational system for the State Board of Education
+Y1  - 1969
+D1  - 02/1969
+SP  - 108
+KW  - Educational change
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Office of Superintendent of Public Instruction
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1969
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Educational Coordinating Council
+T1  - Goals, guidelines and recommendations for education in Oregon Phase I A report of the state of Oregon Educational Coordinating Council
+Y1  - 1969
+D1  - 01/1969
+SP  - 55
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Coordinating Council
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1969
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Final report of the Education Improvement advisory commission
+Y1  - 1966
+D1  - 1966
+SP  - 89
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Portland, OR
+LA  - English
+CN  - 379.74 .O2 1966
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Educational Coordinating Council
+T1  - Program impact: projects approved by the Educational Coordinating Council in December, 1971
+Y1  - 1972
+D1  - 02/1972
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Coordinating Council
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1972
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Educational Coordinating Council
+T1  - Annual progress report on impact projects
+Y1  - 1971
+D1  - 12/1971
+SP  - 37
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Coordinating Council
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1971
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State System of Higher Education. Teaching Research Division
+T1  - Impact of Title VI programs in the State of Oregon, September 1970-August 1971
+D1  - 1971?
+SP  - 123
+KW  - Federal aid to education
+KW  - Children with disabilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State System of Higher Education Teaching Research Division.
+LA  - English
+CN  - 379.74 .O2 1970-71
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - The Oregon Program, Final Report 1962-1967
+D1  - 1967?
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1967
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A1  - Siler, Pamela
+A2  - Oregon Educational Coordinating Council
+T1  - Post-secondary enrollment distributions in Oregon – fall 1972 an analysis of the statewide student enrollment data survey
+Y1  - 1973
+D1  - 03/1973
+SP  - 41
+KW  - College attendance
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Coordinating Council
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1973
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon Educational Coordinating Council
+T1  - Inventory of postsecondary education programs in Oregon
+Y1  - 1974
+D1  - 02/1974
+SP  - 77
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Coordinating Council
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1973-74
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon Educational Coordinating Council
+T1  - Class of 1975 post high school plans survey
+Y1  - 1975
+D1  - 06/1975
+SP  - 8
+KW  - High school seniors
+KW  - Student aspirations
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Coordinating Council
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1975
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon Educational Coordinating Council
+T1  - Class of 1974 post high school plans survey
+Y1  - 1974
+D1  - 02/1974
+SP  - 21
+KW  - High school seniors
+KW  - Student aspirations
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon Educational Coordinating Council
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1974
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Impact of Oregon education; an assessment of reading 1975,  Executive summary
+Y1  - 1975
+D1  - 12/1975
+KW  - Educational tests and measurements
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1975
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Evaluation of migrant education, Title I-M Programs in the State of Oregon, September 1974 - August 1975
+Y1  - 1976
+D1  - 02/1976
+SP  - 337
+KW  - Migrant education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1974-75
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+A2  - Northwest Regional Educational Laboratory
+T1  - Title IM ESEA, Oregon migrant education program, regular term 1975-76 educational impact report
+Y1  - 1977
+D1  - 01/1977
+SP  - 351
+KW  - Migrant education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Department of Education
+CY  - Portland, OR
+LA  - English
+CN  - 379.74 .O2 1977
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Governor's Task Force on Early Childhood Development
+T1  - Planning for Oregon’s future: making policies affecting children
+Y1  - 1976
+D1  - 12/1976
+SP  - 68
+KW  - Child welfare
+KW  - Child development
+N1  - On cover: "What is it that we have to do to let our children grow?"; Shelved in Cubberley Library Reading Room
+PB  - Governor's Task Force on Early Childhood Development
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1976
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State University. Department of Statistics
+T1  - Exploring the feasibility of using existing data as indicators of progress in Oregon education
+D1  - 1976?
+SP  - 127
+KW  - Educational tests and measurements
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State University
+CY  - Corvallis, OR
+LA  - English
+CN  - 379.74 .O2 1976
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon public high school  1969-70 graduates
+Y1  - 1970
+D1  - 08/1970
+SP  - 7
+KW  - High school graduates
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Projected enrollment Oregon public schools
+Y1  - 1970
+D1  - 9/1970
+KW  - School enrollment
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Projected average daily membership Oregon public schools
+Y1  - 1970
+D1  - 9/1970
+KW  - School attendance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon public and private high school graduates actual and projected
+Y1  - 1970
+D1  - 9/1970
+KW  - High school graduates
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Appropriations to the basic support school fund
+Y1  - 1970
+D1  - 10/1970
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon legislature
+D1  - 1971?
+SP  - 9
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1971
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Net enrollment summary, year ending June 30, 1970
+Y1  - 1970
+D1  - 08/1970
+KW  - School enrollment
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Average daily membership attending 1969-70
+Y1  - 1970
+D1  - 09/1970
+KW  - School attendance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Summary of budget elections intermediate education districts 1970-71 school year
+D1  - 1971?
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1971
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Intermediate education districts summary of budget elections 1970-71 school year
+Y1  - 1970
+D1  - 11/1970
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Summary of Oregon private and parochial schools 1969-1970
+Y1  - 1970
+D1  - 09/1970
+KW  - Private schools
+KW  - Church schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges percentage distribution of enrollment by major instructional program 1969-70
+D1  - 1970?
+KW  - School enrollment
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Summary of budget elections Oregon School districts 1970-71 school year
+Y1  - 1970
+D1  - 11/1970
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges student full-time equivalencies 1969-70
+D1  - 1970?
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges unduplicated student headcount -- 1969-70
+D1  - 1970?
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges enrollment distribution - all programs by institution, 1969-70
+D1  - 1970?
+KW  - Community colleges
+KW  - School enrollment
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges FTE increase by institution
+D1  - 1970?
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges FTE increase by instructional programs
+D1  - 1970?
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges approved operating costs - reimbursable only, 1969-70
+D1  - 1970?
+KW  - Community colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges approved operating cost comparison 1970-71 pre audit
+D1  - 1970?
+KW  - Community colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges total approved operating expenses - all programs 1969-70 pre-audit
+D1  - 1970?
+KW  - Community colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges approved operating costs - reimbursable programs 1969-70 pre-audit
+D1  - 1970?
+KW  - Community colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges analysis of operating cost - reimbursable programs 1969-70 pre-audit
+D1  - 1970?
+KW  - Community colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Oregon community colleges local tax levy 1969-70
+D1  - 1970?
+KW  - Community colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Oregon State Board of Education
+T1  - Summary of budget elections Oregon community colleges 1970-71 school year
+Y1  - 1970
+D1  - 11/1970
+KW  - Community colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oregon State Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.74 .O2 1970
+SC  - Oregon
+G1  - Postsecondary
+ER  -
