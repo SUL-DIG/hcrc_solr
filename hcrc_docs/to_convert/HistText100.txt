@@ -1,0 +1,1464 @@
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Graded course of the Milwaukee public schools, a manual of matter and method
+Y1  - 1903
+D1  - 05/1903
+SP  - 237
+KW  - Curricula
+KW  - Public schools
+ED  - 9th
+PB  - Milwaukee Pubic Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.83 .M66co 1903
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Courses sof study of the Milwaukee high schools
+Y1  - 1903
+D1  - 08/1903
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - Milwaukee Pubic Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.15 .M66co 1903
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - The high schools and their courses of study
+Y1  - 1911
+D1  - 01/1903
+SP  - 15
+KW  - Curricula
+KW  - High schools
+PB  - Milwaukee Pubic Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.15 .M66co 1911
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - The high schools and their courses of study
+Y1  - 1913
+D1  - 09/1903
+KW  - Curricula
+KW  - High schools
+PB  - Milwaukee Pubic Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.15 .M66co 1913
+SC  - Wisconsin
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Course of study
+Y1  - 1912
+D1  - 1912-1913
+SP  - 164
+KW  - Curricula
+KW  - Public schools
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.83 .M665c 1912
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Course of study
+Y1  - 1913
+D1  - 1913-1914
+SP  - 167
+KW  - Curricula
+KW  - Public schools
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.83 .M665c 1913
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Visiting teacher number
+Y1  - 1926
+D1  - 04/1926
+SP  - 70
+KW  - Visiting teachers
+T2  - Minneapolis Public Schools. Educational bulletin
+V1  - 9
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.1 .M665v 1926
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Teaching the fundamentals in Minneapolis
+Y1  - 1931
+D1  - 11/1931
+SP  - 94
+KW  - Curricula
+KW  - Public schools
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 375.83 .M665t 1931
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Missoula County (Montana) High School
+T1  - Preliminary announcement and course of study in the Missoula County High School
+Y1  - 1906
+D1  - 1906-1907
+SP  - 12
+KW  - Curricula
+KW  - Public schools
+PB  - Missoula County High School
+CY  - Missoula, MT
+LA  - English
+CN  - 375.82 .M671p 1906
+SC  - Montana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mitchell (South Dakota) Public Schools
+T1  - Manual of the public schools of the city of Mitchell, South Dakota
+Y1  - 1898
+D1  - 1898
+SP  - 29
+KW  - Curricula
+KW  - Public schools
+PB  - Mitchell Public Schools
+CY  - Mitchell, SD
+LA  - English
+CN  - 375.83 .M679m 1898
+SC  - South Dakota
+ER  - 
+
+TY  - BOOK
+A2  - Mitchell (South Dakota) Public Schools
+T1  - Manual of the public schools of the city of Mitchell, South Dakota
+Y1  - 1906
+D1  - 1906
+SP  - 160
+KW  - Curricula
+KW  - Public schools
+PB  - Mitchell Public Schools
+CY  - Mitchell, SD
+LA  - English
+CN  - 375.83 .M679m 1906
+SC  - South Dakota
+ER  - 
+
+TY  - BOOK
+A2  - Modoc County (California) Public Schools
+T1  - Manual of the public schools of Modoc County, comprising rules and regulations of the Board of Education, list of text-books in use, list of library books, courses of study, etc.
+Y1  - 1890
+D1  - 1890
+SP  - 60
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+CY  - Alturas, CA
+LA  - English
+CN  - 375.82 .M71m 1890
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Modoc County (California) Public Schools
+T1  - Course of study for the public schools of Modoc County, California
+Y1  - 1895
+D1  - 1895
+SP  - 19
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+CY  - Alturas, CA
+LA  - English
+CN  - 375.82 .M71c 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Modoc County (California) Public Schools
+T1  - Course of study for the public schools of Modoc County
+Y1  - 1915
+D1  - 06/1915
+SP  - 95
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+CY  - Alturas, CA
+LA  - English
+CN  - 375.82 .M71c 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Modoc County (California) Public Schools
+T1  - Manual and course of study for the public schools of Modoc County, California
+Y1  - 1931
+D1  - 06/1931
+SP  - 44
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+CY  - Alturas, CA
+LA  - English
+CN  - 375.82 .M71m 1931
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Modoc County (California) Public Schools
+T1  - Manual and course of study for the public schools of Modoc County, California
+Y1  - 1927
+D1  - 07/1927
+SP  - 96
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+CY  - Alturas, CA
+LA  - English
+CN  - 375.82 .M71m 1927
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Modoc County (California) Public Schools
+T1  - Manual of the public schools of Modoc County, California, containing the course of study suggestive to teachers, rules for graduation, and the rules and regulations of the Board of Education
+Y1  - 1909
+D1  - 07/1909
+SP  - 75
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+CY  - Alturas, CA
+LA  - English
+CN  - 375.82 .M71m 1909
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Modoc County (California) Public Schools
+T1  - Manual of the public schools of Modoc County, California, containing the course of study suggestive to teachers, rules for graduation, and the rules and regulations of the Board of Education
+Y1  - 1912
+D1  - 07/1912
+SP  - 90
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+CY  - Alturas, CA
+LA  - English
+CN  - 375.82 .M71m 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mono County (California) Public Schools
+T1  - Manual for the public schools of Mono County, California, containing rules of Board of Education, rules for examination of teachers, course of study, suggestions to teachers, etc., etc.
+Y1  - 1908
+D1  - 05/1908
+SP  - 40
+KW  - Curricula
+KW  - Public schools
+PB  - Modoc County Public Schools
+LA  - English
+CN  - 375.82 .M72m 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mono County (California) Public Schools
+T1  - Manual for the public schools of Mono County, California, containing rules of Board of Education, rules for examination of teachers, course of study, suggestions to teachers, etc., etc.
+Y1  - 1898
+D1  - 06/1898
+SP  - 28
+KW  - Curricula
+KW  - Public schools
+PB  - Mono County Public Schools
+LA  - English
+CN  - 375.82 .M72m 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mono County (California) Public Schools
+T1  - Manual for the public schools of Mono County, California, containing rules of Board of Education, rules for examination of teachers, course of study, suggestions to teachers, etc., etc.
+Y1  - 1913
+D1  - 05/1913
+SP  - 50
+KW  - Curricula
+KW  - Public schools
+PB  - Mono County Public Schools
+CY  - Bridgeport, CA
+LA  - English
+CN  - 375.82 .M72m 1913
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mono County (California) Public Schools
+T1  - Manual for the public schools of Mono County, California, containing rules of Board of Education, rules for examination of teachers, course of study, suggestions to teachers, etc., etc.
+Y1  - 1917
+D1  - 05/191
+SP  - 50
+KW  - Curricula
+KW  - Public schools
+PB  - Mono County Public Schools
+LA  - English
+CN  - 375.82 .M72m 1917
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Mono County (California) Public Schools
+T1  - Course of study
+Y1  - 1927
+D1  - 1927-1928
+SP  - 10
+KW  - Curricula
+KW  - Public schools
+PB  - Mono County Public Schools
+LA  - English
+CN  - 375.82 .M72c 1927
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monmouth (Illinois) Public Schools
+T1  - The Monmouth High School
+Y1  - 1903
+D1  - 1903-1904
+SP  - 8
+KW  - Curricula
+KW  - High schools
+PB  - Monmouth Public Schools
+CY  - Monmouth, IL
+LA  - English
+CN  - 375.15 .M715m 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Monrovia (California) Public Schools
+T1  - Monrovia High School manual and course of study
+Y1  - 1922
+D1  - 1922-1923
+SP  - 32
+KW  - Curricula
+KW  - High schools
+PB  - Monrovia Public Schools
+CY  - Monrovia, CA
+LA  - English
+CN  - 375.15 .M73m 1922
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Monrovia (California) Public Schools
+T1  - Monrovia Union High School manual and course of study
+Y1  - 1923
+D1  - 1923-1924
+SP  - 35
+KW  - Curricula
+KW  - High schools
+PB  - Monrovia Public Schools
+CY  - Monrovia, CA
+LA  - English
+CN  - 375.15 .M73m 1923
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Montclair (New Jersey) Public Schools
+T1  - Montclair Junior High School - course of study
+Y1  - 1917
+D1  - 1917
+SP  - 30
+KW  - Curricula
+KW  - Junior high schools
+PB  - Montclair Public Schools
+CY  - Montclair, NJ
+LA  - English
+CN  - 375.14 .M765c 1917
+SC  - New Jersey
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Montclair (New Jersey) Public Schools
+T1  - Montclair High School - curricula
+Y1  - 1918
+D1  - 1918-1919
+KW  - Curricula
+KW  - High schools
+PB  - Montclair Public Schools
+CY  - Montclair, NJ
+LA  - English
+CN  - 375.15 .M765c 1918
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Montclair (New Jersey) Public Schools
+T1  - Montclair Elementary School - course of study
+Y1  - 1917
+D1  - 1917
+SP  - 35
+KW  - Curricula
+KW  - Elementary education
+PB  - Montclair Public Schools
+CY  - Montclair, NJ
+LA  - English
+CN  - 375.13 .M765c 1917
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Manual for the public schools of Monterey County, Cal., containing course of study, suggestions to teachers and miscellaneous matters
+Y1  - 1885
+D1  - 1885
+SP  - 48
+KW  - Curricula
+KW  - Public schools
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.82 .M77m 1885
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Manual for the public schools of Monterey County, California, containing course of study, suggestions to teachers and miscellaneous matters
+Y1  - 1889
+D1  - 1889
+SP  - 70
+KW  - Curricula
+KW  - Public schools
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.82 .M77m 1889
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Manual for the public schools of Monterey County, Cal., containing course of study, suggestions to teachers and miscellaneous matters
+Y1  - 1893
+D1  - 06/1893
+SP  - 79
+KW  - Curricula
+KW  - Public schools
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.82 .M77m 1893
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Amendment to course of study
+Y1  - 1891
+D1  - 07/1891
+SP  - 9
+KW  - Curricula
+KW  - Public schools
+PB  - Monterey County Public Schools
+LA  - English
+CN  - 375.82 .M77a 1891
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Course of study for the public schools of Monterey County, Cal., containing course of study, suggestions to teachers and miscellaneous matters
+Y1  - 1897
+D1  - 06/1897
+SP  - 73
+KW  - Curricula
+KW  - Public schools
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.82 .M77c 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Course of study for the public schools of Monterey County, California
+Y1  - 1903
+D1  - 06/1903
+SP  - 29
+KW  - Curricula
+KW  - Public schools
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.82 .M77c 1903
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Course of study and rules and regulations
+Y1  - 1911
+D1  - 06/1911
+SP  - 96
+KW  - Curricula
+KW  - Public schools
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.82 .M77c 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Curriculum
+Y1  - 1961
+D1  - 1961-1962
+KW  - Curricula
+KW  - Elementary education
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.15 .M77c 1961
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Public Schools
+T1  - Curriculum
+Y1  - 1961
+D1  - 1961-1962
+KW  - Curricula
+KW  - Elementary education
+N1  - Pages that were replaced by revisions.
+PB  - Monterey County Public Schools
+CY  - Salinas, CA
+LA  - English
+CN  - 375.15 .M77c 1961a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery (Alabama) Public Schools
+T1  - Course of study - Sidney Lanier High School
+Y1  - 1918
+D1  - 1918
+SP  - 19
+KW  - Curricula
+KW  - High schools
+PB  - Montgomery Public Schools
+CY  - Montgomery, AL
+LA  - English
+CN  - 375.15 .M779c 1918
+SC  - Alabama
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Public Schools
+T1  - The high school curriculum: a guidebook for parents and students
+Y1  - 1935
+D1  - 03/1935
+SP  - 46
+KW  - Curricula
+KW  - High schools
+N1  - Bulletin no. 17, March 4, 1935
+T2  - Montpelier Public Schools. Bulletin
+V1  - 17
+PB  - Montpelier Public Schools
+CY  - Montpelier, VT
+LA  - English
+CN  - 375.15 .M79h 1935
+SC  - Vermont
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Friends' High School and Kindergarten (Moorestwon, New Jersey)
+T1  - Friends' High School and Kindergarten [catalogue]
+Y1  - 1897
+D1  - 1897
+SP  - 24
+KW  - Curricula
+KW  - Society of Friends
+PB  - Friends Book Association
+CY  - Philadelphia, PA
+LA  - English
+CN  - 373.2 .F885f 1897
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Murphysboro (Illinois) Public Schools. Murphysboro Township High School
+T1  - Second annual catalog
+Y1  - 1902
+D1  - 1902-1903
+SP  - 22
+KW  - Curricula
+KW  - High schools
+PB  - Murphysboro Township High School
+CY  - Murphysboro, IL
+LA  - English
+CN  - 375.15 .M975c 1902
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Mulnomah County (Oregon) Public Schools. School District Number ONe
+T1  - Course of study
+Y1  - 1912
+D1  - 1912-1913
+SP  - 135
+KW  - Curricula
+KW  - Public schools
+PB  - Mulnomah County Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.82 .M955c 1912
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Nampa (Idaho) Independent School District No. 37
+T1  - [School forms]
+KW  - School records and correspondence
+N1  - Various school forms including "The teacher's daily plan book," contract, teacher's record, requisition, purchase order, substitute teaching record, application blank, teachers' reference blank, comparison of slow and rapid pupils, attendance record, absent report, notice of failing work, high school report card, "Welch loose leaf pocket class record," expulsion notice, "Permanent-final record," enrollment blank, report of enrollment, health report, transfer card, monthly report of the city school nurse, graded school final record.
+PB  - Nampa Independent School District
+CY  - Nampa, ID
+LA  - English
+CN  - 379.24 .N18s
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Suggestions to teachers and graded course of study with the rules and regulations of the public schools and board of education of Napa County
+Y1  - 1881
+D1  - 1881
+SP  - 80
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19s 1881
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Revised course of study for the public schools of Napa County and rules and regulations of Board of Education
+Y1  - 1887
+D1  - 1887
+SP  - 8
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19r 1887
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Manual for the public schools of Napa County, California, containing the course of study, suggestions to teachers, and rules and regulations of the county Board of Education
+Y1  - 1880
+D1  - 06/1880
+SP  - 16
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19m 1880
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Manual for the public schools of Napa County, California, containing the course of study, suggestions to teachers, and rules and regulations of the county Board of Education
+Y1  - 1894
+D1  - 06/1894
+SP  - 16
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19m 1894
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Course of study for the public schools of Napa County
+Y1  - 1898
+D1  - 06/1898
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19c 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Manual for the public schools of Napa County, California, containing the course of study, suggestions to teachers, and rules and regulations of the county Board of Education
+Y1  - 1899
+D1  - 06/1899
+SP  - 50
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19m 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Outline of studies - primary and grammar schools
+Y1  - 1901
+D1  - 1901
+SP  - 27
+KW  - Curricula
+KW  - Elementary educaion
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.13 .N19o 1901
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Napa County supplement to the course of study
+Y1  - 1903
+D1  - 07/1903
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19c 1903
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Manual for the public schools of Napa County, California, containing the course of study, suggestions to teachers, and rules and regulations of the county Board of Education
+Y1  - 1912
+D1  - 06/1912
+SP  - 59
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19m 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Course of study
+Y1  - 1915
+D1  - 1915
+SP  - 72
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19c 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Manual for the public schools of Napa County, California, containing the course of study, suggestions to teachers, and rules and regulations of the county Board of Education
+Y1  - 1924
+D1  - 06/1924
+SP  - 64
+KW  - Curricula
+KW  - Public schools
+PB  - Napa County Public Schools
+CY  - Napa, CA
+LA  - English
+CN  - 375.82 .N19m 1924
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Nashua (New Hampshire) Board of Education
+T1  - Organization of the Borad of Education of the city of Nashua for the year 1912 with a list of members and committees, schools and teachers
+Y1  - 1912
+D1  - 1912
+SP  - 11
+KW  - School boards
+PB  - Nashua Board of Education
+CY  - Nashua, NH
+LA  - English
+CN  - 379.153 .N255o 1912
+SC  - New Hampshire
+ER  - 
+
+TY  - BOOK
+A2  - New Trier Township (Illinois) High Schools
+T1  - Year book
+Y1  - 1903
+D1  - 1903-1904
+SP  - 35
+KW  - Curricula
+KW  - High schools
+PB  - New Trier Township High Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375.15 .N531y 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk County (Virginia) Public Schools
+T1  - Course of study in the public schools of the city of Norfolk, VA. together with the rules, regulations and by-laws of the city school board
+Y1  - 1901
+D1  - 07/1901
+SP  - 41
+KW  - Curricula
+KW  - Public schools
+PB  - Norfolk County Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 375.83 .N83c 1901
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk County (Virginia) Public Schools
+T1  - Course of study in the public schools of the city of Norfolk, VA. covering a period of seven years
+Y1  - 1906
+D1  - 09/1906
+SP  - 24
+KW  - Curricula
+KW  - Public schools
+PB  - Norfolk County Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 375.83 .N83c 1906
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk County (Virginia) Public Schools
+T1  - Course of study for the public elementary schools of the city of Norfolk, VA
+Y1  - 1909
+D1  - 1909/1910
+SP  - 72
+KW  - Curricula
+KW  - Public schools
+PB  - Norfolk County Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 375.13 .N83c 1909
+SC  - Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Norfolk County (Virginia) Public Schools
+T1  - Course of study for the public elementary schools of the city of Norfolk, VA
+Y1  - 1923
+D1  - 09/1923
+SP  - 431
+KW  - Curricula
+KW  - Public schools
+PB  - Norfolk County Public Schools
+CY  - Norfolk, VA
+LA  - English
+CN  - 375.13 .N83c 1923
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - New Trier Township (Illinois) High Schools
+T1  - Year book
+Y1  - 1914
+D1  - 1914-1915
+SP  - 78
+KW  - Curricula
+KW  - High schools
+PB  - New Trier Township High Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375.15 .N531y 1914
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - Course of study for elementary schools, boroughs of Manhattan and the Bronx
+Y1  - 1901
+D1  - 1901
+SP  - 48
+KW  - Curricula
+KW  - Elementary education
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .N532c 1901
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - Manual of the kindergarten
+Y1  - 1897
+D1  - 03/1897
+SP  - 24
+KW  - Curricula
+KW  - Elementary education
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .N532m 1897
+SC  - New York
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - A manual of discipline and instruction for the use of the teachers of the primary and grammar schools
+Y1  - 1873
+D1  - 1873
+SP  - 166
+KW  - Curricula
+KW  - Elementary education
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .N532m 1873
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - The Stuyvesant High School
+D1  - 1908?
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.15 .N532s
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - Syllabus for high schools: economics
+Y1  - 1912
+D1  - 12/1912
+SP  - 7
+KW  - Curricula
+KW  - Economics
+KW  - High schools
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 330 .N532s
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - High schools girls' classes - course of study in household science and art
+Y1  - 1914
+D1  - 1914
+KW  - Curricula
+KW  - Home economics
+KW  - Art education
+KW  - High schools
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.15 .N532h 1914
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - High schools general four year
+Y1  - 1908
+D1  - 1908
+KW  - Curricula
+KW  - High schools
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.15 .N532h 1908
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - Requirements for graduation from high schools
+Y1  - 1917
+D1  - 1917
+KW  - Curricula
+KW  - High schools
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.15 .N532r 1917
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newark (New Jersey) Board of Education
+T1  - Course of study for elementary schools
+Y1  - 1908
+D1  - 09/1908
+SP  - 180
+KW  - Curricula
+KW  - Elementary education
+PB  - Newark Board of Education
+CY  - Newark, NJ
+LA  - English
+CN  - 375.13 .N533c 1908
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Newark (New Jersey) Board of Education. Newark Technical School
+T1  - Book of information
+Y1  - 1912
+D1  - 1912-1913
+SP  - 71
+KW  - Curricula
+KW  - Technical education
+PB  - Newark Board of Education
+CY  - Newark, NJ
+LA  - English
+CN  - 375.15 .N533b 1912
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools. Newton High School
+T1  - Courses of study
+Y1  - 1901
+D1  - 04/1901
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - Newton High School
+CY  - Newton, MA
+LA  - English
+CN  - 375.15 .N56c 1901
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newport (Rhode Island) Public Schools
+T1  - Catalogue of Rogers High School and report of head master
+Y1  - 1902
+D1  - 1902-1903
+SP  - 25
+KW  - Curricula
+KW  - High schools
+PB  - Newport Public Schools
+CY  - Newport, RI
+LA  - English
+CN  - 375.15 .N54c 1903
+SC  - Rhode Island
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newport News (Virginia) Public Schools
+T1  - Course of study for the public schools of Newport News, Virginia together with the rules governing the schools
+Y1  - 1906
+D1  - 09/1906
+SP  - 91
+KW  - Curricula
+KW  - Public schools
+PB  - Newport News Public Schools
+CY  - Newport News, VA
+LA  - English
+CN  - 375.83 .N545c 1906
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools. Newton High Schools
+T1  - Courses of study....teachers, information for parents and pupils
+Y1  - 1909
+D1  - 04/1909
+SP  - 41
+KW  - Curricula
+KW  - High schools
+PB  - Newton High School
+CY  - Newton, MA
+LA  - English
+CN  - 375.15 .N56c 1909
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools. Newton High Schools
+T1  - Courses of study....teachers, information for parents and pupils
+Y1  - 1910
+D1  - 06/1910
+SP  - 49
+KW  - Curricula
+KW  - High schools
+PB  - Newton High School
+CY  - Newton, MA
+LA  - English
+CN  - 375.15 .N56c 1910
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Charles Swain
+A2  - Newton (Massachusetts) Public Schools.
+T1  - The English course of the Newton High School
+Y1  - 1910
+D1  - 1910
+SP  - 15
+KW  - Curricula
+KW  - High schools
+PB  - Newton High School
+CY  - Newton, MA
+LA  - English
+CN  - 375.15 .N56e 1910
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools.
+T1  - Courses of study: Newton High School, Technical High School, Vocational High School
+Y1  - 1916
+D1  - 03/1916
+SP  - 13
+KW  - Curricula
+KW  - High schools
+PB  - Newton High School
+CY  - Newton, MA
+LA  - English
+CN  - 375.15 .N56c 1916
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newport News (Virginia) Public Schools
+T1  - Course of study for the public schools of Newport News, Virginia
+Y1  - 1916
+D1  - 05/1916
+SP  - 43
+KW  - Curricula
+KW  - Public schools
+PB  - Newport News Public Schools
+CY  - Newport News, VA
+LA  - English
+CN  - 375.83 .N545c 1916
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Newton (Massachusetts) Public Schools.
+T1  - Courses of study: Newton High School, Technical High School, Vocational High School
+Y1  - 1916
+D1  - 03/1916
+SP  - 13
+KW  - Curricula
+KW  - High schools
+PB  - Newton High School
+CY  - Newton, MA
+LA  - English
+CN  - 375.15 .N56c 1916
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newport News (Virginia) Public Schools
+T1  - The Newport News High School : aim, scope and methods
+D1  - 1918?
+SP  - 23
+KW  - Curricula
+KW  - Public schools
+PB  - Newport News Public Schools
+CY  - Newport News, VA
+LA  - English
+CN  - 375.83 .N545n
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Normal (Illinois) Public Schools
+T1  - Superintendent's report and high school course of study with the rules and regulations of the public schools
+Y1  - 1902
+D1  - 07/1902
+SP  - 58
+KW  - Curricula
+KW  - High schools
+PB  - Normal Public Schools
+CY  - Normal, IL
+LA  - English
+CN  - 375.15 .N835s 1902
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Britain (Connecticut) Public High School
+T1  - Courses of study and practice
+Y1  - 1916
+D1  - 1916
+SP  - 15
+KW  - Curricula
+KW  - High schools
+PB  - New Britain Public High School
+CY  - New Britain, CT
+LA  - English
+CN  - 375.15 .N50c 1916
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oak Park and River Forest Township (Illinois) High School
+T1  - Regulations and suggestions for guidance in making out study lists for 1922-1923
+Y1  - 1922
+D1  - 1922-1923
+KW  - Curricula
+KW  - High schools
+PB  - Oak Park and River Forest Township High School
+CY  - Oak Park, IL
+LA  - English
+CN  - 375.15 .O10r 1922
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oak Park and River Forest Township (Illinois) High School
+T1  - Guide to prospective pupils (and their parents) in making up their list if studies for the first year in the high school, January 1923
+Y1  - 1923
+D1  - 01/1923
+KW  - Curricula
+KW  - High schools
+PB  - Oak Park and River Forest Township High School
+CY  - Oak Park, IL
+LA  - English
+CN  - 375.15 .O10g 1923
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oak Park and River Forest Township (Illinois) High School
+T1  - Second report of the township high school Board of Education
+Y1  - 1902
+D1  - 1902
+SP  - 51
+KW  - Curricula
+KW  - High schools
+KW  - School boards
+PB  - Oak Park and River Forest Township High School
+CY  - Oak Park, IL
+LA  - English
+CN  - 375.15 .O10r 1902
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Board of Education
+T1  - The music department
+Y1  - 1914
+D1  - 10/1914
+KW  - Music in education
+T2  - Oakland Board of Education. Information circular
+V1  - 6
+PB  - Oakland Board of Education
+CY  - Oakland, CA
+LA  - English
+CN  - 780 .O11m 1914
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ogden (Utah) Public Schools
+T1  - Course of study of the high school, Ogden City, Utah
+Y1  - 1902
+D1  - 1902-1903
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Ogden Public Schools
+CY  - Ogden, NY
+LA  - English
+CN  - 375.15 .O34c 1902
+SC  - Utah
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oak Park and River Forest Township (Illinois) High School
+T1  - Report of the manual training department
+Y1  - 1908
+D1  - 1908
+SP  - 16
+KW  - Curricula
+KW  - High schools
+KW  - Manual training
+PB  - Oak Park and River Forest Township High School
+CY  - Oak Park, IL
+LA  - English
+CN  - 375.15 .O10r 1908
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oak Park and River Forest Township (Illinois) High School
+T1  - Course book
+Y1  - 1909
+D1  - 1909
+SP  - 95
+KW  - Curricula
+KW  - High schools
+PB  - Oak Park and River Forest Township High School
+CY  - Oak Park, IL
+LA  - English
+CN  - 375.15 .O10c 1909
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Courses of study for use during school year 1928-1929
+Y1  - 1928
+D1  - 08/1928
+SP  - 11
+KW  - Curricula
+KW  - Public schools
+T2  - Oakland Public Schools. Supplement to Superintendent's bulletin
+V1  - 9
+IS  - 2
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 375.83 .O11c 1928
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ogden (Utah) Public Schools
+T1  - Manual of the public schools of Ogden City, Utah
+Y1  - 1899
+D1  - 1899-1900
+SP  - 108
+KW  - Curricula
+KW  - Public schools
+PB  - Ogden Public Schools
+CY  - Ogden, NY
+LA  - English
+CN  - 375.83 .O34m 1899
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Ogden (Utah) Public Schools
+T1  - Announcement the Ogden High School
+Y1  - 1911
+D1  - 08/1911
+SP  - 23
+KW  - Curricula
+KW  - High schools
+PB  - Ogden Public Schools
+CY  - Ogden, NY
+LA  - English
+CN  - 375.15 .O34a 1911
+SC  - Utah
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ogden (Utah) Public Schools
+T1  - Course of study
+Y1  - 1912
+D1  - 1912-1913
+SP  - 132
+KW  - Curricula
+KW  - Public schools
+PB  - Ogden Public Schools
+CY  - Ogden, NY
+LA  - English
+CN  - 375.83 .O34c 1912
+SC  - Utah
+ER  - 
+
