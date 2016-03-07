@@ -1,0 +1,631 @@
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Pennsylvania's flying classes
+D1  - 1951?
+SP  - 26
+KW  - Aeronautics in education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1951
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Increased social opportunity through community planning Suggested plans for organization and direction of a community council for education and recreation.
+Y1  - 1936
+D1  - 1936
+SP  - 36
+KW  - Adult education
+KW  - Community centers
+KW  - Regional planning
+N1  - "This bulletin is the result of a series of joint conferences of the National Youth Administration, the Works Progress Administration, and the Department of Public Instruction. It was prepared by Miss Rachel S. Turner, Assistant Director, Education Division, Works Progress Administration."--Foreword./ Includes bibliographical references (pages 29-34).; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1936
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - The program; Department of Public Instruction, Commonwealth of Pennsylvania comprising practical philosophy, present program and advancing frontiers of public education
+Y1  - 1936
+D1  - 10/1936
+SP  - 50
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1936
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - Per-pupil cost of vocational and general education programs in the public schools
+Y1  - 1949
+D1  - 02/1949
+SP  - 23
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1949
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Suggestions for developing units of study in motion picture appreciation
+Y1  - 1935
+D1  - 04/1935
+SP  - 19
+KW  - Motion pictures in education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 98
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1935
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Educational Costs Survey Commission
+T1  - Report of the educational costs survey committee functioning under the provisions of act 420
+Y1  - 1935
+D1  - 07/1935
+SP  - 203
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Educational Costs Survey Commission
+LA  - English
+CN  - 379.74 .P1 1935
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Parent education a manual of suggestions to aid school authorities in developing a program of parent-pupil-teacher relationships
+Y1  - 1935
+D1  - 1935
+SP  - 50
+KW  - Adult education
+KW  - Parent and child
+KW  - Child development
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 86
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1935
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - 100 years of free public schools in Pennsylvania 1834-1934
+Y1  - 1934
+D1  - 01/1934
+SP  - 107
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1934
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Cumulative pupil personnel records elementary and secondary schools
+Y1  - 1933
+D1  - 1933
+SP  - 23
+KW  - School children
+KW  - Secondary education
+Kw  - Elementary education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 81
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1933
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Concrete learning
+Y1  - 1931
+D1  - 1931
+SP  - 96
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 64
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1931
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Standards for the classification of secondary schools
+Y1  - 1931
+D1  - 09/1931
+SP  - 120
+KW  - High schools
+KW  - Junior high schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 59
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1931
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Classification of public secondary schools
+Y1  - 1931
+D1  - 1931
+SP  - 143
+KW  - High schools
+KW  - Junior high schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 27
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1931
+SC  - Pennsylvania
+G1  - Middle school
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Pennsylvania day
+Y1  - 1930
+D1  - 1930
+SP  - 51
+KW  - Holidays
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1930
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Pennsylvania day  March 2, 1928
+Y1  - 1928
+D1  - 1928
+SP  - 52
+KW  - Holidays
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1928
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Proceedings of annual conference of school superintendents and normal school principals
+Y1  - 1927
+D1  - 11/1927
+SP  - 39
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1927
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Eisenberg, John Linwood
+A2  - Pennsylvania. Board of normal school principals. Curricular revision committee
+T1  - Report of the General Curricular Revision Committee to the Board of Normal School Principals March 18 & 19, 1926
+Y1  - 1926
+D1  - 03/1926
+SP  - 82
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Board of normal school principals Curricular revision committee.
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1926
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Home classes for Foreign-born mothers
+Y1  - 1926
+D1  - 08/1926
+SP  - 8
+KW  - Education
+KW  - Emigration and immigration
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction educational monographs
+V1  - 1
+IS  - 3
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1926
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Classification of secondary schools 1924-1925
+Y1  - 1925
+D1  - 11/1925
+SP  - 38
+KW  - High schools
+KW  - Junior high schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 27
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1925
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Second annual Pennsylvania music week official announcement
+Y1  - 1923
+D1  - 1923
+SP  - 16
+KW  - Music
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1923
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Manual for borough and township high schools in Pennsylvania
+Y1  - 1914
+D1  - 1914
+SP  - 123
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+ED  - 2nd rev
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1914
+SC  - Pennsylvania
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Educational Association
+T1  - Report on rural schools
+Y1  - 1914
+D1  - 12/1914
+SP  - 103
+KW  - Rural schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Educational Association
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1914
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Illiteracy, non-English-Speaking and alien problems of Pennsylvania
+Y1  - 1925
+D1  - 1925
+SP  - 46
+KW  - Emigration and immigration
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1925
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Proceedings of the Annual Meeting of the Board of Principals of the State Normal Schools of Pennsylvania held in the House Caucus Room of the State Capital Harrisburg
+Y1  - 1913
+D1  - 11/1913
+SP  - 25
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1913
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Board of Education
+T1  - Preliminary bulletin of one room school buildings issued by the State Board of Education
+Y1  - 1913
+D1  - 1913
+SP  - 13
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Board of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1913
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - A list of high schools in the several counties of the State of Pennsylvania as reported by the superintendents of schools and classified by the Department of Public Instruction for the school year ending on the first Monday of July, 1913
+Y1  - 1913
+D1  - 1913
+SP  - 20
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1913
+SC  - Pennsylvania
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Biennial report on higher education in Pennsylvania
+Y1  - 1900
+D1  - 1900
+SP  - 226
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1900
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Public Education Association of Philadelphia
+T1  - The organization and financial powers of the Department of Education with special reference to the needs of Philadelphia's educational system
+Y1  - 1900
+D1  - 1900
+SP  - 59
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Public Education Association of Philadelphia
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1900
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - The Pennsylvania Conference on Education April 14 and 15, 1955 called by the Honorable George M. Leader, Governor of Pennsylvania, in preparartion for the White House Conference.
+Y1  - 1955
+D1  - 04/1955
+SP  - 201
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1955
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+A2  - Pennsylvania Cooperative Program in Educational Administration
+T1  - A report of activities and researches 1951-1955
+Y1  - 1955
+D1  - 12/1955
+SP  - 36
+KW  - Public schools
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1955
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+A2  - Pennsylvania Cooperative Program in Educational Administration
+T1  - Report 1954-55
+Y1  - 1955
+D1  - 09/1955
+SP  - 55
+KW  - Public schools
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1955
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Education Association
+T1  - Education in Pennsylvania today and tomorrow, a report by the committee of fifteen
+Y1  - 1958
+D1  - 12/1958
+SP  - 123
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Education Association
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1958
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Mathematics, science and foreign languages in Pennsylvania public secondary schools, 1958-1959
+Y1  - 1959
+D1  - 07/1959
+SP  - 28
+KW  - Mathematics
+KW  - Science
+KW  - Modern languages
+KW  - School census
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction research studies and reports series
+V1  - 5
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1959
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Report of degree granting institutions to the State Council of Education
+Y1  - 1938
+D1  - 1938
+SP  - 75
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - Pennsylvania high school seniors, 1958 : their mental ability, their aspirations, their post-high school activities ; a technical supplement
+Y1  - 1959
+D1  - 1959
+SP  - 23
+KW  - High school seniors
+N1  - Genre/Form: Statistics.; Note(s): Includes bibliographical references (page 23).; Responsibility: a report of the Joint State Government Commission.; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1959
+SC  - Pennsylvania
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - Public school attendance areas a report
+Y1  - 1951
+D1  - 1951
+SP  - 53
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1951
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - Public school building subsidies : a report
+Y1  - 1955
+D1  - 1955
+SP  - 45
+KW  - School finance
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1955
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - Public school pupil transportation : a report
+Y1  - 1953
+D1  - 1953
+SP  - 44
+KW  - School children
+N1  -  Responsibility: of the Joint State Government Commission to the General Assembly of the Commonwealth of Pennsylvania, session of 1953; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1953
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - State and local support of public education; a report of the Joint State Government Commission to the General Assembly of the Commonwealth of Pennsylvania, session of 1953
+Y1  - 1953
+D1  - 1953
+SP  - 121
+KW  - Education and state
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1953
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Tax Equalization Board
+T1  - School subsidies : Pennsylvania's program for state support of public education
+Y1  - 1954
+D1  - 12/1954
+SP  - 42
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Tax Equalization Board
+CY  - Harrisburg PA
+LA  - English
+CN  - 379.74 .P1 1954
+SC  - Pennsylvania
+ER  - 
