@@ -1,0 +1,604 @@
+
+TY  - BOOK
+A1  - Ade, Lester K.
+A2  - Pennsylvania. Department of Public Instruction
+T1  - The professional status of teachers
+Y1  - 1939
+D1  - 1939
+SP  - 99
+KW  - Teachers
+KW  - Teacher certification
+KW  - Teachers colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 150
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Klonower, Henry
+A1  - Kriner, Harry Luther
+A1  - Williams, Clarence Oscar
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Teacher placement : a phase of teacher education
+Y1  - 1939
+D1  - 1939
+SP  - 31
+KW  - Teachers
+N1  - 31 pages : illustrations, forms : 23 cm.; Note(s): Prepared by Dr. Henry Klonower with the assistance of Dr. Harry L. Kriner and Dr. C.O. Williams. cf. Foreword./ Selected bibliography: pages 30-31.; Responsibility: Lester K. Ade, Superintendent of Public Instruction. Commonwealth of Pennsylvania, Department of Public Instruction, Harrisburg, 1939; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 152
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1  1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Klonower, Henry
+A1  - Kriner, Harry Luther
+A1  - Williams, Clarence Oscar
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Educational standards for teachers in Pennsylvania
+Y1  - 1939
+D1  - 1939
+SP  - 114
+KW  - Teachers
+KW  - Pennsylvania
+N1  - 114 pages : illustrations, forms ; 23 cm.; Note(s): By Dr. Henry Klonower, Dr. Harry L. Kriner and Dr. C.O. Williams. cf. Foreword.; Responsibility: Lester K. Ade, Superintendent of Public Instruction. Commonwealth of Pennsylvania, Department of Public Instruction, Harrisburg, 1939; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 154
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Home and school visitor manual
+Y1  - 1939
+D1  - 1939
+SP  - 94
+KW  - Education
+KW  - Child rearing
+KW  - Parent and child
+N1  - 94 pages : illustrations ; 23 cm.; Note(s): "Prepared by Dr. Carl D. Morneweck and Dr. T. Ernest Newland, assisted by Mrs. Leona Savage and Mr. James E. Wagner, and edited by Mr. Eugene P. Bertin./ Includes bibliographical references.; Other Titles: School visitor manual; Responsibility: Commonwealth of Pennsylvania, Department of Public Instruction; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 72
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Analysis of the school load in Pennsylvania in terms of enrolment and census enumeration
+Y1  - 1939
+D1  - 1939
+SP  - 51
+KW  - School enrollment
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 75
+IS  - 18
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Handbook for school districts of the fourth class
+Y1  - 1939
+D1  - 1939
+SP  - 47
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 116
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Klonower, Henry
+A1  - Kriner, Harry Luther
+A1  - Williams, Clarence Oscar
+A2  - Pennsylvania. Department of Public Instruction
+T1  - In-service education of teachers
+Y1  - 1939
+D1  - 1939
+SP  - 23
+KW  - Teachers
+N1  - 23 pages ; 23 cm.; Note(s): Dr. Henry Klonower, Dr. Henry L. Kriner and Dr. C.O. Williams. cf. Foreword./ "Selected bibliography": page 23.; Responsibility: Dr. Lester K. Ade, Superintendent of Public Instruction. Commonwealth of Pennsylvania, Department of Public Instruction, Harrisburg, 1939; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 155
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Klonower, Henry
+A1  - Kriner, Harry Luther
+A1  - Williams, Clarence Oscar
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Suggestions for the conduct of meetings of teachers
+Y1  - 1939
+D1  - 1939
+SP  - 22
+KW  - Teachers' institutes
+N1  - 22 pages ; 23 cm.; Note(s): Prepared by Dr. Henry Klonower with the assistance of Dr. Harry L. Kriter and Dr. C.O. Williams. cf Foreword.; Responsibility: Lester K. Ade, Superintendent of Public Instruction. Commonwealth of Pennsylvania, Department of Public Instruction, Harrisburg, 1939; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 151
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Klonower, Henry
+A1  - Kriner, Harry Luther
+A1  - Williams, Clarence Oscar
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Institutions of higher learning in relation to a state program of teacher education
+Y1  - 1939
+D1  - 1939
+SP  - 29
+KW  - Higher education
+KW  - Teachers
+N1  - 29 pages ; 23 cm.; Note(s): By Dr. Henry Klonower, Dr. Harry L. Kriner, and Dr. C.O. Williams. cf. Foreword.; Responsibility: Dr. Lester K. Ade, Superintendent of Public Instruction. Commonwealth of Pennsylvania, Department of Public Instruction, Harrisburg, 1939; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 156
+PB  - Pennsylvania Department of Public Instruction
+CY  - Philadelphia, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Standards for the education and certification of administrative and supervisory officers (a summary of the Acts of the Legislature and regulations of the State council of education) ... Lester K. Ade, superintendent of public instruction. Commonwealth of Pennsylvania ; Department of public instruction, Harrisburg, 1939
+Y1  - 1939
+D1  - 1939
+SP  - 16
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 158
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+A2  - Pennsylvania Historical Commission
+T1  - Conserving Pennsylvania's historic past
+Y1  - 1939
+D1  - 1939
+SP  - 20
+KW  - Monuments
+KW  - History
+N1  - 20 pages : illustrations ; 27 cm.; Genre/Form: History.; Responsibility: Commonwealth of Pennsylvania, Department of Public Instruction, the Pennsylvania Historical Commission; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 773
+T2  - Pennsylvania Historical Commission bulletin
+V1  - 3
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Teacher certification of instructional and administrative employees in the public schools of Pennsylvania, 1937-1938
+Y1  - 1939
+D1  - 1939
+SP  - 28
+KW  - Teacher certification
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 74
+PB  - Pennsylvania Department of Public Instruction
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - A working philosophy of education for Pennsylvania
+Y1  - 1939
+SP  - 44
+KW  - Education
+N1  - Part one - definition and interpretation; Part two - Applications and illustrations; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 114
+PB  - Pennsylvania, Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - The language of modern education
+Y1  - 1939
+D1  - 1939
+SP  - 46
+KW  - Education
+N1  - 46 pages ; 23 cm.; Responsibility: Lester K. Ade, Superintendent of Public Instruction. Commonwealth of Pennsylvania, Department of Public Instruction, Harrisburg, 1939; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 17
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Official forms in use a bibliography
+Y1  - 1939
+D1  - 1939
+SP  - 25
+KW  - Education
+N1  - 25 pages ; 23 cm; Responsibility: Lester K. Ade, Superintendent of Public Instruction. Commonwealth of Pennsylvania, Department of Public Instruction, Harrisburg, 1939; Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 8
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Citizens' Committee on the Finances of Pennsylvania
+T1  - The report of the Citizens' committee on the finances of Pennsylvania to Hon. Gifford Pinchot, pt. education
+Y1  - 1922
+D1  - 12/1922
+SP  - 207
+KW  - Public expenditures
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Citizens' Committee on the Finances of Pennsylvania
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1922
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - A course of study for the elementary schools of Pennsylvania
+Y1  - 1918
+D1  - 1918
+SP  - 167
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1918
+SC  - Pennsylvania
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Expanding functions of education for Pennsylvania
+Y1  - 1938
+D1  - 1939
+SP  - 41
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 11
+PB  - Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - New and improved services of the Department of Public Instruction a summary of new, reestablished, and reorganized services form June, 1935 to August, 1938
+Y1  - 1938
+D1  - 1938
+SP  - 33
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 12
+PB  - Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Basic provisions and principles of the school laws of Pennsylvania
+Y1  - 1938
+D1  - 1938
+SP  - 47
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 66
+PB  - Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Summary of research findings as a contribution to certain problems in science teaching
+Y1  - 1938
+D1  - 12/1938
+SP  - 59
+KW  - Science
+KW  - Teaching
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 76
+IS  - 1
+PB  - Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Major issues in financing education in Pennsylvania
+Y1  - 1938
+D1  - 1938
+SP  - 99
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 135
+PB  - Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Teacher education curriculums state teachers colleges of Pennsylvania
+Y1  - 1938
+D1  - 1938
+SP  - 54
+KW  - Teachers colleges
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Department of Public Instruction bulletin
+V1  - 153
+PB  - Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Expanding the classroom suggestions for developing a school journey program in the public schools
+Y1  - 1938
+D1  - 1938
+SP  - 72
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - The education building
+Y1  - 1939
+D1  - 1939
+SP  - 47
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1939
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Operation birth rate continues reappraising Pennsylvania's school and college needs
+Y1  - 1955
+D1  - 1955
+SP  - 23
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 75
+IS  - 25
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1955
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Pennsylvania surveys its public school facilities
+D1  - 1954?
+SP  - 82
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 110
+N1  - 1954 is the date on the cover and on the forward, 1953 is the date on the title page.; 
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1954
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - The evaluation of pupil progress in Pennsylvania
+Y1  - 1941
+D1  - 10/1941
+SP  - 48
+KW  - Students
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 75
+IS  - 19
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1941
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Directed correspondence study in the field of secondary education
+Y1  - 1938
+D1  - 1938
+SP  - 79
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 291
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1938
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Motor vehicle accidents to pedestrians in Pennsylvania, 1939 to 1940, with special reference to children
+Y1  - 1941
+D1  - 12/1941
+SP  - 26
+KW  - Traffic accidents
+KW  - School children
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 75
+IS  - 20
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1941
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Driver education in secondary schools a tentative guide for traffic safety
+Y1  - 1946
+D1  - 1946
+SP  - 42
+KW  - Automobile drivers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 395
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1946
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - General suggestions concerning wartime and post-war consumer education
+Y1  - 1944
+D1  - 1944
+SP  - 45
+KW  - Consumer education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 217
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1944
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Special education meeting the needs of the acoustically handicapped
+Y1  - 1944
+D1  - 1944
+SP  - 128
+KW  - Deaf
+KW  - Special education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania. Department of Public Instruction bulletin
+V1  - 421
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1944
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Program of Educational Congress held under the direction of the Department of Public Instruction November 17 to 22
+Y1  - 1919
+D1  - 11/1919
+SP  - 21
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1919
+SC  - Pennsylvania
+ER  -
