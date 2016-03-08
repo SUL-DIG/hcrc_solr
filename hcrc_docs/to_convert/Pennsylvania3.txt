@@ -1,0 +1,397 @@
+
+TY  - BOOK
+A1  - Davis, John Morgan
+A2  - Pennsylvania. Governor's Committee on Education
+T1  - E pluribus unum : a statistical study of the organization of Pennsylvania school districts in 1960
+Y1  - 1960
+D1  - 12/1960
+SP  - 27
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Governor's Committee on Education Educational research monograph
+V1  - 5
+PB  - Pennsylvania Governor's Committee on Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1960
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Hammons, James O.
+A1  - Wallace, Terry Howard
+A2  - Pennsylvania State University. Center for the Study of Higher Education
+T1  - An assessment of community college staff development needs in the Northeastern United States
+Y1  - 1976
+D1  - 05/1976
+SP  - 131
+KW  - College teachers
+KW  - Community colleges
+N1  - Note(s): Includes bibliographical references (page 131).; Responsibility: James O. Hammons and Terry H. Smith Wallace.; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State University
+CY  - University Park
+LA  - English
+CN  - 379.74 .P1 1976
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Governor's Committee on Education
+T1  - Crisis in academe; a statistical study of Pennsylvania's institutions of higher learning
+Y1  - 1961
+SP  - 40
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Governor's Committee on Education educational research monograph
+V1  - 8
+PB  - Pennsylvania Governor's Committee on Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1961
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Fall college enrollments by racial/ethnic categories, 1974 and associate and higher degrees conferred by racial/ethnic categories, 1973-74
+Y1  - 1976
+D1  - 1976
+SP  - 45
+KW  - College attendance
+KW  - Academic degrees
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1976
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Update study of the financial condition of independent higher education in Pennsylvania
+Y1  - 1974
+D1  - 1974
+SP  - 62
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1974
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Survey of adult guidance at secondary schools
+Y1  - 1975
+D1  - 1975
+SP  - 27
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1975
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Faculty and other personnel at Pennsylvania Institutions of higher education 1974-75
+Y1  - 1975
+D1  - 1975
+SP  - 39
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Our colleges and universities today
+V1  - 12
+IS  - 7
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1974-75
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - The preparation and occupational pursuits of elementary, secondary an ungraded teachers 1973-74
+Y1  - 1975
+D1  - 1975
+SP  - 39
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Our colleges and universities today
+V1  - 12
+IS  - 5
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1975
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Students enrolled for advanced degrees at Pennsylvania Institutions of higher education 1973
+Y1  - 1973
+D1  - 1973
+SP  - 25
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Our colleges and universities today
+V1  - 11
+IS  - 3
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1973
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Davis, John Morgan
+A2  - Pennsylvania. Governor's Committee on Education
+T1  - One end of the log : a statistical study of Pennsylvania professional public school personnel in 1960
+Y1  - 1960
+D1  - 09/1960
+SP  - 20
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania Governor's Committee on Education educational research monograph
+V1  - 2
+PB  - Pennsylvania Governor's Committee on Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1960
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Tenure case opinions of the Secretary of Education, under the Public school code, act of March 10, 1949, P.L. 30, as amended
+Y1  - 1970
+D1  - 1970
+SP  - 95
+KW  - Teachers
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pennsylvania State Department of Education bulletin
+V1  - 20
+IS  - 4
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1970
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - Public school building costs
+Y1  - 1970
+D1  - 1970
+SP  - 63
+KW  - School finance
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1970
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Legislative Budget and Finance Committee
+T1  - 1978 statistical digest : a report on selected financial and related statistical facts of the Commonwealth of Pennsylvania
+Y1  - 1978
+D1  - 04/1978
+SP  - 75
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania. General Assembly Legislative Budget and Finance Committee
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1978
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Donny, William F.
+A2  - Pennsylvania State Department of Education
+T1  - Follow-up study of baccalaureate class of 1974 ; Pennsylvania higher education institutions.
+Y1  - 1977
+D1  - 10/1977
+SP  - 19
+KW  - College graduates
+N1  - Responsibility: prepared by William F. Donny, Division of Research. October 1977.; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1977
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Board of Education
+T1  - 1971 master plan for higher education in Pennsylvania
+Y1  - 1971
+D1  - 05/1971
+SP  - 55
+KW  - Higher education
+N1  - 55 pages illustrations 29 cm; Other Titles: Master plan for higher education in Pennsylvania; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Board of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1971
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Board of Education
+T1  - A master plan for higher education in Pennsylvania
+Y1  - 1967
+D1  - 01/1967
+SP  - 45
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Board of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1967
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Special education quality, effectiveness and cost : a summary
+D1  - 1976?
+SP  - 17
+KW  - Children with disabilities
+N1  - Genre/Form: Statistics.; Responsibility: Bureau of Information Systems, Pennsylvania Department of Education.; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1976
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A1  - Stewart, Gerald
+A2  - Pennsylvania State Department of Education
+T1  - A measure of local effort, 1975-76
+Y1  - 1976
+D1  - 1976
+SP  - 33
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1976
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Teacher demand and supply for elementary and secondary schools in Pennsylvania
+Y1  - 1975
+D1  - 1975
+SP  - 24
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1975
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+A2  - Altoona Area School District (Pennsylvania)
+T1  - Statewide conference on the professional, ethical and legal responsibilities of school guidance counselors in maintaining, using, and releasing student records
+Y1  - 1968
+D1  - 06/1968
+SP  - 63
+KW  - Educational counseling
+N1  - 63 pages ; 28 cm; Note(s): June 17 and 18, 1968./ At head of title: Conference report./ "A project supported by NDEA Title V-A Funds ..."/ Pa. State Docs. class. no. PE 179.2:S797.; Other Titles: Professional, ethical and legal responsibilities of school guidance counselors in maintaining, using, and releasing student records; Responsibility: conducted by the Research and Guidance Services Staff, Altoona Area School District, Altoona, Pennsylvania.; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania. Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1968
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania State Department of Education
+T1  - Pennsylvania preschool and primary education project; 1968-1969 final report to the Ford Foundation
+Y1  - 1969
+D1  - 10/1969
+SP  - 155
+KW  - Preschool education
+KW  - Primary education
+N1  - Note(s): Cover title./ Includes bibliographical references (pages 52-54).; Responsibility: Keith M. Kershner, project coordinator. Conducted by the Dept. of Education and the Dept. of Public Welfare of the Commonwealth of Pennsylvania.; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania State Department of Education
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1969
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - Four years after high school : a follow-up survey of the Pennsylvania high school seniors of 1958 : their post-high school education, their employment, their future plans : a report
+Y1  - 1964
+D1  - 1964
+SP  - 71
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania General Assembly. Joint State Government Commission
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1964
+SC  - Pennsylvania
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. School Finance Survey Committee
+A2  - Pennsylvania State Board of Education
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Facts and figures on education in Pennsylvania, 1962-1963 : a report of the School Finance Survey Committee, 1964
+Y1  - 1964
+D1  - 10/1964
+SP  - 166
+N1  - Genre/Form: Statistics.; Note(s): "October 1964."; Responsibility: prepared for the Committee by the State Board of Education and the Department of Public Instruction.; Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania School Finance Survey Committee
+CY  - Harrisburg, Pa.
+LA  - English
+CN  - 379.74 .P1 1964
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania School Study Council
+T1  - Financial data for council schools
+Y1  - 1971
+D1  - 01/1971
+SP  - 62
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania School Study Council
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1971
+SC  - Pennsylvania
+ER  - 
