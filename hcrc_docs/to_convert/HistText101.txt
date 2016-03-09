@@ -1,0 +1,1211 @@
+
+TY  - BOOK
+A2  - Ogden (Utah) Public Schools
+T1  - Manual of the public schools of Ogden City, Utah, containing rules and regulations and course os study
+Y1  - 1895
+D1  - 1895-1896
+SP  - 70
+KW  - Curricula
+KW  - Public schools
+PB  - Ogden Public Schools
+CY  - Ogden, UT
+LA  - English
+CN  - 375.83 .O34m 1895
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Ogden (Utah) Public Schools
+T1  - Manual of the public schools of Ogden City, Utah, containing rules and regulations and course os study
+Y1  - 1898
+D1  - 1898-1899
+SP  - 103
+KW  - Curricula
+KW  - Public schools
+PB  - Ogden Public Schools
+CY  - Ogden, UT
+LA  - English
+CN  - 375.83 .O34m 1898
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Course of study and outline of grade work of the Oklahoma City elementary schools
+Y1  - 1906
+D1  - 1906-1907
+SP  - 110
+KW  - Curricula
+KW  - Elementary education
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41c 1906
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Course of study - Oklahoma City High School
+Y1  - 1912
+D1  - 1912
+SP  - 60
+KW  - Curricula
+KW  - High schools
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.15 .O41c 1912
+SC  - Oklahoma
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Course of study and manual for the primary and grammar grades
+Y1  - 1917
+D1  - 1917
+SP  - 80
+KW  - Curricula
+KW  - Elementary education
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41c 1917
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Course of study and manual for the primary and grammar grades
+Y1  - 1920
+D1  - 1920
+SP  - 119
+KW  - Curricula
+KW  - Elementary education
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.13 .O41c 1920
+SC  - Oklahoma
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Course of study - Central High School
+Y1  - 1922
+D1  - 1922
+KW  - Curricula
+KW  - High schools
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 375.15 .O41c 1922
+SC  - Oklahoma
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual for the public schools of Orange County, Calif., containing the course of study, suggestions to teachers, list of library books, and miscellaneous matters
+Y1  - 1891
+D1  - 1891
+SP  - 92
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1891
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual for the public schools of Orange County, Calif., containing the course of study, suggestions to teachers, list of library books, and miscellaneous matters
+Y1  - 1893
+D1  - 1893
+SP  - 56
+KW  - Curricula
+KW  - Public schools
+N1  - Main part has 56 pages; list of library books has 24 pages
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1893
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, Calif., containing the course of study, suggestions to teachers, list of library books, and miscellaneous matters
+Y1  - 1895
+D1  - 1895
+SP  - 62
+KW  - Curricula
+KW  - Public schools
+N1  - Main part has 62 pages; list of library books has 20 pages
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, Calif., containing the course of study, suggestions to teachers, and supplementary reading
+Y1  - 1897
+D1  - 1897
+SP  - 46
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, Calif., containing the course of study, suggestions to teachers, lists of supplementary reading and library books
+Y1  - 1900
+D1  - 1900
+SP  - 87
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Supplement to public school manual, Orange County, Cal.
+Y1  - 1901
+D1  - 06/1901
+KW  - Curricula
+KW  - Public schools
+N1  - Also "Ninth Year" apparently also published at same time.
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65s 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, Calif., containing the course of study, suggestions to teachers, lists of supplementary reading and library books
+Y1  - 1903
+D1  - 1903
+SP  - 107
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1903
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, California
+Y1  - 1915
+D1  - 1915
+SP  - 143
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, California - course of study
+Y1  - 1915
+D1  - 1915
+SP  - 143
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, California - course of study
+Y1  - 1925
+D1  - 1925
+SP  - 102
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, California - course of study
+Y1  - 1925
+D1  - 1925
+SP  - 102
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Public Schools
+T1  - Manual of the public schools of Orange County, California - course of study
+Y1  - 1929
+D1  - 1929
+SP  - 147
+KW  - Curricula
+KW  - Public schools
+PB  - Orange County Public Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 375.82 .O65m 1929
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Omaha (Nebraska) Public Schools
+T1  - Courses of study - elementary department
+Y1  - 1915
+D1  - 09/1915
+SP  - 205
+KW  - Curricula
+KW  - Elementary education
+PB  - Omaha Public Schools
+CY  - Omaha, NE
+LA  - English
+CN  - 385.13 .O54c 1915
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oshkosh (Wisconsin) Public Schools
+T1  - Manual of the public schools of Oshkosh, Wis.
+Y1  - 1904
+D1  - 03/1904
+SP  - 95
+KW  - Curricula
+KW  - Public schools
+PB  - Oshkosh Public Schools
+CY  - Oshkosh, WI
+LA  - English
+CN  - 375.83 .O82m 1904
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Oshkosh (Wisconsin) Public Schools
+T1  - Manual of the public schools of Oshkosh, Wisconsin
+Y1  - 1915
+D1  - 1915-1916
+SP  - 120
+KW  - Curricula
+KW  - Public schools
+PB  - Oshkosh Public Schools
+CY  - Oshkosh, WI
+LA  - English
+CN  - 375.83 .O82m 1915
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Ottawa (Illinois) Township High School
+T1  - Catalogue of the officers, teachers and students of the Ottawa Township High School
+Y1  - 1903
+D1  - 1902-1903
+SP  - 38
+KW  - Curricula
+KW  - Directories
+KW  - High schools
+N1  - Includes "Annoucement for 1903-1904"
+PB  - Ottawa Township High School
+CY  - Ottawa, IL
+LA  - English
+CN  - 375.15 .O85c 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ottumwa (Iowa)  Public Schools
+T1  - Course of study and register of pupils and graduates of high school
+Y1  - 1900
+D1  - 1900
+SP  - 47
+KW  - Curricula
+KW  - Directories
+KW  - High schools
+PB  - Ottumwa Public Schools
+CY  - Ottumwa, IA
+LA  - English
+CN  - 375.15 .O86c 1900
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oxnard (California) Union High School
+T1  - Manual of the Oxnard Union High School
+Y1  - 1920
+D1  - 1920-1921
+SP  - 46
+KW  - Curricula
+KW  - High schools
+PB  - Oxnard Union High School
+CY  - Oxnard, CA
+LA  - English
+CN  - 375.15 .O98m 1920
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Course of study for the public schools of the city of Palo Alto, California
+Y1  - 1909
+D1  - 1909
+SP  - 154
+KW  - Curricula
+KW  - Public schools
+PB  - Stanford University Press
+CY  - Stanford, CA
+LA  - English
+CN  - 375.83 .P18c 1909
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Course of study for Palo Alto High School
+Y1  - 1909
+D1  - 1909
+SP  - 39
+KW  - Curricula
+KW  - High schools
+PB  - Stanford University Press
+CY  - Stanford, CA
+LA  - English
+CN  - 375.15 .P18c 1909
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nevada County (California) Public Schools
+T1  - Course of study for the elementary schools of Nevada County, California
+Y1  - 1933
+D1  - 1933
+SP  - 69
+KW  - Curricula
+KW  - Elementary education
+PB  - Nevada County Public Schools
+LA  - English
+CN  - 375.13 .N485c 1933
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New Bedford (Massachusetts) Public Schools
+T1  - Course of study for the public high school of the city of New Bedford, Massachusetts
+Y1  - 1904
+D1  - 1904
+SP  - 106
+KW  - Curricula
+KW  - High schools
+PB  - New Bedford Public Schools
+CT  - New Bedford, MA
+LA  - English
+CN  - 375.15 .N511c 1904
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Brunswick (New Jersey) Public Schools
+T1  - Curricula of New Brunswick High School
+Y1  - 1920
+D1  - 1920
+KW  - Curricula
+KW  - High schools
+N1  - A chart
+PB  - New Brunswick Public Schools
+CY  - New Brunswick, NJ
+LA  - English
+CN  - 375.15 .N501c 1920
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Brunswick (New Jersey) Public Schools
+T1  - Curricula for high schools
+Y1  - 1920
+D1  - 1920
+KW  - Curricula
+KW  - High schools
+T2  - Circular of information
+V1  - 1
+PB  - New Brunswick Public Schools
+CY  - New Brunswick, NJ
+LA  - English
+CN  - 375.15 .N501c 1920a
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Haven (Connecticut) High School
+T1  - Courses of study
+Y1  - 1913
+D1  - 1913
+KW  - Curricula
+KW  - High schools
+PB  - New Haven High School
+CY  - New Haven, CT
+LA  - English
+CN  - 375.15 .N515c 1913
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Orleans (Louisiana) Public Schools
+T1  - Course of study of McDonogh High School no. 1 (boys) of New Orleans, Louisiana
+D1  - 1911?
+KW  - Curricula
+KW  - High schools
+PB  - New Orleans Public Schools
+CY  - New Orleans, LA
+LA  - English
+CN  - 375. 15 .N528c
+SC  - Louisiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Norwalk (Connecticut) Public Schools
+T1  - Circular of information - Norwalk High Schools
+Y1  - 1916
+D1  - 06/1916
+SP  - 13
+KW  - Curricula
+KW  - High schools
+PB  - Norwalk Public Schools
+CY  - Norwalk, CT
+LA  - English
+CN  - 375.15 .N89c 1916
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Yakima (Washington) Public Schools
+T1  - Course of study - manual of the course of study for the public schools of North Yakima
+Y1  - 1907
+D1  - 1907
+SP  - 141
+KW  - Curricula
+KW  - Public schools
+PB  - North Yakima Public Schools
+CY  - North Yakima, WA
+LA  - English
+CN  - 375.83 .N88c 1907
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - North Yakima (Washington) Public Schools
+T1  - High school course of study
+Y1  - 1909
+D1  - 1909-1911
+SP  - 26
+KW  - Curricula
+KW  - High schools
+PB  - North Yakima Public Schools
+CY  - North Yakima, WA
+LA  - English
+CN  - 375.15 .N88h 1909
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nutley (New Jersey) Public Schools
+T1  - Nutley has never had a real high school building
+Y1  - 1924
+D1  - 1924-1925
+SP  - 27
+KW  - Curricula
+KW  - High schools
+T2  - Nutley Public Schools. Bulletin.
+V1  - 2
+PB  - Nutley Public Schools
+CY  - Nutley, NJ
+LA  - English
+CN  - 375.15 .N98n 1924
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nutley (New Jersey) Public Schools
+T1  - The non-academic studies
+Y1  - 1925
+D1  - 06/1925
+SP  - 38
+KW  - Curricula
+KW  - Public schools
+T2  - Nutley PUblic Schools. Bulletin.
+V1  - 4
+PB  - Nutley Public Schools
+CY  - Nutley, NJ
+LA  - English
+CN  - 375.83 .N98n 1925
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Omaha (Nebraska) Public Schools
+T1  - Requirements for graduation
+KW  - Curricula
+KW  - High schools
+PB  - Omaha Public Schools
+CY  - Omaha, NE
+LA  - English
+CN  - 375.15 .O54r
+SC  - Nebraska
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Parkersburg (West Virginia) High School
+T1  - Catalog
+Y1  - 1903
+D1  - 1903-1904
+KW  - Curricula
+KW  - High schools
+PB  - Parkersburg High School
+CY  - Parkersburg, WV
+LA  - English
+CN  - 375.15 .P231c 1903
+SC  - West Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Courses of study - Pasadena High School
+Y1  - 1920
+D1  - 1920-1921
+KW  - Curricula
+KW  - High schools
+PB  - Pasadena High School
+CY  - Pasadena, CA
+LA  - English
+CN  - 375.15 P27c 1920
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Paterson (New Jersey) Department of Public Instruction
+T1  - Courses of study - high school
+D1  - 1914?
+KW  - Curricula
+KW  - High schools
+PB  - Paterson Department of Public Instruction
+CY  - Paterson, NJ
+LA  - English
+CN  - 375.15 .P29c
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pensacola (Florida) Board of Public Instruction
+T1  - Course of study for the Pensacola High School
+Y1  - 1914
+D1  - 1914
+SP  - 18
+KW  - Curricula
+KW  - High schools
+PB  - Pensacola Board of Public Instruction
+CY  - Pensacola, FL
+LA  - English
+CN  - 375.15 .P411c 1914
+SC  - Florida
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Peoria (Illinois) Public Schools
+T1  - Course of study - Peoria High School
+Y1  - 1904
+D1  - 02/1904
+KW  - Curricula
+KW  - High schools
+PB  - Peoria Public Schools
+CY  - Peoria, IL
+LA  - English
+CN  - 375.15 .P41c 1904
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Manual of the grades course of instruction in the primary schools
+Y1  - 1894
+D1  - 1894
+SP  - 59
+KW  - Curricula
+KW  - Elementary education
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.13 .P54m 1894
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Catalogue of the officers and students of the Central High School of Philadelphia
+Y1  - 1896
+D1  - 1896-1897
+SP  - 85
+KW  - Curricula
+KW  - Directories
+KW  - High school
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54c 1896
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - The course of study in arithmetic for the public schools of Philadelphia
+Y1  - 1900
+D1  - 1900
+SP  - 60
+KW  - Curricula
+KW  - Mathematics
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54c 1900
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Commercial High School for Girls
+Y1  - 1903
+D1  - 1903
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54c 1903
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Course of study - Philadelphia High School for Girls
+Y1  - 1911
+D1  - 1911
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54co 1911
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. William Penn High School
+T1  - Courses of study
+D1  - 1911?
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54c 1911
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Catalogue
+Y1  - 1900
+D1  - 1900-1901
+SP  - 144
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54ca 1900
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Catalogue
+Y1  - 1902
+D1  - 1902-1903
+SP  - 141
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54ca 1902
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Catalogue
+Y1  - 1903
+D1  - 1903-1904
+SP  - 148
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54ca 1903
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Catalogue
+Y1  - 1904
+D1  - 1904-1905
+SP  - 169
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54ca 1904
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Catalogue
+Y1  - 1905
+D1  - 1905-1906
+SP  - 170
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54ca 1905
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Catalogue
+Y1  - 1906
+D1  - 1906-1907
+SP  - 175
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54ca 1906
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Catalogue
+Y1  - 1910
+D1  - 1910-1911
+SP  - 193
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54ca 1910
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School. School of Commerce
+T1  - Announcement and curriculum of studies
+Y1  - 1906
+D1  - 1906
+SP  - 16
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54a 1906
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Catalogue of the Commercial High Schools for Girls
+Y1  - 1906
+D1  - 1906-1907
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54co 1906
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Catalogue of the Northeast Manual Training High School
+Y1  - 1907
+D1  - 1907-1908
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54cn 1907
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Central High School
+T1  - Handbook
+Y1  - 1934
+D1  - 1934-1935
+SP  - 313
+KW  - Curricula
+KW  - High schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.15 .P54h 1934
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Elementary science primary unit: scope and sequence chart 
+Y1  - 1962
+D1  - 1962
+SP  - 59
+KW  - Curricula
+KW  - Elementary education
+N1  - Reprinted 1963. Large chart.
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 519 .P54e 1962
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - The elementary school program: grades one to six
+Y1  - 1963
+D1  - 1963
+SP  - 140
+KW  - Curricula
+KW  - Elementary education
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.13 .P54e 1963
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Phoenix (Arizona) Public Schools
+T1  - Manual of the Phoenix Union High School
+Y1  - 1910
+D1  - 1910-1911
+SP  - 34
+KW  - Curricula
+KW  - High schools
+PB  - Phoenix Public Schools
+CY  - Phoenix, AZ
+LA  - English
+CN  - 375.15 .P57m 1910
+SC  - Arizona
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Public Schools
+T1  - Rules and regulations for the government of Pittsburgh High School
+SP  - 16
+KW  - School management and organization
+KW  - High schools
+PB  - Pittsburgh High School
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 379.728 .P69r
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Pubic Schools
+T1  - High School program of studies
+Y1  - 1926
+D1  - 1926-1927
+KW  - Curricula
+KW  - High schools
+PB  - Pittsburgh High School
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 375.15 .P69h 1926
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Pubic Schools
+T1  - Catalog, rules and regulations of the Pittsburgh Central High School
+Y1  - 1897
+D1  - 1897-1898
+SP  - 65
+KW  - Curricula
+KW  - High schools
+PB  - Pittsburgh High School
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 375.15 .P69c 1897
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Pubic Schools
+T1  - Pittsburgh High School
+Y1  - 1904
+D1  - 1904-1905
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Pittsburgh High School
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 375.15 .P69p 1904
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Pubic Schools
+T1  - Courses of study for high schools
+Y1  - 1913
+D1  - 06/1913
+SP  - 65
+KW  - Curricula
+KW  - High schools
+PB  - Pittsburgh High School
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 375.15 .P69c 1913
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Pubic Schools. Department of Evening Schools and Extension Work
+T1  - Teachers and workers manual
+Y1  - 1922
+D1  - 1922
+SP  - 120
+KW  - Curricula
+KW  - High schools
+PB  - Pittsburgh High School
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 375.15 .P69t 1922
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Pubic Schools. Pittsburgh High School
+T1  - Information for parents of the pupils in the seventh and eighth grades of Pittsburgh Public Schools
+SP  - 30
+KW  - Curricula
+KW  - High schools
+PB  - Pittsburgh High School
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 375.15 .P69i
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Course of study recapitulation
+Y1  - 1935
+D1  - 1935-1936
+SP  - 8
+KW  - Curricula
+KW  - Public schools
+PB  - Placer County Schools
+LA  - English
+CN  - 375.82 .P71c 1935
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Manual for the public schools of Placer County
+Y1  - 1896
+D1  - 06/1896
+SP  - 72
+KW  - Curricula
+KW  - Public schools
+PB  - Placer County Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.82 .P71m 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Course of study and list of library books and apparatus for the public schools of Placer County
+Y1  - 1903
+D1  - 06/1903
+SP  - 54
+KW  - Curricula
+KW  - Public schools
+PB  - Placer County Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.82 .P71c 1903
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Announcement of Placer County High School
+Y1  - 1907
+D1  - 1907-1908
+KW  - Curricula
+KW  - High schools
+PB  - Placer County Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.15 .P71a 1907
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Placer County High School handbook: general statement and courses of study
+Y1  - 1910
+D1  - 1910-1911
+SP  - 39
+KW  - Curricula
+KW  - High schools
+PB  - Placer County Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.15 .P71h 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Placer County High School handbook: general statement and courses of study
+Y1  - 1912
+D1  - 1912-1913
+SP  - 55
+KW  - Curricula
+KW  - High schools
+PB  - Placer County Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.15 .P71h 1912
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Plumas County (California) Superintendent of Schools
+T1  - Plumas County High School course of study
+Y1  - 1909
+D1  - 1909
+KW  - Curricula
+KW  - Public schools
+PB  - Plumas County Superintendent of Schools
+CY  - Greenville, CA
+LA  - English
+CN  - 375.82 .P73c 1909
+SC  - California
+ER  - 
