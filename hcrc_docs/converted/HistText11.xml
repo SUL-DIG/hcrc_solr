@@ -825,22 +825,6 @@ Responsibility: editor, Hugh B. Wood.</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
-<field name="title">The elementary school program</field>
-<field name="year">1963</field>
-<field name="date">1963</field>
-<field name="pages">140</field>
-<field name="keywords">Elementary education</field>
-<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
-<field name="pub_place">Philadelphia, PA</field>
-<field name="language">English</field>
-<field name="call_number">375.13 .P54e</field>
-<field name="state_country">California</field>
-<field name="grade_level_group">Elementary</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
 <field name="corp_author">Placer County (California) Schools</field>
 <field name="title">Course of study for elementary schools</field>
 <field name="year">1954</field>

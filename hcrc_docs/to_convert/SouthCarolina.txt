@@ -1,0 +1,199 @@
+
+TY  - BOOK
+A1  - Carnes, Ernest B.
+A1  - Davis, Mae M.
+A2  - South Carolina State Department of Education
+T1  - Characteristics of dropouts from South Carolina public schools during the 1971-1972 academic year
+Y1  - 1973
+D1  - 03/1973
+SP  - 83
+KW  - Dropouts
+KW  - Statistics
+N1  - Genre/Form: Statistics.; Note(s): "A companion to the document 'Selected data on dropouts in South Carolina schools" ... prepared by the Office of Research."/ Includes bibliographical references (page 83).; Responsibility: [prepared by Ernest B. Carnes and Mae M. Davis, in cooperation with Office of Research staff and Gerry Thomas].; Shelved in Cubberley Library Reading Room
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1973
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina Commission on Higher Education
+T1  - Degrees conferred by postsecondary institutions in South Carolina : academic years 1975-76 and 1976-77
+D1  - 1978?
+SP  - 75
+KW  - Academic degrees
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Carolina Commission on Higher Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1975-76/1976-77
+SC  - South Carolina
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - South Carolina Commission on Higher Education
+T1  - Annual report
+Y1  - 1971
+D1  - 01/1971
+SP  - 50
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Carolina Commission on Higher Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1971
+SC  - South Carolina
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - An annotated bibliography of South Carolina Department of Education publications
+Y1  - 1977
+D1  - 11/1977
+SP  - 76
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1977
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - Rankings of the counties and school districts of South Carolina, 1976-77
+Y1  - 1978
+D1  - 1978
+SP  - 299
+KW  - County school systems
+KW  - Education
+KW  - School districts
+N1  - Genre/Form: Statistics.; Note(s): Includes bibliographical references (pages 275-276).; Responsibility: prepared by the Education Products Center and the Office of Research. Vendor Info: Baker and Taylor (BTCP); Shelved in Cubberley Library Reading Room
+ED  - 1978
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1978
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - South Carolina public and private school enrollment projections, 1976 through 1982
+Y1  - 1976
+D1  - 06/1976
+SP  - 32
+KW  - School attendance
+N1  - v, 32 leaves ; 22 x 28 cm.; Genre/Form: Statistics.; Responsibility: ... Office of Research ... Management Information Section ... State Department of Education.; Shelved in Cubberley Library Reading Room
+T2  - South Carolina State Department of Education report series
+V1  - 1
+IS  - 24
+PB  - South Carolina State Department of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1976
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A1  - Hand, William Harvey
+A2  - University of South Carolina
+T1  - Report on secondary schools part. I
+Y1  - 1907
+D1  - 01/1907
+SP  - 13
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Bulletin of the University of South Carolina
+V1  - 1
+IS  - viii
+PB  - University of South Carolina
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1907
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina Commission on Alcohol and Drug Abuse
+T1  - Twenty-second annual report of the South Carolina Commission on Alcohol and Drug Abuse for the fiscal year July 1, 1977 to June 30, 1978
+D1  - 1978?
+SP  - 73
+KW  - Alcoholism
+KW  - Drug abuse
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Carolina Commission on Alcohol and Drug Abuse
+LA  - English
+CN  - 379.74 .S1 1977-78
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina. State High School Board
+A2  - University of South Carolina
+T1  - Report of the State High School Inspector 1919-1920
+Y1  - 1921
+D1  - 02/1921
+SP  - 31
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Bulletin of the University of South Carolina
+V1  - 95
+PB  - University of South Carolina
+CY  - Columbia, SC
+LA  - English
+CN  - 379.74 .S1 1921
+SC  - South Carolina
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - South Carolina Public school finance program 1966-67
+Y1  - 1966
+D1  - 09/1966
+KW  - Public schools
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Carolina State Department of Education
+LA  - English
+CN  - 379.74 .S1 1966-67
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+T1  - District per pupil valuation and expenditure 1968-69
+D1  - 1968?
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .S1 1968
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina State Department of Education
+T1  - Statistical summaries of all public schools 1968-69 ten day enrollment
+D1  - 1968?
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Carolina State Department of Education
+LA  - English
+CN  - 379.74 .S1 1968
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+T1  - South Carolina public school enrollment – live births (calendar year) six years prior by place of residence – percentages of holdovers
+Y1  - 1968
+D1  - 1968
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .S1 1968
+SC  - South Carolina
+ER  - 
