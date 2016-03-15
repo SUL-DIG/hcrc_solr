@@ -1,0 +1,156 @@
+
+TY  - BOOK
+A2  - South Dakota. Legislature. State Legislative Research Council
+T1  - Hutterite education; staff memorandum
+Y1  - 1973
+D1  - 09/1973
+SP  - 24
+KW  - Hutterian Brethren
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota Legislature State Legislative Research Council
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1973
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota. Legislature. State Legislative Research Council
+T1  - School district reorganization: the 12 year district proposal and revenue sources for education; staff memorandum
+Y1  - 1966
+D1  - 07/1966
+SP  - 98
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota Legislature State Legislative Research Council
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1966
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota. Legislature. State Legislative Research Council
+T1  - Organization and functions of the State Department of Public Instruction; staff background memorandum
+Y1  - 1965
+D1  - 08/1965
+SP  - 51
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota Legislature State Legislative Research Council
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1965
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - South Dakota directory of pupil personnel services, 1970-71
+D1  - 1971?
+SP  - 38
+KW  - Curricula
+KW  - Educational counseling
+N1  - Shelved in Cubberley Library Reading Room
+T2  - South Dakota State Department of Public Instruction bulletin
+V1  - 6.2-6
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1970-71
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - South Dakota counselor's yellow pages 1971-72
+D1  - 1972?
+SP  - 30
+KW  - Educational counseling
+KW  - Vocational guidance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1971-72
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Education and Cultural Affairs
+T1  - Annual report of educational progress; 1983 South Dakota elementary and secondary educational comparisons
+Y1  - 1983
+D1  - 1983
+SP  - 36
+KW  - Elementary education
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota State Department of Education and Cultural Affairs
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1983
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Education and Cultural Affairs
+T1  - 1982 Annual report of educational progress; South Dakota elementary and secondary educational comparisons
+Y1  - 1982
+D1  - 1982
+SP  - 38
+KW  - Elementary education
+KW  - Secondary education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota State Department of Education and Cultural Affairs
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1982
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Education and Cultural Affairs
+T1  - South Dakota higher education enrollment information Spring 1976
+Y1  - 1976
+D1  - 1976
+SP  - 33
+KW  - College attendance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota State Department of Education and Cultural Affairs
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1976
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Education and Cultural Affairs
+T1  - South Dakota higher education enrollment information Fall 1975
+Y1  - 1975
+D1  - 1975
+SP  - 40
+KW  - College attendance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Dakota State Department of Education and Cultural Affairs
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1975
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - Administrative handbook on educational administration for the State of South Dakota
+Y1  - 1930
+D1  - 1930
+SP  - 150
+KW  - School administrators
+N1  - Shelved in Cubberley Library Reading Room
+T2  - South Dakota State Department of Public Instruction bulletin
+V1  - 3
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 379.74 .S2 1930
+SC  - South Dakota
+ER  -
