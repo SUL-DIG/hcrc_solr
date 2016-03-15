@@ -1,0 +1,553 @@
+
+TY  - BOOK
+A1  - Boyer, E. Gil
+A2  - Rhode Island State Department of Education
+T1  - Financing tomorrow's schools today; the story of Rhode Island's school finance program
+Y1  - 1961
+D1  - 1961
+SP  - 60
+KW  - School finance
+N1  - 60 pages illustrations 23 cm; Responsibility: by E. Gil Boyer, assistant commissioner; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island State Department of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1961
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A1  - Ostrander, Raymond H.
+A2  - Boston University. School of Education
+A2  - Rhode Island State Board of Education
+T1  - A pilot plan for educational leadership in Rhode Island; the development of a model for public school district organization in a region of Rhode Island
+Y1  - 1967
+D1  - 1967
+SP  - 51
+KW  - Educational planning
+N1  - 51 pages charts, maps 23 cm; Responsibility: By Raymond H. Ostrander [and others.; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island State Board of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1967
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island State Board of Education
+T1  - Board of Education recommendations for legislative action, 1959
+Y1  - 1959
+D1  - 01/1959
+SP  - 31
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island State Board of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1959
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island State Department of Education
+T1  - 1968-1969 Statistical tables
+Y1  - 1969
+D1  - 12/1969
+KW  - Statistics
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island State Department of Education
+PB  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1968-69
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island State Department of Education. Education Information Center
+T1  - National and regional developments in Competency Based Teacher Education (CBTE) and Competency Based Certification (CBC)
+Y1  - 1974
+D1  - 02/1974
+SP  - 18
+KW  - Competency Based Teacher Education
+KW  - Competency Based Certification
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island State Department of Education Education Information Center
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1974
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Vocational Education
+A2  - Rhode Island State plan for the administration of vocational education 1974-1975
+T1  - State plan for vocational education, State of Rhode Island and Providence Plantations
+Y1  - 1974
+D1  - 06/1974
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Vocational Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1974-75
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. State School Aid Program
+T1  - A report to the Legislature from the Special Commission to study the entire field of education
+Y1  - 1967
+D1  - 03/1967
+SP  - 17
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Rhode Island Special Commission to Study the Entire Field of Education report
+V1  - 1
+PB  - Rhode Island State School Aid Program
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1967
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island State Department of Education
+T1  - Survey of school finance and records in Rhode Island
+Y1  - 1927
+D1  - 1927
+SP  - 28
+KW  - School finance
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island State Department of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1927
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Special Commission on Public School Finance and Administration
+T1  - Report of the Special Commission on Public School Finance and Administration appointed by resolution of the General assembly, approved April 23, 1920 presented to the General assembly February 28, 1922
+Y1  - 1922
+D1  - 02/1922
+SP  - 37
+KW  - School finance
+KW  - Educational law and legislation
+KW  - Public schools
+N1  - 37 pages ; 24 cm; Other Titles: At head of title:; State of Rhode Island and Providence Plantations; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Special Commission on Public School Finance and Administration
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1922
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Commissioner of Public Schools
+A2  - Rhode Island. General Assembly
+T1  - The school manual, containing the laws of Rhode Island relating to public instruction, with decisions, remarks, and forms, for the use of school officers
+Y1  - 1896
+D1  - 1896
+SP  - 439
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island General Assembly
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R11896
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. General Assembly
+T1  - The school manual, containing the school laws of Rhode Island , with decisions, remarks, and forms, for the use of school officers
+Y1  - 1873
+D1  - 1873
+SP  - 284
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island General Assembly
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1873
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A1  - Stillwell, Margaret Bingham
+A1  - Gardiner, Elizabeth M.
+A2  - Rhode Island. State Board of Health. Child Welfare Division
+T1  - Fitting Rhode Island children for school days and their work in life; a study of certain laws and conditions affecting the physical well-being of Rhode Island children of school age
+Y1  - 1923
+D1  - 1923
+SP  - 126
+KW  - Child care
+KW  - Children
+N1  - 126 pages 18 cm.; Note(s): "Rhode Island laws for the promotion of the health of school children (and relative to the years of compulsory school attendance)" : p. [77]-121.; Responsibility: Prepared by Margaret B. Stillwell, A.B. under the direction of Elizabeth M. Gardiner, M.D.; Shelved in Cubberley Library Reading Room
+T2  - Rhode Island State Board of Health Child Welfare Division series monograph
+V1  - I
+IS  - II
+PB  - Rhode Island State board of health Child welfare division
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1923
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island State Department of Education
+T1  - Improving education in Rhode Island; a study of the organization and functions of the Rhode Island State Department of Education
+Y1  - 1947
+D1  - 1947
+SP  - 30
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rhode Island State Department of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.74 .R1 1947
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Public Education Service
+A2  - Rhode Island State Board of Education
+T1  - Report of Committe on survey of Little Compton Public schools
+Y1  - 1924
+D1  - 03/1924
+SP  - 36
+KW  - Public schools
+N1  - Cover title./ Supplementary report of the Rhode Island State Board of Education; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Public Education Service
+LA  - English
+CN  - 379.74 .R1 1924
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Commemoration of public education in recognition of the fiftieth anniversary of the creation of the State Board of Education and of the seventy-fifth anniversary of the appointment of the Commissioner of Education, Commemorative exercises held at Rhode Island College of Education, December 3, 1920
+Y1  - 1920
+D1  - 12/1920
+SP  - 24
+KW  - Public education
+N1  - Cover title./State Board of Education 1870-1920, Commissioner of Education 1845-1920; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1924
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Public Schools
+T1  - Tenth Annual program for patriotic exercises in schools, May third 1918 in commemoration of the one hundred and forty-second anniversary of Rhode Island Independence Day
+Y1  - 1918
+D1  - 05/1918
+SP  - 32
+KW  - Secondary education
+KW  - Holidays
+KW  - Patriotic music
+N1  - Cover title./Rhode Island Independence Day : May Fourth 1776; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Public Schools
+LA  - English
+CN  - 379.74 .R1 1918
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Public Schools
+T1  - Twelfth Annual program for patriotic exercises in schools, May fourth  1920 in commemoration of the one hundred and forty-forth anniversary of Rhode Island Independence Day
+Y1  - 1920
+D1  - 05/1920
+SP  - 32
+KW  - Secondary education
+KW  - Holidays
+KW  - Patriotic music
+N1  - Cover title./Rhode Island Independence Day : May Fourth 1776; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Public Schools
+LA  - English
+CN  - 379.74 .R1 1920
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Fourteenth Annual program for patriotic exercises in schools, May fourth 1922 in commemoration of the one hundred and forty-sixth anniversary of Rhode Island Independence Day
+Y1  - 1922
+D1  - 05/1922
+SP  - 32
+KW  - Secondary education
+KW  - Holidays
+KW  - Patriotic music
+N1  - Cover title./Rhode Island Independence Day : May Fourth 1776; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1922
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twentieth Annual program for patriotic exercises in schools, May fourth 1928 in commemoration of the one hundred and fifty-second anniversary of Rhode Island Independence Day
+Y1  - 1928
+D1  - 05/1928
+SP  - 32
+KW  - Secondary education
+KW  - Holidays
+KW  - Patriotic music
+N1  - Cover title./Rhode Island Independence Day : May Fourth 1776; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1928
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Eighteenth Annual program for patriotic exercises in schools, May 4 1926 in commemoration of the one hundred and fiftieth anniversary of Rhode Island Independence Day
+Y1  - 1926
+D1  - 05/1926
+SP  - 32
+KW  - Secondary education
+KW  - Holidays
+KW  - Patriotic music
+N1  - Cover title./Rhode Island Independence Day : May Fourth 1776; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1926
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twenty-first Annual program for patriotic exercises in schools, May third 1929 in commemoration of the one hundred and fifty-third anniversary of Rhode Island Independence Day
+Y1  - 1929
+D1  - 05/1929
+SP  - 32
+KW  - Secondary education
+KW  - Holidays
+KW  - Patriotic music
+N1  - Cover title./Rhode Island Independence Day : May Fourth 1776; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1929
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twenty-third Annual program for patriotic exercises in schools, May fourth 1931 in commemoration of the one hundred and fifty-fifth anniversary of Rhode Island Independence Day
+Y1  - 1931
+D1  - 05/1931
+SP  - 32
+KW  - Secondary education
+KW  - Holidays
+KW  - Patriotic music
+N1  - Cover title./Rhode Island Independence Day : May Fourth 1776; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1931
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Public Schools
+T1  - Seventeenth annual program for patriotic exercises in schools on Grand Army flag day, February twelfth, 1918 In honor of the national flag, the Grand Army of the Republic, the birthday of Abraham Lincoln
+Y1  - 1918
+D1  - 02/1918
+SP  - 32
+KW  - Flag day
+KW  - Patriotism
+N1  - Cover title./Grand Army Flag Day, Schools of Rhode Island; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Public Schools
+LA  - English
+CN  - 379.74 .R1 1918
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twenty-first annual program for patriotic exercises in schools on Grand Army flag day, February thirteenth, 1922 In honor of the national flag, the Grand Army of the Republic, the birthday of Abraham Lincoln
+Y1  - 1922
+D1  - 02/1922
+SP  - 32
+KW  - Flag day
+KW  - Patriotism
+N1  - Cover title./Grand Army Flag Day, Schools of Rhode Island; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1922
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twenty-fourth annual program for patriotic exercises in schools on Grand Army flag day, February twelfth, 1925 In honor of the national flag, the Grand Army of the Republic, the birthday of Abraham Lincoln
+Y1  - 1925
+D1  - 02/1925
+SP  - 32
+KW  - Flag day
+KW  - Patriotism
+N1  - Cover title./Grand Army Flag Day, Schools of Rhode Island; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1925
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twenty-sixth annual program for patriotic exercises in schools on Grand Army flag day, February twelfth , 1927 In honor of the national flag, the Grand Army of the Republic, the birthday of Abraham Lincoln
+Y1  - 1927
+D1  - 02/1927
+SP  - 32
+KW  - Flag day
+KW  - Patriotism
+N1  - Cover title./Grand Army Flag Day, Schools of Rhode Island; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1927
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twenty-seventh annual program for patriotic exercises in schools on Grand Army flag day, February twelfth, 19 In honor of the national flag, the Grand Army of the Republic, the birthday of Abraham Lincoln
+Y1  - 1928
+D1  - 02/1928
+SP  - 32
+KW  - Flag day
+KW  - Patriotism
+N1  - Cover title./Grand Army Flag Day, Schools of Rhode Island; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1928
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Twenty-eighth annual program for patriotic exercises in schools on Grand Army flag day, February twelfth, 1929 In honor of the national flag, the Grand Army of the Republic, the birthday of Abraham Lincoln
+Y1  - 1929
+D1  - 02/1929
+SP  - 32
+KW  - Flag day
+KW  - Patriotism
+N1  - Cover title./Grand Army Flag Day, Schools of Rhode Island; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1929
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Public Schools
+T1  - Twenty-sixth annual program for the observance of Arbor Day in the schools of Rhode Island, May 11, 1917
+Y1  - 1917
+D1  - 05/1917
+SP  - 28
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1917
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Public Schools
+T1  - Twenty-seventh annual program for the observance of Arbor Day in the schools of Rhode Island, May 10, 1918
+Y1  - 1918
+D1  - 05/1918
+SP  - 32
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1918
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Thirty-first annual program for the observance of Arbor Day in the schools of Rhode Island, May 12, 1922
+Y1  - 1922
+D1  - 05/1922
+SP  - 32
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1922
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Thirty-fifth annual program for the observance of Arbor Day in the schools of Rhode Island, May 14, 1926
+Y1  - 1926
+D1  - 05/1926
+SP  - 32
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1926
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Thirty-sixth annual program for the observance of Arbor Day in the schools of Rhode Island, May 13, 1927
+Y1  - 1927
+D1  - 05/1927
+SP  - 32
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1927
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Thirty-seventh annual program for the observance of Arbor Day in the schools of Rhode Island, May 11, 1928
+Y1  - 1928
+D1  - 05/1928
+SP  - 32
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1928
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Thirty-eighth annual program for the observance of Arbor Day in the schools of Rhode Island, May 10, 1929
+Y1  - 1929
+D1  - 05/1929
+SP  - 32
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1929
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island. Office of Commissioner of Education
+T1  - Fortieth annual program for the observance of Arbor Day in the schools of Rhode Island, May 8, 1931
+Y1  - 1931
+D1  - 05/1931
+SP  - 32
+KW  - Arbor day
+N1  - Cover title./Rhode Island Arbor Day; Shelved in Cubberley Library Reading Room
+PB  - Rhode Island Office of Commissioner of Education
+LA  - English
+CN  - 379.74 .R1 1931
+SC  - Rhode Island
+ER  - 
