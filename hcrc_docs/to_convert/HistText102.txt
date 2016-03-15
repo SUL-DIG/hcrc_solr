@@ -1,0 +1,1165 @@
+
+TY  - BOOK
+A2  - Placer County (California) Schools
+T1  - Manual and course of study for the elementary schools of Placer County, California
+Y1  - 1915
+D1  - 06/1915
+SP  - 74
+KW  - Curricula
+KW  - Elementary education
+PB  - Placer County Schools
+CY  - Auburn, CA
+LA  - English
+CN  - 375.13 .P71m 1915
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Plumas County (California) Superintendent of Schools
+T1  - Course of study of the public schools of Plumas County, together with rules and regulations for the graduation of pupils and the examination of applicants for teachers' certificates.
+Y1  - 1897
+D1  - 05/1897
+SP  - 40
+KW  - Curricula
+KW  - Public schools
+PB  - Plumas County Superintendent of Schools
+CY  - Greenville, CA
+LA  - English
+CN  - 375.82 .P73c 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Plymouth (New Hampshire) High School
+T1  - Catalogue and circular
+Y1  - 1902
+D1  - 1902-1903
+SP  - 16
+KW  - Curricular
+KW  - High schools
+PB  - Plymouth High School
+CY  - Plymouth, NH
+LA  - English
+CN  - 375.15 .P74c 1903
+SC  - New Hampshire
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pocatello (Idaho) Public Schools
+T1  - Manual for the high school
+D1  - 1904?
+KW  - Curricula
+KW  - High schools
+PB  - Pocatello Public Schools
+CY  - Pocatello, IA
+LA  - English
+CN  - 375.15 .P75m
+SC  - Idaho
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Polo (Illinois) Public Schools
+T1  - Polo High Schools course of study
+Y1  - 1899
+D1  - 1899-1900
+KW  - Curricula
+KW  - High schools
+PB  - Polo Public Schools
+CY  - Polo, IL
+LA  - English
+CN  - 375.15 .P77c 1899
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pocatello (Idaho) Public Schools
+T1  - High schools, junior and senior
+SP  - 11
+KW  - Curricula
+KW  - Junior high schools
+KW  - High schools
+PB  - Pocatello Public Schools
+CY  - Pocatello, IA
+LA  - English
+CN  - 375.15 .P75h
+SC  - Idaho
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Polo (Illinois) Public Schools. Polo High School
+T1  - Courses of study
+Y1  - 1900
+D1  - 1900-1901
+KW  - Curricula
+KW  - High schools
+PB  - Polo Public Schools
+CY  - Polo, IL
+LA  - English
+CN  - 375.15 .P77c 1900
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) City Schools
+T1  - Course of study
+Y1  - 1907
+D1  - 1907-1908
+SP  - 63
+KW  - Curricula
+KW  - Public schools
+PB  - Pomona City Schools
+CY  - Pomona, CA
+LA  - English
+CN  - 375.83 .P78c 1907
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) City Schools
+T1  - Pomona City High School Curriculum
+Y1  - 1909
+D1  - 1909-1910
+KW  - Curricula
+KW  - High schools
+PB  - Pomona City Schools
+CY  - Pomona, CA
+LA  - English
+CN  - 375.15 .P78p 1909
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) City Schools
+T1  - Manual for the public schools of Pomona City, California
+Y1  - 1911
+D1  - 09/1911
+SP  - 98
+KW  - Curricula
+KW  - Public schools
+PB  - Pomona City Schools
+CY  - Pomona, CA
+LA  - English
+CN  - 375.83 .P78m 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) City Schools
+T1  - A primer of school finance for patrons of Pomona Schools
+Y1  - 1916
+D1  - 07/1916
+SP  - 15
+KW  - Curricula
+KW  - Public schools
+T2  - Pomona schools bulletin
+V1  - 1
+PB  - Pomona City Schools
+CY  - Pomona, CA
+LA  - English
+CN  - 375.83 .P78p 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pomona (California) City Schools
+T1  - Catalog and courses of study Pomona Elementary and High Schools
+Y1  - 1916
+D1  - 07/1916
+SP  - 97
+KW  - Curricula
+KW  - Public schools
+T2  - Pomona schools bulletin
+V1  - 2
+PB  - Pomona City Schools
+CY  - Pomona, CA
+LA  - English
+CN  - 375.83 .P78c 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Outlines of high schools courses
+Y1  - 1914
+D1  - 1914-1915
+SP  - 32
+KW  - Curricula
+KW  - High schools
+PB  - Portland Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.15 .P85o 1914
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Courses of study of the Portland High School
+Y1  - 1894
+D1  - 1894-1895
+KW  - Curricula
+KW  - High schools
+PB  - Portland Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.15 .P85c 1894
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Elementary course of study
+Y1  - 1917
+D1  - 1917
+SP  - 127
+KW  - Curricula
+KW  - Elementary education
+PB  - Portland Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.13 .P85e 1917
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Elementary course of study
+Y1  - 1918
+D1  - 1918
+SP  - 132
+KW  - Curricula
+KW  - Elementary education
+PB  - Portland Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.13 .P85e 1918
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Course of study elementary
+Y1  - 1921
+D1  - 1921
+SP  - 125
+KW  - Curricula
+KW  - Elementary education
+PB  - Portland Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.13 .P85e 1921
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Portland (Oregon) Public Schools
+T1  - Courses of study offered at the various secondary schools
+Y1  - 1921
+D1  - 05/1921
+SP  - 30
+KW  - Curricula
+KW  - High schools
+PB  - Portland Public Schools
+CY  - Portland, OR
+LA  - English
+CN  - 375.15 .P85c 1921
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pontiac (Illinois) Township High School
+T1  - Catalogue
+Y1  - 1907
+D1  - 1907-1908
+SP  - 36
+KW  - Curricula
+KW  - High schools
+PB  - Pontiac Township High School
+CY  - Pontiac, IL
+LA  - English
+CN  - 375.15 .P80c 1907
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Prescott (Arizona) Public Schools
+T1  - Catalogue of the Prescott Public Schools
+Y1  - 1909
+D1  - 08/1909
+SP  - 61
+KW  - Curricula
+KW  - Public schools
+PB  - Prescott Public Schools
+CY  - Prescott, AZ
+LA  - English
+CN  - 375.83 .P87c 1909
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Princeton (Illinois) High School
+T1  - Catalog of the officers, teachers and students of Princeton High School
+Y1  - 1903
+D1  - 1902-1903
+SP  - 57
+KW  - Curricula
+KW  - High schools
+PB  - Princeton High School
+CY  - Princeton, IL
+LA  - English
+CN  - 375.15 .P951c 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Course of study - Providence High School
+KW  - Curricula
+KW  - High schools
+PB  - Providence High School
+CY  - Providence, RI
+LA  - English
+CN  - 375.15 .P96c
+SC  - Rhode Island
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - High school opportunities in Providence
+Y1  - 1911
+D1  - 06/1911
+SP  - 12
+KW  - Curricula
+KW  - Public schools
+PB  - Providence Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 375.15 .P96h 1911
+SC  - Rhode Island
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Courses of study in the high schools
+Y1  - 1914
+D1  - 1914
+SP  - 12
+KW  - Curricula
+KW  - Public schools
+PB  - Providence Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 375.15 .P96c 1914
+SC  - Rhode Island
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Courses of study in the high schools
+Y1  - 1915
+D1  - 1915
+SP  - 12
+KW  - Curricula
+KW  - Public schools
+PB  - Providence Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 375.15 .P96c 1915
+SC  - Rhode Island
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Department of Public Schools
+T1  - Courses of study in the high schools
+Y1  - 1918
+D1  - 1918
+SP  - 12
+KW  - Curricula
+KW  - Public schools
+PB  - Providence Department of Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 375.15 .P96c 1918
+SC  - Rhode Island
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (Indiana) Public Schools
+T1  - Program of studies in the Richmond High School
+Y1  - 1914
+D1  - 01/1914
+KW  - Curricula
+KW  - High schools
+PB  - Richmond High School
+CY  - Richmond, IN
+LA  - English
+CN  - 375.15 .R532p 1914
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - John Marshall High School (Richmond, Virginia)
+T1  - Military training
+SP  - 3
+KW  - Military education
+KW  - High schools
+PB  - John Marshall High School
+CY  - Richmond, VA
+LA  - English
+CN  - 371.43 .R531m
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - John Marshall High School (Richmond, Virginia)
+T1  - Entrance requirements, courses of study, scholarships, and other information
+D1  - 1911?
+SP  - 6
+KW  - Curricula
+KW  - High schools
+PB  - John Marshall High School
+CY  - Richmond, VA
+LA  - English
+CN  - 375.15 .R531e
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - John Marshall High School (Richmond, Virginia)
+T1  - Music course
+D1  - 1918?
+SP  - 3
+KW  - Music education
+KW  - High schools
+PB  - John Marshall High School
+CY  - Richmond, VA
+LA  - English
+CN  - 780 .R531m
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - John Marshall High School (Richmond, Virginia)
+T1  - Courses of study
+Y1  - 1916
+D1  - 06/1916
+SP  - 63
+KW  - Curricula
+KW  - High schools
+PB  - John Marshall High School
+CY  - Richmond, VA
+LA  - English
+CN  - 375.15 .R531c 1916
+SC  - Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Richmond (Virginia) Public Schools
+T1  - Bulletin and course of study of the Richmond city schools
+Y1  - 1926
+D1  - 1926
+SP  - 266
+KW  - Curricula
+KW  - Public schools
+PB  - Richmond Public Schools
+CY  - Richmond, VA
+LA  - English
+CN  - 375.83 .R531b 1926
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A2  - Redondo (California) Union High School
+T1  - Course of study
+Y1  - 1919
+D1  - 1919-1920
+KW  - Curricula
+KW  - High schools
+PB  - Redondo Union High School
+CY  - Redondo Beach, CA
+LA  - English
+CN  - 375.15 .R311c 1919
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - School manual for Riverside County containing the  course of study, rules concerning teachers' certificates, graduation of pupils and general suggestions for schools
+Y1  - 1896
+D1  - 1896
+SP  - 69
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - Supplement to the school manual
+Y1  - 1897
+D1  - 07/1897
+SP  - 13
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - School manual for Riverside County containing the  course of study, rules concerning teachers' certificates, graduation of pupils and general suggestions for schools
+Y1  - 1899
+D1  - 1899
+SP  - 88
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - Rules of the County Board of Education, containing outline course of study, adopted lists of text books and apparatus, and rules concerning teachers' certificates
+Y1  - 1902
+D1  - 1902
+SP  - 16
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62r 1902
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - School manual of Riverside County, California containing suggestions to parents and teachers, course of study, general remarks on branches taught, lists of books and apparatus, rules for examining teachers, method of graduating pupils, map of Riverside County
+Y1  - 1905
+D1  - 1905
+SP  - 69
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1905
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - Supplement to the school manual of 1905
+Y1  - 1908
+D1  - 1908
+SP  - 25
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - School manual and course of study
+Y1  - 1909
+D1  - 1909
+SP  - 82
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1909
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - School manual and course of study
+Y1  - 1912
+D1  - 1912
+SP  - 88
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - Supplement to the course of study Baltimore County Schools for the Schools of Riverside County, California
+Y1  - 1921
+D1  - 1921
+SP  - 20
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 375.82 .R62s 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - Annual financial statement: receipts, disbursements & statistics of the county of Riverside, California
+Y1  - 1915
+D1  - 1915-1916
+SP  - 54
+KW  - Curricula
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 379.11 .R62a 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - Some hints for studying California rocks
+KW  - Geology
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 519 .R62s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Riverside County (California) Board of Education
+T1  - School directory
+Y1  - 1908
+D1  - 1908-1909
+KW  - Directories
+KW  - Public schools
+PB  - Riverside County Board of Education
+CY  - Riverside, CA
+LA  - English
+CN  - 379.16 .R62s 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Course of study of the public schools of the city of Rochester, New York
+Y1  - 1901
+D1  - 07/1901
+SP  - 231
+KW  - Curricula
+KW  - Public schools
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 375.83 .R67c 1901
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Outline course of study of the public schools of the city of Rochester, New York
+Y1  - 1914
+D1  - 1914
+SP  - 303
+KW  - Curricula
+KW  - Public schools
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 375.83 .R67o 1914
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - The public school program.
+Y1  - 1926
+D1  - 1926
+SP  - 94
+KW  - Curricula
+KW  - Public schools
+N1  - "Reprints of a series of articles describing the program of instruction pursued in the public schools of Rochester, New York."
+T2  - Democrat and Chronicle reprints
+V1  - 3
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 375.83 .R67p 1926
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Course of study: objective I--language arts and the tools of learning: kindergarten-primary promotional unit
+Y1  - 1937
+D1  - 09/1937
+SP  - 302
+KW  - Curricula
+KW  - Language arts
+KW  - Kindergarten
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 375.13 .R67c 1937
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Course of study: objective II--health and natural science: kindergarten-primary promotional unit
+Y1  - 1938
+D1  - 1938
+SP  - 264
+KW  - Curricula
+KW  - Health education
+KW  - Science
+KW  - Kindergarten
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 375.13 .R67c 1938
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Course of study: objective II--health and natural science: elementary promotional unit
+Y1  - 1939
+D1  - 09/1939
+SP  - 356
+KW  - Curricula
+KW  - Health education
+KW  - Science
+KW  - Kindergarten
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 375.13 .R67c 1939
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Rock Island (Illinois) Public Schools
+T1  - Rock Island High School Yearbook
+Y1  - 1913
+D1  - 1913-1914
+SP  - 43
+KW  - Curricula
+KW  - High schools
+PB  - Rock Island High School
+CY  - Rock Island, IL
+LA  - English
+CN  - 375.15 .R68y 1913
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Rockford (Illinois) High School
+T1  - Rockford High School
+Y1  - 1903
+D1  - 1903
+SP  - 30
+KW  - Curricula
+KW  - High schools
+PB  - Rockford High School
+CY  - Rockford, IL
+LA  - English
+CN  - 375.15 .R681r 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Rockville (Indiana) Public Schools
+T1  - High school catalogue with a list of alumni; revised course for the grades; catalogue of library books
+Y1  - 1899
+D1  - 08/1899
+SP  - 30
+KW  - Curricula
+KW  - High schools
+PB  - Rockville Public Schools
+CY  - Rockville, IN
+LA  - English
+CN  - 375.15 .R682h 1899
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Roslyn (Washington) Public Schools
+T1  - Course of study in the Roslyn Public Schools, District no. 24
+Y1  - 1914
+D1  - 1914
+SP  - 32
+KW  - Curricula
+KW  - Public schools
+PB  - Roslyn Public Schools
+CY  - Roslyn, WA
+LA  - English
+CN  - 375.83 .R821c 1914
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Roxbury (Massachusetts) High School
+T1  - Catalogue
+Y1  - 1900
+D1  - 1900-1901
+SP  - 75
+KW  - Curricula
+KW  - High schools
+PB  - Roxbury High School
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .R881c 1900
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Roxbury (Massachusetts) High School
+T1  - Catalogue
+Y1  - 1901
+D1  - 1901-1902
+SP  - 60
+KW  - Curricula
+KW  - High schools
+PB  - Roxbury High School
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .R881c 1901
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Roxbury (Massachusetts) High School
+T1  - Catalogue
+Y1  - 1902
+D1  - 1902-1903
+SP  - 53
+KW  - Curricula
+KW  - High schools
+PB  - Roxbury High School
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .R881c 1902
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Roxbury (Massachusetts) High School
+T1  - Catalogue
+Y1  - 1903
+D1  - 1903-1904
+SP  - 52
+KW  - Curricula
+KW  - High schools
+PB  - Roxbury High School
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .R881c 1903
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Roxbury (Massachusetts) High School
+T1  - Catalogue
+Y1  - 1904
+D1  - 1904-1905
+SP  - 49
+KW  - Curricula
+KW  - High schools
+PB  - Roxbury High School
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .R881c 1904
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Roxbury (Massachusetts) High School
+T1  - Catalogue
+Y1  - 1905
+D1  - 1905-1906
+SP  - 49
+KW  - Curricula
+KW  - High schools
+PB  - Roxbury High School
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .R881c 1905
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Roxbury (Massachusetts) High School
+T1  - Catalogue
+Y1  - 1906
+D1  - 1906-1907
+SP  - 46
+KW  - Curricula
+KW  - High schools
+PB  - Roxbury High School
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .R881c 1906
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Rutland (Vermont) Public Schools
+T1  - Course of study for nine years
+D1  - 1903?
+SP  - 27
+KW  - Curricula
+KW  - Public schools
+PB  - Rutland Public Schools
+CY  - Rutland, VT
+LA  - English
+CN  - 375.83 .R90c
+SC  - Vermont
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Public Schools
+T1  - School manual for the use of the public schools of Sacramento County, Cal., containing rules of the board of education, course of study, suggestions to teachers, suggestions to trustees, list of library books, etc.
+Y1  - 1895
+D1  - 07/1895
+SP  - 58
+KW  - Curricula
+KW  - Public schools
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.82 .S12s 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Public Schools
+T1  - School manual for the use of the public schools of Sacramento County, Cal., containing rules of the board of education, course of study, suggestions to teachers, suggestions to trustees, list of library books, etc.
+Y1  - 1898
+D1  - 07/1898
+SP  - 52
+KW  - Curricula
+KW  - Public schools
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.82 .S12s 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Public Schools
+T1  - School manual for the use of the public schools of Sacramento County, Cal., containing rules of the board of education, course of study, suggestions to teachers, suggestions to trustees, list of library books, etc.
+Y1  - 1901
+D1  - 07/1901
+SP  - 59
+KW  - Curricula
+KW  - Public schools
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.82 .S12s 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Public Schools
+T1  - School manual 
+Y1  - 1908
+D1  - 1908
+SP  - 148
+KW  - Curricula
+KW  - Public schools
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.82 .S12s 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Public Schools
+T1  - Manual of the Sacramento High School
+Y1  - 1911
+D1  - 09/1911
+SP  - 32
+KW  - Curricula
+KW  - High schools
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .S12s 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Public Schools
+T1  - Manual for the use of the public schools of Sacramento County, Cal., containing rules of the board of education, course of study, suggestions to teachers, suggestions to trustees, list of library books, etc., etc.
+Y1  - 1915
+D1  - 07/1915
+SP  - 96
+KW  - Curricula
+KW  - Public schools
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.82 .S12m 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento County (California) Public Schools
+T1  - Course of study
+Y1  - 1920
+D1  - 1920
+SP  - 55
+KW  - Curricula
+KW  - Public schools
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.82 .S12s 1920
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Elementary English language
+Y1  - 1932
+D1  - 06/1932
+SP  - 125
+KW  - English language
+KW  - Elementary education
+KW  - Curricula
+T2  - Sacramento City Public Schools. Course of study monograph
+V1  - 4
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .S12e 1932
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Lawson, F. Melvyn
+A2  - Sacramento County (California) Public Schools
+T1  - Course of study guide book
+Y1  - 1939
+D1  - 03/1939
+SP  - 16
+KW  - Curricula
+KW  - High schools
+T2  - Sacramento Senior High School bulletin
+V1  - 3
+PB  - Sacramento County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .S12c 1939
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Saginaw (Michigan) High School
+T1  - Catalogue
+Y1  - 1905
+D1  - 08/1905
+SP  - 40
+KW  - Curricula
+KW  - High schools
+PB  - Saginaw High School
+CY  - Saginaw, MI
+LA  - English
+CN  - 375.15 .S13c 1905
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Saginaw (Michigan) High School
+T1  - Circular of information and curriculum of study
+Y1  - 1914
+D1  - 1914
+SP  - 15
+KW  - Curricula
+KW  - High schools
+PB  - Saginaw High School
+CY  - Saginaw, MI
+LA  - English
+CN  - 375.15 .S13c 1914
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Saginaw (Michigan) High School
+T1  - Circular of information and curriculum of study
+Y1  - 1917
+D1  - 1917
+KW  - Curricula
+KW  - High schools
+PB  - Saginaw High School
+CY  - Saginaw, MI
+LA  - English
+CN  - 375.15 .S13c 1914
+SC  - Michigan
+G1  - High school
+ER  - 
+
