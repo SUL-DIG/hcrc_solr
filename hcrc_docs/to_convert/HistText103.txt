@@ -1,0 +1,1331 @@
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Manual for the elementary schools of San Diego County, California
+Y1  - 1921
+D1  - 1921-1923
+SP  - 126
+KW  - Elementary education
+KW  - Curricula
+PB  - San Diego County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S194m 1921
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Manual for the elementary schools of San Diego County, California
+Y1  - 1923
+D1  - 1923-1925
+SP  - 92
+KW  - Elementary education
+KW  - Curricula
+PB  - San Diego County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S194m 1923
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Manual for the elementary schools of San Diego County, California
+Y1  - 1927
+D1  - 1927-1929
+SP  - 102
+KW  - Elementary education
+KW  - Curricula
+PB  - San Diego County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S194m 1927
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Saginaw (Michigan) City Schools
+T1  - An overview of the Saginaw curriculum program
+Y1  - 1938
+D1  - 08/1938
+SP  - 92
+KW  - Curricula
+KW  - Public schools
+PB  - Saginaw City Schools
+CY  - Saginaw, MI
+LA  - English
+CN  - 375.83 .S13o 1938
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - St. Cloud (Minnesota) Public Schools
+T1  - Report of the public schools of St. Cloud, Minnesota
+Y1  - 1920
+D1  - 1920-1923
+SP  - 192
+KW  - Curricula
+KW  - Public schools
+PB  - St. Cloud Public Schools
+CY  - St. Cloud, MN
+LA  - English
+CN  - 375.83 .S135r 1920
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - St. Johns (Michigan) High School
+T1  - Announcement of the St. Johns High School
+Y1  - 1914
+D1  - 1914-1915
+SP  - 8
+KW  - Curricula
+KW  - High schools
+PB  - St. Johns High School
+CY  - St. Johns, MI
+LA  - English
+CN  - 375.15 .S137a 1914
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Normal and High School
+T1  - Course of study
+Y1  - 1895
+D1  - 07/1895
+SP  - 46
+KW  - Curricula
+KW  - High schools
+KW  - Teachers colleges
+PB  - St. Louis Normal and High School
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14c 1895
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Manual Training School
+T1  - A catalogue of the teachers, students, course of study, and methods of instruction in the St. Louis Manual Training School connected with Washington University
+Y1  - 1898
+D1  - 1898-1899
+SP  - 104
+KW  - Curricula
+KW  - Manual training
+PB  - St. Louis Manual Training School
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14c 1898
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - The James E. Yeatman High School (St. Louis, Missouri)
+T1  - Graduating exercises, the class of June 1906
+Y1  - 1906
+D1  - 06/1906
+KW  - High schools
+N1  - Includes program for play "Silas Marner: the weaver of Raveloe, a drama based on George Eliot's novel of the same name."
+PB  - James E. Yeatman High School
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14g 1906
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Public Schools
+T1  - Outline of the course of study
+Y1  - 1911
+D1  - 1911, reprinted May, 1914
+KW  - Curricula
+KW  - Public schools
+PB  - St. Louis Public Schools
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.83 .S14o 1911
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - High school course of study
+Y1  - 1904
+D1  - 09/1904
+SP  - 16
+KW  - Curricula
+KW  - High schools
+PB  - St. Louis Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14h 1904
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - High school course of study
+Y1  - 1906
+D1  - 11/1906
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - St. Louis Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14h 1906
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - Course of study in manual training for boys for the district schools
+Y1  - 1907
+D1  - 06/1907
+SP  - 14
+KW  - Curricula
+KW  - Manual training
+PB  - St. Louis Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.83 .S14c 1907
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - Organization and administration of high school courses
+Y1  - 1907
+D1  - 1907-1908
+SP  - 223
+KW  - Curricula
+KW  - High schools
+PB  - St. Louis Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14o 1907
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - High school course of study
+Y1  - 1910
+D1  - 01/1910
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - St. Louis Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14h 1910
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - High school courses of study
+Y1  - 1913
+D1  - 12/1913
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - St. Louis Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14h 1913
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Louis (Missouri) Board of Education
+T1  - High school courses of study
+Y1  - 1916
+D1  - 01/1916
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - St. Louis Board of Education
+CY  - St. Louis, MO
+LA  - English
+CN  - 375.15 .S14h 1916
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - St. Paul (Minnesota) Public Schools
+T1  - Manual of the Board of School Inspectors and public schools of city of St. Paul, Minn.
+Y1  - 1891
+D1  - 1891
+SP  - 204
+KW  - Curricula
+KW  - Public schools
+PB  - St. Paul Public Schools
+CY  - St. Paul, MN
+LA  - English
+CN  - 375.83 .S15m 1891
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Salem (Massachusetts) High Schools
+T1  - Prospectus
+D1  - 1918?
+SP  - 7
+KW  - Curricula
+KW  - High schools
+PB  - Salem High Schools
+CY  - Salem, MA
+LA  - English
+CN  - 375.15 .S155p
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Salinas (California) Union High School District
+T1  - Course of study of the Salinas High School
+Y1  - 1898
+D1  - 1898-1899
+SP  - 17
+KW  - Curricula
+KW  - High schools
+PB  - Salina High School
+CY  - Salinas, CA
+LA  - English
+CN  - 375.15 .S16c 1898
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Salinas (California) Union High School District
+T1  - Course of study of the Salinas High School
+Y1  - 1915
+D1  - 1915-1916
+SP  - 20
+KW  - Curricula
+KW  - High schools
+PB  - Salina High School
+CY  - Salinas, CA
+LA  - English
+CN  - 375.15 .S16c 1915
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Courses of study
+Y1  - 1908
+D1  - 09/1908
+SP  - 351
+KW  - Curricula
+KW  - Public schools
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.83 .S17c 1908
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Courses of study
+Y1  - 1911
+D1  - 09/1911
+SP  - 410
+KW  - Curricula
+KW  - Public schools
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.83 .S17c 1911
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Courses of study
+Y1  - 1912
+D1  - 09/1912
+SP  - 260
+KW  - Curricula
+KW  - Public schools
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.83 .S17c 1912
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Courses of study
+Y1  - 1914
+D1  - 09/1914
+SP  - 262
+KW  - Curricula
+KW  - Public schools
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.83 .S17c 1914
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools. High School Department
+T1  - Courses and outlines
+Y1  - 1914
+D1  - 09/1914
+SP  - 262
+KW  - Curricula
+KW  - High schools
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.15 .S17c 1914
+SC  - Utah
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Courses of study
+Y1  - 1917
+D1  - 09/1917
+SP  - 288
+KW  - Curricula
+KW  - High schools
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.15 .S17c 1917
+SC  - Utah
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools. Junior and Senior High Schools
+T1  - Syllabus of courses of study
+Y1  - 1921
+D1  - 09/1921
+SP  - 54
+KW  - Curricula
+KW  - Junior high schools
+KW  - High schools
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.15 .S17s 1921
+SC  - Utah
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Course of study: kindergarten, music, art, home economics, industrial arts
+Y1  - 1921
+D1  - 09/1921
+SP  - 75
+KW  - Curricula
+KW  - Elementary education
+KW  - Kindergarten
+KW  - Music education
+KW  - Art education
+KW  - Home economics
+KW  - Industrial arts
+PB  - Salt Lake City Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 375.13 .S17c 1921
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Public Schools
+T1  - Rules and regulations for the government of the San Antonio Public Schools and course of study
+Y1  - 1898
+D1  - 1989-1899
+SP  - 53
+KW  - Curricula
+KW  - Public schools
+PB  - San Antonio Public Schools
+CY  - San Antonio, TX
+LA  - English
+CN  - 375.83 .S189r 1898
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Public Schools
+T1  - High school course of study
+Y1  - 1918
+D1  - 1918
+KW  - Curricula
+KW  - High schools
+PB  - San Antonio Public Schools
+CY  - San Antonio, TX
+LA  - English
+CN  - 375.15 .S189h 1918
+SC  - Texas
+G1  - High schools
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Public Schools
+T1  - The teaching of occupations and guidance practices in San Antonio Junior Schools
+Y1  - 1936
+D1  - 11/1936
+SP  - 46
+KW  - Curricula
+KW  - Junior high schools
+T2  - San Antonio Public Schools bulletin
+PB  - San Antonio Public Schools
+CY  - San Antonio, TX
+LA  - English
+CN  - 375.14 .S189t 1936
+SC  - Texas
+G1  - Middle schools
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Course of study
+Y1  - 1897
+D1  - 06/1897
+SP  - 29
+KW  - Curricula
+KW  - Public schools
+PB  - San Benito County Board of Education
+LA  - English
+CN  - 375.82 .S188c 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Manual of the San Benito County High School
+Y1  - 1909
+D1  - 1909
+SP  - 18
+KW  - Curricula
+KW  - High schools
+PB  - San Benito County Board of Education
+CY  - Hollister, CA
+LA  - English
+CN  - 375.15 .S188m 1909
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Manual of the elementary schools of San Benito County
+Y1  - 1912
+D1  - 06/1912
+SP  - 68
+KW  - Curricula
+KW  - Elementary education
+PB  - San Benito County Board of Education
+CY  - Hollister, CA
+LA  - English
+CN  - 375.13 .S188m 1912
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Manual of the elementary schools of San Benito County
+Y1  - 1921
+D1  - 06/1921
+SP  - 85
+KW  - Curricula
+KW  - Elementary education
+PB  - San Benito County Board of Education
+CY  - Hollister, CA
+LA  - English
+CN  - 375.13 .S188m 1921
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Manual for the public schools of San Benito County, California
+Y1  - 1897
+D1  - 06/1897
+SP  - 71
+KW  - Curricula
+KW  - Public schools
+PB  - San Benito County Board of Education
+CY  - Hollister, CA
+LA  - English
+CN  - 375.82 .S188m 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Manual for the public schools of San Benito County, California
+Y1  - 1892
+D1  - 09/1892
+SP  - 40
+KW  - Curricula
+KW  - Public schools
+PB  - San Benito County Board of Education
+CY  - Hollister, CA
+LA  - English
+CN  - 375.82 .S188m 1892
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Manual for the public schools of San Benito County, California
+Y1  - 1895
+D1  - 1895
+SP  - 66
+KW  - Curricula
+KW  - Public schools
+PB  - San Benito County Board of Education
+CY  - Hollister, CA
+LA  - English
+CN  - 375.82 .S188m 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Benito County (California) Board of Education
+T1  - Manual for the public schools of San Benito County, California
+Y1  - 1903
+D1  - 06/1903
+SP  - 123
+KW  - Curricula
+KW  - Public schools
+PB  - San Benito County Board of Education
+CY  - Hollister, CA
+LA  - English
+CN  - 375.82 .S188m 1903
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Bernadino (California) City Schools
+T1  - Courses of study, San Bernardino High School
+Y1  - 1910
+D1  - 1910-1911
+KW  - Curricula
+KW  - High schools
+PB  - San Bernardino City Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 375.15 .S189c 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Bernadino (California) City Schools
+T1  - Courses of study, San Bernardino High School
+Y1  - 1919
+D1  - 1919-1920
+KW  - Curricula
+KW  - High schools
+PB  - San Bernardino City Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 375.15 .S189c 1919
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Bernadino (California) High School
+T1  - Manual of course of study with explanations and rules
+Y1  - 1911
+D1  - 1911-1912
+KW  - Curricula
+KW  - High schools
+PB  - San Bernardino High School
+CY  - San Bernardino, CA
+LA  - English
+CN  - 375.15 .S189m 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino County (California) Superintendent of Schools
+T1  - Manual of course of study for the elementary schools of San Bernardino County, California
+Y1  - 1912
+D1  - 1912
+KW  - Curricula
+KW  - Elementary education
+PB  - San Bernardino High School
+CY  - San Bernardino, CA
+LA  - English
+CN  - 375.13 .S189m 1912
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino County (California) Superintendent of Schools
+T1  - Manual of course of study for the elementary schools of San Bernardino County, California
+Y1  - 1916
+D1  - 1916
+KW  - Curricula
+KW  - Elementary education
+PB  - San Bernardino High School
+CY  - San Bernardino, CA
+LA  - English
+CN  - 375.13 .S189m 1916
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Partial course of study, primary and grammar grades: language
+Y1  - 1892
+D1  - 01/1892
+SP  - 35
+KW  - Language arts
+KW  - Curricula
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 428.2 .S193p 1892
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Report of the public schools of San Diego, California, also containing the course of study
+Y1  - 1897
+D1  - 1897
+SP  - 196
+KW  - Public schools
+KW  - Curricula
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.83 .S193r 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Outline of studies for the primary and grammar schools
+Y1  - 1901
+D1  - 1901
+SP  - 95
+KW  - Curricula
+KW  - Public schools
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.83 .S193o 1901
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Public school manual
+Y1  - 1908
+D1  - 06/1908
+SP  - 96
+KW  - Curricula
+KW  - Public schools
+PB  - San Diego County Schools
+LA  - English
+CN  - 375.82 .S194p 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) High School
+T1  - Manual
+Y1  - 1911
+D1  - 1911-1912
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - San Diego High School
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S194m 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Manual of geography for the public schools of San Diego County, California
+Y1  - 1912
+D1  - 1912
+SP  - 95
+KW  - Curricula
+KW  - Geography
+PB  - San Diego County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 910 .S194m 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Manual for the elementary schools of San Diego County, California
+Y1  - 1913
+D1  - 07/1913
+SP  - 107
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego County Schools
+LA  - English
+CN  - 375.13 .S194m 1913
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Manual for the elementary schools of San Diego County, California
+Y1  - 1914
+D1  - 1914-1915
+SP  - 112
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego County Schools
+LA  - English
+CN  - 375.13 .S194m 1914
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Course of study in the elementary schools
+Y1  - 1915
+D1  - 1915
+SP  - 135
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego County Schools
+LA  - English
+CN  - 375.13 .S194c 1915
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) High School
+T1  - Manual
+Y1  - 1915
+D1  - 1915-1916
+SP  - 54
+KW  - Curricula
+KW  - High schools
+PB  - San Diego High School
+CY  - San Diego, CA
+LA  - English
+CN  - 375.15 .S194m 1915
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) Junior High Schools
+T1  - Program of studies and curriculum organization
+Y1  - 1922
+D1  - 1922
+KW  - Curricula
+KW  - Junior high schools
+PB  - San Diego Junior High Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.14 .S193p 1922
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A suggestive course of study for the kindergartens
+Y1  - 1924
+D1  - 06/1924
+SP  - 32
+KW  - Curricula
+KW  - Kindergarten
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.11 .S193s 1924
+SC  - California
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A suggestive course of study for the first grade of the elementary schools
+Y1  - 1924
+D1  - 06/1924
+SP  - 34
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193s 1924 1st gr.
+SC  - California
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A suggestive course of study for the second grade of the elementary schools
+Y1  - 1924
+D1  - 06/1924
+SP  - 39
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193s 1924 2nd gr.
+SC  - California
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A suggestive course of study for the third grade of the elementary schools
+Y1  - 1924
+D1  - 06/1924
+SP  - 50
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193s 1924 3rd gr.
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A suggestive course of study for the fourth grade of the elementary schools
+Y1  - 1924
+D1  - 06/1924
+SP  - 52
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193s 1924 4th gr.
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A suggestive course of study for the fifth grade of the elementary schools
+Y1  - 1924
+D1  - 06/1924
+SP  - 43
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193s 1924 5th gr.
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - A suggestive course of study for the sixth grade of the elementary schools
+Y1  - 1924
+D1  - 06/1924
+SP  - 45
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193s 1924 6th gr.
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Course of study for elementary schools
+Y1  - 1943
+D1  - 09/1943
+SP  - 130
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193c 1943
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Course of study handbook
+Y1  - 1948
+D1  - 10/1948
+SP  - 148
+KW  - Curricula
+KW  - Elementary education
+PB  - San Diego County Schools
+LA  - English
+CN  - 375.13 .S194c 1948
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Report to parents, kindergarten, grades 1, 2, 3, and grades 4, 5, 6
+Y1  - 1951
+D1  - 11/1951
+KW  - Grading and marking
+KW  - Elementary education
+N1  - 3 forms
+PB  - San Diego County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 379.2 .S194r 1951
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Public Schools
+T1  - Course of study for the public schools of the city and county of San Francisco
+Y1  - 1889
+D1  - 1889
+SP  - 91
+KW  - Curricula
+KW  - Public schools
+PB  - San Francisco Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.82 .S195c 1889
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Public Schools
+T1  - Courses of study for the public schools of the city and county of San Francisco, California
+Y1  - 1900
+D1  - 1900
+SP  - 311
+KW  - Curricula
+KW  - Public schools
+PB  - San Francisco Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.82 .S195c 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Department of Education
+T1  - Supplement to the course of study
+Y1  - 1904
+D1  - 07/1904
+SP  - 87
+KW  - Curricula
+KW  - Public schools
+PB  - San Francisco Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.82 .S195s 1904
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Department of Education
+T1  - Courses of study
+Y1  - 1905
+D1  - 07/1905
+SP  - 264
+KW  - Curricula
+KW  - Public schools
+PB  - San Francisco Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.82 .S195c 1905
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Department of Education
+T1  - Courses of study
+Y1  - 1905
+D1  - 07/1905
+SP  - 264
+KW  - Curricula
+KW  - Public schools
+PB  - San Francisco Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.82 .S195c 1905
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Department of Education
+T1  - Course of study for the San Francisco high schools
+Y1  - 1913
+D1  - 07/1913
+SP  - 28
+KW  - Curricula
+KW  - High schools
+PB  - San Francisco Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 375.15 .S195c 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Fernando (California) Union High School
+T1  - Manual of the San Fernando Union High School
+Y1  - 1910
+D1  - 1910-1911
+SP  - 26
+KW  - Curricula
+KW  - High schools
+PB  - San Fernando Union High School
+CY  - San Fernando, CA
+LA  - English
+CN  - 375.15 .S1945m 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Joaquin County (California) Public Schools
+T1  - Manual for the public schools of San Joaquin County, California
+Y1  - 1896
+D1  - 1896
+SP  - 58
+KW  - Curricula
+KW  - Public schools
+PB  - San Joaquin County Public Schools
+CY  - Stockton, CA
+LA  - English
+CN  - 375.82 .S195m 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Joaquin Valley Teachers' Association
+T1  - Report of the third annual session of the San Joaquin Valley Teachers' Association
+Y1  - 1899
+D1  - 1899
+SP  - 80
+KW  - Teachers
+PB  - San Joaquin County Public Schools
+CY  - Stockton, CA
+LA  - English
+CN  - 371.152 .S195r 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Joaquin County (California) Public Schools
+T1  - Manual and course of study for the public schools of San Joaquin County, California
+Y1  - 1906
+D1  - 1906
+SP  - 48
+KW  - Curricula
+KW  - Public schools
+PB  - San Joaquin County Public Schools
+CY  - Stockton, CA
+LA  - English
+CN  - 375.82 .S195m 1906
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Joaquin County (California) Public Schools
+T1  - Public school manual
+Y1  - 1913
+D1  - 06/1913
+SP  - 75
+KW  - Curricula
+KW  - Public schools
+PB  - San Joaquin County Public Schools
+CY  - Stockton, CA
+LA  - English
+CN  - 375.82 .S195p 1913
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Joaquin County (California) Public Schools
+T1  - Public school manual
+Y1  - 1921
+D1  - 06/1921
+SP  - 75
+KW  - Curricula
+KW  - Public schools
+PB  - San Joaquin County Public Schools
+CY  - Stockton, CA
+LA  - English
+CN  - 375.82 .S195p 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Joaquin County (California) Public Schools
+T1  - Annual financial statement
+Y1  - 1921
+D1  - 1921-1922
+SP  - 87
+KW  - School finance
+KW  - Statistics
+PB  - San Joaquin County Public Schools
+CY  - Stockton, CA
+LA  - English
+CN  - 379.11 .S195a 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Joaquin County (California) Public Schools
+T1  - Public school manual
+Y1  - 1932
+D1  - 06/1932
+KW  - Curricula
+KW  - Public schools
+PB  - San Joaquin County Public Schools
+CY  - Stockton, CA
+LA  - English
+CN  - 375.82 .S195p 1932
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) High School
+T1  - Course of study
+Y1  - 1910
+D1  - 1910-1911
+KW  - Curricula
+KW  - High school
+PB  - San Jose High School
+CY  - San Jose, CA
+LA  - English
+CN  - 375.15 .S197c 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) High School
+T1  - Course of study
+Y1  - 1918
+D1  - 1918-1919
+KW  - Curricula
+KW  - High school
+PB  - San Jose High School
+CY  - San Jose, CA
+LA  - English
+CN  - 375.15 .S197c 1918
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Public Schools
+T1  - Reading manual
+Y1  - 1919
+D1  - 1919
+SP  - 24
+KW  - Curricula
+KW  - Reading
+PB  - San Jose High School
+CY  - San Jose, CA
+LA  - English
+CN  - 428.4 .S197r 1919
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) Public Schools
+T1  - Courses of study, book lists
+Y1  - 1904
+D1  - 08/1904
+SP  - 122
+KW  - Curricula
+KW  - Public schools
+PB  - San Jose High School
+CY  - San Jose, CA
+LA  - English
+CN  - 375.83 .S197c 1904
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Jose (California) High School
+T1  - Course of study
+Y1  - 1907
+D1  - 1907-1908
+KW  - Curricula
+KW  - High school
+PB  - San Jose High School
+CY  - San Jose, CA
+LA  - English
+CN  - 375.15 .S197c 1907
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Rafael (California) High School
+T1  - Course of study
+Y1  - 1910
+D1  - 08/1910
+KW  - Curricula
+KW  - High school
+PB  - San Rafael High School
+CY  - San Rafael, CA
+LA  - English
+CN  - 375.15 .S198c 1910
+SC  - California
+G1  - High school
+ER  - 
