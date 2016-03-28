@@ -1,0 +1,1264 @@
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual of the public schools of Siskiyou County, Cal.
+Y1  - 1897
+D1  - 1897
+SP  - 52
+KW  - Curricula
+KW  - Public schools
+ED  - Eleventh
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.82 .S62m 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual of the Siskiyou County High School
+Y1  - 1901
+D1  - 1901-1902
+SP  - 21
+KW  - Curricula
+KW  - High schools
+ED  - Tenth
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.15 .S62m 1901
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual of the public schools of Siskiyou County, Cal.
+Y1  - 1901
+D1  - 1901
+SP  - 107
+KW  - Curricula
+KW  - Public schools
+ED  - Fifteenth
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.82 .S62p 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual of the Siskiyou County High School
+Y1  - 1902
+D1  - 1902-1903
+SP  - 21
+KW  - Curricula
+KW  - High schools
+ED  - Eleventh
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.15 .S62m 1902
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual and course of study of the grammar and high schools of Siskiyou County, Cal.
+Y1  - 1904
+D1  - 07/1904
+SP  - 114
+KW  - Curricula
+KW  - Public schools
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.82 .S62m 1904
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual and course of study of the grammar and high schools of Siskiyou County, Cal.
+Y1  - 1908
+D1  - 07/1908
+SP  - 147
+KW  - Curricula
+KW  - Public schools
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.82 .S62m 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Supplement to course of study
+Y1  - 1909
+D1  - 1909-1910
+SP  - 14
+KW  - Curricula
+KW  - Public schools
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.82 .S62p 1909 suppl.
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual and course of study of the grammar and high schools of Siskiyou County, California
+Y1  - 1911
+D1  - 06/1911
+SP  - 129
+KW  - Curricula
+KW  - Public schools
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.82 .S62m 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Siskiyou County (California) Superintendent of Schools
+T1  - Manual and course of study of the grammar and high schools of Siskiyou County, California
+Y1  - 1914
+D1  - 07/1914
+SP  - 124
+KW  - Curricula
+KW  - Public schools
+PB  - Siskiyou County Public Schools
+CY  - Yreka City, CA
+LA  - English
+CN  - 375.82 .S62m 1914
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Webster, Calvin B.
+A2  - Solano County (California) Superintendent of Schools
+T1  - Educational history of Solano County
+Y1  - 1888
+D1  - 1888
+SP  - 170
+KW  - History of education
+PB  - Bancroft Company
+CY  - San Francisco, CA
+LA  - English
+CN  - 370.975 .S68e 1888
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Solano County (California) Superintendent of Schools
+T1  - Manual for the use of the public schools of Solano County, Calfornia
+Y1  - 1889
+D1  - 1889
+SP  - 111
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68m 1889
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Superintendent of Schools
+T1  - Supplement to the manual for the use of the public schools of Solano County, Calfornia
+Y1  - 1890
+D1  - 03/1890
+SP  - 12
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68m 1890 suppl.
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Superintendent of Schools
+T1  - Manual for the use of the public schools of Solano County, Calfornia
+Y1  - 1898
+D1  - 1898
+SP  - 75
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68m 1898
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Superintendent of Schools
+T1  - Course of study: rules for promotion and graduation, also list of supplementary reading books
+Y1  - 1911
+D1  - 06/1911
+SP  - 58
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68c 1911
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Schools
+T1  - Elementary course of study
+Y1  - 1951
+D1  - 06/1951
+SP  - 172
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Schools
+LA  - English
+CN  - 375.13 .S68e 1951
+SC  - California
+G1  - Elementary
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Superintendent of Schools
+T1  - Course of study, also rules and regulations for promotion and graduation, supplementary reading lists, etc.
+Y1  - 1915
+D1  - 06/1915
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68c 1915
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Schools
+T1  - Course of study, also rules and regulations concerning promotion and graduation,  of pupils and general suggestions to teachers
+Y1  - 1927
+D1  - 06/1927
+SP  - 79
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68c 1927
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Schools
+T1  - Course of study, also rules and regulations concerning promotion and graduation,  of pupils and general suggestions to teachers
+Y1  - 1930
+D1  - 06/1930
+SP  - 83
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68c 1930
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Solano County (California) Schools
+T1  - Supplement to course of study
+Y1  - 1929
+D1  - 06/1929
+KW  - Curricula
+KW  - Public schools
+PB  - Solano County Superintendent of Schools
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.82 .S68c 1929 suppl.
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - Principles and rules for examinations of teachers and pupils of Sonoma County, California
+Y1  - 1893
+D1  - 1893
+SP  - 13
+KW  - Examinations
+PB  - Sonoma County Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 371.27 .S69p 1893
+SC  - California
+ER - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - Course of study for the public schools of Sonoma County together with rules and regulations for the graduations of pupils and the examination of applicants of teachers' certificates
+Y1  - 1896
+D1  - 07/1896
+SP  - 41
+KW  - Curricula
+KW  - Public schools
+PB  - Sonoma County Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 375.82 .S69c 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - Course of study, library list and summary of rules and regulations
+Y1  - 1900
+D1  - 06/1900
+SP  - 80
+KW  - Curricula
+KW  - Public schools
+PB  - Sonoma County Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 375.82 .S69c 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - Manual of the public schools of Sonoma County, California
+Y1  - 1911
+D1  - 06/1911
+SP  - 82
+KW  - Curricula
+KW  - Public schools
+PB  - Sonoma County Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 375.82 .S69m 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - Course of study for the public schools of Sonoma County
+Y1  - 1914
+D1  - 1914
+SP  - 79
+KW  - Curricula
+KW  - Public schools
+PB  - Sonoma County Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 375.82 .S69c 1914
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - Course of study for the public schools of Sonoma County
+Y1  - 1918
+D1  - 1918
+SP  - 84
+KW  - Curricula
+KW  - Public schools
+PB  - Sonoma County Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 375.82 .S69c 1918
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sonoma County (California) Superintendent of Schools
+T1  - Course of study for the elementary schools of Sonoma County, California
+Y1  - 1927
+D1  - 05/1927
+SP  - 90
+KW  - Curricula
+KW  - Public schools
+PB  - Sonoma County Superintendent of Schools
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 375.13 .S69c 1927
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - South Bend (Indiana) High School
+T1  - Announcements and courses of study
+Y1  - 1920
+D1  - 08/1920
+SP  - 16
+KW  - Curricula
+KW  - High schools
+PB  - South Bend High School
+CY  - South Bend, IN
+LA  - English
+CN  - 375.15 .S705a 1920
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Bend (Indiana) Schools
+T1  - Junior high schools
+Y1  - 1927
+D1  - 1927-1928
+SP  - 20
+KW  - Curricula
+KW  - High schools
+PB  - South Bend High School
+CY  - South Bend, IN
+LA  - English
+CN  - 375.14 .S705j 1927
+SC  - Indiana
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - South Orange (New Jersey) Public Schools
+T1  - Manual and course of study
+Y1  - 1905
+D1  - 1905-1906
+SP  - 51
+KW  - Curricula
+KW  - Public schools
+PB  - South Orange Public Schools
+CY  - South Orange, NJ
+LA  - English
+CN  - 375.83 .S725m 1905
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - South Orange (New Jersey) Public Schools
+T1  - Course of study
+Y1  - 1910
+D1  - 1910
+SP  - 67
+KW  - Curricula
+KW  - Public schools
+PB  - South Orange Public Schools
+CY  - South Orange, NJ
+LA  - English
+CN  - 375.83 .S725c 1910
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - South Orange (New Jersey) Public Schools. The Columbia High School
+T1  - Course of study and requirements for graduation
+Y1  - 1918
+D1  - 1918-1919
+KW  - Curricula
+KW  - High schools
+PB  - South Orange Public Schools
+CY  - South Orange, NJ
+LA  - English
+CN  - 375.83 .S725c 1918
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - South Pasadena (California) High School
+T1  - Manual and course of study of the South Pasadena High School
+Y1  - 1905
+D1  - 1905
+SP  - 21
+KW  - Curricula
+KW  - High school
+PB  - South Pasadena High School
+CY  - South Pasadena, CA
+LA  - English
+CN  - 375.15 .S736m 1905
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newark (New Jersey) Board of Education
+T1  - Courses of study, South Side High School
+Y1  - 1913
+D1  - 08/1913
+KW  - Curricula
+KW  - High school
+PB  - Newark Board of Education
+CY  - Neward, NJ
+LA  - English
+CN  - 375.15 .N533c 1913
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Illinois) Schools
+T1  - Proposed organization of junior high system for Springfield, Ill.
+Y1  - 1918
+D1  - 1918
+KW  - Curricula
+KW  - Junior high schools
+PB  - Springfield Schools
+CY  - Springfield, IL
+LA  - English
+CN  - 375.14 .S751p 1918
+SC  - Illinois
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Missouri) Public Schools
+T1  - Outline of course of study
+Y1  - 1898
+D1  - 1898
+SP  - 32
+KW  - Curricula
+KW  - Public schools
+N1  - "Based on the Chicago course."
+PB  - Springfield Public Schools
+CY  - Springfield, MO
+LA  - English
+CN  - 375.83 .S77o 1898
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Massachusetts) Public Schools
+T1  - Prospectus, evening high school
+Y1  - 1904
+D1  - 1904-1905
+KW  - Curricula
+KW  - Evening and continuation schools
+PB  - Springfield Public Schools
+CY  - Springfield, MA
+LA  - English
+CN  - 374.81 .S766p 1904
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Snohomish (Washington) High School
+T1  - [photo]
+KW  - High schools
+PB  - Snohomish High School
+CY  - Snohomish, WA
+LA  - English
+CN  - 375.15 .S64p
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools. High School
+T1  - Course of study
+Y1  - 1905
+D1  - 1905-1906
+KW  - Curricula
+KW  - High schools
+PB  - Spokane Public Schools
+CY  - Spokane, Washington
+LA  - English
+CN  - 375.15 .S75c 1905
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Ohio) City Schools
+T1  - Course of study and rules 
+Y1  - 1907
+D1  - 1907
+SP  - 132
+KW  - Curricula
+KW  - Public schools
+PB  - Springfield City Schools
+CY  - Springfield, OH
+LA  - English
+CN  - 375.83 .S77c 1907
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Massachusetts) Public Schools. Central High School
+T1  - Courses of study
+Y1  - 1910
+D1  - 1910
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - Central High School
+CY  - Springfield, OH
+LA  - English
+CN  - 375.15 .S766c 1910
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Massachusetts) Public Schools. Central High School
+T1  - Courses and methods of instruction
+Y1  - 1910
+D1  - 1910
+SP  - 41
+KW  - Curricula
+KW  - High schools
+PB  - Central High School
+CY  - Springfield, OH
+LA  - English
+CN  - 375.15 .S766cm 1910
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Massachusetts) Public Schools
+T1  - High school opportunities in Springfield, Massachusetts
+Y1  - 1915
+D1  - 1915
+SP  - 36
+KW  - Curricula
+KW  - High schools
+PB  - Central High School
+CY  - Springfield, OH
+LA  - English
+CN  - 375.15 .S766h 1915
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Springfield (Ohio) Public Schools
+T1  - Courses of study and rules and regulations
+Y1  - 1923
+D1  - 1923
+SP  - 248
+KW  - Curricula
+KW  - Public schools
+PB  - Springfield City Schools
+CY  - Springfield, OH
+LA  - English
+CN  - 375.83 .S77c 1923
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools. High School
+T1  - Science departments
+Y1  - 1906
+D1  - 1906-1907
+KW  - Curricula
+KW  - Science
+PB  - Spokane Public Schools
+CY  - Spokane, Washington
+LA  - English
+CN  - 519 .S75s 1906
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools. High School
+T1  - Department of English
+Y1  - 1906
+D1  - 1906-1907
+KW  - Curricula
+KW  - English literature
+PB  - Spokane Public Schools
+CY  - Spokane, Washington
+LA  - English
+CN  - 428.2 .S75d 1906
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Manual for the public schools of Stanislaus County
+Y1  - 1912
+D1  - 06/1912
+SP  - 149
+KW  - Curricula
+KW  - Public schools
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.82 .S78m 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Supplement to manual for the public schools of Stanislaus County
+Y1  - 1917
+D1  - 1917
+SP  - 8
+KW  - Curricula
+KW  - Public schools
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.82 .S78m 1917 suppl.
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Manual for the public schools of Stanislaus County
+Y1  - 1896
+D1  - 1896
+SP  - 62
+KW  - Curricula
+KW  - Public schools
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.82 .S78m 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Course of study for the public schools of Stanislaus County
+Y1  - 1905
+D1  - 1905
+SP  - 102
+KW  - Curricula
+KW  - Public schools
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.82 .S78m 1905
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Manual for the public schools of Stanislaus County
+Y1  - 1900
+D1  - 1900
+SP  - 68
+KW  - Curricula
+KW  - Public schools
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.82 .S78m 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Second supplement to manual for the elementary schools of Stanislaus County
+Y1  - 1924
+D1  - 1924
+KW  - Curricula
+KW  - Elementary education
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.13 .S78m 1924 suppl.
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Manual for the elementary schools of Stanislaus County
+Y1  - 1921
+D1  - 06/1921
+KW  - Curricula
+KW  - Elementary education
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.13 .S78m 1921
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Manual for the public schools of Stanislaus County
+Y1  - 1916
+D1  - 06/1906
+SP  - 170
+KW  - Curricula
+KW  - Public schools
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.82 .S78m 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stanislaus County (California) Public Schools
+T1  - Manual for the elementary schools of Stanislaus County
+Y1  - 1932
+D1  - 06/1932
+KW  - Curricula
+KW  - Elementary education
+PB  - Stanislaus County Public Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 375.13 .S78m 1932
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sterling Township (Illinois) High School
+T1  - Annual catalogue
+Y1  - 1908
+D1  - 08/1908
+SP  - 39
+KW  - Curricula
+KW  - High schools
+PB  - Sterling Township High School
+CY  - Sterling, IL
+LA  - English
+CN  - 375.15 .S82c 1908
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sterling Township (Illinois) High School
+T1  - Annual catalogue
+Y1  - 1904
+D1  - 06/1904
+SP  - 39
+KW  - Curricula
+KW  - High schools
+PB  - Sterling Township High School
+CY  - Sterling, IL
+LA  - English
+CN  - 375.15 .S82c 1904
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sterling Township (Illinois) High School
+T1  - Annual catalogue
+Y1  - 1903
+D1  - 06/1903
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Sterling Township High School
+CY  - Sterling, IL
+LA  - English
+CN  - 375.15 .S82c 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sterling Township (Illinois) High School
+T1  - Annual catalogue
+Y1  - 1902
+D1  - 06/1902
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Sterling Township High School
+CY  - Sterling, IL
+LA  - English
+CN  - 375.15 .S82c 1902
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Board of Education
+T1  - Outline of studies for the primary and grammar schools of the city of Stockton, California
+Y1  - 1900
+D1  - 1900
+SP  - 219
+KW  - Curricula
+KW  - Public schools
+PB  - Stockton Board of Education
+CY  - Stockton, CA
+LA  - English
+CN  - 375.83 .S86o 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Schools
+T1  - Manual and course of study, Stockton High School
+Y1  - 1911
+D1  - 1911
+SP  - 55
+KW  - Curricula
+KW  - High schools
+PB  - Stockton Board of Education
+CY  - Stockton, CA
+LA  - English
+CN  - 375.15 .S86m 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Board of Education
+T1  - Course of study in the Stockton City Schools
+Y1  - 1912
+D1  - 09/1912
+SP  - 166
+KW  - Curricula
+KW  - Public schools
+PB  - Stockton Board of Education
+CY  - Stockton, CA
+LA  - English
+CN  - 375.83 .S86c 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Stockton (California) Schools
+T1  - Manual and course of study of the Stockton High School
+Y1  - 1916
+D1  - 1916-1917
+SP  - 101
+KW  - Curricula
+KW  - High schools
+PB  - Stockton Board of Education
+CY  - Stockton, CA
+LA  - English
+CN  - 375.15 .S86m 1916
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Streator (Illinois) Township High School
+T1  - The Streator Township High School
+Y1  - 1902
+D1  - 1902-1903
+SP  - 42
+KW  - Curricula
+KW  - High schools
+PB  - Streator Township High School
+CY  - Streator, IL
+LA  - English
+CN  - 375.15 .S895s 1902
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Stuyvesant High School (New York City)
+T1  - The Stuyvesant High School
+D1  - 1911?
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Stuyvesant High School
+CY  - New York, NY
+LA  - English
+CN  - 375.15 .S73s
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Course of study for the public schools of Sutter County together with rules and regulations for the graduation of pupils and the examination of applicants for teachers' certificates
+Y1  - 1896
+D1  - 07/1896
+SP  - 55
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96c 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Supplement to course of study
+Y1  - 1898
+D1  - 07/1898
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96c 1898 suppl.
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Course of study for the public schools of Sutter County together with rules and regulations for the graduation of pupils and the examination of applicants for teachers' certificates
+Y1  - 1901
+D1  - 06/1901
+SP  - 64
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96c 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Manual for the public schools of Sutter County
+Y1  - 1915
+D1  - 06/1915
+SP  - 69
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96m 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Manual for the public schools of Sutter County
+Y1  - 1920
+D1  - 06/1920
+SP  - 94
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96m 1920
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Supplement to course of study for public schools of Sutter County
+Y1  - 1921
+D1  - 1921
+SP  - 47
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96s 1921 suppl.
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Supplement to course of study for public schools of Sutter County
+Y1  - 1922
+D1  - 1922
+SP  - 22
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96s 1922 suppl.
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sutter County (California) Board of Education
+T1  - Course of study, rules and regulations
+Y1  - 1927
+D1  - 06/1927
+SP  - 97
+KW  - Curricula
+KW  - Public schools
+PB  - Sutter County Board of Education
+CY  - Yuba City, CA
+LA  - English
+CN  - 375.82 .S96c 1927
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Taft (California) Union High School
+T1  - Bulletin: program of studies, curricula and subject offering
+Y1  - 1935
+D1  - 1935-1936
+SP  - 50
+KW  - Curricula
+KW  - High schools
+PB  - Taft Union High School
+CY  - Taft, CA
+LA  - English
+CN  - 375.15 .T12b 1935
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Taylorville (Illinois) Township High School
+T1  - Township High School
+Y1  - 1903
+D1  - 06/1903
+SP  - 25
+KW  - Curricula
+KW  - High schools
+PB  - Taylorville Township High School
+CY  - Taylorville, IL
+LA  - English
+CN  - 375.15 .T18t 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tacoma (Washington) Public Schools
+T1  - High School Departments: an outline course of study
+Y1  - 1909
+D1  - 1909
+SP  - 42
+KW  - Curricula
+KW  - High schools
+PB  - Tacoma Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 375.15 .T11h 1909
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tacoma (Washington) Public Schools
+T1  - Course of study for the high schools
+Y1  - 1913
+D1  - 1913
+KW  - Curricula
+KW  - High schools
+PB  - Tacoma Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 375.15 .T11c 1913
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tacoma (Washington) Public Schools
+T1  - Course of study for the high schools
+Y1  - 1914
+D1  - 1914
+KW  - Curricula
+KW  - High schools
+PB  - Tacoma Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 375.15 .T11c 1914
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tacoma (Washington) Public Schools. Tacoma High Schools
+T1  - Outline courses and program of studies
+Y1  - 1905
+D1  - 1905
+SP  - 22
+KW  - Curricula
+KW  - High schools
+PB  - Tacoma Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 375.15 .T11o 1905
+SC  - Washington
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tacoma (Washington) City Schools
+T1  - Course of study
+Y1  - 1903
+D1  - 08/1903
+SP  - 76
+KW  - Curricula
+KW  - High schools
+PB  - Tacoma Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 375.83 .T11c 1903
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Tacoma (Washington) Public Schools
+T1  - Course of study for the elementary schools
+Y1  - 1917
+D1  - 09/1917
+KW  - Curricula
+KW  - Elementary education
+PB  - Tacoma Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 375.13 .T11c 1917
+SC  - Washington
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - Manual training high school courses of study: Stuyvesant High School, Manhattan; Manual Training High School, Brooklyn; Bryant High School, Queens
+Y1  - 1905
+D1  - 1905
+SP  - 12
+KW  - Curricula
+KW  - Manual training
+PB  - Stuyvesant High School
+CY  - New York, NY
+LA  - English
+CN  - 680 .N532m 1905
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tamalpais (California) Union High School District
+T1  - Announcement of courses
+D1  - 1914?
+KW  - Curricula
+KW  - High schools
+PB  - Tamalpais Union High School District
+CY  - Sausalito, CA
+LA  - English
+CN  - 375.15 .T15a
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sault Ste. Marie (Michigan) High School
+T1  - Announcement
+Y1  - 1912
+D1  - 1912-1913
+KW  - Curricula
+KW  - High schools
+PB  - Sault Ste. Marie High School
+CY  - Sault Ste. Marie, MI
+LA  - English
+CN  - 375.15 .S253a 1912
+SC  - Michigan
+G1  - High school
+ER  - 
+
