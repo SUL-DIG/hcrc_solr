@@ -1,0 +1,1234 @@
+
+TY  - BOOK
+A2  - Tehama County (California) Public Schools
+T1  - Manual for the public schools of Tehama County, California
+Y1  - 1898
+D1  - 1898
+SP  - 47
+KW  - Curricula
+KW  - Public schools
+PB  - Tehama County Public Schools
+CY  - Red Bluff, CA
+LA  - English
+CN  - 375.82 .T27m 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tehama County (California) Public Schools
+T1  - Manual for the public schools of Tehama County, California, containing the rules and regulations, courses of study, suggestions to teachers and miscellaneous matter
+Y1  - 1902
+D1  - 1902
+SP  - 46
+KW  - Curricula
+KW  - Public schools
+PB  - Tehama County Public Schools
+CY  - Red Bluff, CA
+LA  - English
+CN  - 375.82 .T27m 1902
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tehama County (California) Public Schools
+T1  - Course of study for the kindergarten, primary, grammar and high schools of Tehama County, California
+Y1  - 1906
+D1  - 06/1906
+SP  - 48
+KW  - Curricula
+KW  - Public schools
+PB  - Tehama County Public Schools
+CY  - Red Bluff, CA
+LA  - English
+CN  - 375.82 .T27c 1906
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tehama County (California) Public Schools
+T1  - Manual for the public schools of Tehama County, California
+Y1  - 1912
+D1  - 06/1912
+SP  - 101
+KW  - Curricula
+KW  - Public schools
+PB  - Tehama County Public Schools
+CY  - Red Bluff, CA
+LA  - English
+CN  - 375.82 .T27m 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tehama County (California) Public Schools
+T1  - Manual for the public schools of Tehama County, California
+Y1  - 1915
+D1  - 1915
+SP  - 84
+KW  - Curricula
+KW  - Public schools
+PB  - Tehama County Public Schools
+CY  - Red Bluff, CA
+LA  - English
+CN  - 375.82 .T27m 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Terre Haute (Indiana) Public Schools
+T1  - Courses of study for Wiley and Garfield High Schools
+Y1  - 1913
+D1  - 03/1913
+KW  - Curricula
+KW  - High schools
+PB  - Terre Haute Public Schools
+CY  - Terre Haute, IN
+LA  - English
+CN  - 375.15 .T301c 1913
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Terre Haute (Indiana) Public Schools
+T1  - Courses of study for Wiley and Garfield High Schools
+Y1  - 1916
+D1  - 1916-1917
+KW  - Curricula
+KW  - High schools
+PB  - Terre Haute Public Schools
+CY  - Terre Haute, IN
+LA  - English
+CN  - 375.15 .T301c 1916
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Terre Haute (Indiana) Public Schools
+T1  - Wiley and Garfield High School course in history
+D1  - 1920?
+KW  - Curricula
+KW  - High schools
+KW  - History
+PB  - Terre Haute Public Schools
+CY  - Terre Haute, IN
+LA  - English
+CN  - 925 .T301w
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Terre Haute (Indiana) Public Schools
+T1  - High school course of study
+Y1  - 1901
+D1  - 1901
+KW  - Curricula
+KW  - High schools
+PB  - Terre Haute Public Schools
+CY  - Terre Haute, IN
+LA  - English
+CN  - 375.15 .T301h 1901
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Terre Haute (Indiana) Public Schools
+T1  - Wiley and Garfield High School course in mathematics
+D1  - 1920?
+KW  - Curricula
+KW  - High schools
+KW  - Mathematics
+PB  - Terre Haute Public Schools
+CY  - Terre Haute, IN
+LA  - English
+CN  - 511.6 .T301w
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Terre Haute (Indiana) Public Schools
+T1  - Course of study, Wiley and Garfield High Schools
+Y1  - 1922
+D1  - 1922
+SP  - 39
+KW  - Curricula
+KW  - High schools
+PB  - Terre Haute Public Schools
+CY  - Terre Haute, IN
+LA  - English
+CN  - 375.15 .T301c 1922
+SC  - Indiana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Thornton Township (Illinois) High School
+T1  - Manual of information
+Y1  - 1903
+D1  - 1903
+SP  - 35
+KW  - Curricula
+KW  - High schools
+PB  - Thornton Township High School
+CY  - Harvey, IL
+LA  - English
+CN  - 375.15 .T47 1903
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Topeka (Kansas) High School
+T1  - Program of recitations
+Y1  - 1907
+D1  - 1907
+KW  - Curricula
+KW  - High schools
+PB  - Topeka High School
+CY  - Topeka, KS
+LA  - English
+CN  - 375.15 .T65p 1907
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tracy (California) Public Schools
+T1  - Curriculum of West Side Union High School
+Y1  - 1915
+D1  - 08/1915
+KW  - Curricula
+KW  - High schools
+PB  - West Side Union High School
+CY  - Tracy, CA
+LA  - English
+CN  - 375.15 .T75c 1915
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Gregory, B. C.
+A2  - Trenton (New Jersey) Public Schools
+T1  - Manual of instruction and course of study for the public schools of Trenton, N.J.
+Y1  - 1901
+D1  - 1901
+SP  - 218
+KW  - Curricula
+KW  - Public schools
+PB  - New Public Schools
+CY  - Trenton, NJ
+LA  - English
+CN  - 375.83 .T795m 1901
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - Trinity County (California) Public Schools
+T1  - Course of study and summary of rules and regulations
+Y1  - 1895
+D1  - 1895
+SP  - 17
+KW  - Curricula
+KW  - Public schools
+PB  - Trinity County School Supervisors
+CY  - Weaverville, CA
+LA  - English
+CN  - 375.82 .T833c 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Trinity County (California) Public Schools
+T1  - School manual for the public schools of Trinity County, California
+Y1  - 1902
+D1  - 1902
+SP  - 41
+KW  - Curricula
+KW  - Public schools
+PB  - Trinity County School Supervisors
+CY  - Weaverville, CA
+LA  - English
+CN  - 375.82 .T833s 1902
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Trinity County (California) Public Schools
+T1  - School manual for the public schools of Trinity County, California
+Y1  - 1898
+D1  - 1898
+SP  - 19
+KW  - Curricula
+KW  - Public schools
+PB  - Trinity County School Supervisors
+CY  - Weaverville, CA
+LA  - English
+CN  - 375.82 .T833s 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Trinity County (California) Public Schools
+T1  - Course of study for the elementary schools of Trinity County, California
+Y1  - 1912
+D1  - 07/1912
+SP  - 19
+KW  - Curricula
+KW  - Elementary education
+PB  - Trinity County School Supervisors
+CY  - Weaverville, CA
+LA  - English
+CN  - 375.13 .T833c 1912
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Trinity County (California) Public Schools
+T1  - School manual for the public schools of Trinity County, California
+Y1  - 1927
+D1  - 1927
+SP  - 25
+KW  - Curricula
+KW  - Public schools
+PB  - Trinity County School Supervisors
+CY  - Weaverville, CA
+LA  - English
+CN  - 375.82 .T833s 1927
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Trenton (New Jersey) Public Schools
+T1  - Curriculum yearbook elementary division
+Y1  - 1925
+D1  - 1925
+SP  - 396
+KW  - Curricula
+KW  - Elementary education
+PB  - New Public Schools
+CY  - Trenton, NJ
+LA  - English
+CN  - 375.13 .T795c 1925
+SC  - New Jersey
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tracy (California) Public Schools. West Side Union High School
+T1  - Principal's report
+Y1  - 1913
+D1  - 1913-1914
+KW  - Curricula
+KW  - High schools
+PB  - West Side Union High School
+CY  - Tracy, CA
+LA  - English
+CN  - 375.15 .T75p 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Nevada County (California) Public Schools
+T1  - Course of study
+Y1  - 1897
+D1  - 1897
+SP  - 19
+KW  - Curricula
+KW  - Public schools
+PB  - Nevada County Public Schools
+CY  - Truckee, CA
+LA  - English
+CN  - 375.82 .N485c 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - Manual for the public schools of Tulare County, containing the course of study and rules and regulations of the Board of Education
+Y1  - 1901
+D1  - 06/1901
+SP  - 114
+KW  - Curricula
+KW  - Public schools
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.82 .T91m 1901
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - Manual for the public schools of Tulare County
+Y1  - 1904
+D1  - 06/1904
+SP  - 80
+KW  - Curricula
+KW  - Public schools
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.82 .T91m 1904
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - School manual
+Y1  - 1911
+D1  - 1911
+SP  - 126
+KW  - Curricula
+KW  - Public schools
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.82 .T91s 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - School manual
+Y1  - 1915
+D1  - 1915
+SP  - 126
+KW  - Curricula
+KW  - Public schools
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.82 .T91s 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - School manual
+Y1  - 1921
+D1  - 07/1921
+SP  - 108
+KW  - Curricula
+KW  - Public schools
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.82 .T91s 1921
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - Manual of the elementary schools of Tulare County, California
+Y1  - 1924
+D1  - 1924-1925
+SP  - 129
+KW  - Curricula
+KW  - Elementary education
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.13 .T91s 1924
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - Course of study for the elementary schools of Tulare County
+Y1  - 1956
+D1  - 1956
+SP  - 191
+KW  - Curricula
+KW  - Elementary education
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.13 .T91c 1956
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulare County (California) Public Schools
+T1  - Course of study for the elementary schools of Tulare County
+Y1  - 1960
+D1  - 1960
+SP  - 195
+KW  - Curricula
+KW  - Elementary education
+PB  - Tulare County Public Schools
+CY  - Visalia, CA
+LA  - English
+CN  - 375.13 .T91c 1960
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Public Schools. Central High School
+T1  - Manual of administration
+Y1  - 1927
+D1  - 1927
+SP  - 191
+KW  - Curricula
+KW  - High schools
+ED  - Second
+PB  - Tulsa Public Schools
+CY  - Tulsa, OK
+LA  - English
+CN  - 375.15 .T92m 1927
+SC  - Oklahoma
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Tuolumne County (California) Public Schools
+T1  - Course of study for the public schools of Tuolumne County
+Y1  - 1897
+D1  - 1897
+SP  - 30
+KW  - Curricula
+KW  - Public schools
+PB  - Tuolumne County Public Schools
+CY  - Sonora, CA
+LA  - English
+CN  - 375.82 .T93c 1897
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tuolumne County (California) Public Schools
+T1  - Manual for the public schools of Tuolumne County
+Y1  - 1902
+D1  - 1902
+SP  - 38
+KW  - Curricula
+KW  - Public schools
+PB  - Tuolumne County Public Schools
+CY  - Sonora, CA
+LA  - English
+CN  - 375.82 .T93m 1902
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tuolumne County (California) Public Schools
+T1  - Manual and revised course of study for the public schools of Tuolumne County, California
+Y1  - 1913
+D1  - 07/1913
+SP  - 75
+KW  - Curricula
+KW  - Public schools
+PB  - Tuolumne County Public Schools
+CY  - Sonora, CA
+LA  - English
+CN  - 375.82 .T93m 1913
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Tuolumne County (California) Public Schools
+T1  - Public school manual
+Y1  - 1927
+D1  - 06/1927
+KW  - Curricula
+KW  - Public schools
+PB  - Tuolumne County Public Schools
+CY  - Sonora, CA
+LA  - English
+CN  - 375.82 .T93m 1927
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Unadilla (New York) High School and Academy
+T1  - Annual catalogue and course of instruction
+Y1  - 1914
+D1  - 1914-1915
+SP  - 46
+KW  - Curricula
+KW  - High schools
+PB  - Unadilla High School and Academy
+CY  - Unadilla, NY
+LA  - English
+CN  - 375.15 .U55a 1914
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Union High School (California)
+T1  - Supplement to manual of the Union High School for the districts of Hyde Park, Hawthorne, Inglewood, Jefferson, Lawndale and Wiseburn
+Y1  - 1910
+D1  - 1910-1911
+SP  - 14
+KW  - Curricula
+KW  - High schools
+PB  - Union High School
+CY  - Inglewood, CA
+LA  - English
+CN  - 375.15 .U56s 1910
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Vallejo (California) City School District
+T1  - Course of study for the public schools of the Vallejo City School District
+Y1  - 1917
+D1  - 1917-1918
+SP  - 183
+KW  - Curricula
+KW  - Public schools
+PB  - Vallejo City School District
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.83 .V18c 1917
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Cave, Elmer L.
+A2  - Vallejo (California) City School District
+T1  - New course of study for the elementary, grammar and intermediate schools of the city of Vallejo
+Y1  - 1920
+D1  - 12/1920
+SP  - 95
+KW  - Curricula
+KW  - Elementary education
+PB  - Vallejo City School District
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.83 .V18n 1920
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Vallejo (California) Public Schools
+T1  - Courses of study for the senior high school
+Y1  - 1921
+D1  - 1921-1922
+SP  - 5
+KW  - Curricula
+KW  - High schools
+PB  - Vallejo City School District
+CY  - Vallejo, CA
+LA  - English
+CN  - 375.15 .V18c 1921
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Venice (California) Union Polytechnic High School
+T1  - Courses of study of the Venice Union Polytechnic High School
+Y1  - 1911
+D1  - 09/1911
+SP  - 32
+KW  - Curricula
+KW  - High schools
+T2  - The Gondolier
+V1  - 1
+IS  - 1
+PB  - Venice Union Polytechnic High School
+CY  - Venice, CA
+LA  - English
+CN  - 375.15 .V45c 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Revised manual of the public schools
+Y1  - 1893
+D1  - 07/1893
+SP  - 34
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45r 1893
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and summary of the rules and regulations
+Y1  - 1895
+D1  - 07/1895
+SP  - 80
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and summary of the rules and regulations
+Y1  - 1898
+D1  - 07/1898
+SP  - 78
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1898
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and summary of the rules and regulations
+Y1  - 1900
+D1  - 07/1900
+SP  - 112
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and rules and regulations
+Y1  - 1903
+D1  - 07/1903
+SP  - 114
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1903
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and rules and regulations
+Y1  - 1905
+D1  - 07/1905
+SP  - 76
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1905
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and rules and regulations
+Y1  - 1911
+D1  - 07/1911
+SP  - 103
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and rules and regulations
+Y1  - 1915
+D1  - 06/1915
+SP  - 121
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study and rules and regulations
+Y1  - 1915
+D1  - 06/1915
+SP  - 121
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study
+Y1  - 1922
+D1  - 1922
+SP  - 93
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1922
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Course of study
+Y1  - 1925
+D1  - 1925
+SP  - 50
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45c 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ventura County (California) Public Schools
+T1  - Manual of instructions and course of study for all sized schools
+Y1  - 1925
+D1  - 06/1925
+SP  - 57
+KW  - Curricula
+KW  - Public schools
+PB  - Ventura Public Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 375.82 .V45m 1925
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Waltham (Massachusetts) Senior High School
+T1  - Courses pf study
+Y1  - 1920
+D1  - 1920
+KW  - Curricula
+KW  - High schools
+PB  - Waltham Senior High School
+CY  - Waltham, MA
+LA  - English
+CN  - 375.15 .W23c 1920
+G1  - High school
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education. Wadleigh High School
+T1  - Homecraft course of study of four years
+Y1  - 1914
+D1  - 1914
+KW  - Curricula
+KW  - Home economics
+PB  - Wadleigh High School
+CY  - New York, NY
+LA  - English
+CN  - 640 .N532h 1914
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Walla Walla (Washington) Public Schools
+T1  - Course of study, rules and regulations
+Y1  - 1894
+D1  - 1894
+SP  - 35
+KW  - Curricula
+KW  - Public schools
+PB  - Walla Walla Public Schools
+CY  - Walla Walla, WA
+LA  - English
+CN  - 375.83 .W21c 1894
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Wallace (Idaho) High School
+T1  - Courses of study
+Y1  - 1910
+D1  - 05/1910
+KW  - Curricula
+KW  - High schools
+PB  - Wallace High School
+CY  - Wallace, ID
+LA  - English
+CN  - 375.15 .W215c 1910
+SC  - Idaho
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (District of Columbia) Academic High Schools
+T1  - Outline of courses of study
+Y1  - 1911
+D1  - 1911-1912
+KW  - Curricula
+KW  - High schools
+PB  - Washington Academic High Schools
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .W311o 1911
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (District of Columbia) High Schools
+T1  - Courses of study
+Y1  - 1914
+D1  - 1914-1915
+KW  - Curricula
+KW  - High schools
+PB  - Washington High Schools
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .W311c 1914
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (District of Columbia) High Schools
+T1  - Condensed list of changes in high school text-books
+Y1  - 1916
+D1  - 1916-1918
+KW  - Curricula
+KW  - Textbooks
+KW  - High schools
+PB  - Washington High Schools
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .W311co 1916
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (District of Columbia) High Schools
+T1  - The books authorized for use in Washington high schools
+Y1  - 1913
+D1  - 1913
+KW  - Curricula
+KW  - Textbooks
+KW  - High schools
+PB  - Washington High Schools
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .W311b 1913
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (District of Columbia) High Schools
+T1  - Courses of study
+Y1  - 1919
+D1  - 1919-1920
+SP  - 15
+KW  - Curricula
+KW  - High schools
+PB  - Washington High Schools
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .W311c 1919
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Washington (District of Columbia) High Schools
+T1  - Courses of study
+Y1  - 1918
+D1  - 1918-1919
+SP  - 15
+KW  - Curricula
+KW  - High schools
+PB  - Washington High Schools
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .W311c 1918
+SC  - District of Columbia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education. Washington Irving High School
+T1  - Technical course of study of three years
+Y1  - 1910
+D1  - 1910
+KW  - Curricula
+KW  - High schools
+KW  - Technical education
+PB  - Wadleigh High School
+CY  - New York, NY
+LA  - English
+CN  - 375.15 .N532t 1910
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Waterbury (Connecticut) Department of Education
+T1  - Vocational high school
+Y1  - 1919
+D1  - 1919
+KW  - Curricula
+KW  - Vocational educational
+KW  - High schools
+PB  - Waterbury Department of Education
+CY  - Waterbury, CT
+LA  - English
+CN  - 375.15 .W315v 1919
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1909
+D1  - 1909-1910
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1909
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1912
+D1  - 1912-1913
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1912
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1913
+D1  - 1913-1914
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1913
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1914
+D1  - 1914-1915
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1914
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1915
+D1  - 1915-1916
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1915
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1916
+D1  - 1916-1917
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1916
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1918
+D1  - 1918-1919
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1918
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Watsonville (California) High School
+T1  - Course of study
+Y1  - 1920
+D1  - 1920-1921
+KW  - Curricula
+KW  - High schools
+PB  - Watsonville High School
+CY  - Watsonville, CA
+LA  - English
+CN  - 375.15 .W34c 1920
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Des Moines (Iowa) High School
+T1  - Courses of study
+Y1  - 1894
+D1  - 1894-1895
+SP  - 8
+KW  - Curricula
+KW  - High schools
+PB  - West Des Moines High School
+CY  - West Des Moines, IA
+LA  - English
+CN  - 375.15 .W511c 1894
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Des Moines (Iowa) High School
+T1  - Courses of study and requirements for graduation in the high schools of West Des Moines
+Y1  - 1903
+D1  - 1903-1904
+SP  - 11
+KW  - Curricula
+KW  - High schools
+PB  - West Des Moines High School
+CY  - West Des Moines, IA
+LA  - English
+CN  - 375.15 .W511c 1903
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Des Moines (Iowa) High School
+T1  - Courses of study and requirements for graduation in the high schools of West Des Moines
+Y1  - 1905
+D1  - 1905-1906
+SP  - 31
+KW  - Curricula
+KW  - High schools
+PB  - West Des Moines High School
+CY  - West Des Moines, IA
+LA  - English
+CN  - 375.15 .W511c 1905
+SC  - Iowa
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Hartford (Connecticut) Public Schools
+T1  - Course of study in general science for junior high schools, grades 7-8-9
+Y1  - 1942
+D1  - 1942
+KW  - Curricula
+KW  - Science
+PB  - West Hartford Public Schools
+CY  - West Hartford, CT
+LA  - English
+CN  - 519 .W50c 1942
+SC  - Connecticut
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Organization, administration and course of study for junior and senior high schools
+Y1  - 1927
+D1  - 1927
+SP  - 417
+KW  - Curricula
+KW  - High schools
+PB  - West Virginia Start Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.15 .W51o 1927
+SC  - West Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Program of study for elementary schools
+Y1  - 1927
+D1  - 08/1927
+SP  - 677
+KW  - Curricula
+KW  - Elementary education
+PB  - West Virginia Start Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 375.13 .W51p 1927
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
