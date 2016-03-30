@@ -4759,6 +4759,7 @@ Responsibility: Frederick M. Patterson, Kenneth P. Holmes and Erna Murphy.</fiel
 <field name="pub_place">Washington, DC</field>
 <field name="pages">36</field>
 <field name="language">English</field>
+<field name="call_number">371.76 .N27ci</field>
 <field name="notes">36 p. 23 cm.; Note(s): Includes bibliographical references.; Responsibility:
 Project writer, Clara G. Stratemeyer. Produced by Commission on Safety Education, National Education
 Attached: "You and civil defense: a guide for teachers, administrators, and school board
@@ -4775,7 +4776,7 @@ members" (April 1964)</field>
 <field name="publisher">California Office of Civil Defense</field>
 <field name="pub_place">Sacramento, CA</field>
 <field name="language">English</field>
-<field name="call_number">371.96 .C15c</field>
+<field name="call_number">371.76 .C15c</field>
 <field name="notes">105 p. forms.; Note(s): Prepared jointly with the State Department of
 Education./ Bibliography: p. 105.</field>
 <field name="state_country">California</field>
@@ -6696,6 +6697,7 @@ National Conference on Human Relations Education, Commodore Hotel, New York City
 <field name="notes">v; ill. ; 24 cm.; Note(s): Also issued online.; Responsibility: produced by
 National Commission on Safety Education of the National Education Association, in cooperation with
 the Office of Civil Defense, Department of Defense.</field>
+<field name="call_number">371.76 .N27cis v. 1</field>
 </doc>
 
 <doc>
@@ -7432,6 +7434,7 @@ College of San Francisco.</field>
 <field name="pages">40</field>
 <field name="language">English</field>
 <field name="notes">40 p. illus. 23 cm.; Responsibility: Project writer: William M. Lamers.
+<field name="call_number">371.76 .A47d</field>
 </field>
 </doc>
 
