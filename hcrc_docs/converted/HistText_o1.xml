@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="type">Book</field>
-<field name="author">Markiewicz, Jane</field><field name="author_nat">Jane Markiewicz</field>
-<field name="author">McCrady, Claire</field><field name="author_nat">Claire McCrady</field>
-<field name="author">Simonson, Patricia</field><field name="author_nat">Patricia Simonson</field>
+<field name="author">Markiewicz, Jane</field>
+<field name="author_nat">Jane Markiewicz</field>
+<field name="author">McCrady, Claire</field>
+<field name="author_nat">Claire McCrady</field>
+<field name="author">Simonson, Patricia</field>
+<field name="author_nat">Patricia Simonson</field>
 <field name="title">The kibbutz family of Israel : teacher's resource unit</field>
 <field name="series_title">Families around the world</field>
 <field name="keywords">Kibbutzim</field>
@@ -19,7 +22,8 @@
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Sheldon, Kenneth</field><field name="author_nat">Kenneth Sheldon</field>
+<field name="author">Sheldon, Kenneth</field>
+<field name="author_nat">Kenneth Sheldon</field>
 <field name="title">The 'X' goes here ...</field>
 <field name="series_title">Living democracy series</field>
 <field name="keywords">Politics</field>
@@ -32,15 +36,13 @@
 <field name="pages">64</field>
 <field name="language">English</field>
 <field name="call_number">371.33 .L78L no. 14</field>
-<field name="notes">64 p. illus.; Responsibility: by Kenneth Sheldon and Max Grossman, with the
-co-operation of the Center staff.</field>
+<field name="notes">64 p. illus.; Responsibility: by Kenneth Sheldon and Max Grossman, with the co-operation of the Center staff.</field>
 </doc>
 
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Secondary Education Board. Library Committee</field>
-<field name="title">1, 000 books for independent school libraries: a basic list at the secondary
-level</field>
+<field name="title">1, 000 books for independent school libraries: a basic list at the secondary level</field>
 <field name="keywords">School libraries</field>
 <field name="year">1955</field>
 <field name="date">1955</field>
@@ -1089,9 +1091,12 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Wilson, J. Fred</field><field name="author_nat">J. Fred Wilson</field>
-<field name="author">Smith, Marion H.</field><field name="author_nat">Marion H. Smith</field>
-<field name="author">Prescott, Carol S.</field><field name="author_nat">Carol S. Prescott</field>
+<field name="author">Wilson, J. Fred</field>
+<field name="author_nat">J. Fred Wilson</field>
+<field name="author">Smith, Marion H.</field>
+<field name="author_nat">Marion H. Smith</field>
+<field name="author">Prescott, Carol S.</field>
+<field name="author_nat">Carol S. Prescott</field>
 <field name="title">Analysis of Fideler social studies program</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1104,9 +1109,12 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alberg, Dorothy</field><field name="author_nat">Dorothy Alberg</field>
-<field name="author">Hanson, Marilyn</field><field name="author_nat">Marilyn Hanson</field>
-<field name="author">Ross, Evelyn</field><field name="author_nat">Evelyn Ross</field>
+<field name="author">Alberg, Dorothy</field>
+<field name="author_nat">Dorothy Alberg</field>
+<field name="author">Hanson, Marilyn</field>
+<field name="author_nat">Marilyn Hanson</field>
+<field name="author">Ross, Evelyn</field>
+<field name="author_nat">Evelyn Ross</field>
 <field name="title">Analysis of Greater Cleveland social science program</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1119,10 +1127,11 @@ Studies Center</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Enters, James</field><field name="author_nat">James Enters</field>
-<field name="author">Harms, Arden</field><field name="author_nat">Arden Harms</field>
-<field name="title">Analysis of Greater Cleveland social science program, four world views, unit
-ii, grade 5</field>
+<field name="author">Enters, James</field>
+<field name="author_nat">James Enters</field>
+<field name="author">Harms, Arden</field>
+<field name="author_nat">Arden Harms</field>
+<field name="title">Analysis of Greater Cleveland social science program, four world views, unit ii, grade 5</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
 <field name="date">02/1968</field>
@@ -1135,9 +1144,12 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Goldstein, Eleanor</field><field name="author_nat">Eleanor Goldstein</field>
-<field name="author">Harms, Arden</field><field name="author_nat">Arden Harms</field>
-<field name="author">Weipert, Lou</field><field name="author_nat">Lou Weipert</field>
+<field name="author">Goldstein, Eleanor</field>
+<field name="author_nat">Eleanor Goldstein</field>
+<field name="author">Harms, Arden</field>
+<field name="author_nat">Arden Harms</field>
+<field name="author">Weipert, Lou</field>
+<field name="author_nat">Lou Weipert</field>
 <field name="title">Analysis of Harvard social studies project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1149,9 +1161,12 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Crowl, Lydia</field><field name="author_nat">Lydia Crowl</field>
-<field name="author">Ristad, Adam</field><field name="author_nat">Adam Ristad</field>
-<field name="author">Watkins, Judy</field><field name="author_nat">Judy Watkins</field>
+<field name="author">Crowl, Lydia</field>
+<field name="author_nat">Lydia Crowl</field>
+<field name="author">Ristad, Adam</field>
+<field name="author_nat">Adam Ristad</field>
+<field name="author">Watkins, Judy</field>
+<field name="author_nat">Judy Watkins</field>
 <field name="title">Analysis of Harvard social studies project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1164,13 +1179,20 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ahrens, Robert W.</field><field name="author_nat">Robert W. Ahrens</field>
-<field name="author">Hamilton, Beryl</field><field name="author_nat">Beryl Hamilton</field>
-<field name="author">Mills, Harold</field><field name="author_nat">Harold Mills</field>
-<field name="author">McGeever, Jack</field><field name="author_nat">Jack McGeever</field>
-<field name="author">Peterson, Frank</field><field name="author_nat">Frank Peterson</field>
-<field name="author">Simpson, James</field><field name="author_nat">James Simpson</field>
-<field name="author">Snyder, Laura</field><field name="author_nat">Laura Snyder</field>
+<field name="author">Ahrens, Robert W.</field>
+<field name="author_nat">Robert W. Ahrens</field>
+<field name="author">Hamilton, Beryl</field>
+<field name="author_nat">Beryl Hamilton</field>
+<field name="author">Mills, Harold</field>
+<field name="author_nat">Harold Mills</field>
+<field name="author">McGeever, Jack</field>
+<field name="author_nat">Jack McGeever</field>
+<field name="author">Peterson, Frank</field>
+<field name="author_nat">Frank Peterson</field>
+<field name="author">Simpson, James</field>
+<field name="author_nat">James Simpson</field>
+<field name="author">Snyder, Laura</field>
+<field name="author_nat">Laura Snyder</field>
 <field name="title">Analysis of high school geography project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1183,9 +1205,12 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Trujillo, John</field><field name="author_nat">John Trujillo</field>
-<field name="author">Ostrom, Ray</field><field name="author_nat">Ray Ostrom</field>
-<field name="author">Masters, Terry</field><field name="author_nat">Terry Masters</field>
+<field name="author">Trujillo, John</field>
+<field name="author_nat">John Trujillo</field>
+<field name="author">Ostrom, Ray</field>
+<field name="author_nat">Ray Ostrom</field>
+<field name="author">Masters, Terry</field>
+<field name="author_nat">Terry Masters</field>
 <field name="title">Analysis of high school geography project, geography in an urban age, grade 10</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1199,9 +1224,12 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Randall, Verna</field><field name="author_nat">Verna Randall</field>
-<field name="author">Hopkins, Evelyn</field><field name="author_nat">Evelyn Hopkins</field>
-<field name="author">Cook, Teddy</field><field name="author_nat">Teddy Cook</field>
+<field name="author">Randall, Verna</field>
+<field name="author_nat">Verna Randall</field>
+<field name="author">Hopkins, Evelyn</field>
+<field name="author_nat">Evelyn Hopkins</field>
+<field name="author">Cook, Teddy</field>
+<field name="author_nat">Teddy Cook</field>
 <field name="title">Analysis of man in action series</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1214,11 +1242,13 @@ ii, grade 5</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stainbrook, Gary</field><field name="author_nat">Gary Stainbrook</field>
-<field name="author">Schott, James</field><field name="author_nat">James Schott</field>
-<field name="author">Hawkins, Raybon</field><field name="author_nat">Raybon Hawkins</field>
-<field name="title">Analysis of manpower and economic education opportunities in American economic
-life, grades 8-9</field>
+<field name="author">Stainbrook, Gary</field>
+<field name="author_nat">Gary Stainbrook</field>
+<field name="author">Schott, James</field>
+<field name="author_nat">James Schott</field>
+<field name="author">Hawkins, Raybon</field>
+<field name="author_nat">Raybon Hawkins</field>
+<field name="title">Analysis of manpower and economic education opportunities in American economic life, grades 8-9</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
 <field name="date">02/1969</field>
@@ -1231,13 +1261,17 @@ life, grades 8-9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Davis, George</field><field name="author_nat">George Davis</field>
-<field name="author">Hermansen, Benard</field><field name="author_nat">Benard Hermansen</field>
-<field name="author">Knott, Carl</field><field name="author_nat">Carl Knott</field>
-<field name="author">Fox, Boyd</field><field name="author_nat">Boyd Fox</field>
-<field name="author">Johnson, Leslie</field><field name="author_nat">Leslie Johnson</field>
-<field name="title">Analysis of Ohio State economic curriculum materials for secondary schools, 
-grade 9</field>
+<field name="author">Davis, George</field>
+<field name="author_nat">George Davis</field>
+<field name="author">Hermansen, Benard</field>
+<field name="author_nat">Benard Hermansen</field>
+<field name="author">Knott, Carl</field>
+<field name="author_nat">Carl Knott</field>
+<field name="author">Fox, Boyd</field>
+<field name="author_nat">Boyd Fox</field>
+<field name="author">Johnson, Leslie</field>
+<field name="author_nat">Leslie Johnson</field>
+<field name="title">Analysis of Ohio State economic curriculum materials for secondary schools, grade 9</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
 <field name="date">08/1968</field>
@@ -1250,9 +1284,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Clawson, Elmer</field><field name="author_nat">Elmer Clawson</field>
-<field name="author">Lowrie, Jane</field><field name="author_nat">Jane Lowrie</field>
-<field name="author">Macey, Joan</field><field name="author_nat">Joan Macey</field>
+<field name="author">Clawson, Elmer</field>
+<field name="author_nat">Elmer Clawson</field>
+<field name="author">Lowrie, Jane</field>
+<field name="author_nat">Jane Lowrie</field>
+<field name="author">Macey, Joan</field>
+<field name="author_nat">Joan Macey</field>
 <field name="title">Analysis of our working world</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1265,9 +1302,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Alberg, Dorothy</field><field name="author_nat">Dorothy Alberg</field>
-<field name="author">Hanson, Marilyn</field><field name="author_nat">Marilyn Hanson</field>
-<field name="author">Ross, Evelyn</field><field name="author_nat">Evelyn Ross</field>
+<field name="author">Alberg, Dorothy</field>
+<field name="author_nat">Dorothy Alberg</field>
+<field name="author">Hanson, Marilyn</field>
+<field name="author_nat">Marilyn Hanson</field>
+<field name="author">Ross, Evelyn</field>
+<field name="author_nat">Evelyn Ross</field>
 <field name="title">Analysis of our working world: families at work</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1280,8 +1320,10 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Donnelly, Mary Andrew, Sister</field><field name="author_nat">Sister Donnelly, Mary Andrew</field>
-<field name="author">Drews, Pearl A.</field><field name="author_nat">Pearl A. Drews</field>
+<field name="author">Donnelly, Mary Andrew</field>
+<field name="author_nat">Sister Mary Andrew Donnelly</field>
+<field name="author">Drews, Pearl A.</field>
+<field name="author_nat">Pearl A. Drews</field>
 <field name="title">Analysis of social change: the case of rural china</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1293,9 +1335,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bowman, Clair</field><field name="author_nat">Clair Bowman</field>
-<field name="author">Crowl, Lydia</field><field name="author_nat">Lydia Crowl</field>
-<field name="author">Lowrie, Jane</field><field name="author_nat">Jane Lowrie</field>
+<field name="author">Bowman, Clair</field>
+<field name="author_nat">Clair Bowman</field>
+<field name="author">Crowl, Lydia</field>
+<field name="author_nat">Lydia Crowl</field>
+<field name="author">Lowrie, Jane</field>
+<field name="author_nat">Jane Lowrie</field>
 <field name="title">Analysis of social science laboratory units, grades 4, 5, and 6</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1311,11 +1356,13 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Bowman, Clair</field><field name="author_nat">Clair Bowman</field>
-<field name="author">Charpentier, Donald</field><field name="author_nat">Donald Charpentier</field>
-<field name="author">Doucette, Kenneth</field><field name="author_nat">Kenneth Doucette</field>
-<field name="title">Analysis of social studies curriculum project: the American experience, grade
-11</field>
+<field name="author">Bowman, Clair</field>
+<field name="author_nat">Clair Bowman</field>
+<field name="author">Charpentier, Donald</field>
+<field name="author_nat">Donald Charpentier</field>
+<field name="author">Doucette, Kenneth</field>
+<field name="author_nat">Kenneth Doucette</field>
+<field name="title">Analysis of social studies curriculum project: the American experience, grade 11</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
 <field name="date">02/1969</field>
@@ -1328,9 +1375,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Hawkins, Raybon</field><field name="author_nat">Raybon Hawkins</field>
-<field name="author">Schott, James</field><field name="author_nat">James Schott</field>
-<field name="author">Stainbrook, Gary</field><field name="author_nat">Gary Stainbrook</field>
+<field name="author">Hawkins, Raybon</field>
+<field name="author_nat">Raybon Hawkins</field>
+<field name="author">Schott, James</field>
+<field name="author_nat">James Schott</field>
+<field name="author">Stainbrook, Gary</field>
+<field name="author_nat">Gary Stainbrook</field>
 <field name="title">Analysis of sociological resources for the social studies</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1343,9 +1393,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Charpentier, Donald J.</field><field name="author_nat">Donald J. Charpentier</field>
-<field name="author">Masters, John T.</field><field name="author_nat">John T. Masters</field>
-<field name="author">Pratt, Robert B.</field><field name="author_nat">Robert B. Pratt</field>
+<field name="author">Charpentier, Donald J.</field>
+<field name="author_nat">Donald J. Charpentier</field>
+<field name="author">Masters, John T.</field>
+<field name="author_nat">John T. Masters</field>
+<field name="author">Pratt, Robert B.</field>
+<field name="author_nat">Robert B. Pratt</field>
 <field name="title">Analysis of taba curriculum</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1357,10 +1410,14 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Ballantyne, Raymond</field><field name="author_nat">Raymond Ballantyne</field>
-<field name="author">Barrett, Maude</field><field name="author_nat">Maude Barrett</field>
-<field name="author">Christensen, Ardis</field><field name="author_nat">Ardis Christensen</field>
-<field name="author">Estes, Hayden</field><field name="author_nat">Hayden Estes</field>
+<field name="author">Ballantyne, Raymond</field>
+<field name="author_nat">Raymond Ballantyne</field>
+<field name="author">Barrett, Maude</field>
+<field name="author_nat">Maude Barrett</field>
+<field name="author">Christensen, Ardis</field>
+<field name="author_nat">Ardis Christensen</field>
+<field name="author">Estes, Hayden</field>
+<field name="author_nat">Hayden Estes</field>
 <field name="title">Analysis of taba curriculum development project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1373,9 +1430,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Stainbrook, Gary</field><field name="author_nat">Gary Stainbrook</field>
-<field name="author">Hillman, Aubrey</field><field name="author_nat">Aubrey Hillman</field>
-<field name="author">De Stefanis, Anthony</field><field name="author_nat">Anthony De Stefanis</field>
+<field name="author">Stainbrook, Gary</field>
+<field name="author_nat">Gary Stainbrook</field>
+<field name="author">Hillman, Aubrey</field>
+<field name="author_nat">Aubrey Hillman</field>
+<field name="author">De Stefanis, Anthony</field>
+<field name="author_nat">Anthony De Stefanis</field>
 <field name="title">Analysis of taba curriculum development project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1388,10 +1448,14 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Dwigans, Pat</field><field name="author_nat">Pat Dwigans</field>
-<field name="author">Petery, Shirley</field><field name="author_nat">Shirley Petery</field>
-<field name="author">Thompson, Roger</field><field name="author_nat">Roger Thompson</field>
-<field name="author">Witzel, Ronald</field><field name="author_nat">Ronald Witzel</field>
+<field name="author">Dwigans, Pat</field>
+<field name="author_nat">Pat Dwigans</field>
+<field name="author">Petery, Shirley</field>
+<field name="author_nat">Shirley Petery</field>
+<field name="author">Thompson, Roger</field>
+<field name="author_nat">Roger Thompson</field>
+<field name="author">Witzel, Ronald</field>
+<field name="author_nat">Ronald Witzel</field>
 <field name="title">Analysis of the Asian project</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1404,9 +1468,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Czarra, Fred</field><field name="author_nat">Fred Czarra</field>
-<field name="author">Schwarz, Paula</field><field name="author_nat">Paula Schwarz</field>
-<field name="author">Shannon, Howard</field><field name="author_nat">Howard Shannon</field>
+<field name="author">Czarra, Fred</field>
+<field name="author_nat">Fred Czarra</field>
+<field name="author">Schwarz, Paula</field>
+<field name="author_nat">Paula Schwarz</field>
+<field name="author">Shannon, Howard</field>
+<field name="author_nat">Howard Shannon</field>
 <field name="title">Analysis of the incidence and effects of poverty in the United States</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1968</field>
@@ -1418,9 +1485,12 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Jordan, Richard</field><field name="author_nat">Richard Jordan</field>
-<field name="author">Weipert, Lou</field><field name="author_nat">Lou Weipert</field>
-<field name="author">Williams, Roger</field><field name="author_nat">Roger Williams</field>
+<field name="author">Jordan, Richard</field>
+<field name="author_nat">Richard Jordan</field>
+<field name="author">Weipert, Lou</field>
+<field name="author_nat">Lou Weipert</field>
+<field name="author">Williams, Roger</field>
+<field name="author_nat">Roger Williams</field>
 <field name="title">Analysis of the shaping of western society: an inquiry approach, grade 10</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
@@ -1433,8 +1503,10 @@ grade 9</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="author">Harms, Arden</field><field name="author_nat">Arden Harms</field>
-<field name="author">Enters, James</field><field name="author_nat">James Enters</field>
+<field name="author">Harms, Arden</field>
+<field name="author_nat">Arden Harms</field>
+<field name="author">Enters, James</field>
+<field name="author_nat">James Enters</field>
 <field name="title">Analysis of William D. Rader's elementary school economics ii</field>
 <field name="keywords">Curriculum planning</field>
 <field name="year">1969</field>
