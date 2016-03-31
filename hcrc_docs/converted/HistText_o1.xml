@@ -4989,4 +4989,289 @@ minorities for Pennsylvania schools</field>
 <field name="grade_level_group">High school</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Speaking to All Youth</field>
+<field name="title">Clergyman's kit of materials for speeches at high school assemblies</field>
+<field name="series_title">Sayings</field>
+<field name="keywords">School assemblies</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Speaking to All Youth</field>
+<field name="pub_place">Louisville, KY</field>
+<field name="call_number">371.33 .S74s v. 2</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Mateo County (California) Board of Education</field>
+<field name="title">Home school and community: responsibilities and services</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">San Mateo County (California) Board of Education</field>
+<field name="pub_place">Redwood City, CA</field>
+<field name="pages">72</field>
+<field name="call_number">371.33 .S196s v. 1</field>
+<field name="notes">"A Social Studies Resource Guide For Grade 1"</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">1st grade</field>
+</doc>
+<doc>
+
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Schools</field>
+<field name="title">Social sciences: history - geography - civics, course outline, grade eight</field>
+<field name="keywords">Civics</field>
+<field name="keywords">Geography</field>
+<field name="keywords">History</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Santa Clara County (California) Schools</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">17</field>
+<field name="call_number">371.33 .S23h v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Baker, Virgil L.</field>
+<field name="author_nat">Virgil L. Baker</field>
+<field name="title">Close-circuit television as a means of in-school instruction: a survey of findings from visitation, conference and research</field>
+<field name="keywords">Television in education</field>
+<field name="year">1958</field>
+<field name="date">06/1958</field>
+<field name="publisher">University of Arkansas</field>
+<field name="pub_place">Fayetteville, AR</field>
+<field name="pages">10</field>
+<field name="call_number">371.3095 .A72c</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Hagerstown (Maryland) Board of Education</field>
+<field name="title">Closed-circuit television : teaching in Washington County, 1958-1959</field>
+<field name="keywords">Television in education</field>
+<field name="year">1959</field>
+<field name="date">03/1959</field>
+<field name="publisher">Maryland Board of Education</field>
+<field name="pub_place">Hagerstown, MD</field>
+<field name="pages">50</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .W317c</field>
+<field name="state_country">Maryland</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gorth, William P.</field>
+<field name="author_nat">William P. Gorth</field>
+<field name="title">The co-op : the objectives and items co-op</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="publisher">Distributed by William Phillip Gorth, Center for Educational Research and Evaluation</field>
+<field name="pub_place">Amherst, MA</field>
+<field name="pages">303</field>
+<field name="language">English</field>
+<field name="abstract">[1] Mathematics, algebra (grade 11) -- [2] Science, biology (grades 10 to 12) -- [3] Science, chemistry (grade 11) -- [4] English syntax and morphology (grades 7 to 8) -- [5] English (grade 10) -- [6] Science, general (grade 8) -- [7] Social studies, geography (grade 8) -- [8] Mathematics, geometry (grade 10) -- [9] German (level 1) -- [10] History, critical thinking (grade 10) -- [11] Language arts (grades 7 to 8) -- [12] Language arts (grades 9 to 12) -- [13] Mathematics (grades 9 to 12) -- [14] Physics (grade 12) -- [15] Reading (grades 4 to 8) -- [16] Science (grades 7 to 8) -- [17] Social studies (grades 9 to 12) -- [18] Mathematics (grades 7 to 9) -- [19] Physical science (grade 9).</field>
+<field name="call_number">371.33 .N531st</field>
+<field name="notes">19 v. ; 28 cm.; Other Titles: Objectives and items co-op</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Cincinnati</field>
+<field name="title">Co-operative education : college of engineering, college of business administration</field>
+<field name="keywords">Cooperative education</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Universities and colleges</field>
+<field name="publisher">University of Cincinnati</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="pages">32</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .E57ci</field>
+<field name="notes">32 p. : ill.; rt. ; 26 cm.; Note(s): Cover title.; Responsibility: University of Cincinnati ; foreword by Walter C. Langsam, President, University of Cincinnati.</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tri-University Project in Elementary Education</field>
+<field name="title">Cognitive learnings and social studies</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1968</field>
+<field name="date">02/1968</field>
+<field name="publisher">Tri-University Project in Elementary Education</field>
+<field name="pub_place">Seattle, WA</field>
+<field name="call_number">371.33 .T83t v. 2</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">College guidance handbook for high school students</field>
+<field name="keywords">College choice</field>
+<field name="keywords">Universities and colleges</field>
+<field name="keywords">Admissions</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="pages">42</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .D41c</field>
+<field name="notes">42 ; 21 cm.; Note(s): Includes bibliographical references.; Responsibility: Denver Public Schools.</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Denver (Colorado) Public Schools</field>
+<field name="title">College guidance unit for teachers of high school vocations classes</field>
+<field name="keywords">College choice</field>
+<field name="keywords">Counseling in secondary education</field>
+<field name="keywords">Vocational education</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="publisher">Denver (Colorado) Public Schools</field>
+<field name="pub_place">Denver, CO</field>
+<field name="pages">17</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .D41c</field>
+<field name="notes">17 p. ; 28 cm.; Responsibility: prepared in the Dept. of Pupil Services [for the Dept. of General Curriculum Services by Allen B. Miller].</field>
+<field name="state_country">Colorado</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Bureau of Elementary and Secondary Education</field>
+<field name="title">College preparation for teaching economics</field>
+<field name="keywords">Economics</field>
+<field name="keywords">Universities and colleges</field>
+<field name="keywords">Curricula</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">19</field>
+<field name="language">English</field>
+<field name="call_number">330 .C15c</field>
+<field name="notes">19 p.; Note(s): Includes bibliographies.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National League for Nursing</field>
+<field name="title">The college way to a nursing career</field>
+<field name="keywords">Nursing</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1956</field>
+<field name="date">11/1956</field>
+<field name="publisher">National League fro Nursing. Committee on Careers</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">20</field>
+<field name="call_number">371.425 .N97na</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">College?</field>
+<field name="keywords">Vocational guidance</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">7</field>
+<field name="call_number">371.45 .L87c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Oliver, Donald W.</field>
+<field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field>
+<field name="author_nat">Fred M. Newmann</field>
+<field name="title">Colonial Africa : the Kenya experience</field>
+<field name="series_title">AEP public issues series</field>
+<field name="keywords">Kenya</field>
+<field name="keywords">History</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">American Education Publications</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="pages">63</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .H33p v. 17</field>
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit book."/ Cover title./ First issued under title: Colonial Kenya, cultures in conflict./ Includes bibliographical references (p. 63).; Responsibility: adapted from the Harvard Social Studies Project under the direction of Donald W. Oliver and Fred M. Newmann.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Mitsakos, Charles L.</field>
+<field name="author_nat">Charles L. Mitsakos</field>
+<field name="author">Markiewicz, Jane</field>
+<field name="author_nat">Jane Markiewicz</field>
+<field name="author">McCrady, Claire</field>
+<field name="author_nat">Claire McCrady</field>
+<field name="title">Colonial family of Boston : teacher's resource unit</field>
+<field name="series_title">Families around the world.</field>
+<field name="keywords">United States history</field>
+<field name="keywords">Colonial period</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Chelmsford (Massachusetts) Public Schools</field>
+<field name="pub_place">Chelmsford, MA</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .C51f v. 6</field>
+<field name="notes">96 leaves ; 22 x 28 cm.; Responsibility: revised by Jane Markiewicz, Claire McCrady, Charles L. Mitsakos.</field>
+<field name="state_country">Massachusetts</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stewart, Maxwell S.</field>
+<field name="author_nat">Maxwell S. Stewart</field>
+<field name="title">Colonies, trade and prosperity ..</field>
+<field name="series_title">Public affairs pamphlet</field>
+<field name="keywords">Colonies</field>
+<field name="keywords">Commercial products</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="publisher">Public affairs committee</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">13</field>
+<field name="pages">31</field>
+<field name="language">English</field>
+<field name="call_number">337 .P976c</field>
+<field name="notes">cover-title, 31, [1] p. illus. (map) diagr. 22 cm.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">White, George L.</field>
+<field name="author_nat">George L. White</field>
+<field name="title">Colusa charts a course</field>
+<field name="keywords">Social sciences</field>
+<field name="publisher">Colusa County (California) Schools</field>
+<field name="pub_place">Colusa, CA</field>
+<field name="pages">32</field>
+<field name="call_number">371.33 .C72c</field>
+<field name="state_country">California</field>
+</doc>
+
 </add>
