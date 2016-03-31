@@ -1233,4 +1233,101 @@ minorities for Pennsylvania schools</field>
 <field name="call_number">371.33 .S65c v. 19</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Trujillo, John</field>
+<field name="author_nat">John Trujillo</field>
+<field name="author">Ostrom, Ray</field>
+<field name="author_nat">Ray Ostrom</field>
+<field name="author">Masters, Terry</field>
+<field name="author_nat">Terry Masters</field>
+<field name="title">Analysis of high school geography project, geography in an urban age, grade 10</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">18</field>
+<field name="call_number">371.33 .S65c v. 38</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Randall, Verna</field>
+<field name="author_nat">Verna Randall</field>
+<field name="author">Hopkins, Evelyn</field>
+<field name="author_nat">Evelyn Hopkins</field>
+<field name="author">Cook, Teddy</field>
+<field name="author_nat">Teddy Cook</field>
+<field name="title">Analysis of man in action series</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">9</field>
+<field name="call_number">371.33 .S65c v. 9</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stainbrook, Gary</field>
+<field name="author_nat">Gary Stainbrook</field>
+<field name="author">Schott, James</field>
+<field name="author_nat">James Schott</field>
+<field name="author">Hawkins, Raybon</field>
+<field name="author_nat">Raybon Hawkins</field>
+<field name="title">Analysis of manpower and economic education opportunities in American economic life, grades 8-9</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="call_number">371.33 .S65c v. 39</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Davis, George</field>
+<field name="author_nat">George Davis</field>
+<field name="author">Hermansen, Benard</field>
+<field name="author_nat">Benard Hermansen</field>
+<field name="author">Knott, Carl</field>
+<field name="author_nat">Carl Knott</field>
+<field name="author">Fox, Boyd</field>
+<field name="author_nat">Boyd Fox</field>
+<field name="author">Johnson, Leslie</field>
+<field name="author_nat">Leslie Johnson</field>
+<field name="title">Analysis of Ohio State economic curriculum materials for secondary schools, grade 9</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">08/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">16</field>
+<field name="call_number">371.33 .S65c v. 22</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Clawson, Elmer</field>
+<field name="author_nat">Elmer Clawson</field>
+<field name="author">Lowrie, Jane</field>
+<field name="author_nat">Jane Lowrie</field>
+<field name="author">Macey, Joan</field>
+<field name="author_nat">Joan Macey</field>
+<field name="title">Analysis of our working world</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">05/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">50</field>
+<field name="call_number">371.33 .S65c v. 11</field>
+</doc>
+
 </add>
