@@ -4140,4 +4140,280 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">California</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Division of Audio-visual Educators. Los Angeles County (California)</field>
+<field name="title">Catalog of visual materials for secondary schools</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">Los Angeles County (California) Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">83</field>
+<field name="call_number">371.3095 .L87c v. 2</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Miller, Loren F.</field>
+<field name="author_nat">Loren F. Miller</field>
+<field name="title">Catalogue of audio-visual materials: a guide for the secondary and junior college teachers of San Mateo County</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="publisher">San Mateo County (California) Schools</field>
+<field name="pub_place">Redwood City, CA</field>
+<field name="pages">27</field>
+<field name="call_number">371.3095 .S196c</field>
+<field name="notes">"This catalogue of audio-visual aids is presented to the teachers of San Mateo County to acquaint them with the materials available in the Office of the County Superintendent of Schools."</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Center for International Programs and Services</field>
+<field name="title">The challenge of a revolutionary world : strengthening the international dimensions of education in New York State ; progress report, 1964</field>
+<field name="series_title">The challenge of a revolutionary world</field>
+<field name="keywords">Area studies</field>
+<field name="keywords">International education</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">University of the State of New York, State Education Dept</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">37</field>
+<field name="language">English</field>
+<field name="call_number">327 .N532f v .3</field>
+<field name="notes">37 p. ; 22 cm.; Other Titles: Strengthening the international dimensions of education in New York State; progress report, 1964.; Responsibility: University of the State of New York, State Education Department.</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York</field>
+<field name="title">The challenge of a revolutionary world : strengthening the international dimensions of education in New York State: Progress report</field>
+<field name="series_title">The Challenge of a Revolutionary World</field>
+<field name="keywords">Area studies</field>
+<field name="keywords">International education</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">University of the State of New York/State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">32</field>
+<field name="language">English</field>
+<field name="call_number">327 .N532f v. 2</field>
+<field name="notes">32 p. ; 22 cm.; Note(s): "Prepared as a sequel to The international dimensions of education in New York State."/ "Publications by and about the State Education Department's programs in foreign area studies": p. 31-32.</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Akron (Ohio) Board of Education</field>
+<field name="title">The challenge of a revolutionary world : strengthening the international dimensions of education in New York State: Progress report: 1963. Resource manual, ninth-grade civics</field>
+<field name="series_title">Akron (Ohio).; Board of Education.; Publication</field>
+<field name="series_vol">125</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="publisher">Akron (Ohio) Public Schools</field>
+<field name="pub_place">Akron, OH</field>
+<field name="pages">84</field>
+<field name="language">English</field>
+<field name="notes">[iv], 84 l. : ill., charts ; 28 cm.; Note(s): Spiral-bound with heavey paper covers./ Bibliography: l. 82-84.; General Info: Restricted access./ Access by request at Main Library archives only; material does not circulate.; Responsibility: Akron Public Schools.</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Nelson, Murry</field>
+<field name="author_nat">Murry Nelson</field>
+<field name="title">Change in the junior high social studies curriculum, 1900-1972</field>
+<field name="keywords">Social sciences</field>
+<field name="date">1970s</field>
+<field name="pages">81</field>
+<field name="call_number">371.33 .N42c</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Jones, Vernon A.</field>
+<field name="author_nat">Vernon A. Jones</field>
+<field name="title">Character and citizenship education; a syllabus for use in teacher training</field>
+<field name="keywords">Civics</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="publisher">National Education Association of the United States in cooperation with the Palmer Foundation, Texarkana, Ark.-Tex</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">149</field>
+<field name="language">English</field>
+<field name="call_number">320 .N271c</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Inglewood (California) Unified School District</field>
+<field name="title">Checklist of ways of teaching good citizenship in school</field>
+<field name="keywords">Citizenship</field>
+<field name="keywords">Civics</field>
+<field name="year">1954</field>
+<field name="date">09/1954</field>
+<field name="publisher">Inglewood (California) Unified School District</field>
+<field name="pub_place">Inglewood, CA</field>
+<field name="pages">24</field>
+<field name="call_number">371.33 .I51w</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stevenson, Earl P.</field>
+<field name="author_nat">Earl P. Stevenson</field>
+<field name="title">The chemical industry and the future</field>
+<field name="keywords">Chemical industry</field>
+<field name="keywords">Chemical workers</field>
+<field name="year">1953</field>
+<field name="date">05/1953</field>
+<field name="pages">10</field>
+<field name="call_number">371.425 .C51i</field>
+<field name="notes">"A paper presented at the conference of the Industrial Council held at Rensselaer Polytechnic Institute, May 1953."</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States. Division of Vocational and Technical Education</field>
+<field name="title">Chemical technology : a suggested 2-year post high school curriculum</field>
+<field name="series_title">United States.; Division of Vocational and Technical Education.; Technical education program series</field>
+<field name="keywords">Chemistry</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">U.S. Department of Health Education and Welfare, Office of Education</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">5</field>
+<field name="pages">119</field>
+<field name="language">English</field>
+<field name="call_number">371.401 .U58t no. 5</field>
+<field name="notes">vii; ill. ; 26 cm.; Note(s): "OE-80031."/ Includes bibliographical references.; Responsibility: U.S. Office of Education, Division of Vocational and Technical Education.</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dunn, Lynn P.</field>
+<field name="author_nat">Lynn P. Dunn</field>
+<field name="title">Chicanos : a study guide and sourcebook</field>
+<field name="keywords">Mexican Americans</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="publisher">R and E Research Associates</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">122</field>
+<field name="language">English</field>
+<field name="call_number">323 .C59c</field>
+<field name="notes">vi; ; 28 cm.; Note(s): Includes bibliographical references (p. 111-122).; "This book is one of a four volume series on American minorities (one volume each on Blacks, Chicanos, Native Americans, and Asian Americans."</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fair Lawn (New Jersey) Public Schools</field>
+<field name="title">A child grows in social studies: tentative guide for elementary social studies</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1956</field>
+<field name="date">07/1956</field>
+<field name="publisher">Fair Lawn (New Jersey) Public Schools</field>
+<field name="pub_place">Fair Lawn, NJ</field>
+<field name="call_number">371.33 .F16c</field>
+<field name="state_country">New Jersey</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Davison, Donald G.</field>
+<field name="author_nat">Donald G. Davison</field>
+<field name="author">Kilgore, John H.</field>
+<field name="author_nat">John H. Kilgore</field>
+<field name="title">The child's world of choices</field>
+<field name="keywords">Economics</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Bureau of Business and Economic Research, College of Business Administration, University of Iowa</field>
+<field name="pub_place">Iowa City, IA</field>
+<field name="pages">186</field>
+<field name="language">English</field>
+<field name="call_number">330 .I64c v. 1</field>
+<field name="notes">ix; illus. 28 cm.; Note(s): Supplemented by: "Teacher's guide to Student Activity book. Preliminary draft." (1 v. illus. 23 x 28 cm.) published: Iowa City, Iowa Council on Economic Education, Bureau of Business and Economic Research, University of Iowa, 1970-  Teacher's Guide; Responsibility: by Donald G. Davison and John H. Kilgore.</field>
+<field name="state_country">Iowa</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Elementary Curriculum Development</field>
+<field name="title">Children explore the environment</field>
+<field name="keywords">Description and travel</field>
+<field name="keywords">School field trips</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">New York State Education Department</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">92</field>
+<field name="language">English</field>
+<field name="call_number">371.3 .N531c</field>
+<field name="notes">92 p. illus. 23 cm.</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Shawnee Mission (Kansas) District High Schools</field>
+<field name="title">China, 9th grade required</field>
+<field name="keywords">China</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Shawnee Mission (Kansas) Public Schools</field>
+<field name="pub_place">Shawnee Mission, KS</field>
+<field name="pages">14</field>
+<field name="call_number">371.33 .S53u v. 2</field>
+<field name="state_country">Kansas</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Education Publications</field>
+<field name="title">China: troubled Asian giant</field>
+<field name="series_title">American Education Publications Unit Book</field>
+<field name="keywords">China</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">American Education Publications</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="pages">47</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .A51a v. 3</field>
+<field name="notes">ill. ; 21 cm.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Lew, Helene</field>
+<field name="author_nat">Helene Lew</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">Chinese new year resource material</field>
+<field name="keywords">China</field>
+<field name="keywords">Social life and customs</field>
+<field name="keywords">Chinese New Year</field>
+<field name="year">1972</field>
+<field name="date">02/1972</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">10</field>
+<field name="call_number">323 .s195m no. 5</field>
+<field name="state_country">California</field>
+</doc>
+
 </add>
