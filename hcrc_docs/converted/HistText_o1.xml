@@ -3555,4 +3555,290 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">Missouri</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nevada State Department of Education</field>
+<field name="title">Career development in Nevada organizing for instruction</field>
+<field name="keywords">Career education</field>
+<field name="year">1973</field>
+<field name="date">1973-1974</field>
+<field name="publisher">Nevada State Department of Education</field>
+<field name="pub_place">Carson City, NV</field>
+<field name="series_vol">3</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .N49c v. 1-3</field>
+<field name="state_country">Nevada</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Broward County (Florida) Public Schools</field>
+<field name="title">Career development in the secondary schools</field>
+<field name="keywords">Vocational education</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">Broward County (Florida) Schools</field>
+<field name="pub_place">Fort Lauderdale, FL</field>
+<field name="call_number">371.45 .B87c</field>
+<field name="state_country">Florida</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hartzog, Ernest E.</field>
+<field name="author_nat">Ernest E. Hartzog</field>
+<field name="author">Laughlin, Will A.</field>
+<field name="author_nat">Will A. Laughlin</field>
+<field name="title">Career Development Services Department, San Diego City Schools</field>
+<field name="keywords">Vocational education</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="series_vol">Revised</field>
+<field name="pages">82</field>
+<field name="language">English</field>
+<field name="call_number">371.401 .S19c</field>
+<field name="notes">vi; ill. ; 28 cm.; Note(s): "Unedited."; Responsibility: prepared by Ernest E. Hartzog and the Career Development Services Department staff.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dunn, James A.</field>
+<field name="author_nat">James A. Dunn</field>
+<field name="title">Career education curriculum development: grades k-9</field>
+<field name="keywords">Career education</field>
+<field name="year">1974</field>
+<field name="date">10/1974</field>
+<field name="publisher">American Institutes for Research</field>
+<field name="pub_place">Palo Alto, CA</field>
+<field name="pages">89</field>
+<field name="call_number">371.45 .A51c</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Young, Jim</field>
+<field name="author_nat">Jim Young</field>
+<field name="title">Career education handbook</field>
+<field name="keywords">Career education</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="publisher">School District of University City (Missouri)</field>
+<field name="pub_place">University City, MO</field>
+<field name="pages">39</field>
+<field name="call_number">371.45 .U59c v. 1</field>
+<field name="state_country">Missouri</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Board of Education of the City of New York</field>
+<field name="title">A career for you</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Board of Education of the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">20</field>
+<field name="call_number">371.425 .T25nc</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Robison, Helen J.</field>
+<field name="author_nat">Helen J. Robison</field>
+<field name="title">Careers for women in the Armed Forces</field>
+<field name="keywords">United States Armed Forces</field>
+<field name="keywords">Women</field>
+<field name="keywords">Employment</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="publisher">U.S. Department of Defense</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">46</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .U58d</field>
+<field name="notes">46 p. illus. 23 cm.; Note(s): Cover title.; Responsibility: [by Helen J. Robison, Special Services and Publications Division] Produced by the Dept. of Defense in cooperation with the Dept. of Labor.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Teachers Association. Commission on Teacher Education and Professional Standards</field>
+<field name="title">Careers in education; a guide to the study of the profession</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">California Teachers Association</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">71</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .T25ct</field>
+<field name="notes">71 p. illus. 22 cm.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States Department of Agriculture</field>
+<field name="title">Careers in forestry</field>
+<field name="series_title">United States Department of Agriculture. Miscellaneous publication</field>
+<field name="keywords">Forests and forestry</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1955</field>
+<field name="date">08/1955</field>
+<field name="publisher">United States Department of Agriculture</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">249</field>
+<field name="pages">22</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .F71u</field>
+<field name="notes">ill. ; 24 cm.; Note(s): Cover title./ "Revision of and supersedes 'Forestry as a profession', an unnumbered publication issued in 1927"--Foot-note, p. 1.; Responsibility: prepared by the Forest Service.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Careers in nursing</field>
+<field name="keywords">Nursing</field>
+<field name="keywords">Vocational guidance</field>
+<field name="publisher">Committee on Careers in Nursing</field>
+<field name="call_number">371.425 .N97co</field>
+<field name="notes">A collections of pamphlets: "Public health nursing, " "Careers for men in nursing, " "There is an exciting future for you in public health nursing, ""To help you get more nurses, " "Nursing and college, " "Nursing has a future for you, " "Books on careers in nursing, " "Nursing offers you a career, " "What is the difference between professional and practical nursing, " "Practical nursing."</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">Careers related to industrial education : a collection of career guidance outlines to assist with planning and preparation for occupations with industry for the reference use of industrial education teachers, counselors, and advisers</field>
+<field name="series_title">Evaluation and research section</field>
+<field name="keywords">Occupations</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">Los Angeles (California) City Schools. Division of Instructional Services</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="series_vol">260</field>
+<field name="language">English</field>
+<field name="call_number">371.41 .L879c</field>
+<field name="notes">ca. 150 p. ; 28 cm.; Note(s): "No. 260."; Responsibility: Los Angeles City Schools ; Prepared by Evaluation and Research Section.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">G. Sparks, David</field>
+<field name="author_nat">David G. Sparks</field>
+<field name="author">Marchak, John</field>
+<field name="author_nat">John Marchak</field>
+<field name="author">Newmann, Fred M.</field>
+<field name="author_nat">Fred M. Newmann</field>
+<field name="author">Oliver, Donald W.</field>
+<field name="author_nat">Donald W. Oliver</field>
+<field name="author">Pearson, Craig</field>
+<field name="author_nat">Craig Pearson</field>
+<field name="title">Cases and controversy : guide to teaching the Public issues series/Harvard Social Studies Project</field>
+<field name="series_title">AEP unit books; Public issues series/Harvard Social Studies Project</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">American Education Publications, Education Center</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="pages">31</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .H33p v. 9</field>
+<field name="notes">17, [1] S. : Ill. ; 28 cm.; Responsibility: by Donald W. Oliver and Fred M. Newmann. AEP ed.: Craig Pearson; John Marchak; David G. Sparks.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Film Board of Canada</field>
+<field name="title">Catalog of 16mm films available for purchase and rental in the United States</field>
+<field name="keywords">Educational films</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">National Film Board of Canada</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">36</field>
+<field name="call_number">371.3095 .N277s</field>
+<field name="notes">1958, Suppl. No. 1 January 1959</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Catalog of audio-visual instruction materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">Sacramento City Unitied School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">141</field>
+<field name="call_number">371.3095 .S12c 1949</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Catalog of audio-visual instruction materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">85</field>
+<field name="call_number">371.3095 .S12c 1953 v. 1</field>
+<field name="notes">Part 1: Kindergarten, Primary--Grades 1-3 Part 2: Elementary Grades 4-6</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Catalog of audio-visual instruction materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">183</field>
+<field name="call_number">371.3095 .S12c 1953 v. 2</field>
+<field name="notes">Junior High School, Senior High School, Junior College</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+<field name="grade_level_group">High school</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Francis, Harold C.</field>
+<field name="author_nat">Harold C. Francis</field>
+<field name="title">A catalog of audio-visual instructional materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1944</field>
+<field name="date">09/1944</field>
+<field name="publisher">Stanislaus County (California) Schools</field>
+<field name="pub_place">Modesto, CA</field>
+<field name="call_number">371.3095 .S78a</field>
+<field name="state_country">California</field>
+</doc>
+
 </add>
