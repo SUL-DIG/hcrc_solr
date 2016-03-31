@@ -3841,4 +3841,303 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">California</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kings County (California) Schools</field>
+<field name="title">Catalog of audio-visual instructional materials...</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="publisher">Kings County (California) Schools</field>
+<field name="pub_place">Hanford, CA</field>
+<field name="pages">94</field>
+<field name="call_number">371.3095 .K55c</field>
+<field name="notes">v. 1 Elementary Schools v. 2 Secondary Schools</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Brown, Gertha</field>
+<field name="author_nat">Gertha Brown</field>
+<field name="title">Catalog of audio-visual materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="publisher">Contra Costa County Schools</field>
+<field name="pub_place">Pleasant Hill, CA</field>
+<field name="call_number">371.3095 .C764c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mendocino-Lake County (California) Schools</field>
+<field name="title">Catalog of audio-visual materials and services Mendocino and Lake County schools</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">10/1949</field>
+<field name="publisher">Mendocino-Lake County Schools</field>
+<field name="pub_place">Ukiah, CA</field>
+<field name="call_number">371.3095 .M53c 1949</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Plumas County (California) Schools</field>
+<field name="title">Catalog of audio-visual materials for Plumas County schools</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">1949-1950</field>
+<field name="publisher">Plumas County (California) Schools</field>
+<field name="pub_place">Quincy, CA</field>
+<field name="pages">122</field>
+<field name="call_number">371.3095 .P73g</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School Districts</field>
+<field name="title">Catalog of audio-visual materials for secondary grades</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="grade_level_group">High school</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="publisher">Los Angeles (California) City School Districts</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">347</field>
+<field name="call_number">371.3095 .L869c v. 4</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School Districts</field>
+<field name="title">Catalog of audio-visual materials for third and fourth grades</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="publisher">Los Angeles (California) City School Districts</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">247</field>
+<field name="call_number">371.3095 .L869c v. 2 1960</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+<field name="grade_level_number">4th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Eckman, O. L.</field>
+<field name="author_nat">O. L. Eckman</field>
+<field name="title">Catalog of audio-visual materials, Monterey County schools, catalog II</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">Monterey County (California) Schools</field>
+<field name="pub_place">Salinas, CA</field>
+<field name="pages">173</field>
+<field name="call_number">371.3095 .M778c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School Districts</field>
+<field name="title">Catalog of audio-visual materials: 6th grade</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">10/1949</field>
+<field name="publisher">Los Angeles (California) City School Districts</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">44</field>
+<field name="call_number">371.3095 .L869c v. 5</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School Districts</field>
+<field name="title">Catalog of audio-visual materials: primary grades</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="publisher">Los Angeles (California) City School Districts</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">48</field>
+<field name="call_number">371.3095 .L869c v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School Districts</field>
+<field name="title">Catalog of audio-visual materials: primary grades</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Los Angeles (California) City School Districts</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">53</field>
+<field name="call_number">371.3095 .L869c v. 1 1956</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School Districts</field>
+<field name="title">Catalog of audio-visual materials: primary grades</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="publisher">Los Angeles (California) City School Districts</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">166</field>
+<field name="call_number">371.3095 .L869c v. 1 1959</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School Districts</field>
+<field name="title">Catalog of audio-visual materials: third grade</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">10/1949</field>
+<field name="publisher">Los Angeles (California) City School Districts</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">37</field>
+<field name="call_number">371.3095 .L869c v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Barbara County (California) Schools</field>
+<field name="title">Catalog of audio-visual resources</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1948</field>
+<field name="date">10/1948</field>
+<field name="publisher">Santa Barbara County Schools</field>
+<field name="pub_place">Santa Barbara, CA</field>
+<field name="pages">218</field>
+<field name="call_number">371.3095 .S228c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sonoma County (California) Schools</field>
+<field name="title">Catalog of audio=visual instructional materials and services, Sonoma County schools</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="publisher">Sonoma County Schools</field>
+<field name="pub_place">Santa Rosa, CA</field>
+<field name="call_number">371.3095 .S69a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Michigan</field>
+<field name="corp_author">Michigan State University</field>
+<field name="title">Catalog of educational motion pictures</field>
+<field name="keywords">Educational films</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="publisher">University of Michigan</field>
+<field name="pub_place">Ann Arbor, MI</field>
+<field name="pages">351</field>
+<field name="call_number">371.3095 .M62e</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda (California) Public Schools. Instructional Materials Center</field>
+<field name="title">Catalog of instructional materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">Alamedia (California) Public Schools</field>
+<field name="pub_place">Alameda, CA</field>
+<field name="pages">22</field>
+<field name="call_number">371.3095 .A318c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Thompson, Glenn R.</field>
+<field name="author_nat">Glenn R. Thompson</field>
+<field name="author">Hill, Jimmie O.</field>
+<field name="author_nat">Jimmie O. Hill</field>
+<field name="corp_author">Instructional Materials Department</field>
+<field name="title">Catalog of instructional materials available from Audio-Visual Education Department. Lassen County Schools</field>
+<field name="keywords">Audio-visual education</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1950</field>
+<field name="date">09/1950</field>
+<field name="publisher">Lassen County (California) Schools</field>
+<field name="pub_place">Susanville, CA</field>
+<field name="pages">139</field>
+<field name="call_number">371.3095 .L34c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mendocino-Lake County (California) Schools</field>
+<field name="title">Catalog of instructional materials...</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1953</field>
+<field name="date">01/1953</field>
+<field name="publisher">Mendocino-Lake County (California) Schools</field>
+<field name="pub_place">Ukiah, CA</field>
+<field name="pages">157</field>
+<field name="call_number">371.3095 .M53c 1953</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Clearinghouse Depository for Handicapped Students</field>
+<field name="title">Catalog of instructional tapes : for visually handicapped, educationally handicapped, educable mentally retarded, homebound and hospitalized, health impaired and orthopedically handicapped</field>
+<field name="keywords">Audiotapes</field>
+<field name="keywords">Children with disabilities</field>
+<field name="keywords">Catalogs</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">116</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .C15c</field>
+<field name="notes">116 p. ; 28 cm.; Responsibility: Clearinghouse Depository for the visually handicapped, Master Tape Library.</field>
+<field name="state_country">California</field>
+</doc>
+
 </add>
