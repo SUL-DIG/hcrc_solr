@@ -7151,4 +7151,372 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">Pennsylvania</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Diego County (California) Department of Education</field>
+<field name="title">Developing American values in our schools...suggested practices for the American heritage</field>
+<field name="keywords">Citizenship</field>
+<field name="year">1961</field>
+<field name="date">10/1961</field>
+<field name="publisher">San Diego County (California) Department of Education</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="pages">18</field>
+<field name="call_number">371.33 .S191d</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dimond, Stanley E.</field>
+<field name="author_nat">Stanley E. Dimond</field>
+<field name="author">Beck, Elsie M.</field>
+<field name="author_nat">Elsie M. Beck</field>
+<field name="title">Developing civic responsibility : a pupil manual and study guide in social studies</field>
+<field name="series_title">Detroit (Michigan) Public Schools. Publication</field>
+<field name="keywords">Civics</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Board of Education of the City of Detroit (Michigan)</field>
+<field name="pub_place">Detroit, MI</field>
+<field name="series_vol">313</field>
+<field name="pages">87</field>
+<field name="language">English</field>
+<field name="call_number">320 .D41d</field>
+<field name="notes">87 p. ; 23 cm.; Note(s): At head of title: Detroit Public Schools, Division of Instruction, Dept. of Social Studies.; Responsibility: edited by Stanley E. Dimond and Elsie M. Beck.; Printed 1954</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Juchem, Marguerite R.</field>
+<field name="author_nat">Marguerite R. Juchem</field>
+<field name="title">Developing responsible drivers : a manual on driver education</field>
+<field name="keywords">Automobile driver education</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="publisher">Office of Instructional Services</field>
+<field name="pub_place">Denver, CO</field>
+<field name="pages">64</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .C71d</field>
+<field name="notes">ill. ; 22 x 28 cm.; Note(s): Includes bibliographical references (p. 61-64).; Other Titles: Manual on driver education; Responsibility: prepared under the supervision of Marguerite R. Juchem.</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wheeler, Eldon G.</field>
+<field name="author_nat">Eldon G. Wheeler</field>
+<field name="title">Developing the social studies curriculum for citizenship education: a manual for secondary school social studies teachers: a report of the Kansas study of education for citizenship</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1952</field>
+<field name="date">06/1952</field>
+<field name="publisher">Kansas State Department of Public Instruction</field>
+<field name="pub_place">Manhattan, KS</field>
+<field name="pages">80</field>
+<field name="call_number">371.33 .K15b</field>
+<field name="state_country">Kansas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Guidance</field>
+<field name="title">Developing work-study programs for potential dropouts: a manual</field>
+<field name="keywords">Dropouts</field>
+<field name="keywords">Cooperative education</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="publisher">University of the State of New York</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">114</field>
+<field name="language">English</field>
+<field name="notes">2; ill., forms. 28 cm.; Note(s): Cover title./ Includes bibliographical references.; Other Titles: STEP; the school to employment program; Responsibility: STEP; the school to employment program.</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Olsen, Arthur R.</field>
+<field name="author_nat">Arthur R. Olsen</field>
+<field name="title">Development in economic education : manual for teachers participating in NDEA Title III Economic Workshops</field>
+<field name="keywords">Economics</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">Office of Superintendent of Public Instruction</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="pages">158</field>
+<field name="language">English</field>
+<field name="call_number">330 .I291d</field>
+<field name="notes">iv; ill. ; 28 cm.; Note(s): On cover: A manual for Illinois social studies teachers./ Includes bibliographies.; Responsibility: Arthur Robert Olsen.</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">de Sola Pool, Ithiel</field>
+<field name="author_nat">Ithiel de Sola Pool</field>
+<field name="author">Angell, George W.</field>
+<field name="author_nat">George W. Angell</field>
+<field name="title">The development of a basic social science course for undergraduate students in the natural sciences and engineering</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1968</field>
+<field name="date">07/1968</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pages">19</field>
+<field name="call_number">371.33 .M41d v. 1</field>
+<field name="notes">Interim Report Project No. h-120, Contract No. OE-5-10-086.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Aikman, Louis P.</field>
+<field name="author_nat">Louis P. Aikman</field>
+<field name="author">Ostreicher, Leonard M.</field>
+<field name="author_nat">Leonard M. Ostreicher</field>
+<field name="title">Development of an inventory for measuring satisfication with student teaching</field>
+<field name="series_title">College of the City of New York. Division of Teacher Education. Office of Research and Evaluation. Publication 22</field>
+<field name="keywords">Teachers</field>
+<field name="year">1954</field>
+<field name="date">07/1954</field>
+<field name="publisher">Division of Teacher Education, College of the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">22</field>
+<field name="language">English</field>
+<field name="call_number">370.73 .N537p V. 2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Mateo County (California) Board of Education</field>
+<field name="title">The development of culture: a social studies unit of work, grades 7-8</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1939</field>
+<field name="date">01/1939</field>
+<field name="publisher">San Mateo County (California) Elementary Schools</field>
+<field name="pub_place">San Mateo, CA</field>
+<field name="pages">66</field>
+<field name="call_number">371.33 .S196d</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arlington County (Virginia) Public Schools</field>
+<field name="title">Development of democracy in America : tentative resource units, 8th grade general education</field>
+<field name="keywords">Democracy</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Arlington County (Virginia) Public Schools</field>
+<field name="pub_place">Arlington, VA</field>
+<field name="pages">77</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .A72t v. 2</field>
+<field name="notes">77 p. ; cm</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Department of Education. Division of Instructional Research</field>
+<field name="title">A diagnostic approach to the reading program part I [-II]</field>
+<field name="series_title">Educational research bulletin of the Bureau of reference, research and statistics</field>
+<field name="keywords">Reading</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="publisher">Board of Education of the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">3-4</field>
+<field name="language">English</field>
+<field name="call_number">371.3428 .N57 nos. 3-4</field>
+<field name="notes">25; 24 cm.; Note(s): "Selected references", p. II, p. 32.; Responsibility: Prepared by Division of instructional research. May Lazar, research assistant in charge.</field>
+<field name="state_country">New York</field>
+<field name="series_num_vol">2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Occupational Information and Guidance Service</field>
+<field name="title">The diesel mechanic</field>
+<field name="keywords">Mechanics</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1954</field>
+<field name="date">03/1954</field>
+<field name="publisher">Occupational Information and Guidance Service</field>
+<field name="pub_place">Salem, OR</field>
+<field name="pages">6</field>
+<field name="call_number">371.425 .M47or</field>
+<field name="state_country">Oregon</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Elementary Social Studies Committee</field>
+<field name="title">Dimensions for learning: course of study: social studies, intermediate grades (4-6)</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1962</field>
+<field name="date">Spring 1962</field>
+<field name="publisher">Mason City (Iowa) Independent School District</field>
+<field name="pub_place">Mason City, IA</field>
+<field name="call_number">371.33 .M39c v. 2</field>
+<field name="state_country">Iowa</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Jacobsen, Joseph Melvin</field>
+<field name="author_nat">Joseph Melvin Jacobsen</field>
+<field name="title">A directory of occupation-centered curriculums in California junior colleges and schools for adults</field>
+<field name="keywords">Vocational education</field>
+<field name="keywords">Directories</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">540</field>
+<field name="language">English</field>
+<field name="call_number">371.41 .C15d 1962</field>
+<field name="notes">540 p. 28 cm.; Responsibility: Compiled by Joseph M. Jacobsen, counselor, City College of San Francisco.</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Jacobsen, Joseph Melvin</field>
+<field name="author_nat">Joseph Melvin Jacobsen</field>
+<field name="title">A directory of occupation-centered curriculums in California junior colleges and schools for adults</field>
+<field name="keywords">Vocational education</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">544</field>
+<field name="language">English</field>
+<field name="call_number">371.41 .C15d 1964</field>
+<field name="notes">540 p. 28 cm.; Responsibility: Compiled by Joseph M. Jacobsen, counselor, City College of San Francisco.</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Lamers, William M.</field>
+<field name="author_nat">William M. Lamers</field>
+<field name="title">Disaster protection handbook for school administrators</field>
+<field name="keywords">Civil defense</field>
+<field name="keywords">Community and school</field>
+<field name="year">1959</field>
+<field name="date">06/1959</field>
+<field name="publisher">American Association of School Administrators</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">40</field>
+<field name="language">English</field>
+<field name="notes">40 p. illus. 23 cm.; Responsibility: Project writer: William M. Lamers.
+<field name="call_number">371.76 .A47d</field>
+</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Herrick, Mary J.</field>
+<field name="author_nat">Mary J. Herrick</field>
+<field name="title">Discipline : what for and how?</field>
+<field name="keywords">School discipline</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">American Federation of Teachers</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">30</field>
+<field name="language">English</field>
+<field name="call_number">370.21 .A51d</field>
+<field name="notes">30 p. 22 cm.; Note(s): Includes bibliographical references (p. 23-24).; Responsibility: by Mary Herrick.</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Kuder, George Frederic</field>
+<field name="author_nat">George Frederic Kuder</field>
+<field name="author">Paulson, Blanche Buhlig</field>
+<field name="author_nat">Blanche Buhlig Paulson</field>
+<field name="title">Discovering your real interests</field>
+<field name="series_title">Life adjustment booklet.</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .S41L v. 3</field>
+<field name="notes">48 p. illus. 22 cm.; Responsibility: by G. Frederic Kuder and Blanche B. Paulson.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Norfolk (Virginia) City Schools. Department of Guidance</field>
+<field name="title">Disseminating and using career information : a handbook</field>
+<field name="keywords">Career education</field>
+<field name="year">1969</field>
+<field name="date">06/1969</field>
+<field name="publisher">Norfolk (Virginia) City Schools</field>
+<field name="pub_place">Norfolk, VA</field>
+<field name="pages">61</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .N83d</field>
+<field name="notes">61 leaves ; 29 cm.; Responsibility: Department of Guidance, Norfolk City Schools, Norfolk, Virginia.</field>
+<field name="state_country">Virginia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Speaking to All Youth</field>
+<field name="title">Doctor's kit of materials for speeches at high school assemblies</field>
+<field name="series_title">Sayings</field>
+<field name="keywords">School assemblies</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Speaking to All Youth</field>
+<field name="pub_place">Louisville, KY</field>
+<field name="call_number">371.33 .S74s v. 3</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Grand Rapids (Michigan) Board of Education</field>
+<field name="title">Draft information</field>
+<field name="keywords">Draft</field>
+<field name="year">1953</field>
+<field name="date">03/1953</field>
+<field name="publisher">Grand Rapids (Michigan) Board of Education</field>
+<field name="pub_place">Grand Rapids, MI</field>
+<field name="call_number">371.425 .U58g</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dallas (Texas) Independent School District</field>
+<field name="title">Driver education curriculum guide and resource materials</field>
+<field name="series_title">Curriculum bulletin series</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Education</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Dallas (Texas) Independent School District</field>
+<field name="pub_place">Dallas, TX</field>
+<field name="pages">62</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .D14d</field>
+<field name="notes">62 p. ill. 28 cm.; Responsibility: Authorized by the Board of Education, August 8, 1956.</field>
+<field name="state_country">Texas</field>
+</doc>
+
 </add>
