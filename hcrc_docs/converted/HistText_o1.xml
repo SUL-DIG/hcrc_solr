@@ -1653,4 +1653,93 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">New York</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Adams, Frances Hall</field><field name="author_nat">Frances Hall Adams</field>
+<field name="title">Appreciating democracy, a sequence of materials recommended for use in eleventh of twelfth grade social studies classes</field>
+<field name="series_title">Los Angeles County (California) Office of Superintendent of Schools. Social studies curriculum monograph:</field>
+<field name="keywords">Democracy</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1949</field>
+<field name="date">06/1949</field>
+<field name="publisher">Los Angeles County (California) Superintendent of Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="series_vol">SS-56</field>
+<field name="pages">109</field>
+<field name="language">English</field>
+<field name="call_number">320 L87ap</field>
+<field name="notes">109 l.; Note(s): Includes bibliographies.</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Trillingham, Clinton Conroy</field><field name="author_nat">Clinton Conroy Trillingham</field>
+<field name="author">Moore, Leland P.</field><field name="author_nat">Leland P. Moore</field>
+<field name="title">Appreciating democracy; a unit of learning for supplementing courses of American history, government or social problems in the high school</field>
+<field name="keywords">Democracy</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Education</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1937</field>
+<field name="date">03/1937</field>
+<field name="edition">Rev.</field>
+<field name="publisher">Los Angeles County (California) Superintndent of Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">21</field>
+<field name="language">English</field>
+<field name="call_number">320 .L87a 1937</field>
+<field name="notes">21 p.; Note(s): At head of title: Office of the county superintendent of schools, Division of secondary education, Los Angeles county./ Mimeographed.; Responsibility: Prepared by C.C. Trillingham ... and Leland P. Moore ... March 1937 (Rev. ed.) (SS-18).</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Tom, Alan</field><field name="author_nat">Alan Tom</field>
+<field name="title">An approach to selecting among social studies curricula: an occasional paper of the Metropolitan St. Louis Social Center</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1969</field>
+<field name="date">12/1969</field>
+<field name="publisher">Washington University</field>
+<field name="pub_place">St. Louis, MO</field>
+<field name="pages">96</field>
+<field name="call_number">371.33 .M59a</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wilson, Edgar Wllen</field><field name="author_nat">Edgar Wllen Wilson</field>
+<field name="title">Approved library books for elementary grades</field>
+<field name="series_title">Texas State Dept. of Education Bulletin</field>
+<field name="keywords">School libraries</field>
+<field name="year">1937</field>
+<field name="date">11/1937</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="series_vol">8</field>
+<field name="pages">114</field>
+<field name="issue">7</field>
+<field name="call_number">016 .T35a</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arcadia (California) High School</field>
+<field name="title">Arcadia high school: student handbook, 1963-1964</field>
+<field name="keywords">High schools</field>
+<field name="year">1963</field>
+<field name="date">1963-1964</field>
+<field name="publisher">Arcadia (California) High School</field>
+<field name="pub_place">Arcadia, CA</field>
+<field name="pages">32</field>
+<field name="call_number">371.46 .A67s v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
 </add>
