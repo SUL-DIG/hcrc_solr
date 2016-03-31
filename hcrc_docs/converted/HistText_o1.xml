@@ -4707,4 +4707,286 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">New York</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fulton County (Georgia)</field>
+<field name="corp_author">Georgia Department of Education</field>
+<field name="title">Civics and Georgia history</field>
+<field name="keywords">Civics</field>
+<field name="keywords">History</field>
+<field name="year">1958</field>
+<field name="date">1958?</field>
+<field name="publisher">Georgia State Department of Education</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .G35c v. 2</field>
+<field name="notes">2 v. : ill. ; cm</field>
+<field name="state_country">Georgia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Civics [grade 9]</field>
+<field name="series_title">Curriculum bulletin</field>
+<field name="keywords">Civics</field>
+<field name="keywords">Political science</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="series_vol">11</field>
+<field name="pages">145</field>
+<field name="language">English</field>
+<field name="call_number">320 .C57c</field>
+<field name="notes">145 p. illus. 28 cm.; Note(s): Includes bibliographies.</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Patterson, Frederick M.</field>
+<field name="author_nat">Frederick M. Patterson</field>
+<field name="author">Holmes, Kenneth P.</field>
+<field name="author_nat">Kenneth P. Holmes</field>
+<field name="title">Civics: local laboratory in democracy</field>
+<field name="keywords">Civics</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">Office of the Superintendent of Public Instruction</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="pages">47</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .I29ch</field>
+<field name="notes">47 p. ; 29 cm.; Note(s): "The present handbook used as its base the 1965-1966 publication Handbook for History and Civics Workshops."/ Bibliography: p. 45-47.; Responsibility: Frederick M. Patterson, Kenneth P. Holmes and Erna Murphy.</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Jefferson County (Colorado) Public Schools</field>
+<field name="title">Civics: political, economic, social</field>
+<field name="keywords">Civics</field>
+<field name="year">1960</field>
+<field name="date">1960?</field>
+<field name="publisher">Jefferson County (Colorado) Public Schools</field>
+<field name="pub_place">Jefferson County, CO</field>
+<field name="pages">87</field>
+<field name="language">English</field>
+<field name="call_number">320 .J45c</field>
+<field name="state_country">Colorado</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Johnson, Richard</field>
+<field name="author_nat">Richard Johnson</field>
+<field name="title">Civil and human rights (8th grade)</field>
+<field name="keywords">Civil rights</field>
+<field name="keywords">Human rights</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">19</field>
+<field name="call_number">323 .P81c</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stratemeyer, Clara G.</field>
+<field name="author_nat">Clara G. Stratemeyer</field>
+<field name="title">Civil defense education thru elementary and secondary schools</field>
+<field name="keywords">Civil defense</field>
+<field name="keywords">School management and organization</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">National Education Association</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">36</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .N27ci</field>
+<field name="notes">36 p. 23 cm.; Note(s): Includes bibliographical references.; Responsibility: Project writer, Clara G. Stratemeyer. Produced by Commission on Safety Education, National Education Attached: "You and civil defense: a guide for teachers, administrators, and school board members" (April 1964)</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California Disaster Office</field>
+<field name="title">Civil defense in California schools</field>
+<field name="keywords">Civil defense</field>
+<field name="year">1953</field>
+<field name="date">10/1953</field>
+<field name="publisher">California Office of Civil Defense</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .C15c</field>
+<field name="notes">105 p. forms.; Note(s): Prepared jointly with the State Department of Education./ Bibliography: p. 105.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Michigan State Department of Public Instruction</field>
+<field name="title">Civil defense in the classroom : a handbook for teachers</field>
+<field name="keywords">Civil defense</field>
+<field name="keywords">School management and organization</field>
+<field name="keywords">Public schools</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="publisher">Michigan Department of Public Instruction</field>
+<field name="pub_place">Lansing, MI</field>
+<field name="pages">50</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .M62c</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Includes bibliographical references (p. 36-38).</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Instructional Materials Library</field>
+<field name="title">Civil defense in the curriculum</field>
+<field name="keywords">Civil defense</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="publisher">Instructional Materials Library</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="pages">14</field>
+<field name="call_number">371.76 .K39c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York). Board of Education</field>
+<field name="title">Civil defense, a curriculum resource unit for New York City schools</field>
+<field name="series_title">New York (N.Y.).; Board of Education.; Curriculum bulletin, 1953-54 series</field>
+<field name="keywords">Civil defense</field>
+<field name="keywords">School management and organization</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Board of Education of the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">4</field>
+<field name="pages">69</field>
+<field name="language">English</field>
+<field name="call_number">371.76 .N52c</field>
+<field name="notes">69 p. illus. 23 cm.</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">United States Civil Service Commission</field>
+<field name="title">Civil service and the citizen: a high school study unit on the federal civil service</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">U.S. Government Printing Office</field>
+<field name="pub_place">Washington, DC</field>
+<field name="pages">38</field>
+<field name="call_number">320 .U58c</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Oliver, Donald W.</field>
+<field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field>
+<field name="author_nat">Fred M. Newmann</field>
+<field name="title">The Civil War : crisis in federalism</field>
+<field name="series_title">AEP public issues series</field>
+<field name="keywords">Slavery</field>
+<field name="keywords">United States history</field>
+<field name="keywords">Civil War</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="publisher">American Education Publications</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="pages">63</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .H33p v. 19</field>
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit book."/ Cover title./ Includes bibliographical references (p. 63).; Responsibility: adapted from the Harvard Social Studies Project under the direction of Donald W. Oliver and Fred M. Newmann.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arizona State University. Workshop on the Education of the Exceptional Child</field>
+<field name="title">Classroom activities for the exceptional child: 6th summer workshop</field>
+<field name="keywords">Special education</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="publisher">Arizona State University</field>
+<field name="pub_place">Tempe, AZ</field>
+<field name="pages">93</field>
+<field name="language">English</field>
+<field name="call_number">371.9 .A71w 1959</field>
+<field name="notes">93 l.; Note(s): Includes bibliographical references.</field>
+<field name="state_country">Arizona</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Tennessee State Department of Education</field>
+<field name="title">Classroom films for Tennessee public schools</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1956</field>
+<field name="date">1956-1957</field>
+<field name="publisher">Tennessee State Department of Education</field>
+<field name="pub_place">Nashville, TN</field>
+<field name="pages">34</field>
+<field name="call_number">371.3095 .T29c</field>
+<field name="state_country">Tennessee</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+<field name="title">Classroom libraries.</field>
+<field name="keywords">Children's literature</field>
+<field name="keywords">School libraries</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="publisher">Commonwealth of Pennsylvania, Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="pages">10</field>
+<field name="language">English</field>
+<field name="call_number">016 .P41c</field>
+<field name="notes">v. ; 23 cm.; Note(s): At head of title: Commonwealth of Pennsylvania. Department of public instruction, Harrisburg./ 1927- issued as Bulletin 33-</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas Education Agency. Division of Curriculum Development</field>
+<field name="title">Classroom strategies for individualizing instruction in the social studies</field>
+<field name="series_title">Bulletin. Texas Education Agency</field>
+<field name="keywords">Individualized instruction</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="publisher">Texas Education Agency</field>
+<field name="pub_place">Austin, TX</field>
+<field name="series_vol">770</field>
+<field name="pages">95</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .T35cs</field>
+<field name="notes">vi; ; 23 cm.</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Fitzgerald Public Schools</field>
+<field name="title">Classrooms about town: an informative booklet on Fitzgerald High School's co-op program</field>
+<field name="keywords">Vocational education</field>
+<field name="publisher">Fitzgerald Public Schools</field>
+<field name="pub_place">Warren, MI</field>
+<field name="call_number">371.401 .F55c</field>
+<field name="state_country">Michigan</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
 </add>
