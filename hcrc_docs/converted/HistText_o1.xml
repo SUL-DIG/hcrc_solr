@@ -943,4 +943,101 @@ minorities for Pennsylvania schools</field>
 <field name="pages">9</field>
 <field name="call_number">371.33 .S65c v. 20</field>
 </doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hillman, Aubrey</field>
+<field name="author_nat">Aubrey Hillman</field>
+<field name="author">Goldstein, Eleanor</field>
+<field name="author_nat">Eleanor Goldstein</field>
+<field name="author">Pratt, Bob</field>
+<field name="author_nat">Bob Pratt</field>
+<field name="title">Analysis of Carnegie-Mellon social studies curriculum project: comparative political systems: an inquiry approach, grade 9</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">24</field>
+<field name="call_number">371.33 .S65c v. 36</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Alba, Donald</field>
+<field name="author_nat">Donald Alba</field>
+<field name="author">Hawkins, Raybon</field>
+<field name="author_nat">Raybon Hawkins</field>
+<field name="author">Schott, James</field>
+<field name="author_nat">James Schott</field>
+<field name="title">Analysis of Carnegie-Mellon social studies curriculum project: the shaping of western society, grade 10</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">08/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">13</field>
+<field name="call_number">371.33 .S65c v. 32</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ostrom, Ray</field>
+<field name="author_nat">Ray Ostrom</field>
+<field name="author">Trujillo, John</field>
+<field name="author_nat">John Trujillo</field>
+<field name="author">Masters, Terry</field>
+<field name="author_nat">Terry Masters</field>
+<field name="title">Analysis of comparative economic systems: an inquiry approach</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">05/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">25</field>
+<field name="call_number">371.33 .S65c v. 15</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bowman, Clair</field>
+<field name="author_nat">Clair Bowman</field>
+<field name="author">Crowl, Lydia</field>
+<field name="author_nat">Lydia Crowl</field>
+<field name="author">Lowrie, Jane</field>
+<field name="author_nat">Jane Lowrie</field>
+<field name="title">Analysis of comparative economic systems: an inquiry approach</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">08/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">16</field>
+<field name="call_number">371.33 .S65c v. 27</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Arnoldsen, Larry M.</field>
+<field name="author_nat">Larry M. Arnoldsen</field>
+<field name="author">Deffenbaugh, George C.</field>
+<field name="author_nat">George C. Deffenbaugh</field>
+<field name="author">Duff, Nick</field>
+<field name="author_nat">Nick Duff</field>
+<field name="author">Park, Flora C.</field>
+<field name="author_nat">Flora C. Park</field>
+<field name="author">Strickland, Larry M.</field>
+<field name="author_nat">Larry M. Strickland</field>
+<field name="title">Analysis of development of a model for the Saint Louis Metropolitan Social Studies Center</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">06/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">8</field>
+<field name="call_number">371.33 .S65c v. 21</field>
+</doc>
+
 </add>
