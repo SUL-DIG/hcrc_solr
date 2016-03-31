@@ -1137,4 +1137,100 @@ minorities for Pennsylvania schools</field>
 <field name="call_number">371.33 .S65c v. 7</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Alberg, Dorothy</field>
+<field name="author_nat">Dorothy Alberg</field>
+<field name="author">Hanson, Marilyn</field>
+<field name="author_nat">Marilyn Hanson</field>
+<field name="author">Ross, Evelyn</field>
+<field name="author_nat">Evelyn Ross</field>
+<field name="title">Analysis of Greater Cleveland social science program</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">15</field>
+<field name="call_number">371.33 .S65c v. 10</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Enters, James</field>
+<field name="author_nat">James Enters</field>
+<field name="author">Harms, Arden</field>
+<field name="author_nat">Arden Harms</field>
+<field name="title">Analysis of Greater Cleveland social science program, four world views, unit ii, grade 5</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">02/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">40</field>
+<field name="call_number">371.33 .S65c v. 33</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Goldstein, Eleanor</field>
+<field name="author_nat">Eleanor Goldstein</field>
+<field name="author">Harms, Arden</field>
+<field name="author_nat">Arden Harms</field>
+<field name="author">Weipert, Lou</field>
+<field name="author_nat">Lou Weipert</field>
+<field name="title">Analysis of Harvard social studies project</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">08/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="call_number">371.33 .S65c v. 29</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Crowl, Lydia</field>
+<field name="author_nat">Lydia Crowl</field>
+<field name="author">Ristad, Adam</field>
+<field name="author_nat">Adam Ristad</field>
+<field name="author">Watkins, Judy</field>
+<field name="author_nat">Judy Watkins</field>
+<field name="title">Analysis of Harvard social studies project</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">23</field>
+<field name="call_number">371.33 .S65c v. 35</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Ahrens, Robert W.</field>
+<field name="author_nat">Robert W. Ahrens</field>
+<field name="author">Hamilton, Beryl</field>
+<field name="author_nat">Beryl Hamilton</field>
+<field name="author">Mills, Harold</field>
+<field name="author_nat">Harold Mills</field>
+<field name="author">McGeever, Jack</field>
+<field name="author_nat">Jack McGeever</field>
+<field name="author">Peterson, Frank</field>
+<field name="author_nat">Frank Peterson</field>
+<field name="author">Simpson, James</field>
+<field name="author_nat">James Simpson</field>
+<field name="author">Snyder, Laura</field>
+<field name="author_nat">Laura Snyder</field>
+<field name="title">Analysis of high school geography project</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">06/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">7</field>
+<field name="call_number">371.33 .S65c v. 19</field>
+</doc>
+
 </add>
