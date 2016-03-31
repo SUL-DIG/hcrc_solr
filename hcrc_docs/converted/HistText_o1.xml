@@ -2130,4 +2130,299 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">California</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alhambra (California) City Schools Audio-Visual Center</field>
+<field name="title">Audio-visual catalog: fourth grade through eighth grade</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">05/1953</field>
+<field name="publisher">Alhambra (California) City Schools</field>
+<field name="pub_place">Alhambra, CA</field>
+<field name="call_number">371.3095 .a39s v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alhambra (California) City Schools Audio-Visual Center</field>
+<field name="title">Audio-visual catalog: high school</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">05/1953</field>
+<field name="publisher">Alhambra (California) City Schools</field>
+<field name="pub_place">Alhambra, CA</field>
+<field name="call_number">371.3095 .a39s v. 3</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alhambra (California) City Schools Audio-Visual Center</field>
+<field name="title">Audio-visual catalog: kindergarten through third grade</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">05/1953</field>
+<field name="publisher">Alhambra (California) City Schools</field>
+<field name="pub_place">Alhambra, CA</field>
+<field name="call_number">371.3095 .a39s v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">Kindergarten</field>
+<field name="grade_level_number">1st grade</field>
+<field name="grade_level_number">2nd grade</field>
+<field name="grade_level_number">3rd grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Audio-visual catalogue</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">California State Department of Education</field>
+<field name="call_number">371.3095 .C15a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Marin County (California) Schools. Superintendent of Schools</field>
+<field name="title">Audio-visual catalogue</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1952</field>
+<field name="date">02/1952</field>
+<field name="publisher">Marin (California) County Schools</field>
+<field name="pub_place">San Rafael, CA</field>
+<field name="call_number">371.3095 .M33a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fisher, Paul</field>
+<field name="author_nat">Paul Fisher</field>
+<field name="title">Audio-visual catalogue for Siskiyou County</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="publisher">Siskiyou County (California) Schools</field>
+<field name="pub_place">Yreka, CA</field>
+<field name="pages">109</field>
+<field name="call_number">371.3095 .S62a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Patton, H. Barret</field>
+<field name="author_nat">H. Barret Patton</field>
+<field name="corp_author">Santa Clara County (California) Schools</field>
+<field name="title">Audio-visual catalogue, primary grades: films, filmstrips, study prints, art prints, slides, record filmstrips</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="publisher">Santa Clara County (California) Schools</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">16</field>
+<field name="call_number">371.3095 .S229a 1958-59 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Patton, H. Barret</field>
+<field name="author_nat">H. Barret Patton</field>
+<field name="corp_author">Santa Clara County (California) Schools</field>
+<field name="title">Audio-visual catalogue, upper elementary grades: films, filmstrips, study prints, art prints, slides, record filmstrips</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1958</field>
+<field name="date">1958-1959</field>
+<field name="publisher">Santa Clara County (California) Schools</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">16</field>
+<field name="call_number">371.3095 .S229a 1958-59 v. 2</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Tormey, James R.</field>
+<field name="author_nat">James R. Tormey</field>
+<field name="author">Miller, Loren F.</field>
+<field name="author_nat">Loren F. Miller</field>
+<field name="title">Audio-visual education: let's look, listen, learn</field>
+<field name="keywords">Audio-visual education</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">09/1953</field>
+<field name="publisher">San Mateo County (California) Schools</field>
+<field name="pub_place">Redwood City, CA</field>
+<field name="pages">54</field>
+<field name="call_number">371.3095 .S196a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fulton, William Ray</field>
+<field name="author_nat">William Ray Fulton</field>
+<field name="title">Audio-visual handbook</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="edition">2d</field>
+<field name="publisher">Oklahoma City Department of Public Instruction</field>
+<field name="pub_place">Oklahoma City, OK</field>
+<field name="pages">126</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .O411a</field>
+<field name="notes">ii; illus., maps. 23 cm.; Responsibility: edited by W.R. Fulton.</field>
+<field name="state_country">Oklahoma</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Maine State Department of Education</field>
+<field name="title">Audio-visual handbook for Maine secondary schools</field>
+<field name="series_title">Maine schools: the Maine state school bulletin</field>
+<field name="keywords">Audio-visual education</field>
+<field name="year">1957</field>
+<field name="date">01/1957</field>
+<field name="publisher">Maine State Department of Education</field>
+<field name="pub_place">Augusta, ME</field>
+<field name="series_vol">26</field>
+<field name="pages">16</field>
+<field name="issue">3</field>
+<field name="call_number">371.3095 .M22a</field>
+<field name="state_country">Maine</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Audio-visual handbook for secondary schools</field>
+<field name="keywords">Audio-visual education</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">52</field>
+<field name="call_number">371.3095 .L869ah</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Battle Creek (Michigan) Public Schools</field>
+<field name="title">Audio-visual ideas: let's try them!</field>
+<field name="keywords">Audio-visual education</field>
+<field name="year">1956</field>
+<field name="date">08/1960</field>
+<field name="publisher">Battle Creek (Michigan) Public Schools</field>
+<field name="pub_place">Battle Creek, MI</field>
+<field name="pages">183</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .B33ai</field>
+<field name="notes">192 p. illus. 22 cm.; Note(s): Cover title: Audio-visual ideas; a book of resource materials.</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alameda County (California) Schools. Department of Instructional Materials</field>
+<field name="title">Audio-visual instructional materials for in-service education</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="publisher">Alameda County (California) Schools</field>
+<field name="pub_place">San Leandro, CA</field>
+<field name="pages">33</field>
+<field name="call_number">370.72 .A32c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Conner, J. Carl</field>
+<field name="author_nat">J. Carl Conner</field>
+<field name="title">Audio-visual instructional materials for Solano County Schools</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1951</field>
+<field name="date">09/1951</field>
+<field name="publisher">Solano County (California) Schools</field>
+<field name="pub_place">Fairfield, CA</field>
+<field name="call_number">371.3095 .S68a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Audio-Visual Service. Imperial County (California) Schools</field>
+<field name="title">Audio-visual materials available from Audio-Visual Service...</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="date">1950s?</field>
+<field name="publisher">Imperial County (California) Schools</field>
+<field name="pub_place">El Centro, CA</field>
+<field name="call_number">371.3095 .I34a</field>
+<field name="notes">v. 1 Elementary Catalog v. 2 Middle Grades Catalog</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+<field name="grade_level_group">Middle school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Bureau of Audio-Visual Education</field>
+<field name="title">Audio-visual materials for schools, colleges, churches, and adult study groups</field>
+<field name="series_title">University of North Carolina extension bulletin</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="publisher">University of North Carolina</field>
+<field name="pub_place">Chapel Hill, NC</field>
+<field name="series_vol">35</field>
+<field name="pages">286</field>
+<field name="issue">1</field>
+<field name="call_number">371.3095 .N87a</field>
+<field name="notes">Issued for Bureau of Audio-Visual Education. University of North Carolina. Educational films and tape recordings.</field>
+<field name="state_country">North Carolina</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Audio-Visual Education Department</field>
+<field name="title">Audio-visual materials for secondary schools: aeronautics, machine shop, auto shop, mechanical drawing, electrical shop, welding, woodwork</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="pages">30</field>
+<field name="call_number">371.3095 .F88as v. 10</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Audio-Visual Education Department</field>
+<field name="title">Audio-visual materials for secondary schools: agriculture</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">03/1953</field>
+<field name="publisher">Fresno County (California) Schools</field>
+<field name="pub_place">Fresno, CA</field>
+<field name="pages">19</field>
+<field name="call_number">371.3095 .F88as v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
 </add>
