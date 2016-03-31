@@ -6021,4 +6021,385 @@ minorities for Pennsylvania schools</field>
 <field name="call_number">371.3095 .C81cf</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Paré, Christine W.</field>
+<field name="author_nat">Christine W. Paré</field>
+<field name="title">Counseling centers : their place in the total school program</field>
+<field name="keywords">Counseling</field>
+<field name="year">1976</field>
+<field name="date">09/1976</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="pages">37</field>
+<field name="language">English</field>
+<field name="issue">Unedited</field>
+<field name="call_number">371.45 .S192c</field>
+<field name="notes">iii; ; 28 cm.; Note(s): Includes bibliographical references (p. 37).; Responsibility: prepared by Christine W. Paré ; advisory committee: N. Dean Barnes, Odia Ellison, Fran Petterson, Carolyn Morris.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gervers, Jane</field>
+<field name="author_nat">Jane Gervers</field>
+<field name="title">The counselor in the elementary school</field>
+<field name="series_title">Curriculum bulletin</field>
+<field name="keywords">Counseling in elementary education</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Houston (Texas) Independent School District</field>
+<field name="pub_place">Houston, TX</field>
+<field name="series_vol">68CBM10</field>
+<field name="pages">16</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .H84c</field>
+<field name="notes">v, 16 leaves ; 28 cm.; Responsibility: prepared by Jane Gervers ... [et al.].</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California. Bureau of Occupational Information and Guidance</field>
+<field name="title">Counselor's guide to apprenticeable occupations</field>
+<field name="series_title">California. Bureau of Occupational Information and Guidance. California guidance bulletin</field>
+<field name="keywords">Apprentices</field>
+<field name="keywords">Occupations</field>
+<field name="keywords">Cooperative education</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1956</field>
+<field name="date">09/1956</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="series_vol">11</field>
+<field name="pages">18</field>
+<field name="language">English</field>
+<field name="issue">2nd rev</field>
+<field name="call_number">371.41 .C15c</field>
+<field name="notes">18 p.; Note(s): [Prepared] in cooperation with Bureau of Industrial Education./ [Some earlier numbers' (also?) issued with series' "other" title: Occupational information bulletin.]./; Bibliography: p. 18.; Other Titles: Apprenticeable occupations in California, counselor's guide.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California. Bureau of Occupational Information and Guidance</field>
+<field name="title">Counselor's guide to distributive occupations</field>
+<field name="series_title">California. Bureau of Occupational Information and Guidance. California guidance bulletin</field>
+<field name="keywords">Distributive education</field>
+<field name="keywords">Marketing</field>
+<field name="keywords">Vocational guidance</field>
+<field name="keywords">Retail trade</field>
+<field name="keywords">Selling</field>
+<field name="year">1951</field>
+<field name="date">02/1951</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="series_vol">14</field>
+<field name="pages">24</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .S16c</field>
+<field name="notes">24 leaves.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California. Bureau of Occupational Information and Guidance</field>
+<field name="title">Counselor's guide to occupations related to homemaking</field>
+<field name="series_title">California. Bureau of Occupational Information and Guidance. California guidance bulletin</field>
+<field name="keywords">Home economics</field>
+<field name="keywords">Vocational guidance</field>
+<field name="keywords">Vocational guidance for women</field>
+<field name="keywords">Employment</field>
+<field name="year">1952</field>
+<field name="date">09/1952</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="series_vol">16</field>
+<field name="pages">21</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .H76c</field>
+<field name="notes">21 leaves.; Other Titles: Occupations related to homemaking, counselor's guide.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California. Commission for Vocational Education</field>
+<field name="title">Counselor's handbook on distributive occupations</field>
+<field name="keywords">Business</field>
+<field name="keywords">Service industries</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .S16co v. 1-2</field>
+<field name="notes">2 v. 28 cm.; Responsibility: published jointly by Bureau of Occupational Information and Guidance.</field>
+<field name="state_country">California</field>
+<field name="series_num_vol">2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fox, Denver C.</field>
+<field name="author_nat">Denver C. Fox</field>
+<field name="title">Counselors guide to school camping a guide to the instruction program at the elementary school camps</field>
+<field name="keywords">Outdoor education</field>
+<field name="keywords">School camps</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="pages">232</field>
+<field name="language">English</field>
+<field name="call_number">371.84 .S19c</field>
+<field name="notes">ill. ; 28 cm.; Responsibility: prepared by Denver C. Fox.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Counselors of the Long Beach (California) Public Schools</field>
+<field name="title">Counselors' handbook</field>
+<field name="keywords">Educational counseling</field>
+<field name="year">1948</field>
+<field name="date">05/1948</field>
+<field name="publisher">Long Beach (California) Public Schools</field>
+<field name="pub_place">Long Beach, CA</field>
+<field name="pages">96</field>
+<field name="call_number">371.45 .L84c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois Curriculum Program</field>
+<field name="title">Counteracting school dropouts; a research report</field>
+<field name="keywords">High school dropouts</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">Illinois Curriculum Program</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="pages">30</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .I28c</field>
+<field name="notes">30 p. 23 cm.; Note(s): Bibliography: p. 30.</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hart, Anna Marie</field>
+<field name="author_nat">Anna Marie Hart</field>
+<field name="author">White, Ruth</field>
+<field name="author_nat">Ruth White</field>
+<field name="title">County government bulletin as developed by Trinity County School supervisors to be used in the elementary schools of Trinity County</field>
+<field name="keywords">Government</field>
+<field name="year">1952</field>
+<field name="date">04/1952</field>
+<field name="publisher">Trinity County (California) Schools</field>
+<field name="pub_place">Trinity, CA</field>
+<field name="pages">39</field>
+<field name="call_number">320 .T833c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mathematical Association of America. Committee on the Undergraduate Program in Mathematics</field>
+<field name="title">Course guides for the training of teachers of elementary school mathematics (Fourth Draft)</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Mathematics teachers</field>
+<field name="year">1964</field>
+<field name="date">07/1964</field>
+<field name="edition">Fourth Draft</field>
+<field name="publisher">Mathematical Association of America</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="pages">29</field>
+<field name="language">English</field>
+<field name="call_number">370.7 .M42t V. 3</field>
+<field name="notes">1 v. (various foliations) : ill. ; 28 cm.</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Mathematical Association of America. Committee on the Undergraduate Program</field>
+<field name="title">Course guides for the training of teachers of junior high and high school mathematics : preliminary version</field>
+<field name="keywords">Mathematics teachers</field>
+<field name="year">1961</field>
+<field name="date">06/1961</field>
+<field name="publisher">Mathematical Association of America</field>
+<field name="pub_place">Berkeley, CA</field>
+<field name="pages">35</field>
+<field name="language">English</field>
+<field name="call_number">370.7 .M42t V. 2</field>
+<field name="notes">35 p. ; 22 cm.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Indianapolis (Indiana) Public Schools</field>
+<field name="title">A course in economic problems for senior high school (tentative)</field>
+<field name="keywords">Economics</field>
+<field name="publisher">Indianapolis (Indiana) Public Schools</field>
+<field name="pub_place">Indianapolis, IN</field>
+<field name="pages">28</field>
+<field name="call_number">330 .I39c</field>
+<field name="state_country">Indiana</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cincinnati (Ohio) Public Schools</field>
+<field name="title">Course of study driver education, grade 10</field>
+<field name="keywords">Automobile driver education</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="publisher">Cincinnati (Ohio) Public Schools</field>
+<field name="pub_place">Cincinnati, OH</field>
+<field name="pages">23</field>
+<field name="call_number">371.76 .C57c</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Salt Lake (Utah) City Public Schools</field>
+<field name="title">Course of study for community problems</field>
+<field name="series_title">Secondary school program of studies, field of the social studies</field>
+<field name="keywords">Community life</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="publisher">Salt Lake (Utah) City Public Schools</field>
+<field name="pub_place">Salt Lake City, UT</field>
+<field name="pages">101</field>
+<field name="call_number">323 .S17c</field>
+<field name="notes">Includes bibliog.</field>
+<field name="state_country">Utah</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Salt Lake (Utah) City Public Schools</field>
+<field name="title">Course of study for economics</field>
+<field name="series_title">Secondary school program of studies, field of the social studies</field>
+<field name="keywords">Economics</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="publisher">Salt Lake (Utah) City Public Schools</field>
+<field name="pub_place">Salt Lake City, UT</field>
+<field name="pages">63</field>
+<field name="call_number">330 .A17c</field>
+<field name="notes">Includes bibliog.</field>
+<field name="state_country">Utah</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Course of study for sixth grade social studies</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1956</field>
+<field name="date">06/1956</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">321</field>
+<field name="call_number">371.33 .S12c 1956 v. 6</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Boston (Massachusetts) School Committee</field>
+<field name="title">Course of study in guidance, educational and vocational. A plan for group counseling in junior high schools, grade VII</field>
+<field name="series_title">Boston (Massachusetts); School Committee.; School document</field>
+<field name="keywords">Counseling</field>
+<field name="keywords">Educational counseling</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="publisher">Boston (Massachusetts) Public Schools</field>
+<field name="pub_place">Boston, MA</field>
+<field name="series_vol">5</field>
+<field name="pages">44</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .B74c v. 1</field>
+<field name="notes">3 v. in 1, 24 cm.</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">7th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Boston (Massachusetts) School Committee</field>
+<field name="title">Course of study in guidance, educational and vocational. A plan for group counseling in junior high schools, grade VIII</field>
+<field name="series_title">Boston (Massachusetts); School Committee.; School document</field>
+<field name="keywords">Counseling</field>
+<field name="keywords">Educational counseling</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Boston (Massachusetts) Public Schools</field>
+<field name="pub_place">Boston, MA</field>
+<field name="series_vol">1</field>
+<field name="pages">28</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .B74c v. 2</field>
+<field name="notes">3 v. in 1, 24 cm.</field>
+<field name="state_country">Massachusetts</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lawndale (California) School District</field>
+<field name="title">Course of study in social studies for elementary schools</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">Lawndale (California) School District</field>
+<field name="pub_place">Lawndale, CA</field>
+<field name="series_vol">3</field>
+<field name="call_number">371.33 .L41c</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Course of study in social studies for fifth grade</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">Sacramento (California) City Unified School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">36</field>
+<field name="call_number">371.33 .S12c 1949</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">5th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (California) Unified School District</field>
+<field name="title">A course of study in social studies for grades: 7-8-9: a multimedia/multiethnic approach</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1970</field>
+<field name="date">Summer 1970</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">215</field>
+<field name="call_number">323 .S195 #18</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
 </add>
