@@ -4416,4 +4416,295 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">California</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">American Council on Education for Journalism</field>
+<field name="title">Choosing a career in journalism</field>
+<field name="keywords">Journalism</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1956</field>
+<field name="date">1956?</field>
+<field name="publisher">American Council on Education for Journalism</field>
+<field name="pub_place">Bloomington, IN</field>
+<field name="pages">32</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .J86a</field>
+<field name="notes">32 p. ill. 16 x 23 cm.; Note(s): Cover title. Attached: Programs in Journalism accredited by the American Council on Education for Journalism upon recommendation of its accrediting committee" 1956 (12p.)</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="title">Choosing appropriate techniques</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="edition">Revised and reprinted</field>
+<field name="publisher">Philadelphia (Pennsylvania) Public Schools</field>
+<field name="pub_place">Philadelphia, PA</field>
+<field name="pages">79</field>
+<field name="call_number">370.72 .P54c V. 2</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Humphreys, Joseph Anthony</field>
+<field name="author_nat">Joseph Anthony Humphreys</field>
+<field name="title">Choosing your career</field>
+<field name="series_title">Life adjustment booklet</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="call_number">371.46 .S41L v. 1</field>
+<field name="notes">48 p. illus. 22 cm.; Note(s): "Formerly published as Occupational monograph number 7 of the American job series, under the title, How to choose a career."/ Bibliography: p. [3] of cover.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Fenner, Mildred Sandison</field>
+<field name="author_nat">Mildred Sandison Fenner</field>
+<field name="title">Circus!</field>
+<field name="series_title">Oregon ASCD curriculum bulletin</field>
+<field name="keywords">Circus</field>
+<field name="year">1976</field>
+<field name="date">05/1976</field>
+<field name="publisher">Oregon Association for Supervision and Curriculum Development</field>
+<field name="pub_place">Salem, OR</field>
+<field name="series_vol">332</field>
+<field name="pages">24</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .O65c</field>
+<field name="notes">ill. ; 28 cm.; Note(s): Cover title./ "Recordings of circus music": p. 21-22./ Includes bibliographical references (p. 17-21).; Responsibility: prepared by Mildred S. Fenner.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Herzberg, Donald G.</field>
+<field name="author_nat">Donald G. Herzberg</field>
+<field name="title">The citizen and political parties: what is their function? should you belong?</field>
+<field name="series_title">Grass roots guides on democracy and practical politics</field>
+<field name="keywords">Political parties</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="publisher">Center for Information on America</field>
+<field name="pub_place">Washington, CT</field>
+<field name="series_vol">22</field>
+<field name="pages">14</field>
+<field name="language">English</field>
+<field name="call_number">320 .C39g v. 22</field>
+<field name="notes">Grass roots guides on democracy and practical politics ;; no. 22</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Beetle, David Harold</field>
+<field name="author_nat">David Harold Beetle</field>
+<field name="title">The citizen and politics</field>
+<field name="keywords">Political parties</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="publisher">University of the State of New York, State Education Dept., Bureau of Secondary Curriculum Development</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">57</field>
+<field name="language">English</field>
+<field name="call_number">320 .N53c</field>
+<field name="notes">57 p. 23 cm.; Note(s): Bibliography: p. 55-57.</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Leppert, Ella C.</field>
+<field name="author_nat">Ella C. Leppert</field>
+<field name="author">Weir, Edward C.</field>
+<field name="author_nat">Edward C. Weir</field>
+<field name="title">Citizens today : young citizens in action in Illinois schools : a report of the Illinois Curriculum Program--Citizenshp Education Project</field>
+<field name="series_title">Illinois.; Office of the Superintendent of Public Instruction.; Circular series A;; no. 51.; Illinois Curriculum Program.; Bulletin</field>
+<field name="series_vol">21</field>
+<field name="keywords">Civics</field>
+<field name="year">1954</field>
+<field name="date">03/1954</field>
+<field name="publisher">Illinois Curriculum Program</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="pages">62</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .I29c</field>
+<field name="notes">62 p. 28 cm.; Note(s): Includes bibliographical references.; Responsibility: by Ella C. Leppert and Edward C. Weir ; with the assistance and cooperation of Arthur R. Olsen, Carter N. Frieberg, Morris Lewenstein.</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum Development</field>
+<field name="title">Citizenship education 10-11-12 ; a syllabus for senior high schools, including American history, two-year course, American history, one-year course [and] world history</field>
+<field name="keywords">History</field>
+<field name="keywords">United States history</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">New York Department of Education</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">63</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .N531c v. 3</field>
+<field name="notes">63 p. 23 cm.</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum Development</field>
+<field name="title">Citizenship education equipment inventory; a checklist of equipment and materials for grades 7-12</field>
+<field name="series_title">New York State Education Dept. Bureau of Secondary Curriculum Development. Curriculum leaflet</field>
+<field name="keywords">Civics</field>
+<field name="keywords">Teaching aids</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">University of the State of New York Press</field>
+<field name="pub_place">Albany, NY</field>
+<field name="series_vol">7</field>
+<field name="pages">19</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .N531ce</field>
+<field name="notes">19 p. 23 cm.; Note(s): Cover title.</field>
+<field name="state_country">New York</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+<field name="grade_level_number">9th grade</field>
+<field name="grade_level_number">10th grade</field>
+<field name="grade_level_number">11th grade</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Robert A. Taft Institute of Government (New York)</field>
+<field name="title">Citizenship education in the high schools of New York State</field>
+<field name="keywords">Citizenship education</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="publisher">The Robert A. Taft Institute of Government</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">30</field>
+<field name="language">English</field>
+<field name="call_number">320 .R63c</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum Development</field>
+<field name="title">Citizenship education planning guide</field>
+<field name="keywords">Citizenship education</field>
+<field name="keywords">Civics</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Bureau of Secondary Curriculum Development, New York State Education Dept</field>
+<field name="pub_place">Albany, NY</field>
+<field name="pages">61</field>
+<field name="language">English</field>
+<field name="notes">ill. ; 23 cm.; Note(s): "H634r-Ap56-25, 000."</field>
+<field name="state_country">New York</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pittsburgh (Pennsylvania) Board of Public Education</field>
+<field name="title">Citizenship Education Project</field>
+<field name="series_title">Pittsburgh Schools</field>
+<field name="keywords">Citizenship education</field>
+<field name="year">1952</field>
+<field name="date">05-06/1952</field>
+<field name="publisher">Pittsburgh (Pennsylvania) Board of Public Education</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="series_vol">26</field>
+<field name="pages">150</field>
+<field name="issue">5</field>
+<field name="call_number">320 .P69c</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Indiana State Committee for Social Studies</field>
+<field name="title">Citizenship, a curriculum guide, grade 9</field>
+<field name="keywords">Citizenship</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="publisher">Indiana State Department of Public Instruction</field>
+<field name="pub_place">Indianapolis, IN</field>
+<field name="pages">47</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .I39c</field>
+<field name="notes">47 p. ; 23 cm.</field>
+<field name="state_country">Indiana</field>
+<field name="grade_level_number">9th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Gonzalez, Lilia A.</field>
+<field name="author_nat">Lilia A. Gonzalez</field>
+<field name="author">Root, Barbara</field>
+<field name="author_nat">Barbara Root</field>
+<field name="title">Citizenship: grades 4-6</field>
+<field name="keywords">Citizenship</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="publisher">San Diego (California) City Schools</field>
+<field name="pub_place">San Diego, CA</field>
+<field name="pages">46</field>
+<field name="call_number">371.33 .S19c</field>
+<field name="notes">"Prepared by Lilia A. Gonzalez and Barbara Root at the request of the Upper Elementary Curriculum Planning Committee and the Instructional Council."</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Shaw, Helen F.</field>
+<field name="author_nat">Helen F. Shaw</field>
+<field name="author">Waskow, Henry B.</field>
+<field name="author_nat">Henry B. Waskow</field>
+<field name="title">Civic participation: Baltimore plan</field>
+<field name="keywords">Civics</field>
+<field name="year">1953</field>
+<field name="date">01/1953</field>
+<field name="publisher">Patterson Park High School</field>
+<field name="pub_place">Baltimore, MD</field>
+<field name="pages">23</field>
+<field name="call_number">371.33 .B19c</field>
+<field name="state_country">Maryland</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Department of Education</field>
+<field name="title">Civics afloat; a report on the use of municipal ferryboats in the study of civics</field>
+<field name="keywords">Citizenship</field>
+<field name="keywords">Ferries</field>
+<field name="keywords">Civics</field>
+<field name="keywords">Political science</field>
+<field name="year">1938</field>
+<field name="date">1938?</field>
+<field name="publisher">Board of Education, City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">37</field>
+<field name="language">English</field>
+<field name="call_number">320 .N532c</field>
+<field name="notes">2 p. l.; illus., forms. 28 x 23 cm.; Responsibility: Board of education, City of New York.</field>
+<field name="state_country">New York</field>
+</doc>
+
 </add>
