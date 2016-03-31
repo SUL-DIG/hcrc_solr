@@ -1928,4 +1928,206 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">Utah</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Cruz (California) City Schools</field>
+<field name="title">Audio-visual materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1948</field>
+<field name="date">09/1948</field>
+<field name="publisher">Santa Cruz (California) City Schools</field>
+<field name="pub_place">Santa Cruz, CA</field>
+<field name="call_number">371.3095 .S232a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Montebello (California) Unified School District</field>
+<field name="title">Audio-visual aids catalogue for elementary schools</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">Montebello (California) Unified School District</field>
+<field name="pub_place">Montebello, CA</field>
+<field name="pages">105</field>
+<field name="call_number">371.3095 .M77a</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">World Confederation of Organizations of the Teaching Profession</field>
+<field name="title">Audio-visual aids for international understanding</field>
+<field name="keywords">Multicultural education</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="publisher">World confederation of organization of the teaching profession</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">Revised</field>
+<field name="language">English</field>
+<field name="call_number">323 .W92a</field>
+<field name="notes">181 upag. s.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Watsonville (California) Elementary Schools</field>
+<field name="title">Audio-visual aids guide</field>
+<field name="series_title">Curriculum Bulletin 44950</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Watsonville (California) Elementary Schools</field>
+<field name="pub_place">Watsonville, CA</field>
+<field name="pages">11</field>
+<field name="call_number">371.3095 .W34a</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Watsonville (California) Elementary Schools</field>
+<field name="title">Audio-visual aids guide, supplement</field>
+<field name="series_title">Curriculum Bulletin 44950</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Watsonville Elementary Schools</field>
+<field name="pub_place">Watsonville, CA</field>
+<field name="pages">9</field>
+<field name="call_number">371.3095 .W34a suppl.</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Audio-visual aids section</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="call_number">371.3095 .L869a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Miller, Murray Lincoln</field>
+<field name="author_nat">Murray Lincoln Miller</field>
+<field name="title">Audio-visual and other educational materials for instruction and community understanding</field>
+<field name="series_title">Teacher Education</field>
+<field name="keywords">Audio-visual education</field>
+<field name="year">1956</field>
+<field name="date">03/1956</field>
+<field name="publisher">Illinois State Normal University</field>
+<field name="pub_place">Normal, IL</field>
+<field name="pages">71</field>
+<field name="call_number">371.3095 .I32a</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Battle Creek (Michigan) Public Schools</field>
+<field name="title">Audio-visual catalog</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="publisher">Battle Creek (Michigan) Public Schools</field>
+<field name="pub_place">Battle Creek, MI</field>
+<field name="call_number">371.3095 .B33a v. 1</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Nichols, H. Lester</field>
+<field name="author_nat">H. Lester Nichols</field>
+<field name="title">Audio-visual catalog</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1951</field>
+<field name="date">1951-52</field>
+<field name="publisher">Plumas County (California) Schools</field>
+<field name="pub_place">Quincy, CA</field>
+<field name="pages">75</field>
+<field name="call_number">371.3095 .P73a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Crumb, Meyer L.</field>
+<field name="author_nat">Meyer L. Crumb</field>
+<field name="title">Audio-visual catalog</field>
+<field name="series_title">Curriculum monograph, Series D</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">San Luis Obispo County (California) Schools</field>
+<field name="pub_place">San Luis Obispo, CA</field>
+<field name="series_vol">12</field>
+<field name="call_number">371.3095 .S1954a</field>
+<field name="notes">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Audio-Visual Center</field>
+<field name="title">Audio-visual catalog for business, psychology, social science</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1963</field>
+<field name="date">1963-64</field>
+<field name="publisher">San Francisco (California) State College</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">58</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .C154a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Stockton (California) Unified School District</field>
+<field name="title">Audio-visual catalog for elementary grades</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="publisher">Stockton (California) Unified School District</field>
+<field name="pub_place">Stockton, CA</field>
+<field name="pages">76</field>
+<field name="call_number">371.3095 .S86 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Stockton (California) Unified School District</field>
+<field name="title">Audio-visual catalog for secondary grades</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1953</field>
+<field name="date">07/1953</field>
+<field name="publisher">Stockton (California) Unified School District</field>
+<field name="pub_place">Stockton, CA</field>
+<field name="pages">75</field>
+<field name="call_number">371.3095 .S86 v. 1</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Audio-Visual Center</field>
+<field name="title">Audio-visual catalog for the creative arts</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="publisher">San Francisco (California) State College</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">46</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .C154a</field>
+<field name="state_country">California</field>
+</doc>
+
 </add>
