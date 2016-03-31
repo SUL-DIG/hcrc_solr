@@ -1742,4 +1742,190 @@ minorities for Pennsylvania schools</field>
 <field name="grade_level_group">High school</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Newark (Delaware) Special School District</field>
+<field name="title">Are all first graders alike?</field>
+<field name="keywords">First grade (Education)</field>
+<field name="date">1960s</field>
+<field name="publisher">Newark (Delaware) Special School District</field>
+<field name="pub_place">Newark, DE</field>
+<field name="pages">7</field>
+<field name="call_number">370.21 .N521e V. 2</field>
+<field name="state_country">Delaware</field>
+<field name="grade_level_group">1st</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Murdock, John R.</field>
+<field name="author_nat">John R. Murdock</field>
+<field name="title">Arizona supplement to Dunn's The community and the citizen</field>
+<field name="keywords">United States</field>
+<field name="keywords">Politics and government</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="publisher">D.C. Heath and Co., Publishers</field>
+<field name="pub_place">Boston, MA</field>
+<field name="pages">9</field>
+<field name="call_number">320 .M87a</field>
+<field name="state_country">Arizona</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">McDowell, Kyle</field>
+<field name="author_nat">Kyle McDowell</field>
+<field name="author">Pelfrey, Clara</field>
+<field name="author_nat">Clara Pelfrey</field>
+<field name="author">Baymor, Lahoma</field>
+<field name="author_nat">Lahoma Baymor</field>
+<field name="title">Army travelers meet interesting neighbors at home and abroad</field>
+<field name="keywords">Children of military personnel</field>
+<field name="keywords">Community life</field>
+<field name="keywords">Cultural relations</field>
+<field name="year">1970</field>
+<field name="date">1970?</field>
+<field name="publisher">Fort Knox (Kentucky) Elementary Schools</field>
+<field name="pub_place">Fort Knox, KY</field>
+<field name="language">English</field>
+<field name="call_number">323 .F74s</field>
+<field name="state_country">Kentucky</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ohio State Department of Education</field>
+<field name="title">Art education for elementary schools of Ohio</field>
+<field name="keywords">Art</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="publisher">Ohio State Department of Education</field>
+<field name="pub_place">Columbus, OH</field>
+<field name="language">English</field>
+<field name="abstract">Teachers handbook.--Service file.</field>
+<field name="call_number">371.37 .O37 v. 1-2</field>
+<field name="notes">2 v. in 1. : ill., diagrs. ; 31 cm.; Note(s): Reproduced from type-written copy./ Includes bibliographical references.;</field>
+<field name="state_country">Ohio</field>
+<field name="series_num_vol">2</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Illinois Vocational and Technical Education Division</field>
+<field name="title">An articulated guide for cooperative occupational education</field>
+<field name="series_title">Illinois.; Board of Vocational Education and Rehabilitation.; Bulletin</field>
+<field name="keywords">Cooperative education</field>
+<field name="keywords">Vocational education</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="publisher">State of Illinois Board of Vocational Education and Rehabilitation. Division of Vocational and Technical Education</field>
+<field name="pub_place">Springfield, IL</field>
+<field name="series_vol">34-872</field>
+<field name="pages">218</field>
+<field name="language">English</field>
+<field name="call_number">371.401 .I29a</field>
+<field name="notes">vi; ill. ; 28 cm.; Note(s): Cover title.; Responsibility: State of Illinois Board of Vocational Education and Rehabilitation, Division of Vocational and Technical Education.</field>
+<field name="state_country">Illinois</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Speaking to All Youth</field>
+<field name="title">Attorney's kit of materials for speeches at high school assemblies</field>
+<field name="series_title">Sayings</field>
+<field name="keywords">School assemblies</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Speaking to All Youth</field>
+<field name="pub_place">Louisville, KY</field>
+<field name="call_number">371.33 .S74s v. 5</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Cruz County (California) Schools</field>
+<field name="title">Audio visual education: catalog of sound films, filmstrips, flat pictures, records, transciptions</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1950</field>
+<field name="date">01/1950</field>
+<field name="publisher">Santa Cruz (California) County Schools</field>
+<field name="pub_place">Santa Cruz, CA</field>
+<field name="call_number">371.3095 .S231a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Schools</field>
+<field name="title">Audio visual education: filmstrips, flat pictures, lantern slides, kodachrome slides, and exhibits</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1949</field>
+<field name="date">09/1949</field>
+<field name="publisher">Santa Clara County (California) Schools</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">16</field>
+<field name="call_number">371.3095 .S229a 1949 v. 3</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Santa Clara County (California) Schools</field>
+<field name="title">Audio visual education: sound films</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1949</field>
+<field name="date">06/1949</field>
+<field name="publisher">Santa Clara County (California) Schools</field>
+<field name="pub_place">San Jose, CA</field>
+<field name="pages">46</field>
+<field name="call_number">371.3095 .S229a 1949 v.1</field>
+<field name="notes">Includes supplement.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stager, Waive</field>
+<field name="author_nat">Waive Stager</field>
+<field name="title">Audio visual instructional materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1952</field>
+<field name="date">06/1952</field>
+<field name="publisher">Bakersfield City (California) School District</field>
+<field name="pub_place">Bakersfield, CA</field>
+<field name="call_number">371.3095 .B16a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Utah Extension Division. Audio Visual Bureau</field>
+<field name="title">Audio visual materials for educational and cultural uses</field>
+<field name="keywords">Motion pictures in education</field>
+<field name="year">1959</field>
+<field name="date">1959-61</field>
+<field name="publisher">University of Utah</field>
+<field name="pub_place">Salt Lake City, UT</field>
+<field name="pages">375</field>
+<field name="call_number">371.3095 .U89f</field>
+<field name="state_country">Utah</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">University of Utah Extension Division. Audio Visual Bureau</field>
+<field name="title">Audio visual materials for educational and cultural uses, supplement</field>
+<field name="keywords">Motion pictures in education</field>
+<field name="year">1960</field>
+<field name="date">1960-61</field>
+<field name="publisher">University of Utah</field>
+<field name="pub_place">Salt Lake City, UT</field>
+<field name="pages">68</field>
+<field name="call_number">371.3095 .U89f suppl.</field>
+<field name="state_country">Utah</field>
+</doc>
+
 </add>
