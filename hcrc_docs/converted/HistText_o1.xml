@@ -1438,4 +1438,114 @@ minorities for Pennsylvania schools</field>
 <field name="call_number">371.33 .S65c v. 26</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Ballantyne, Raymond</field>
+<field name="author_nat">Raymond Ballantyne</field>
+<field name="author">Barrett, Maude</field>
+<field name="author_nat">Maude Barrett</field>
+<field name="author">Christensen, Ardis</field>
+<field name="author_nat">Ardis Christensen</field>
+<field name="author">Estes, Hayden</field>
+<field name="author_nat">Hayden Estes</field>
+<field name="title">Analysis of taba curriculum development project</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">26</field>
+<field name="call_number">371.33 .S65c v. 5</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Stainbrook, Gary</field>
+<field name="author_nat">Gary Stainbrook</field>
+<field name="author">Hillman, Aubrey</field>
+<field name="author_nat">Aubrey Hillman</field>
+<field name="author">De Stefanis, Anthony</field>
+<field name="author_nat">Anthony De Stefanis</field>
+<field name="title">Analysis of taba curriculum development project</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">08/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">23</field>
+<field name="call_number">371.33 .S65c v. 31</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dwigans, Pat</field>
+<field name="author_nat">Pat Dwigans</field>
+<field name="author">Petery, Shirley</field>
+<field name="author_nat">Shirley Petery</field>
+<field name="author">Thompson, Roger</field>
+<field name="author_nat">Roger Thompson</field>
+<field name="author">Witzel, Ronald</field>
+<field name="author_nat">Ronald Witzel</field>
+<field name="title">Analysis of the Asian project</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">07/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">10</field>
+<field name="call_number">371.33 .S65c v. 6</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Czarra, Fred</field>
+<field name="author_nat">Fred Czarra</field>
+<field name="author">Schwarz, Paula</field>
+<field name="author_nat">Paula Schwarz</field>
+<field name="author">Shannon, Howard</field>
+<field name="author_nat">Howard Shannon</field>
+<field name="title">Analysis of the incidence and effects of poverty in the United States</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">06/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="call_number">371.33 .S65c v. 25</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Jordan, Richard</field>
+<field name="author_nat">Richard Jordan</field>
+<field name="author">Weipert, Lou</field>
+<field name="author_nat">Lou Weipert</field>
+<field name="author">Williams, Roger</field>
+<field name="author_nat">Roger Williams</field>
+<field name="title">Analysis of the shaping of western society: an inquiry approach, grade 10</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="call_number">371.33 .S65c v. 34</field>
+<field name="grade_level_number">10th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Harms, Arden</field>
+<field name="author_nat">Arden Harms</field>
+<field name="author">Enters, James</field>
+<field name="author_nat">James Enters</field>
+<field name="title">Analysis of William D. Rader's elementary school economics ii</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">05/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">32</field>
+<field name="call_number">371.33 .S65c v. 12</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
 </add>
