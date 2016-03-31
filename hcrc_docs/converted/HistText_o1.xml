@@ -5274,4 +5274,369 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">California</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Allen, Charles Moore</field>
+<field name="author_nat">Charles Moore Allen</field>
+<field name="title">Combating the dropout problem</field>
+<field name="series_title">Practical ideas in education</field>
+<field name="keywords">Dropouts</field>
+<field name="keywords">School attendance</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Science Research Associates</field>
+<field name="pub_place">Chicago, IL</field>
+<field name="pages">46</field>
+<field name="language">English</field>
+<field name="call_number">371.45 .S41p v. 3</field>
+<field name="notes">46 p. illus. 22 cm.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Columbia University. School of Engineering and Applied Sciences</field>
+<field name="title">A combined plan for a liberal education in engineering</field>
+<field name="keywords">Universities and colleges</field>
+<field name="date">1950s</field>
+<field name="publisher">Columbia University in the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">59</field>
+<field name="language">English</field>
+<field name="call_number">371.425 .E57coL</field>
+<field name="notes">59 p. illus.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Minneapolis (Minnesota) Public Schools. Economic Education Project Staff</field>
+<field name="title">The coming of the great depression : a supplement for grade 11 U.S. history</field>
+<field name="series_title">Economic Education</field>
+<field name="keywords">Depressions</field>
+<field name="keywords">United States history</field>
+<field name="keywords">Economics</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">Minneapolis (Minnesota) Public Schools</field>
+<field name="pub_place">Minneapolis, MN</field>
+<field name="pages">28</field>
+<field name="language">English</field>
+<field name="call_number">330 .M65e v. 4</field>
+<field name="notes">28 leaves : ill. ; 28 cm.; Note(s): Produced in Association with the Developmental Economic Education Program of the Joint Council on Economic Education New York and the Minnesota State Council on Economic Education.</field>
+<field name="state_country">Minnesota</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Committment to democracy: resource unit</field>
+<field name="keywords">Democracy</field>
+<field name="date">1960s?</field>
+<field name="pub_place">Normandy, MO</field>
+<field name="pages">6</field>
+<field name="call_number">320 .N84c</field>
+<field name="state_country">Missouri</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Oliver, Donald W.</field>
+<field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field>
+<field name="author_nat">Fred M. Newmann</field>
+<field name="title">Communist China : communal progress and individual freedom</field>
+<field name="series_title">AEP public issues series</field>
+<field name="keywords">China</field>
+<field name="keywords">Social conditions</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">American Education Publications</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="pages">63</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .H33p v. 16</field>
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit book."/ Cover title./ Includes bibliographical references (p. 63).; Responsibility: adapted from the Harvard Social Studies Project under the direction of Donald W. Oliver and Fred M. Newmann.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Haslam, Lois</field>
+<field name="author_nat">Lois Haslam</field>
+<field name="title">Communities around the world : contrasting communities : teacher's resource unit</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Chelmsford (Massachusetts) Public Schools</field>
+<field name="pub_place">Chelmsford, MA</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .C51c v. 2</field>
+<field name="notes">p. ; cm.; Responsibility: revised by Lois Haslam, Charles L. Mitsakos, social studies coordinator.</field>
+<field name="state_country">Massachusetts</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hitchcock, Jane</field>
+<field name="author_nat">Jane Hitchcock</field>
+<field name="author">Theroux, Margaret</field>
+<field name="author_nat">Margaret Theroux</field>
+<field name="author">Mitsakos, Charles L.</field>
+<field name="author_nat">Charles L. Mitsakos</field>
+<field name="title">Communities around the world : early California mining camp : teacher's resource unit</field>
+<field name="keywords">History</field>
+<field name="keywords">Mining camps</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .C51c v. 3</field>
+<field name="notes">p. ; cm.; Responsibility: revised by Jane Hitchcock, Margaret Theroux, Charles L. Mitsakos, social studies coordinator.</field>
+<field name="state_country">Massachusetts</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hitchcock, Jane</field>
+<field name="author_nat">Jane Hitchcock</field>
+<field name="author">Theroux, Margaret</field>
+<field name="author_nat">Margaret Theroux</field>
+<field name="title">Communities around the world Parisian community</field>
+<field name="keywords">Social life and customs</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Chelmsford (Massachusetts) Public Schools</field>
+<field name="pub_place">Chelmsford, MA</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .C51c v. 5</field>
+<field name="state_country">Massachusetts</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Smith, Lee L.</field>
+<field name="author_nat">Lee L. Smith</field>
+<field name="corp_author">American Heritage Foundation</field>
+<field name="title">Community action: how to get it successfully</field>
+<field name="series_title">Grass roots guides on democracy and practical politics</field>
+<field name="keywords">Community organization</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="publisher">Center for Information on America</field>
+<field name="pub_place">Washington, CT</field>
+<field name="series_vol">20</field>
+<field name="pages">14</field>
+<field name="language">English</field>
+<field name="call_number">320 .C39g v. 20</field>
+<field name="notes">Grass roots guides on democracy and practical politics ;; no. 20</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Battle Creek (Michigan) Public Schools</field>
+<field name="title">The community as a classroom : educational tour handbook</field>
+<field name="keywords">School field trips</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1955</field>
+<field name="date">09/1955</field>
+<field name="publisher">Battle Creek (Michigan) Public Schools</field>
+<field name="pub_place">Battle Creek, MI</field>
+<field name="pages">23</field>
+<field name="language">English</field>
+<field name="call_number">371.3 B33c</field>
+<field name="notes">23 leaves ; 29 cm.; Note(s): Cover title.; Other Titles: Educational tour handbook.; Responsibility: Division of Instruction, Battle Creek Public Schools].</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Thompson, M. E.</field>
+<field name="author_nat">M. E. Thompson</field>
+<field name="author">Morrow, Paul R.</field>
+<field name="author_nat">Paul R. Morrow</field>
+<field name="author">McCall, Celia C.</field>
+<field name="author_nat">Celia C. McCall</field>
+<field name="title">The community as a source of materials of instruction ... A report of the Committee on procedures</field>
+<field name="series_title">Georgia program for the improvement of instruction in the public schools</field>
+<field name="keywords">Adjustment</field>
+<field name="keywords">Psychology</field>
+<field name="keywords">Social and economic aspects</field>
+<field name="keywords">Education</field>
+<field name="keywords">Social surveys</field>
+<field name="year">1938</field>
+<field name="date">08/1938</field>
+<field name="publisher">Georgia State Department of Education</field>
+<field name="pub_place">Atlanta, GA</field>
+<field name="pages">80</field>
+<field name="language">English</field>
+<field name="call_number">371.3 .G35c</field>
+<field name="notes">80 p. 23cm.; Note(s): "Bibliography, " p. 70-80.</field>
+<field name="state_country">Georgia</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Oliver, Donald W.</field>
+<field name="author_nat">Donald W. Oliver</field>
+<field name="author">Newmann, Fred M.</field>
+<field name="author_nat">Fred M. Newmann</field>
+<field name="title">Community change : law, politics and social attitudes</field>
+<field name="series_title">AEP public issues series</field>
+<field name="keywords">Community development</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">American Education Publications</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="pages">47</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .H33p v. 13</field>
+<field name="notes">ill. ; 21 cm.; Note(s): "An American Education Publications unit book."/ Cover title.; Responsibility: by the Harvard Social Studies Project under the direction of Donald W. Oliver and Fred M. Newmann.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools. Division of Instructional Planning and Services</field>
+<field name="title">Community services : the harbor. Social studies grade 1. An instructional guide</field>
+<field name="keywords">Community life</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="pages">123</field>
+<field name="language">English</field>
+<field name="call_number">323 .L869c</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lexington (Kentucky) Public Schools</field>
+<field name="title">Community units for the kindergarten</field>
+<field name="keywords">Community life</field>
+<field name="year">1955</field>
+<field name="date">Summer 1955</field>
+<field name="publisher">Lexington (Kentucky) Public Schools</field>
+<field name="pub_place">Lexington, KY</field>
+<field name="pages">26</field>
+<field name="language">English</field>
+<field name="call_number">323 .L67c</field>
+<field name="state_country">Kentucky</field>
+<field name="grade_level_number">Kindergarten</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Department of Instructional Materials. Division of Curriculum</field>
+<field name="title">The community--our classroom: field trips resources</field>
+<field name="keywords">School field trips</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="publisher">Portland (Oregon) Public Schools</field>
+<field name="pub_place">Portland, OR</field>
+<field name="pages">63</field>
+<field name="call_number">371.3 .P85c</field>
+<field name="state_country">Oregon</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Carnegie Institute of Technology. Social Studies Curriculum Development Center</field>
+<field name="title">Comparative economic systems, a book of readings for inductive teaching [student readings and teacher's manual]</field>
+<field name="series_title">United States.; Office of Education.; Cooperative research project.</field>
+<field name="keywords">Comparative economics</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="publisher">Pittsburgh (Pennsylvania) Public Schools</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">320 .C28c</field>
+<field name="notes">1 v. (various pagings) illus. 28 cm.; Note(s): Cooperative research project no. HS-041 ... supported through the Cooperative Research Program of the Office of Education, U.S. Department of Health, Education, and Welfare.; Responsibility: Compiled by the Curriculum Development Center, Project Social Studies, the Carnegie Institute of Technology, and the Pittsburgh Public Schools.</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Curriculum Development Center Project, Project Social Studies</field>
+<field name="corp_author">Carnegie Institute of Technology</field>
+<field name="corp_author">Pittsburgh (Pennsylvania) Public Schools</field>
+<field name="title">Comparative political systems: student readings and teacher's manual</field>
+<field name="keywords">Political science</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="publisher">Carnegie Institute of Technology</field>
+<field name="pub_place">Pittsburgh, PA</field>
+<field name="language">English</field>
+<field name="call_number">320 .C28c</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New Mexico State Board of Education</field>
+<field name="title">A comparative study of Americanism vs. communism</field>
+<field name="keywords">Communism</field>
+<field name="keywords">Democracy</field>
+<field name="year">1962</field>
+<field name="date">08/1962</field>
+<field name="publisher">New Mexico State Board of Education</field>
+<field name="pub_place">Santa Fe, NM</field>
+<field name="pages">123</field>
+<field name="language">English</field>
+<field name="call_number">320 .N52c</field>
+<field name="notes">vii; ; 22 cm.</field>
+<field name="state_country">New Mexico</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Pennsylvania State Department of Public Instruction</field>
+<field name="title">A comparative study of democracy and communism</field>
+<field name="series_title">Curriculum services series</field>
+<field name="keywords">Communism</field>
+<field name="keywords">Democracy</field>
+<field name="keywords">Political science</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="publisher">Department of Public Instruction</field>
+<field name="pub_place">Harrisburg, PA</field>
+<field name="series_vol">2</field>
+<field name="language">English</field>
+<field name="call_number">320 .P41c</field>
+<field name="notes">9 p. ; 28 cm.; Note(s): Cover title./ Includes bibliographical references (p. 6-7).; Responsibility: Commonwealth of Pennsylvania, Department of Public Instruction.</field>
+<field name="state_country">Pennsylvania</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Miller, Barbara</field>
+<field name="author_nat">Barbara Miller</field>
+<field name="author">Johnson, Jacqueline</field>
+<field name="author_nat">Jacqueline Johnson</field>
+<field name="title">A comparative view of the roles of women : an experimental unit</field>
+<field name="keywords">Sex roles</field>
+<field name="keywords">Social conditions</field>
+<field name="keywords">Women's rights</field>
+<field name="year">1976</field>
+<field name="date">06/1976</field>
+<field name="publisher">University of Denver</field>
+<field name="pub_place">Denver, CO</field>
+<field name="series_vol">Rev.</field>
+<field name="pages">104</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .C391c</field>
+<field name="notes">iv; ill. ; 28 cm.; Note(s): Partially supported by the U.S. Office of Education./ "Film resources - a bibliography": p. 103-l04.; Responsibility: prepared by Barbara Miller, Jacquelyn Johnson for the Center for Teaching International Relations.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hart, Laurance H.</field>
+<field name="author_nat">Laurance H. Hart</field>
+<field name="title">Comparison of encyclopedias : the Hart chart</field>
+<field name="keywords">Encyclopedias</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Laurance Hart, C. E.</field>
+<field name="pub_place">Metuchen, NJ</field>
+<field name="pages">3</field>
+<field name="language">English</field>
+<field name="call_number">027.8 .H32c</field>
+<field name="notes">3 sheets.; "Comparison of encyclopedias, " "Comparison of dictionaries, " "Comparison of atlases"</field>
+</doc>
+
 </add>
