@@ -1548,4 +1548,109 @@ minorities for Pennsylvania schools</field>
 <field name="grade_level_group">Elementary</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Joint Council on Economic Education</field>
+<field name="title">Annotated bibliography of materials in economic education</field>
+<field name="keywords">Economics</field>
+<field name="year">1959</field>
+<field name="date">1959-1960</field>
+<field name="publisher">Joint Council on Economic Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="language">English</field>
+<field name="call_number">330 .J74a</field>
+<field name="series_num_vol">2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Joint Council on Economic Education</field>
+<field name="title">An annotated bibliography of materials in economic education</field>
+<field name="keywords">Economics</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="publisher">Joint Council on Economic Education</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">41</field>
+<field name="language">English</field>
+<field name="call_number">016 .J5846a</field>
+<field name="notes">41 p. 21 cm.; Note(s): Cover title.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sacramento (California) City Unified School District</field>
+<field name="title">Annotated list of newly obtained audio-visual materials</field>
+<field name="keywords">Audio-visual materials</field>
+<field name="year">1950</field>
+<field name="date">01/1950</field>
+<field name="publisher">Sacramento (California) City Unitied School District</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">3</field>
+<field name="call_number">371.3095 .S12a 1950</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Annual descriptive report of the California program of vocational education for the fiscal year ending June 30, 1952</field>
+<field name="keywords">Vocational education</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">111</field>
+<field name="call_number">371.401 .C15a</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Cutler, Charles</field>
+<field name="author_nat">Charles Cutler</field>
+<field name="title">Anthropology in today's world; case studies of people and cultures</field>
+<field name="series_title">American Education Publications unit book</field>
+<field name="keywords">Anthropology</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="publisher">American Education Publications</field>
+<field name="pub_place">Middletown, CT</field>
+<field name="pages">63</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .A51s v. 6</field>
+<field name="notes">63 p. illus. 22 cm.; Note(s): Editors: Charles Cutler, Boris Burack, George Morrill, George Thiffault.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (California) Unified School District, Instructional Development and Services</field>
+<field name="title">Appendix to a working course outline for black history</field>
+<field name="keywords">African Americans</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">147</field>
+<field name="call_number">323 .S195m #3</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Board of Education. Bureau of Reference, Research and Statistics</field>
+<field name="title">Appraisal of growth in reading</field>
+<field name="series_title">Educational research bulletin of the Bureau of reference, research and statistics</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="keywords">Reading</field>
+<field name="year">1941</field>
+<field name="date">11/1941</field>
+<field name="publisher">Board of Education of the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">2</field>
+<field name="pages">42</field>
+<field name="language">English</field>
+<field name="call_number">371.3428 .N57 no. 2</field>
+<field name="notes">42 p. 23 cm.; Note(s): "Annotated bibliography of selected reading tests": p. 37-42.; Responsibility: Prepared by Division of tests and measurement, J. Wayne Wrightstone, assistant director. Eugene A. Nifenecker, director of reference, research and statistics.</field>
+<field name="state_country">New York</field>
+</doc>
+
 </add>
