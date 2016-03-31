@@ -1040,4 +1040,101 @@ minorities for Pennsylvania schools</field>
 <field name="call_number">371.33 .S65c v. 21</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Fetsko, William J.</field>
+<field name="author_nat">William J. Fetsko</field>
+<field name="title">Analysis of development of economics curricular materials for secondary schools</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">02/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">17</field>
+<field name="call_number">371.33 .S65c v. 2</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bowman, Clair M.</field>
+<field name="author_nat">Clair M. Bowman</field>
+<field name="author">Charpentier, Donald</field>
+<field name="author_nat">Donald Charpentier</field>
+<field name="author">Crowl, Lydia</field>
+<field name="author_nat">Lydia Crowl</field>
+<field name="author">Doucette, Kenneth</field>
+<field name="author_nat">Kenneth Doucette</field>
+<field name="author">Ristad, Adam</field>
+<field name="author_nat">Adam Ristad</field>
+<field name="author">Watkins, Judy</field>
+<field name="author_nat">Judy Watkins</field>
+<field name="title">Analysis of econ 12</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">05/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">20</field>
+<field name="call_number">371.33 .S65c v. 17</field>
+<field name="grade_level_number">12th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Adkins, Ray</field>
+<field name="author_nat">Ray Adkins</field>
+<field name="author">Boucher, Roanld L.</field>
+<field name="author_nat">Roanld L. Boucher</field>
+<field name="author">Fitzgerald, George Agnes</field>
+<field name="author_nat">Sister George Agnes Fitzgerald</field>
+<field name="author">Morley, Frank P.</field>
+<field name="author_nat">Frank P. Morley</field>
+<field name="author">Rumpf, Arthur H.</field>
+<field name="author_nat">Arthur H. Rumpf</field>
+<field name="title">Analysis of education development center</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">06/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">10</field>
+<field name="call_number">371.33 .S65c v. 23</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Alba, Donald</field>
+<field name="author_nat">Donald Alba</field>
+<field name="author">De Stefanis, Anthony</field>
+<field name="author_nat">Anthony De Stefanis</field>
+<field name="title">Analysis of elementary school economics program, grade 6</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">27</field>
+<field name="call_number">371.33 .S65c v. 37</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Wilson, J. Fred</field>
+<field name="author_nat">J. Fred Wilson</field>
+<field name="author">Smith, Marion H.</field>
+<field name="author_nat">Marion H. Smith</field>
+<field name="author">Prescott, Carol S.</field>
+<field name="author_nat">Carol S. Prescott</field>
+<field name="title">Analysis of Fideler social studies program</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">07/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">20</field>
+<field name="call_number">371.33 .S65c v. 7</field>
+</doc>
+
 </add>
