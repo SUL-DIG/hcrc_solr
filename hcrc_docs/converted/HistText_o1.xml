@@ -7251,4 +7251,90 @@ minorities for Pennsylvania schools</field>
 <field name="notes">iv; ill. ; 28 cm.; Note(s): On cover: A manual for Illinois social studies teachers./ Includes bibliographies.; Responsibility: Arthur Robert Olsen.</field>
 <field name="state_country">Illinois</field>
 </doc>
+
+
+<doc>
+<field name="type">Book</field>
+<field name="author">de Sola Pool, Ithiel</field>
+<field name="author_nat">Ithiel de Sola Pool</field>
+<field name="author">Angell, George W.</field>
+<field name="author_nat">George W. Angell</field>
+<field name="title">The development of a basic social science course for undergraduate students in the natural sciences and engineering</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1968</field>
+<field name="date">07/1968</field>
+<field name="publisher">U.S. Department of Health, Education, and Welfare</field>
+<field name="pages">19</field>
+<field name="call_number">371.33 .M41d v. 1</field>
+<field name="notes">Interim Report Project No. h-120, Contract No. OE-5-10-086.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Aikman, Louis P.</field>
+<field name="author_nat">Louis P. Aikman</field>
+<field name="author">Ostreicher, Leonard M.</field>
+<field name="author_nat">Leonard M. Ostreicher</field>
+<field name="title">Development of an inventory for measuring satisfication with student teaching</field>
+<field name="series_title">College of the City of New York. Division of Teacher Education. Office of Research and Evaluation. Publication 22</field>
+<field name="keywords">Teachers</field>
+<field name="year">1954</field>
+<field name="date">07/1954</field>
+<field name="publisher">Division of Teacher Education, College of the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">22</field>
+<field name="language">English</field>
+<field name="call_number">370.73 .N537p V. 2</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Mateo County (California) Board of Education</field>
+<field name="title">The development of culture: a social studies unit of work, grades 7-8</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1939</field>
+<field name="date">01/1939</field>
+<field name="publisher">San Mateo County (California) Elementary Schools</field>
+<field name="pub_place">San Mateo, CA</field>
+<field name="pages">66</field>
+<field name="call_number">371.33 .S196d</field>
+<field name="state_country">California</field>
+<field name="grade_level_number">7th grade</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Arlington County (Virginia) Public Schools</field>
+<field name="title">Development of democracy in America : tentative resource units, 8th grade general education</field>
+<field name="keywords">Democracy</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="publisher">Arlington County (Virginia) Public Schools</field>
+<field name="pub_place">Arlington, VA</field>
+<field name="pages">77</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .A72t v. 2</field>
+<field name="notes">77 p. ; cm</field>
+<field name="state_country">Virginia</field>
+<field name="grade_level_number">8th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">New York (New York) Department of Education. Division of Instructional Research</field>
+<field name="title">A diagnostic approach to the reading program part I [-II]</field>
+<field name="series_title">Educational research bulletin of the Bureau of reference, research and statistics</field>
+<field name="keywords">Reading</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="publisher">Board of Education of the City of New York</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">3-4</field>
+<field name="language">English</field>
+<field name="call_number">371.3428 .N57 nos. 3-4</field>
+<field name="notes">25; 24 cm.; Note(s): "Selected references", p. II, p. 32.; Responsibility: Prepared by Division of instructional research. May Lazar, research assistant in charge.</field>
+<field name="state_country">New York</field>
+<field name="series_num_vol">2</field>
+</doc>
 </add>
