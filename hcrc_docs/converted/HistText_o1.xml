@@ -1330,4 +1330,112 @@ minorities for Pennsylvania schools</field>
 <field name="call_number">371.33 .S65c v. 11</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="author">Alberg, Dorothy</field>
+<field name="author_nat">Dorothy Alberg</field>
+<field name="author">Hanson, Marilyn</field>
+<field name="author_nat">Marilyn Hanson</field>
+<field name="author">Ross, Evelyn</field>
+<field name="author_nat">Evelyn Ross</field>
+<field name="title">Analysis of our working world: families at work</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">16</field>
+<field name="call_number">371.33 .S65c v. 18</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Donnelly, Mary Andrew</field>
+<field name="author_nat">Sister Mary Andrew Donnelly</field>
+<field name="author">Drews, Pearl A.</field>
+<field name="author_nat">Pearl A. Drews</field>
+<field name="title">Analysis of social change: the case of rural china</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">06/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="call_number">371.33 .S65c v. 24</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bowman, Clair</field>
+<field name="author_nat">Clair Bowman</field>
+<field name="author">Crowl, Lydia</field>
+<field name="author_nat">Lydia Crowl</field>
+<field name="author">Lowrie, Jane</field>
+<field name="author_nat">Jane Lowrie</field>
+<field name="title">Analysis of social science laboratory units, grades 4, 5, and 6</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">08/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">9</field>
+<field name="call_number">371.33 .S65c v. 28</field>
+<field name="grade_level_number">4th grade</field>
+<field name="grade_level_number">5th grade</field>
+<field name="grade_level_number">6th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bowman, Clair</field>
+<field name="author_nat">Clair Bowman</field>
+<field name="author">Charpentier, Donald</field>
+<field name="author_nat">Donald Charpentier</field>
+<field name="author">Doucette, Kenneth</field>
+<field name="author_nat">Kenneth Doucette</field>
+<field name="title">Analysis of social studies curriculum project: the American experience, grade 11</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1969</field>
+<field name="date">02/1969</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">19</field>
+<field name="call_number">371.33 .S65c v. 40</field>
+<field name="grade_level_number">11th grade</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Hawkins, Raybon</field>
+<field name="author_nat">Raybon Hawkins</field>
+<field name="author">Schott, James</field>
+<field name="author_nat">James Schott</field>
+<field name="author">Stainbrook, Gary</field>
+<field name="author_nat">Gary Stainbrook</field>
+<field name="title">Analysis of sociological resources for the social studies</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">09/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="pages">29</field>
+<field name="call_number">371.33 .S65c v. 16</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Charpentier, Donald J.</field>
+<field name="author_nat">Donald J. Charpentier</field>
+<field name="author">Masters, John T.</field>
+<field name="author_nat">John T. Masters</field>
+<field name="author">Pratt, Robert B.</field>
+<field name="author_nat">Robert B. Pratt</field>
+<field name="title">Analysis of taba curriculum</field>
+<field name="keywords">Curriculum planning</field>
+<field name="year">1968</field>
+<field name="date">08/1968</field>
+<field name="publisher">Social Science Education Consortium</field>
+<field name="pub_place">Boulder, CO</field>
+<field name="call_number">371.33 .S65c v. 26</field>
+</doc>
+
 </add>
