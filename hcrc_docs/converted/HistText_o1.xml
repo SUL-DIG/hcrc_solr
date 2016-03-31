@@ -3265,4 +3265,294 @@ minorities for Pennsylvania schools</field>
 <field name="state_country">Louisiana</field>
 </doc>
 
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Civic Education Foundation</field>
+<field name="title">Bread and butter plus</field>
+<field name="series_title">Living democracy series</field>
+<field name="keywords">Civics</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="publisher">Comet Press Books</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">4</field>
+<field name="pages">48</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .L78L no. 4</field>
+<field name="notes">48 p. illus.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Far West Laboratory for Educational Research and Development</field>
+<field name="title">A brief minicourses: an inservice and preservice program designed to help teachers improve specific teaching skills.</field>
+<field name="keywords">Teachers</field>
+<field name="publisher">Macmillan Educational Services</field>
+<field name="pub_place">New York, NY</field>
+<field name="pages">23</field>
+<field name="call_number">370.7 .F21m</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Bronxville (New York) Board of Education</field>
+<field name="title">The Bronxville School after-school play program</field>
+<field name="keywords">After-school programs</field>
+<field name="publisher">Bronxville (New York) Board of Education</field>
+<field name="pub_place">Bronxville, NY</field>
+<field name="pages">23</field>
+<field name="call_number">371.84 .B86a</field>
+<field name="state_country">New York</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Nebraska State Department of Education</field>
+<field name="title">Building better American citizens in Nebraska elementary schools</field>
+<field name="keywords">Civics</field>
+<field name="keywords">Curricula</field>
+<field name="publisher">Nebraska State Department of Education</field>
+<field name="pub_place">Lincoln, NE</field>
+<field name="pages">156</field>
+<field name="call_number">371.33 .N36b</field>
+<field name="state_country">Nebraska</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California. State Central Committee on Social Studies</field>
+<field name="title">Building curriculum in social studies for the public schools of California; a progress report</field>
+<field name="series_title">Bulletin of the California State Department of Education</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1957</field>
+<field name="date">05/1957</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="series_vol">26</field>
+<field name="pages">109</field>
+<field name="language">English</field>
+<field name="issue">4</field>
+<field name="call_number">371.33 .C153b</field>
+<field name="notes">109 p. 23 cm.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">San Francisco (Calfornia) Unified School District</field>
+<field name="title">Building for world understanding:" to live in peace with one another"</field>
+<field name="keywords">International education</field>
+<field name="keywords">Multicultural education</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="publisher">San Francisco (California) Unified School District</field>
+<field name="pub_place">San Francisco, CA</field>
+<field name="pages">91</field>
+<field name="language">English</field>
+<field name="call_number">327 .S195b</field>
+<field name="notes">iii, 91 l.; Note(s): Bibliographies: p. 62-91. San Francisco elementary schools' report on planned study in intercultural education, 1944-1945.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">College of Education Southern University</field>
+<field name="title">Building the school library for an age of change; Librarians' Workshop, summer, 1962</field>
+<field name="series_title">Southern University and A. and M. College Bulletin</field>
+<field name="keywords">School libraries</field>
+<field name="year">1962</field>
+<field name="date">12/1962</field>
+<field name="publisher">Southern University and A. and M. College</field>
+<field name="pub_place">Baton Rouge, LA</field>
+<field name="series_vol">49</field>
+<field name="pages">36</field>
+<field name="language">English</field>
+<field name="issue">4</field>
+<field name="call_number">027.8 .S72b</field>
+<field name="notes">36 l.; Note(s): Includes bibliography.</field>
+<field name="state_country">Louisiana</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Twombly, John J.</field>
+<field name="author_nat">John J. Twombly</field>
+<field name="title">The bulletin board as an aid in the social studies classroom</field>
+<field name="series_title">Educational Bulletin Service</field>
+<field name="keywords">Bulletin boards</field>
+<field name="year">1958</field>
+<field name="date">[1958]</field>
+<field name="publisher">Northern Illinois State College</field>
+<field name="pub_place">Dekalb, IL</field>
+<field name="pages">26</field>
+<field name="call_number">371.3095 .I28b</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Dent, Charles Herger</field>
+<field name="author_nat">Charles Herger Dent</field>
+<field name="author">Tiemann, Ernest F.</field>
+<field name="author_nat">Ernest F. Tiemann</field>
+<field name="title">Bulletin boards for teaching</field>
+<field name="series_title">Bridges for ideas</field>
+<field name="keywords">Bulletin boards</field>
+<field name="keywords">Teaching aids</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="publisher">Visual Instruction Bureau, Division of Extension, University of Texas</field>
+<field name="pub_place">Austin, TX</field>
+<field name="series_vol">2</field>
+<field name="pages">38</field>
+<field name="language">English</field>
+<field name="call_number">371.3095 .T36b no. 2</field>
+<field name="notes">ill. ; 23 cm.; Note(s): Bibliography: p. 34-38.; Responsibility: by Charles H. Dent and Ernest F. Tiemann; designed by Nancy M. Holland.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Miller, Ray</field>
+<field name="author_nat">Ray Miller</field>
+<field name="title">Bulletin boards: high, wide and handsome</field>
+<field name="keywords">Bulletin boards</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="publisher">Bruce Miller</field>
+<field name="pub_place">Riverside, CA</field>
+<field name="pages">28</field>
+<field name="call_number">371.3095 .M64b</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">De Rycke, Laurence</field>
+<field name="author_nat">Laurence De Rycke</field>
+<field name="title">Business enterprise in the American economy</field>
+<field name="series_title">C.A.S.E. economic literacy series</field>
+<field name="keywords">Economics</field>
+<field name="year">1961</field>
+<field name="date">04/1961</field>
+<field name="publisher">Council for Advancement of Secondary Education</field>
+<field name="pub_place">Washington, DC</field>
+<field name="series_vol">4</field>
+<field name="pages">104</field>
+<field name="language">English</field>
+<field name="call_number">330 .C85b</field>
+<field name="notes">110 p. 23 cm.; Note(s): Includes bibliographical references.; Responsibility: by Laurence De Rycke and Alvin H. Thompson.</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">National Association of Manufacturers (U.S.)</field>
+<field name="title">Business in a democracy</field>
+<field name="series_title">You and industry booklets ;; New ser.</field>
+<field name="keywords">Democracy</field>
+<field name="keywords">Free enterprise</field>
+<field name="keywords">Totalitarianism</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="publisher">National Association of Manufacturers</field>
+<field name="pub_place">New York, NY</field>
+<field name="series_vol">8</field>
+<field name="pages">28</field>
+<field name="language">English</field>
+<field name="call_number">330 .N27b</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Delta Pi Epsilon</field>
+<field name="title">Business teaching as a career</field>
+<field name="keywords">Business teachers</field>
+<field name="keywords">Vocational guidance</field>
+<field name="publisher">McGraw-Hill Book Company</field>
+<field name="pub_place">New York, NY</field>
+<field name="call_number">371.425 .T25g</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Speaking to All Youth</field>
+<field name="title">Businessman's kit of materials for speeches at high school assemblies</field>
+<field name="series_title">Sayings</field>
+<field name="keywords">School assemblies</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="publisher">Speaking to All Youth</field>
+<field name="pub_place">Louisville, KY</field>
+<field name="call_number">371.33 .S74s v. 4</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">California school lunch guide</field>
+<field name="series_title">Bulletin of the California State Department of Education</field>
+<field name="keywords">School children</field>
+<field name="keywords">Food</field>
+<field name="year">1952</field>
+<field name="date">06/1952</field>
+<field name="publisher">California State Department of Education</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="series_vol">21</field>
+<field name="pages">196</field>
+<field name="language">English</field>
+<field name="issue">8</field>
+<field name="call_number">371.716 .C15c</field>
+<field name="notes">ix; ill. 23 cm.; Note(s): Includes bibliographical references.; Responsibility: prepared by the school lunch program staff.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Personnel Board</field>
+<field name="title">California state government : a career guide</field>
+<field name="keywords">Vocational guidance</field>
+<field name="year">1976</field>
+<field name="date">12/1976</field>
+<field name="publisher">California State Personnel Board</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="pages">72</field>
+<field name="language">English</field>
+<field name="call_number">371.41 .C154ca</field>
+<field name="notes">72 p. ; 28 cm.; Note(s): Cover title.; Other Titles: Career guide.; Responsibility: prepared by California State Personnel Board.</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Battle Creek (Michigan) Public Schools</field>
+<field name="title">A camping we will go</field>
+<field name="keywords">Outdoor education</field>
+<field name="keywords">School camps</field>
+<field name="year">1957</field>
+<field name="date">09/1957</field>
+<field name="publisher">Battle Creek (Michigan) Public Schools, Division of Instruction</field>
+<field name="pub_place">Battle Creek, MI</field>
+<field name="pages">108</field>
+<field name="language">English</field>
+<field name="call_number">371.84 .B33a</field>
+<field name="notes">108 leaves ; 28 cm.; Note(s): Title from cover.; Other Titles: Camping we will go</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Harrod, James</field>
+<field name="author_nat">James Harrod</field>
+<field name="title">Career awareness through Afro-American literature</field>
+<field name="keywords">American fiction</field>
+<field name="keywords">African Americans</field>
+<field name="keywords">Career education</field>
+<field name="year">1974</field>
+<field name="date">06/1974</field>
+<field name="publisher">School District of University City (Missouri)</field>
+<field name="pub_place">University City, MO</field>
+<field name="pages">12</field>
+<field name="call_number">371.45 .U59c v. 3</field>
+<field name="state_country">Missouri</field>
+</doc>
+
 </add>
