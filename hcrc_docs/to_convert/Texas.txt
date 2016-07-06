@@ -1,0 +1,7156 @@
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Manual and course of study for the public schools of Texas, 1915
+Y1  - 1915
+D1  - 08/1915
+SP  - 124
+KW  - Curricula
+N1  - 124 pages 23 cm.; Responsibility: W.F. Doughty, state superintendent of public instruction. Issued by the Department of education, state of Texas.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 46
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no. 46
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Some recent school legislation : four million dollar rural aid act ; an act authorizing prompt payment of teachers without discount ; an act authorizing equal pay for men and women teachers ; a resolution designating how the flag shall be displayed ; a resolution submitting a constitutional amendment to remove tax limit for school purposes
+Y1  - 1919
+D1  - 03/1919
+SP  - 9
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 99
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.99
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : classification and state aid
+Y1  - 1916
+D1  - 09/1916
+SP  - 119
+KW  - Government aid to education
+KW  - High schools
+N1  - 119 pages : illustrations ; 23 cm.; Note(s): "September 1, 1916."; Other Titles: Classification and state aid; Responsibility: Texas Dept. of Education.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 58
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.58
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Library and laboratory equipment for classified high schools
+Y1  - 1916
+D1  - 07/1916
+SP  - 82
+KW  - Scientific equipment
+KW  - School libraries
+N1  - 82 pages ; 23 cm.; Note(s): "July 15, 1916."; Responsibility: Texas State Dept. of Education.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 55
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.55
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The Certification of teachers in Texas
+Y1  - 1915
+D1  - 06/1915
+SP  - 34
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education Bulletin
+V1  - 43
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.43
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Classification of public high schools : by the State Department of Education and complete list of high schools showing the class to which each belongs
+Y1  - 1913
+D1  - 09/1913
+SP  - 18
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education Bulletin
+V1  - 26
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.26
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Scholastic population and state apportionment available school fund, 1910-1911 : public school officers, local school tax rates in independent school districts, county permanent school funds
+Y1  - 1910
+D1 -  1910
+SP  - 48
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education Bulletin
+V1  - 3
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.3
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - State Free Textbook law
+Y1  - 1919
+D1  - 03/1919
+Sp  - 14
+KW  - Educational law and legislation
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 98
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.98
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Revised school laws of the state of Texas : with court decisions and comments for the use of school officers
+Y1  - 1913
+D1  - 11/1913
+SP  - 120
+KW  - Educational law and legislation
+N1  - 120 pages ; 23 cm.; Note(s): "November 15, 1913."/ Includes index.; Responsibility: Texas State Dept. of Education.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 28
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.28
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Statistical tables Texas public schools 1915-16
+Y1  - 1917
+D1  - 09/1917
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 69
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.69
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Blanton, Annie Webb
+A1  - Davis, C. L.
+A1  - Hinds, J. H.
+A1  - Rutland, J. B.
+A2  - Texas State Department of Education
+T1  - Project study outlines
+Y1  - 1920
+D1  - 09/1920
+SP  - 69
+KW  - Project method in teaching
+KW  - Agriculture
+N1  - 69 pages 23 cm.; Responsibility: [by] Annie Webb Blanton ... C.L. Davis ... J.H. Hinds ... [and] J.B. Rutland ...; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 121
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.121
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Blanton, Annie Webb
+A2  - Texas State Department of Education
+T1  - Rural school libraries
+Y1  - 1920
+D1  - 08/1920
+SP  - 27
+KW  - Children's literature
+KW  - Children
+KW  - Rural school libraries
+N1  - 27 pages 23 cm.; Genre/Form: Bibliography. Lists.; Note(s): "Lists of books suitable for use in the rural and small town schools of the state."; Responsibility: Annie Webb Blanton, state superintendent of public instruction ... Issued by the Department of education, state of Texas.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 120
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.120
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved books for rural school libraries
+Y1  - 1923
+D1  - 08/1923
+SP  - 33
+KW  - Children's literature
+KW  - Children
+KW  - Rural school libraries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 168
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.168
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved books for rural school libraries
+Y1  - 1925
+D1  - 10/1925
+SP  - 35
+KW  - Children's literature
+KW  - Children
+KW  - Rural school libraries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 198
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.198
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools. Home economics
+Y1  - 1920
+D1  - 04/1920
+SP  - 122
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 114
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.114
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Outline course of study : summer normals, 1920
+Y1  - 1920
+D1  - 06/1920
+SP  - 57
+KW  - Teachers' institutes
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 118
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.118
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Examinations and certificates, 1920 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and list of summer normals with helpful suggestions
+Y1  - 1920
+D1  - 04/1920
+SP  - 15
+KW  - Teachers
+KW  - Examinations
+N1  - 15 pages : illustrations ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, 116-133./ "April, 1920."/ With: Bulletin (Texas. State Dept. of Education) ; 116-133.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 117
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.117
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Examinations and certificates, 1921 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and list of summer normals with helpful suggestions
+Y1  - 1921
+D1  - 02/1921
+SP  - 19
+KW  - Teachers
+KW  - Examinations
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 128
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.128
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Examinations and certificates, 1923 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and list of summer normals with helpful suggestions
+Y1  - 1923
+D1  - 05/1923
+SP  - 30
+KW  - Teachers
+KW  - Examinations
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 160
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.160
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : history and the social sciences
+Y1  - 1920
+D1  - 10/1920
+SP  - 48
+KW  - Curricula
+KW  - History
+KW  - Social sciences
+KW  - State or province government publication (sgp)
+N1  - 48 pages, 2 folded leaves ; 23 cm.; Note(s): "October 15, 1920."/ Includes bibliographical references.; Other Titles: History and the social sciences; Responsibility: Texas Dept. of Education.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 124
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.124
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : hygiene and home nursing
+Y1  - 1920
+D1  - 04/1920
+SP  - 20
+KW  - Curricula
+KW  - Health education
+N1  - 20 pages : illustrations ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, 98-115./ "April 12, 1920."/ With: Bulletin (Texas. State Dept. of Education) ; 98-115.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 115
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b 115
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Harris, Jessie W.
+A2  - Texas State Department of Education
+T1  - Equipment for teaching home making in Texas high schools
+Y1  - 1922
+D1  - 01/1922
+SP  - 71
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 140
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.140
+SC  - Texas
+G1 -  High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Home nursing
+Y1  - 1921
+D1  - 11/1921
+SP  - 20
+KW  - Nurses
+KW  - Nursing
+N1  - 20 pages 23 cm.; Responsibility: Annie Webb Blanton, superintendent of public instruction. Jessie W. Harris, Lillian Peek, directors of home economics education ... The Department of education, state of Texas.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 138
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.138
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Home nursing for Texas high schools
+Y1  - 1923
+D1  - 07/1923
+SP  - 20
+KW  - Nurses
+KW  - Nursing
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 163
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.163
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Manual and course of study; elementary grades, public schools of Texas, 1919
+Y1  - 1919
+D1  - 09/1919
+SP  - 95
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education Bulletin
+V1  - 105
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.105
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Manual and course of study; elementary grades, public schools of Texas, 1922-23
+Y1  - 1922
+D1  - 09/1922
+SP  - 137
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 152
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.152
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Manual and course of study; elementary grades, public schools of Texas, 1924-25
+Y1  - 1924
+D1  - 09/1924
+SP  - 144
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 184
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.184
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Text book regulations containing the laws governing the state text book commission, the state text book law, the rules for the care and distribution of books, and a list of the state adopted books
+Y1  - 1922
+D1  - 02/1922
+SP  - 33
+KW  - Textbooks
+N1  - 33 pages ; 23 cm.; Responsibility: Annie Webb Blanton, state superintendent of instruction.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 144
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.144
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Examinations and certificates, 1921-22 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and date of summer normals with helpful suggestions
+Y1  - 1921
+D1  - 10/1921
+SP  - 21
+KW  - Examinations
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 135
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.135
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Girls' clothing contest : Texas high schools, plans for 1919-1920
+Y1  - 1919
+D1  - 11/1919
+SP  - 13
+KW  - Clothing and dress
+KW  - School contests
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 109
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.109
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Girls' clothing contest : Texas high schools, part I contest plan, Part II shoes and heels
+Y1  - 1923
+D1  - 09/1923
+SP  - 50
+KW  - Clothing and dress
+KW  - School contests
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 170
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.170
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Girls' clothing contest : Texas high schools, plans for 1920-1922
+Y1  - 1921
+D1  - 02/1921
+SP  - 32
+KW  - Clothing and dress
+KW  - School contests
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 129
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.129
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Supplement to bulletin no.170 Girls' clothing contest : Texas high schools
+Y1  - 1925
+D1  - 1925
+SP  - 13
+KW  - Clothing and dress
+KW  - School contests
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b 1925
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - School legislation of the second called session, thirty-sixth legislature : statistics and registration, tax levy for schools and for text book fund, consolidation of school districts, emergency transfers, amendment to rural aid law
+Y1  - 1919
+D1  - 07/1919
+SP  - 13
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 102
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.102
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas Compulsory School Attendance Law
+Y1  - 1922
+D1  - 03/1922
+SP  - 14
+KW  - Compulsory education
+KW  - Educational law and legislation
+KW  - School attendance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 137
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.137
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - How to handle school funds
+D1  - 1920?
+SP  - 4
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 112
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.112
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - How to handle school funds
+D1  - 1920?
+SP  - 4
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 111
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.111
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Rural aid appropriations school statistics and other matters of interest to tax-payers, read this before applying for rural aid
+Y1  - 1922
+D1  - 06/1922
+SP  - 24
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 149
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.149
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Supplement to bulletin 146 - outline of courses for teachers' examinations
+Y1  - 1923
+D1  - 05/1923
+SP  - 31
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.146 suppl.
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - School legislation of the regular session of the thirty-seventh legislature ... Uniform Title: Laws, etc
+Y1  - 1921
+D1  - 04/1921
+SP  - 23
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 130
+PB  - Texas State Department of Education
+CY  - Austin
+LA  - English
+CN  - 379.74 .T2b  no.130
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - School grounds, school buildings and their equipment
+Y1  - 1922
+D1  - 07/1922
+SP  - 78
+KW  - School buildings
+KW  - School grounds
+N1  - 78 pages including illustrations; ans, diagrams 23 cm.; Responsibility: Annie Webb Blanton, state superintendent of public instruction. L.D. Borden, chief supervisor of rural schools ... Issued by the Department of education, state of Texas; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 148
+V1  - Texas State Department of Education
+CY  - Austin
+LA  - English
+CN  - 379.74 .T2b no.148
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Historical and statistical data as to education in Texas, January 1, 1919-January 1, 1921
+Y1  - 1921
+D1  - 08/1921
+SP  - 209
+KW  - Education
+N1  - 209 pages including tables 23 cm.; Responsibility: Annie Webb Blanton, state superintendent of public instruction ... Issued by the Department of education, state of Texas.;Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 133
+PB  - Texas State Department of Education
+CY  - Austin
+LA  - English
+CN  - 379.74 .T2b no.133
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - A brief handbook of information for school trustees
+Y1  - 1921
+D1  - 07/1921
+SP  - 10
+KW  - Educational law and legislation
+N1  - 10 pages 22 cm.; Responsibility: Annie Webb Blanton, state superintendent of public instruction ... Issued by the Department of Education, state of Texas.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 131
+PB  - Texas State Department of Education
+CY  - Austin?
+LA  - English
+CN  - 379.74 .T2b no.131
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Outline course of study : summer normals, 1922
+Y1  - 1922
+D1  - 05/1922
+SP  - 110
+KW  - Teachers' institutes
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 146
+PB  - Texas State Department of Education
+CY  - Austin, Tex
+LA  - English
+CN  - 379.74 .T2b no.146
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Manual and course of study, elementary grades : public schools of Texas, 1921
+Y1  - 1921
+D1  - 09/1921
+SP  - 125
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education Bulletin
+V1  - 134
+PB  - Texas State Department of Education
+CY  - Austin, Tex
+LA  - English
+CN  - 379.74 .T2b no.134
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Outline of plans for vocational education in Texas under the Smith-Hughes Act, 1920-1921
+Y1  - 1920
+D1  - 11/1920
+SP  - 74
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 125
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.125
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Blanton, Annie Webb
+A2  - Texas State Department of Education
+T1  - Public school bulletin : school officers, scholastic enumeration per capita and amount apportioned, county permanent school fund August 31, 1920. Local tax rates in independent districts, 1920-1921
+Y1  - 1920
+D1  - 11/1920
+SP  - 62
+KW  - School finance
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 126
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.126
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Try-out edition    Handbook for self-appraisal and improvement of elementary schools
+Y1  - 1945
+D1  - 09/1945
+SP  - 84
+KW  - School management and organization
+KW  - Elementary schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 458
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.458
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Blanton, Annie Webb
+A2  - Texas State Department of Education
+T1  - A Hand book of information as to education in Texas, 1918-1922
+Y1  - 1923
+D1  - 01/1923
+SP  - 493
+KW  - Education
+N1  - 493 pages : illustrations, maps ; 23 cm.; Note(s): "January, 1923."/ Includes index.; Other Titles: Education in Texas; Handbook of information as to education in Texas, 1918-1922; Responsibility: [compiled by] Annie Webb Blanton.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 157
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no. 157
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Harris, Jessie W.
+A1  - Peck, Lillian
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Organization and administration of evening classes in home-making for Texas
+D1  - 1922?
+SP  - 44
+KW  - Evening and continuation schools
+KW  - Home economics
+N1  - 44 pages 23 cm.; Note(s): Bulletin number in ms. on cover./ Also available in digital form on the Internet Archive Web site.; General Info: Other format available: Online version:; Texas. State Board for Vocational Education.; Organization and administration of evening classes in home-making for Texas.; Austin, Tex., State board for vocational education [1922]; Responsibility: prepared [by] Jessie W. Harris and Lillan [sic] Peck.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 153
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.153
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Harris, Jessie W.
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Suggested outlines for study of vocational home economics in rural and small high schools in Texas
+Y1  - 1923
+D1  - 09/1923
+SP  - 69
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - State Board for Vocational Education bulletin
+V1  - 166
+PB  - State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.166
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : course of study
+Y1  - 1922
+D1  - 07/1922
+SP  - 106
+KW  - High schools
+KW  - Curricula
+KW  - Secondary Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 151
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.151
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Outline of plans for vocational education in Texas under the Smith-Hughes Act, 1922-1927
+Y1  - 1923
+D1  - 03/1923
+SP  - 83
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin / State Board for Vocational Education
+V1  - 155
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.155
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Food study outlines for Texas high schools
+Y1  - 1923
+D1  - 08/1923
+SP  - 38
+KW  - Food
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 162
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.162
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Outline of plans for vocational education in Texas as related to trades and industry: 1922-1927
+Y1  - 1923
+D1  - 08/1923
+SP  - 112
+KW  - Industrial arts
+KW  - Vocational education
+N1  - 112 pages : photographs ; 23 cm.; Note(s): "August, 1923."; Other Titles: Vocational education in Texas as related to trades and industry 1922-1927; Plans for vocational education in Texas 1922-1927; Responsibility: adopted by the State Board for Vocational Education and approved by the Federal Board for Vocational Education.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 161
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.161
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Bulletin of general information concerning vocational agriculture in Texas
+Y1  - 1923
+D1  - 01/1923
+SP  - 51
+KW  - Agricultural education
+KW  - Vocational education
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 154
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no. 154
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Vocational home economics in Texas : bulletin of general information and state plan for vocational home economics
+Y1  - 1923
+D1  - 06/1923
+SP  - 79
+KW  - Home economics
+N1  - 79 pages : portraits forms ; 23 cm.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 159
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.159
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Home economics : applied design and clothing, Texas high schools
+Y1  - 1923
+D1  - 09/1923
+SP  - 40
+KW  - Design
+KW  - Clothing and dress
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 165
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.165
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Winters, Jet Corine
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - A syllabus of household management for Texas high schools
+Y1  - 1923
+D1  - 08/1923
+SP  - 21
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 164
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.164
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Borden, Lee Dewitt
+A2  - Texas State Department of Education
+T1  - Concerning state aid for industrial training in rural schools together with complete list of equipment required, two year plan of work and instructions as to qualifications
+Y1  - 1925
+D1  - 07/1925
+SP  - 31
+KW  - Technical education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 194
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.194
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Duffy, L. Jane
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Laboratory manual of home nursing for Texas high schools
+Y1  - 1924
+D1  - 10/1924
+SP  - 32
+KW  - Home nursing
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education Bulletin
+V1  - 185
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no. 185
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Hartman, Carl
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Suggestions for the teaching of Physiology in Texas high schools
+Y1  - 1924
+D1  - 11/1924
+SP  - 19
+KW  - Physiology
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 187
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.187
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Texas State Department of Education
+A1  - Texas
+T1  - Text book regulations containing the laws governing the State text book commission, the state text book law, the rules for the care and distribution of books, and a list of the state adopted books
+Y1  - 1924
+D1  - 09/1924
+SP  - 33
+KW  - Textbooks
+N1  - 33 pages ; 23 cm.; Responsibility: S.M.N. Marrs, state superintendent of instruction, L.S. Thrift, manager of Text book division. The Department of education, state of Texas.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 186
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.186
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Library equipment : Texas high schools
+Y1  - 1925
+D1  - 04/1925
+SP  - 95
+KW  - High school libraries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 192
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.192
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools : county and city superintendents, 1925-1926
+Y1  - 1925
+D1  - 10/1925
+SP  - 19
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 197
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.197
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools : county and city superintendents, 1924-1925
+Y1  - 1925
+D1  - 12/1924
+SP  - 19
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 188
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.188
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Texas State Department of Education
+A1  - Texas State Board for Vocational Education
+T1  - Agricultural evening school classes in dairying : some experiences in methods of organizing and conducting evening school classes
+Y1  - 1926
+D1  - 02/1926
+SP  - 30
+KW  - Dairying
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 199
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.199
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Damon, Gordon
+A2  - Texas State Department of Education
+T1  - Suggestions for the teaching of science in Texas high schools
+Y1  - 1924
+D1  - 09/1924
+SP  - 86
+KW  - Curricula
+KW  - Science
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education Bulletin
+V1  - 183
+ED  - Rev
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no. 183
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Course of study : Texas high schools
+Y1  - 1925
+D1  - 08/1925
+SP  - 112
+KW  - High school
+KW  - Secondary education
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 196
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.196
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Concerning state aid for industrial training in rural schools together with complete list of equipment required, two year plan of work and instructions as to qualifications
+Y1  - 1924
+D1  - 07/1924
+SP  - 28
+KW  - School finance
+KW  - Industrial arts
+KW  - Rural schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 180
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.180
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Examinations and certificates and outline course of study for 1924
+Y1  - 1924
+D1  - 01/1924
+SP  - 129
+KW  - Teachers
+KW  - Examinations
+N1  - 129 pages ; 23 cm.; Note(s): Cover title./ "January 1, 1924."/ Includes bibliographical references.; Other Titles: Outline course of study 1924, for persons preparing for examinations for certificates; Responsibility: Texas Dept. of Education.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 175
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.175
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - School legislation of the thirty-eighth legislature
+Y1  - 1923
+D1  - 10/1923
+SP  - 37
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 171
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.171
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Independent and common school district consolidation election forms : important provisions of the law relating to the formation, management and control of consolidated school districts and assumption of outstanding bonded indebtedness
+Y1  - 1923
+D1  - 11/1923
+SP  - 27
+KW  - School elections
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 173
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.173
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A1  - Texas State Board for Vocational Education
+T1  - Bulletin of general information concerning vocational agriculture
+Y1  - 1925
+D1  - 01/1925
+SP  - 27
+KW  - Agricultural education
+KW  - Agriculture
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 181
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.181
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Suggestions concerning the teaching of manual training and mechanical drawing with typical courses of study as found in certain Texas high schools
+Y1  - 1923
+D1  - 11/1923
+SP  - 77
+KW  - Technical education
+KW  - Manual training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 172
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.172
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Compulsory school attendance book of forms
+Y1  - 1925
+D1  - 07/1925
+SP  - 68
+KW  - Compulsory education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 167
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.167
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas compulsory school attendance law
+Y1  - 1923
+D1  - 12/1923
+SP  - 14
+KW  - Compulsory education
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 174
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.174
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved library books for unaffiliated high schools, public schools of Texas
+Y1  - 1931
+D1  - 10/1931
+SP  - 12
+KW  - School libraries
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 295a
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.295a
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved library books for elementary grades, public schools of Texas
+Y1  - 1931
+D1  - 10/1931
+SP  - 49
+KW  - School libraries
+KW  - Reading
+KW  - Children’s literature
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 295
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.195
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Negro education in Texas
+Y1  - 1931
+D1  - 09/1931
+SP  - 32
+KW  - African Americans
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 294
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.294
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : Teaching of mathematics
+Y1  - 1931
+D1  - 09/1931
+SP  - 44
+KW  - Mathematics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 293
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.293
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of science
+Y1  - 1931
+D1  - 09/1931
+SP  - 270
+KW  - Science
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 292
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.292
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of Latin
+Y1  - 1931
+D1  - 08/1931
+SP  - 93
+KW  - Latin language
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 291
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.291
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Physical education program and suggestions
+Y1  - 1931
+D1  - 07/1931
+SP  - 23
+KW  - Physical education and training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 289
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.289
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Concerning state aid for training in agriculture, farm mechanics, and home economics in rural schools
+Y1  - 1933
+D1  - 11/1933
+SP  - 15
+KW  - Agricultural education
+KW  - Home economics
+KW  - vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 288
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.288
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Handbook for common school district trustees and rules and regulations governing boards of trustees of independent, common, consolidated, and rural high school districts of Texas
+Y1  - 1931
+D1  - 05/1931
+SP  - 14
+KW  - School boards
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 287a
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.287a
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Handbook for county superintendents and county boards of trustees, Texas
+Y1  - 1931
+D1  - 05/1931
+SP  - 21
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 287
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.287
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of music
+Y1  - 1931
+D1  - 01/1931
+SP  - 26
+KW  - Music
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 284
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.284
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Trade and industrial education : report of conferences of dyers and cleaners
+Y1  - 1931
+D1  - 04/1931
+SP  - 70
+KW  - Technical education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 286
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.286
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Rules and regulations governing the state judging contests in vocational agriculture
+Y1  - 1931
+D1  - 01/1931
+SP  - 25
+KW  - Agricultural education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 285
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.285
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas rural school standards; a handbook for teachers, trustees and patrons
+Y1  - 1930
+D1  - 11/1930
+SP  - 31
+KW  - Rural education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 280
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.280
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : The teaching of citizenship : federal and state constitutions
+Y1  - 1931
+D1  - 02/1931
+SP  - 65
+KW  - Citizenship
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 279
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.279
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Revised text book regulations containing Texas text book law, a list of the state adopted books, biennial report of text book division and general information
+Y1  - 1931
+D1  - 01/1931
+SP  - 93
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 278
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.278
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of commercial subjects
+Y1  - 1930
+D1  - 12/1930
+SP  - 74
+KW  - Business education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 277
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.277
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of Spanish, German and French
+Y1  - 1930
+D1  - 10/1930
+SP  - 108
+KW  - French language
+KW  - German language
+KW  - Spanish language
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 275
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.275
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Outline course of study for elementary schools
+Y1  - 1930
+D1  - 09/1930
+SP  - 33
+KW  - Education
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 274
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.274
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools; health and physical education
+Y1  - 1930
+D1  - 08/1930
+SP  - 128
+KW  - Health education
+KW  - Physical education and training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 273
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.273
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Trade and industrial education, suggestions and course of study for supervisors' use in training laundry routemen : Parts I and II /
+Y1  - 1930
+D1  - 06/1930
+SP  - 41
+KW  - Laundry industry
+KW  - Laundry workers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 271
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.271
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - General school legislation forty-first legislature fourth and fifth called sessions, State of Texas
+Y1  - 1930
+D1  - 05/1930
+SP  - 13
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 270
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.270
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - A course in English for non-English-speaking pupils, grades I-III
+Y1  - 1932
+D1  - 03/1932
+SP  - 134
+KW  - English language
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 268
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.268
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Course of study in home economics for Texas rural schools
+Y1  - 1929
+D1  - 10/1929
+SP  - 89
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 263
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.263
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of science
+Y1  - 1929
+D1  - 10/1929
+SP  - 77
+KW  - Science
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 262
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.262
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Concerning adult education in homemaking
+Y1  - 1929
+D1  - 09/1929
+SP  - 86
+KW  - Adult education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 261
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.261
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of history and other social subjects
+Y1  - 1929
+D1  - 09/1929
+SP  - 140
+KW  - History
+KW  - Social sciences
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 260
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.260
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of commercial subjects
+Y1  - 1928
+D1  - 02/1928
+SP  - 96
+KW  - Business education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 233
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.233
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of Spanish, German, and French
+Y1  - 1927
+D1  - 11/1927
+SP  - 81
+KW  - French language
+KW  - German language
+KW  - Spanish language
+N1  - 81 pages ; 23 cm.; Note(s): "November, 1927."; Other Titles: Teaching of Spanish, German, and French; Responsibility: Texas State Dept. of Education.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 230
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.230
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of Latin
+Y1  - 1927
+D1  - 08/1927
+SP  - 81
+KW  - Latin language
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 227
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.227
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The teaching of high school English : Texas high schools
+Y1  - 1926
+D1  - 02/1926
+SP  - 102
+KW  - English language
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 202
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.202
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Course of study for elementary grades, public schools of Texas
+Y1  - 1927
+D1  - 09/1927
+SP  - 186
+KW  - Education
+KW  - Public schools
+N1  - 186 pages 23 cm.; Note(s): Includes bibliographical references.; Responsibility: S.M.N. Marrs, state superintendent of public instruction ; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 226
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.226
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - State Board for Vocational Education
+T1  - State plans for vocational education in Texas, 1927-1932 : trade and industrial education
+Y1  - 1927
+D1  - 07/1927
+SP  - 45
+KW  - Industrial arts
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - State Board for Vocational Education bulletin
+V1  - 223-B
+PB  - State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.223B
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - State Board for Vocational Education
+T1  - Amendments to Texas State plan for trade and industrial education 1927-1928 and regulation adopted regarding aid for day-trade classes
+D1  - 1927
+SP  - 6
+KW  - Industrial arts
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - State Board for Vocational Education
+PB  - State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.223B Suppl.
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - State plans for vocational education in Texas, 1927-1932 : vocational agriculture
+Y1  - 1927
+D1  - 07/1927
+SP  - 31
+KW  - Agricultural education
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 223-A
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.223A
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - State plans for vocational education in Texas, 1927-1932 : home economics education
+Y1  - 1927
+D1  - 07/1927
+SP  - 41
+KW  - Home economics
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 223-C
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.223-C
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Texas State Department of Education
+T1  - Texas high schools. Mechanical drawing in accredited high schools
+Y1  - 1926
+D1  - 10/1926
+SP  - 37
+KW  - Mechanical drawing
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 214
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.214
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Text book regulations containing the laws governing the State text book commission, the state text book law, the rules for the care and distribution of books, and a list of the state adopted books
+Y1  - 1926
+D1  - 11/1926
+SP  - 77
+KW  - Textbooks
+N1  - 77 pages ; 23 cm.; Responsibility: S.M.N. Marrs, state superintendent of public instruction, L.S. Thrift, manager of Text book division. The Department of education, state of Texas.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 215
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b 215
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas rural school standards : a handbook for teachers, trustees and patrons
+Y1  - 1926
+D1  - 11/1926
+SP  - 29
+KW  - Rural schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 216
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.216
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - State plans for vocational education in Texas, 1927-1932
+Y1  - 1927
+D1  - 07/1927
+SP  - 86
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 223
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.223
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Vocational education : financial report, 1917-26
+Y1  - 1927
+D1  - 01/1927
+SP  - 42
+KW  - School finance
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 217
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.217
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Harris, Jessie W.
+A2  - Texas State Board for Vocational Education
+T1  - Teaching home economics by means of home projects
+Y1  - 1926
+D1  - 09/1926
+SP  - 64
+KW  - Home economics
+N1  - 64 pages illustrations 23 cm.; Note(s): "September, 1926."; Responsibility: by Jessie W. Harris. Directors of home economics education, Lillian Peek, Eloise D. Berry, Charlotte Mayfield.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 210
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.210
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Harris, Jessie W.
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Equipment for teaching home making in Texas high schools
+Y1  - 1926
+D1  - 09/1926
+SP  - 87
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 209
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.209
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Negro education in Texas; special activities and industrial aid
+Y1  - 1926
+D1  - 10/1926
+SP  - 28
+KW  - African Americans
+N1  - 28 pages illustrations; ans 23 cm.; Responsibility: S.M.N. Marrs, state superintendent of public instruction. G.T. Bludworth and D.B. Taylor, state supervisors of Negro education ... Issued by the State department of education, Austin.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 212
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.212
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools : county and city superintendents, 1927-1928
+Y1  - 1927
+D1  - 10/1927
+SP  - 20
+KW  - School superintendents and principals
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 229
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.229
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools : county and city superintendents, 1929-1930
+Y1  - 1929
+D1  - 11/1929
+SP  - 20
+KW  - School superintendents and principals
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 265
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.265
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools : county and city superintendents, 1928-1929
+Y1  - 1928
+D1  - 10/1927
+SP  - 20
+KW  - School superintendents and principals
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 2246
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.246
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools : county and city superintendents, 1926-1927
+Y1  - 1926
+D1  - 10/1926
+SP  - 19
+KW  - School superintendents and principals
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 211
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.211
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Home economics : clothing course of study, Texas high schools
+Y1  - 1927
+D1  - 01/1927
+SP  - 26
+KW  - Clothing and dress
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin / State Board for Vocational Education
+V1  - 213
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.213
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - McClung, Jonas Baker
+A1  - Rasco, James Sikes
+A2  - Texas State Department of Education
+T1  - Transportation costs and problems in Texas rural schools
+Y1  - 1926
+D1  - 06/1926
+SP  - 14
+KW  - Schools
+N1  - 14 pages including tables 23 cm.; Note(s): On cover: S.M.N. Marrs, state superintendent of public instruction. L.D. Borden, chief supervisor of rural schools.; Responsibility: Comp. by J.B. McClung and J.S. Rasco, state rural school supervisors ... Issued by State department of education, Austin.; Shelved in Cubberley Library Reading Room
+V1  - 205
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.205
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Moody, Daniel James
+A1  - Moore, Weaver
+A2  - Texas State Department of Education
+T1  - Common school districts tax and bond forms. Pt. 1. Common school districts--(a) Forms for maintenance tax elections; (b) Forms for issuance of bonds. Pt. II. Common county line districts--(a) Forms for maintenance tax elections; (b) Forms for issuance of bonds
+Y1  - 1926
+D1  - 07/1926
+SP  - 52
+KW  - Bonds
+N1  - 52 pages 23 cm.; Responsibility: Comp. for Department of education by Dan Moody, attorney general. Weaver Moore, assistant attorney general ...; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 206
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.206
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The teaching of history and other social subjects : Texas high schools
+Y1  - 1926
+D1  - 08/1926
+SP  - 80
+KW  - History
+KW  - Social sciences
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 208
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.208
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Vocational agriculture : general information
+Y1  - 1926
+D1  - 03/1926
+SP  - 40
+KW  - Agricultural education
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 203
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.203
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - State free text book law as amended by the fortieth legislature effective June 15, 1927
+Y1  - 1927
+D1  - 06/1927
+SP  - 21
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education
+V1  - 224
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.224
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Suggestions to teachers of vocational agriculture for setting up the instructional booth
+Y1  - 1929
+D1  - 08/1929
+SP  - 15
+KW  - Agriculture
+KW  - Exhibit booths
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 259
+PB  - Texas State Board for Vocational Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.259
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Concerning state aid for training in agriculture, farm mechanics, and home economics in rural schools
+Y1  - 1929
+D1  - 08/1929
+SP  - 15
+KW  - Government aid to education
+KW  - Vocational education
+KW  - Agriculture
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 258
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.258
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Revised text book regulations : containing revised text book law, a list of the state adopted books and general information
+Y1  - 1929
+D1  - 08/1929
+SP  - 32
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 257
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.257
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas municipal junior colleges
+Y1  - 1929
+D1  - 06/1929
+SP  - 93
+KW  - Junior colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 255
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.255
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools: teaching of mathematics
+Y1  - 1929
+D1  - 05/1929
+SP  - 18
+KW  - Mathematics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 254
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.254
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+A2  - Texas State Board for Vocational Education
+T1  - Vocational education with special reference to vocational education in agriculture
+Y1  - 1929
+D1  - 04/1929
+SP  - 26
+KW  - Vocational education
+KW  - Agriculture
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Board for Vocational Education bulletin
+V1  - 253
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.253
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : teaching of citizenship
+Y1  - 1928
+D1  - 12/1928
+SP  - 31
+KW  - Citizenship
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 249
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.249
+SC  - Texas
+G1  - high school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : teaching shop work in accredited high schools
+Y1  - 1928
+D1  - 02/1928
+SP  - 59
+KW  - Manual training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 245
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.245
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of science
+Y1  - 1928
+D1  - 09/1928
+SP  - 27
+KW  - Science
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 244
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.244
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved library books for unaffiliated high schools
+Y1  - 1928
+D1  - 10/1928
+SP  - 11
+KW  - School libraries
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 247
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.247
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : teaching of mathematics
+Y1  - 1928
+D1  - 09/1928
+SP  - 36
+KW  - Mathematics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 243
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.243
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : the teaching of high school English
+Y1  - 1929
+D1  - 10/2929
+SP  - 191
+KW  - English
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 241
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.241
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Text book regulations containing financial and statistical tables, the laws concerning the State text book commission, the state text book law, the rules for the care and distribution of books, and a list of the state adopted books
+Y1  - 1928
+D1  - 09/1928
+SP  - 83
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 240
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.240
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved library books for elementary grades, public schools of Texas
+Y1  - 1928
+D1  - 08/1928
+SP -  56
+KW  - School libraries
+KW  - Reading
+KW  - Children's literature
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 239
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.239
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Courses of study in home economics for Texas public schools
+Y1  - 1928
+D1  - 06/1928
+SP  - 208
+KW  - Home economics
+N1  - pt. I. Home economics A--below eighth grade.--pt. II. Home economics, I, II, and III--eighth grade and above.--pt. III. Home economics for boys.; Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 237
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.237
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The judging contest
+Y1  - 1928
+D1  - 08/1928
+SP  - 29
+KW  - Agricultural exhibitions
+KW  - Agricultural education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 236
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.236
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools : mechanical drawing in accredited high schools
+Y1  - 1928
+D1  - 05/1928
+SP  - 39
+KW  - Mechanical drawing
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 235
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.235
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Independent school districts : tax and bond forms
+Y1  - 1928
+D1  - 04/1928
+SP  - 26
+KW  - Bonds
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 234
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.234
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Suggestions on school housekeeping
+Y1  - 1932
+D1  - 01/1932
+SP  - 17
+KW  - School buildings
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 300
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.300
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved library books for elementary grades
+Y1  - 1936
+D1  - 01/1936
+SP  - 84
+KW  - School libraries
+KW  - Reading
+KW  - Children's literature
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 353
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.353
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools, the high school library bulletin
+Y1  - 1935
+D1  - 09/1935
+SP  - 164
+KW  - High school libraries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 349
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.349
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools, standards and activities of the Division of Supervision 1934-35
+Y1  - 1935
+D1  - 07/1935
+SP  - 219
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 347
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.347
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Supplement to textbook regulations
+Y1  - 1935
+D1  - 04/1935
+SP  - 19
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 344
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.344
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Suggestive outline for studies in the elementary grades
+Y1  - 1934
+D1  - 10/1934
+SP  - 38
+KW  - Elementary education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 337
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.337
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Negro education in Texas
+Y1  - 1935
+D1  - 03/1935
+SP  - 74
+KW  - African Americans
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 343
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.343
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Handbook for curriculum study
+Y1  - 1934
+D1  - 09/1934
+SP  - 113
+KW  - Education
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 336
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.336
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Tax and bond forms for independent, common and common county line school districts
+Y1  - 1934
+D1  - 08/1934
+SP  - 72
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 335
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.335
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools, standards and activities of the Division of Supervision 1933-34
+Y1  - 1934
+D1  - 07/1934
+SP  - 212
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 334
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.334
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Guide for preparing the long-time program and annual teaching plans for Texas teachers of vocational agriculture
+Y1  - 1934
+D1  - 05/1934
+SP  - 13
+KW  - Agricultural education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 332
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.332
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Supplementary approved library books for elementary grades
+Y1  - 1934
+D1  - 04/1934
+SP  - 21
+KW  - School libraries
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 331
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.331
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Textbook regulations
+Y1  - 1934
+D1  - 02/1934
+SP  - 59
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 329
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.329
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The teaching of music in Texas public schools
+Y1  - 1933
+D1  - 03/1933
+SP  - 127
+KW  - Music
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 318
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.318
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved library books for elementary grades
+Y1  - 1933
+D1  - 08/1933
+SP  - 52
+KW  - School libraries
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 323
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.323
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Schoolman's calendar and guide
+Y1  - 1934
+D1  - 03/1934
+SP  - 50
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 328
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.328
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Suggestive outline for studies in elementary grades
+Y1  - 1933
+D1  - 09/1933
+SP  - 38
+KW  - Education
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 324
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.324
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Manual of instructions in financial accounting
+Y1  - 1933
+D1  - 01/1933
+SP  - 28
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 316
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.316
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Free textbooks in Texas financial and statistical report record of state adopted textbooks and general information 1930-1932
+Y1  - 1933
+D1  - 01/1933
+SP  - 92
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 315
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.315
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Course of study in home economics for Texas rural schools
+Y1  - 1932
+D1  - 10/1932
+SP  - 64
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 310
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.310
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools, the teaching of modern foreign languages
+Y1  - 1932
+D1  - 10/1932
+SP  - 98
+KW  - Modern languages
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 309
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.309
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas high schools, The teaching of commercial subjects
+Y1  - 1932
+D1  - 08/1932
+SP  - 85
+KW  - Business education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 307
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.307
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Instructors' manual for training public school janitors and janitor engineers
+Y1  - 1932
+D1  - 08/1932
+SP  - 35
+KW  - School custodians
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 306
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.306
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - State plans for vocational education in Texas July 1, 1932-July 1, 1937
+Y1  - 1932
+D1  - 07/1932
+SP  - 114
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 304
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.304
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The teaching of homemaking, Texas public schools
+Y1  - 1932
+D1  - 05/1932
+SP  - 281
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 302
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.302
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Independent and common school district consolidation election forms : important provisions of the law relating to the formation, management and control of consolidated school districts and assumption of outstanding bonded indebtedness
+Y1  - 1932
+D1  - 04/1932
+SP  - 25
+KW  - School elections
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 301
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.301
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Teaching mathematics in junior and senior high schools of Texas
+Y1  - 1937
+D1  - 12/1937
+SP  - 127
+KW  - Mathematics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 379
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.379
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The teaching of music in Texas public schools
+Y1  - 1937
+D1  - 12/1937
+SP  - 260
+KW  - Music
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 378
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.378
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The production, treatment and distribution of water
+Y1  - 1937
+D1  - 01/1937
+SP  - 96
+KW  - Water
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 377A
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.377A
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Course of study in homemaking
+Y1  - 1937
+D1  - 10/1937
+SP  - 99
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 375
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.375
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Traffic safety a manual for public school teachers
+Y1  - 1937
+D1  - 10/1937
+SP  - 36
+KW  - Traffic safety
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 374
+ED  - rev
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.374 rev.
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Traffic safety a manual for public school teachers
+Y1  - 1937
+D1  - 10/1937
+SP  - 35
+KW  - Traffic safety
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 374
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.374
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - A manual for coordinators of part-time cooperative classes in diversified occupations
+Y1  - 1937
+D1  - 09/1937
+SP  - 39
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 373
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.373
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools, Standards and activities of the Division of Supervision 1936-37
+Y1  - 1937
+D1  - 08/1937
+SP  - 270
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 372
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.372
+SC  - Texas
+G1  - High schools
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - School plant improvement; public forums; negro education
+Y1  - 1937
+D1  - 02/1937
+SP  - 63
+KW  - Adult education
+KW  - African Americans
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 371
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.371
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The vocational rehabilitation division
+Y1  - 1936
+D1  - 10/1936
+SP  - 27
+KW  - Children with disabilities
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 367
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.367
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - The odyssey of Mrs. Brown, Texas curriculum program for parent-teacher associations
+Y1  - 1936
+D1  - 09/1936
+SP  - 45
+KW  - Parents' and teachers' associations
+KW  - Parent and child
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 366
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.366
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Tentative course of study in Spanish
+Y1  - 1936
+D1  - 08/1936
+SP  - 55
+KW  - Spanish language
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 364
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.364
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools, standards and activities of the Division of Supervision
+Y1  - 1936
+D1  - 07/1936
+SP  - 235
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 362
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.362
+SC  - Texas
+G1  - High school
+G1  - Universities and colleges
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Tentative course of study for years one through six
+Y1  - 1936
+D1  - 05/1936
+SP  - 559
+KW  - Education
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 359
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.359
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - School plant improvement and beautification 1935-1936
+Y1  - 1936
+D1  - 05/1936
+SP  - 22
+KW  - School grounds
+KW  - school facilities
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 358
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.358
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Distinctive characteristics of the junior school. Contributions by principals of the junior school of the state
+Y1  - 1936
+D1  - 04/1936
+SP  - 108
+KW  - Junior high schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 356
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.356
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Schoolman's calendar and guide
+Y1  - 1935
+D1  - 08/1935
+SP  - 65
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 348
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.348
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - textbooks in Texas
+Y1  - 1935
+D1  - 10/1935
+SP  - 169
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 350
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.350
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. standards and activities of the division of supervision
+D1  - 1945?
+SP  - 118
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 450
+PB  -Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.450
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Diversified part-time cooperative training
+Y1  - 1939
+D1  - 09/1939
+SP  - 58
+KW  - Vocational education
+KW  - Technical education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 399
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.399
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. The high school library. Supplement to no.380 For high schools and junior high schools
+Y1  - 1939
+D1  - 09/1939
+SP  - 62
+KW  - School libraries
+KW  - High school libraries
+KW  - Children's literature
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 398
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.398
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. Standards and activities of the Division of Supervision 1938-39
+Y1  - 1939
+D1  - 09/1939
+SP  - 237
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 397
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.397
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Public school directory 1938-1939
+Y1  - 1938
+D1  - 10/1938
+SP  - 125
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 390
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.390
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Public school directory 1945-1946
+D1  - 1946?
+SP  - 121
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 469
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.469
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Industrial arts program in junior and senior high schools of Texas
+Y1  - 1938
+D1  - 10/1938
+SP  - 125
+KW  - Industrial arts
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 389
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.389
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas state plan for vocational education and rehabilitation
+Y1  - 1938
+D1  - 09/1938
+SP  - 165
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 388
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.388
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Tentative course of study in Czech
+Y1  - 1938
+D1  - 09/1938
+SP  - 22
+KW  - Czech language
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 387
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.387
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. Standards and activities of the Division of Supervision 1937-38
+Y1  - 1938
+D1  - 08/1938
+SP  - 222
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 386
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.386
+SC  - Texas
+G1  - High school
+G1  - postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Textbook regulations
+Y1  - 1938
+D1  - 05/1938
+SP  - 58
+KW  - Textbooks
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 385
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.385
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. The high school library
+Y1  - 1938
+D1  - 01/1938
+SP  - 168
+KW  - School libraries
+KW  - High school libraries
+KW  - Children's literature
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 380
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.380
+SC  - Texas
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Teaching science in junior and senior schools of Texas
+Y1  - 1938
+D1  - 03/1938
+SP  - 90
+KW  - Science
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 383
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.383
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Teaching commerce in junior and senior schools of Texas
+Y1  - 1938
+D1  - 01/1938
+SP -  114
+KW  - Commerce
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 381
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.381
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Public school laws of the State of Texas
+Y1  - 1938
+D1  - 02/1938
+SP  - 291
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 382
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.382
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas state plan for vocational education 1947-1952
+Y1  - 1949
+D1  - 01/1949
+SP  - 226
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 491
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.491
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Free textbook law and regulations 1948-1949
+D1  - 1949?
+SP  - 20
+KW  - textbooks
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 489
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.489
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Basic learning areas in the elementary school
+Y1  - 1946
+D1  - 09/1946
+SP  - 311
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 471
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.471
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Handbook for self-appraisal and improvement of elementary schools
+Y1  - 1948
+D1  - 06/1948
+SP  - 92
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 458
+ED  - rev
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.458
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. Regulations standards and activities of the Division of Supervision 1946-47
+Y1  - 1947
+D1  - 07/1947
+SP  - 256
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 476
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.476
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. Standards and activities of the Division of Supervision 1943-44
+D1  - 1944?
+SP  - 300
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 438
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.438
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. 1942-1943 supplement to standards and activities no.416 of the Division of Supervision 1942-43
+Y1  - 1943
+D1  - 09/1943
+SP  - 67
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 428
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.428
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. Standards and activities of the Division of Supervision 1940-41
+Y1  - 1941
+D1  - 09/1941
+SP  - 291
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 409
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.409
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Texas public schools. Standards and activities of the Division of Supervision 1939-40
+Y1  - 1940
+D1  - 09/1940
+SP  - 269
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 404
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.404
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas School of the Air
+A2  - Texas State Department of Education
+T1  - Teachers' manual and classroom guide, 1940-1941
+Y1  - 1940
+D1  - 10/1940
+SP  - 148
+KW  - Radio in education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 405
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.405
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Approved library books for elementary grades and a list of books of Texas
+Y1  - 1939
+D1  - 09/1939
+SP  - 139
+KW  - Reading
+KW  - School libraries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 400
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.400
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency. Vocational Rehabilitation Division
+T1  - The Texas program of vocational rehabilitation for disabled persons
+Y1  - 1956
+D1  - 1956
+SP  - 36
+KW  - Vocational rehabilitation
+KW  - Disabled persons
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 579
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.579
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Standards for teacher education in Texas
+Y1  - 1955
+D1  - 1955
+SP  - 45
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 574
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.574
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Minimum foundation school program
+Y1  - 1954
+D1  - 1954
+SP  - 17
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 564
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.564
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Principles and standards for accrediting elementary and secondary schools and list of approved courses - Grades 7-12
+Y1  - 1970
+D1  - 01/1970
+SP  - 55
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 560
+ED  - rev
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.560 rev
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Principles and standards for accrediting elementary and secondary schools
+Y1  - 1954
+D1  - 1954
+SP  - 16
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 560
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b  no.560
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for local school officials
+Y1  - 1954
+D1  - 04/1954
+SP  - 123
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 555
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.555
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - School lunch management suggestions for operating lunchrooms in Texas public schools
+Y1  - 1954
+D1  - 1954
+SP  - 71
+KW  - School children
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 554
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.554
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Suggestions for school officials in developing written rules and regulations
+Y1  - 1954
+D1  - 1954
+SP  - 25
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 553
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.553
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas School of the Air and tapes
+Y1  - 1954
+D1  - 1954
+SP  - 77
+KW  - Radio education
+KW  - Phonotape catalogs
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 549
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.549
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for Texas school board members. A Texas Committee of Ten project
+Y1  - 1959
+D1  - 1959
+SP  - 69
+KW  - School management and organization
+KW  - School boards
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 546
+ED  - rev
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.546 rev
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for Texas school board members. A Texas Committee of Ten project
+Y1  - 1953
+D1  - 1953
+SP  - 87
+KW  - School management and organization
+KW  - School boards
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 546
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.546
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A guide to budgeting, accounting, and auditioning of school funds
+Y1  - 1953
+D1  - 08/1953
+SP  - 107
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 545
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.545
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Resource-use education
+Y1  - 1953
+D1  - 1953
+SP  - 20
+KW  - Natural resources
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 544
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.544
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - School plant services
+Y1  - 1962
+D1  - 02/1962
+SP  - 18
+KW  - School buildings
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 543
+ED  - rev
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.543
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - School plant services
+Y1  - 1953
+D1  - 05/1953
+SP  - 20
+KW  - School buildings
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 543
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.543
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Homemaking in today's world; report of In-Service Training Conference for Homemaking Teachers, Dallas, July 30-August 3, 1951
+Y1  - 1951
+D1  - 11/1951
+SP  - 37
+KW  - Home economics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 526
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.526
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas Veteran Farm Shop : a pictorial review of the Farm Shop Training Program for Texas veterans
+Y1  - 1951
+D1  - 06/1951
+SP  - 93
+KW  - Veterans
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 522
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.522
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A study of veterans vocational education as administered by the Texas Education Agency
+Y1  - 1951
+D1  - 05/1951
+SP  - 22
+KW  - Veterans
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 521
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.521
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A guide for organizing and providing special education for exceptional children
+Y1  - 1951
+D1  - 11/1951
+SP  - 73
+KW  - Exceptional children
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 520
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.520
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A checklist appraising the elementary and secondary school health program
+Y1  - 1951
+D1  - 04/1951
+SP  - 28
+KW  - School hygiene
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 519
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.519
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Descriptive catalog of motion pictures and film strips in the State Film Library Radio and Visual Education Division, State Department of Education
+Y1  - 1949
+D1  - 03/1949
+SP  - 225
+KW  - Motion pictures
+KW  - Motion pictures in education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 505
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.505
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Education
+T1  - Standards and activities of the Division of Supervision and accreditation of school systems 1948-49
+D1  - 1949?
+SP -  232
+KW  - High schools
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas State Department of Education bulletin
+V1  - 507
+PB  - Texas State Department of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.507
+SC  - Texas
+G1  - High school
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Public school transportation, a handbook for safe and economical transportation
+Y1  - 1961
+D1  - 04/1961
+SP  - 44
+KW  - School transportation
+KW  - School buses
+N1  - Revised bulletin 559; Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 611
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.611
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - College directory
+Y1  - 1961
+D1  - 1961
+SP  - 105
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 607
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.607
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for local school officials
+Y1  - 1959
+D1  - 09/1959
+SP  - 176
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 603
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.603
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - a guide for Texas public schools: Budgeting, accounting, auditing
+Y1  - 1961
+D1  - 1961
+SP  - 231
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 613
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.613
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Budgeting, accounting, fiscal reporting, and auditing for the consolidated application for federal assistance
+Y1  - 1968
+D1  - 06/1968
+SP  - 71
+KW  - School finance
+N1  - A supplement to Bulletin 613, Budgeting, accounting, auditing, a guide for Texas public schools.; Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 613
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.613 suppl
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Mathematics 7-12
+Y1  - 1962
+D1  - 09/1962
+SP  - 189
+KW  - Mathematics
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 620
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.620
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The school nurse in the school health program
+Y1  - 1962
+D1  - 05/1962
+SP  - 61
+KW  - School nursing
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 619
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.619
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Principles and standards for accrediting elementary and secondary schools and description of approved program grades 1-6
+Y1  - 1963
+D1  - 05/1963
+SP  - 259
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 617
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.617
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Suggestions for organizing and improving guidance programs in Texas schools
+Y1  - 1961
+D1  - 11/1961
+SP  - 36
+KW  - Educational counseling
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 616
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.616
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Principles and standards for accrediting elementary and secondary schools and description of approved courses grades 7-12
+Y1  - 1961
+D1  - 10/1961
+SP  - 298
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 615
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.615
+SC  - Texas
+ER  - 
+
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Freshman English course descriptions, Texas colleges and universities
+Y1  - 1964
+D1  - 1964
+SP  - 186
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 645
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.645
+SC  - Texas
+G1  - Universities and colleges
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Preschool instructional program for non-English speaking children
+Y1  - 1964
+D1  - 03/1964
+SP  - 132
+KW  - Bilingualism
+KW  - English language
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 642
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.642
+SC  - Texas
+G1  - PreK
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+A2  - Texas Association of Secondary School Principals.
+T1  - Handbook for secondary school principals
+Y1  - 1963
+D1  - 12/1963
+SP  - 134
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 639
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.639
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for local school officials
+Y1  - 1963
+D1  - 11/1963
+SP  - 159
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 638
+ED  - rev
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.638
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The visiting teacher
+Y1  - 1963
+D1  - 09/1963
+SP  - 24
+KW  - Visiting teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 634
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.634
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - College directory a guide to entrance requirements of Texas colleges and universities
+Y1  - 1963
+D1  - 1963
+SP  - 216
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 631
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.631
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - 1968 supplement to college directory a guide to entrance requirements of Texas colleges and universities
+Y1  - 1968
+D1  - 1968
+SP  - 279
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 668
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.668
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - College directory a guide to entrance requirements of Texas colleges and universities
+Y1  - 1964
+D1  - 1964
+SP  - 219
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 646
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.646
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - 1965 supplement college directory a guide to entrance requirements of Texas colleges and universities
+Y1  - 1965
+D1  - 1965
+SP  - 47
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 646
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.646
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for elementary school principals
+Y1  - 1962
+D1  - 1962
+SP  - 125
+KW  - Elementary school principals
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 125
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.125
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Suggestions for planning the secondary school physical education program
+Y1  - 1963
+D1  - 03/1963
+SP  - 156
+KW  - Physical education and training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 625
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.625
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Federal aid to education in Texas as administered by the Texas Education Agency
+Y1  - 1962
+D1  - 07/1962
+SP  - 35
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 622
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.622
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - What do we know about foreign language instruction?
+Y1  - 1962
+D1  - 12/1962
+SP  - 108
+KW  - Modern languages
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 621
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.621
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Consumer credit education for Texans : a handbook for high school teachers
+Y1  - 1970
+D1  - 1970
+SP  - 80
+KW  - Consumer credit
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 683
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.683
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The school counselor at work
+Y1  - 1968
+D1  - 02/1968
+SP  - 20
+KW  - Educational counseling
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 675
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.675
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for local school officials
+Y1  - 1967
+D1  - 1967
+SP  - 190
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 671
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.671
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Catalog of tapes for teaching
+Y1  - 1969
+D1  - 1969
+SP  - 143
+KW  - Audiotapes
+KW  - Video tapes
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 665
+ED  - rev
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.665
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The school library program and instructional resources 1965-66 standards and guidelines for Texas schools
+Y1  - 1965
+D1  - 09/1965
+SP  - 34
+KW  - School libraries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 659
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.659
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A guide to the teaching of conservation in science and social studies for the elementary and secondary schools of Texas
+Y1  - 1964
+D1  - 1964
+SP  - 155
+KW  - Natural resources
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 653
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.653
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Standards for teacher education in Texas
+Y1  - 1964
+D1  - 1964
+SP  - 64
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 651
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.651
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Handbook for school bus drivers
+Y1  - 1964
+D1  - 1964
+SP  - 43
+KW  - Bus drivers
+KW  - School children
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 649
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.649
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Guide for public schools in planning programs of occupational education for in-school students
+Y1  - 1975
+D1  - 04/1975
+SP  - 29
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 754
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.754
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Guidelines for school personnel: certifications, allocations, and records
+Y1  - 1975
+D1  - 1975
+SP  - 243
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 753
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.753
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - School district data submission to the Texas Education Agency
+Y1  - 1974
+D1  - 08/1974
+KW  - School districts
+KW  - Educational statistics
+N1  - 309 pages in various pagings : forms ; 28 cm; Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 742
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.742
+SC  - Texas
+ER  -  
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Administrative guide and handbook for special education
+Y1  - 1971
+D1  - 03/1971
+SP  - 73
+KW  - Children with disabilities
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 711
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.711
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Administrative guide and handbook for special education
+Y1  - 1973
+D1  - 03/1973
+SP  - 72
+KW  - Children with disabilities
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 711
+ED  - rev
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.711 rev
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Planning a safe and effective learning environment for science
+Y1  - 1971
+D1  - 1971
+SP  - 58
+KW  - Science
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 718
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2b no.718
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Commission on Higher Education
+T1  - An analysis of faculty salaries in the public senior colleges and universities of Texas, nine months 1964-65
+Y1  - 1965
+D1  - 02/1965
+SP  - 82
+KW  - College teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Commission on Higher Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1965
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Commission on Higher Education
+T1  - Public higher education in Texas, 1961-1971
+Y1  - 1963
+D1  - 03/1963
+SP  - 99
+KW  - Universities and colleges
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Commission on Higher Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1963
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Allen, J. Stewart
+A2  - Texas Commission on Higher Education
+T1  - Legal education in Texas
+Y1  - 1964
+D1  - 10/1964
+SP  - 57
+KW  - Law
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Commission on Higher Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Commission on Higher Education
+T1  - Survey of scope of courses, course credit hours catalogues and offered at the state-supported colleges and universities
+Y1  - 1964
+D1  - 01/1964
+SP  - 25
+KW  - Public universities and colleges
+KW  - State universities and colleges
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Commission on Higher Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1964
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Commission on Higher Education
+T1  - College enrollment projections in Texas
+Y1  - 1965
+D1  - 03/1965
+SP  - 20
+KW  - College attendance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Commission on Higher Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1965
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Institutions of Higher education in Texas, 1971-72
+Y1  - 1972
+D1  - 03/1972
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1972
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Institutions of Higher education in Texas, 1972-73
+Y1  - 1973
+D1  - 03/1973
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1973
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - A proposal for the development of medical education in Texas, 1969-1980
+Y1  - 1968
+D1  - 12/1968
+SP  - 76
+KW  - Medical Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board policy paper
+V1  - 5
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1968
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Dental education in Texas
+Y1  - 1968
+D1  - 12/1968
+SP  - 51
+KW  - Dentistry
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board policy paper
+V1  - 6
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1968
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Tuition and fees in Texas public colleges and universities
+Y1  - 1969
+D1  - 02/1969
+SP  - 36
+KW  - Universities and colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board policy paper
+V1  - 7
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1969
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Tuition and fees in Texas public colleges and universities
+Y1  - 1970
+D1  - 01/1970
+SP  - 49
+KW  - Universities and colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board policy paper
+V1  - 7
+ED  - rev
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1970
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Pluralism and partnership the case for the dual system of higher education
+Y1  - 1968
+D1  - 09/1968
+SP  - 89
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board study paper
+V1  - 6
+PB  - Coordinating Board Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1968
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Financial considerations for planning for higher education in the next decade
+Y1  - 1969
+D1  - 02/1969
+SP  - 15
+KW  - Universities and colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board policy paper
+V1  - 8
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1969
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Designation of formulas, for use of the Governor and Legislative Budget Board in making appropriate recommendations to the Sixty-Second Legislature and for use of the public institutions of higher education in making appropriation requests for the l97l-73 biennium
+Y1  - 1970
+D1  - 02/1970
+SP  - 183
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board policy paper
+V1  - 9
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1970
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Facilities inventory; summary report, Texas colleges and universities
+Y1  - 1969
+D1  - 1969
+SP  - 36
+KW  - College  buildings
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board study paper
+V1  - 9
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1969
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Perrine, Richard H
+A2  - Coordinating Board, Texas college and university system
+T1  - Library space survey of Texas colleges and universities
+Y1  - 1970
+D1  - 1970
+SP  - 60
+KW  - Academic libraries
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board study paper
+V1  - 10
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1970
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Higher education for the Texas agricultural industry; a report of the statewide Committee on Higher Education in the Agricultural Sciences
+Y1  - 1970
+D1  - 04/1970
+SP  - 36
+KW  - Agricultural education
+KW  - Agricultural colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board study paper
+V1  - 11
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1970
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Woolf, J.R
+A2  - Coordinating Board, Texas college and university system
+T1  - Space factors and space utilization values for use in meeting the facilities needs of Texas colleges and universities
+Y1  - 1971
+D1  - 07/1971
+SP  - 49
+KW  - Campus planning
+KW  - Classroom utilization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board study paper
+V1  - 12
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1971
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - The critical role of organized research in Texas higher education
+Y1  - 1972
+D1  - 1972
+KW  - Research
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Coordinating Board study paper
+V1  - 13
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1972
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Interim report on the status of campus master planning in Texas
+Y1  - 1967
+D1  - 01/1967
+SP  - 5
+KW  - Campus planning
+KW  - College facilities
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1967
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Challenge for excellence; a blueprint for progress in higher education
+Y1  - 1969
+D1  - 01/1969
+SP  - 40
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1969
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Pease, Sherman
+A2  - Coordinating Board, Texas college and university system
+T1  - Permanent partnership; continuing education : the lifelong association of adult Texans and their colleges and universities. A study for the Coordinating Board, Texas College and University System
+Y1  - 1969
+D1  - 1969
+SP  - 56
+KW  - Continuing education
+KW  - University extension
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1969
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Academic degree programs inventory
+Y1  - 1971
+D1  - 03/1971
+SP  - 186
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1971
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Academic degree programs inventory
+Y1  - 1972
+D1  - 03/1972
+SP  - 193
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1972
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - The 1972 Texas Conference on College and Universities management and planning
+Y1  - 1972
+D1  - 05/1972
+SP  - 65
+KW  - Universities and colleges
+KW  - College facilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1972
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Upper-level institutions: a report to the Texas legislature
+Y1  - 1972
+D1  - 04/1972
+SP  - 21
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1972
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Formulas designated by coordinating board for the public senior colleges and universities 1973-75 Biennium
+Y1  - 1972
+D1  - 01/1972
+KW  - Universities and colleges
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Definitions of the elements of institutional costs
+Y1  - 1972
+D1  - 1972
+SP  - 8
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Postsecondary educational supply and occupational demand in Texas for the period of 1977-1983
+Y1  - 1978
+D1  - 03/1978
+SP  - 119
+KW  - Employment forecasting
+KW  - College graduates
+KW  - Vocational guidance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1978
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - A preliminary report
+Y1  - 1977
+D1  - 05/1977
+SP  - 59
+KW  - College graduates
+KW  - Job vacancies
+N1  - Cover title./ At head of title: Texas postsecondary educational supply and demand information system./ "Information ... valid until September 1, 1978."; Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1977
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Texas higher education building quality survey
+Y1  - 1974
+D1  - 04/1974
+KW  - College facilities
+KW  - College buildings
+N1  - 139 leaves in various foliations; Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1974
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Texas higher education, 1968-1980 : a report to the 64th Texas Legislature, January, 1975
+Y1  - 1975
+D1  - 01/1975
+SP  - 152
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1975
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Educational data reporting system for senior colleges and universities
+Y1  - 1975
+D1  - 10/1975
+SP  - 62
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1975
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Educational data reporting system for public community colleges
+Y1  - 1975
+D1  - 07/1975
+SP  - 44
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1975
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Academic degree programs inventory: public and private senior colleges and universities of Texas
+Y1  - 1973
+D1  - 09/1973
+SP  - 229
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1973
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Academic degree programs inventory: public and private senior colleges and universities of Texas
+Y1  - 1976
+D1  - 05/1976
+SP  - 246
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1976
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Financial aid for Texas students
+Y1  - 1976
+D1  - 06/1976
+SP  - 18
+KW  - Student aid
+KW  - Student loans
+KW  - Student financial aid administration
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1976
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Coordinating Board, Texas college and university system
+T1  - Rules and regulations for determining residence status and for determining tuition rates for foreign students
+Y1  - 1975
+D1  - 10/1975
+SP  - 16
+KW  - College costs
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Coordinating Board, Texas college and university system
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2c 1975
+SC  - Texas
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Texas. Governor's Committee on Public School Education
+T1  - To make Texas a national leader in public education: the challenge and the chance; research report
+Y1  - 1969
+D1  - 1969
+KW  - Education
+N1  - v. 1. Public education in Texas--perspective, context, and goals.--v. 2. Public education in Texas--program evaluation.--v. 3. Public education in Texas--staffing the system ; Shelved in Cubberley Library Reading Room
+PB  - Texas Governor's Committee on Public School Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2g 1969
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Teacher Retirement System of Texas
+T1  - Handbook discussing the principal points of the Teacher Retirement System of Texas
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Teacher Retirement System of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Teacher Retirement System of Texas
+T1  - Annual statement, fiscal year ended August 31, 1963
+Y1  - 1963
+D1  - 08/1963
+SP  - 24
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Teacher Retirement System of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1963
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Texas Education Agency. Division of Professional Standards
+T1  - Toward professional competence for teachers : a guide to study
+Y1  - 1950
+D1  - 11/1950
+SP  - 62
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1950
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Teachers Association
+T1  - Minutes of the Texas State Teachers Association : eleventh annual session, Galveston, June 25, 26, 27, 1890
+Y1  - 1890
+D1  - 1890
+SP  - 80
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Teachers Association
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1890
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Blanton, Annie Webb
+A2  - Texas State Department of Education
+T1  - Report on education in Texas and recommendations made to the governor and the thirty-seventh Legislature
+Y1  - 1921
+D1  - 01/1921
+SP  - 60
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Department of Education
+CY  - Austin
+LA  - English
+CN  - 379.74 .T2m 1921
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Board of Regents of the Texas State Teachers Colleges
+T1  - Biennial report of the Board of Regents of the Texas State Teachers Colleges for the years ending ..
+Y1  - 1947
+D1  - 06/1947
+KW  - Teachers colleges
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Board of Regents of the Texas State Teachers Colleges
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1945-46
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Committee of Ten
+A2  - Southwestern Cooperative Program in Educational Administration
+T1  - A tentative handbook for Texas school board members
+Y1  - 1952
+D1  - 05/1952
+SP  - 64
+KW  - School boards
+N1  - viii; Other Titles: Handbook for Texas school board members.; Responsibility: compiled under the direction of the Texas Committee of Ten in collaboration with the Southwestern Cooperative Program in Educational Administration.; Shelved in Cubberley Library Reading Room
+PB  - Texas Committee of Ten
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1952
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Recommendations for legislative consideration on public education in Texas
+Y1  - 1957
+D1  - 01/1957
+SP  - 21
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1957
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas. Hale-Aikin Committee of Twenty-four for study of Texas public schools
+T1  - Tentative draft of the final report
+Y1  - 1958
+D1  - 11/1958
+SP  - 37
+KW  - Educational surveys
+N1  - Other Titles: Guide for the study of Texas public schools, 1958.; Responsibility: the Hale-Aikin Committee of Twenty-four for the Study of Texas Public Schools.; Shelved in Cubberley Library Reading Room
+PB  - Hale-Aikin Committee of Twenty-four for study of Texas public schools
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1958
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Board of Education
+A1  - Texas State Board for Vocational Education
+T1  - Tenth biennial report of the State Board of Education, 1946-1948
+Y1  - 1948
+D1  - 12/1948
+SP  - 48
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Board of Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1948
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - School Administrators Advisory Conference on Education
+A2  - Texas Education Agency
+T1  - Proceedings
+D1  - 1955?
+SP  - 47
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+LA  - English
+CN  - 379.74 .T2m 1954-55
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Teacher Retirement System of Texas
+T1  - Rules and regulations of the Board of Trustees
+Y1  - 1963
+D1  - 12/1963
+SP  - 38
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+ED  - rev
+PB  - Teacher Retirement System of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1963
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Department of Public Welfare
+T1  - Texas children : report of Governor's Committee 1960 White House Conference on Children and Youth
+Y1  - 1960
+D1  - 02/1960
+SP  - 60
+KW  - School finance
+KW  - Youth
+KW  - Public health
+KW  - Medical care
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Department of Public Welfare
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1960
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Governor's Committee on Education Beyond the High School
+T1  - Education: Texas' resource for tomorrow
+Y1  - 1964
+D1  - 08/1964
+SP  - 64
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Governor's Committee on Education Beyond the High School
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1964
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas National Guard Academy
+T1  - Information & regulations
+Y1  - 1964
+D1  - 02/1964
+SP  - 18
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas National Guard Academy
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1964
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The public junior colleges of Texas, a general report for the academic year 1962-1963
+Y1  - 1964
+D1  - 02/1964
+SP  - 59
+KW  - Junior colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1964
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Toward comprehensive educational planning in Texas
+D1  - 1967?
+SP  - 75
+KW  - Educational planning
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1967
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Committee on State and Local Tax Policy
+T1  - State-local financing of public schools
+Y1  - 1965
+D1  - 01/1965
+SP  - 11
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Committee on State and Local Tax Policy
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1965
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Legislature. Speaker's Symposium on Language Disabilities
+T1  - Proceedings of Speaker's Symposium on Language Disabilities
+D1  - 1966?
+SP  - 48
+KW  - Children with disabilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Legislature
+LA  - English
+CN  - 379.74 .T2m 1966
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Committee on Faculty Compensation in State-Supported Colleges and Universities
+T1  - Education: the Texas fringe :report of the Committee on Faculty Compensation in State-Supported Colleges and Universities
+Y1  - 1968
+D1  - 11/1968
+SP  - 15
+KW  - College teachers
+N1  - Cover title./ "Report to the Sixty-First Legislature."; Shelved in Cubberley Library Reading Room
+ED  - rev
+PB  - Texas Committee on Faculty Compensation in State-Supported Colleges and Universities
+LA  - English
+CN  - 379.74 .T2m 1968
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Committee on Faculty Compensation in State-Supported Colleges and Universities
+T1  - Education: the Texas fringe :report of the Committee on Faculty Compensation in State-Supported Colleges and Universities
+Y1  - 1967
+D1  - 01/1967
+SP  - 15
+KW  - College teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Committee on Faculty Compensation in State-Supported Colleges and Universities
+LA  - English
+CN  - 379.74 .T2m 1967
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - University of Texas at Austin. Lyndon B. Johnson School of Public Affairs
+T1  - Post-secondary planning in Texas : techniques for policy analyses : a report /
+Y1  - 1975
+D1  - 1975
+SP  - 83
+KW  - Educational planning
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Lyndon B. Johnson School of Public Affairs policy research project report
+V1  - 8
+PB  - University of Texas at Austin
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1975
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - University of Texas at Austin. Lyndon B. Johnson School of Public Affairs
+T1  - Texas atlas of higher education
+Y1  - 1974
+D1  - 1974
+SP  - 193
+KW  - College attendance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of Texas at Austin
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Committee on State and Local Tax Policy
+T1  - Public school finance and tax policy in Texas : a staff report to the Texas Committee on State and Local Tax Policy
+Y1  - 1964
+D1  - 07/1964
+SP  - 55
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Committee on State and Local Tax Policy
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1964
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas public school finance plan, implementation of House Bill 1126, 64th legislature, explanations and interpretations
+Y1  - 1975
+D1  - 07/1975
+SP  - 30
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Priorities of the State Board of Education
+Y1  - 1975
+D1  - 08/1975
+SP  - 15
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1975
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Priorities of the State Board of Education
+Y1  - 1977
+D1  - 01/1977
+SP  - 40
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A review of inservice education in Texas
+D1  - 1975
+SP  - 60
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m1975
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - State of Texas school district atlas
+D1  - 1975
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1975
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - School finance, the next two years
+Y1  - 1976
+D1  - 01/1976
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Promises in education a conference report
+Y1  - 1977
+D1  - 1977
+SP  - 95
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas. Office of the Governor. Education resources
+T1  - Public school finance study: a preliminary report of findings and recommendations
+Y1  - 1976
+D1  - 11/1976
+SP  - 174
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas. Office of the Governor. Education resources
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas. Office of the Governor. Education resources
+T1  - Public school finance study: a report of findings and recommendations
+Y1  - 1977
+D1  - 02/1977
+SP  - 172
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas. Office of the Governor. Education resources
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - State plan for career education and incremental quality improvement guide for local school districts
+Y1  - 1976
+D1  - 1976
+SP  - 37
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Report of assessment in career education
+Y1  - 1976
+D1  - 1976
+SP  - 95
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency. Division of Assessment and Evaluation
+T1  - A student needs assessment
+Y1  - 1976
+D1  - 09/1976
+SP  - 26
+KW  - Vocational education
+KW  - Educational tests and measurements
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - New school programs that work: Texas validated projects
+Y1  - 1976
+D1  - 05/1976
+SP  - 18
+KW  - Educational innovations
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Public school transportation
+Y1  - 1976
+D1  - 1976
+SP  - 68
+KW  - School children
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Texas Education Agency bulletin
+V1  - 611
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas Education Agency
+Y1  - 1977
+D1  - 1977
+SP  - 37
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - The Advisory Council for Technical-Vocational Education in Texas
+Y1  - 1970
+D1  - 05/1970
+SP  - 38
+KW  - Vocational education
+KW  - Technical education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1970
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Guidelines for school personnel: certification, allocations, and records
+D1  - 1977
+SP  - 225
+KW  - School employees
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A listing of active publications: as of September 1, 1977
+Y1  - 1977
+D1  - 09/1977
+SP  - 84
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - 1978-1979 information guide and directory : occupational-technical programs in post-secondary institutions in Texas
+Y1  - 1979
+D1  - 1979
+SP  - 66
+KW  - Adult education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1978-79
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Legislature. Senate Committee on Vocational-Technical Education
+T1  - To bridge the gap: report of the Senate Committee on Vocational-Technical Education
+Y1  - 1969
+D1  - 01/1969
+SP  - 38
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Legislature. Senate Committee on Vocational-Technical Education
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1969
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - A report of the Governor's Conference on Vocational-Technical Education in Texas
+Y1  - 1970
+D1  - 03/1970
+SP  - 115
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1970
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - First annual report, Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1970
+D1  - 09/1970
+SP  - 50
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1970
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - A redirected education system - second annual report to the Honorable Preston Smith, Governor of Texas, by the Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1971
+D1  - 04/1971
+SP  - 34
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1971
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - A redirected education system - third annual report, Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1972
+D1  - 10/1972
+SP  - 88
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - A redirected education system - Education for work to better serve the needs of individuals and society,  fifth annual report of the Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1974
+D1  - 11/1974
+SP  - 98
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - 1972 Community Conference Report, Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1972
+D1  - 07/1972
+SP  - 148
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Summary of the first annual report of the Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1970
+D1  - 09/1970
+SP  - 11
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1970
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - An occupational training study as requested by S.R. 865, Sixty-first Legislature
+Y1  - 1971
+D1  - 03/1971
+SP  - 31
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1971
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Paycheck education; a report on Technical-Vocational Education
+D1  - 1970
+SP  - 16
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1970
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas state plan for vocational education
+Y1  - 1972
+D1  - 11/1972
+SP  - 233
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas state plan for vocational education appendix
+Y1  - 1972
+D1  - 11/1972
+SP  - 190
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas state plan for vocational education under the vocational education amendments of 1968 and part F of the higher education act of 1965, for the fiscal year beginning July 1 1976 and ending June 30 1977 with projections to June 30, 1980
+Y1  - 1976
+D1  - 06/1976
+SP  - 496
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas state plan for vocational education under the vocational education amendments of 1968 and part F of the higher education act of 1965, for the fiscal year beginning July 1 1974 and ending June 30 1975 with projections to June 30, 1979
+Y1  - 1974
+D1  - 04/1974
+SP  - 489
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1974
+SC  - Texas
+ER  -
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Stimulating a commitment to a redirected education system - third annual report to the Honorable Preston Smith, Governor of Texas, by the Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1972
+D1  - 04/1972
+SP  - 27
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Education for living and making a living- fourth annual report to the Governor of Texas, the Honorable Dolph Briscoe, by the Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1973
+D1  - 04/1973
+SP  - 29
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1973
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Education for living and making a living, Proceedings: 1974 community conferences
+Y1  - 1974
+D1  - 06/1974
+SP  - 140
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Education for living and making a living, community conference handbook
+Y1  - 1974
+D1  - 1974
+SP  - 36
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Technical-Vocational Education in Texas to 1980, sixth annual report to the Governor of Texas, the Honorable Dolph Briscoe, by the Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1975
+D1  - 04/1975
+SP  - 40
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1975
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - A redirected education system, education for living and making a living- fourth annual report of the Advisory Council for Vocational-Technical Education in Texas
+Y1  - 1973
+D1  - 11/1973
+SP  - 106
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1973
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Education for living and making a living, a report of the Governor's Conference on Technical-Vocational Education
+Y1  - 1973
+D1  - 02/1973
+SP  - 89
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1973
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Proceedings, state forum on technical-Vocational Education in Texas to 1980
+Y1  - 1975
+D1  - 07/1975
+SP  - 84
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1975
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Focus on the future, Sixth annual report of the Advisory Council for Technical-Vocational Education in Texas
+Y1  - 1975
+D1  - 10/1975
+SP  - 99
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1975
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Impact conference study guide
+Y1  - 1975
+D1  - 12/1975
+SP  - 75
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1975
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Vocational education: impact '76, seventh annual report to the governor of Texas, the Honorable Dolph Briscoe by the Advisory Council for Technical-Vocational Education in Texas
+Y1  - 1976
+D1  - 05/1976
+SP  - 28
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Vocational education: its impact on local communities, proceedings:1976 impact conferences
+Y1  - 1976
+D1  - 06/1976
+SP  - 195
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Fourth biennial report of the Advisory Council for Technical-Vocational Education in Texas
+Y1  - 1976
+D1  - 12/1976
+SP  - 35
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Vocational education, gateway to the future, seventh annual report of the Advisory Council for Technical-Vocational Education in Texas
+Y1  - 1976
+D1  - 10/1976
+SP  - 104
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Vocational education, gateway to the future, a report of the governors’ conference on Technical-Vocational Education
+Y1  - 1977
+D1  - 02/1977
+SP  - 76
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Vocational education, who's listening?, eighth annual report of the Advisory Council for Technical-Vocational Education in Texas
+Y1  - 1977
+D1  - 10/1977
+SP  - 46
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1977
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Vocational education, the people speak, ninth annual report of the Advisory Council for Technical-Vocational Education in Texas
+Y1  - 1978
+D1  - 12/1978
+SP  - 35
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1978
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - The people speak, joint report to the governor and members of the legislature
+Y1  - 1978
+D1  - 12/1978
+SP  - 67
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1978
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Advisory Council for Technical-Vocational Education in Texas
+T1  - Learning by vocations, views on vocational education by former high school students after five years of real-life experiences: : summary of a survey conducted by the Advisory Council for Technical/Vocational Education in Texas
+Y1  - 1978
+D1  - 10/1978
+SP  - 58
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Advisory Council for Technical-Vocational Education in Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2tv 1978
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Department of Community Affairs. Office of Early Childhood Development
+T1  - Early childhood development in Texas : 1973-74
+Y1  - 1973
+D1  - 12/1973
+SP  - 159
+KW  - Child welfare
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Department of Community Affairs Office of Early Childhood Development
+CY  - Austin, TX
+LA  - English
+CN  - 379.74.T2m 1973-74
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Department of Community Affairs. Office of Early Childhood Development
+T1  - Early childhood development in Texas : 1972
+Y1  - 1972
+D1  - 12/1972
+SP  - 134
+KW  - Child welfare
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Department of Community Affairs Office of Early Childhood Development
+CY  - Austin, TX
+LA  - English
+CN  - 379.74.T2m 1972
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - School plant guide for the school custodial program
+Y1  - 1973
+D1  - 1973
+SP  - 52
+KW  - School buildings
+KW  - School custodians
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74.T2m 1973
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The legal aspects of drug abuse and juvenile delinquency for the Texas Public Schools
+Y1  - 1973
+D1  - 1973
+SP  - 40
+KW  - Drug abuse
+KW  - Juvenile delinquency
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74.T2m 1973
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Going to call a bond election? some techniques in promoting school bond elections
+Y1  - 1973
+D1  - 1973
+SP  - 101
+KW  - School bonds
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74.T2m 1973
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Recommendations for legislative consideration on public education in Texas
+Y1  - 1972
+D1  - 11/1972
+SP  - 21
+KW  - Educational law and legislation
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Recommendations for legislative consideration on public education in Texas submitted to the Governor and the sixty-fourth legislature
+Y1  - 1974
+D1  - 11/1974
+SP  - 26
+KW  - Educational law and legislation
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Recommendations for legislative consideration on public education in Texas submitted to the Governor and the sixty-fifth legislature
+Y1  - 1976
+D1  - 11/1976
+SP  - 14
+KW  - Educational law and legislation
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A supplement to recommendations for legislative consideration on public education in Texas :public school organization
+Y1  - 1974
+D1  - 11/1974
+SP  - 8
+KW  - Educational law and legislation
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A supplement to recommendations for legislative consideration on public education in Texas :public school finance plan
+Y1  - 1974
+D1  - 11/1974
+SP  - 21
+KW  - Educational law and legislation
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A special supplement to recommendations for legislative consideration on public education in Texas :public school finance plan
+Y1  - 1976
+D1  - 11/1976
+SP  - 8
+KW  - Educational law and legislation
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - A supplement to recommendations for legislative consideration on public education in Texas : school district organization
+Y1  - 1973
+D1  - 02/1973
+SP  - 5
+KW  - Educational law and legislation
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1973
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Legislature. Texas State Interim Committee on Public Junior Colleges
+T1  - The open door, or the revolving door: which way, Texas? Report of the Texas State Interim Committee on Public Junior Colleges
+Y1  - 1973
+D1  - 01/1973
+SP  - 35
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Legislature
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1973
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - The legal aspects of drug abuse and juvenile delinquency for the Texas public schools
+Y1  - 1972
+D1  - 06/1972
+SP  - 47
+KW  - Drug abuse
+KW  - Juvenile delinquency
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Texas sampler of programs for the educationally disadvantaged
+Y1  - 1972
+D1  - 1972
+SP  - 32
+KW  - Children with social disabilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas School for the Blind
+T1  - Annual report of Texas School for the Blind one hundred and sixteenth, 1971-1972
+Y1  - 1972
+D1  - 11/1972
+SP  - 95
+KW  - Blind
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas School for the Blind
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1972
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Advisory Commission on Intergovernmental Relations
+T1  - A revenue system for Texas public schools : recommendations of the Texas Advisory Commission on Intergovernmental Relations
+Y1  - 1974
+D1  - 11/1974
+SP  - 27
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Advisory Commission on Intergovernmental Relations
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Rehabilitation Commission. Division of Vocational Rehabilitation
+T1  - Comprehensive statewide plan for the state schools
+D1  - 1971?
+SP  - 114
+KW  - People with mental disabilities
+KW  - Vocational rehabilitation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Rehabilitation Commission. Division of Vocational Rehabilitation
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1971
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas State Legislature. Committee on Education
+T1  - The report of the Subcommittee on Foundations, the Committee on Education
+Y1  - 1974
+D1  - 11/1974
+SP  - 5
+KW  - Charitable uses, trusts, and foundations
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas State Legislature
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Estimates and projections for Texas public schools
+Y1  - 1974
+D1  - 05/1974
+SP  - 33
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Preston, George
+A2  - Texas. Interim Committee on the Study of Educational Programs for the Deaf and Visually Handicapped.
+T1  - Report of the Interim Committee on the Study of Educational Programs for the Deaf and Visually Handicapped to the Governor, the 64th Legislature, and the people of the State of Texas
+Y1  - 1974
+D1  - 11/1974
+KW  - Deaf
+KW  - Blind
+KW  - People with visual disabilities
+N1  - 145 pages in various pagings ; 29 cm; On cover/"have you seen or heard this report? Many cannot"; Shelved in Cubberley Library Reading Room
+PB  - Texas Interim Committee on the Study of Educational Programs for the Deaf and Visually Handicapped.
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Texas Education Agency
+T1  - Guidelines for the development of campus learning resources centers
+Y1  - 1974
+D1  - 08/1974
+SP  - 41
+KW  - School libraries
+KW  - Instructional materials centers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Texas Education Agency
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1974
+SC  - Texas
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Texas State Department of Public Welfare
+T1  - Texas day care
+KW  - Day care centers
+N1  - Cubberley has incomplete holdings for 1973-1975; Shelved in Cubberley Library Reading Room
+PB  - Texas State Department of Public Welfare
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T2m 1973-1975
+SC  - Texas
+ER  -
