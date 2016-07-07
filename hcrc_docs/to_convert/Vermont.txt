@@ -1,0 +1,197 @@
+
+TY  - BOOK
+A2  - Vermont. Special Commission on Permanent Common School Fund
+T1  - Report of the Special Commission on Permanent Common School Fund of Vermont
+Y1  - 1906
+D1  - 1906
+SP  - 40
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont. Special Commission on Permanent Common School Fund
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.74 .V1 1906
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - General laws of 1918 of the State of Vermont relating to the Department of Education with amendments to 1929
+Y1  - 1929
+D1  - 1929
+SP  - 82
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont State Department of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.74 .V1 1929
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Board of Education
+T1  - List of professional books for teachers
+Y1  - 1933
+D1  - 1933
+SP  - 35
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont State Board of Education
+LA  - English
+CN  - 379.74 .V1 1933
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Governor William H. Wills' Post-war Planning Committee for Vermont's Colleges and Junior Colleges
+T1  - Report of Governor William H. Wills' Post-war Planning Committee for Vermont's Colleges and Junior Colleges.
+Y1  - 1944
+D1  - 1944
+SP  - 12
+KW  - Universities and colleges
+N1  - On cover: Post-war planning for Vermont's colleges and junior colleges.; Shelved in Cubberley Library Reading Room
+PB  - Governor William H. Wills' Post-war Planning Committee for Vermont's Colleges and Junior Colleges
+LA  - English
+CN  - 379.74 .V1 1944
+SC  - Vermont
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Vermont. Committee on Higher Education of Vermont Youth
+T1  - Report of the Committee for the Study of Factors involved in the Higher Education of Vermont Youth to the General Assembly of 1953, Pursuant to Joint Resolution no. 367 of the Acts of 1951
+D1  - 1953?
+SP  - 64
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont. Committee on Higher Education of Vermont Youth
+LA  - English
+CN  - 379.74 .V1 1953
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - State Teachers' Retirement System of Vermont
+T1  - General information and Vermont Statutes
+Y1  - 1947
+D1  - 1947
+SP  - 28
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - State Teachers' Retirement System of Vermont
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.74 .V1 1947
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - State Teachers' Retirement System of Vermont
+T1  - Handbook of general information and Vermont Statutes
+Y1  - 1955
+D1  - 1955
+SP  - 35
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - State Teachers' Retirement System of Vermont
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.74 .V1 1955
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - Building better schools for Vermont : a guide to state and local responsibilities under Chapter 256 of the Acts of 1953
+Y1  - 1954
+D1  - 12/1954
+KW  - School buildings
+N1  - Pages in various pagings : plans ; 28 cm; Shelved in Cubberley Library Reading Room
+PB  - Vermont State Department of Education
+LA  - English
+CN  - 379.74 .V1 1955
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont. Commission on Educational Television
+T1  - Report of the Commission on Educational Television to the Governor and the 1955 General Assembly pursuant to provisions of JRS 21 of the acts of 1953
+D1  - 1955?
+SP  - 21
+KW  - Television in education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont. Commission on Educational Television
+LA  - English
+CN  - 379.74 .V1 1953
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont. Commission on Educational Television
+T1  - Report of the Vermont Commission on Educational Television
+Y1  - 1962
+D1  - 12/1962
+SP  - 22
+KW  - Television in education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont. Commission on Educational Television
+LA  - English
+CN  - 379.74 .V1 1962
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont. Governor's Committee on Children and Youth
+T1  - First annual report Vermont, Governor's Committee on Children and Youth
+Y1  - 1963
+D1  - 1963
+SP  - 55
+KW  - Children
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont. Governor's Committee on Children and Youth
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.74 .V1 1963
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - Financial statistics of Vermont school systems 1963-1964
+D1  - 1964?
+SP  - 71
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont State Department of Education
+LA  - English
+CN  - 379.74 .V1 1963-64
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - Financial statistics, Vermont school systems 1967-1968
+Y1  - 1969
+D1  - 1969
+SP  - 71
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont State Department of Education
+LA  - English
+CN  - 379.74 .V1 1973-68
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont General Assembly. Joint Committee on Educational Finance and Taxation
+T1  - Final report
+Y1  - 1973
+D1  - 09/1973
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Vermont General Assembly. Joint Committee on Educational Finance and Taxation
+LA  - English
+CN  - 379.74 .V1 1973
+SC  - Vermont
+ER  -
