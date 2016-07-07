@@ -1,0 +1,586 @@
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - Requirements for certification of superintendents, supervisors, teachers, school librarians, and coordinators
+Y1  - 1936
+D1  - 05/1936
+KW  - Teachers
+KW  - School superintendents
+KW  - School principals
+KW  - Librarians
+N1  - 23 pages 15 cm; Responsibility: Department of public instruction, Charles H. Skidmore, supt. ...; Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1936
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - High school circular
+Y1  - 1911
+D1  - 1911
+SP  - 102
+KW  - High schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1911
+SC  - Utah
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - The 1937 supplement to the official list of school text books
+Y1  - 1937
+D1  - 03/1937
+SP  - 12
+KW  - Textbooks
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1937
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - A preliminary report on school transportation
+Y1  - 1932
+D1  - 10/1932
+SP  - 34
+KW  - School children
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1932
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - The costs of transporting school children by vehicles in the Utah consolidated school districts
+D1  - 1932?
+SP  - 75
+KW  - School children
+N1  - 75 pages tables 23 cm; Responsibility: A.C. Lambert, Brigham Young University, C.N. Jensen, superintendent.; Shelved in Cubberley Library Reading Room
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1932
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - A study of transportation in the schools of Utah.
+Y1  - 1928
+D1  - 09/1928
+SP  - 57
+KW  - School children
+N1  - 57 pages : including forms, tables ; 23 cm; Responsibility: Pub. by the State department of public instruction. C.N. Jensen, superintendent.; Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake
+LA  - English
+CN  - 379.74 .U1 1928
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Report of the State High School Inspector for the year 1922-1923
+Y1  - 1923
+D1  - 08/1923
+SP  - 44
+KW  - High schools
+KW  - Secondary education
+N1  - 44 pages : illustrations, charts ; 22 cm; Note(s): Printer's device on title page./ State of Utah at head of title.; Responsibility: State of Utah; Shelved in Cubberley Library Reading Room
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1922/1923
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A1  - Winship, Albert E.
+T1  - Utah's educational leadership
+D1  - 1920?
+SP  - 9
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - International Harvester Co., Agricultural Extension Department
+CY  - Chicago IL
+LA  - English
+CN  - 379.74 .U1 1920
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A1  - Campbell,Roald F.
+A2  - Utah School Board Association
+T1  - Handbook for Utah school board members
+Y1  - 1946
+D1  - 1946
+SP  - 75
+KW  - School boards
+N1  - 75 pages ; 22 cm; Genre/Form: Handbooks and manuals.; Note(s): Includes bibliographical references.; Other Titles: Utah school board members; Responsibility: prepared by Roald F. Campbell. ; Shelved in Cubberley Library Reading Room
+PB  - Utah State School Board Association
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1946
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A1  - Carr, Duane S.
+A2  - Utah State Department of Public Instruction
+T1  - School enrollment and population, 1964-65
+Y1  - 1965
+D1  - 05/1965
+SP  - 16
+KW  - Education
+N1  - 16 pages illustrations, map 29 cm.; Genre/Form: Statistics.; Responsibility: Duane S. Carr, statistical analyst specialist.; Shelved in Cubberley Library Reading Room
+T2  - Utah State Board of Education research report
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1965
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah Coordinating Council of Higher Education
+T1  - Coordination of Utah higher education
+Y1  - 1963
+D1  - 1963
+SP  - 80
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah Coordinating Council of Higher Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1963
+SC  - Utah
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Utah Education Association
+T1  - Why they teach and quit, 1963-64
+Y1  - 1965
+D1  - 02/1965
+SP  - 48
+KW  - Teacher turnover
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Utah Education Association research bulletin
+V1  - 10
+IS  - 2
+PB  - Utah Education Association
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1965
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah Education Association
+T1  - Relative ability of Utah school districts to support public schools for the 1959-60 school year
+Y1  - 1960
+D1  - 02/1960
+SP  - 51
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Utah Education Association research bulletin
+V1  - 5
+IS  - 2
+PB  - Utah Education Association
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1960
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah Public School Survey Commission
+T1  - A survey of the Utah public elementary and secondary school system : an interim report to the Governor, Legislative Council and Legislature
+Y1  - 1953
+D1  - 02/1953
+SP  - 288
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah Public School Survey Commission
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1953
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah School Merit Study Committee
+T1  - Report of visits to selected school districts and institutions
+Y1  - 1956
+D1  - 05/1956
+SP  - 55
+KW  - Teachers
+N1  - 55 pages ; 28 cm; Note(s): Visits were conducted during May, 1956.; Responsibility: Utah School Merit Study Committee.; Shelved in Cubberley Library Reading Room
+PB  - Utah School Merit Study Committee
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1956
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+A2  - Utah State Board of Education
+T1  - Financial and statistical tables, 1958-59
+D1  - 1959?
+SP  - 39
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1958-59
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A1  - Rose, Gale
+A2  - Utah School Merit Study Commission
+T1  - Notes from Atlantic city meetings, February 1957
+Y1  - 1957
+D1  - 02/1957
+SP  - 36
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah School Merit Study Commission
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1957
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - An instrument for evaluation of elementary school practices in Utah
+Y1  - 1948
+D1  - 1948
+SP  - 23
+KW  - Elementary schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Department of Public Instruction
+LA  - English
+CN  - 379.74 .U1 1948
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A1  - McCarrey, Leon R.
+A1  - Kolber, Lawrence B.
+A2  - Utah Coordinating Council of Higher Education
+T1  - The importance of coordination in higher education
+Y1  - 1968
+D1  - 04/1968
+SP  - 130
+KW  - Higher education and state
+N1  - 130 pages ; 29 cm; Responsibility: Leon R. McCarrey and Lawrence B. Kolber.; Shelved in Cubberley Library Reading Room
+PB  - Utah Coordinating Council of Higher Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1968
+SC  - Utah
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Ossmen, Elvin H.
+A2  - Utah State Department of Public Instruction
+T1  - Salary schedule information; special report
+Y1  - 1969
+D1  - 09/1969
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1969
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - Comparative study of the 1967-68 professional salaries for eight Rocky Mountain states; research report
+D1  - 1968?
+SP  - 51
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1967-68
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A1  - Utah State Board of Education
+T1  - Comparative study of the 1969-70 professional salaries for eight Rocky Mountain states; research report
+D1  - 1970?
+SP  - 54
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1969-70
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A1  - Utah State Board of Education
+T1  - Preliminary comparative study of the 1969-70 professional salaries for eight Rocky Mountain states
+D1  - 1970?
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1969-70
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Building Board
+T1  - Ten year building program for state institutions : prepared for the Governor and the thirty-seventh legislature
+Y1  - 1967
+D1  - 01/1967
+SP  - 89
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1967
+SC  - Utah
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Utah State Advisory Council for Vocational and Technical Education
+T1  - Career education an idea whose time has come; 1971 annual report
+Y1  - 1972
+D1  - 04/1972
+SP  - 20
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Advisory Council for Vocational and Technical Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1971
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Advisory Council for Vocational and Technical Education
+T1  - But what about Utah's vital 80%?; 1970 annual report
+Y1  - 1971
+D1  - 01/1971
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Advisory Council for Vocational and Technical Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1970
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Factors that influence professional teaching
+Y1  - 1964
+D1  - 12/1964
+SP  - 3
+KW  - Teaching
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Educational research monograph
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1964
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Spelling improvements in the secondary schools
+Y1  - 1964
+D1  - 12/1964
+SP  - 2
+KW  - Spelling
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Educational research monograph
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1964
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Research seminars
+Y1  - 1964
+D1  - 12/1964
+SP  - 3
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Educational research monograph
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1964
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Survey of educators' opinions and attitudes
+Y1  - 1964
+D1  - 12/1964
+SP  - 4
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Educational research monograph
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - An investigation of teaching behavior and pupil thinking
+Y1  - 1964
+D1  - 12/1964
+SP  - 3
+KW  - Teaching
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Educational research monograph
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1964
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - Developing democratic citizenship values and behavior
+Y1  - 1964
+D1  - 12/1964
+SP  - 3
+KW  - Citizenship education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Educational research monograph
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1964
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - Professional personnel (full time equivalency) and average contracted salaries for Utah school districts 1969-70
+Y1  - 1969
+D1  - 12/1969
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1969-70
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - Ten year study of expenditures for public school districts of Utah, maintenance & operation fund 1960-61 to 1969-70
+Y1  - 1969
+D1  - 12/1969
+SP  - 144
+KW  - School finance
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1969-70
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - Utah salary schedules by district, 1969-70
+D1  - 1970?
+SP  - 62
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1969-70
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Governors' conference on education
+T1  - Governors' conference on education : November 30, 1965-December 1, 1965, Hotel Utah, Salt Lake City, Utah
+Y1  - 1965
+D1  - 1965
+SP  - 141
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Governors' conference on education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1965
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State Board of Education
+T1  - Utah public school district budgets, 1969-70 school year
+Y1  - 1970
+D1  - 01/1970
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.74 .U1 1969-70
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Utah State university
+T1  - Encouragement a language concept related to effective teaching, student guide
+Y1  - 1972
+D1  - 09/1972
+SP  - 45
+KW  - Teachers
+KW  - Classroom management
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Utah State Board of Education
+CY  - Logan, UT
+LA  - English
+CN  - 379.74 .U1 1972
+SC  - Utah
+ER  -
