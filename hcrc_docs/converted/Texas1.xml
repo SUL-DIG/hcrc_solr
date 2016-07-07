@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Manual and course of study for the public schools of Texas, 1915</field>
+<field name="year">1915</field>
+<field name="date">08/1915</field>
+<field name="pages">124</field>
+<field name="keywords">Curricula</field>
+<field name="notes">124 pages 23 cm.; Responsibility: W.F. Doughty, state superintendent of public instruction. Issued by the Department of education, state of Texas.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">46</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no. 46</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Some recent school legislation : four million dollar rural aid act ; an act authorizing prompt payment of teachers without discount ; an act authorizing equal pay for men and women teachers ; a resolution designating how the flag shall be displayed ; a resolution submitting a constitutional amendment to remove tax limit for school purposes</field>
+<field name="year">1919</field>
+<field name="date">03/1919</field>
+<field name="pages">9</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">99</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.99</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Texas high schools : classification and state aid</field>
+<field name="year">1916</field>
+<field name="date">09/1916</field>
+<field name="pages">119</field>
+<field name="keywords">Government aid to education</field>
+<field name="keywords">High school</field>
+<field name="notes">119 pages : illustrations ; 23 cm.; Note(s): "September 1, 1916."; Other Titles: Classification and state aid; Responsibility: Texas Dept. of Education.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">58</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.58</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Library and laboratory equipment for classified high schools</field>
+<field name="year">1916</field>
+<field name="date">07/1916</field>
+<field name="pages">82</field>
+<field name="keywords">Scientific equipment</field>
+<field name="keywords">School libraries</field>
+<field name="notes">82 pages ; 23 cm.; Note(s): "July 15, 1916."; Responsibility: Texas State Dept. of Education.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">55</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.55</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">The Certification of teachers in Texas</field>
+<field name="year">1915</field>
+<field name="date">06/1915</field>
+<field name="pages">34</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education Bulletin</field>
+<field name="series_vol">43</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.43</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Classification of public high schools : by the State Department of Education and complete list of high schools showing the class to which each belongs</field>
+<field name="year">1913</field>
+<field name="date">09/1913</field>
+<field name="pages">18</field>
+<field name="keywords">High school</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education Bulletin</field>
+<field name="series_vol">26</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.26</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Scholastic population and state apportionment available school fund, 1910-1911 : public school officers, local school tax rates in independent school districts, county permanent school funds</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="pages">48</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education Bulletin</field>
+<field name="series_vol">3</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.3</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">State Free Textbook law</field>
+<field name="year">1919</field>
+<field name="date">03/1919</field>
+<field name="pages">14</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="keywords">Textbooks</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">98</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.98</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Revised school laws of the state of Texas : with court decisions and comments for the use of school officers</field>
+<field name="year">1913</field>
+<field name="date">11/1913</field>
+<field name="pages">120</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">120 pages ; 23 cm.; Note(s): "November 15, 1913."/ Includes index.; Responsibility: Texas State Dept. of Education.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">28</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.28</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Statistical tables Texas public schools 1915-16</field>
+<field name="year">1917</field>
+<field name="date">09/1917</field>
+<field name="keywords">Education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">69</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.69</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Blanton, Annie Webb</field>
+<field name="author_nat">Annie Webb Blanton</field>
+<field name="author">Davis, C. L.</field>
+<field name="author_nat">C. L. Davis</field>
+<field name="author">Hinds, J. H.</field>
+<field name="author_nat">J. H. Hinds</field>
+<field name="author">Rutland, J. B.</field>
+<field name="author_nat">J. B. Rutland</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Project study outlines</field>
+<field name="year">1920</field>
+<field name="date">09/1920</field>
+<field name="pages">69</field>
+<field name="keywords">Project method in teaching</field>
+<field name="keywords">Agriculture</field>
+<field name="notes">69 pages 23 cm.; Responsibility: [by] Annie Webb Blanton ... C.L. Davis ... J.H. Hinds ... [and] J.B. Rutland ...; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">121</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.121</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Blanton, Annie Webb</field>
+<field name="author_nat">Annie Webb Blanton</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Rural school libraries</field>
+<field name="year">1920</field>
+<field name="date">08/1920</field>
+<field name="pages">27</field>
+<field name="keywords">Children's literature</field>
+<field name="keywords">Children</field>
+<field name="keywords">Rural school libraries</field>
+<field name="notes">27 pages 23 cm.; Genre/Form: Bibliography. Lists.; Note(s): "Lists of books suitable for use in the rural and small town schools of the state."; Responsibility: Annie Webb Blanton, state superintendent of public instruction ... Issued by the Department of education, state of Texas.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">120</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.120</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Approved books for rural school libraries</field>
+<field name="year">1923</field>
+<field name="date">08/1923</field>
+<field name="pages">33</field>
+<field name="keywords">Children's literature</field>
+<field name="keywords">Children</field>
+<field name="keywords">Rural school libraries</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">168</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.168</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Approved books for rural school libraries</field>
+<field name="year">1925</field>
+<field name="date">10/1925</field>
+<field name="pages">35</field>
+<field name="keywords">Children's literature</field>
+<field name="keywords">Children</field>
+<field name="keywords">Rural school libraries</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">198</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.198</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Texas high schools. Home economics</field>
+<field name="year">1920</field>
+<field name="date">04/1920</field>
+<field name="pages">122</field>
+<field name="keywords">Home economics</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">114</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.114</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Outline course of study : summer normals, 1920</field>
+<field name="year">1920</field>
+<field name="date">06/1920</field>
+<field name="pages">57</field>
+<field name="keywords">Teachers' institutes</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">118</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.118</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Examinations and certificates, 1920 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and list of summer normals with helpful suggestions</field>
+<field name="year">1920</field>
+<field name="date">04/1920</field>
+<field name="pages">15</field>
+<field name="keywords">Teachers</field>
+<field name="keywords">Examinations</field>
+<field name="notes">15 pages : illustrations ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, 116-133./ "April, 1920."/ With: Bulletin (Texas. State Dept. of Education) ; 116-133.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">117</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.117</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Examinations and certificates, 1921 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and list of summer normals with helpful suggestions</field>
+<field name="year">1921</field>
+<field name="date">02/1921</field>
+<field name="pages">19</field>
+<field name="keywords">Teachers</field>
+<field name="keywords">Examinations</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">128</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.128</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Examinations and certificates, 1923 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and list of summer normals with helpful suggestions</field>
+<field name="year">1923</field>
+<field name="date">05/1923</field>
+<field name="pages">30</field>
+<field name="keywords">Teachers</field>
+<field name="keywords">Examinations</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">160</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field><field name="call_number">379.74 .T2b no.160</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Texas high schools : history and the social sciences</field>
+<field name="year">1920</field>
+<field name="date">10/1920</field>
+<field name="pages">48</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">History</field>
+<field name="keywords">Social sciences</field>
+<field name="keywords">State or province government publication (sgp)</field>
+<field name="notes">48 pages, 2 folded leaves ; 23 cm.; Note(s): "October 15, 1920."/ Includes bibliographical references.; Other Titles: History and the social sciences; Responsibility: Texas Dept. of Education.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">124</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.124</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Texas high schools : hygiene and home nursing</field>
+<field name="year">1920</field>
+<field name="date">04/1920</field>
+<field name="pages">20</field>
+<field name="keywords">Curricula</field>
+<field name="keywords">Health education</field>
+<field name="notes">20 pages : illustrations ; 23 cm.; Note(s): Tx Doc no.: E500.7, B936, 98-115./ "April 12, 1920."/ With: Bulletin (Texas. State Dept. of Education) ; 98-115.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">115</field><field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b 115</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Harris, Jessie W.</field>
+<field name="author_nat">Jessie W. Harris</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Equipment for teaching home making in Texas high schools</field>
+<field name="year">1922</field>
+<field name="date">01/1922</field>
+<field name="pages">71</field>
+<field name="keywords">Home economics</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">140</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.140</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Home nursing</field>
+<field name="year">1921</field>
+<field name="date">11/1921</field>
+<field name="pages">20</field>
+<field name="keywords">Nurses</field>
+<field name="keywords">Nursing</field>
+<field name="notes">20 pages 23 cm.; Responsibility: Annie Webb Blanton, superintendent of public instruction. Jessie W. Harris, Lillian Peek, directors of home economics education ... The Department of education, state of Texas.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">138</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.138</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Home nursing for Texas high schools</field>
+<field name="year">1923</field>
+<field name="date">07/1923</field>
+<field name="pages">20</field>
+<field name="keywords">Nurses</field>
+<field name="keywords">Nursing</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">163</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.163</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Manual and course of study; elementary grades, public schools of Texas, 1919</field>
+<field name="year">1919</field>
+<field name="date">09/1919</field>
+<field name="pages">95</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education Bulletin</field>
+<field name="series_vol">105</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field><field name="language">English</field>
+<field name="call_number">379.74 .T2b no.105</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Manual and course of study; elementary grades, public schools of Texas, 1922-23</field>
+<field name="year">1922</field>
+<field name="date">09/1922</field>
+<field name="pages">137</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">152</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.152</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Manual and course of study; elementary grades, public schools of Texas, 1924-25</field>
+<field name="year">1924</field>
+<field name="date">09/1924</field>
+<field name="pages">144</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">184</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.184</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Text book regulations containing the laws governing the state text book commission, the state text book law, the rules for the care and distribution of books, and a list of the state adopted books</field>
+<field name="year">1922</field>
+<field name="date">02/1922</field>
+<field name="pages">33</field>
+<field name="keywords">Textbooks</field>
+<field name="notes">33 pages ; 23 cm.; Responsibility: Annie Webb Blanton, state superintendent of instruction.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">144</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.144</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Examinations and certificates, 1921-22 : outline of work, helpful notes on examinations, subjects prescribed by law, dates of examinations, schedules of subjects, and date of summer normals with helpful suggestions</field>
+<field name="year">1921</field>
+<field name="date">10/1921</field>
+<field name="pages">21</field>
+<field name="keywords">Examinations</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">135</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.135</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Girls' clothing contest : Texas high schools, plans for 1919-1920</field>
+<field name="year">1919</field>
+<field name="date">11/1919</field>
+<field name="pages">13</field>
+<field name="keywords">Clothing and dress</field>
+<field name="keywords">School contests</field>
+<field name="keywords">High school</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">109</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.109</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Girls' clothing contest : Texas high schools, part I contest plan, Part II shoes and heels</field>
+<field name="year">1923</field>
+<field name="date">09/1923</field>
+<field name="pages">50</field>
+<field name="keywords">Clothing and dress</field>
+<field name="keywords">School contests</field>
+<field name="keywords">High school</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">170</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.170</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Girls' clothing contest : Texas high schools, plans for 1920-1922</field>
+<field name="year">1921</field>
+<field name="date">02/1921</field>
+<field name="pages">32</field>
+<field name="keywords">Clothing and dress</field>
+<field name="keywords">School contests</field>
+<field name="keywords">High school</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">129</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.129</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Supplement to bulletin no.170 Girls' clothing contest : Texas high schools</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="pages">13</field>
+<field name="keywords">Clothing and dress</field>
+<field name="keywords">School contests</field>
+<field name="keywords">High school</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b 1925</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">School legislation of the second called session, thirty-sixth legislature : statistics and registration, tax levy for schools and for text book fund, consolidation of school districts, emergency transfers, amendment to rural aid law</field>
+<field name="year">1919</field>
+<field name="date">07/1919</field>
+<field name="pages">13</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">102</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.102</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Texas Compulsory School Attendance Law</field>
+<field name="year">1922</field>
+<field name="date">03/1922</field>
+<field name="pages">14</field>
+<field name="keywords">Compulsory education</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="keywords">School attendance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">137</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.137</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">How to handle school funds</field>
+<field name="date">1920?</field>
+<field name="pages">4</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">112</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.112</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">How to handle school funds</field>
+<field name="date">1920?</field>
+<field name="pages">4</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">111</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.111</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Rural aid appropriations school statistics and other matters of interest to tax-payers, read this before applying for rural aid</field>
+<field name="year">1922</field>
+<field name="date">06/1922</field>
+<field name="pages">24</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">149</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.149</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Supplement to bulletin 146 - outline of courses for teachers' examinations</field>
+<field name="year">1923</field>
+<field name="date">05/1923</field>
+<field name="pages">31</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.146 suppl.</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">School legislation of the regular session of the thirty-seventh legislature ... Uniform Title: Laws, etc</field>
+<field name="year">1921</field>
+<field name="date">04/1921</field>
+<field name="pages">23</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">130</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b  no.130</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">School grounds, school buildings and their equipment</field>
+<field name="year">1922</field>
+<field name="date">07/1922</field>
+<field name="pages">78</field>
+<field name="keywords">School buildings</field>
+<field name="keywords">School grounds</field>
+<field name="notes">78 pages including illustrations; ans, diagrams 23 cm.; Responsibility: Annie Webb Blanton, state superintendent of public instruction. L.D. Borden, chief supervisor of rural schools ... Issued by the Department of education, state of Texas; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">148</field>
+<field name="series_vol">Texas State Department of Education</field>
+<field name="pub_place">Austin</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.148</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Historical and statistical data as to education in Texas, January 1, 1919-January 1, 1921</field>
+<field name="year">1921</field>
+<field name="date">08/1921</field>
+<field name="pages">209</field>
+<field name="keywords">Education</field>
+<field name="notes">209 pages including tables 23 cm.; Responsibility: Annie Webb Blanton, state superintendent of public instruction ... Issued by the Department of education, state of Texas.;Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">133</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.133</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">A brief handbook of information for school trustees</field>
+<field name="year">1921</field>
+<field name="date">07/1921</field>
+<field name="pages">10</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">10 pages 22 cm.; Responsibility: Annie Webb Blanton, state superintendent of public instruction ... Issued by the Department of Education, state of Texas.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">131</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin?</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.131</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Outline course of study : summer normals, 1922</field>
+<field name="year">1922</field>
+<field name="date">05/1922</field>
+<field name="pages">110</field>
+<field name="keywords">Teachers' institutes</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">146</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, Tex</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.146</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Manual and course of study, elementary grades : public schools of Texas, 1921</field>
+<field name="year">1921</field>
+<field name="date">09/1921</field>
+<field name="pages">125</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education Bulletin</field>
+<field name="series_vol">134</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, Tex</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.134</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Outline of plans for vocational education in Texas under the Smith-Hughes Act, 1920-1921</field>
+<field name="year">1920</field>
+<field name="date">11/1920</field>
+<field name="pages">74</field>
+<field name="keywords">Vocational education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">125</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.125</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Blanton, Annie Webb</field>
+<field name="author_nat">Annie Webb Blanton</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Public school bulletin : school officers, scholastic enumeration per capita and amount apportioned, county permanent school fund August 31, 1920. Local tax rates in independent districts, 1920-1921</field>
+<field name="year">1920</field>
+<field name="date">11/1920</field>
+<field name="pages">62</field>
+<field name="keywords">School finance</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">126</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.126</field>
+<field name="state_country">Texas</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">Try-out edition: Handbook for self-appraisal and improvement of elementary schools</field>
+<field name="year">1945</field>
+<field name="date">09/1945</field>
+<field name="pages">84</field>
+<field name="keywords">School management and organization</field>
+<field name="keywords">Elementary school</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">458</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no.458</field>
+<field name="state_country">Texas</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Blanton, Annie Webb</field>
+<field name="author_nat">Annie Webb Blanton</field>
+<field name="corp_author">Texas State Department of Education</field>
+<field name="title">A Hand book of information as to education in Texas, 1918-1922</field>
+<field name="year">1923</field>
+<field name="date">01/1923</field>
+<field name="pages">493</field>
+<field name="keywords">Education</field>
+<field name="notes">493 pages : illustrations, maps ; 23 cm.; Note(s): "January, 1923."/ Includes index.; Other Titles: Education in Texas; Handbook of information as to education in Texas, 1918-1922; Responsibility: [compiled by] Annie Webb Blanton.; Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Texas State Department of Education bulletin</field>
+<field name="series_vol">157</field>
+<field name="publisher">Texas State Department of Education</field>
+<field name="pub_place">Austin, TX</field>
+<field name="language">English</field>
+<field name="call_number">379.74 .T2b no. 157</field>
+<field name="state_country">Texas</field>
+</doc>
+</add>
