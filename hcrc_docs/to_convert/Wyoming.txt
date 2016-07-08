@@ -1,0 +1,151 @@
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - State plan for occupational education FY - 1976, P.L. - 90-576
+Y1  - 1976
+D1  - 1976
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+LA  - English
+CN  - 379.74 .W31 1976
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - Public school data
+Y1  - 1970
+D1  - 1970
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 379.74 .W31 1970
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - Handbook for classification and definition of accounts
+Y1  - 1969
+D1  - 06/1969
+SP  - 50
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 379.74 .W31 1969
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - Teacher certification regulations for Wyoming public schools
+Y1  - 1969
+D1  - 01/1969
+SP  - 26
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 379.74 .W31 1969
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A1  - Sheehan, James D
+A2  - Wyoming State Department of Education
+T1  - Computerized student scheduling with the IBM student scheduling system/360
+Y1  - 1969
+D1  - 1969
+SP  - 25
+KW  - School schedules
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+LA  - English
+CN  - 379.74 .W31 1969
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+A2  - University of Wyoming. College of Education
+T1  - Handbook for teachers of migrant children in Wyoming
+Y1  - 1968
+D1  - 1968
+SP  - 109
+KW  - Children of migrant laborers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+CY  - Laramie, WY
+LA  - English
+CN  - 379.74 .W31 1968
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - Standards for accreditation: elementary and secondary schools
+Y1  - 1968
+D1  - 1968
+SP  - 87
+KW  - Accreditation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+LA  - English
+CN  - 379.74 .W31 1968
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - Standardization of rural schools: score cards, minimal requirements and specifications
+D1  - 1921?
+SP  - 14
+KW  - Rural schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Wyoming State Department of Education bulletin series B
+V1  - 2
+PB  - Wyoming State Department of Education
+LA  - English
+CN  - 379.74 .W31 1921
+SC  - Wyoming
+ER  -
+
+
+TY  - BOOK
+A2  - Wyoming. Office of Superintendent of Public Instruction
+T1  - Arbor day and memorial day annual April 30th May 30th 1909
+Y1  - 1909
+D1  - 1909
+SP  - 28
+KW  - Arbor Day
+KW  - Memorial Day
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming. Office of Superintendent of Public Instruction
+CY  - Laramie, WY
+LA  - English
+CN  - 379.74 .W31 1909
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - Wyoming public schools selected statistics 1969-70
+Y1  - 1970
+D1  - 01/1970
+SP  - 35
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 379.74 .W31
+SC  - Wyoming
+ER  -
+
+

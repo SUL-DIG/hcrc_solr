@@ -1,0 +1,220 @@
+TY  - BOOK
+A1  - Shawkey, Morris Purdy
+A2  - West Virginia State Department of Education
+T1  - School architecture, containing articles and illustrations on school grounds, houses, outbuildings, heating, ventilation, school decoration, furniture, and fixtures
+Y1  - 1910
+D1  - 1910
+SP  - 104
+KW  - School grounds
+KW  - School buildings
+N1  - On cover/"school architecture. State of West Virginia Department of free schools".; Shelved in Cubberley Library Reading Room
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1910
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A1  - Bowman, Edgar Lee
+A2  - West Virginia State Department of Education
+T1  - A definite proposal to equalize educational opportunity in West Virginia
+D1  - 1924?
+SP  - 15
+KW  - School finance
+N1  - Prepared by E.L. Bowman and L.V. Cavins, Statistical Division. Directed by Department of Free Schools, George M. Ford, State Superintendent.; Shelved in Cubberley Library Reading Room
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1924
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A1  - Cook, William C
+T1  - The status of education in West Virginia : an address delivered before the Constitutional Commission, Charleston, West Virginia, April 18th, 1930
+Y1  - 1930
+D1  - 1930
+SP  - 27
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1930
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A1  - Peery, George C
+T1  - Public schools and taxation; delivered before a Joint Session of the General Assembly February 7, 1934
+Y1  - 1934
+D1  - 1934
+SP  - 6
+KW  - Taxation
+KW  - School finance
+N1  - Address by George C. Peery, Governor, delivered before a joint session of the General Assembly, February 7, 1934 ; Shelved in Cubberley Library Reading Room
+T2  - House document
+V1  - 8
+CY  - Richmond, VA
+LA  - English
+CN  - 379.74 .V2 1934
+SC  - Virginia
+ER  -
+
+TY  - BOOK
+A2  - West Virginia State Board of Education
+T1  - Report of the policy committee on teacher education Curricula and reports of subject field committees on certain subjects
+D1  - 1939?
+SP  - 173
+KW  - Teachers
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - West Virginia State Board of Education
+LA  - English
+CN  - 379.74 .W11
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A1  - Starcher, Genevieve
+A2  - West Virginia State Department of Education
+T1  - Summary of the single curriculum; a West Virginia study in teacher education, 1940-1944, and Report of work-conference, Buckhannon, West Virginia, September 5-10, 1943
+D1  - 1944?
+SP  - 63
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1944
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - The single curriculum a pre-service program for the education of public school teachers in West Virginia 1940-1950
+Y1  - 1950
+D1  - 04/1950
+SP  - 31
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - West Virginia educational bulletin
+V1  - 18
+IS  - 8
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1950
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A2  - George Peabody College for Teachers. Division of Surveys and Field Services
+T1  - West Virginia public schools a survey report
+Y1  - 1956
+D1  - 1956
+SP  - 278
+KW  - Educational surveys
+KW  - Public schools
+N1  - On cover: Time for action; Shelved in Cubberley Library Reading Room
+PB  - George Peabody College for Teachers. Division of Surveys and Field Services
+CY  - Nashville, TN
+LA  - English
+CN  - 379.74 .W11 1956
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A2  - George Peabody College for Teachers. Division of Surveys and Field Services
+T1  - West Virginia public schools : digest of the survey report
+Y1  - 1956
+D1  - 1956
+SP  - 278
+KW  - Educational surveys
+KW  - Public schools
+N1  - On cover: Time for action; Shelved in Cubberley Library Reading Room
+PB  - George Peabody College for Teachers. Division of Surveys and Field Services
+CY  - Nashville, TN
+LA  - English
+CN  - 379.74 .W11 1956
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A2  - West Virginia. Committee on Higher Education
+T1  - Report to the honorable Hulett C. Smith, Governor of West Virginia and the Legislature of the State of West Virginia, pursuant to House Concurrent Resolution no. 51, 1965 and Senate Concurrent Resolution no. 14, 1966
+Y1  - 1966
+D1  - 10/1966
+KW  - Universities and colleges
+N1  - in 2 vols.; v.1 - Summary of major conclusions and recommendations v.2 Higher education in West Virginia  a self assessment; Shelved in Cubberley Library Reading Room
+PB  - West Virginia. Committee on Higher Education
+LA  - English
+CN  - 379.74 .W11 1966
+SC  - West Virginia
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - West Virginia Board of Regents
+T1  - Faculty characteristics public colleges and universities in West Virginia fall term 1974
+Y1  - 1975
+D1  - 03/1975
+SP  - 73
+KW  - College teachers
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - West Virginia Board of Regents
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1974
+SC  - West Virginia
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - West Virginia Board of Regents
+T1  - Faculty characteristics public colleges and universities in West Virginia fall term 1975
+Y1  - 1976
+D1  - 01/1976
+SP  - 73
+KW  - College teachers
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - West Virginia Board of Regents
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1975
+SC  - West Virginia
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - 1967-68 Educational statistical summary including the period July 1, 1967 to June 30, 1968
+D1  - 1968
+SP  - 255
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - West Virginia State Department of Education
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1967-68
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A2  - West Virginia Board of Regents
+T1  - Degrees conferred by West Virginia Institutions of higher education 1974-75
+Y1  - 1975
+D1  - 08/1975
+SP  - 77
+KW  - Academic degrees
+N1  - Shelved in Cubberley Library Reading Room
+PB  - West Virginia Board of Regents
+CY  - Charleston, WV
+LA  - English
+CN  - 379.74 .W11 1974-75
+SC  - West Virginia
+ER  -
+
+

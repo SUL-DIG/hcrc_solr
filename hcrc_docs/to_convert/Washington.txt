@@ -1,0 +1,888 @@
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+A2  - Washington (State) Department of Education
+T1  - State Board of Education, Washington, 1918
+Y1  - 1918
+D1  - 1918
+SP  - 95
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Department of Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1918
+SC  - Washington
+ER  -
+
+TY  - BOOK
+T1  - 30-10 survey, equality for children justice for taxpayers
+Y1  - 1922
+D1  - 04/1922
+SP  - 16
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.74 .W1 1922
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington State Code Commission
+T1  - Report of the Public School Administrative Code Commission of the State of Washington Delivered to the Governor and the Legislature at Olympia, Washington, January 11, 1921. Designed to accompany Senate bill no. 10
+Y1  - 1921
+D1  - 1921
+SP  - 117
+KW  - Educational law and legislation
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington State Code Commission
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1921
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - School statistics
+Y1  - 1969
+D1  - 03/1969
+SP  - 7
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1969
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - School statistics
+Y1  - 1955
+D1  - 12/1955
+SP  - 8
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1955
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Subcommittee on Metropolitan Education
+T1  - The urban education crisis in Washington State: a special report to the Legislature
+Y1  - 1969
+D1  - 12/1969
+SP  - 51
+KW  - Urban education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Subcommittee on Metropolitan Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1969
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Achziger, Curtis
+A2  - Washington (State) Office of Program Planning and Fiscal Management
+T1  - Deciding Washington's future: an educational curriculum
+Y1  - 1976
+D1  - 1976
+SP  - 164
+KW  - Economic policy
+KW  - Social policy
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Office of Program Planning and Fiscal Management
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1976
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature
+T1  - Research reports including summary report, Temporary Special Levy Study Commission
+Y1  - 1971
+D1  - 03/1971
+KW  - Education
+N1  - Issued in 2 vols; Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature
+LA  - English
+CN  - 379.74 .W1 1971
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature
+T1  - Summary report, Temporary Special Levy Study Commission
+Y1  - 1971
+D1  - 02/1971
+SP  - 57
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature
+LA  - English
+CN  - 379.74 .W1 1971
+SC  - Washington
+ER  -
+
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - 1970 Demographic and socioeconomic profiles of the populations of Washington State school districts with over 400 students
+Y1  - 1973
+D1  - 06/1973
+SP  - 183
+KW  - Education
+KW  - Population
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Washington State population profiles
+V1  - 2
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1973
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Legislative Budget Committee
+T1  - School finance in Washington;   a report to the Washington State Legislature
+Y1  - 1971
+D1  - 01/1971
+SP  - 39
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Legislative Budget Committee
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1971
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Handley, Theresa B
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Models for the evaluation of bias content in instructional materials
+Y1  - 1975
+D1  - 06/1975
+KW  - Teaching
+KW  - Prejudices
+N1  - v, 76 pages in various pagings ; 28 cm; Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1975
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Occupational, Adult, and Institutional Education
+T1  - Education programs in penal and correctional institutions : a report to the Washington State Legislature by the Subcommittee on Occupational. Adult, and Institutional Education of the Joint Committee on Education
+Y1  - 1971
+D1  - 01/1971
+SP  - 28
+KW  - Prisoners
+KW  - Juvenile delinquents
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Occupational, Adult, and Institutional Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1971
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Senate. Select Educational Study Coordinating Committee
+T1  - Educational change 1976 :report and recommendations of the Select Educational Coordinating Committee
+Y1  - 1976
+D1  - 01/1976
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Senate. Select Educational Study Coordinating Committee
+LA  - English
+CN  - 379.74 .W1 1976
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Kelso, Steve
+A2  - Washington (State) Superintendent of Public Instruction
+A2  - Washington (State) Department of Social and Health Services
+T1  - Seeing them through
+Y1  - 1976
+D1  - 11/1976
+SP  - 52
+KW  - Children with disabilities
+N1  - "Washington State programs for children with special needs."; Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Department of Social and Health Services
+LA  - English
+CN  - 379.74 .W1 1976
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Gossman, Charles
+A2  - Washington State Census Board
+T1  - Migration of college and university students, State of Washington
+Y1  - 1967
+D1  - 1967
+SP  - 65
+KW  - College students
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington State Census Board
+CY  - Seattle, WA
+LA  - English
+CN  - 379.74 .W1 1967
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Schmid, Calvin
+A2  - Washington State Census Board
+T1  - Enrollment forecasts, State of Washington: 1967-1975
+Y1  - 1967
+D1  - 1967
+SP  - 50
+KW  - School enrollment
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington State Census Board
+CY  - Seattle, WA
+LA  - English
+CN  - 379.74 .W1 1967
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Schmid, Calvin
+A2  - Washington State Census Board
+T1  - Enrollment forecasts, State of Washington: 1966-1985
+Y1  - 1966
+D1  - 1966
+SP  - 78
+KW  - School enrollment
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Washington (State) Department of Commerce and Economic Development state planning series
+V1  - 5
+PB  - Washington State Census Board
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1966
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Revision of 1977 Washington State program for migrant children's education
+Y1  - 1976
+D1  - 12/1976
+SP  - 13
+KW  - Children of migrant laborers
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev.
+PB  - Washington (State) Superintendent of Public Instruction
+LA  - English
+CN  - 379.74 .W1 1977
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). State Board for Community College Education
+T1  - Design for excellence: Washington State community college system master plan
+D1  - 1970?
+KW  - Community colleges
+N1  - Contents: v. 1. Mission, history and goals -- v. 2. System status and progress -- v. 3. Long-range development requirements; Shelved in Cubberley Library Reading Room
+PB  - Washington (State). State Board for Community College Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Council on Higher Education
+T1  - Campus unrest: priorities for Washington
+Y1  - 1971
+D1  - 01/1971
+SP  - 48
+KW  - Student unrest
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Council on Higher Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1971
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). State Board for Community College Education
+T1  - Report to the Governor
+Y1  - 1968
+D1  - 11/1968
+SP  - 29
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). State Board for Community College Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1968
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Council on Higher Education
+T1  - 1972-73 instructional expenditures study
+Y1  - 1975
+D1  - 04/1975
+SP  - 51
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Council on Higher Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1975
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Academy for Educational Development
+A2  - Washington (State). Council on Higher Education
+T1  - Financing post-secondary education in Washington
+Y1  - 1972
+D1  - 09/1972
+SP  - 128
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Academy for Educational Development
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.74 .W1 1972
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Council on Higher Education
+T1  - Tuition and fee policies for public higher education
+Y1  - 1971
+D1  - 01/1971
+SP  - 44
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Council on Higher Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1971
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Legislative Budget Committee
+T1  - School finance in Washington: community college issues; a report to the Washington State Legislature
+Y1  - 1971
+D1  - 01/1971
+SP  - 44
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Legislative Budget Committee report
+V1  - 70-10
+PB  - Washington (State) Legislature. Legislative Budget Committee
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1971
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Council on Higher Education
+T1  - Financial support of higher education in Washington; a national comparison
+Y1  - 1977
+D1  - 04/1977
+SP  - 17
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Council on Higher Education
+LA  - English
+CN  - 379.74 .W1 1974
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). State Board for Community College Education
+T1  - Washington community colleges factbook
+Y1  - 1977
+D1  - 01/1977
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). State Board for Community College Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1977
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Indian and Migrant Education
+T1  - Indian and migrant education programs : a report to the Washington State Legislature by the Subcommittee on Indian and Migrant Education of the Joint Committee on Education
+Y1  - 1970
+D1  - 12/1970
+SP  - 24
+KW  - Children of migrant laborers
+KW  - Indians of North America
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Indian and Migrant Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Metropolitan Education
+T1  - Non-segregated education in Washington schools: a report to the Washington State Legislature by the Subcommittee on Metropolitan Education of the Joint Committee on Education
+Y1  - 1970
+D1  - 12/1970
+SP  - 16
+KW  - Segregation in education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Metropolitan Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Educational Television and Libraries
+T1  - Public broadcasting and educational television: a report to the Subcommittee on Educational Television and Libraries of the Joint Committee on Education
+Y1  - 1970
+D1  - 11/1970
+SP  - 41
+KW  - Television in education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Educational Television and Libraries
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Educational Television and Libraries
+T1  - Libraries in Washington: a report to the Subcommittee on Educational Television and Libraries of the Joint Committee on Education
+Y1  - 1970
+D1  - 12/1970
+SP  - 34
+KW  - Libraries
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Educational Television and Libraries
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on School Organization and Management of the Joint Committee on Education
+T1  - The extended school year: a report to the Subcommittee on Subcommittee on School Organization and Management of the Joint Committee on Education
+Y1  - 1970
+D1  - 12/1970
+SP  - 37
+KW  - School year
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on School Organization and Management of the Joint Committee on Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Planning and Community Affairs Agency
+T1  - Community action for environmental quality
+Y1  - 1970
+D1  - 08/1970
+SP  - 31
+KW  - Environmental policy
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Planning and Community Affairs Agency
+V1  - 1
+PB  - Washington (State). Planning and Community Affairs Agency
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Council on Higher Education
+T1  - Enrollment polices for public higher education
+Y1  - 1970
+D1  - 11/1970
+SP  - 42
+KW  - Higher education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Council on Higher Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Kramer, A. Ludlow
+A2  - Washington. Governor's Commission for Youth Involvement.
+T1  - Toward a new activism youth's role in a changing society; final Report of the Governor's Commission For Youth Involvement
+Y1  - 1970
+D1  - 05/1970
+SP  - 43
+KW  - Youth
+KW  - Social  conditions
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington. Governor's Commission for Youth Involvement.
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). State Board for Community College Education
+T1  - Washington's open door colleges: comparing the state's community colleges with recommendations by the Carnegie Commission on Higher Education
+Y1  - 1970
+D1  - 12/1970
+SP  - 21
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). State Board for Community College Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1970
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Washington State program for migrant children's education
+Y1  - 1976
+D1  - 1976
+KW  - Children of migrant laborers
+N1  - Various pagings; Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1976
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Washington State program for migrant children's education
+Y1  - 1977
+D1  - 1977
+KW  - Children of migrant laborers
+N1  - Various pagings; Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1977
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Cornue, F. Gordon
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Fifty years of education in the state of Washington; a graphic history
+Y1  - 1939
+D1  - 11/1939
+SP  - 24
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Washington (State). Superintendent of Public Instruction bulletin
+V1  - 12
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1939
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Interim Committee on Education
+T1  - Education in Washington: a summary of recommendations made to the Interim Committee on Education
+Y1  - 1960
+D1  - 1960
+SP  - 13
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Interim Committee on Education
+CY  - Seattle, WA
+LA  - English
+CN  - 379.74 .W1 1960
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - The Seattle Conference the role of the State Department of Education in teacher education
+Y1  - 1967
+D1  - 1967
+SP  - 83
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1967
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Council on Higher Education
+T1  - Degree inventory for colleges and universities in Washington, 1969-70
+D1  - 1970?
+KW  - Academic degrees
+N1  - various pagings; Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Council on Higher Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1969-70
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Student and Personnel Policies
+T1  - Pupil conduct, discipline and rights: a report to the Washington State Legislature by the Subcommittee on Student and Personnel Policies of the Joint Committee on Education
+Y1  - 1969
+D1  - 12/1969
+SP  - 31
+KW  - School discipline
+KW  - Students
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Joint Committee on Education. Subcommittee on Student and Personnel Policies
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1969
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Legislature. Legislative Budget Committee
+T1  - State support of public schools
+Y1  - 1966
+D1  - 11/1966
+SP  - 210
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Legislature. Legislative Budget Committee
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1966
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - University of Washington
+A2  - Washington (State) Legislature. Interim Committee on Education
+T1  - Citizens' Committee reports and recommendations
+Y1  - 1960
+D1  - 1960
+SP  - 113
+KW  - Education and state
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of Washington
+CY  - Seattle, WA
+LA  - English
+CN  - 379.74 .W1 1960
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Facts about education in Washington State
+Y1  - 1964
+D1  - 12/1964
+SP  - 35
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1964
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Improvement of instruction in Washington schools
+Y1  - 1962
+D1  - 1962
+SP  - 272
+KW  - Teaching
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1962
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Schmid, Calvin F
+A2  - Washington State Census Board
+T1  - Enrollment statistics, colleges and universities, State of Washington, fall term, 1965
+Y1  - 1966
+D1  - 1966
+SP  - 91
+KW  - Universities and colleges
+KW  - College students
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington State Census Board
+CY  - Seattle, WA
+LA  - English
+CN  - 379.74 .W1 1966
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - Citizen's handbook Washington public school administration and finance
+Y1  - 1965
+D1  - 07/1965
+SP  - 13
+KW  - School management and organization
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev.
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1965
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Dewey, Henry
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - History of education in Washington preliminary edition issued for distribution at the A.-Y.-P. exposition
+Y1  - 1909
+D1  - 1909
+SP  - 68
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1909
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Division of Municipal Corporations
+T1  - School districts debt statement as of June 30, 1951
+D1  - 1951?
+KW  - School districts
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Division of Municipal Corporations
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1951
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Office of State Auditor
+T1  - Report on the financial transactions of school districts year ended June 30, 1955
+Y1  - 1956
+D1  - 1956
+SP  - 11
+KW  - School districts
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Office of State Auditor
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1956
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State). Office of State Auditor
+T1  - Report on the financial transactions of school districts year ended June 30, 1959
+Y1  - 1958
+D1  - 1958
+SP  - 18
+KW  - School districts
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State). Office of State Auditor
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1958
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington (State)
+T1  - Laws, teachers retirement system arranged July 1, 1947
+Y1  - 1947
+D1  - 1947
+SP  - 32
+KW  - Teachers
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Washington (State)
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1947
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington State  Board of Education
+T1  - Institutions accredited by State Board of Washington
+Y1  - 1929
+D1  - 1929
+SP  - 15
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev.
+PB  - Washington State Board of Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1929
+SC  - Washington
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Washington (State) Superintendent of Public Instruction
+T1  - State manual of Washington
+Y1  - 1947
+D1  - 1947
+SP  - 283
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+ED  - 14
+PB  - Washington (State) Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.74 .W1 1947
+SC  - Washington
+ER  - 
