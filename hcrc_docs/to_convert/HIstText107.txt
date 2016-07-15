@@ -1,0 +1,829 @@
+ 
+ TY  - BOOK
+ A2  - Waco (Texas) Public Schools
+ T1  - Course of study
+ Y1  - 1917
+ D1  - 1917-1918
+ SP  - 132
+ KW  - Curricula
+ KW  - Public schools
+ PB  - Waco Public Schools
+ CY  - Waco, TX
+ LA  - English
+ CN  - 375.83 .W11c 1917
+ SC  - Texas
+ ER  - 
+ 
+TY  - BOOK
+A2  - Whitman County (Washington) Superintendent of Common Schools
+T1  - An outline course of study for the common schools of Whitman County, Washington
+Y1  - 1920
+D1  - 1920
+SP  - 97
+KW  - Curricula
+KW  - Public schools
+PB  - Whitman County Superintendent of Common Schools
+CY  - Colfax, WA
+LA  - English
+CN  - 375.82 .W62o 1920
+SC  - Washington
+ER  - 
+
+TY  - BOOK
+A2  - Wellesley (Massachusetts) Public Schools. Junior High School
+T1  - Provisional course of study
+Y1  - 1919
+D1  - 1919-1920
+KW  - Curricula
+KW  - Junior high schools
+PB  - Wellesley Junior High School
+CY  - Wellesley, MA
+LA  - English
+CN  - 375.14 .W45p 1919
+SC  - Massachusetts
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Waterbury (Connecticut) Department of Education
+T1  - Courses of study in the high schools: Crosby High School, Wilby High School, Vocational High School
+Y1  - 1918
+D1  - 1918
+SP  - 42
+KW  - Curricula
+KW  - High schools
+PB  - Waterbury Department of Education
+CY  - Waterbury, CT
+LA  - English
+CN  - 375.15 .W315c 1918
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Whittier (California) Union High School
+T1  - Courses
+Y1  - 1910
+D1  - 1910-1911
+SP  - 8
+KW  - Curricula
+KW  - High schools
+PB  - Whittier Union High School
+CY  - Whittier, CA
+LA  - English
+CN  - 375.15 .W625c 1910
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Whittier (California) Union High School
+T1  - Courses of study and circular of information
+Y1  - 1911
+D1  - 1911-1912
+SP  - 40
+KW  - Curricula
+KW  - High schools
+PB  - Whittier Union High School
+CY  - Whittier, CA
+LA  - English
+CN  - 375.15 .W625c 1911
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Wheeling (West Virginia) Board of Education
+T1  - Course of study of the elementary schools of the Independent School District of Wheeling
+Y1  - 1915
+D1  - 07/1915
+SP  - 85
+KW  - Curricula
+KW  - Elementary education
+PB  - Wheeling Board of Education
+CY  - Wheeling, WV
+LA  - English
+CN  - 375.13 .W61c 1915
+SC  - West Virginia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Wheeling (West Virginia) Board of Education
+T1  - Courses of study for Wheeling High School
+Y1  - 1903
+D1  - 08/1903
+SP  - 10
+KW  - Curricula
+KW  - High schools
+PB  - Wheeling Board of Education
+CY  - Wheeling, WV
+LA  - English
+CN  - 375.15 .W61c 1903
+SC  - West Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Cloyd, David Excelmons
+A2  - Wheeling (West Virginia) Board of Education
+T1  - First annual address: The relation of the school to the community
+Y1  - 1903
+D1  - 09/1903
+SP  - 32
+KW  - Community and school
+PB  - Wheeling Board of Education
+CY  - Wheeling, WV
+LA  - English
+CN  - 371.103 .W61a 1903
+SC  - West Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Cloyd, David Excelmons
+A2  - Wheeling (West Virginia) Board of Education
+T1  - An address: The function of the public high school and the public library in the life of a city
+Y1  - 1904
+D1  - 01/1904
+SP  - 20
+KW  - Community and school
+KW  - High schools
+KW  - Libraries
+PB  - Wheeling Board of Education
+CY  - Wheeling, WV
+LA  - English
+CN  - 371.103 .W61a 1904
+SC  - West Virginia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Willimantic (Connecticut) High School
+T1  - Catalogue of the Willamantic High School
+Y1  - 1893
+D1  - 1893-1895
+SP  - 39
+KW  - Curricula
+KW  - High schools
+PB  - Willimantic High School
+CY  - Willimantic, CT
+LA  - English
+CN  - 375.15 .W73c 1893
+SC  - Connecticut
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Winona (Minnesota) Public Schools
+T1  - Rules, regulations and laws governing the board of education and public schools
+Y1  - 1894
+D1  - 1894
+SP  - 160
+KW  - Curricula
+KW  - Public schools
+PB  - Winona Public Schools
+CY  - Winona, MN
+LA  - English
+CN  - 375.83 .W78m 1894
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Winona (Minnesota) Public Schools
+T1  - Rules, regulations and laws governing the board of education and public schools
+Y1  - 1898
+D1  - 1898
+SP  - 112
+KW  - Curricula
+KW  - Public schools
+PB  - Winona Public Schools
+CY  - Winona, MN
+LA  - English
+CN  - 375.83 .W78m 1898
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Winona (Minnesota) Public Schools
+T1  - Rules, regulations and laws governing the board of education and public schools
+Y1  - 1900
+D1  - 1900
+SP  - 116
+KW  - Curricula
+KW  - Public schools
+PB  - Winona Public Schools
+CY  - Winona, MN
+LA  - English
+CN  - 375.83 .W78m 1900
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Winona (Minnesota) Public Schools
+T1  - Rules, regulations and laws governing the board of education and public schools
+Y1  - 1910
+D1  - 1910
+SP  - 212
+KW  - Curricula
+KW  - Public schools
+PB  - Winona Public Schools
+CY  - Winona, MN
+LA  - English
+CN  - 375.83 .W78m 1910
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Woodbury (Connecticut) Public Schools
+T1  - Prospectus of the Woodbury grades schools and Woodbury High School
+Y1  - 1900
+D1  - 1900
+SP  - 19
+KW  - Curricula
+KW  - Public schools
+PB  - Woodbury Public Schools
+CY  - Woodbury, CT
+LA  - English
+CN  - 375.83 .W89m 1900
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Woodbury (Connecticut) Public Schools
+T1  - Manual and courses of study of the Woodbury grades schools and Woodbury High School
+Y1  - 1899
+D1  - 1899
+SP  - 78
+KW  - Curricula
+KW  - Public schools
+PB  - Woodbury Public Schools
+CY  - Woodbury, CT
+LA  - English
+CN  - 375.83 .W89m 1899
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - Worcester (Massachusetts) Public Schools
+T1  - Course of study, elementary schools
+Y1  - 1909
+D1  - 1909
+SP  - 91
+KW  - Curricula
+KW  - Elementary education
+PB  - Worcester Public Schools
+CY  - Worcester, MA
+LA  - English
+CN  - 375.13 .W92c 1909
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Worcester (Massachusetts) Public Schools. English High School
+T1  - Organization
+Y1  - 1911
+D1  - 1911-1912
+SP  - 13
+KW  - Directories
+KW  - High schools
+PB  - Worcester Public Schools
+CY  - Worcester, MA
+LA  - English
+CN  - 379.16 .W92o 1911
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Worcester (Massachusetts) Public Schools. Classical High School
+T1  - Catalogue
+Y1  - 1911
+D1  - 1911-1912
+SP  - 10
+KW  - Curricula
+KW  - Directories
+KW  - High schools
+PB  - Worcester Public Schools
+CY  - Worcester, MA
+LA  - English
+CN  - 375.15 .W92c 1911
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Worcester (Massachusetts) Public Schools. North High School
+T1  - Catalogue
+Y1  - 1912
+D1  - 1912
+KW  - Curricula
+KW  - Directories
+KW  - High schools
+PB  - Worcester Public Schools
+CY  - Worcester, MA
+LA  - English
+CN  - 375.15 .W92c 1912
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Worcester (Massachusetts) Public Schools
+T1  - Course of study, high schools
+Y1  - 1917
+D1  - 1917
+KW  - Curricula
+KW  - High schools
+PB  - Worcester Public Schools
+CY  - Worcester, MA
+LA  - English
+CN  - 375.15 .W92c 1917
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Public Schools
+T1  - Manual for the public schools of Yolo County, Cal.
+Y1  - 1896
+D1  - 06/1896
+SP  - 54
+KW  - Curricula
+KW  - Public schools
+PB  - Yolo County Public Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 375.82 .Y54m 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Public Schools
+T1  - Manual for the public schools of Yolo County
+Y1  - 1900
+D1  - 1900
+SP  - 81
+KW  - Curricula
+KW  - Public schools
+PB  - Yolo County Public Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 375.82 .Y54m 1900
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Public Schools
+T1  - Manual for the public schools of Yolo County
+Y1  - 1908
+D1  - 1908-1909
+SP  - 127
+KW  - Curricula
+KW  - Public schools
+PB  - Yolo County Public Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 375.82 .Y54m 1908
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Public Schools
+T1  - Manual for the public schools of Yolo County
+Y1  - 1911
+D1  - 07/1911
+KW  - Curricula
+KW  - Public schools
+PB  - Yolo County Public Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 375.82 .Y54m 1911
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Public Schools
+T1  - Manual for the public schools of Yolo County
+Y1  - 1915
+D1  - 07/1915
+KW  - Curricula
+KW  - Public schools
+PB  - Yolo County Public Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 375.82 .Y54m 1915
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yolo County (California) Public Schools
+T1  - Manual for the public schools of Yolo County
+Y1  - 1929
+D1  - 07/1929
+KW  - Curricula
+KW  - Public schools
+PB  - Yolo County Public Schools
+CY  - Woodland, CA
+LA  - English
+CN  - 375.82 .Y54m 1929
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yonkers (New York) Public Schools
+T1  - Course of study for the public schools in the city of Yonkers
+Y1  - 1911
+D1  - 1911
+SP  - 144
+KW  - Curricula
+KW  - Public schools
+PB  - Yonkers Public Schools
+CY  - Yonkers, NY
+LA  - English
+CN  - 375.83 .Y56c 1911
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Yonkers (New York) Public Schools
+T1  - Manual of the Board of Education in the city of Yonkers
+Y1  - 1914
+D1  - 1914
+SP  - 51
+KW  - School boards
+KW  - Public schools
+PB  - Yonkers Public Schools
+CY  - Yonkers, NY
+LA  - English
+CN  - 379.74 .Y56m 1914
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Catalog of the officers, instructors, and students of the Ypsilanti High School for the school year 1898-1899
+Y1  - 1899
+D1  - 1898-1899
+SP  - 48
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1899
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Catalog of the officers, instructors, and students of the Ypsilanti High School for the school year 1899-1900
+Y1  - 1900
+D1  - 1899-1900
+SP  - 37
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1900
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Catalog of the officers, instructors, and students of the Ypsilanti High School for the school year 1900-1901
+Y1  - 1901
+D1  - 1900-1901
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1901
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Catalog of the officers, instructors, and students of the Ypsilanti High School for the school year 1901-1902
+Y1  - 1902
+D1  - 1901-1902
+SP  - 29
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1902
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Catalog of the Ypsilanti High School for the school year 1902-1903
+Y1  - 1903
+D1  - 1902-1903
+SP  - 32
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1903
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Annual catalog of the Ypsilanti High School
+Y1  - 1904
+D1  - 1903-1904
+SP  - 28
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1904
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Annual catalog of the Ypsilanti High School
+Y1  - 1905
+D1  - 1904-1905
+SP  - 41
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1905
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Annual catalog of the Ypsilanti High School
+Y1  - 1906
+D1  - 1905-1906
+SP  - 33
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1906
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Annual catalog of the Ypsilanti High School
+Y1  - 1907
+D1  - 1906-1907
+SP  - 31
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1907
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Annual catalog of the Ypsilanti High School
+Y1  - 1908
+D1  - 1907-1908
+SP  - 32
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1908
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Annual catalog of the Ypsilanti High School
+Y1  - 1909
+D1  - 1908-1909
+SP  - 31
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1909
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Ypsilanti (Michigan) Public Schools
+T1  - Annual catalog, Ypsilanti High School
+Y1  - 1913
+D1  - 1912-1913
+SP  - 48
+KW  - Curricula
+KW  - High schools
+PB  - Ypsilanti Public Schools
+CY  - Ypsilanti, MI
+LA  - English
+CN  - 375.15 .Y86c 1913
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - School manual of Yuba County, California: Containing suggestions to teachers, rules of Board of Education, course of study, rules for the examination of teachers.
+Y1  - 1916
+D1  - 1916
+SP  - 69
+KW  - Curricula
+PB  - Yuba County Board of Education
+LA  - English
+CN  - 375.82 .Y94s 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - School manual of Yuba County, California
+Y1  - 1924
+D1  - 06/1924
+SP  - 62
+KW  - Curricula
+PB  - Yuba County Board of Education
+LA  - English
+CN  - 375.82 .Y94s 1924
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - Supplement to the 1924 course of study
+Y1  - 1924
+D1  - 06/1924
+SP  - 16
+KW  - Curricula
+PB  - Yuba County Board of Education
+LA  - English
+CN  - 375.82 .Y94s 1924 suppl.
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - Rules, regulations, and course of study for the public schools of Yuba County, Cal.
+Y1  - 1890
+D1  - 01/1890
+SP  - 43
+KW  - Curricula
+PB  - Yuba County Board of Education
+CY  - Marysville, CA
+LA  - English
+CN  - 375.82 .Y94s 1890
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - Manual of the public schools of Yuba County, California
+Y1  - 1895
+D1  - 06/1895
+SP  - 68
+KW  - Curricula
+PB  - Yuba County Board of Education
+CY  - Marysville, CA
+LA  - English
+CN  - 375.82 .Y94s 1895
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - Manual of the public schools of Yuba County, California
+Y1  - 1899
+D1  - 07/1899
+SP  - 65
+KW  - Curricula
+PB  - Yuba County Board of Education
+CY  - Marysville, CA
+LA  - English
+CN  - 375.82 .Y94s 1899
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - School manual of Yuba County, California: Containing suggestions to teachers, rules of Board of Education, course of study, rules for the examination of teachers.
+Y1  - 1912
+D1  - 1912
+SP  - 38
+KW  - Curricula
+PB  - Yuba County Board of Education
+CY  - Marysville, CA
+LA  - English
+CN  - 375.82 .Y94s 1912
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - Manual and course of study for the elementary schools of Yuba County, California
+Y1  - 1927
+D1  - 06/1927
+SP  - 80
+KW  - Curricula
+PB  - Yuba County Board of Education
+LA  - English
+CN  - 375.13 .Y94m 1927
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - Manual and course of study for the elementary schools of Yuba County, California, complete revisions 1933-1934
+Y1  - 1933
+D1  - 1933-1934
+SP  - 82
+KW  - Curricula
+PB  - Yuba County Board of Education
+LA  - English
+CN  - 375.13 .Y94m 1933
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Yuba County (California) Board of Education
+T1  - Yuba County Schools course of study
+Y1  - 1949
+D1  - 06/1949
+KW  - Curricula
+N1  - Looseleaf binder
+PB  - Yuba County Board of Education
+LA  - English
+CN  - 375.82 .Y94s 1949
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Houston (Texas) Public Schools. Elementary Department
+T1  - The beginnings of our country (Low fifth grade); The growth of our country (High fifth grade)
+Y1  - 1944
+D1  - 1944-1945
+KW  - United States history
+T1  - Houston Public Schools. Curriculum bulletin.
+V1  - 44CB17
+PB  - Houston Public Schools
+CY  - Houston, TX
+LA  - English
+CN  - 973 .H84b 1944
+SC  - Texas
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - Activities, expected achievements, and tools in English: kindergarten through grade six
+Y1  - 1951
+D1  - 1951
+SP  - 47
+KW  - English language
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 428.2 .D41a 1951
+SC  - Colorado
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
