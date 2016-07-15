@@ -1,18 +1,18 @@
  
- TY  - BOOK
- A2  - Waco (Texas) Public Schools
- T1  - Course of study
- Y1  - 1917
- D1  - 1917-1918
- SP  - 132
- KW  - Curricula
- KW  - Public schools
- PB  - Waco Public Schools
- CY  - Waco, TX
- LA  - English
- CN  - 375.83 .W11c 1917
- SC  - Texas
- ER  - 
+TY  - BOOK
+A2  - Waco (Texas) Public Schools
+T1  - Course of study
+Y1  - 1917
+D1  - 1917-1918
+SP  - 132
+KW  - Curricula
+KW  - Public schools
+PB  - Waco Public Schools
+CY  - Waco, TX
+LA  - English
+CN  - 375.83 .W11c 1917
+SC  - Texas
+ER  - 
  
 TY  - BOOK
 A2  - Whitman County (Washington) Superintendent of Common Schools
@@ -794,7 +794,7 @@ T1  - The beginnings of our country (Low fifth grade); The growth of our country
 Y1  - 1944
 D1  - 1944-1945
 KW  - United States history
-T1  - Houston Public Schools. Curriculum bulletin.
+T2  - Houston Public Schools. Curriculum bulletin.
 V1  - 44CB17
 PB  - Houston Public Schools
 CY  - Houston, TX
