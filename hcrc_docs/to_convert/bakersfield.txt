@@ -1,0 +1,273 @@
+
+TY  - BOOK
+T1  - Course of study for the Bakersfield (California) city schools
+Y1  - 1925
+D1  - 1925
+SP  - 313
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Bakersfield, CA
+LA  - English
+CN  - 379.741 .C1b 1925
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Bear Valley Unified School District (California)
+T1  - Report of the survey
+Y1  - 1962
+D1  - 1962
+SP  - 296
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Bear Valley Unified School District (California)
+LA  - English
+CN  - 379.741 .C1be 1962
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Bellflower (California) City School District
+T1  - Annual report 1952-1953
+D1  - 1953?
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Bellflower (California) City School District
+LA  - English
+CN  - 379.741 .C1bf 1952-53
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Bellflower(California) Unified School District
+T1  - Directory 1958-1959 Bellflower Unified School District
+D1  - 1959?
+SP  - 73
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Bellflower (California) Unified School District
+CY  - Bellflower, CA
+LA  - English
+CN  - 379.741 .C1bf 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Berkeley public day school enrollment projected form 1960-61- to 1980-81 (second statistical month)
+Y1  - 1961
+D1  - 02/1961
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1bk
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - MacConnell, James D
+T1  - An evaluation of school facility needs : a report to the Board of Education, Berkeley Unified School District, Berkeley, California
+Y1  - 1961
+D1  - 06/1961
+SP  - 17
+KW  - School buildings
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Stanford, CA
+LA  - English
+CN  - 379.741 .C1bk 1961
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Berkeley (California) Unified School District
+T1  - Report of the student racial census Fall 1973
+Y1  - 1973
+D1  - 1973
+KW  - Ethnicity
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Berkeley (California) Unified School District
+CY  - Berkeley, CA
+LA  - English
+CN  - 379.741 .C1bk 1973
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Berkeley (California). Board of Education. De Facto Segregation Study Committee
+T1  - De facto segregation in the Berkeley public schools : report of a Citizens Committee, Berkeley Unified School District, fall 1963
+Y1  - 1963
+D1  - 1963
+SP  - 109
+KW  - De facto school segregation
+KW  - Race relations
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Berkeley (California). Board of Education. De Facto Segregation Study Committee
+CY  - Berkeley, CA
+LA  - English
+CN  - 379.741 .C1bk 1963
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Berryessa (San Jose, California) Union School District
+T1  - School plants, finance and business services
+Y1  - 1968
+D1  - 03/1968
+SP  - 120
+KW  - School management and organization
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Berryessa (San Jose, California) Union School District
+CY  - San Jose, CA
+LA  - English
+CN  - 379.741 .C1br 1968
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Berryessa (San Jose, California) Union School District
+T1  - Projecting pupil population requirements for the seventies
+Y1  - 1970
+D1  - 01/1970
+SP  - 43
+KW  - School census
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Berryessa (San Jose, California) Union School District
+CY  - San Jose, CA
+LA  - English
+CN  - 379.741 .C1br 1970
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Berkeley (California) Unified School District
+T1  - Statistical summary X 1968-1969
+D1  - 1969?
+SP  - 24
+KW  - School finance
+KW  - Students
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Berkeley (California) Unified School District
+CY  - Berkeley, CA
+LA  - English
+CN  - 379.741 .C1bk 1968-69
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Beverly Hills (California) Unified School District
+T1  - Directory 1958-1959
+D1  - 1959?
+SP  - 63
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Beverly Hills (California) Unified School District
+CY  - Beverly Hills, CA
+LA  - English
+CN  - 379.741 .C1bre
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Rules and regulations of the Board of Education
+SP  - 27
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 379.741 .C1bu
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - The masters degree and teachers' salaries
+Y1  - 1965
+D1  - 07/1965
+SP  - 22
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 379.741 .C1bu 1965
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Directory 1958-1959
+D1  - 1959?
+SP  - 74
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 379.741 .C1bu 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - The substitute teacher in the Burbank Unified School District
+Y1  - 1959
+D1  - 09/1959
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 379.741 .C1bu 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Burbank (Los Angeles County, California). Board of Education
+T1  - A report on school enrollment and facilities
+Y1  - 1946
+D1  - 03/1946
+SP  - 100
+KW  - School buildings
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Burbank (Los Angeles County, California). Board of Education
+CY  - Burbank, CA
+LA  - English
+CN  - 379.741 .C1bu 1946
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - School plant needs
+Y1  - 1969
+D1  - 01/1969
+SP  - 100
+KW  - School facilities
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Burbank (California) Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 379.741 .C1bu 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Burlingame looks ahead a report to the Board of Trustees of the Burlingame Elementary School District
+Y1  - 1954
+D1  - 05/1954
+SP  - 118
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Stanford, CA
+LA  - English
+CN  - 379.741 .C1bur 1954
+SC  - California
+ER  - 
