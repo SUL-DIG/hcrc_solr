@@ -1,0 +1,67 @@
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Course of study in the Alameda city schools
+Y1  - 1910
+D1  - 1910
+SP  - 59
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alameda County (California) Board of Education
+LA  - English
+CN  - 379.741 .C1al 1910
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Course of study in the elementary schools of Alameda City California
+Y1  - 1913
+D1  - 1913
+SP  - 67
+KW  - Curricula
+KW  - Elementary education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alameda County (California) Board of Education
+LA  - English
+CN  - 379.741 .C1al 1913
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Alameda school district certificated employees 1958-1959 (Alameda County, California)
+D1  - 1959?
+KW  - School employees
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1al 1958/1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Biennial report and outline of studies of the public schools of the city of Alameda California for the two years ending June 30, 1905
+Y1  - 1905
+D1  - 1905
+SP  - 99
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Alameda County (California) Board of Education
+CY  - Alameda, CA
+LA  - English
+CN  - 379.741 .C1al 1903/1905
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Alameda County (California) Board of Education
+T1  - Report of the survey, Alameda School District (Alameda County, California)
+Y1  - 1956
+D1  - 02/1956
+SP  - 321
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1al 1956
+SC  - California
+ER  - 
