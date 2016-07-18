@@ -1,0 +1,165 @@
+
+TY  - BOOK
+A2  - Albany (California) Unified School District
+T1  - Tentative plan for the future of the Albany Unified School District
+Y1  - 1952
+D1  - 1952
+SP  - 18
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 379.741 .C1aln 1952
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Albany (California) Unified School District
+T1  - Administrative code of the Board of Education of the Albany Unified School District
+Y1  - 1956
+D1  - 1956
+SP  - 59
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+ED  - rev
+PB  - Albany (California) Unified School District
+CY  - Albany, CA
+LA  - English
+CN  - 379.741 .C1aln 1956
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Alhambra (California) City High School District
+A2  - Garvey Elementary School District
+A2  - San Gabriel School District
+T1  - Factors in district organization : Alhambra City High School District, Garvey School District, San Gabriel School District 1966-67
+Y1  - 1966
+D1  - 12/1966
+SP  - 59
+KW  - School districts
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1alr 1966-67
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - Report and evaluation: the Language Development Project 1967-68
+Y1  - 1968
+D1  - 09/1968
+SP  - 70
+KW  - Educational surveys
+KW  - English language
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 379.741 .C1an 1968
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Factors in future district planning : Anaheim City School District ; Centralia School District ; Cypress School District ; Los Alamitos School District ; Magnolia School District ; Savanna School District ; Anaheim Union High School District
+Y1  - 1962
+D1  - 12/1962
+SP  - 223
+KW  - Educational surveys
+KW  - Educational planning
+N1  - Published by authority of the Governing Boards of the participating school districts; Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1an 1962
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Antelope Valley (California) Union High School District
+T1  - Factors in future district planning : Antelope Valley Union High School District
+Y1  - 1963
+D1  - 10/1963
+SP  - 197
+KW  - Educational surveys
+KW  - Educational planning
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Antelope Valley (California) Union High School District
+LA  - English
+CN  - 379.741 .C1ap 1963
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Magnolia School District 1958-59 Personnel directory
+D1  - 1959?
+SP  - 25
+KW  - Directories
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1an 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Anaheim (California) City School District
+T1  - Personnel directory 1958-1959
+D1  - 1959?
+SP  - 25
+KW  - Directories
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Anaheim (California) City School District
+CY  - Anaheim, CA
+LA  - English
+CN  - 379.741 .C1an 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Azusa (California) City School District
+T1  - Directory of Personnel 1958-59
+D1  - 1959?
+SP  - 14
+KW  - Directories
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Azusa (California) City School District
+CY  - Azusa, CA
+LA  - English
+CN  - 379.741 .C1az 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Gladstone (California) School District
+T1  - Directory of Personnel 1958-59
+D1  - 1959?
+SP  - 8
+KW  - Directories
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Gladstone (California) School District
+CY  - Azusa, CA
+LA  - English
+CN  - 379.741 .C1az 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Las Lomitas (California) School District
+T1  - Personnel roster
+Y1  - 1958
+D1  - 12/1958
+SP  - 3
+KW  - Directories
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Las Lomitas (California) School District
+CY  - Azusa, CA
+LA  - English
+CN  - 379.741 .C1at 1958
+SC  - California
+ER  -
