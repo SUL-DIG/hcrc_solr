@@ -1,0 +1,234 @@
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Calexico (California) Elementary School District
+A2  - Calexico (California) Union High School District
+T1  - Personnel and finance : a survey report for the Calexico Elementary School District and Calexico Union High School District
+Y1  - 1952
+D1  - 02/1952
+SP  - 85
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1ca 1952
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Calexico (California) Elementary School District
+A2  - Calexico (California) Union High School District
+T1  - Report of the survey of the educational program, Calexico Public Schools (Calexico School District, Calexico Union High School District)
+Y1  - 1958
+D1  - 05/1958
+SP  - 218
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1ca 1958
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Calexico (California) Elementary School District
+A2  - Calexico (California) Union High School District
+T1  - School housing for Calexico children Calexico Public Schools (Calexico School District, Calexico Union High School District)
+Y1  - 1961
+D1  - 11/1961
+SP  - 77
+KW  - Educational surveys
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1ca 1961
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Centralia School District (California)
+T1  - Report and evaluation: English as a second language, and Learning Laboratory Projects
+Y1  - 1967
+D1  - 09/1967
+SP  - 111
+KW  - Educational surveys
+KW  - English language
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Centralia School District (California)
+LA  - English
+CN  - 379.741 .C1cen 1967
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - Annual report 1962-63
+D1  - 1962?
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Chula Vista (California) City School District
+LA  - English
+CN  - 379.741 .C1ch 1962-63
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Lahaderne, Henriette
+A2  - Chula Vista (California) City School District
+T1  - Year-round schools: an assessment of the program's initial year in four Chula Vista elementary shcools
+Y1  - 1972
+D1  - 11/1972
+SP  - 116
+KW  - School year
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Chula Vista (California) City School District
+LA  - English
+CN  - 379.741 .C1ch 1972
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Chula Vista (California) City School District
+T1  - Handbook for classified employees 1963-64
+Y1  - 1963
+D1  - 08/1963
+SP  - 20
+KW  - Public schools
+KW  - School employees
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Chula Vista (California) City School District
+CY  - Chula Vista, CA
+LA  - English
+CN  - 379.741 .C1ch 1963-64
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Citrus Junior College District (California)
+T1  - Factors in future district organization
+Y1  - 1965
+D1  - 05/1965
+SP  - 55
+KW  - Junior colleges
+KW  - Community colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Citrus Junior College District (California)
+LA  - English
+CN  - 379.741 .C1ci
+SC  - California
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irivng R
+T1  - Report of the survey: Coachella School District, Desert Center School District, Indio School District, Mecca School District, Oasis Joint School District, Thermal Union School District, Coachella Valley Joint Union High School District
+Y1  - 1962
+D1  - 05/1962
+SP  - 473
+KW  - Educational surveys
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1co 1962
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Compton (California) City Schools
+T1  - Directory 1958-1959
+D1  - 1958?
+SP  - 60
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Compton (California) City Schools
+CY  - Compton, CA
+LA  - English
+CN  - 379.741 .C1com 1958-1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - School housing and district organization: Conejo School District, Santa Rosa School District, Timber School District
+Y1  - 1958
+D1  - 12/1958
+SP  - 91
+KW  - Educational surveys
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1con 1958
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Costa Mesa (California) Union School District
+T1  - Directory of personnel
+D1  - 1958?
+SP  - 19
+KW  - School employees
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Costa Mesa (California) Union School District
+LA  - English
+CN  - 379.741 .C1cos
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Covina (California) Union High School District
+T1  - Factors in district organization : Baldwin Park School District, Charter Oak School District, Covina School District, West Covina School District, Covina Union High School District : survey staff
+Y1  - 1958
+D1  - 01/1958
+SP  - 148
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Covina (California) Union High School District
+CY  - Covina, CA
+LA  - English
+CN  - 379.741 .C1cov 1958
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - Directory 1958-59
+D1  - 1958?
+SP  - 79
+KW  - School employees
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Culver City (California) Unified School District
+LA  - English
+CN  - 379.741 .C1cu 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Culver City (California) Unified School District
+T1  - Education by design 1963 enrollment
+Y1  - 1963
+D1  - 12/1963
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Culver City (California) Unified School District
+LA  - English
+CN  - 379.741 .C1cu 1963
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Report of the survey of the educational program
+Y1  - 1964
+D1  - 1964
+SP  - 142
+KW  - Educational surveys
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1cy 1964
+SC  - California
+ER  -
