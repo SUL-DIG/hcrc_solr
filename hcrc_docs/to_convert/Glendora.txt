@@ -1,0 +1,249 @@
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Huntington Beach (California) Union High School District
+T1  - Report of the survey : Huntington Beach Union High School District
+Y1  - 1958
+D1  - 05/1958
+SP  - 406
+KW  - Educational surveys
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Huntington Beach (California) Union High School District
+LA  - English
+CN  - 379.741 .C1hu 1958
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Glendora (California) School District
+T1  - Directory
+Y1  - 1958
+D1  - 11/1958
+SP  - 33
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Glendora (California) School District
+CY  - Glendora, CA
+LA  - English
+CN  - 379.741 .C1gn 1958
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Hayward (California) Unified School District
+T1  - Second evaluation report, Park Elementary School. Four quarter extended year program
+Y1  - 1972
+D1  - 05/1972
+KW  - School year
+N1  - 1 volume (various pagings), Shelved in Cubberley Library Reading Room
+PB  - Hayward (California) Unified School District
+CY  - Hayward, CA
+LA  - English
+CN  - 379.741 .C1ha 1972
+SC  - California
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Hayward (California) Unified School District
+T1  - Report of Research Sub-committee to County Committee on School District Organization, Study of Hayward Union High School District Area
+SP  - 87
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Hayward (California) Unified School District
+LA  - English
+CN  - 379.741 .Cha
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Inglewood (California) City School District
+T1  - Salary policy for teachers of Inglewood City Schools
+Y1  - 1935
+D1  - 06/1935
+SP  - 43
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Inglewood (California) City School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 379.741 .C1in 1954
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - An analysis of legal and financial problems involved in the unification of the Inglewood City School District
+Y1  - 1953
+D1  - 04/1953
+SP  - 40
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1in 1953
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Dodds, Robert H
+T1  - Statement of policies, administrative organization, and rules and regulations of the Board of Education of the Inglewood Unified School District
+Y1  - 1954
+D1  - 12/1954
+SP  - 32
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1in 1954
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Lowell Joint School District; a survey report
+Y1  - 1960
+D1  - 05/1960
+SP  - 190
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Stanford, Ca
+LA  - English
+CN  - 379.741 .C1lah 1960
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - La Mesa-Spring Valley School District
+T1  - Evaluation data - year round school
+Y1  - 1973
+D1  - 02/1973
+SP  - 13
+KW  - School year
+N1  - Shelved in Cubberley Library Reading Room
+PB  - La Mesa-Spring Valley School District
+CY  - La Mesa, CA
+LA  - English
+CN  - 379.741 .C1lam 1973
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Citizens Advisory Council for Year-round School
+T1  - An assessment of attitudes toward the La Mesa-Spring Valley School District year round school
+Y1  - 1972
+D1  - 06/1972
+SP  - 58
+KW  - School year
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Citizens Advisory Council for Year-round School
+CY  - La Mesa, CA
+LA  - English
+CN  - 379.741 .C1lam 1971-72
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - California Taxpayers Association
+T1  - Study of need for new schools in Lake Tahoe Unified School District
+Y1  - 1972
+D1  - 05/1972
+SP  - 45
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - California Taxpayers Association
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.741 .C1lak 1972
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Las Virgenes Union School District (California)
+T1  - Future district organization, Las Virgenes Union School District
+Y1  - 1961
+D1  - 12/1961
+SP  - 75
+KW  - Educational surveys
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Las Virgenes Union School District (California)
+LA  - English
+CN  - 379.741 .C1las 1961
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Lancaster (California) School District
+T1  - Future school plant needs, Lancaster School District
+Y1  - 1969
+D1  - 08/1969
+SP  - 139
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lancaster (California) School District
+LA  - English
+CN  - 379.741 .C1an 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Lancaster (California) School District
+T1  - Report of the survey, Lancaster School District
+Y1  - 1956
+D1  - 07/1956
+SP  - 395
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lancaster (California) School District
+LA  - English
+CN  - 379.741 .C1an 1956
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Long Beach (California) Board of Education
+T1  - A study of the annual budgets of Long Beach city schools for 1930-31, and 1933-34 to 1937-38 inclusive
+Y1  - 1938
+D1  - 04/1938
+SP  - 96
+KW  - School finance
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Long Beach (California) Board of Education
+CY  - Long Beach, CA
+LA  - English
+CN  - 379.741 .C1lo 1938
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Las Lomitas (California) School District
+T1  - Handbook of board policy
+Y1  - 1952
+D1  - 01/1952
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Las Lomitas (California) School District
+CY  - Atherton, CA
+LA  - English
+CN  - 379.741 .C1lom 1952
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Loveless, Edward
+A2  - California State Department of Education
+T1  - Profiles of progress:A pilot follow-up study of the graduates of the Las Lomitas School District and Sequoia Union High School District
+Y1  - 1962
+D1  - 07/1962
+SP  - 104
+KW  - High school graduates
+N1  - Shelved in Cubberley Library Reading Room
+PB  - California State Department of Education
+LA  - English
+CN  - 379.741 .C1lom 1962
+SC  - California
+ER  -
