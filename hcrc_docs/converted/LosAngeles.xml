@@ -1,74 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <add>
 <doc>
 <field name="type">Book</field>
 <field name="author">Melbo, Irving R</field>
-<field name="title">Report of the survey: Castaic Union School District, Newhall School District, Saugus Union School District, Sulphur Springs Union School District, William S. Hart High School District</field><field name="year">1966</field><field name="date">05/1966</field><field name="pages">500</field><field name="keywords">Educational surveys</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1966</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="author">Dauwalder, Donald D</field><field name="corp_author">Los Angeles (California) City Junior College District</field><field name="title">Education and training for technical occupations : a study of industries and schools in the San Fernando Valley, California, relating to the education and the training required for technicians and related occupations</field><field name="date">1960?</field><field name="pages">166</field><field name="keywords">Technical education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Junior College District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1960</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Board of Education</field><field name="title">Your invitation to teach in the Los Angeles City Schools</field><field name="date">1961?</field><field name="keywords">Teaching</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Board of Education</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1961</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">California. Legislature. Assembly. Interim Committee on Education. Adult Education Subcommittee</field><field name="title">Hearing of Subcommittee of Assembly Interim Committee on Education, Los Angeles April 24, 1962</field><field name="year">1962</field><field name="date">04/1962</field><field name="pages">98</field><field name="keywords">Adult education</field><field name="keywords">Vocational education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">California. Legislature. Assembly. Interim Committee on Education. Adult Education Subcommittee</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1962</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="title">Summary report of a planning team created to develop projects to expand opportunities for the educationally deprived pupil</field><field name="year">1963</field><field name="date">02/1963</field><field name="pages">72</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1963</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Schools. Division of Secondary Education</field><field name="title">Discipline and dropouts: a report to the Ad Hoc Committee on Equal Educational Opportunities</field><field name="year">1963</field><field name="date">01/1963</field><field name="pages">30</field><field name="keywords">Dropouts</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Schools. Division of Secondary Education</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1963</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City and County Adult Administrators Association</field><field name="corp_author">California State Department of Education</field><field name="title">Study guide for self evaluation of adult schools</field><field name="year">1960</field><field name="date">05/1960</field><field name="pages">56</field><field name="keywords">Curricula</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="edition">Rev</field><field name="publisher">Los Angeles (California) City and County Adult Administrators Association</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1960</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">California State Employees' Retirement System</field><field name="title">Your retirement plan and related benefits provided by the Los Angeles City School Districts under contract with the State Employees' Retirement System of the State of California</field><field name="year">1965</field><field name="date">04/1965</field><field name="keywords">School employees</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">California State Employees' Retirement System</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1965</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Unified School District. Budget Division</field><field name="title">Tabulation of Los Angeles city schools and grades showing schools according to classification, schools according to enrollment, enrollment by grades based on classification report for first school month October 1966</field><field name="year">1966</field><field name="date">10/1966</field><field name="pages">16</field><field name="keywords">Public schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) Unified School District. Budget Division</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1966</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Unified School District</field><field name="title">The changing role of the school administrator</field><field name="year">1969</field><field name="date">08/1969</field><field name="pages">82</field><field name="keywords">School administrators</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) Unified School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1969</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Unified School District</field><field name="title">EPDA a program of professional development</field><field name="year">1969</field><field name="date">1969</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) Unified School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1969</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Unified School District</field><field name="title">Project eighteen as eighteen school pilot project directed toward educational change</field><field name="date">1969?</field><field name="pages">196</field><field name="keywords">Educational change</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) Unified School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1969-70</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Unified School District. Ad Hoc Decentralization Task Force</field><field name="title">Educational renewal: a proposed decentralization plan for the Los Angeles Unified School District</field><field name="year">1971</field><field name="date">02/1971</field><field name="keywords">Schools</field><field name="notes">2 volumes; Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) Unified School District. Ad Hoc Decentralization Task Force</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1971</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Schools. Division of Career and Continuing Education</field><field name="title">Specially funded schools</field><field name="year">1972</field><field name="date">1972</field><field name="pages">20</field><field name="keywords">Adult education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Schools. Division of career and Continuing Education</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1972</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Schools</field><field name="title">Student rights and responsibilities a handbook for elementary schools and junior and senior high schools</field><field name="year">1972</field><field name="date">1972</field><field name="pages">71</field><field name="keywords">Students</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Schools</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1972</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Unified School District</field><field name="title">Evaluation and assessment of performance of certificated employees</field><field name="year">1973</field><field name="date">1973</field><field name="pages">45</field><field name="keywords">School employees</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="edition">Rev</field><field name="publisher">Los Angeles (California) Unified School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1973</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="title">Eleven vital steps for the 1970's an appraisal of the Los Angeles City Unified School District's preparation Salary schedule and related matters</field><field name="year">1968</field><field name="date">02/1968</field><field name="pages">120</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1968</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Schools. Division of College and Adult Education</field><field name="title">Aspects of the adult education program pertaining to human relations, urban affairs, and the disadvantaged</field><field name="date">1967?</field><field name="pages">4</field><field name="keywords">Adult education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Schools. Division of College and Adult Education</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1967</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="title">Los Angeles City Schools employee suggestion plan</field><field name="date">1959?</field><field name="pages">3</field><field name="keywords">School employees</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1959</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Schools. Division of Instructional Services</field><field name="title">Occupational general education curricula offered in the colleges of the Los Angeles City Junior College District, 1966-67 college year</field><field name="date">1967?</field><field name="pages">9</field><field name="keywords">Curricula</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Schools. Division of Instructional Services</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1967</field><field name="state_country">California</field><field name="grade_level_group">Postsecondary</field></doc>
-<doc><field name="type">Book</field><field name="title">Assignment of teacher personnel point of view</field><field name="date">11/1958</field><field name="pages">4</field><field name="keywords">Teachers</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1958</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Elementary adult education. First annual report, 1916-1919</field><field name="year">1919</field><field name="date">10/1919</field><field name="pages">88</field><field name="keywords">Elementary education of adults</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City school district school publication</field><field name="series_vol">27</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1919</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Los Angeles City Schools and the war Report on the war organization of Los Angeles city schools from the beginning of the war to February 1, 1918</field><field name="year">1918</field><field name="date">02/1918</field><field name="pages">84</field><field name="keywords">World War, 1914-1918</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Ungraded rooms in Los Angeles City Schools. First annual report by Division of Psychology</field><field name="year">1919</field><field name="date">06/1919</field><field name="pages">36</field><field name="keywords">Education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District school publication</field><field name="series_vol">24</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1919</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="author">Caughey, John W</field><field name="title">Segregation blights our schools : an analysis based on the 1966 official report on racial and ethnic distribution school by school throughout the Los Angeles system</field><field name="year">1967</field><field name="date">1967</field><field name="pages">20</field><field name="keywords">Segregation in education</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Quail Books</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1967</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">California State Employees' Retirement System</field><field name="title">Retirement and other benefits provided school employees by the Los Angeles City School Districts under contract with the State Employees' Retirement System of the State of California</field><field name="year">1960</field><field name="date">05/1960</field><field name="pages">27</field><field name="keywords">School employees</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="edition">Rev</field><field name="publisher">California State Employees' Retirement System</field><field name="pub_place">Sacramento, CA</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1960</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Certificated personnel handbook: personnel policies and procedures</field><field name="year">1959</field><field name="date">04/1959</field><field name="keywords">Teachers</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1959</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="title">Reference documents</field><field name="year">1976</field><field name="date">02/1976</field><field name="keywords">School finance</field><field name="notes">penciled in on cover "amended final budget, 1975-76" Shelved in Cubberley Library Reading Room</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1975-76</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">The attendance and employment of minors section has the following reponsibilities</field><field name="year">1935</field><field name="date">09/1935</field><field name="keywords">Children</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1935</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Division of Service. Attendance and Employment of Minors Section</field><field name="title">Report of boys' welfare center activities, 1925-1934</field><field name="date">1934?</field><field name="pages">82</field><field name="keywords">Children</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District. Division of Service. Attendance and Employment of Minors Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1925-34</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Teacher load and size of classes in senior high schools</field><field name="year">1935</field><field name="date">10/1935</field><field name="pages">95</field><field name="keywords">Teaching</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1935</field><field name="state_country">California</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) Board of Education. Committee on the Functions of Secondary School Administrative Staff Members</field><field name="title">Report of the Committee on the functions of secondary school administrative staff members</field><field name="year">1938</field><field name="date">04/1938</field><field name="pages">87</field><field name="keywords">School management and organization</field><field name="keywords">School principals</field><field name="keywords">School Superintendents</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) Board of Education. Committee on the Functions of Secondary School Administrative Staff Members</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1938</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City Board of Education</field><field name="title">The reconstruction program of the Los Angeles City Schools 1933 -35 (Inclusive)</field><field name="date">1935?</field><field name="pages">19</field><field name="keywords">School buildings</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City Board of Education</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1933-35</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">The all-year school a report by the Committee to Study the All-Year School</field><field name="year">1954</field><field name="date">07/1954</field><field name="pages">81</field><field name="keywords">School attendance</field><field name="keywords">School year</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1954</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Science and mathematics in the Los Angeles city schools; a report to the community</field><field name="year">1958</field><field name="date">1958</field><field name="pages">31</field><field name="keywords">Science</field><field name="keywords">Mathematics</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1958</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Pupil-teacher ratios in certain city school systems over 100,000 in population: elementary schools, junior high schools, and high schools for twelve selected years during the period from 1934-35 to 1955-56</field><field name="year">1956</field><field name="date">02/1956</field><field name="pages">7</field><field name="keywords">Class size</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1956</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Summary of certain statistical data for forty-one city school systems in the United States 1954-1955 - 1955-56</field><field name="year">1956</field><field name="date">02/1956</field><field name="pages">23</field><field name="keywords">Schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1956</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="author">Smith, John Allan</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Major occupations in the City of Los Angeles: with a summary of the employment situation as of the second quarter of 1956 and a forecast of job trends for 1960</field><field name="year">1956</field><field name="date">1956</field><field name="pages">59</field><field name="keywords">Occupations</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District research report</field><field name="series_vol">202</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1956</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Administrative guide; containing rules of the Board of Education and administrative regulations of the Superintendent of Schools</field><field name="year">1958</field><field name="date">11/1958</field><field name="keywords">School management and organization</field><field name="keywords">School superintendents</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1958</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District</field><field name="title">Discipline in the Los Angeles city schools</field><field name="year">1959</field><field name="date">09/1959</field><field name="pages">16</field><field name="keywords">School discipline</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles (California) City School District</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1959</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles County (California). Office of Superintendent of Schools</field><field name="title">Recommendations of the "Conant Report" and their relationship to the program of the Los Angeles City Schools; a report to the Board of Education</field><field name="year">1959</field><field name="date">09/1959</field><field name="keywords">Public schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Los Angeles County (California). Office of Superintendent of Schools</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1959</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Employment of youth</field><field name="year">1965</field><field name="date">09/1965</field><field name="pages">42</field><field name="keywords">Youth</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">270</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1965</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Dropouts vs graduates a study of some differentiating characteristics of dropouts and graduates of the Los Angles City schools</field><field name="year">1965</field><field name="date">02/1965</field><field name="pages">61</field><field name="keywords">Dropouts</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">266</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1965</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="title">The Los Angeles City Schools evaluation programs, fall, 1963</field><field name="year">1964</field><field name="date">07/1964</field><field name="pages">23</field><field name="keywords">Educational tests and measurements</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">262</field><field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1964</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="title">The Los Angeles City Schools evaluation programs, fall, 1962</field><field name="year">1963</field><field name="date">06/1963</field><field name="pages">23</field><field name="keywords">Educational tests and measurements</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">255</field><field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1963</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="title">Employment trends in Los Angeles, 1940-1960</field><field name="year">1962</field><field name="date">09/1962</field><field name="pages">32</field><field name="keywords">Labor supply</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">247</field><field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1962</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="title">Test interpretation at the elementary school level</field><field name="year">1964</field><field name="date">02/1964</field><field name="pages">30</field><field name="keywords">Educational tests and measurements</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">259</field><field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1964</field><field name="state_country">California</field><field name="grade_level_group">Elementary</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="title">Transfers, entrants, and dropouts in Los Angles City secondary schools, 1962-1963</field><field name="year">1964</field><field name="date">01/1964</field><field name="pages">27</field><field name="keywords">School enrollment</field><field name="keywords">Dropouts</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">258</field><field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1964</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="title">The dropout who returns to graduate from adult high school</field><field name="year">1963</field><field name="date">04/1963</field><field name="pages">21</field><field name="keywords">Dropouts</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">253</field><field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1963</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="title">Promotion, retention, &amp; acceleration in the Los Angeles City elementary schools</field><field name="year">1961</field><field name="date">02/1961</field><field name="pages">18</field><field name="keywords">Elementary school</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">231</field><field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1961</field><field name="state_country">California</field><field name="grade_level_group">Elementary</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Prediction of reading and arithmetic achievement in the primary grades</field><field name="year">1966</field><field name="date">10/1966</field><field name="pages">16</field><field name="keywords">Mathematics</field><field name="keywords">Reading</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">278</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1966</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Transiency and dropout rates in Los Angeles City Schools, 1964-1965. A survey of transiency in elementary and secondary schools and of dropouts from grades 9 through twelve</field><field name="year">1966</field><field name="date">07/1966</field><field name="pages">58</field><field name="keywords">Dropouts</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">277</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1966</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Financial awards obtained by high school graduates</field><field name="year">1966</field><field name="date">06/1966</field><field name="pages">39</field><field name="keywords">Student aid</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">275</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1966</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Transiency rates in Los Angles CIty Schools, 1970-1971</field><field name="date">1971?</field><field name="pages">29</field><field name="keywords">School enrollment</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">318</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1970-71</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Transiency rates in Los Angles City Schools, 1971-1972</field><field name="date">1972?</field><field name="pages">30</field><field name="keywords">School enrollment</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">326</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1971-72</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Graduate and attrition rates in Los Angeles City senior high schools, class of 1969</field><field name="date">1969?</field><field name="pages">17</field><field name="keywords">High school graduates</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">305</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1969</field><field name="state_country">California</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Graduate and attrition rates in Los Angeles City senior high schools, class of 1972</field><field name="date">1972?</field><field name="pages">15</field><field name="keywords">High school graduates</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">325</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1972</field><field name="state_country">California</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Graduate and attrition rates in Los Angeles City senior high schools, classes of 1967 and 1968</field><field name="year">1969</field><field name="date">05/1969</field><field name="pages">18</field><field name="keywords">High school graduates</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">296</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1969</field><field name="state_country">California</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">An evaluation of the utilization of counselor aides in project access</field><field name="date">1972?</field><field name="pages">41</field><field name="keywords">Counseling</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">322</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1971-72</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Individual elementary school data, state primary grade reading testing program</field><field name="year">1969</field><field name="date">05/1969</field><field name="pages">38</field><field name="keywords">Educational tests and measurements</field><field name="keywords">Reading</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">302</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1969</field><field name="state_country">California</field><field name="grade_level_group">Elementary</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Individual elementary and secondary school data, state testing program</field><field name="year">1968</field><field name="date">1968</field><field name="pages">45</field><field name="keywords">Educational tests and measurements</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">298</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1968</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Summary report: primary reading testing program, May 1970</field><field name="year">1970</field><field name="date">05/1970</field><field name="pages">42</field><field name="keywords">Educational tests and measurements</field><field name="keywords">Reading</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">310</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1970</field><field name="state_country">California
+<field name="title">Report of the survey: Castaic Union School District, Newhall School District, Saugus Union School District, Sulphur Springs Union School District, William S. Hart High School District</field>
+<field name="year">1966</field>
+<field name="date">05/1966</field>
+<field name="pages">500</field>
+<field name="keywords">Educational surveys</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1966</field>
+<field name="state_country">California</field>
+</doc>
 
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Summary report: primary reading testing program, May 1971</field><field name="year">1971</field><field name="date">05/1971</field><field name="pages">42</field><field name="keywords">Educational tests and measurements</field><field name="keywords">Reading</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">317</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1971</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Summary report, Mandatory state testing program, fall 1969</field><field name="year">1969</field><field name="date">1969</field><field name="pages">48</field><field name="keywords">Educational tests and measurements</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">307</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1969</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Summary report, Mandatory state testing program, fall 1970</field><field name="year">1970</field><field name="date">1970</field><field name="pages">48</field><field name="keywords">Educational tests and measurements</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">315</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1970</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">Two weeks before graduation educational and career plans of 1968 high school graduating seniors</field><field name="year">1968</field><field name="date">12/1968</field><field name="pages">120</field><field name="keywords">High school students</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">293</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1968</field><field name="state_country">California</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="title">One year after high school progress and opinions of the 1963 high school graduates as determined in may 1964</field><field name="year">1966</field><field name="date">02/1966</field><field name="pages">68</field><field name="keywords">High school graduates</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Los Angeles City School District report</field><field name="series_vol">272</field><field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1966</field><field name="state_country">California</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Manual Arts High School</field><field name="title">The life of Manual Arts High School</field><field name="year">1925</field><field name="date">1925</field><field name="pages">102</field><field name="keywords">Public schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Manual Arts High School</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1925</field><field name="state_country">California</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Manual Arts High School</field><field name="title">The life of Manual Arts High School</field><field name="date">1917</field><field name="pages">54</field><field name="keywords">Public schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="edition">2nd</field><field name="publisher">Manual Arts High School</field><field name="pub_place">Los Angeles, CA</field><field name="language">English</field><field name="call_number">379.741 .C1loa 1917</field><field name="state_country">California</field><field name="grade_level_group">High school</field></doc></add>
+<doc>
+<field name="type">Book</field>
+<field name="author">Dauwalder, Donald D</field>
+<field name="corp_author">Los Angeles (California) City Junior College District</field>
+<field name="title">Education and training for technical occupations : a study of industries and schools in the San Fernando Valley, California, relating to the education and the training required for technicians and related occupations</field>
+<field name="date">1960?</field>
+<field name="pages">166</field>
+<field name="keywords">Technical education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Junior College District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1960</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Board of Education</field>
+<field name="title">Your invitation to teach in the Los Angeles City Schools</field>
+<field name="date">1961?</field>
+<field name="keywords">Teaching</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Board of Education</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1961</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California. Legislature. Assembly. Interim Committee on Education. Adult Education Subcommittee</field>
+<field name="title">Hearing of Subcommittee of Assembly Interim Committee on Education, Los Angeles April 24, 1962</field>
+<field name="year">1962</field>
+<field name="date">04/1962</field>
+<field name="pages">98</field>
+<field name="keywords">Adult education</field>
+<field name="keywords">Vocational education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">California. Legislature. Assembly. Interim Committee on Education. Adult Education Subcommittee</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1962</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Summary report of a planning team created to develop projects to expand opportunities for the educationally deprived pupil</field>
+<field name="year">1963</field>
+<field name="date">02/1963</field>
+<field name="pages">72</field>
+<field name="keywords">Education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1963</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools. Division of Secondary Education</field>
+<field name="title">Discipline and dropouts: a report to the Ad Hoc Committee on Equal Educational Opportunities</field>
+<field name="year">1963</field>
+<field name="date">01/1963</field>
+<field name="pages">30</field>
+<field name="keywords">Dropouts</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Schools. Division of Secondary Education</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1963</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City and County Adult Administrators Association</field>
+<field name="corp_author">California State Department of Education</field>
+<field name="title">Study guide for self evaluation of adult schools</field>
+<field name="year">1960</field>
+<field name="date">05/1960</field>
+<field name="pages">56</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="edition">Rev</field>
+<field name="publisher">Los Angeles (California) City and County Adult Administrators Association</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1960</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Employees' Retirement System</field>
+<field name="title">Your retirement plan and related benefits provided by the Los Angeles City School Districts under contract with the State Employees' Retirement System of the State of California</field>
+<field name="year">1965</field>
+<field name="date">04/1965</field>
+<field name="keywords">School employees</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">California State Employees' Retirement System</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1965</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Unified School District. Budget Division</field>
+<field name="title">Tabulation of Los Angeles city schools and grades showing schools according to classification, schools according to enrollment, enrollment by grades based on classification report for first school month October 1966</field>
+<field name="year">1966</field>
+<field name="date">10/1966</field>
+<field name="pages">16</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) Unified School District. Budget Division</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1966</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Unified School District</field>
+<field name="title">The changing role of the school administrator</field>
+<field name="year">1969</field>
+<field name="date">08/1969</field>
+<field name="pages">82</field>
+<field name="keywords">School administrators</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) Unified School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1969</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Unified School District</field>
+<field name="title">EPDA a program of professional development</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="keywords">Education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) Unified School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1969</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Unified School District</field>
+<field name="title">Project eighteen as eighteen school pilot project directed toward educational change</field>
+<field name="date">1969?</field>
+<field name="pages">196</field>
+<field name="keywords">Educational change</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) Unified School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1969-70</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Unified School District. Ad Hoc Decentralization Task Force</field>
+<field name="title">Educational renewal: a proposed decentralization plan for the Los Angeles Unified School District</field>
+<field name="year">1971</field>
+<field name="date">02/1971</field>
+<field name="keywords">Schools</field>
+<field name="notes">2 volumes; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) Unified School District. Ad Hoc Decentralization Task Force</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1971</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools. Division of Career and Continuing Education</field>
+<field name="title">Specially funded schools</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">20</field>
+<field name="keywords">Adult education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Schools. Division of career and Continuing Education</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1972</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools</field>
+<field name="title">Student rights and responsibilities a handbook for elementary schools and junior and senior high schools</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="pages">71</field>
+<field name="keywords">Students</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1972</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Unified School District</field>
+<field name="title">Evaluation and assessment of performance of certificated employees</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="pages">45</field>
+<field name="keywords">School employees</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="edition">Rev</field>
+<field name="publisher">Los Angeles (California) Unified School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1973</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Eleven vital steps for the 1970's an appraisal of the Los Angeles City Unified School District's preparation Salary schedule and related matters</field>
+<field name="year">1968</field>
+<field name="date">02/1968</field>
+<field name="pages">120</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1968</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools. Division of College and Adult Education</field>
+<field name="title">Aspects of the adult education program pertaining to human relations, urban affairs, and the disadvantaged</field>
+<field name="date">1967?</field>
+<field name="pages">4</field>
+<field name="keywords">Adult education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Schools. Division of College and Adult Education</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1967</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Los Angeles City Schools employee suggestion plan</field>
+<field name="date">1959?</field>
+<field name="pages">3</field>
+<field name="keywords">School employees</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1959</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Schools. Division of Instructional Services</field>
+<field name="title">Occupational general education curricula offered in the colleges of the Los Angeles City Junior College District, 1966-67 college year</field>
+<field name="date">1967?</field>
+<field name="pages">9</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Schools. Division of Instructional Services</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1967</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Postsecondary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Assignment of teacher personnel point of view</field>
+<field name="date">11/1958</field>
+<field name="pages">4</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1958</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Elementary adult education. First annual report, 1916-1919</field>
+<field name="year">1919</field>
+<field name="date">10/1919</field>
+<field name="pages">88</field>
+<field name="keywords">Elementary education of adults</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City school district school publication</field>
+<field name="series_vol">27</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1919</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Los Angeles City Schools and the war Report on the war organization of Los Angeles city schools from the beginning of the war to February 1, 1918</field>
+<field name="year">1918</field>
+<field name="date">02/1918</field>
+<field name="pages">84</field>
+<field name="keywords">World War, 1914-1918</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Ungraded rooms in Los Angeles City Schools. First annual report by Division of Psychology</field>
+<field name="year">1919</field>
+<field name="date">06/1919</field>
+<field name="pages">36</field>
+<field name="keywords">Education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District school publication</field>
+<field name="series_vol">24</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1919</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Caughey, John W</field>
+<field name="title">Segregation blights our schools : an analysis based on the 1966 official report on racial and ethnic distribution school by school throughout the Los Angeles system</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="pages">20</field>
+<field name="keywords">Segregation in education</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Quail Books</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1967</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">California State Employees' Retirement System</field>
+<field name="title">Retirement and other benefits provided school employees by the Los Angeles City School Districts under contract with the State Employees' Retirement System of the State of California</field>
+<field name="year">1960</field>
+<field name="date">05/1960</field>
+<field name="pages">27</field>
+<field name="keywords">School employees</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="edition">Rev</field>
+<field name="publisher">California State Employees' Retirement System</field>
+<field name="pub_place">Sacramento, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1960</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Certificated personnel handbook: personnel policies and procedures</field>
+<field name="year">1959</field>
+<field name="date">04/1959</field>
+<field name="keywords">Teachers</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1959</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="title">Reference documents</field>
+<field name="year">1976</field>
+<field name="date">02/1976</field>
+<field name="keywords">School finance</field>
+<field name="notes">penciled in on cover "amended final budget, 1975-76" Shelved in Cubberley Library Reading Room</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1975-76</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">The attendance and employment of minors section has the following reponsibilities</field>
+<field name="year">1935</field>
+<field name="date">09/1935</field>
+<field name="keywords">Children</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1935</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Division of Service. Attendance and Employment of Minors Section</field>
+<field name="title">Report of boys' welfare center activities, 1925-1934</field>
+<field name="date">1934?</field>
+<field name="pages">82</field>
+<field name="keywords">Children</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District. Division of Service. Attendance and Employment of Minors Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1925-34</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Teacher load and size of classes in senior high schools</field>
+<field name="year">1935</field>
+<field name="date">10/1935</field>
+<field name="pages">95</field>
+<field name="keywords">Teaching</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1935</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) Board of Education. Committee on the Functions of Secondary School Administrative Staff Members</field>
+<field name="title">Report of the Committee on the functions of secondary school administrative staff members</field>
+<field name="year">1938</field>
+<field name="date">04/1938</field>
+<field name="pages">87</field>
+<field name="keywords">School management and organization</field>
+<field name="keywords">School principals</field>
+<field name="keywords">School Superintendents</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) Board of Education. Committee on the Functions of Secondary School Administrative Staff Members</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1938</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City Board of Education</field>
+<field name="title">The reconstruction program of the Los Angeles City Schools 1933 -35 (Inclusive)</field>
+<field name="date">1935?</field>
+<field name="pages">19</field>
+<field name="keywords">School buildings</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City Board of Education</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1933-35</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">The all-year school a report by the Committee to Study the All-Year School</field>
+<field name="year">1954</field>
+<field name="date">07/1954</field>
+<field name="pages">81</field>
+<field name="keywords">School attendance</field>
+<field name="keywords">School year</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1954</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Science and mathematics in the Los Angeles city schools; a report to the community</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="pages">31</field>
+<field name="keywords">Science</field>
+<field name="keywords">Mathematics</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1958</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Pupil-teacher ratios in certain city school systems over 100,000 in population: elementary schools, junior high schools, and high schools for twelve selected years during the period from 1934-35 to 1955-56</field>
+<field name="year">1956</field>
+<field name="date">02/1956</field>
+<field name="pages">7</field>
+<field name="keywords">Class size</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1956</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Summary of certain statistical data for forty-one city school systems in the United States 1954-1955 - 1955-56</field>
+<field name="year">1956</field>
+<field name="date">02/1956</field>
+<field name="pages">23</field>
+<field name="keywords">Schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1956</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Smith, John Allan</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Major occupations in the City of Los Angeles: with a summary of the employment situation as of the second quarter of 1956 and a forecast of job trends for 1960</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="pages">59</field>
+<field name="keywords">Occupations</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District research report</field>
+<field name="series_vol">202</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1956</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Administrative guide; containing rules of the Board of Education and administrative regulations of the Superintendent of Schools</field>
+<field name="year">1958</field>
+<field name="date">11/1958</field>
+<field name="keywords">School management and organization</field>
+<field name="keywords">School superintendents</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1958</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District</field>
+<field name="title">Discipline in the Los Angeles city schools</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="pages">16</field>
+<field name="keywords">School discipline</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles (California) City School District</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1959</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles County (California). Office of Superintendent of Schools</field>
+<field name="title">Recommendations of the "Conant Report" and their relationship to the program of the Los Angeles City Schools; a report to the Board of Education</field>
+<field name="year">1959</field>
+<field name="date">09/1959</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Los Angeles County (California). Office of Superintendent of Schools</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1959</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Employment of youth</field>
+<field name="year">1965</field>
+<field name="date">09/1965</field>
+<field name="pages">42</field>
+<field name="keywords">Youth</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">270</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1965</field>
+<field name="state_country">California</field>
+</doc>
+</add>

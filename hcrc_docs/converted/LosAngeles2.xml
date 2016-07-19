@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Dropouts vs graduates a study of some differentiating characteristics of dropouts and graduates of the Los Angles City schools</field>
+<field name="year">1965</field>
+<field name="date">02/1965</field>
+<field name="pages">61</field>
+<field name="keywords">Dropouts</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">266</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1965</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">The Los Angeles City Schools evaluation programs, fall, 1963</field>
+<field name="year">1964</field>
+<field name="date">07/1964</field>
+<field name="pages">23</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">262</field>
+<field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1964</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">The Los Angeles City Schools evaluation programs, fall, 1962</field>
+<field name="year">1963</field>
+<field name="date">06/1963</field>
+<field name="pages">23</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">255</field>
+<field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1963</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">Employment trends in Los Angeles, 1940-1960</field>
+<field name="year">1962</field>
+<field name="date">09/1962</field>
+<field name="pages">32</field>
+<field name="keywords">Labor supply</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">247</field>
+<field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1962</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">Test interpretation at the elementary school level</field>
+<field name="year">1964</field>
+<field name="date">02/1964</field>
+<field name="pages">30</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">259</field>
+<field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1964</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">Transfers, entrants, and dropouts in Los Angles City secondary schools, 1962-1963</field>
+<field name="year">1964</field>
+<field name="date">01/1964</field>
+<field name="pages">27</field>
+<field name="keywords">School enrollment</field>
+<field name="keywords">Dropouts</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">258</field>
+<field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1964</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">The dropout who returns to graduate from adult high school</field>
+<field name="year">1963</field>
+<field name="date">04/1963</field>
+<field name="pages">21</field>
+<field name="keywords">Dropouts</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">253</field>
+<field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1963</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="title">Promotion, retention, &amp; acceleration in the Los Angeles City elementary schools</field>
+<field name="year">1961</field>
+<field name="date">02/1961</field>
+<field name="pages">18</field>
+<field name="keywords">Elementary school</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">231</field>
+<field name="publisher">Los Angeles (California) City School District. Evaluation and Research Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1961</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Prediction of reading and arithmetic achievement in the primary grades</field>
+<field name="year">1966</field>
+<field name="date">10/1966</field>
+<field name="pages">16</field>
+<field name="keywords">Mathematics</field>
+<field name="keywords">Reading</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">278</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1966</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Transiency and dropout rates in Los Angeles City Schools, 1964-1965. A survey of transiency in elementary and secondary schools and of dropouts from grades 9 through twelve</field>
+<field name="year">1966</field>
+<field name="date">07/1966</field>
+<field name="pages">58</field>
+<field name="keywords">Dropouts</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">277</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1966</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Financial awards obtained by high school graduates</field>
+<field name="year">1966</field>
+<field name="date">06/1966</field>
+<field name="pages">39</field>
+<field name="keywords">Student aid</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">275</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1966</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Transiency rates in Los Angles CIty Schools, 1970-1971</field>
+<field name="date">1971?</field>
+<field name="pages">29</field>
+<field name="keywords">School enrollment</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">318</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1970-71</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Transiency rates in Los Angles City Schools, 1971-1972</field>
+<field name="date">1972?</field>
+<field name="pages">30</field>
+<field name="keywords">School enrollment</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">326</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1971-72</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Graduate and attrition rates in Los Angeles City senior high schools, class of 1969</field>
+<field name="date">1969?</field>
+<field name="pages">17</field>
+<field name="keywords">High school graduates</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">305</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1969</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Graduate and attrition rates in Los Angeles City senior high schools, class of 1972</field>
+<field name="date">1972?</field>
+<field name="pages">15</field>
+<field name="keywords">High school graduates</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">325</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1972</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Graduate and attrition rates in Los Angeles City senior high schools, classes of 1967 and 1968</field>
+<field name="year">1969</field>
+<field name="date">05/1969</field>
+<field name="pages">18</field>
+<field name="keywords">High school graduates</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">296</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1969</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">An evaluation of the utilization of counselor aides in project access</field>
+<field name="date">1972?</field>
+<field name="pages">41</field>
+<field name="keywords">Counseling</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">322</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1971-72</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Individual elementary school data, state primary grade reading testing program</field>
+<field name="year">1969</field>
+<field name="date">05/1969</field>
+<field name="pages">38</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="keywords">Reading</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">302</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1969</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">Elementary</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Individual elementary and secondary school data, state testing program</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="pages">45</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">298</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1968</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Summary report: primary reading testing program, May 1970</field>
+<field name="year">1970</field>
+<field name="date">05/1970</field>
+<field name="pages">42</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="keywords">Reading</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">310</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1970</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Summary report: primary reading testing program, May 1971</field>
+<field name="year">1971</field>
+<field name="date">05/1971</field>
+<field name="pages">42</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="keywords">Reading</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">317</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1971</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Summary report, Mandatory state testing program, fall 1969</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="pages">48</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">307</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1969</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Summary report, Mandatory state testing program, fall 1970</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="pages">48</field>
+<field name="keywords">Educational tests and measurements</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">315</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1970</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">Two weeks before graduation educational and career plans of 1968 high school graduating seniors</field>
+<field name="year">1968</field>
+<field name="date">12/1968</field>
+<field name="pages">120</field>
+<field name="keywords">High school students</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">293</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1968</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="title">One year after high school progress and opinions of the 1963 high school graduates as determined in may 1964</field>
+<field name="year">1966</field>
+<field name="date">02/1966</field>
+<field name="pages">68</field>
+<field name="keywords">High school graduates</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Los Angeles City School District report</field>
+<field name="series_vol">272</field>
+<field name="publisher">Los Angeles (California) City School District. Measurement and Evaluation Section</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1966</field>
+<field name="state_country">California</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Manual Arts High School</field>
+<field name="title">The life of Manual Arts High School</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="pages">102</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Manual Arts High School</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1925</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Manual Arts High School</field>
+<field name="title">The life of Manual Arts High School</field>
+<field name="date">1917</field>
+<field name="pages">54</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="edition">2nd</field>
+<field name="publisher">Manual Arts High School</field>
+<field name="pub_place">Los Angeles, CA</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .C1loa 1917</field>
+<field name="state_country">California</field>
+<field name="grade_level_group">High school</field>
+</doc>
+</add>
