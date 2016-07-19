@@ -1,0 +1,153 @@
+TY  - BOOK
+A2  - El Monte (California) School District
+T1  - Directory 1958-59
+D1  - 1958?
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - El Monte (California) School District
+CY  - El Monte, CA
+LA  - English
+CN  - 379.741 .C1el 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Jefferson (Daly City, California) Union High School District
+T1  - Teacher leadership development project. Final report
+D1  - 1971?
+SP  - 207
+KW  - High school teaching
+KW  - Leadership
+KW  - Teachers assistants
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Jefferson (Daly City, California) Union High School District
+CY  - Daly City, CA
+LA  - English
+CN  - 379.741 .C1d 1970-71
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+T1  - Final report on the findings of the survey questionnaire to the Board of Trustees of the Danville Union School District
+Y1  - 1953
+D1  - 09/1953
+SP  - 71
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Danville, CA
+LA  - English
+CN  - 379.741 .C1da 1953
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Davis (California) Joint Unified School District
+T1  - A call to excellence
+D1  - 1969?
+SP  - 8
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Davis (California) Joint Unified School District
+CY  - Davis, CA
+LA  - English
+CN  - 379.741 .C1dav 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Duarte (California) School District
+T1  - 1958-59 directory
+D1  - 1958?
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Duarte (California) School District
+LA  - English
+CN  - 379.741 .C1du 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Factors in future district planning: El Monte School District, Mountain View School District, Rosemead School District, Valle Lindo School District, El Monte Union High School District
+Y1  - 1963
+D1  - 02/1963
+SP  - 202
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1el 1963
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Elk Grove (California) Unified School District
+T1  - Excerpts from ESEA, Title III application secondary program for year round school
+SP  - 62
+KW  - School year
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Elk Grove (California) Unified School District
+CY  - Elk Grove, CA
+LA  - English
+CN  - 379.741 .C1elk
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Elsinore (California) Union High School District
+T1  - Educational specifications, Elsinore Union High School
+Y1  - 1965
+D1  - 06/1965
+SP  - 116
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Elsinore (California) Union High School District
+LA  - English
+CN  - 379.741 .C1els 1965
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Eureka (California) Chamber of Commerce
+T1  - A study of the working of the Eureka school plan
+Y1  - 1926
+D1  - 05/1926
+SP  - 35
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Redwood chips
+V1  - 3
+IS  - 11
+PB  - Eureka (California) Chamber of Commerce
+CY  - Eureka, CA
+LA  - English
+CN  - 379.741 .C1eu 1926
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - In the heart of the redwoods
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Eureka, CA
+LA  - English
+CN  - 379.741 .C1eu
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Population growth, housing, finance and district organization, Excelsior Union High School District area
+Y1  - 1953
+D1  - 06/1953
+SP  - 60
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1ex 1953
+SC  - California
+ER  - 
