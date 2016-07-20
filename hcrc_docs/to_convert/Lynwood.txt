@@ -1,0 +1,205 @@
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - October report of high school principal
+Y1  - 1957
+D1  - 1957
+SP  - 4
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - California State Department of Education
+LA  - English
+CN  - 379.741 .C1ly 1957
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Lynwood (California) Unified School District
+T1  - The classified personnel and operations-maintenance programs
+Y1  - 1970
+D1  - 1970
+SP  - 134
+KW  - School management and organization
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lynwood (California) Unified School District
+LA  - English
+CN  - 379.741 .C1ly 1970
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Lynwood (California) Unified School District
+T1  - Personnel directory
+D1  - 1959?
+SP  - 64
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lynwood (California) Unified School District
+CY  - Lynwood, CA
+LA  - English
+CN  - 379.741 .C1ly 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Madera (California) Union High School District
+T1  - Administrative guide
+Y1  - 1958
+D1  - 08/1958
+SP  - 105
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Madera (California) Union High School District
+CY  - Madera, CA
+LA  - English
+CN  - 379.741 .C11ma 1958
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - California Association of Secondary School Administrators
+T1  - Accreditation study Marysville Union High School
+Y1  - 1959
+D1  - 03/1959
+SP  - 137
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - California Association of Secondary School Administrators
+CY  - Marysville, CA
+LA  - English
+CN  - 379.741 .C11mar 1959
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Report of the visiting committee appointed by California Association Secondary School Administrators
+T1  - California Association of Secondary School Administrators
+Y1  - 1959
+D1  - 04/1959
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - California Association of Secondary School Administrators
+CY  - Marysville, CA
+LA  - English
+CN  - 379.741 .C11mar 1959
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Menlo Park (California) City School District
+T1  - School directory
+D1  - 1959?
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Menlo Park (California) City School District
+CY  - Menlo Park, CA
+LA  - English
+CN  - 379.741 .C1me 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Monrovia (California) City Schools
+T1  - Directory for 1958-1959
+D1  - 1959?
+SP  - 36
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Monrovia (California) City Schools
+LA  - English
+CN  - 379.741 .C1moi 1958-1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Modesto (California) City Board of Education
+T1  - Teacher salary schedule
+Y1  - 1940
+D1  - 03/1940
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Modesto (California) City Board of Education
+LA  - English
+CN  - 379.741 .C1mo 1970
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - Administrative code and procedure book
+Y1  - 1957
+D1  - 08/1957
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Modesto (California) City Schools
+LA  - English
+CN  - 379.741 .C1mo 1957
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Montebello (California) Unified School District
+T1  - Directory 1962-1963
+D1  - 1963?
+SP  - 78
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montebello (California) Unified School District
+CY  - Montebello, CA
+LA  - English
+CN  - 379.741 .C1mon 1962-63
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Monterey (California) City School District
+A2  - Monterey (California) Union High School District
+A2  - Monterey (California) Peninsula College
+T1  - Directory Monterey public schools
+D1  - 1959?
+SP  - 30
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Monterey, CA
+LA  - English
+CN  - 379.741 .C1mor 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Mountain View-Los Altos Union High School District
+T1  - Superintendent's report
+Y1  - 1968
+D1  - 03/1968
+SP  - 132
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Mountain View-Los Altos Union High School District
+CY  - Mountain View, CA
+LA  - English
+CN  - 379.741 .C1mou 1968
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Factors in future district planning: Costa Mesa Union School District, Newport Beach City School District, Newport Harbor Union High School District
+Y1  - 1962
+D1  - 11/1962
+SP  - 153
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1 1962
+SC  - California
+ER  -
