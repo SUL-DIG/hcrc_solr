@@ -1,0 +1,404 @@
+TY  - BOOK
+A2  - Palos Verdes Peninsula (California) Unified School District
+T1  - Report to the community: a profile of the Palos Verdes Peninsula Unified School District
+Y1  - 1969
+D1  - 1969
+SP  - 19
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Palos Verdes Peninsula (California) Unified School District
+CY  - Rolling Hills, CA
+LA  - English
+CN  - 379.741 .C1pal 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - District growth and the community college; Palo Verde Unified School District
+Y1  - 1964
+D1  - 08/1964
+SP  - 94
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1pav 1964
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Attendance handbook Paramount Unified School District
+Y1  - 1959
+D1  - 09/1959
+SP  - 47
+KW  - School attendance
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Paramount (California) Unified School District
+LA  - English
+CN  - 379.741 .C1par 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - The report of the survey of the Paramount Elementary School District
+Y1  - 1950
+D1  - 03/1950
+SP  - 331
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Paramount, CA
+LA  - English
+CN  - 379.741 .C1par 1950
+SC  - California
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - The report of the survey, 1970
+Y1  - 1970
+D1  - 07/1970
+SP  - 226
+KW  - Educational surveys
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Paramount, CA
+LA  - English
+CN  - 379.741 .C1par 1970
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Paramount (California) Unified School District
+T1  - Directory, 1958-1959
+D1  - 1959?
+SP  - 80
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Paramount (California) Unified School District
+LA  - English
+CN  - 379.741 .C1par 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Annual report of the chief accountant for the school year ending June 30, 1934. Financial and attendance statistics
+Y1  - 1934
+D1  - 08/1934
+SP  - 32
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1934
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Sachs, Georgia May
+A2  - Pasadena (California) City Schools
+T1  - Research studies basic to the development of a post-war building program for the Pasadena City Schools
+SP  - 97
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pasadena (California) City Schools
+LA  - English
+CN  - 379.741 .C1pas
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Educational accomplishment as indicated by tests and measurements
+Y1  - 1929
+D1  - 10/1929
+SP  - 54
+KW  - Educational tests and measurements
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pasadena City Schools administrative research series, 1929
+V1  - 3
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1929
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Salary schedule and its administrative regulations
+Y1  - 1928
+D1  - 05/1928
+SP  - 34
+KW  - Teachers
+KW  - Wages
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pasadena City Schools monograph
+V1  - 2
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1928
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - The Kindergarten-six-four-four plan of public school organization
+Y1  - 1928
+D1  - 08/1928
+SP  - 12
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1928
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Policies of control, administration and management
+Y1  - 1936
+D1  - 10/1936
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1935-36
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - The instructional staff: salaries, training and teaching loads comparatively treated
+Y1  - 1929
+D1  - 08/1929
+SP  - 44
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pasadena City Schools administrative research series, 1929
+V1  - 2
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1929
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irvign R
+A2  - South Pasadena (California) Unified School District
+T1  - Report of the survey of the South Pasadena Unified School District Part 2: secondary school program
+Y1  - 1953
+D1  - 05/1953
+SP  - 143
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South Pasadena (California) Unified School District
+LA  - English
+CN  - 379.741 .C1pas 1953
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Directory Pasadena City Schools 1958-1959
+D1  - 1959?
+SP  - 171
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - A nineteen year summary of school enrollments by ethnic groups
+Y1  - 1965
+D1  - 02/1965
+SP  - 42
+KW  - Ethnic groups
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pasadena City Schools research report
+V1  - 240
+PB  - Pasadena (California) City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1965
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Academic choices and future plans of the 1968 graduating class, Pasadena high schools
+Y1  - 1968
+D1  - 06/1968
+SP  - 11
+KW  - High school graduates
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Pasadena City Schools research report
+V1  - 273
+PB  - Pasadena (California) City Schools
+LA  - English
+CN  - 379.741 .C1pas 1968
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Pasadena (California) Unified School District
+T1  - Academic choices and future plans of the 1970 graduating class, Pasadena high schools
+Y1  - 1970
+D1  - 06/1970
+SP  - 76
+KW  - High school graduates
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pasadena (California) Unified School District
+LA  - English
+CN  - 379.741 .C1pas 1970
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Kurtz, Harold
+A2  - Pasadena (California) Unified School District
+T1  - The preliminary sections of introduction, summation, and abridgment from the report: The educational and demographic consequences of four years of school desegregation in the Pasadena Unified School District
+Y1  - 1975
+D1  - 1975
+KW  - School integration
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pasadena (California) Unified School District
+CY  - Pasadena, CA
+LA  - English
+CN  - 379.741 .C1pas 1975
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Future school housing and district organization
+Y1  - 1962
+D1  - 02/1962
+SP  - 163
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1pl 1962
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Pomona (California) Unified School District
+T1  - Directory, Pomona Unified School District  1958-1959
+D1  - 1959?
+SP  - 60
+KW  = Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pomona (California) Unified School District
+CY  - Pomona, CA
+LA  - English
+CN  - 379.741 .C1po 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - California Taxpayers Association
+T1  - Management study: Red Bluff School Districts, Red Bluff, California, for Boards of Education
+Y1  - 1972
+D1  - 12/1972
+KW  - School superintendents and principals
+N1  - 1 volume (various pagings); Shelved in Cubberley Library Reading Room
+PB  - California Taxpayers Association
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.741 .C1re 1972
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Directory of Redlands public schools, 1958-1959
+D1  - 1959?
+SP  - 35
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Redlands, CA
+LA  - English
+CN  - 379.741 .C1red 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Sequoia Union (California) High School District
+T1  - Directory Sequoia Union High School District 1958-1959
+D1  - 1959?
+SP  - 40
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Sequoia Union (California) High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 379.741 .C1rew 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Stanford University. School of Education
+T1  - Current and projected operating costs
+Y1  - 1964
+D1  - 09/1964
+SP  - 35
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Stanford University. School of Education
+CY  - Stanford, CA
+LA  - English
+CN  - 379.741 .C1rew 1964
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Riverside (California) City Schools
+T1  - Directory, Riverside City Schools 1958-59
+D1  - 1959?
+SP  - 63
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Riverside (California) City Schools
+CY  - Riverside, CA
+LA  - English
+CN  - 379.741 .C1rv 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Rosemead (California) School District
+T1  - Report of the survey, Rosemead School District
+Y1  - 1968
+D1  - 05/1968
+SP  - 278
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Rosemead (California) School District
+LA  - English
+CN  - 379.741 .C1ro 1968
+SC  - California
+ER  -
