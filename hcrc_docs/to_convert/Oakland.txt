@@ -1,0 +1,269 @@
+TY  - BOOK
+
+T1  - Course of study for the elementary schools of the city of Oakland
+Y1  - 1910
+D1  - 1910
+SP  - 53
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1oa 1910
+SC  - California
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+T1  - Course of study of the public schools of the city of Oakland
+Y1  - 1907
+D1  - 1907
+SP  - 180
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1oa 1907
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Course of study of the public schools of the city of Oakland
+Y1  - 1906
+D1  - 1906
+SP  - 164
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1oa 1906
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Course of study of the public schools of the city of Oakland
+Y1  - 1903
+D1  - 1903
+SP  - 112
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1oa 1903
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Oakland (California) Board of Education
+T1  - Oakland public schools; special edition Superintendent's bulletin
+Y1  - 1926
+D1  - 01/1926
+SP  - 39
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oakland (California) Board of Education
+LA  - English
+CN  - 379.741 .C1oa 1926
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - October report of high school principal, 1958
+Y1  - 1958
+D1  - 1958
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1oa 1958
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Magnuson, Henry W
+A2  - Oakland (California) Public Schools
+T1  - A study of the age distribution of the teaching personnel - junior high schools
+Y1  - 1935
+D1  - 06/1935
+SP  - 23
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oakland (California) Public Schools
+LA  - English
+CN  - 379.741 .C1oa 1935
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Organization, finance, and personnel: Orange Unified School District
+Y1  - 1966
+D1  - 05/1966
+SP  - 136
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1on 1966
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A survey of recreation services in Orinda
+Y1  - 1969
+D1  - 1969
+SP  - 27
+KW  - Recreation
+N1  - Shelved in Cubberley Library Reading Room
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.741 .C1or 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - Oxnard (California) Union High School District
+T1  - The report of the survey of the Oxnard High School District
+Y1  - 1949
+D1  - 01/1949
+SP  - 265
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oxnard (California) Union High School District
+LA  - English
+CN  - 379.741 .C1ox 1949
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Oxnard (California) Union High School District
+T1  - Report on the Oxnard Union High School District
+Y1  - 1958
+D1  - 12/1958
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Oxnard (California) Union High School District
+LA  - English
+CN  - 379.741 .C1ox 1958
+SC  - California
+G1 - High school
+ER  -
+
+TY  - BOOK
+A2  - Pacific Grove (California) Unified School District
+T1  - Directory 1958-59
+D1  - 1959?
+SP  - 9
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pacific Grove (California) Unified School District
+CY  - Pacific Grove, CA
+LA  - English
+CN  - 379.741 .C1p 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Personnel handbook
+D1  - 1959?
+SP  - 23
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.741 .C1pa 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Palo Alto (California) School Board
+T1  - Statement of the Palo Alto School Board to the Committee appointed to investigate conditions in the high school
+D1  - 1907?
+SP  - 29
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Palo Alto (California) School Board
+LA  - English
+CN  - 379.741 .C1pa 1907
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Curriculum development in the Palo Alto Unified School District
+Y1  - 1960
+D1 -  08/1960
+SP  - 30
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.741 .C1pa 1957-60
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Palo Alto schools, school finance issue
+Y1  - 1965
+D1  - 1965
+SP  - 16
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Palo Alto schools in action
+PB  - Palo Alto (California) Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.741 .C1pa 1965
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Summary report of the Building Advisory Committee for the proposed bond issue election to be held May 19, 1959
+Y1  - 1959
+D1  - 01/1959
+SP  - 14
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Palo Alto (California) Unified School District
+LA  - English
+CN  - 379.741 .C1pa 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Headley, H. Klyne
+A2  - Palo Alto (California) Unified School District
+T1  - Biennial report, Supervisor of Instrumental music
+Y1  - 1939
+D1  - 06/1939
+SP  - 53
+KW  - Music
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Palo Alto (California) Unified School District
+LA  - English
+CN  - 379.741 .C1pa 1939
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Palo Alto (California) Union High School Trustees
+T1  - The consolidation of Union High School Districts Mountain View, Sequoia, Palo Alto;  Some suggestions and a definite proposal
+D1  - 1920?
+SP  - 10
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Palo Alto (California) Union High School Trustees
+LA  - English
+CN  - 379.741 .C1pa 1920
+SC  - California
+G1  - High school
+ER  - 
