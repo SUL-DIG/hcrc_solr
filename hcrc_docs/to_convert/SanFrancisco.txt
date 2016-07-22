@@ -1,0 +1,451 @@
+
+TY  - BOOK
+T1  - Rules and regulations of the public schools of the City and County of San Francisco
+Y1  - 1871
+D1  - 1871
+SP  - 58
+KW  - Educational law and legislation
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SAF 1871
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Citizens Committee for the Study of Teachers' Salaries (San Francisco, California)
+T1  - Salary schedules for San Francisco public schools report of Citizens committee for the study of teachers' salaries
+Y1  - 1929
+D1  - 12/1929
+SP  - 102
+KW  - Teachers
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Citizens Committee for the Study of Teachers' Salaries (San Francisco, California)
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SAF 1929
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco Classroom teachers Association
+T1  - A guide for the classroom teachers of San Francisco
+D1  - 1950?
+SP  - 32
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco Classroom teachers Association
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SAF 1950
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Spears, Harold
+A2  - San Francisco (California) Unified School District. Advisory Committee on Helping Plan the Future of San Francisco Continuation School
+T1  - Report
+Y1  - 1952
+D1  - 1952
+SP  - 55
+KW  - Evening and continuation schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California)  Unified School District. Advisory Committee on Helping Plan the Future of San Francisco Continuation School
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SAF 1952
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Skinner, Elmer F
+T1  - Report relative to proposals submitted before the Board of Education Curriculum Committee March 16 to April 22, 1959
+Y1  - 1959
+D1  - 06/1959
+SP  - 59
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Report of the San Francisco Curriculum Survey Committee
+Y1  - 1960
+D1  - 04/1960
+SP  - 63
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1960
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Board of Education
+T1  - The San Francisco teacher recruitment and training program :a five-year cooperative project, 1954-1959
+Y1  - 1960
+D1  - 07/1960
+SP  - 119
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Board of Education
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SAF 1960
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Financial operation of the San Francisco Unified School District
+D1  - 1959?
+SP  - 4
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - References relating to De Facto segregation in California
+D1  - 1963?
+SP  - 2
+KW  - Segregation
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SAF 1963
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Policies of the San Francisco Board of Education
+D1  - 1970?
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1970
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Descriptions of duties and responsibilities of the members of the administrative staff San Francisco Public Schools
+Y1  - 1942
+D1  - 06/1942
+SP  - 39
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SAF 1942
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Administrative organization study
+D1  - 1944?
+SP  - 58
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1944
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Lowell High School (San Francisco, California) Alumni Association
+T1  - Roster of graduates of the San Francisco High School, Boys' High School, Lowell High School, 1856-1930
+D1  - 1930?
+SP  - 91
+KW  - School yearbooks
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lowell High School (San Francisco, California) Alumni Association
+LA  - English
+CN  - 379.741 .C1SAF 1856-1930
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Complete draft of an administrative code for the San Francisco Unified School District
+Y1  - 1946
+D1  - 02/1946
+SP  - 31
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1946
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Public Schools
+T1  - San Francisco schools serve the community a report to the community
+Y1  - 1947
+D1  - 1947
+SP  - 92
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Public Schools
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SAF 1947
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Warren, Curtis E
+A2  - San Francisco (California) Unified School District
+T1  - Salary study report of the Administrative Committee
+Y1  - 1947
+D1  - 03/1947
+SP  - 122
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1947
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - San Francisco City Schools directory
+Y1  - 1978
+D1  - 08/1978
+SP  - 3
+KW  - Directories
+KW  - Public schools
+N1  - Title "San Francisco City Schools directory" is penciled in on cover; Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SAF 1978
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Spears, Harold
+T1  - Considerations in strengthening the present curriculum of the San Francisco schools
+Y1  - 1958
+D1  - 03/1958
+SP  - 4
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SAF 1958
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Full-time, regular, certificated staff employment data - 1958-59
+D1  - 1959?
+KW  - School employees
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Teacher recruitment and training program
+D1  - 1959
+SP  - 6
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Schedule of 1956 school bond projects
+Y1  - 1959
+D1  - 08/1959
+KW  - School facilities
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Curriculum improvement, school year 1958-59; as presented to the Board of Education, September 2, 1958)
+Y1  - 1958
+D1  - 09/1958
+SP  - 5
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Enrollment trends Comparative summary of active enrollment for the school years 1957-58 and 1958-59 based on
+D1  - 1959?
+SP  - 2
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Adult and vocational division
+D1  - 1959?
+SP  - 3
+KW  - Vocational education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Child care centers
+D1  - 1959?
+SP  - 2
+KW  - Day care centers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Financial operation of the San Francisco Unified School District
+D1  - 1959?
+SP  - 4
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Hart, F.W
+A2  - San Francisco Teachers Consolidated Salary Study Committee
+T1  - Teachers salaries in San Francisco, a survey and professional salary scale
+D1  - 1928?
+SP  - 148
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco Teachers Consolidated Salary Study Committee
+CY  - San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SAF 1928
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - 1958-59 administrative and supervisory staff, compared with 1954-55
+Y1  - 1959
+D1  - 02/1959
+KW  - School employees
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAF 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Galarza, Ernesto
+A2  - San Jose (California) Unified School District
+T1  - Bilingual-bicultural education in the San Jose Unified School District
+Y1  - 1973
+D1  - 06/1973
+SP  - 56
+KW  - Bilingual education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Jose (California) Unified School District
+CY  - San Jose, CA
+LA  - English
+CN  - 379.741 .C1SAJ 1973
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Draft for discussion residential growth and school capacity; a staff report for the measure "B" study
+Y1  - 1975
+D1  - 04/1975
+SP  - 80
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - San Jose, CA
+LA  - English
+CN  - 379.741 .C1SAJ 1975
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Jose (California) Unified School District
+T1  - Salary schedule for certificated personnel for the year 1949-1950
+D1  - 1950?
+SP  - 14
+KW  - School employees
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Jose (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAJ 1949/1950
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - San Marino (California) Unified School District
+T1  - Directory San Marino unified school district 1958-1959
+D1  - 1959?
+SP  - 18
+KW  - directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Marino (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAO 1958/1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - San Jacinto (California) Unified School District
+T1  - Educational specifications San Jacinto High School
+Y1  - 1965
+D1  - 01/1965
+SP  - 86
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Jacinto (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SAI 1965
+SC  - California
+ER  -
