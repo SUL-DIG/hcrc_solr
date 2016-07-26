@@ -1,0 +1,1147 @@
+TY  - BOOK
+A1  - Melbo, Irving R
+A2  - San Luis Obispo (California) City Schools
+T1  - Report of the survey: San Luis Obispo city schools, May 1959
+Y1  - 1959
+D1  - 05/1959
+SP  - 514
+KW  - educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Luis Obispo (California) City Schools
+LA  - English
+CN  - 379.741 .C1SAL 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Salzman, Gary
+T1  - San Mateo High through the years
+Y1  - 1960
+D1  - 04/1960
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SAM 1960
+SC  - California
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - San Mateo City Schools (California) Human Relations Study Committee
+T1  - Toward cultural pluralism a report of the San Mateo City Schools Human Relations Study Committee
+Y1  - 1974
+D1  - 06/1974
+KW  - Minorities
+KW  - Pluralism
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Mateo City Schools (California) Human Relations Study Committee
+LA  - English
+CN  - 379.741 .C1SAM 1974
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Evaluation report a community looks at itself
+Y1  - 1966
+D1  - 10/1966
+SP  - 28
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - San Mateo, CA
+LA  - English
+CN  - 379.741 .C1SAM 1966
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - California Taxpayers Association
+T1  - Management study: San Mateo City School District, San Mateo, California, for [the] Board of Education, San Mateo City School District
+Y1  - 1970
+D1  - 06/1970
+SP  - 230
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - California Taxpayers Association
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.741 .C1SAM 1970
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Dismissal of certificated employees under the tenure act, and rules of procedure
+Y1  - 1931
+D1  - 1931
+SP  - 22
+KW  - School employees
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SAM 1931
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Stanford University. School of Education
+T1  - Study of current and projected operating costs in the San Rafael public schools
+Y1  - 1962
+D1  - 02/1962
+SP  - 65
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Stanford University. School of Education
+CY  - Stanford, CA
+LA  - English
+CN  - 379.741 .C1SAR 1962
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Ana (California) Board of Education
+T1  - Budget of the Santa Ana City Schools for the year 1932-33
+D1  - 1932?
+SP  - 43
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Ana (California) Board of Education
+CY  - Santa Monica, CA
+LA  - English
+CN  - 379.741 .C1SN 1932
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Ana (California) Board of Education
+T1  - An open letter to parents and taxpayers
+D1  - 1956?
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Ana (California) Board of Education
+CY  - Santa Ana, CA
+LA  - English
+CN  - 379.741 .C1SN 1956
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Henry, Mary Bess
+A2  - Santa Ana (California) Public Schools. Department of Research
+T1  - Four years of standard tests and measurements
+Y1  - 1921
+D1  - 06/1921
+SP  - 27
+KW  - Educational tests and measurements
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Santa Ana Public Schools Department of Research publication
+V1  - 3
+PB  - Santa Ana (California) Public Schools. Department of Research
+LA  - English
+CN  - 379.741 .C1SN 1921
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Ana (California) Board of Education
+T1  - Facts and figures a summary of the various financial operation of the Santa Ana schools including grades kindergarten through high school and Junior college
+D1  - 1969?
+SP  - 28
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Ana (California) Board of Education
+CY  - Santa Ana, CA
+LA  - English
+CN  - 379.741 .C1SN 1968-1969
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Barbara (California) School District
+A2  - Santa Barbara (California) High School District
+T1  - 1967/1968 Superintendent's annual report
+D1  - 1968?
+KW  - Education
+N1  - Supplement to Santa Barbara News-Press June 7, 1968; Shelved in Cubberley Library Reading Room
+PB  - Santa Barbara (California) School District
+LA  - English
+CN  - 379.741 .C1SNB 1967/1968
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Barbara (California) School District
+A2  - Santa Barbara (California) High School District
+T1  - 1966-1967 Superintendent's annual report
+D1  - 1967?
+KW  - Education
+N1  - On cover "Education in Santa Barbara the rights and responsibilities"; Shelved in Cubberley Library Reading Room
+PB  - Santa Barbara (California) School District
+LA  - English
+CN  - 379.741 .C1SNB 1966/1967
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Cruz (California) Board of Education
+T1  - Planning the Natural Bridges School
+D1  - 1960?
+KW  - Elementary school buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Cruz (California) Board of Education
+LA  - English
+CN  - 379.741 .C1SNC
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Administrative code of the Santa Barbara City Schools
+SP  - 16
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SNB
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Consultants to Industry, Inc
+T1  - Santa Cruz City Schools - PACE project ESEA
+SP  - 60
+KW  - Education
+N1  - Title III consultants service contract 4-6-00491-0382; Shelved in Cubberley Library Reading Room
+PB  - Consultants to Industry, Inc
+CY  - Palo Alto, CA
+LA  - English
+CN  - 379.741 .C1S
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Bohne, Emmitt J
+A2  - Santa Clara County (California) Office of Education
+T1  - Factors relating to school district organization: Santa Clara Union High School Area
+Y1  - 1962
+D1  - 06/1962
+SP  - 50
+KW  - School districts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Clara County (California) Office of Education
+LA  - English
+CN  - 379.741 .C1SNA 1962
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Maria (California) Union High School District
+T1  - Secondary Unified Bilingual Education - a model for commitment
+D1  - 1976?
+SP  - 17
+KW  - Bilingual education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Maria (California) Union High School District
+CY  - Santa Maria, CA
+LA  - English
+CN  - 379.741 .C1SNI 1975-76
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Monica (California) City Schools
+T1  - Budget of the Santa Monica City Schools for the fiscal year 1940-41
+Y1  - 1940
+D1  - 06/1940
+SP  - 65
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Monica (California) City Schools
+LA  - English
+CN  - 379.741 .C1SNM 1940/1941
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Monica (California) City Schools
+T1  - Budget of the Santa Monica City Schools for the fiscal year 1940-41
+Y1  - 1941
+D1  - 06/1941
+SP  - 67
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Monica (California) City Schools
+LA  - English
+CN  - 379.741 .C1SNM 1941/1942
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Monica (California) City Schools
+T1  - Budget of the Santa Monica City Schools for the fiscal year 1938-39
+Y1  - 1938
+D1  - 06/1938
+SP  - 65
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Monica (California) City Schools
+LA  - English
+CN  - 379.741 .C1SNM 1938/1939
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Monica (California) Unified School District
+T1  - Report of the Citizens' Advisory Committee Santa Monica School District
+Y1  - 1957
+D1  - 01/1957
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Monica (California) Unified School District
+CY  - Santa Monica, CA
+LA  - English
+CN  - 379.741 .C1SNM 1957
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Monica (California) Board of Education
+T1  - Financial plan for the organization, maintenance, expansion and modernization of the Santa Monica City Schools
+Y1  - 1950
+D1  - 06/1950
+SP  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Monica (California) Board of Education
+LA  - English
+CN  - 379.741 .C1SNM 1949-55
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Factors in district organization: Santa Paula Elementary School District, Briggs School District, Mupu School District, Santa Clara School District, Santa Paula High School District
+Y1  - 1959
+D1  - 12/1959
+SP  - 110
+KW  - Educational surveys
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SNP 1959
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Factors in future district planning: South Bay Union High School District
+Y1  - 1963
+D1  - 07/1963
+SP  - 185
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SO 1963
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Sausalito (California) School District
+T1  - Something that's happening: a portrait of the Sausalito School District
+Y1  - 1968
+D1  - 1968
+KW  - Segregation in education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Sausalito (California) School District
+LA  - English
+CN  - 379.741 .C1SNS
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Santa Rosa (California). Year-Round School Study Committee
+T1  - A study of school plant utilization; traditional school year and summer school, double sessions, eleven month plan, staggered four-quarter plan
+Y1  - 1967
+D1  - 1967
+SP  - 83
+KW  - School year
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Santa Rosa (California). Year-Round School Study Committee
+CY  - Santa Rosa, CA
+LA  - English
+CN  - 379.741 .C1SNR 1967
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Report of the survey: South San Francisco Unified School District
+Y1  - 1967
+D1  - 05/1967
+SP  - 423
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SOF 1967
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - South San Francisco (California) Unified School District. PACE I.D. Center
+T1  - Investments in prevention : the prevention of learning and behavior problems in young children evaluation report 1966-1969
+Y1  - 1969
+D1  - 06/1969
+SP  - 116
+KW  - Child development
+KW  - Child psychology
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South San Francisco (California) Unified School District. PACE I.D. Center
+LA  - English
+CN  - 379.741 .C1SOF 1966-69
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - South San Francisco (California) Unified School District. PACE I.D. Center
+T1  - Investments in prevention : the prevention of learning and behavior problems in young children Early intervention part 1, School-home-community 1966-1969
+Y1  - 1969
+D1  - 06/1969
+SP  - 74
+KW  - Child development
+KW  - Child psychology
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South San Francisco (California) Unified School District. PACE I.D. Center
+LA  - English
+CN  - 379.741 .C1SOF 1966-69 pt.1
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - South San Francisco (California) Unified School District. PACE I.D. Center
+T1  - Investments in prevention : the prevention of learning and behavior problems in young children Early intervention part 2, the PACE social worker, consultants as collaborators
+Y1  - 1969
+D1  - 06/1969
+SP  - 48
+KW  - Child development
+KW  - Child psychology
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South San Francisco (California) Unified School District. PACE I.D. Center
+LA  - English
+CN  - 379.741 .C1SOF 1966-69 pt.2
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - South San Francisco (California) Unified School District. PACE I.D. Center
+T1  - Investments in prevention : the prevention of learning and behavior problems in young children, dissemination and implementation report
+Y1  - 1969
+D1  - 06/1969
+SP  - 44
+KW  - Child development
+KW  - Child psychology
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South San Francisco (California) Unified School District. PACE I.D. Center
+LA  - English
+CN  - 379.741 .C1SOF 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - South San Francisco (California) Unified School District
+T1  - Duties of the Superintendent (Secretary of the Governing Board)
+KW  - School superintendents
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South San Francisco (California) Unified School District
+LA  - English
+CN  - 379.741 .C1SOF
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - South San Francisco (California) Unified School District. PACE I.D. Center
+T1  - Suggested references having relevance to the yearly identification of and early intervention with young children with learning and/or behavior problems
+Y1  - 1969
+D1  - 06/1969
+KW  - Child development
+KW  - Child psychology
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South San Francisco (California) Unified School District. PACE I.D. Center
+CY  - South San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SOF 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - South San Francisco (California) Unified School District. PACE I.D. Center
+T1  - Summary statement
+Y1  - 1969
+D1  - 06/1969
+KW  - Child development
+KW  - Child psychology
+N1  - Shelved in Cubberley Library Reading Room
+PB  - South San Francisco (California) Unified School District. PACE I.D. Center
+CY  - South San Francisco, CA
+LA  - English
+CN  - 379.741 .C1SOF 1969
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Outline of studies for the primary and grammar schools of the City of Stockton California
+Y1  - 1900
+D1  - 1900
+SP  - 219
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1STO 1900
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Report of the survey: Taft City School District
+Y1  - 1960
+D1  - 07/1960
+SP  - 373
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1T 1960
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Stockton (California) Unified School District
+T1  - Rules and regulations
+Y1  - 1941
+D1  - 06/1941
+SP  - 36
+KW  - Educational management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Stockton (California) Unified School District
+LA  - English
+CN  - 379.741 .C1STO
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Sunnyvale in transition: A study of the school building needs of the Sunnyvale Elementary School District
+D1  - 1958?
+SP  - 19
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1SU 1958
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Tamalpais Union (California) High School District
+T1  - District office personnel organization and assignments, personnel handbook no.1
+Y1  - 1967
+D1  - 01/1967
+SP  - 43
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Tamalpais Union (California) High School District
+CY  - Larkspur, CA
+LA  - English
+CN  - 379.741 .C1TA 1967
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - Factors in district organization: Topanga School District
+Y1  - 1960
+D1  - 12/1960
+SP  - 58
+KW  - Educational surveys
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1TO 1960
+SC  - California
+ER  -
+
+TY  - BOOK
+T1  - Vallejo schools at work; a report on the schools of Vallejo, California
+Y1  - 1944
+D1  - 1944
+SP  - 68
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1VA 1944
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - East Whittier (California) City School District
+T1  - Directory for East Whittier City School District 1958-1959
+D1  - 1959?
+SP  - 28
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - East Whittier (California) City School District
+CY  - Whittier, CA
+LA  - English
+CN  - 379.741 .C1WH 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Whittier (California) City School District
+T1  - Directory for East Whittier City School District 1958-1959
+D1  - 1959?
+SP  - 24
+KW  - Directories
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - East Whittier (California) City School District
+CY  - Whittier, CA
+LA  - English
+CN  - 379.741 .C1WH 1958-59
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - School district reorganization in the Whittier Union High School area
+Y1  - 1955
+D1  - 04/1955
+SP  - 41
+KW  - Education surveys
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C1WH 1955
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Whittier (California) City School District
+T1  - Children of democracy
+Y1  - 1939
+D1  - 04/1939
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Whittier (California) City School District
+CY  - Whittier, CA
+LA  - English
+CN  - 379.741 .C1WH 1939
+SC  - California
+ER  -
+
+TY  - BOOK
+A1  - Melbo, Irving R
+T1  - The report of the school housing survey of the Ventura Union High School District, Ventura California
+Y1  - 1950
+D1  - 01/1950
+SP  - 100
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V 1950
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) Union High School District
+T1  - Future school plant needs
+Y1  - 1961
+D1  - 04/1961
+SP  - 58
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Ventura (California) Union High School District
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V 1961
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Preliminary classification survey
+Y1  - 1931
+D1  - 09/1931
+SP  - 16
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.1
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Reading survey, grades I-VIII
+Y1  - 1931
+D1  - 10/1931
+SP  - 14
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.3
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Reading survey, grades I-VIII
+Y1  - 1931
+D1  - 11/1931
+SP  - 13
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.5
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Reading survey, grades I-VIII
+Y1  - 1932
+D1  - 01/1932
+SP  - 15
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.7
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Reading survey, grades I-VIII
+Y1  - 1932
+D1  - 02/1932
+SP  - 16
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.10
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Reading survey, grades I-VIII
+Y1  - 1932
+D1  - 03/1932
+SP  - 15
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.12
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Reading survey, grades I-VIII
+Y1  - 1932
+D1  - 04/1932
+SP  - 15
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.15
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Reading survey, grades I-VIII
+Y1  - 1932
+D1  - 06/1932
+SP  - 15
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.18
+SC  - California
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Otis intelligence tests
+Y1  - 1931
+D1  - 09/1931
+SP  - 16
+KW  - Intelligence tests
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.2
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Arithmetic survey, Grades III-VIII
+Y1  - 1931
+D1  - 10/1931
+SP  - 11
+KW  - Arithmetic
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.4
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Arithmetic survey, Grades III-VIII
+Y1  - 1931
+D1  - 11/1931
+SP  - 14
+KW  - Arithmetic
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.6
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Arithmetic survey, Grades III-VIII
+Y1  - 1932
+D1  - 01/1932
+SP  - 14
+KW  - Arithmetic
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.8
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Arithmetic survey, Grades III-VIII
+Y1  - 1932
+D1  - 02/1932
+SP  - 16
+KW  - Arithmetic
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.11
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Arithmetic survey, Grades III-VIII
+Y1  - 1932
+D1  - 03/1932
+SP  - 16
+KW  - Arithmetic
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.13
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Arithmetic survey, Grades III-VIII
+Y1  - 1932
+D1  - 04/1932
+SP  - 14
+KW  - Arithmetic
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.16
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Arithmetic survey, Grades III-VIII
+Y1  - 1932
+D1  - 06/1932
+SP  - 13
+KW  - Arithmetic
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.19
+SC  - California
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Teacher-load in Ventura County
+Y1  - 1932
+D1  - 01/1932
+SP  - 46
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.9
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Homogeneity, Grades V-XIV
+Y1  - 1932
+D1  - 04/1932
+SP  - 16
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V 1932
+SC  - California
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Teachers' marks, grades VII-XIV
+Y1  - 1932
+D1  - 05/1932
+SP  - 14
+KW  - Grading and marking
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.20
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Teachers' final marks, grades VII-XIV
+Y1  - 1932
+D1  - 06/1932
+SP  - 15
+KW  - Grading and marking
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.23
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Attendance report, 1931-32
+Y1  - 1932
+D1  - 06/1932
+SP  - 13
+KW  - School attendance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.24
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Superintendent’s annual report, 1931-32
+Y1  - 1932
+D1  - 08/1932
+SP  - 73
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.25
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Ventura (California) City Schools
+T1  - Junior college graduates
+Y1  - 1935
+D1  - 06/1935
+SP  - 12
+KW  - Junior colleges
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Ventura City Schools research bulletin
+PB  - Ventura (California) City Schools
+CY  - Ventura, CA
+LA  - English
+CN  - 379.741 .C1V no.15
+SC  - California
+G1  - Postsecondary
+ER  - 
