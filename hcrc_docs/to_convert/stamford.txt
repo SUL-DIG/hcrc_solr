@@ -1,0 +1,220 @@
+
+TY  - BOOK
+A2  - Stamford (Connecticut) Public Schools
+T1  - Manual of the public schools of Stamford, Connecticut
+Y1  - 1951
+D1  - 10/1951
+SP  - 60
+KW  - Public schools
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Stamford (Connecticut) Public Schools
+CY  - Stamford, CT
+LA  - English
+CN  - 379.741 .C4st 1951
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A1  - Parres, John G
+A2  - Wilmington (Delaware) Public Schools
+T1  - Evaluation of three experimental programs: teacher aides, elementary school counseling, reading and study skills
+Y1  - 1971
+D1  - 10/1971
+SP  - 136
+KW  - Teachers' assistants
+KW  - Counseling
+KW  - Reading
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wilmington (Delaware) Public Schools
+LA  - English
+CN  - 379.741 .D2w 1971
+SC  - Delaware
+ER  -
+
+TY  - BOOK
+A2  - New Britain (Connecticut) Schools
+T1  - Responsibility to educate for a strong America has never been greater
+Y1  - 1941
+D1  - 1941
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Britain (Connecticut) Schools
+LA  - English
+CN  - 379.741 .N4ne 1941
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - New Britain (Connecticut) Schools
+T1  - New Britain schools a progressive school system
+D1  - 1930?
+SP  - 67
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New Britain (Connecticut) Schools
+LA  - English
+CN  - 379.741 .N4ne 1930
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Naugatuck (Connecticut) High School Committee
+T1  - Report of High School Committee from May 10, 1905 to July 1, 1906
+Y1  - 1906
+D1  - 1906
+SP  - 13
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Naugatuck (Connecticut) High School Committee
+CY  - Naugatuck, CT
+LA  - English
+CN  - 379.741 .C4na 1906
+SC  - Connecticut
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Mahan, Thomas W
+A2  - Hartford (Connecticut) Board of Education
+T1  - Project Concern, 1966-1968 : a report on the effectiveness of suburban school placement for inner-city youth
+Y1  - 1968
+D1  - 08/1968
+SP  - 57
+KW  - Segregation in education
+KW  - School children
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Hartford (Connecticut) Board of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 379.741 .C4h 1968
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Hartford (Connecticut) Public Schools
+T1  - Action is the key to educational progress state and federal grant programs
+Y1  - 1966
+D1  - 1966
+SP  - 12
+KW  - Federal aid to education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Hartford (Connecticut) Public Schools
+LA  - English
+CN  - 379.741 .C4h 1966
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Hartford (Connecticut) Public Schools
+T1  - Educational specifications for new elementary schools
+Y1  - 1966
+D1  - 12/1966
+SP  - 65
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Hartford (Connecticut) Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 379.741 .C4h 1966
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Harvard University. Graduate School of Education. Center for Field Studies
+T1  - Schools for Hartford
+D1  - 1965?
+SP  - 52
+KW  - School facilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Harvard University. Graduate School of Education. Center for Field Studies
+LA  - English
+CN  - 379.741 .C4h 1965
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Greenwich (Connecticut) Public Schools
+T1  - Statistics Board of Education
+D1  - 1939?
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .C4g 1938/1939
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A2  - Greenwich (Connecticut) Public Schools
+T1  - Report of the Board of Education for the year 1939
+D1  - 1939?
+SP  - 9
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Greenwich (Connecticut) Public Schools
+LA  - English
+CN  - 379.741 .C4g 1939
+SC  - Connecticut
+ER  -
+
+TY  - BOOK
+A1  - Kendall, Calvin Noyes
+A2  - Boise (Idaho) Public Schools
+T1  - Report of C.N. Kendall Commissioner of Education of New Jersey, on the Boise Public Schools, submitted to the Board of Education December 18, 1910
+Y1  - 1910
+D1  - 12/1910
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Boise (Idaho) Public Schools
+LA  - English
+CN  - 379.741 .I1B 1910
+SC  - Idaho
+ER  -
+
+TY  - BOOK
+A2  - Boise (Idaho) High School
+T1  - Fifty years of Boise High School 1884-1933: a bulletin containing the names of all graduates of Boise High School from the year of its first graduating class.
+Y1  - 1934
+D1  - 04/1934
+SP  - 35
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Boise (Idaho) High School
+CY  - Boise, ID
+LA  - English
+CN  - 379.741 .I1B 1934
+SC  - Idaho
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Independent School District of Boise City (Idaho). Board of Trustees
+T1  - A report to the people of greater Boise about senior high school
+Y1  - 1951
+D1  - 05/1951
+SP  - 19
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Independent School District of Boise City (Idaho). Board of Trustees
+CY  - Boise, ID
+LA  - English
+CN  - 379.741 .I1B 1951
+SC  - Idaho
+ER  -
+
+TY  - BOOK
+A2  - Independent School District of Boise City (Idaho). Board of Trustees
+T1  - Boise plans its high schools
+Y1  - 1956
+D1  - 04/1956
+SP  - 25
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Independent School District of Boise City (Idaho). Board of Trustees
+LA  - English
+CN  - 379.741 .I1B 1956
+SC  - Idaho
+G1  - High school
+ER  - 
