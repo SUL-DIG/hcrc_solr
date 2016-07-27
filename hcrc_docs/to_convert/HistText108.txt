@@ -1,0 +1,468 @@
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - General drafting: first-year course for high schools
+Y1  - 1959
+D1  - 1959
+SP  - 83
+KW  - Mechanical drawing
+T2  - New York City Board of Education. Curriculum bulletin 1959-60 series
+V1  - 3
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 680.1 .N532g 1959
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education. Bureau of Educational Program Research and Statistics
+T1  - The effect of special grouping of high-ability students in high school upon their achievement in college
+Y1  - 1959
+D1  - 06/1959
+SP  - 16
+KW  - Gifted
+KW  - Ability grouping in education
+T2  - New York City Board of Education. Bureau of Educational Program Research and Statistics. Publication
+V1  - 144
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.9 .N532e 1959
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of New Mexico. State Curriculum Laboratory
+T1  - Annotated bibliography of professional magazines
+Y1  - 1937
+D1  - 10/1937
+SP  - 29
+KW  - Bibliographies
+KW  - Magazines
+PB  - University of New Mexico
+CY  - Albuquerque, NM
+LA  - English
+CN  - 370.702 .N52a 1937
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A1  - Altus, David M.
+A2  - New Mexico State University
+T1  - Migrant education: a selected bibliography, supplement no. 2
+Y1  - 1971
+D1  - 08/1971
+SP  - 129
+KW  - Migrant education
+KW  - Bibliographies
+PB  - New Mexico State University
+CY  - Las Cruces, NM
+LA  - English
+CN  - 379.74 .N522m 1971
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A1  - King, J.A.
+A1  - Pechman, E.M.
+A2  - New Orleans (Louisiana) Public Schools
+T1  - The process of evaluation use in local school settings: Final report of NIE Grant 81-0900
+Y1  - 1982
+D1  - 10/1982
+SP  - 70
+KW  - Evaluation
+KW  - Public schools
+PB  - New Orleans Public Schools
+CY  - New Orleans, LA
+LA  - English
+CN  - 375 .N528p 1982
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Grace Nichols
+A1  - Hardy, Frances
+A2  - Norfolk (Virginia) City Public Schools
+T1  - The big picture: the Norfolk City experiment in instructional television
+Y1  - 1960
+D1  - 1960?
+SP  - 50
+KW  - Television in education
+PB  - The Educational Television Project Television Center
+CY  - Norfolk, VA
+LA  - English
+CN  - 371.3095 .N83b 1960
+SC  - Virginia
+ER  - 
+
+TY  - BOOK
+A1  - Neuner, Elsie Flint
+A1  - Smith, Sim J.
+A1  - Clish, Herbert C.
+A2  - New Rochelle (New York) Public Schools
+T1  - Outline of a course of study in science: vol. 1 grade one through grade seven
+Y1  - 1942
+D1  - 03/1942
+KW  - Curricula
+KW  - Science
+PB  - New Rochelle Public Schools
+CY  - New Rochelle, NY
+LA  - English
+CN  - 519 .N529o 1942
+SC  - New York
+G1  - Elementary
+G1  - Middle schools
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Instructional guide for world of art
+Y1  - 1963
+D1  - 1963
+SP  - 88
+KW  - Art
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - SC-595
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 740 .L87i 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Junior high school general science course of study
+Y1  - 1963
+D1  - 1963
+SP  - 60
+KW  - Science
+KW  - Curricula
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - SC-592
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 740 .L87g 1963
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Catalog of authorized subjects adult schools : graduation requirements and curricula : 1964-65 revision
+Y1  - 1965
+D1  - 1964-1965
+SP  - 108
+KW  - Adult education
+KW  - Curricula
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - AC-100
+ED  - Revised
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87c 1964-65
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Art--grades 3 through 6: an instructional guide
+Y1  - 1964
+D1  - 1964
+SP  - 154
+KW  - Art
+KW  - Curricula
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - EC-216
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 740 .L87a 1964
+SC  - California
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Angelenos--then and now, grade three: teacher resource material to accompany pupil material
+Y1  - 1966
+D1  - 1966
+SP  - 18
+KW  - Los Angeles
+KW  - History
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - EC-111
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L87a 1966
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Instructional guide for stagecraft: junior high school industrial arts, senior high school industrial education
+Y1  - 1965
+D1  - 1965
+KW  - Theater architecture
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - SC-445
+ED  - Revised
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 809.297 .L87i 1965
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Catalog of authorized subjects adult schools : graduation requirements and curricula : 1966-67 revision
+Y1  - 1967
+D1  - 1966-1967
+SP  - 109
+KW  - Adult education
+KW  - Curricula
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - AC-100
+ED  - Revised
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87c 1966-67
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Art for junior high school: an instructional guide
+Y1  - 1966
+D1  - 1966
+KW  - Art
+KW  - Curricula
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - SC-620
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 740 .L87a 1966
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Advanced physical science 1 and 2: outline course of study for grades 11 and 12
+Y1  - 196
+D1  - 1966
+SP  - 32
+KW  - Science
+KW  - Curricula
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - X-59
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 519 .L87a 1966
+SC  - California
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Teaching musical concepts related to melody, rhythm, form, and harmony: teacher resource material kindergarten, grades 1 and 2
+Y1  - 1966
+D1  - 1966
+KW  - Music
+KW  - Curricula
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - EC-116
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 780 .L87t 1966
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Plotting your course, a vocational guidance handbook for the use of ninth grade pupils in special training classes
+Y1  - 1961
+D1  - 1961
+KW  - Vocational guidance
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - SC-587
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.41 .L879p 1961
+SC  - California
+G1  - High school
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of Michigan. School of Education
+T1  - Pupil development and the curriculum
+Y1  - 1938
+D1  - 1938
+SP  - 180
+KW  - Curricula
+KW  - Educational counseling
+N1  - Prepared for Eduction B221fa: Studies relating to the pupil personnel in elementary and secondary schools; the 1937-1938 field course.
+PB  - University of Michigan
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 371.426 .M62p 1938
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - Davis, Calvin O.
+A2  - University of Michigan
+T1  - The subject-matter and administration of the six-three-three plan of secondary schools
+Y1  - 1915
+D1  - 1915
+SP  - 35
+KW  - Secondary education
+T2  - University of Michigan. University bulletin, new series
+V1  - 17
+IS  - 9
+PB  - University of Michigan
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 375.15 .M62s 1915
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Powell, Arthur
+T1  - Why the youth of Middletown should attend the high school
+Y1  - 1908
+D1  - 1908
+KW  - Secondary education
+PB  - Middletown Public Schools
+CY  - Middletown, OH
+LA  - English
+CN  - 375.15 .M621w 1908
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Beginning shorthand
+Y1  - 1958
+D1  - 1958
+SP  - 16
+KW  - Shorthand
+T2  - Minneapolis Public Schools. Curriculum guide in business education
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 653 .M665b 1958
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Bookkeeping 1 and 2
+Y1  - 1958
+D1  - 1958
+SP  - 43
+KW  - Accounting
+T2  - Minneapolis Public Schools. Curriculum guide in business education
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 657 .M665b 1958
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Advanced shorthand
+Y1  - 1958
+D1  - 1958
+SP  - 22
+KW  - Shorthand
+T2  - Minneapolis Public Schools. Curriculum guide in business education
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 653 .M665a 1958
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Curriculum development in business education
+Y1  - 1958
+D1  - 1958
+SP  - 19
+KW  - Business education
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 650 .M665c 1958
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Dental health: teaching units--tentative form Kindergarten through grade 12
+Y1  - 1954
+D1  - 01/1954
+SP  - 44
+KW  - Dental care
+KW  - Health education
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 613 .M665d 1954
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Boys' physical education teaching guide : junior and senior high schools
+Y1  - 1960
+D1  - 1960
+SP  - 340
+KW  - Physical education and training
+T2  - Los Angeles City Schools. Division of Instructional Services. Publication
+V1  - SC-585
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 613.4 .L87b 1960
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
