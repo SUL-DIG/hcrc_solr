@@ -1,0 +1,107 @@
+
+TY  - BOOK
+A2  - Boulder (Colorado) Public Schools
+T1  - Annual report of the Boulder Public Schools, School District no.3
+D1  - 1922-1932
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1922/1923-1931/1932; Shelved in Cubberley Library reading room
+PB  - Boulder Public Schools
+LA  - English
+CN  - 379.741 .C3B
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Boulder (Colorado) Public Schools
+T1  - Annual report of the Superintendent of Schools to Board of Education
+D1  - 1934-1942
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1934/1935-1941/1942; Shelved in Cubberley Library reading room
+PB  - Boulder Public Schools
+LA  - English
+CN  - 379.741 .C3B
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Leadville (Colorado) Public Schools
+T1  - Annual report of the Board of directors s
+D1  - 1900-1917
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1900/1901-1911/1912, 1913/1914-1916/1917;Shelved in Cubberley Library Reading Room
+PB  - Leadville Public Schools
+LA  - English
+CN  - 379.741 .C3L
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Leadville (Colorado) Public Schools
+T1  - By-laws and rules and regulations of the public schools of the City of Leadville, Colorado
+Y1  - 1899
+D1  - 07/1899
+SP  - 37
+KW  - School management and organization
+N1  - Note: bound in with 1900/1901 issue of Annual report of the Board of directors; Shelved in Cubberley Library Reading Room
+PB  - Leadville Public Schools
+LA  - English
+CN  - 379.741 .C3L
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Leadville (Colorado) Public Schools
+T1  - Courses of study for the Leadville public schools(school District no.2, Lake County, Colorado) during the year 1900-1901
+Y1  - 1900
+D1  - 1900
+SP  - 103
+KW  - Curricula
+N1  - Note: bound in with 1900/1901 issue of Annual report of the Board of directors; Shelved in Cubberley Library Reading Room
+PB  - Leadville Public Schools
+CY  - Leadville, CO
+LA  - English
+CN  - 379.741 .C3L
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Leadville (Colorado) Public Schools
+T1  - Outline of exercises in physical training for the Leadville Public Schools
+Y1  - 1900
+D1  - 1900
+SP  - 31
+KW  - Physical education and training
+KW  - Curricula
+N1  - Note: bound in with 1900/1901 issue of Annual report of the Board of directors; Shelved in Cubberley Library Reading Room
+PB  - Leadville Public Schools
+CY  - Leadville, CO
+LA  - English
+CN  - 379.741 .C3L
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Pueblo (Colorado) School District Number One. Board of Education
+T1  - Annual report of School District Number One
+D1  - 1908-1917
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1908/1909-1916/1917; Shelved in Cubberley Library Reading Room
+PB  - Pueblo School District Number One. Board of Education
+CY  - Pueblo, CO
+LA  - English
+CN  - 379.741 .C3P
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Pueblo School District Number One. Board of Education
+T1  - Annual report of the public schools
+D1  - 1923-1946
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1923; 1926,1929.1932-1934/1935, 1937/1938-1944/1946; Report for 1931/1932 also has title:; Brief summary to the Board of Education and interested citizens; Reports 1932/1933-1934/1935:; Public schools, District Number One, annual report to the Board of Education; Shelved in Cubberley Library Reading Room
+PB  - Pueblo School District Number One. Board of Education
+CY  - Pueblo, CO
+LA  - English
+CN  - 379.741 .C3P
+SC  - Colorado
+ER  - 
