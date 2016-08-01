@@ -1,0 +1,857 @@
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide for teaching social studies: kgn.-grade7
+Y1  - 1957
+D1  - 1957
+SP  - 189
+KW  - Social sciences
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.33 .M66s 1957 pt. 1
+SC  - Minnesota
+G1  - Elementary
+G1  - Middle school
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide for teaching social studies: grades 6-12
+Y1  - 1957
+D1  - 1957
+SP  - 165
+KW  - Social sciences
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.33 .M66s 1957 pt. 2
+SC  - Minnesota
+G1  - Middle school
+G1  - High school
+G2  - Kindergarten
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - Syllabus for high school: 1st year biology
+Y1  - 1917
+D1  - 04/1917
+SP  - 10
+KW  - Curricula
+KW  - Biology
+PB  - New York City Department of Education
+CY  - New York, NY
+LA  - English
+CN  - 570 .N532s 1917
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Department of Education
+T1  - Syllabus for high school: music
+Y1  - 1912
+D1  - 05/1912
+KW  - Curricula
+KW  - Music
+PB  - New York City Department of Education
+CY  - New York, NY
+LA  - English
+CN  - 780 .N532s 1917
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Newark (New Jersey) Board of Education
+T1  - Health and safety in our schools: a guide to improvement of instruction in the elementary school
+Y1  - 1952
+D1  - 09/1952
+KW  - Health education
+KW  - Safety education
+PB  - Newark Board of Education
+CY  - Newark, NJ
+LA  - English
+CN  - 613 .N533h 1952
+SC  - New Jersey
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - Pattern of progress
+Y1  - 1940
+D1  - 01/1940
+KW  - Industries
+T2  - You and industries series
+V1  - 7
+ED  - Revised
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 330 .N27p 1940
+ER  - 
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - Let's teach driving: an administrative guidebook
+Y1  - 1947
+D1  - 1947
+SP  - 135
+KW  - Automobile driver education
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269L 1947
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - Let's teach driving: a preview of the administrative guidebook
+Y1  - 1947
+D1  - 1947
+SP  - 7
+KW  - Automobile driver education
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269L 1947 preview
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - Safety publications
+D1  - 1947?
+SP  - 5
+KW  - Safety education
+KW  - Bibliography
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269sp
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Congress of Parents and Teachers
+T1  - Safety to school
+Y1  - 1946
+D1  - 1946
+SP  - 12
+KW  - Safety education
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269sa 1946
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - 1910 driving skill isn't good enough today
+KW  - Automobile driver education
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269n
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Congress of Parents and Teachers
+T1  - Safer living for all
+Y1  - 1946
+D1  - 1946
+KW  - Safety education
+KW  - Directories
+KW  - Bibliography
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269sl 1946
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - Help build future America through driver education and training
+KW  - Automobile driver education
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269h
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - Annual report
+Y1  - 1946
+D1  - 1946
+SP  - 16
+KW  - Safety education
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269a 1946
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - The people want safety: the public's attitudes on traffic-safety education
+KW  - Safety education
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269p
+ER  -
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - Safety materials for the professional elementary school library
+Y1  - 1945
+D1  - 1945
+SP  - 7
+KW  - Safety education
+KW  - Bibliography
+PB  - National Commission on Safety Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N269sm 1945
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Newton Hawley - Patrick Suppes
+T1  - Geometry for primary grades: book one
+Y1  - 1960
+D1  - 1960
+SP  - 127
+KW  - Geometry
+PB  - Holden-Day, Inc.
+CY  - San Francisco, CA
+LA  - English
+CN  - 513 .N549g 1960
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - National Educational Materials Center
+T1  - The road to tomorrow: a progress report of United States technical education projects in the Republic of China
+Y1  - 1959
+D1  - 09/1959
+SP  - 71
+KW  - Chinese education
+PB  - National Educational Materials Center
+CY  - Taipei, Taiwan
+LA  - English
+CN  - 379.5 .N278r 1959
+SC  - Taiwan
+ER  - 
+
+TY  - BOOK
+A1  - Murphy, Mary Jones
+A2  - New Mexico State Department of Education. Curriculum Laboratory
+T1  - Handwriting instruction
+Y1  - 1937
+D1  - 09/1937
+SP  - 54
+KW  - Penmanship
+KW  - Curricula
+PB  - New Mexico State Department of Education
+CY  - Albuquerque, NM
+LA  - English
+CN  - 421 .N52h 1937
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - New Mexico State Department of Education. Curriculum Laboratory
+T1  - Suggestions for the reorganization of the social studies program in New Mexico
+Y1  - 1938
+D1  - 08/1938
+SP  - 45
+KW  - Social sciences
+KW  - Curricula
+PB  - New Mexico State Department of Education
+CY  - Albuquerque, NM
+LA  - English
+CN  - 371.33 .N52s 1938
+SC  - New Mexico
+ER  - 
+
+TY  - BOOK
+A2  - World Confederation of Organizations of the Teaching Profession. Committee on Adult Education
+T1  - Proceedings, Fifth International WCOTP Conference on adult education: "The teaching profession and world literacy"
+Y1  - 1965
+D1  - 08/1965
+SP  - 45
+KW  - Adult education
+PB  - World Confederation of Organizations of the Teaching Profession
+CY  - Washington, DC
+LA  - English
+CN  - 374 .W92p 1965
+ER  - 
+
+TY  - BOOK
+A2  - National Council of Chief State School Officers
+T1  - A wartime program in mathematics and physics
+Y1  - 1942
+D1  - 05/1942
+SP  - 31
+KW  - Mathematics
+KW  - Physics
+PB  - National Council of Chief State School Officers
+CY  - Tallahassee, FL
+LA  - English
+CN  - 510 .N27w 1942
+ER  - 
+
+TY  - BOOK
+A2  - National Education Association of the United States
+A2  - American Association of School Administrators
+A2  - Educational Policies Commission
+T1  - A bibliography on education in the depression
+Y1  - 1937
+D1  - 06/1937
+SP  - 118
+KW  - School management and organization
+KW  - Educational planning
+PB  - National Education Association of the United States
+CY  - Washington, DC
+LA  - English
+CN  - 379.74 .N277b 1937
+ER  - 
+
+TY  - BOOK
+A1  - Bower, Warren
+A2  - New York State University. Division of General Education
+T1  - Put it in writing
+Y1  - 1937
+D1  - 1937
+SP  - 63
+KW  - Writing
+KW  - Adult education
+PB  - New York State University
+CY  - New York, NY
+LA  - English
+CN  - 428.2 .N53p 1937
+ER  - 
+
+TY  - BOOK
+A2  - College Entrance Examination Board
+T1  - Syllabus in advanced biology
+D1  - 1918?
+SP  - 8
+KW  - Biology
+PB  - College Entrance Examination Board
+CY  - New York, NY
+LA  - English
+CN  - 570 .C69s
+G1  - High school
+ER  - 
+
+TY  - BOOK
+T1  - Proposed syllabus of chemistry for girls in the second year of high school
+D1  - 1918?
+SP  - 8
+KW  - Chemistry
+LA  - English
+CN  - 540 .C69d
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Scope and sequence for vocational high school: shop and related subjects
+Y1  - 1958
+D1  - 1958
+KW  - Vocational education
+SP  - 105
+KW  - High schools
+T2  - New York City Board of Education. Curriculum bulletin 1954-55 series
+V1  - 12
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.401 .N532s 1958
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New Jersey State Department of Education. Division of Curriculum and Instruction
+T1  - A guide for health education in the secondary school
+Y1  - 1955
+D1  - 1955
+SP  - 121
+KW  - Health education
+KW  - Secondary education
+PB  - New Jersey State Department of Education
+CY  - Trenton, NJ
+LA  - English
+CN  - 613 .N51g 1955
+SC  - New Jersey
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Home economics for grades 10 to 12
+Y1  - 1959
+D1  - 1959
+SP  - 385
+KW  - Home economics
+KW  - High schools
+T2  - New York City Board of Education. Curriculum bulletin 1958-59 series
+V1  - 6
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 640 .N532h 1959
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Assembly guide for secondary schools
+Y1  - 1956
+D1  - 1956
+SP  - 52
+KW  - School assemblies
+KW  - High schools
+T2  - New York City Board of Education. Curriculum bulletin 1954-55 series
+V1  - 11
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 373.172 .N532a 1954
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Social studies grades 5-6
+Y1  - 1952
+D1  - 1952
+SP  - 196
+KW  - Social sciences
+T2  - New York City Board of Education. Curriculum bulletin 1951-52 series
+V1  - 4
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N532s 1952
+SC  - New York
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Social studies grades 7, 8 and 9: a guide for teachers
+Y1  - 1952
+D1  - 1952
+SP  - 202
+KW  - Social sciences
+T2  - New York City Board of Education. Curriculum bulletin 1951-52 series
+V1  - 5
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N532s 1952a
+SC  - New York
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Keelor, Katharine L.
+A2  - Columbia University. Teachers College
+T1  - Curriculum studies in the second grade
+Y1  - 1925
+D1  - 1925
+SP  - 130
+KW  - Curricula
+KW  - Elementary
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .C72c 1925
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Norton, John K.
+A1  - Lawler, Eugene S.
+A2  - National Education Association
+A2  - American Council on Education
+T1  - Unfinished business in American education: an inventory of public school expenditures in the United States
+Y1  - 1946
+D1  - 1946
+SP  - 64
+KW  - School finance
+PB  - American Council on Education
+CY  - Washington, DC
+LA  - English
+CN  - 379.74 .A51u 1946
+ER  - 
+
+TY  - BOOK
+A1  - Brudney, Victor
+A2  - National Council for the Social Studies
+T1  - Legislative regulation of the social studies in secondary schools
+Y1  - 1941
+D1  - 05/1941
+KW  - Social sciences
+PB  - National Council for the Social Studies
+CY  - Washington, DC
+LA  - English
+CN  - 371.33 .N27L 1941
+ER  - 
+
+TY  - BOOK
+A2  - National Commission on Teacher Education and Professional Standards
+A2  - National Education Association
+A2  - Federal Civil Defense Administration
+T1  - An edited committee report
+D1  - 1974?
+SP  - 15
+KW  - Civil defense
+PB  - National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N27e
+ER  - 
+
+TY  - BOOK
+A2  - National Congress of Parents and Teachers
+T1  - The parent-teacher organization: a unit for education classes
+Y1  - 1946
+D1  - 1946
+SP  - 96
+KW  - Parent-teacher relationships
+PB  - National Congress of Parents and Teachers
+CY  - Chicago, IL
+LA  - English
+CN  - 371.103 .N277p 1946
+ER  - 
+
+TY  - BOOK
+A2  - National Congress of Parents and Teachers
+T1  - Latin American backgrounds: a bibliography
+Y1  - 1941
+D1  - 1941
+SP  - 48
+KW  - Bibliography
+KW  - Latin America
+PB  - National Congress of Parents and Teachers
+CY  - Washington, DC
+LA  - English
+CN  - 980 .N277L 1941
+ER  - 
+
+TY  - BOOK
+A2  - National Council for the Social Studies
+T1  - The social studies look beyond the war: a statement of postwar policy
+Y1  - 1944
+D1  - 11/1944
+SP  - 40
+KW  - Social sciences
+PB  - National Council for the Social Studies
+CY  - Washington, DC
+LA  - English
+CN  - 371.33 .N27soc 1944
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Tests and testing: developing a program for testing Puerto Rican pupils in New York City public schools
+Y1  - 1959
+D1  - 1959
+SP  - 143
+KW  - Testing
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 379.741 .N532t 1959
+SC  - New York, NY
+ER  - 
+
+TY  - BOOK
+A2  - National Commission on Safety Education
+A2  - National Education Association
+T1  - What about their safety
+KW  - Safety education
+PB  - National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .N27wa
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - The profession of management
+Y1  - 1942
+D1  - 1942
+SP  - 35
+KW  - Business education
+T2  - You and industry booklets, new series
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 650 .N27p 1942
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - What makes jobs?
+Y1  - 1942
+D1  - 1942
+SP  - 28
+KW  - Business education
+T2  - You and industry booklets, new series
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 650 .N27w 1942
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - Inventive America
+Y1  - 1941
+D1  - 1941
+SP  - 26
+KW  - Inventions
+T2  - You and industry booklets, new series
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 609 .N27i 1941
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - Yardsticks of American progress
+Y1  - 1940
+D1  - 01/1940
+SP  - 26
+KW  - Inventions
+T2  - You and industry series
+V1  - 9
+ED  - Revised
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 609 .N27y 1940
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - At school...not at work
+Y1  - 1940
+D1  - 01/1940
+SP  - 16
+KW  - Child labor
+T2  - You and industry series
+V1  - 6
+ED  - Revised
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 331.306 .N27a 1940
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - The future in America
+Y1  - 1940
+D1  - 01/1940
+SP  - 15
+KW  - Industries
+T2  - You and industry series
+V1  - 5
+ED  - Revised
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 331.306 .N27fu 1940
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - Farm and factory--building America
+Y1  - 1941
+D1  - 1941
+SP  - 24
+KW  - Industries
+T2  - You and industry booklets, new series
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 331.306 .N27f 1941
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - Pattern of community progress
+Y1  - 1941
+D1  - 1941
+SP  - 19
+KW  - Social sciences
+T2  - You and industry booklets, new series
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N27p 1941
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - What is industry?
+Y1  - 1940
+D1  - 01/1940
+SP  - 14
+KW  - Industries
+T2  - You and industry series
+V1  - 8
+ED  - Revised
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 331.306 .N27w 1940
+ER  - 
+
+TY  - BOOK
+A2  - National Association of Manufacturers of the United States of America
+T1  - Men and machines
+Y1  - 1937
+D1  - 1937
+SP  - 22
+KW  - Industries
+T2  - You and industry series
+V1  - 2
+ED  - Revised
+PB  - National Association of Manufacturers of the United States of America
+CY  - New York, NY
+LA  - English
+CN  - 331.306 .N27m 1937
+ER  - 
+
+TY  - BOOK
+A2  - National High School Poetry Association
+T1  - Young America sings: 1949 anthology of New York High School Poetry
+Y1  - 1949
+D1  - 05/1949
+SP  - 122
+KW  - Poetry
+PB  - National High School Poetry Association
+CY  - Los Angeles
+LA  - English
+CN  - 428.5 .N279y 1949
+ER  - 
+
+TY  - BOOK
+A2  - National High School Poetry Association
+T1  - Young America sings: 1949 anthology of New York High School Poetry
+Y1  - 1950
+D1  - 1950
+SP  - 132
+KW  - Poetry
+PB  - National High School Poetry Association
+CY  - Los Angeles
+LA  - English
+CN  - 428.5 .N279y 1950
+ER  - 
+
+TY  - BOOK
+A2  - United States Department of the Interior. National Park Service
+T1  - America's hours of destiny
+Y1  - 1938
+D1  - 1938
+KW  - National parks and reserves
+KW  - Radio scripts
+N1  - No. 1 Yellowstone National Park, No. 10 Death Valley National Monument, No. 12 El Morro National Monument, No. 23 Hawaii National Park, No. 16 Cabrillo National Monument, No. 18 Lava Beds National Monument, No. 19 Zion National Park, No. 22 Sitka National Monument, No. 24 Glacier National Park, No. 25 Colonial National Historical Park, No. 26 Yosemite National Park
+PB  - United States Department of the Interior. National Park Service
+CY  - Washington, DC
+LA  - English
+CN  - 917.94 .U575a 1938
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Education
+T1  - A guide for evaluating and improving Nebraska elementary schools
+Y1  - 1955
+D1  - 1955
+SP  - 90
+KW  - Elementary education
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 375.13 .N36g 1955
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Arithmetic kindergarten-grade three
+Y1  - 1947
+D1  - 1947
+SP  - 74
+KW  - Arithmetic
+KW  - Elementary education
+T2  - New York City Board of Education. Curriculum bulletin 1947-8 series
+V1  - 2
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 511.2 .N532a 1947
+SC  - New York
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - New York City Superintendent of Schools
+T1  - Our public schools: the art program
+Y1  - 1954
+D1  - 1953-1954
+SP  - 39
+KW  - Art
+N1  - Annual report Superintendent of Schools
+PB  - New York City Superintendent of Schools
+CY  - New York, NY
+LA  - English
+CN  - 740 .N532o 1954 Part IV
+SC  - New York
+ER  - 
