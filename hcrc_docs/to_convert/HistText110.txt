@@ -1,0 +1,360 @@
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Instructional guide for language arts in the elementary school, part 1: oral and written language, spelling, and handwriting
+Y1  - 1961
+D1  - 1961
+SP  - 193
+KW  - Language arts
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - 607
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L87il 1961
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Van Miller, Perry
+A1  - Heinecken, Martin J.
+A1  - Wilhelms, Fred T.
+A2  - University of Nebraska. Teachers Colleges
+T1  - A course in self-planning and self-managing: social sciences XIII-x
+Y1  - 1938
+D1  - 1938
+KW  - Social sciences
+KW  - Correspondence schools and courses
+T2  - University of Nebraska. Teachers Colleges. Supervised correspondence study series
+PB  - University of Nebraska
+CY  - Lincoln, NE
+LA  - English
+CN  - 371.33 .N36c 1938
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Education
+T1  - Physical education for Nebraska elementary schools
+Y1  - 1957
+D1  - 01/1957
+SP  - 306
+KW  - Physical education
+KW  - Elementary education
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 613.4 .N36p 1957
+SC  - Nebraska
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - National Science Foundation (United States)
+T1  - Science course improvement projects
+Y1  - 1964
+D1  - 07/1964
+SP  - 77
+KW  - Science
+KW  - Mathematics
+KW  - Bibliography
+PB  - National Science Foundation
+CY  - Washington, DC
+LA  - English
+CN  - 519 .U56s 1964
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Instructional guide for algebra 3 and 4
+Y1  - 1963
+D1  - 1963
+SP  - 157
+KW  - Algebra
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - SC-594
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 513 .L87ia 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Industrial arts instructional guide for grades K-6: elementary school practical arts
+Y1  - 1963
+D1  - 1963
+SP  - 106
+KW  - Industrial arts
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - EC-150
+ED  - Rev.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 680 .L87i 1963
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Junior and senior high school graduation requirements and curricula
+Y1  - 1963
+D1  - 1963
+SP  - 95
+KW  - Secondary education
+KW  - Curricula
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - 489
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.15 .L87g 1963
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - An instructional guide A7 history and geography: a one-semester survey course
+Y1  - 1963
+D1  - 1963
+SP  - 53
+KW  - Geography
+KW  - World history
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - X-20
+ED  - Experimental
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 925 .L87i 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Promising practices for expanding educational opportunities: a handbook of current effective programs
+Y1  - 1963
+D1  - 1963
+SP  - 162
+KW  - Public schools
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.83 .L87p 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Catalog of authorized subjects adult schools
+Y1  - 1964
+D1  - 1963-1964
+SP  - 107
+KW  - Adult education
+KW  - Curricula
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - AC-100
+ED  - Rev.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 374 .L87c 1963-64
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Tenth-grade English: an instructional guide
+Y1  - 1963
+D1  - 1963
+SP  - 113
+KW  - English language
+KW  - Literature
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - X-32
+ED  - Experimental
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L87t 1963
+SC  - California
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Course of study for elementary schools
+Y1  - 1964
+D1  - 1964
+SP  - 472
+KW  - Curricula
+KW  - Elementary education
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - 375
+ED  - Rev.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.13 .L87c 1963
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Spanish course of study 1-8: junior and senior high school
+Y1  - 1962
+D1  - 1962
+SP  - 47
+KW  - Spanish language
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - SC-593
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.211 .L87s 1962
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Petroleum industry: pupil materials social studies grade four
+Y1  - 1961
+D1  - 1961
+SP  - 104
+KW  - Petroleum
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - EC-210
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 666 .L87p 1961
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Point of view: educational purposes, policies, practices
+Y1  - 1961
+D1  - 1961
+SP  - 56
+KW  - Public schools
+T2  - Los Angeles (California) City Schools. Publication
+V1  - 470
+ED  - Rev.
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375 .L87p 1961
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Nebraska State Department of Education
+T1  - Summary report of the state-wide conference on student activities
+Y1  - 1954
+D1  - 10/1954
+SP  - 7
+KW  - Student activities
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 373.17 .N36s 1954
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A1  - Rotter, George R.
+A2  - Nebraska State Department of Education
+T1  - Problems and progress in soil and water conservation: a suggested unit for Nebraska high schools and teacher education institutions
+Y1  - 1956
+D1  - 1956
+SP  - 45
+KW  - Soil conservation
+KW  - Water conservation
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 631 .N36p 1954
+SC  - Nebraska
+G1  - High school
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Holland, Dorothy E.
+A2  - Nebraska State Department of Education
+T1  - Speech development and correction
+Y1  - 1955
+D1  - 1955
+SP  - 17
+KW  - Speech
+KW  - Speech disorders
+PB  - Nebraska State Department of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 428.7 .N36s 1955
+SC  - Nebraska
+ER  - 
+
+TY  - BOOK
+A2  - University of New Mexico. Curriculum Laboratory
+T1  - First grade bibliography
+Y1  - 1938
+D1  - 09/1938
+SP  - 6
+KW  - Reading
+KW  - Bibliography
+PB  - University of New Mexico
+CY  - Albuquerque, NM
+LA  - English
+CN  - 428.5 .N52f 1938
+SC  - New Mexico
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - University of New Mexico. Curriculum Laboratory
+T1  - Second grade bibliography
+Y1  - 1938
+D1  - 09/1938
+SP  - 4
+KW  - Reading
+KW  - Bibliography
+PB  - University of New Mexico
+CY  - Albuquerque, NM
+LA  - English
+CN  - 428.5 .N52s 1938
+SC  - New Mexico
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - University of New Mexico. Curriculum Laboratory
+T1  - Third grade bibliography
+Y1  - 1938
+D1  - 09/1938
+SP  - 10
+KW  - Reading
+KW  - Bibliography
+PB  - University of New Mexico
+CY  - Albuquerque, NM
+LA  - English
+CN  - 428.5 .N52t 1938
+SC  - New Mexico
+G1  - Elementary
+G2  - 3rd
+ER  - 
