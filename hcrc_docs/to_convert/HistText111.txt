@@ -1,0 +1,1196 @@
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Art for senior high school: an instructional guide
+Y1  - 1961
+D1  - 1961
+SP  - 210
+KW  - Art
+T2  - Los Angeles (California) City Schools. Publication
+V1  - SC-589
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 740 .L87a 1961
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Criteria for marking in elementary schools
+Y1  - 1965
+D1  - 02/1965
+KW  - Grading and marking
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.2 .L879c 1965
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Council on Human Relations
+T1  - Improving inter-group relations: a handbook for teachers
+Y1  - 1965
+D1  - 1965
+SP  - 22
+KW  - Social sciences
+KW  - Sociology
+T2  - Los Angeles (California) City Schools. Council on Human Relations. Publication
+V1  - 4
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.33 .L87ii 1965
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Freeman, Don
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Angelenos then and now
+Y1  - 1966
+D1  - 1966
+SP  - 67
+KW  - Los Angeles
+KW  - History
+T2  - Los Angeles (California) City Schools. Publication
+V1  - EC-226
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L87a 1966a
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Draney, R. Whitney
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Californians then and now
+Y1  - 1966
+D1  - 1966
+SP  - 38
+KW  - California
+KW  - History
+T2  - Los Angeles (California) City Schools. Publication
+V1  - EC-233
+PB  - Los Angeles (California) City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L87c 1966
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Using globes and maps to develop concepts about our world
+Y1  - 1957
+D1  - 1957
+SP  - 8
+KW  - Globes
+KW  - Maps
+KW  - Geography
+T2  - Social studies in the elementary school
+PB  - Milwaukee Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 912 .M66u 1957
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - The summer educational program in the elementary schools
+KW  - Summer schools
+T2  - Opportunities for continued growth
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 370.21 .L87w #6
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - The art of questioning in mathematics: using questions to promote more mature ways of thinking in mathematics
+Y1  - 1967
+D1  - 1967
+SP  - 45
+KW  - Mathematics
+N1  - For workshop use.
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Curriculum Branch. Instructional bulletin
+V1  - EC-123
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87a 1967
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Building good citizens
+Y1  - 1947
+D1  - 1947
+SP  - 10
+KW  - Civics
+T1  - Milwaukee Public Schools. Curriculum bulletin
+V1  - 4
+IS  - 1
+PB  - Milwaukee Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 371.33 .M66b 1947
+SC  - Wisconsin
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Basic employment information: a handbook for students in occupational preparation classes, senior high school
+Y1  - 1967
+D1  - 1967
+SP  - 102
+KW  - Employment
+KW  - Occupations
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - SC-629
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 331 .L87b 1967
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Maloney, Gertrude
+A2  - California State Department of Education
+T1  - A study of the Pueblo Indians: developed in grade III
+Y1  - 1938
+D1  - 08/1938
+SP  - 108
+KW  - Hopi Indians
+KW  - Indians of North America
+T2  - Curriculum units for elementary schools
+V1  - 3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 970.1 .C15st 1938
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - A8 English educational decisions unit: an instructional bulletin
+Y1  - 1968
+D1  - 1968
+SP  - 45
+KW  - English language
+T2  - Los Angeles (California) City Schools. Division of Instructional Planning and Services. Instructional Planning Branch. Publication
+V1  - SC-644
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L87ae 1968
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - A guide to work experience education and employment placement
+Y1  - 1969
+D1  - 1969
+SP  - 80
+KW  - Vocational education
+T2  - Los Angeles (California) City Schools. Division of Instructional Planning and Services. Publication
+V1  - 403
+ED  - Rev.
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87gw 1969
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - We teach spelling in the elementary schools
+KW  - English language
+KW  - Spelling
+T2  - Spelling for daily use
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L87wt
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Announcing an accelerated high school diploma program for adults
+KW  - Adult education
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.74 .L87aa
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Off to kindergarten
+KW  - Kindergarten
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 370.21 .L87ok
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Mathematics in the junior and senior high schools
+KW  - Mathematics
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 511.6 .L87ma
+SC  - California
+G1  - Middle school
+G2  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Science education in the secondary schools
+KW  - Science
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 519 .L87se
+SC  - California
+G2  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Guidance Council
+T1  - Senior high school guidance and counseling
+KW  - Counseling
+T2  - Guidance through the years
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.45 .L87sh
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - We teach phonics in the elementary schools
+KW  - Phonetic method
+KW  - Reading
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .L87wt
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Respect for law and order
+KW  - Civics
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.33 .L87rL
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Guidance Council
+T1  - Junior high school guidance and counseling
+KW  - Counseling
+T2  - Guidance through the years
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.45 .L87jh
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Your children are learning a foreign language in the modern way
+KW  - Modern languages
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 400 .L87yc
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Guidance Council
+T1  - Elementary school guidance and counseling
+KW  - Counseling
+T2  - Guidance through the years
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.45 .L87es
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Secondary Education
+T1  - So you want to quit school
+KW  - Dropouts
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.45 .L87sy
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rinker, Floyd
+A2  - Council for a Television Course in the Humanities for Secondary Schools
+T1  - CTCH: its concept and development
+Y1  - 1960
+D1  - 03/1960
+SP  - 86
+KW  - Television in education
+KW  - Humanities
+PB  - Council for a Television Course in the Humanities for Secondary Schools
+CY  - Boston, MA
+LA  - English
+CN  - 371.3095 .C856c 1960
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Judith, Mary
+A1  - Anthony, Marie
+A2  - Cuisenaire Company of America
+T1  - Discovering truth in numbers: a mathematics series based on the use of the Cuisenaire colored rods
+Y1  - 1963
+D1  - 1963
+SP  - 40
+KW  - Mathematics
+PB  - Cuisenaire Company of America
+CY  - Mt. Vernon, NY
+LA  - English
+CN  - 511.6 .C955d 1963
+ER  - 
+
+TY  - BOOK
+A2  - Dade County (Florida) Public Schools
+T1  - Report of the educational television project, third year: 1959-1960
+Y1  - 1960
+D1  - 07/1960
+SP  - 22
+KW  - Television in education
+PB  - Dade County Public Schools
+CY  - Miami, FL
+LA  - English
+CN  - 371.3095 .D12r 1960
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Public Schools
+T1  - Aids and activities in arithmetic, low fourth grade
+Y1  - 1945
+D1  - 09/1945
+SP  - 106
+KW  - Arithmetic
+PB  - Dallas Public Schools
+CY  - Dallas, TX
+LA  - English
+CN  - 511.2 .D14a 1945
+SC  - Texas
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Manual for using the form for planning and developing a resource unit
+Y1  - 1951
+D1  - 1951
+SP  - 15
+KW  - Curriculum planning
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 370.6 .D14m 1951
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Primary education, grade one resource materials
+Y1  - 1952
+D1  - 1952
+SP  - 96
+KW  - Curricula
+KW  - Elementary education
+T2  - Curriculum bulletin series
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14pr 1952 1st
+SC  - Texas
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Primary education, grade two resource materials
+Y1  - 1952
+D1  - 1952
+SP  - 96
+KW  - Curricula
+KW  - Elementary education
+T2  - Curriculum bulletin series
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14pr 1952 2nd
+SC  - Texas
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Primary education, grade three resource materials
+Y1  - 1952
+D1  - 1952
+SP  - 96
+KW  - Curricula
+KW  - Elementary education
+T2  - Curriculum bulletin series
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14pr 1952 3rd
+SC  - Texas
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Primary education, grades one, two, three curriculum guide
+Y1  - 1952
+D1  - 1952
+SP  - 96
+KW  - Curricula
+KW  - Elementary education
+T2  - Curriculum bulletin series
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 375.13 .D14pc 1952
+SC  - Texas
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Library policies and procedures
+Y1  - 1953
+D1  - 1953
+SP  - 19
+KW  - Curricula
+KW  - Elementary education
+T2  - Curriculum bulletin series
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 027.8 .D14L 1953
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Content, scope, and sequence of health, physical education, recreation, and driver education program
+Y1  - 1956
+D1  - 10/1956
+KW  - Health education
+KW  - Physical education
+KW  - Recreation
+KW  - Automobile driver education
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 613 .D14ch 1956
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Content, scope, and sequence of vocational and industrial arts program
+Y1  - 1957
+D1  - 04/1957
+KW  - Vocational education
+KW  - Industrial arts
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 371.40 .D14cv 1957
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Content and plan of operation of Bible study courses
+Y1  - 1959
+D1  - 09/1959
+KW  - Bible
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 220 .D14cb 1959
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Reserve officers training program and national defense cadet program content, scope, and sequence
+Y1  - 1959
+D1  - 09/1959
+KW  - Military education
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 371.43 .D14r 1959
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Guide for teaching in the primary grades
+Y1  - 1942
+D1  - 04/1942
+SP  - 678
+KW  - Elementary education
+KW  - Teaching
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 470
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 375.13 .L88g 1942
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Course of study in speech
+Y1  - 1942
+D1  - 09/1942
+SP  - 200
+KW  - Speech
+KW  - Curricula
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 467
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 428.7 .L88c 1942
+SC  - Louisiana
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Course of study in language arts grades four to eleven
+Y1  - 1941
+D1  - 08/1941
+SP  - 246
+KW  - Language arts
+KW  - Curricula
+T2  - Louisiana State Department of Education. Bulletin
+V1  - 466
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 428.2 .L88cs 1941
+SC  - Louisiana
+G1  - Elementary
+G1  - Middle school
+G1  - High school
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Cheyenne (Wyoming) Public Schools
+T1  - Penmanship outline: grades one to six
+Y1  - 1936
+D1  - 08/1936
+SP  - 33
+KW  - Penmanship
+PB  - Cheyenne Public Schools
+CY  - Cheyenne, WY
+LA  - English
+CN  - 421 .C53p 1936
+SC  - Wyoming
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Auditorium activities: a curriculum guide for elementary grades
+Y1  - 1953
+D1  - 1953
+SP  - 64
+KW  - School assemblies
+T2  - Curriculum bulletin series
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 373.172 .D14a 1953
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Dearborn (Michigan) Public Schools. Division of Instruction
+T1  - Highlights of curriculum committee activities in 1963-1964 and some proposals for 1964-65
+Y1  - 1964
+D1  - 08/1964
+SP  - 14
+KW  - Curricula
+PB  - Dearborn Public Schools
+CY  - Dearborn, MI
+LA  - English
+CN  - 375.83 .D28h 1964
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Delaware State Department of Public Instruction
+T1  - Division of music education 1941-42, first grade
+Y1  - 1942
+D1  - 1941-1942
+SP  - 18
+KW  - Music
+PB  - Delaware State Department of Public Instruction
+LA  - English
+CN  - 780 .D34dm 1942
+SC  - Delaware
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Delaware State Department of Public Instruction
+T1  - Division of music education 1942-43, fourth grade
+Y1  - 1943
+D1  - 1942-1943
+SP  - 17
+KW  - Music
+PB  - Delaware State Department of Public Instruction
+LA  - English
+CN  - 780 .D34dm 1943
+SC  - Delaware
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, Bryan O.
+A2  - Contra Costa County (California) Public Schools
+T1  - Enrollments and age-grade tables
+Y1  - 1944
+D1  - 09/1944
+KW  - School enrollment
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 379.74 .C77e 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Vossler, Graylis
+A1  - Cowan, William
+A2  - Contra Costa County (California) Public Schools
+T1  - Trucks: second grade unit
+Y1  - 1947
+D1  - 06/1947
+KW  - Trucking
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 656.1 .C77t 1947
+SC  - California
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - The statement of a plan for the improvement of education in Contra Costa County
+D1  - 1946?
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.82 .C77s
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - History of records
+D1  - 1946?
+SP  - 23
+KW  - Newspapers
+KW  - Books
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 428.24 .C77h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - The arithmetic program, grades III-VIII: the curriculum
+D1  - 1946?
+KW  - Arithmetic
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 511.2 .C77ap
+SC  - California
+G1  - Elementary
+G1  - Middle school
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Suggested time allotments
+Y1  - 1945
+D1  - 10/1945
+KW  - Time allotment
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77st 1945
+SC  - California
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Using visual aids in the classroom
+D1  - 1946?
+KW  - Audio-visual materials
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 371.3095 .C77uv
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Making paper in a classroom
+D1  - 1946?
+SP  - 3
+KW  - Paper making
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 745 .C77mp
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for kindergarten
+D1  - 1948?
+SP  - 15
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77cs Kindergarten
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the first grade
+D1  - 1948?
+SP  - 22
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77cs 1st
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the second grade
+D1  - 1948?
+SP  - 12
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77cs 2nd
+SC  - California
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the third grade
+D1  - 1948?
+SP  - 21
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77cs 3rd
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the fourth grade
+D1  - 1948?
+SP  - 31
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77cs 4th
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the fifth grade
+D1  - 1948?
+SP  - 17
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.13 .C77cs 5th
+SC  - California
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the sixth grade
+D1  - 1948?
+SP  - 19
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.14 .C77cs 6th
+SC  - California
+G1  - Middle school
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the seventh grade
+D1  - 1948?
+SP  - 20
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.14 .C77cs 7th
+SC  - California
+G1  - Middle school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Course of study: teacher guide for the eighth grade
+D1  - 1948?
+SP  - 18
+KW  - Curricula
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 375.14 .C77cs 8th
+SC  - California
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - How are books and materials obtained?
+Y1  - 1948
+D1  - 1948
+SP  - 6
+KW  - Textbooks
+KW  - School libraries
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 371.64 .C77h 1948
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Problem solving
+Y1  - 1945
+D1  - 10/1945
+KW  - Problem solving
+PB  - Contra Costa County Public Schools
+LA  - English
+CN  - 370.221 .C77ps 1945
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Criteria for evaluating a unit of work
+D1  - 1946?
+KW  - Evaluation
+PB  - Contra Costa County Public Schools
+LA  - English
+CN  - 375 .C77ce
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Recommendations for provision of school maps
+Y1  - 1945
+D1  - 07/1945
+KW  - Drama in education
+PB  - Contra Costa County Public Schools
+LA  - English
+CN  - 428.73 .C77dp 1945
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - The classroom environment
+D1  - 1946?
+KW  - Drama in education
+PB  - Contra Costa County Public Schools
+LA  - English
+CN  - 370.274 .C77ce
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Public Schools
+T1  - Use of books in the unit of work
+Y1  - 1945
+D1  - 10/1945
+KW  - Books
+PB  - Contra Costa County Public Schools
+LA  - English
+CN  - 428.24 .C77ub 1945
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Parchment paper
+D1  - 1946?
+KW  - Paper making
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 745 .C77pp
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Papyrus making in school
+D1  - 1946?
+KW  - Papyrus
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 745 .C77pm
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Making a balloon
+D1  - 1946?
+KW  - Balloons
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 621 .C77mb
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Steps in developing a reading lesson
+Y1  - 1944
+D1  - 11/1944
+KW  - Reading
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 428.4 .C77sd 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Unit of work
+D1  - 1946?
+KW  - Unit methods
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 371.3096 .C77u
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - To make a glider
+D1  - 1946?
+KW  - Gliders
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 621 .C77tm
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Record booklet for a unit of work
+D1  - 1946?
+SP  - 13
+KW  - Unit methods
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 371.3096 .C77r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - A coordinated plan of primary reading
+Y1  - 1945
+D1  - 05/1945
+KW  - Reading
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 428.4 .C77cp 1945
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Teachers' professional library
+Y1  - 1939
+D1  - 07/1939
+KW  - School libraries
+KW  - Teachers
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 027.8 .C77tp 1939
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Works Progress Administration on Louisiana. Division of Education
+T1  - Report of conference on teacher education and supervision, curriculum, community organization
+Y1  - 1938
+D1  - 01/1938
+SP  - 56
+KW  - Teacher training
+PB  - Works Progress Administration on Louisiana
+CY  - New Orleans, LA
+LA  - English
+CN  - 
