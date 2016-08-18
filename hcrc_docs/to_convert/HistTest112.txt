@@ -1,0 +1,820 @@
+
+TY  - BOOK
+A2  - Joint Committee on Educational Television
+T1  - Reports
+Y1  - 1954
+D1  - 1954-1960
+KW  - Television in education
+PB  - Joint Committee on Educational Television
+CY  - Washington, DC
+LA  - English
+CN  - 371.3095 .J605r 1954-1960
+ER  - 
+
+TY  - BOOK
+A1  - Frasier, P. G.
+A2  - Davenport (Iowa) Public Schools
+T1  - Vocational survey of Davenport
+Y1  - 1939
+D1  - 1939
+SP  - 277
+KW  - Vocational education
+PB  - Davenport Public Schools
+CY  - Davenport, IA
+LA  - English
+CN  - 371.401 .D24v 1939
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - Function and scope of public education in the American democracy today
+Y1  - 1940
+D1  - 1940
+SP  - 63
+KW  - Public schools
+T2  - Report of Committee on Curriculum Revision
+V1  - 1
+PB  - Baltimore Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 375.83 .B19f 1940
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - The effect of technological development upon society
+Y1  - 1940
+D1  - 1940
+SP  - 138
+KW  - Technology
+T2  - Report of Committee on Curriculum Revision
+V1  - 2
+PB  - Baltimore Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 620 .B19e 1940
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - The family in present-day life
+Y1  - 1940
+D1  - 1940
+SP  - 45
+KW  - Family
+T2  - Report of Committee on Curriculum Revision
+V1  - 3
+PB  - Baltimore Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 645 .B19f 1940
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - International problems and their import
+Y1  - 1940
+D1  - 1940
+SP  - 117
+KW  - International relations
+T2  - Report of Committee on Curriculum Revision
+V1  - 4
+PB  - Baltimore Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 327 .B19i 1940
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - Attitudes toward authority
+Y1  - 1940
+D1  - 1940
+SP  - 70
+KW  - Attitude (Psychology)
+KW  - Authority
+T2  - Report of Committee on Curriculum Revision
+V1  - 5
+PB  - Baltimore Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 323 .B19a 1940
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - Relation of government to social welfare
+Y1  - 1940
+D1  - 1940
+SP  - 37
+KW  - Public welfare
+T2  - Report of Committee on Curriculum Revision
+V1  - 6
+PB  - Baltimore Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 360.973 .B19r 1940
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - The conservation of natural resources
+Y1  - 1940
+D1  - 1940
+SP  - 222
+KW  - Conservation of natural resources
+T2  - Report of Committee on Curriculum Revision
+V1  - 7
+PB  - Baltimore Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 631 .B19c 1940
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A1  - de Lima, Agnes
+A2  - Columbia University. Teachers College
+T1  - Democracy's high school: the story of living and learning in the Lincoln School of Teachers College (High School Division)
+Y1  - 1941
+D1  - 1941
+SP  - 90
+KW  - High schools
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - Language
+CN  - 375.15 .C72d 1941
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Sugar: seventh grade unit
+Y1  - 1947
+D1  - 06/1947
+KW  - Sugar
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 338.12 .C77s 1947
+SC  - California
+G1  - Middle school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Catalog of audio-visual materials
+Y1  - 1948
+D1  - 1948
+KW  - Audio-visual materials
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 371.3095 .C764c 1948
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Foley, Doris
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - School exhibits and community art activities
+Y1  - 1960
+D1  - 04/1960
+KW  - Art
+KW  - Exhibitions
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 740 .C77s 1960
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Foley, Doris E
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - Classroom environment
+Y1  - 1959
+D1  - 1959
+KW  - Classroom environment
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 371.63 .C77c 1959
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Foley, Doris
+A1  - Carlson, Ruth
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - School-time puppetry
+Y1  - 1957
+D1  - 1957
+KW  - Classroom environment
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 371.63 .C77c 1959
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Foley, Doris
+A1  - Carlson, Ruth
+A2  - Contra Costa County (California) Superintendent of Schools
+T1  - School-time puppetry
+Y1  - 1957
+D1  - 1957
+KW  - Puppet theater in education
+PB  - Contra Costa County Public Schools
+CY  - Martinez, CA
+LA  - English
+CN  - 745 .C77s 1957
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Social mathematics: unit III
+Y1  - 1938
+D1  - 1938
+SP  - 49
+KW  - Mathematics
+KW  - Money
+N1  - Savings and investments, methods of paying money, borrowing money
+PB  - Cleveland Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 339.4 .C63s 1938
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Works Progress Administration
+T1  - Education program of the works progress administration in cooperation with state departments of education
+Y1  - 1938
+D1  - 02/1938
+KW  - Teacher training
+T2  - Conference on teacher education and supervision; curriculum; community organization; program
+PB  - Works Progress Administration
+CY  - Denver, CO
+LA  - English
+CN  - 379.74 .W92e 1938
+ER  - 
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - A proposed guide to child growth in English: grades four, five, and six
+Y1  - 1939
+D1  - 08/1939
+SP  - 192
+KW  - English language
+PB  - Cincinnati Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 428.2 .C57pg 1939
+SC  - Ohio
+G1  - Elementary
+G1  - Middle school
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Teaching guide for science: preschool through junior college
+Y1  - 1955
+D1  - 1955
+SP  - 80
+KW  - Science
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 519 .C53t 1955
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Leedy, Clifford E.
+A2  - Bakersfield (California) Public Schools
+T1  - A course of study in music
+Y1  - 1938
+D1  - 1938
+SP  - 99
+KW  - Music
+PB  - Bakersfield Public Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 780 .B16c 1938
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Freeland, Alma M.
+A1  - Dent, Charles H.
+A2  - National Education Association. Association for Supervision and Curriculum Development
+T1  - Reporting is communicating: an approach to evaluation and marking
+Y1  - 1956
+D1  - 1956
+SP  - 57
+KW  - Grading and marking
+PB  - Association for Supervision and Curriculum
+CY  - Washington, DC
+LA  - English
+CN  - 379.2 .A87r 1956
+ER  - 
+
+TY  - BOOK
+A1  - Bene, Harry V.
+A2  - Arizona State Board for Vocational Education
+T1  - Inspiration and opportunity for the physically disabled
+D1  - 1940?
+SP  - 15
+KW  - People with disabilities
+KW  - Vocational education
+PB  - Arizona State Board for Vocational Education
+CY  - Phoenix, AZ
+LA  - English
+CN  - 371.415 .A71i
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A1  - Riesen, Dean E. R.
+A2  - University of Arizona
+T1  - Opening college doors for high school students: information and suggestions about college
+Y1  - 1941
+D1  - 04/1941
+SP  - 25
+KW  - Universities and colleges
+PB  - University of Arizona
+CY  - Tucson, AZ
+LA  - English
+CN  - 379.74 .A71o 1941
+SC  - Arizona
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Association for Childhood Education International
+T1  - Homework: the home's part; the school's part
+Y1  - 1963
+D1  - 1963
+SP  - 40
+KW  - Homework
+PB  - Association for Childhood Education International
+CY  - Washington, DC
+LA  - English
+CN  - 371.3 .A84h 1963
+ER  - 
+
+TY  - BOOK
+A1  - Christianson, Helen
+A2  - Association for Childhood Education
+T1  - Music and the young child
+Y1  - 1936
+D1  - 1936
+SP  - 32
+KW  - Music
+PB  - Association for Childhood Education
+CY  - Washington, DC
+LA  - English
+CN  - 780 .A82m 1936
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Association for Childhood Education
+T1  - Learning to speak effectively
+Y1  - 1943
+D1  - 1943
+SP  - 31
+KW  - Speech
+T2  - Association for Childhood Education. Bulletin
+V1  - 2
+PB  - Association for Childhood Education
+CY  - Washington, DC
+LA  - English
+CN  - 375.9E17 .A82L 1943
+ER  - 
+
+TY  - BOOK
+A2  - Association for Childhood Education International
+T1  - Uses for waste materials
+Y1  - 1949
+D1  - 1949
+SP  - 24
+KW  - Handicraft
+T2  - Association for Childhood Education International. Bulletin
+PB  - Association for Childhood Education International
+CY  - Washington, DC
+LA  - English
+CN  - 745 .A84u 1949
+ER  - 
+
+TY  - BOOK
+A2  - Association for Childhood Education International
+T1  - Recommended equipment and supplies for nursery, kindergarten, primary and intermediate schools
+Y1  - 1950
+D1  - 1950
+SP  - 59
+KW  - Teaching aids
+T2  - Association for Childhood Education International. Bulletin
+ED  - Rev.
+PB  - Association for Childhood Education International
+CY  - Washington, DC
+LA  - English
+CN  - 375.15 .A84r 1950
+G1  - Prek
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Association for Childhood Education
+T1  - Foundations in arithmetic
+Y1  - 1937
+D1  - 1937
+SP  - 32
+KW  - Arithmetic
+PB  - Association for Childhood Education
+CY  - Washington, DC
+LA  - English
+CN  - 511.2 .A82f 1937
+ER  - 
+
+TY  - BOOK
+A1  - Betzner, Jean
+A2  - Association for Childhood Education
+T1  - School housing needs of young children
+Y1  - 1939
+D1  - 1939
+SP  - 40
+KW  - Classroom environment
+KW  - School buildings
+T2  - Association for Childhood Education. Bulletin
+PB  - Association for Childhood Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.63 .A82s 1939
+ER  - 
+
+TY  - BOOK
+A1  - Hildreth, Gertrude
+A2  - Association for Childhood Education
+T1  - Readiness for learning
+Y1  - 1941
+D1  - 1941
+SP  - 35
+KW  - Readiness for school
+T2  - Association for Childhood Education. Bulletin
+PB  - Association for Childhood Education
+CY  - Washington, DC
+LA  - English
+CN  - 370.21 .A82r 1941
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Nila Banton
+A2  - Association for Childhood Education
+T1  - Reading: a tool for learning
+Y1  - 1938
+D1  - 1938
+SP  - 32
+KW  - Reading
+T2  - Association for Childhood Education. Bulletin
+PB  - Association for Childhood Education
+CY  - Washington, DC
+LA  - English
+CN  - 428.4 .A82rt 1938
+ER  - 
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Public Schools
+T1  - Helping children experience the realities of the social order
+Y1  - 1933
+D1  - 1933
+SP  - 307
+KW  - Social sciences
+N1  - Social studies in the public schools of Ann Arbor, Michigan junior high school grades seven, eight and nine
+PB  - Ann Arbor Public Schools
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 371.33 .A61h 1933
+SC  - Michigan
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Joliet Township (Illinois) High School and Junior College
+T1  - Curriculum in boys physical education
+SP  - 61
+KW  - Physical education and training
+PB  - Joliet Township High School and Junior College
+CY  - Joliet, IL
+LA  - English
+CN  - 613.4 .J75c
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Joint Committee on Educational Television
+T1  - Factsheet & box score
+Y1  - 1954
+D1  - 1954-1958
+KW  - Television in education
+PB  - Joint Committee on Educational Television
+CY  - Washington, DC
+LA  - English
+CN  - 371.3095 .J74f 1954-1958
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Career and Continuing Education
+T1  - Reference list of materials for English as a second language
+Y1  - 1972
+D1  - 1972
+SP  - 18
+KW  - English language
+KW  - Second language acquisition
+KW  - Bibliography
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.211 .L87r 1972
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Latting, Lucile H.
+A1  - Roderick, Martha M.
+A2  - Colorado State Department of Education. Office of Instructional Services
+T1  - Colorado art guide K-12
+Y1  - 1964
+D1  - 09/1964
+SP  - 144
+KW  - Art
+PB  - Colorado State Department of Education
+CY  - Denver, CO
+LA  - English
+CN  - 740 .C71c 1964
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 1
+Y1  - 1964
+D1  - 1964-1965
+SP  - 116
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 1
+SC  - Ohio
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 2
+Y1  - 1964
+D1  - 1964-1965
+SP  - 109
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 2
+SC  - Ohio
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 3
+Y1  - 1964
+D1  - 1964-1965
+SP  - 109
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 3
+SC  - Ohio
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 4
+Y1  - 1964
+D1  - 1964-1965
+SP  - 93
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 4
+SC  - Ohio
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 5
+Y1  - 1964
+D1  - 1964-1965
+SP  - 94
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 5
+SC  - Ohio
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 6
+Y1  - 1964
+D1  - 1964-1965
+SP  - 110
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 6
+SC  - Ohio
+G1  - Elementary
+G1  - Middle school
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 7
+Y1  - 1964
+D1  - 1964-1965
+SP  - 109
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 7
+SC  - Ohio
+G1  - Elementary
+G1  - Middle school
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 8
+Y1  - 1964
+D1  - 1964-1965
+SP  - 109
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 8
+SC  - Ohio
+G1  - Elementary
+G1  - Middle school
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 9
+Y1  - 1964
+D1  - 1964-1965
+SP  - 94
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 9
+SC  - Ohio
+G1  - Middle school
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 10
+Y1  - 1964
+D1  - 1964-1965
+SP  - 110
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 10
+SC  - Ohio
+G1  - Middle school
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 11
+Y1  - 1964
+D1  - 1964-1965
+SP  - 109
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 11
+SC  - Ohio
+G1  - Middle school
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - Intermediate series: teachers' guide 12
+Y1  - 1964
+D1  - 1964-1965
+SP  - 109
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78i 1964 book 12
+SC  - Ohio
+G1  - Middle school
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Greater Cleveland (Ohio) Mathematics Program
+T1  - The Greater Cleveland Mathematics Program (G.C.M.P.)
+Y1  - 1962
+D1  - 02/1962
+KW  - Mathematics
+KW  - Curricula
+PB  - Greater Cleveland Mathematics Program
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.6 .G78g 1962
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - New Albany-Floyd County (Indiana) Consolidatd School Corp.
+T1  - Early New Albany schools: resource material for fourth grade teachers
+SP  - 17
+KW  - Public schools
+KW  - History
+PB  - New Albany-Floyd County Consolidatd School Corp.
+CY  - New Albany, IN
+LA  - English
+CN  - 371.33 .N51e
+SC  - Indiana
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+
