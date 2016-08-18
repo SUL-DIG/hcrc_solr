@@ -1,0 +1,1092 @@
+
+TY  - BOOK
+A2  - Cincinnati (Ohio) Public Schools
+T1  - Report of three experiments in the use of television in instruction
+Y1  - 1959
+D1  - 1958-1959
+SP  - 71
+KW  - Television in education
+PB  - Cincinnati Public Schools
+CY  - Cincinnati, OH
+LA  - English
+CN  - 371.3095 .C57r 1958-1959
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Teaching guide for the language arts
+Y1  - 1955
+D1  - 1955
+SP  - 103
+KW  - Language arts
+N1  - Reprinted 1957.
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 428.2 .C53t 1955
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Belmont (Massachusetts) Public Schools
+T1  - A course of study in elementary language
+Y1  - 1938
+D1  - 1938
+KW  - Language arts
+KW  - Elementary education
+PB  - Belmont Public Schools
+CY  - Belmont, MA
+LA  - English
+CN  - 428.2 .B44c 1938
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Bay City (Michigan) Public Schools
+T1  - The Bay City science story elementary schools
+Y1  - 1955
+D1  - 1955-1958
+SP  - 5
+KW  - Science
+PB  - Bay City Public Schools
+CY  - Bay City, MI
+LA  - English
+CN  - 519 .B35b 1955
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) City Public Schools
+T1  - The vocational program
+Y1  - 1961
+D1  - 1961
+SP  - 37
+KW  - Vocational education
+PB  - Baltimore Public Schools
+CY  - Baltimore, MD
+LA  - English
+CN  - 371.401 .B19v 1961
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) City Public Schools
+T1  - Coordinated work-experience program in the Baltimore public schools
+Y1  - 1958
+D1  - 1958
+KW  - Vocational education
+PB  - Baltimore Public Schools
+CY  - Baltimore, MD
+LA  - English
+CN  - 371.401 .B19c 1958
+SC  - Maryland
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - A program of health services for Kentucky schools
+Y1  - 1955
+D1  - 09/1955
+KW  - School health services
+T2  - Commonwealth of Kentucky educational bulletin
+V1  - 23
+IS  - 3
+PB  - Kentucky State Department of Education
+CY  - Frankfort, KY
+LA  - English
+CN  - 613 .K37p 1955
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Charlotte Wright
+A1  - Vanskee, Martha
+A2  - University of Kentucky. Bureau of School Service
+T1  - Buzz buzz
+Y1  - 1942
+D1  - 1942
+SP  - 32
+KW  - Bees
+T2  - The Smith family
+V1  - 9
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 595.7 .K37b 1942
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Patrick, Elise Sams
+A2  - University of Kentucky. Bureau of School Service
+T1  - Garden enemies
+Y1  - 1941
+D1  - 1941
+SP  - 50
+KW  - Gardening
+T2  - Food from our land
+V1  - 5
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 580.5 .K37g 1941
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Charlotte Wright
+A1  - Vanskee, Martha
+A2  - University of Kentucky. Bureau of School Service
+T1  - A fish pond on the farm
+Y1  - 1941
+D1  - 1941
+SP  - 32
+KW  - Fish ponds
+T2  - The Smith family
+V1  - 4
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 595.7 .K37f 1941
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Charlotte Wright
+A1  - Vanskee, Martha
+A2  - University of Kentucky. Bureau of School Service
+T1  - Improving the garden
+Y1  - 1941
+D1  - 1941
+SP  - 43
+KW  - Gardening
+T2  - The Smith family
+V1  - 3
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 580.5 .K37i 1941
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Hickman, Patrick
+A1  - Patrick, Elisa Sams
+A2  - University of Kentucky. Bureau of School Service
+T1  - The strawberry patch
+Y1  - 1941
+D1  - 1941
+SP  - 19
+KW  - Gardening
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 634 .K37s 1941
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Halbert, Marie Goodwin
+A1  - Worley, Opaline King
+A2  - University of Kentucky. Bureau of School Service
+T1  - John learns about chickens
+Y1  - 1941
+D1  - 1941
+SP  - 35
+KW  - Chickens
+T2  - The chicken series
+V1  - 3
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 636 .K37j 1941
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Charlotte Wright
+A1  - Vanskee, Martha
+A2  - University of Kentucky. Bureau of School Service
+T1  - The Smiths' new garden
+Y1  - 1941
+D1  - 1941
+SP  - 31
+KW  - Gardening
+T2  - The Smith family
+V1  - 2
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 580.5 .K37sm 1941
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Halbert, Marie Goodwin
+A2  - University of Kentucky. Bureau of School Service
+T1  - Teachers' guide for the Chicken series
+Y1  - 1941
+D1  - 1941
+SP  - 35
+KW  - Chickens
+T2  - The chicken series
+PB  - University of Kentucky Bureau of School Service
+CY  - Frankfort, KY
+LA  - English
+CN  - 636 .K37t 1941
+SC  - Kentucky
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - The teaching of usage and functional grammar in Los Angeles secondary schools
+Y1  - 1938
+D1  - 1938
+SP  - 13
+KW  - English language
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L869t 1938
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - Vocational courses in the Los Angeles City high schools
+Y1  - 1922
+D1  - 02/1922
+SP  - 100
+KW  - Vocational education
+T2  - Los Angeles City School District. School publication 
+V1  - 41
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.401 .L869t 1922
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - The tree that saved Connecticut
+Y1  - 1932
+D1  - 1932
+SP  - 33
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72t 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - The pig that gave us a two-house congress
+Y1  - 1932
+D1  - 1932
+SP  - 34
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72p 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - A spy for General Washington
+Y1  - 1932
+D1  - 1932
+SP  - 37
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72s 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - Washington: the man who would not be king
+Y1  - 1932
+D1  - 1932
+SP  - 36
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72w 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - Washington crossing the Delaware
+Y1  - 1932
+D1  - 1932
+SP  - 35
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72wa 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - Henry Hudson
+Y1  - 1932
+D1  - 1932
+SP  - 34
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72h 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - The landing of the Pilgrims
+Y1  - 1932
+D1  - 1932
+SP  - 29
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72L 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - The story of Major John Andre: part 1
+Y1  - 1932
+D1  - 1932
+SP  - 31
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72st 1932 pt. 1
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - The story of Major John Andre: part 2
+Y1  - 1932
+D1  - 1932
+SP  - 30
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72st 1932 pt. 2
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - The right to print the truth
+Y1  - 1932
+D1  - 1932
+SP  - 32
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72r 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - Caesar Rodney's ride
+Y1  - 1932
+D1  - 1932
+SP  - 32
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72c 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - The story of Nathan Hale
+Y1  - 1932
+D1  - 1932
+SP  - 36
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72sn 1932
+ER  - 
+
+TY  - BOOK
+A1  - Carlton, Henry Fisk
+A1  - Zyve, Claire T.
+A2  - Columbia University. Teachers College
+T1  - Twenty pounds reward: a story of Ethan Allen
+Y1  - 1932
+D1  - 1932
+SP  - 35
+KW  - Radio plays
+KW  - Radio scripts
+KW  - History
+T1  - Dramatic hours in colonial history
+PB  - Columbia University. Teachers College
+CY  - New York, NY
+LA  - English
+CN  - 792 .C72tw 1932
+ER  - 
+
+TY  - BOOK
+A1  - Boynton, Agenes M.
+A1  - Kirkpatrick, E. L.
+A2  - American Council on Education. American Youth Commission
+A2  - United States Department of the Interior
+T1  - Vocational training for older rural youth
+Y1  - 1938
+D1  - 10/1938
+SP  - 60
+KW  - Vocational education
+PB  - American Council on Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.401 .A51v 1938
+ER  - 
+
+TY  - BOOK
+A1  - Boynton, Agenes M.
+A1  - Kirkpatrick, E. L.
+A2  - American Council on Education. American Youth Commission
+A2  - United States Department of the Interior
+T1  - Agricultural extension work with older rural youth
+Y1  - 1938
+D1  - 10/1938
+SP  - 23
+KW  - Vocational education
+PB  - American Council on Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.413 .A51a 1938
+ER  - 
+
+TY  - BOOK
+A1  - Boynton, Agenes M.
+A1  - Kirkpatrick, E. L.
+A2  - American Council on Education. American Youth Commission
+A2  - United States Department of the Interior
+T1  - Rural youth in farm organization and other national agency programs
+Y1  - 1939
+D1  - 07/1939
+SP  - 82
+KW  - Vocational education
+PB  - American Council on Education
+CY  - Washington, DC
+LA  - English
+CN  - 371.413 .A51r 1939
+ER  - 
+
+TY  - BOOK
+A1  - Thompson, Elizabeth M.
+A2  - National Education Association. Committee on International Relations
+T1  - Other lands, other peoples: a country-by-country fact book for Americans entertaining visitors from abroad
+Y1  - 1960
+D1  - 1960
+KW  - Geography
+PB  - National Education Association
+CY  - Washington, DC
+LA  - English
+CN  - 910 .N272o 1960
+ER  - 
+
+TY  - BOOK
+A2  - Connecticut State Department of Education
+T1  - Units of work developed by pupils of intermediate grades, Connecticut rural schools
+Y1  - 1933
+D1  - 1933-1934
+KW  - Curricula
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 375.14 .C75u 1933
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Evaluation of arithmetic textbooks
+Y1  - 1932
+D1  - 10/1932
+KW  - Arithmetic
+T2  - California State Department of Education. Bulletin
+V1  - 19
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .C15ea 1932
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Ratio, percent, and decimals
+Y1  - 1963
+D1  - 08/1963
+SP  - 38
+KW  - Mathematics
+T2  - California State High School Mathematics Projects Interim Materials
+ED  - Preliminary
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15ra 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Inequalities, absolute value and graphing
+Y1  - 1963
+D1  - 08/1963
+SP  - 63
+KW  - Mathematics
+T2  - California State High School Mathematics Projects Interim Materials
+ED  - Preliminary
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15i 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Measurement
+Y1  - 1964
+D1  - 05/1964
+SP  - 57
+KW  - Mathematics
+T2  - California State High School Mathematics Projects Interim Materials
+ED  - Preliminary
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15me 1964
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Whole numbers
+Y1  - 1963
+D1  - 08/1963
+SP  - 63
+KW  - Mathematics
+T2  - California State High School Mathematics Projects Interim Materials
+ED  - Preliminary
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15w 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Rational numbers
+Y1  - 1963
+D1  - 08/1963
+SP  - 52
+KW  - Mathematics
+T2  - California State High School Mathematics Projects Interim Materials
+ED  - Preliminary
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15rn 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Informal geometry
+Y1  - 1963
+D1  - 08/1963
+SP  - 29
+KW  - Geometry
+T2  - California State High School Mathematics Projects Interim Materials
+ED  - Preliminary
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 513 .C15ig 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A report of workshops on application of mathematics to business in secondary schools
+Y1  - 1961
+D1  - 11/1961
+SP  - 93
+KW  - Business education
+KW  - Mathematics
+T2  - California State Department of Education. Business education publication
+V1  - 104
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.49 .C15rw 1961
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Reports on regional conferences on improving mathematics instruction in elementary schools
+Y1  - 1961
+D1  - 1961
+SP  - 85
+KW  - Mathematics
+KW  - Elementary education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .C15rr 1961
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Visual aids in primary grade arithmetic for deaf children
+Y1  - 1961
+D1  - 1961
+SP  - 75
+KW  - Arithmetic
+KW  - Elementary education
+KW  - Deafness
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .C15va 1961
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Mathematics and industrial arts education
+Y1  - 1960
+D1  - 1960
+SP  - 100
+KW  - Mathematics
+KW  - Industrial arts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.6 .C15mi 1960
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (California) Unified School District
+T1  - Try-out guide teaching in high school
+Y1  - 1954
+D1  - 09/1954
+KW  - Teaching
+KW  - Secondary education
+PB  - Inglewood Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 373.13 .I51tr 1954
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Teaching conservation in California high schools
+Y1  - 1953
+D1  - 01/1953
+SP  - 46
+KW  - Conservation of natural resources
+T2  - California State Department of Education. Bulletin
+V1  - 22
+IS  - 1
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15tc 1953
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Guidebook for conservation education
+Y1  - 1950
+D1  - 03/1950
+SP  - 48
+KW  - Conservation of natural resources
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15gc 1950
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - California's natural wealth: a conservation guide for secondary schools
+Y1  - 1940
+D1  - 12/1940
+SP  - 124
+KW  - Conservation of natural resources
+T2  - California State Department of Education. Bulletin
+V1  - 9
+IS  - 4
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15cn 1940
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Conservation activities for elementary schools
+Y1  - 1953
+D1  - 05/1953
+SP  - 16
+KW  - Conservation of natural resources
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15ca 1953
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A curriculum unit on the conservation of natural resources
+Y1  - 1952
+D1  - 01/1952
+SP  - 79
+KW  - Conservation of natural resources
+T2  - California State Department of Education. Bulletin
+V1  - 21
+IS  - 1
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15cu 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - American Education Publications
+T1  - Map skills for today's geography
+Y1  - 1965
+D1  - 1965
+SP  - 47
+KW  - Maps
+PB  - American Education Publications
+CY  - Middletown, CT
+LA  - English
+CN  - 912 .A51m 1965
+ER  - 
+
+TY  - BOOK
+A2  - American National Red Cross
+T1  - Lecture and group discussion course on home and farm accident prevention
+Y1  - 1936
+D1  - 08/1936
+SP  - 79
+KW  - Accident prevention
+PB  - American National Red Cross
+CY  - Washington, DC
+LA  - English
+CN  - 371.76 .A51g 1936
+ER  - 
+
+TY  - BOOK
+A2  - University of Wisconsin. Extension Division
+T1  - Arts in society
+Y1  - 1963
+D1  - 1963
+SP  - 205
+KW  - Art
+PB  - University of Wisconsin
+CY  - Madison, WI
+LA  - English
+CN  - 740 .W85a 1963
+ER  - 
+
+TY  - BOOK
+A2  - United States Department of Health, Education, and Welfare. National Institute of Education
+T1  - Program plan: group on school capacity for problem solving
+Y1  - 1975
+D1  - 06/1975
+SP  - 23
+KW  - Public schools
+PB  - United States Department of Health, Education, and Welfare
+CY  - Washington, DC
+LA  - English
+CN  - 379.74 .U57p 1975
+ER  - 
+
+TY  - BOOK
+A1  - Clark, David L.
+A1  - Guba, Egon G.
+A2  - University of Indiana
+T1  - An inventory of contextual factors and conditions affecting individual and institutional behavior in schools, colleges and departments of education
+Y1  - 1976
+D1  - 07/1976
+SP  - 23
+KW  - Teacher training
+PB  - University of Indiana
+CY  - Bloomington, IN
+LA  - English
+CN  - 370.78 .I39i 1976
+ER  - 
+
+TY  - BOOK
+A2  - Far West Laboratory for Educational Research
+T1  - Using student ideas
+Y1  - 1971
+D1  - 1971
+SP  - 29
+KW  - Psychology of learning
+PB  - Far West Laboratory for Educational Research
+CY  - Berkeley, CA
+LA  - English
+CN  - 370.225 .F21u 1971
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Schwartz, Henrietta S.
+A2  - Roosevelt University. College of Education
+T1  - The culture of a conference: a goal-free evaluation of the Youth Advocacy Loop Conference
+SP  - 74
+KW  - Evaluation
+T2  - Roosevelt University, College of Education. Technical report
+V1  - 18
+PB  - Roosevelt University, College of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 370.87 .R685c
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Joyce, Bruce
+T1  - ISTE II: the California teacher as informants: preliminary analysis
+SP  - 19
+KW  - Teacher training
+ED  - Rough draft
+LA  - English
+CN  - 370.76 .J69c
+ER  - 
+
+TY  - BOOK
+A1  - Kramer, Martin A.
+T1  - The costs of higher education who pays and who should pay
+Y1  - 1984
+D1  - 04/1984
+SP  - 21
+KW  - Higher education
+KW  - Economics of education
+N1  - For the 30th Anniversary Colloquia of the College Scholarship Service.
+LA  - English
+CN  - 379.13 .K87 1984
+ER  - 
+
+TY  - BOOK
+A2  - Stanford Research Institute International
+T1  - NSF/Science and engineering education directorate: elementary/secondary and informal science program descriptions, 1952-1985
+Y1  - 1986
+D1  - 06/1986
+KW  - Science
+T2  - SRI International Project
+V1  - 1809
+PB  - Stanford Research Institute International
+CN  - 519 .S787n 1986
+ER  - 
+
+TY  - BOOK
+A2  - United States Department of Health, Education, and Welfare. National Institute of Education
+T1  - The status of educational research and development in the United States: 1975 databook
+Y1  - 1975
+D1  - 05/1975
+KW  - Education research
+ED  - Prepublication release
+PB  - United States Department of Health, Education, and Welfare. National Institute of Education
+CY  - Washington, DC
+LA  - English
+CN  - 379.74 .U59st 1975
+ER  - 
+
+TY  - BOOK
+A2  - National Education Association of the United States
+T1  - NEA search: a computer-based job matching service for teachers
+KW  - Teachers
+PB  - National Education Association of the United States
+CY  - Washington, DC
+LA  - English
+CN  - 371.145 .N277
+ER  - 
+
+TY  - BOOK
+A1  - Boyan, Norman J.
+T1  - Teacher education: a background paper for the White House Conference on Education
+Y1  - 1965
+D1  - 07/1965
+SP  - 14
+KW  - Teacher training
+PB  - Stanford University
+CY  - Stanford, CA
+LA  - English
+CN  - 370.78 .S781te 1965
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools
+T1  - Life of the rubber gatherers in the Amazon Valley and far east: a fourth grade unit
+Y1  - 1947
+D1  - 08/1947
+SP  - 46
+KW  - Social sciences
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.33 .L84L 1947
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Long Beach (California) Public Schools
+T1  - How air transportation affects social living: a sixth grade unit
+Y1  - 1947
+D1  - 02/1947
+SP  - 39
+KW  - Social sciences
+PB  - Long Beach (California) Public Schools
+CY  - Long Beach, CA
+LA  - English
+CN  - 371.33 .L84h 1947
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Zucker, Andrew
+A2  - Stanford Research Institute International
+T1  - NSF/SEE Precollege science education, 1952-1986
+Y1  - 1986
+D1  - 06/1986
+KW  - Science
+T2  - SRI International Project
+ED  - Draft
+PB  - Stanford Research Institute International
+CY  - Menlo Park, CA
+CN  - 519 .S787ns 1986
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Instructional guide: junior high school English
+Y1  - 1956
+D1  - 1956
+SP  - 159
+KW  - English language
+KW  - Composition and exercises
+KW  - Reading
+T2  - Los Angeles (California) City School Districts. Division of Instructional Services. Tentative publication
+V1  - SC-543
+PB  - Los Angeles (California) City School Districts. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.2 .L879in 1956
+SC  - California
+G1  - Middle school
+ER  - 
+
