@@ -1,0 +1,1733 @@
+
+TY  - BOOK
+A2  - Los Angeles County (California). Office of Superintendent of Schools
+T1  - Worksheets for use in constructing science equipment
+Y1  - 1955
+D1  - 01/1955
+KW  - Scientific equipment
+PB  - Los Angeles County (California). Office of Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 519. L879w 1955
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Parents for Better Education
+T1  - [Reading]
+D1  - 1962?
+KW  - Phonetics
+KW  - Reading
+PB  - Parents for Better Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.4 .P225r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California). Office of Superintendent of Schools
+T1  - Economic literacy: a unit for use in United States government classes
+Y1  - 1956
+D1  - 02/1956
+KW  - Economics
+PB  - Los Angeles County. Office of Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 330. L879el 1956
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Instructional guide: foods 1 and 2 senior high school homemaking
+Y1  - 1958
+D1  - 1958
+SP  - 225
+KW  - Food
+KW  - Home economics
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - SC-564
+PB  - Los Angeles City Schools. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 641 .L87f 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Learning our language. grade five
+Y1  - 1955
+D1  - 09/1955
+SP  - 58
+KW  - English language
+T2  - Bulletin (Dallas Independent School District (Texas))
+V1  - 206
+PB  - Dallas Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 428.2 .D14Le v. 2
+SC  - Texas
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools. Division of Instructional Services
+T1  - Give me a pen: prose and poetry by boys and girls
+Y1  - 1956
+D1  - 1956
+SP  - 107
+KW  - Literature
+T2  - Los Angeles (California) City Schools. Division of Instructional Services. Publication
+V1  - 608
+PB  - Los Angeles City Schools. Division of Instructional Services
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.5 .L87gm 1956
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts
+T1  - Fishing: Los Angeles Harbor, part two
+Y1  - 1953
+D1  - 1953
+SP  - 105
+KW  - Fisheries
+KW  - California
+T2  - Los Angeles (California) City School Districts. Curriculum division
+V1  - 541
+PB  - Los Angeles (California) City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L86f v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Thompson, Elizabeth Engle
+A1  - Hamalainen, Arthur E.
+A2  - Association for Supervision and Curriculum Development
+T1  - Foreign language teaching in elementary schools
+Y1  - 1958
+D1  - 1958
+SP  - 46
+KW  - Modern languages
+PB  - Association for Supervision and Curriculum Development
+CY  - Washington, DC
+LA  - English
+CN  - 400 .A87f 1958
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Ford Foundation
+T1  - The new teacher: a report on Ford Foundation assistance for new patterns in the education of teachers
+Y1  - 1962
+D1  - 09/1962
+SP  - 39
+KW  - Teachers
+PB  - Ford Foundation
+CY  - New York, NY
+LA  - English
+CN  - 370.72 .F68n 1962
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Guide for the development of dictionary skills for sixth grade
+Y1  - 1955
+D1  - 09/1955
+SP  - 44
+KW  - English language
+PB  - Alameda Unified School District
+CY  - Alameda, CA
+LA  - English
+CN  - 428.2 .A31gd 1955
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Living and learning in the primary school
+Y1  - 1952
+D1  - 06/1952
+SP  - 127
+KW  - Elementary education
+PB  - Alameda (California) Unified School District
+CY  - Oakland, CA
+LA  - English
+CN  - 375.12 .A31LL 1952
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Alameda (California) Unified School District
+T1  - Dental health is good health
+Y1  - 1952
+D1  - 1952
+SP  - 54
+KW  - Dental care
+PB  - Alameda (California) Unified School District
+CY  - Oakland, CA
+LA  - English
+CN  - 613 .A31d 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Banks, Gabriela Magana
+A2  - Cupertino (California) Union School District
+T1  - Virtual classroom vists cd-rom
+Y1  - 1997
+D1  - 1997
+KW  - Classroom environment
+PB  - Cupertino Union School District
+CY  - Cupertino, CA
+LA  - English
+CN  - 371.63 .C97v 1997
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - The unit of learning in the Chicago public schools
+Y1  - 1954
+D1  - 1954
+SP  - 57
+KW  - Unit methods
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 371.3096 .C53ul 1954
+SC  - Illinois
+ER
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Techniques for the first grade teacher
+Y1  - 1952
+D1  - 1952
+SP  - 79
+KW  - Elementary education
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375.13 .C53t 1952
+SC  - Illinois
+G2  - 1st
+ER
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Mental health the teacher and the curriculum in the Chicago public schools
+Y1  - 1954
+D1  - 1954
+SP  - 26
+KW  - Mental health services
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 371.9 .C53m 1954
+SC  - Illinois
+ER
+
+TY  - Book
+A1  - Pierce, Paul Revere 
+T1  - Techniques of curriculum making in the Chicago Public Schools
+Y1  - 1953
+D1  - 1953
+SP  - 47
+KW  - Curricula
+T2  - Curriculum brochure (Chicago Public Schools)
+V1  - 4
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375 .C53t 1953
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Zesbaugh, Helen Ann
+T1  - Children's drawings of the human figure
+Y1  - 1934
+D1  - 1934
+SP  - 75
+KW  - Drawing
+PB  - University of Chicago Press
+CY  - Chicago, IL
+LA  - English
+CN  - 740 .Z29 1934
+ER  - 
+
+TY  - BOOK
+A1  - Perham, Philip D. B.
+T1  - Manual for course writers
+Y1  - 1942
+D1  - 1942
+SP  - 99
+KW  - Curriculum planning
+PB  - California State Department of Education
+CY  - San Francisco, CA
+LA  - English
+CN  - 375 .C15mc 1942
+ER  - 
+
+TY  - BOOK
+A2  - San Jose State Normal School
+T1  - Songs for intermediate grades
+Y1  - 1916
+D1  - 1916
+SP  - 46
+KW  - Children's songs
+KW  - Music
+PB  - San Jose State Normal School
+CY  - San Jose, CA
+LA  - English
+CN  - 780 .C153s 1916
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Drama/theatre framework for California public schools: a process-concept framework for a program in theatre arts for all students kindergarten through twelfth grade
+Y1  - 1971
+D1  - 1971
+SP  - 127
+KW  - Drama
+KW  - Drama in education
+N1  - For review only
+PB  - California State Department of Education
+LA  - English
+CN  - 428.73 .C15d 1971
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Lowry, Howard F.
+A1  - Campbell, Oscar J.
+A1  - Doyle, Henry Grattan
+A1  - Nicolson, Marjorie Hope
+A1  - Smith, Horation
+A1  - van Santvoord, George
+A2  - Modern Language Association of America. Commission on Trends in Education
+T1  - Literature in American education: the report of a special committee
+Y1  - 1943
+D1  - 1943
+SP  - 29
+KW  - American literature
+PB  - Modern Language Association of America
+CY  - New York, NY
+LA  - English
+CN  - 428.5 .M69L 1943
+ER  - 
+
+TY  - BOOK
+A1  - Pollock, Thomas Clark
+A1  - DeVane, William Clyde
+A1  - Spiller, Robert E.
+A2  - Modern Language Association of America. Commission on Trends in Education
+T1  - The English language in American education
+Y1  - 1945
+D1  - 1945
+SP  - 32
+KW  - English language
+PB  - Modern Language Association of America
+CY  - New York, NY
+LA  - English
+CN  - 428.2 .M69e 1945
+ER  - 
+
+TY  - BOOK
+A1  - Longenecker, Gertrude
+A2  - San Diego State Normal School
+T1  - The teaching of spelling
+Y1  - 1914
+D1  - 09/1914
+SP  - 24
+KW  - Spelling
+T2  - San Diego State Normal School. Bulletin
+V1  - 2
+IS  - 3
+PB  - San Diego State Normal School
+CY  - San Diego, CA
+LA  - English
+CN  - 428.1 .S1941t 1914
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Studley, C. K.
+A1  - Ware, Allison
+A2  - Chico State Normal School
+T1  - Common essential in spelling: a word list and teacher's manual for elementary schools
+Y1  - 1914
+D1  - 1914
+SP  - 158
+KW  - Spelling
+KW  - Elementary
+T2  - Chico State Normal School. Bulletin
+V1  - 7
+PB  - Chico State Normal School
+CY  - Chico, CA
+LA  - English
+CN  - 428.1 .C531c 1914
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hockett, John A.
+A2  - California State Department of Education
+T1  - The vocabularies and contents of elementary school readers
+Y1  - 1938
+D1  - 05/1938
+SP  - 104
+KW  - Vocabulary
+KW  - Elementary
+T2  - California State Department of Education. Bulletin
+V1  - 3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15vc 1938
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Suggested course of study in oral and written expression for elementary schools
+Y1  - 1933
+D1  - 11/1933
+SP  - 192
+KW  - Speech
+KW  - Writing
+KW  - Elementary
+T2  - California State Department of Education. Bulletin
+V1  - 15
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15sc 1933
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Suggested course of study in reading and literature for elementary schools
+Y1  - 1932
+D1  - 07/1932
+SP  - 119
+KW  - Reading
+KW  - Literature
+KW  - Elementary
+T2  - California State Department of Education. Bulletin
+V1  - 13
+IS  - 2
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15sr 1932
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Guidelines for pupil personnel services in the elementary school
+Y1  - 1967
+D1  - 1967
+SP  - 61
+KW  - Personnel management
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15gp 1967
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Catalogue of audiocation recordings and other transcriptions in the lending library of the Audio-Education Division of the Works Projects Administration
+KW  - Audio-visual materials
+KW  - Catalogs
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.3095 .C15ca
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A study of early childhood education in California
+Y1  - 1949
+D1  - 06/1949
+SP  - 65
+KW  - Early childhood education
+T2  - California State Department of Education. Bulletin
+V1  - 18
+IS  - 5
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.741 .C15se 1949
+SC  - California
+G1  - Prek
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Division of Instruction
+T1  - Teacher guide to education in early childhood: teacher planning for a unit on living and work in the community
+Y1  - 1950
+D1  - 1950
+SP  - 64
+KW  - Early childhood education
+KW  - Community life
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.741 .C15tg 1950
+SC  - California
+G1  - Prek
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Directory of audio-visual education departments in California, 1953-1954
+Y1  - 1954
+D1  - 1953-1954
+KW  - Audio-visual materials
+KW  - Catalogs
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.3095 .C15da 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hunsaker, Keith A.
+A2  - Centinela Valley Cooperative Special Education Programs
+T1  - Handbook
+SP  - 34
+KW  - Special education
+PB  - Centinela Valley Cooperative Special Education Programs
+CY  - Inglewood, CA
+LA  - English
+CN  - 371.9 .C392h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley Interracial Committee
+T1  - Achievements of the Negro in California: a supplement unit for the Course of study in social studies grades 7-8
+Y1  - 1945
+D1  - 1945
+SP  - 21
+KW  - African Americans
+KW  - Social sciences
+KW  - California
+N1  - A supplement to be used with "Achievements of the Negro in Chicago" published by Board of Education, City of Chicago
+PB  - Berkeley Interracial Committee
+CY  - Berkeley, CA
+LA  - English
+CN  - 973 .B50a 1945
+SC  - California
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - American Council on Education. Commission on Teacher Education
+T1  - The cooperative study of teacher education: report of conference of local coordinators and staff of the Commission on Teacher Education
+Y1  - 1940
+D1  - 01/1940
+SP  - 17
+KW  - Teacher training
+PB  - American Council on Education. Commission on Teacher Education
+CY  - Washington, DC
+LA  - English
+CN  - 379.74 .A51c 1940
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, William H.
+A2  - Chicago (Illinois) Board of Education
+T1  - Hobby crafts for the elementary schools: needlework
+Y1  - 1937
+D1  - 1937
+SP  - 55
+KW  - Handicraft
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 745 .C53hc 1937
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, William H.
+A2  - Chicago (Illinois) Board of Education
+T1  - A course of study in business administration
+Y1  - 1937
+D1  - 1937
+SP  - 212
+KW  - Business education
+PB  - Chicago (Illinois) Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 7650 .C53cs 1937
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A score card for evaluating physical education programs for high school girls
+Y1  - 1931
+D1  - 1931
+SP  - 48
+KW  - Physical education and training
+T2  - California State Department of Education. Bulletin
+V1  - E-3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 613.4 .C15sc 1931
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Recent developments in secondary education in California: a preliminary report of the cooperating schools
+Y1  - 1936
+D1  - 10/1936
+SP  - 51
+KW  - Secondary education
+T2  - California State Department of Education. Bulletin
+V1  - 6
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .C15rd 1936
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The secondary school library in California
+Y1  - 1939
+D1  - 04/1939
+SP  - 84
+KW  - Secondary education
+KW  - School libraries
+T2  - California State Department of Education. Bulletin
+V1  - 2
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 027.8 .C15ss 1939
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A course in senior problems
+Y1  - 1939
+D1  - 07/1939
+SP  - 35
+KW  - Secondary education
+KW  - Social sciences
+T2  - California State Department of Education. Bulletin
+V1  - 6
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .C15cs 1939
+SC  - California
+G1  - High school
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Programs of the cooperating secondary schools in California
+Y1  - 1939
+D1  - 05/1939
+SP  - 82
+KW  - Secondary education
+T2  - California State Department of Education. Bulletin
+V1  - 3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .C15pc 1939
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Parent education in California
+Y1  - 1937
+D1  - 09/1937
+SP  - 55
+KW  - Parent and child
+T2  - California State Department of Education. Bulletin
+V1  - 17
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 370.21 .C15pe 1937
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The Carroll-Miller list of teaching aids and educational materials from commercial sources
+Y1  - 1935
+D1  - 10/1935
+SP  - 68
+KW  - Teaching aids
+T2  - California State Department of Education. Bulletin
+V1  - 20
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 016 .C15cm 1935
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A guide for teachers of beginning non-English speaking children
+Y1  - 1932
+D1  - 04/1932
+SP  - 68
+KW  - Second language acquisition
+T2  - California State Department of Education. Bulletin
+V1  - 8
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.211 .C15gt 1932
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Projects initiated for improving practice in secondary schools
+Y1  - 1934
+D1  - 04/1934
+SP  - 40
+KW  - Secondary education
+T2  - California State Department of Education. Bulletin
+V1  - 8
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .C15pi 1934
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Handbook on parent education
+Y1  - 1950
+D1  - 11/1950
+SP  - 74
+KW  - Parent and child
+T2  - California State Department of Education. Bulletin
+V1  - 19
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 370.21 .C15hp 1950
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Curricular offerings and practices in California high schools, 1950-1951
+Y1  - 1952
+D1  - 03/1952
+SP  - 122
+KW  - Secondary education
+T2  - California State Department of Education. Bulletin
+V1  - 21
+IS  - 4
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.15 .C15co 1952
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The elementary school program in California: handbook for the orientation of teachers entering professional service in the elementary school
+Y1  - 1945
+D1  - 07/1945
+SP  - 38
+KW  - Elementary education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.13 .C15es 1945
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - California educational institutions approved to offer training to veterans under Public Law 550
+Y1  - 1958
+D1  - 01/1958
+SP  - 37
+KW  - Veterans
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15ce 1958
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Mang, William
+A2  - University of Chicago
+T1  - The curriculum of the Catholic high school for boys
+Y1  - 1941
+D1  - 1941
+SP  - 330
+KW  - Curricula
+KW  - Secondary schools
+PB  - University of Chicago
+CY  - Chicago, IL
+LA  - English
+CN  - 375.15 .C53cc 1941
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Ryan, Nellie F.
+A2  - Chicago (Illinois) Public Schools
+T1  - A guidebook in literature, grades 7 and 8
+Y1  - 1948
+D1  - 1948
+SP  - 216
+KW  - Literature
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 428.5 .C53g 1948
+SC  - Illinois
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Jacobs, Louise M.
+A1  - Lulu, Louise M.
+A2  - Chicago Teachers College
+T1  - Chicagoland authors & illustrators of children's literature
+Y1  - 1951
+D1  - 05-06/1951
+SP  - 64
+KW  - Children's literature
+PB  - Chicago Teachers College
+CY  - Chicago, IL
+LA  - English
+CN  - 428.5 .C53ca 1951
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools
+T1  - Let's teach!--these things we believe
+Y1  - 1953
+D1  - 1952-1953
+SP  - 32
+KW  - Public schools
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 375.83 .C53L 1953
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Basic business training
+Y1  - 1952
+D1  - 1952
+SP  - 78
+KW  - Business education
+N1  - Reprint 1956.
+PB  - Chicago Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 650 .C53B 1952
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Senesh, Lawrence
+A2  - Joint Council on Economic Education
+T1  - International trade
+Y1  - 1953
+D1  - 1953
+SP  - 35
+KW  - Commerce
+T2  - Youth faces the economic world
+PB  - Joint Council on Economic Education
+CY  - New York, NY
+LA  - English
+CN  - 382 .J74it 1953
+ER  - 
+
+TY  - BOOK
+A1  - Breukelman, John
+A1  - Eddy, Thomas A.
+A1  - Hartman, Emily L.
+A2  - Kansas State Teachers College, Emporia
+T1  - The F. B. and Rena G. Ross Natural History Reservation
+Y1  - 1961
+D1  - 05/1961
+SP  - 15
+KW  - Conservation of natural resources
+T2  - The Kansas school naturalist
+V1  - 7
+IS  - 4
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 631 .K14f 1961
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Breukelman, John
+A2  - Kansas State Teachers College, Emporia
+T1  - The greatest show on earth
+Y1  - 1961
+D1  - 03/1961
+SP  - 16
+KW  - Birds
+T2  - The Kansas school naturalist
+V1  - 7
+IS  - 3
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 598.2 .K14g 1961
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Borman, Ina M.
+A1  - Douglass, Helen M.
+A2  - Kansas State Teachers College, Emporia
+T1  - Recent science books for children
+Y1  - 1961
+D1  - 01/1961
+SP  - 16
+KW  - Science
+KW  - Bibliography
+T2  - The Kansas school naturalist
+V1  - 7
+IS  - 2
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 519 .K14r 1961
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Measures and weights
+Y1  - 1960
+D1  - 04/1960
+SP  - 16
+KW  - Weights and measures
+T2  - The Kansas school naturalist
+V1  - 6
+IS  - 4
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 389 .K14m 1960
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Menhusen, Bernadette R.
+A2  - Kansas State Teachers College, Emporia
+T1  - The sparrow family
+Y1  - 1960
+D1  - 02/1960
+SP  - 16
+KW  - Birds
+T2  - The Kansas school naturalist
+V1  - 6
+IS  - 3
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 598.2 .K14s 1960
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Conservation arithmetic
+Y1  - 1959
+D1  - 12/1959
+SP  - 16
+KW  - Conservation of natural resources
+T2  - The Kansas school naturalist
+V1  - 6
+IS  - 2
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 631 .K14c 1959
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Breukelman, John
+A2  - Kansas State Teachers College, Emporia
+T1  - Field trips
+Y1  - 1959
+D1  - 10/1959
+SP  - 16
+KW  - School field trips
+T2  - The Kansas school naturalist
+V1  - 6
+IS  - 1
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 371.3 .K14f 1959
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Prophet, Carl
+A2  - Kansas State Teachers College, Emporia
+T1  - Life in a stream
+Y1  - 1959
+D1  - 04/1959
+SP  - 16
+KW  - Stream ecology
+T2  - The Kansas school naturalist
+V1  - 5
+IS  - 4
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 550.6 .K14L 1959
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Clarke, Robert F.
+A2  - Kansas State Teachers College, Emporia
+T1  - Poisonous snakes of Kansas
+Y1  - 1959
+D1  - 02/1959
+SP  - 16
+KW  - Poisonous snakes
+T2  - The Kansas school naturalist
+V1  - 5
+IS  - 3
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 598.12 .K14p 1959
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Borman, Ina M.
+A1  - Douglass, Helen M.
+A2  - Kansas State Teachers College, Emporia
+T1  - Let's build equipment for elementary science
+Y1  - 1958
+D1  - 12/1958
+SP  - 16
+KW  - Scientific equipment
+KW  - Elementary education
+T2  - The Kansas school naturalist
+V1  - 5
+IS  - 2
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 519 .K14L 1958
+SC  - Kansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Watersheds in Kansas
+Y1  - 1958
+D1  - 10/1958
+SP  - 16
+KW  - Water supply
+T2  - The Kansas school naturalist
+V1  - 5
+IS  - 1
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 628 .K14w 1958
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Leisman, G. A.
+A2  - Kansas State Teachers College, Emporia
+T1  - Summer wild flowers
+Y1  - 1958
+D1  - 04/1958
+SP  - 16
+KW  - Wild flowers
+T2  - The Kansas school naturalist
+V1  - 4
+IS  - 4
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 581 .K14s 1958
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Trees and man
+Y1  - 1958
+D1  - 02/1958
+SP  - 16
+KW  - Trees
+T2  - The Kansas school naturalist
+V1  - 4
+IS  - 3
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 580 .K14t 1958
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - An outline for conservation teaching in Kansas
+Y1  - 1957
+D1  - 12/1957
+SP  - 20
+KW  - Conservation of natural resources
+T2  - The Kansas school naturalist
+V1  - 4
+IS  - 2
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 631 .K14o 1957
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Along the roadside
+Y1  - 1957
+D1  - 10/1957
+SP  - 16
+KW  - Nature study
+T2  - The Kansas school naturalist
+V1  - 4
+IS  - 1
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 519 .K14a 1957
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Spiders
+Y1  - 1957
+D1  - 04/1957
+SP  - 16
+KW  - Spiders
+T2  - The Kansas school naturalist
+V1  - 3
+IS  - 4
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 595.4 .K14s 1957
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Homemaking Education
+T1  - Guide for planning the home economics curriculum in the junior college
+Y1  - 1948
+D1  - 1948
+SP  - 108
+KW  - Home economics
+ED  - Preliminary draft
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15gp 1948
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Homemaking Education
+T1  - Guide for planning the home economics curriculum
+Y1  - 1946
+D1  - 1946
+SP  - 149
+KW  - Home economics
+ED  - Preliminary draft
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15gp 1946
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - California State Department of Fish and Game
+T1  - Home and hunter safety: a guide for teachers on safe handling of firearms
+Y1  - 1955
+D1  - 04/1955
+SP  - 54
+KW  - Firearms
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 623 .C15h 1955
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The preparation and certification of teachers for homemaking education
+Y1  - 1953
+D1  - 10/1953
+SP  - 24
+KW  - Home economics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15pc 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Guide for planning and equipping industrial arts shops in California schools
+Y1  - 1956
+D1  - 1956
+SP  - 39
+KW  - Industrial arts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15gp 1956
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Suggested courses of instruction in industrial arts for the junior high school level
+Y1  - 1953
+D1  - 1953
+SP  - 48
+KW  - Industrial arts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15sc 1953
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Suggested courses of instruction in industrial arts for the senior high school level
+Y1  - 1955
+D1  - 1955
+SP  - 71
+KW  - Industrial arts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15sh 1955
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Tests to accompany course in electric motor repair: part 2 electrical materials and direct-current theory and equipment
+Y1  - 1950
+D1  - 1950
+SP  - 64
+KW  - Electricity
+KW  - Industrial arts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15ta 1950
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Course in electric motor repair: part 2 electrical materials and direct-current theory and equipment
+Y1  - 1950
+D1  - 1950
+SP  - 51
+KW  - Electricity
+KW  - Industrial arts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15ce 1950
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Tests to accompany course in machine shop: part 4 grinder and boring-mill work and heat-treating
+Y1  - 1949
+D1  - 1949
+SP  - 118
+KW  - Industrial arts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 690 .C15tm 1949
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A guide for driver education and driver training
+Y1  - 1953
+D1  - 1953
+SP  - 95
+KW  - Automobile driver education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.76 .C15d 1953
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A guide for driver education and driver training
+Y1  - 1958
+D1  - 1958
+SP  - 96
+KW  - Automobile driver education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.76 .C15d 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rumiantsev, S. V.
+A2  - People's Friendship University Named After Patrice Lumumba
+T1  - Problems of training teachers in newly developing countries
+Y1  - 1962
+D1  - 09/1962
+SP  - 11
+KW  - Teacher training
+PB  - People's Friendship University Named After Patrice Lumumba
+CY  - Moscow, Russia
+LA  - English
+CN  - 379.74 .P412 1962
+SC  - Russia
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - University of Alabama. Committee on Broadcasting
+T1  - Report evaluating the teaching of accounting 1 by closed circuit television
+Y1  - 1958
+D1  - 09/1958
+SP  - 27
+KW  - Television of education
+KW  - Higher education
+PB  - University of Alabama
+CY  - University, AL
+LA  - English
+CN  - 371.3095 .A31r 1958
+SC  - Alabama
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Berkeley. Department of Education, Field Service Center
+T1  - Mathematics and science in the public schools
+Y1  - 1958
+D1  - 1958
+KW  - Mathematics
+KW  - Science
+PB  - University of California, Berkeley
+CY  - Berkeley, CA
+LA  - English
+CN  - 511.6 .C152m 1958
+ER  - 
+
+TY  - BOOK
+A1  - O'Rourke, Everett V.
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - Enrollments in grades 9 through 12, California public high schools, in foreign languages, 1951-1963
+Y1  - 1964
+D1  - 04/1964
+SP  - 2
+KW  - Modern languages
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15eg 1964
+SC  - California
+G1  - High school
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - O'Rourke, Everett V.
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - Basic foreign language textbooks for nine languages taught in California secondary schools
+Y1  - 1964
+D1  - 05/1964
+SP  - 5
+KW  - Modern languages
+KW  - Textbooks
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 400 .C15bf 1964
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - O'Rourke, Everett V.
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - Enrollments in Latin language courses in California secondary schools
+Y1  - 1964
+D1  - 03/1964
+SP  - 7
+KW  - Latin language
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.347 .C15el 1964
+SC  - California
+G1  - High school
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - O'Rourke, Everett V.
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - Summary of science course data (1963 October report of high schools)
+Y1  - 1964
+D1  - 05/1964
+SP  - 15
+KW  - Science
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15ss 1964
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - O'Rourke, Everett V.
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - English programs in the public high schools of California
+Y1  - 1964
+D1  - 06/1964
+SP  - 6
+KW  - English language
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15ep 1964
+SC  - California
+G1  - High school
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - O'Rourke, Everett V.
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - High school social science courses
+Y1  - 1964
+D1  - 05/1964
+SP  - 17
+KW  - Social sciences
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .C15hs 1964
+SC  - California
+G1  - High school
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Sams, W. Earl
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - Summary of scheduling of classes: data provided by California high schools
+Y1  - 1965
+D1  - 03/1965
+SP  - 14
+KW  - School schedules
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 373.14 .C15ss 1965
+SC  - California
+G1  - High school
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A1  - Sams, W. Earl
+A2  - California State Department of Education. Division of Instruction. Bureau of Secondary Education
+T1  - A report on high school mathematics, grades 7-12
+Y1  - 1964
+D1  - 11/1964
+SP  - 13
+KW  - Mathematics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 373.14 .C15rm 1964
+SC  - California
+G1  - High school
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco State College Library
+T1  - New curriculum programs reflecting current trends in social studies teaching
+Y1  - 1971
+D1  - 1971
+SP  - 12
+KW  - Social sciences
+PB  - San Francisco State College Library
+CY  - San Francisco, CA
+LA  - English
+CN  - 371.33 .C153n
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Homemaking Education
+T1  - Information relating to adult classes in homemaking organized under the provisions of the California plan for vocational education
+Y1  - 1952
+D1  - 1947-1952
+SP  - 5
+KW  - Adult education
+KW  - Home economics
+KW  - Vocational education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15ir
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Committee for the Study of Education
+T1  - The three Rs+ the elementary curriculum, kindergarten through grade eight: a study course for parents and teachers
+Y1  - 1958
+D1  - 1958
+KW  - Parent-teacher relationships
+KW  - Elementary education
+N1  - Includes: "Leaders guide for three rs+ study course," "Good schools for today's children," "Listening, speaking, reading, spelling and writing," "Mathematics goals." "Social studies."
+PB  - California Committee for the Study of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.301 .C151tr 1958
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - California Committee for the Study of Education
+T1  - Leaders guide for three Rs+ study course
+Y1  - 1958
+D1  - 01/1958
+SP  - 4
+KW  - Parent-teacher relationships
+KW  - Elementary education
+PB  - California Committee for the Study of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.301 .C151tr 1958 pt. 1
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - California Committee for the Study of Education
+T1  - Good schools for today's children: an introduction to the elementary curriculum
+Y1  - 1958
+D1  - 1958
+SP  - 15
+KW  - Elementary education
+PB  - California Committee for the Study of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.301 .C151tr 1958 pt. 2
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - California Committee for the Study of Education
+T1  - Listening, speaking, reading, spelling and writing: a study guide for parents and teachers, kindergarten through grade eight
+Y1  - 1958
+D1  - 1958
+SP  - 32
+KW  - English language
+KW  - Elementary education
+PB  - California Committee for the Study of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.301 .C151tr 1958 pt. 3
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - California Committee for the Study of Education
+T1  - Mathematics goals: a study guide for parents and teachers, kindergarten through grade eight
+Y1  - 1958
+D1  - 1958
+SP  - 31
+KW  - Mathematics
+KW  - Elementary education
+PB  - California Committee for the Study of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.301 .C151tr 1958 pt. 4
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - California Committee for the Study of Education
+T1  - Social studies: the content subjects and their interrelatedness: a study guide for parents and teachers, kindergarten through grade eight
+Y1  - 1958
+D1  - 1958
+SP  - 31
+KW  - Social sciences
+KW  - Elementary education
+PB  - California Committee for the Study of Education
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.301 .C151tr 1958 pt. 5
+SC  - California
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Radio Council evaluation of school broadcasts report
+Y1  - 1954
+D1  - 1953-1954
+KW  - Radio in education
+PB  - Chicago Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 371.3095 .C53rc 1954
+SC  - Illinois
+ER  - 
+
