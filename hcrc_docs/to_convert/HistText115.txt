@@ -1,0 +1,1187 @@
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Space and equipment
+Y1  - 1954
+D1  - 1954
+SP  - 20
+KW  - Home economics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15se 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Home projects in the homemaking program
+Y1  - 1949
+D1  - 1949
+SP  - 39
+KW  - Home economics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 640 .C15hp 1949
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Little journeys in California: lessons in English for intermediate classes of adults
+Y1  - 1937
+D1  - 09/1937
+SP  - 93
+KW  - English language
+KW  - Adult education
+T2  - California State Department of Education. Bulletin
+V1  - 18
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15Lj 1937
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Handbook on continuation education
+Y1  - 1932
+D1  - 09/1932
+SP  - 55
+KW  - Adult education
+T2  - California State Department of Education. Bulletin
+V1  - 17
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C15hc 1932
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Education of the aurally handicapped
+Y1  - 1953
+D1  - 01/1953
+SP  - 31
+KW  - Deafness
+T2  - California State Department of Education. Bulletin
+V1  - 22
+IS  - 2
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.912 .C15ea 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Good guidance practices in the elementary school
+Y1  - 1955
+D1  - 08/1955
+SP  - 77
+KW  - Counseling
+T2  - California State Department of Education. Bulletin
+V1  - 24
+IS  - 6
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.45 .C15gg 1955
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Planning a career? why not consider college teaching in California
+Y1  - 1962
+D1  - 1962
+SP  - 14
+KW  - Higher education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15pc 1962
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Kitch, Donald E.
+A1  - McCreary, William H.
+A2  - California State Department of Education
+T1  - The school counselor: his work and training
+Y1  - 1951
+D1  - 07/1951
+SP  - 44
+KW  - Counseling
+T2  - California State Department of Education. Bulletin
+V1  - 20
+IS  - 7
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.45 .C15sc 1951
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Handbook on adult education in California
+Y1  - 1957
+D1  - 11/1957
+SP  - 63
+KW  - Adult education
+T2  - California State Department of Education. Bulletin
+V1  - 26
+IS  - 12
+ED  - Revised
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15ha 1957
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Individual and family survival
+Y1  - 1964
+D1  - 04/1964
+SP  - 14
+KW  - Adult education
+KW  - Civil defense
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.76 .C15if 1964
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Mann, George C.
+A1  - Getsinger, J. Wilson
+A2  - California State Department of Education
+T1  - Development of adult education in California
+Y1  - 1953
+D1  - 06/1953
+SP  - 85
+KW  - Adult education
+T2  - California State Department of Education. Bulletin
+V1  - 22
+IS  - 6
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15da 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Shaffer, E. Evan
+A2  - California State Department of Education
+T1  - A study of continuation education in California
+Y1  - 1955
+D1  - 08/1955
+SP  - 126
+KW  - Adult education
+T2  - California State Department of Education. Bulletin
+V1  - 24
+IS  - 9
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15sc 1955
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Elementary School Principals Association
+T1  - Guidance bulletin
+Y1  - 1940
+D1  - 04/1940
+SP  - 51
+KW  - Guidance
+PB  - California Elementary School Principals Association
+CY  - San Jose, CA
+LA  - English
+CN  - 371.45 .C151gb 1940
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Guidance
+T1  - Occupational pamphlets: a revised list of free and inexpensive pamphlets
+Y1  - 1956
+D1  - 09/1956
+SP  - 17
+KW  - Vocational education
+KW  - Bibliography
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.401 .C15op 1956
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A guide to occupations: a California State College manual for high school and junior college students
+Y1  - 1945
+D1  - 1945
+SP  - 138
+KW  - Vocational education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.401 .C15go 1945
+SC  - California
+G1  - High school
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Vocational education in action
+Y1  - 1947
+D1  - 10/1947
+SP  - 48
+KW  - Vocational education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.401 .C15ve 1947
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Aims and desired outcomes of typewriting instruction in California secondary schools
+Y1  - 1933
+D1  - 07/1933
+SP  - 9
+KW  - Typewriting
+T2  - California State Department of Education. Bulletin
+V1  - 8
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 652 .C15ad 1933
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Rosecrans, George L.
+A2  - California State Department of Education
+T1  - Basic information concerning apprenticeship and the participation of the public schools in the program
+Y1  - 1948
+D1  - 1948
+SP  - 13
+KW  - Apprentices
+KW  - Technical education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 680 .C15b 1948
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of California
+T1  - Syllabus of an introductory course on part-time education
+Y1  - 1920
+D1  - 01/1920
+SP  - 190
+KW  - Vocational education
+KW  - Curricula
+N1  - Issued by the University of California in co-operation with the State Board of Education.
+T2  - University of California General Vocational Education
+V1  - 1
+IS  - 1
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.401 .C15s 1920
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Snyder, Edwin R.
+A2  - California State Superintendent of Public Instruction
+T1  - Relating to compulsory full-time day, part-time day and evening education
+Y1  - 1919
+D1  - 06/1919
+SP  - 15
+KW  - Compulsory education
+PB  - California State Superintendent of Public Instruction
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15rc 1919
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - A study in world friendship...designing a symbol for the United Nations
+Y1  - 1944
+D1  - 05/1944
+SP  - 15
+KW  - Peace
+KW  - International relations
+KW  - United Nations
+T2  - California State Department of Education. Bulletin
+V1  - 13
+IS  - 1
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 327 .C15sw 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - University of California. Division of Vocational Education
+T1  - Occupational analysis for teachers of evening apprenticeship
+Y1  - 1948
+D1  - 1948
+SP  - 161
+KW  - Apprentices
+KW  - Vocational education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.402 .C15oa 1948
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+A2  - California State Junior College Association
+A2  - California Association of Adult Education Administrators
+T1  - Vocational education in the junior college
+Y1  - 1949
+D1  - 1949
+SP  - 88
+KW  - Junior colleges
+KW  - Vocational education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.401 .C15vc 1949
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Suggested course of study in social studies for elementary schools
+Y1  - 1932
+D1  - 07/1932
+SP  - 238
+KW  - Social sciences
+KW  - Elementary education
+T2  - California State Department of Education. Bulletin
+V1  - 13
+IS  - 3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .C15sc 1932
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The social studies program for the public schools of California
+Y1  - 1948
+D1  - 08/1948
+SP  - 42
+KW  - Social sciences
+T2  - California State Department of Education. Bulletin
+V1  - 17
+IS  - 4
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .C15ss 1948
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Benson, Ivan
+A2  - California State Department of Education
+T1  - Mark Twain in the West
+Y1  - 1935
+D1  - 11/1935
+SP  - 30
+KW  - American literature
+KW  - Twain, Mark
+T2  - California State Department of Education. Bulletin
+V1  - 21
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.5 .C15mt 1935
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - How the pioneers moved westward
+Y1  - 1938
+D1  - 04/1938
+SP  - 110
+KW  - History
+N1  - Curriculum units for elementary schools, no. 2
+T2  - California State Department of Education. Bulletin
+V1  - 1
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 973 .C15hp 1938
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - How man satisfies his need for food
+Y1  - 1942
+D1  - 09/1942
+SP  - 174
+KW  - Food
+N1  - Curriculum units for elementary schools, no. 4; Compiled by the Division of Elementary Education, California State Department of Education, and the Bureau of Child Hygiene, California State Department of Public Health, with the co-operation of the offices of the County Superintendents of Schools in Colusa, Marin, Mariposa, and Tehama Counties.
+T2  - California State Department of Education. Bulletin
+V1  - 11
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 641 .C15hm 1942
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education.
+T1  - A study of rice growing in California and a study of China centering in the life of the rice farmer
+Y1  - 1945
+D1  - 01/1945
+SP  - 30
+KW  - Rice
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 633 .C15sr 1945
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education
+T1  - A study of freight trains and freights leading into a study of the products and industries of the United States and their distribution
+Y1  - 1945
+D1  - 09/1945
+SP  - 8
+KW  - Railroads
+KW  - Transportation
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 656.1 .C15s 1945
+SC  - California
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education and Rural Schools
+T1  - The Colorado desert: a representative desert: a unit of work for upper grades
+Y1  - 1934
+D1  - 1934
+SP  - 12
+KW  - Deserts
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 979.4 .C15cd 1934
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education
+T1  - The story of shelter: a potential curriculum unit for fifth and sixth grade
+Y1  - 1936
+D1  - 12/1936
+SP  - 18
+KW  - Housing
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 331.83 .C15ss 1936
+SC  - California
+G1  - Elementary
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education
+T1  - The story of music: a unit of work for the sixth grade
+Y1  - 1939
+D1  - 1939
+SP  - 10
+KW  - Music
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 780 .C15sm 1939
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education
+T1  - The home: a unit of work for the first grade
+Y1  - 1939
+D1  - 1939
+SP  - 7
+KW  - Homes
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 645 .C15h 1939
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education
+T1  - Shelter: a unit of work for the ungraded group
+Y1  - 1940
+D1  - 1940
+SP  - 11
+KW  - Housing
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 331.83 .C15s 1940
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Divison of Elementary Education
+T1  - Communication: a unit of work for the sixth grade
+Y1  - 1940
+D1  - 1940
+SP  - 8
+KW  - Communication
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 655 .C15c 1940
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Guidelines for a course in the principles of the American economy
+Y1  - 1964
+D1  - 01/1964
+SP  - 23
+KW  - Economics
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 330 .C15gc 1964
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Report of the State Central Committee on Social Studies to the California State Curriculum Commission
+Y1  - 1961
+D1  - 1961
+SP  - 92
+KW  - Social sciences
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .C15rs 1961
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Butte County (California) Public Schools
+T1  - Guidebook for school health
+Y1  - 1959
+D1  - 1959
+SP  - 31
+KW  - School health services
+PB  - Butte County Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 613 .B98g 1959
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - The California legislature
+Y1  - 1934
+D1  - 02/1934
+SP  - 51
+KW  - California legislature
+T2  - California State Department of Education. Bulletin
+V1  - 3
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 328.74 .C15c 1935
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Handbook on adult education
+Y1  - 1937
+D1  - 10/1937
+SP  - 27
+KW  - Adult education
+T2  - California State Department of Education. Bulletin
+V1  - 20
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 374 .C15ha 1937
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Etta May
+A2  - California State Department of Education
+T1  - The flag of the United States of America
+Y1  - 1937
+D1  - 04/1937
+SP  - 38
+KW  - Flags
+T2  - California State Department of Education. Bulletin
+V1  - 7
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 973 .C15fu 1937
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Speech in education
+Y1  - 1937
+D1  - 05/1937
+SP  - 86
+KW  - Speech
+T2  - California State Department of Education. Bulletin
+V1  - 9
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.7 .C15se 1937
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Suggestions for public schools week activities
+Y1  - 1936
+D1  - 01/1936
+SP  - 32
+KW  - School management and organization
+KW  - Public schools
+T2  - California State Department of Education. Bulletin
+V1  - 2
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379 .C15sp 1936
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Board of Education
+T1  - Facts and figures regarding the school text-books published in the state of California
+Y1  - 1896
+D1  - 1896
+SP  - 20
+KW  - Textbooks
+PB  - California State Board of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.156 .C15ff 1896
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Persels, Bess H.
+A2  - California State Board of Education. Division of Elementary Education
+T1  - A sequence of a unit of work on the fourth grade level centered in South America
+Y1  - 1942
+D1  - 03/1942
+SP  - 57
+KW  - South America
+PB  - California State Board of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.156 .C15su 1942
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Brockton (Massachusetts) Public Schools
+T1  - Course of study in social studies: the wonderful story of the development of modern ways of living, grade six
+Y1  - 1942
+D1  - 1942
+SP  - 141
+KW  - Social sciences
+PB  - Brockton Public Schools
+CY  - Brockton, MA
+LA  - English
+CN  - 371.33 .B863 1942
+SC  - Massachusetts
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Boyce, George A.
+A1  - Beatty, Willard W.
+A2  - Bronxville (New York) Public Schools
+T1  - Mathematics of everyday life: unit 1: the financial relationships of children to parents
+Y1  - 1935
+D1  - 1935
+SP  - 69
+KW  - Mathematics
+T2  - Quantitative thinking series for junior high schools
+PB  - Bronxville Public Schools
+CY  - Bronxville, NY
+LA  - English
+CN  - 511.5 .B87m 1935
+SC  - New York
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Toops, Myrtle Dewey
+A2  - Ball State Teachers College
+T1  - Working in the core program in Burris Laboratory School
+Y1  - 1955
+D1  - 02/1955
+SP  - 60
+KW  - Curricula
+PB  - Ball State Teachers College
+CY  - Muncie, IN
+LA  - English
+CN  - 375.83 .I39w 1955
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) Public Schools
+T1  - Outline of course of study in the Brookline Public Schools: kindergarten, primary and grammar grades
+KW  - Curricula
+N1  - One large poster
+PB  - Brookline Public Schools
+CY  - Brookline, MA
+LA  - English
+CN  - 375.83 .B87o
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Buffalo (New York) Department of Public Instruction
+T1  - Courses of study for the Buffalo High Schools
+KW  - Curricula
+KW  - High school
+PB  - Buffalo Department of Public Instruction
+CY  - Buffalo, NY
+LA  - English
+CN  - 375.83 .B92c
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Advanced first grade
+Y1  - 1951
+D1  - 09/1951
+KW  - Elementary education
+T2  - Burbank schools
+V1  - 18
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 372.4 .B94a 1951
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - The kindergarten year
+Y1  - 1952
+D1  - 09/1952
+KW  - Elementary education
+KW  - Kindergarten
+T2  - Burbank schools
+V1  - 19
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 372.2 .B94k 1952
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - The primary years: good citizenship starts in early childhood
+Y1  - 1952
+D1  - 10/1952
+KW  - Elementary education
+T2  - Burbank schools
+V1  - 19
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 372.4 .B94p 1952
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - The intermediate years
+Y1  - 1952
+D1  - 11/1952
+KW  - Elementary education
+T2  - Burbank schools
+V1  - 19
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 372.4 .B94i 1952
+SC  - California
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Teaching American history and ideals
+Y1  - 1952
+D1  - 02/1952
+KW  - United States history
+T2  - Burbank schools
+V1  - 18
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 973 .B94t 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - Selection of instructional materials
+Y1  - 1954
+D1  - 01/1954
+KW  - Teaching aids
+T2  - Burbank schools
+V1  - 20
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 016 .B94s 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Tentative unit outline for transportation and communication in the air age
+Y1  - 1953
+D1  - 09/1953
+KW  - Transportation
+KW  - Communication
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 656 .B94t 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Tentative unit outline for South America
+Y1  - 1953
+D1  - 07/1953
+KW  - South America
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 980 .B94t 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Tentative unit plan for the United States, part one
+Y1  - 1953
+D1  - 09/1953
+SP  - 11
+KW  - United States history
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 973 .B94tu 1953 pt. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Tentative unit plan for the United States, part two: early America: colonial life
+Y1  - 1953
+D1  - 09/1953
+SP  - 19
+KW  - United States history
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 973 .B94tu 1953 pt, 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Tentative unit plan for the United States, part four: modern United States
+Y1  - 1953
+D1  - 09/1953
+SP  - 18
+KW  - United States history
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 973 .B94tu 1953 pt. 4
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Public schools week in elementary schools, April 26 - April 30,1954
+Y1  - 1954
+D1  - 03/1954
+SP  - 6
+KW  - School management and organization
+KW  - Public schools
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 379 .B94p 1954
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Suggestions for arranging bulletin boards and displays
+Y1  - 1954
+D1  - 03/1954
+SP  - 24
+KW  - Bulletin boards
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 371.3095 .B94s 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Working copy for science in the social studies unit: the community through ships and harbors, grade 3
+Y1  - 1958
+D1  - 02/1958
+SP  - 15
+KW  - Social sciences
+KW  - Shipping
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 371.33 .B94w 1958
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District. Division of Instruction
+T1  - Working copy for science in the social studies unit: the western hemisphere, grade 6
+Y1  - 1958
+D1  - 02/1958
+SP  - 20
+KW  - Social sciences
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 371.33 .B94wc 1958
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - California Congress of Parents and Teachers
+A2  - California State Department of Education
+A2  - California State Department of Motor Vehicles
+T1  - Safety: a guidebook for use of parent-teacher association safety chairmen
+Y1  - 1944
+D1  - 1944
+SP  - 24
+KW  - Safety education
+PB  - California State Department of Education
+CY  - Sacramento, CY
+LA  - English
+CN  - 371.76 .C15sg 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+A2  - University Elementary School
+T1  - Sequence of a South American study (centered chiefly in Inca life), grade 6A, second semester
+Y1  - 1942
+D1  - 1942
+SP  - 26
+KW  - South America
+KW  - Incas
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 980 .C152ss 1942
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+T1  - [Unit of work] Radio, 6-B
+KW  - Radio in education
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.3095 .C152r
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+T1  - [Unit of work: Pueblo Indian life, 3rd grade] Making pottery
+SP  - 13
+KW  - Hopi Indians
+KW  - Indians of North America
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 970.1 .C152mp
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+T1  - [Unit of work: Pueblo Indian life, 3rd grade] What White Eagle wears
+SP  - 8
+KW  - Hopi Indians
+KW  - Indians of North America
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 970.1 .C152w
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+T1  - [Unit of work: Pueblo Indian life, 3rd grade] Planting corn
+SP  - 8
+KW  - Hopi Indians
+KW  - Indians of North America
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 970.1 .C152pc
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+T1  - [Unit of work: Pueblo Indian life, 3rd grade] Pueblo Indians
+SP  - 16
+KW  - Hopi Indians
+KW  - Indians of North America
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 970.1 .C152p
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Los Angeles
+T1  - [Unit of work: Pueblo Indian life, 3rd grade] Pueblo songs and ceremonials
+KW  - Hopi Indians
+KW  - Indians of North America
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 970.1 .C152ps
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Robinson, Emma J.
+A2  - University of California, Los Angeles
+T1  - [Unit of work] The modern newspaper, grade VI
+KW  - Newspapers in education
+PB  - University of California, Los Angeles
+CY  - Los Angeles, CA
+LA  - English
+CN  - 428.24 .C152m
+SC  - California
+G2  - 6th
+ER  - 
+

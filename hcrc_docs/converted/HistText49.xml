@@ -843,13 +843,13 @@ bulletin</field>
 <field name="corp_author">Butte County (California) Department of Public Health</field>
 <field name="title">Guidebook for school health</field>
 <field name="year">1961</field>
-<field name="date">1957</field>
+<field name="date">1961</field>
 <field name="pages">34</field>
 <field name="keywords">School health services</field>
 <field name="publisher">Butte County (California) Office of Superintendent of Schools</field>
 <field name="pub_place">Oroville, CA</field>
 <field name="language">English</field>
-<field name="call_number">613 .B98g</field>
+<field name="call_number">613 .B98g 1961</field>
 <field name="state_country">California</field>
 </doc>
 
