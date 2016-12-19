@@ -1,0 +1,183 @@
+
+TY  - BOOK
+A2  - Albany (Oregon) Board of Education
+T1  - Rules, regulations and course of study of the Albany public schools Albany, Oregon
+Y1  - 1906
+D1  - 1906
+SP  - 80
+KW  - Curricula
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Albany (Oregon) Board of Education
+CY  - Albany, OR
+LA  - English
+CN  - 379.741 .O2al 1906
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Albany (Oregon) High School
+T1  - Statement of rules, regulations and course of study for the year...
+D1  - 1921-1922
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1921/1922; Shelved in Cubberley Library Reading Room
+PB  - Albany (Oregon) High School
+CY  - Albany, OR
+LA  - English
+CN  - 379.741 .O2al
+SC  - Oregon
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Baker (Oregon) Public Schools
+T1  - Course of study public schools Baker, Oregon
+D1  - 1922?
+KW  - Public schools
+N1  - Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+PB  - Baker (Oregon) Public Schools
+CY  - Baker, OR
+LA  - English
+CN  - 379.741 .O2ba
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Bend (Oregon) Superintendent of Schools
+T1  - Annual report of the city school superintendent
+D1  - 1939-1946
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1939/1940-1942/1943, 1944/1945-1945/1946; Shelved in Cubberley Library Reading Room
+PB  - Bend (Oregon) Superintendent of Schools
+CY  - Bend, OR
+LA  - English
+CN  - 379.741 .O2be
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Corvallis (Oregon) Public Schools 
+T1  - Annual report School district no.2
+D1  - 1948-1949
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1948/1949; Shelved in Cubberley Library Reading Room
+PB  - Corvallis (Oregon) Public Schools 
+CY  - Corvallis, OR
+LA  - English
+CN  - 379.741 .O2c
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Eugene (Oregon) Public Schools
+T1  - Annual report
+D1  - 1937-1950
+KW  - Public schools
+N1  - Note: some issues list Lane County School District no.4 as issuing body; Cubberley Education Library holdings 1937/1938, 1941/1942-1942/1943, 1944/1945-1946/1947, 1948/1949-1949/1950; Shelved in Cubberley Library Reading Room
+PB  - Eugene (Oregon) Public Schools
+CY  - Eugene, OR
+LA  - English
+CN  - 379.741 .O2e
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Portland Public Schools (Oregon) Board of Directors
+A2  - Portland (Oregon) City Superintendent of Schools
+T1  - Annual report of the public schools
+D1  - 1885-1968
+KW  - Public schools
+N1  - Other titles Annual report of the public schools Portland Oregon containing the annual reports of the Board of Directors and the school clerk to the annual taxpayers meeting also the report of the City Superintendent 1885/1886, Annual report of school district no.1 Multnomah county, Oregon including the City of Portland 1912/1913-1930/1931, Annual report financial division school district no.1 Multnomah county, Oregon including the City of Portland 1931/1932, Annual report educational division school district no.1 Multnomah county, Oregon including the City of Portland 1931/1931, Annual report school district no.1 Multnomah county, Oregon including the City of Portland 1932/1933-; Cubberley Education Library holdings 1885/18861888/1889, 1890/1891, 1893/1894-1922/1923, 1924/1925-1964/1965, 1966/1967-1967/1968; Shelved in Cubberley Library Reading Room
+PB  - Portland Public Schools (Oregon) Board of Directors
+CY  - Portland, OR
+LA  - English
+CN  - 379.741 .O2p
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Portland Public Schools (Oregon)
+T1  - The gifted child in Portland; a report of five years of experience in developing a program for children of exceptional endowment
+Y1  - 1959
+D1  - 1959
+SP  - 192
+KW  - Gifted children
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Portland Public Schools (Oregon)
+CY  - Portland, OR
+LA  - English
+CN  - 379.741 .O2p 1959
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Portland Public Schools (Oregon). Committee on Race and Education
+T1  - Race and equal educational opportunity in Portland's public schools: a report to the Board of Education, Multnomah County School District No. 1
+Y1  - 1964
+D1  - 10/1964
+SP  - 249
+KW  - School integration
+KW  - Educational equalization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Portland Public Schools (Oregon). Committee on Race and Education
+CY  - Portland, OR
+LA  - English
+CN  - 379.741 .O2p 1964
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Portland Public Schools (Oregon)
+T1  - Statement on Portland schools for the seventies; Resolution no. 3553
+Y1  - 1970
+D1  - 03/1970
+SP  - 7
+KW  - Public schools
+N1  - Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+PB  - Portland Public Schools (Oregon)
+CY  - Portland, OR
+LA  - English
+CN  - 379.741 .O2 1970
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Citizens Committee on School Finance (Portland, Oregon)
+T1  - Portland public schools : final report and recommendations, March 7, 1972
+Y1  - 1972
+D1  - 03/1972
+SP  - 30
+KW  - School finance
+N1  - Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+PB  - Citizens Committee on School Finance (Portland, Oregon)
+CY  - Portland, OR
+LA  - English
+CN  - 379.741 .O2p 1972
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Portland Public Schools (Oregon)
+T1  - Your Portland schools
+D1  - 1972
+KW  - Public schools
+N1  - Cubberley Education Library holdings v.4:no.6, 1972; Shelved in Cubberley Library Reading Room
+PB  - Portland Public Schools (Oregon)
+CY  - Portland, OR
+LA  - English
+CN  - 379.741 .O2
+SC  - Oregon
+ER  -
+
+TY  - BOOK
+A2  - Salem (Oregon) Board of Education
+T1  - Report of the Public Schools of the City of Salem
+D1  - 1906-1911
+KW  - Public schools
+N1  - Other titles Annual report including Course of Study/Board of Education Salem Oregon 1908/1909,Biennial report including Course of Study/Board of Education Salem Oregon 1909/1911; 1906/1907,1908/1909-1909/1911; Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+PB  - Salem (Oregon) Board of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.741 .O2s
+SC  - Oregon
+ER  -
