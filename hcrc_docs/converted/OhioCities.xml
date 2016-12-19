@@ -1,30 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <add>
-<doc><field name="type">Book</field><field name="corp_author">Akron (Ohio) Board of Education</field><field name="title">Annual report of the public schools of the city of Akron, Ohio, for the year</field><field name="date">1900-1923</field><field name="keywords">Public schools</field><field name="notes">Other titles Report of the public schools of Akron, Ohio <1920/1921->; Cubberley Education Library holdings 1900/1901-1901/1902,1920/1921-1923; Shelved in Cubberley Library Reading Room</field><field name="publisher">Akron (Ohio) Board of Education</field><field name="pub_place">Akron, OH</field><field name="language">English</field><field name="call_number">379.741 .O1a</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Akron (Ohio) Board of Education</field><field name="title">High school course of study</field><field name="year">1922</field><field name="date">1922</field><field name="pages">158</field><field name="keywords">High school</field><field name="keywords">Curricula</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Akron (Ohio) Board of Education</field><field name="pub_place">Akron, OH</field><field name="language">English</field><field name="call_number">379.741 .O1a 1922</field><field name="state_country">Ohio</field><field name="grade_level_group">High school</field></doc>
-<doc><field name="type">Book</field><field name="author">Essex, Martin</field><field name="corp_author">Akron (Ohio) Public Schools</field><field name="title">Administrative handbook, policies and procedures</field><field name="year">1964</field><field name="date">1964</field><field name="pages">156</field><field name="keywords">School management and organization</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="series_title">Akron Public Schools publication</field><field name="series_vol">177</field><field name="publisher">Akron (Ohio) Public Schools</field><field name="pub_place">Akron, OH</field><field name="language">English</field><field name="call_number">379.741 .O1a 1964</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Akron (Ohio) Superintendent of Schools</field><field name="title">A report of the superintendent of the Akron public schools, 1942-43</field><field name="year">1943</field><field name="date">1943</field><field name="keywords">Public schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Akron (Ohio) Superintendent of Schools</field><field name="pub_place">Akron, OH</field><field name="language">English</field><field name="call_number">379.741 .O1a 1943</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Ashland (Ohio) Board of Education</field><field name="title">Annual report of the Board of Education</field><field name="date">1890-1891</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1890/1891; Shelved in Cubberley Library Reading Room</field><field name="publisher">Ashland (Ohio) Board of Education</field><field name="pub_place">Ashland, OH</field><field name="language">English</field><field name="call_number">379.741 .O1as</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Canotn (Ohio) Board of Education</field><field name="title">Annual report of the public schools</field><field name="date">1911-1912</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1911/1912; Shelved in Cubberley Library Reading Room</field><field name="publisher">Canton (Ohio) Board of Education</field><field name="pub_place">Canton, OH</field><field name="language">English</field><field name="call_number">379.741 .O1ca</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Cleveland (Ohio) Board of Education</field><field name="title">Your schools and your dollars; a discussion of school financial problems, and the ways in which they are being met</field><field name="date">1938</field><field name="pages">20</field><field name="keywords">School finance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Cleveland (Ohio) Board of Education</field><field name="pub_place">Cleveland, OH</field><field name="language">English</field><field name="call_number">379.741 .o1cl 1938</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Plan for Action by Citizens in Education Association</field><field name="title">Plan for action by citizens in education: goals for Greater Cleveland's elementary and secondary schools by 1970</field><field name="year">1963</field><field name="date">04/1963</field><field name="pages">58</field><field name="keywords">Public schools</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Plan for Action by Citizens in Education Association</field><field name="pub_place">Cleveland, OH</field><field name="language">English</field><field name="call_number">379.741 .O1cl</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Dayton (Ohio) Board of Education</field><field name="title">Annual report of the Board of Education, for the school year ending</field><field name="date">1874-1928</field><field name="keywords">Public schools</field><field name="notes">Annual report of the Board of Education of the City of Dayton, Ohio, for the school year ending August 31 ...; Annual report of the Board of Education of the City School District of Dayton, Ohio; Cubberley Education Library holdings 1874/1875-1877/1878, 1881/1882-1884/1885, 1890/1891-1891/1892, 1893/1894-1894/1895-1898/1899,1901/1902-1906/1907-1910/1911,1912/1913-1914/1915,1916/1917-1923/1924,1926/1927-1927/1928; Shelved in Cubberley Library Reading Room</field><field name="publisher">Dayton (Ohio) Board of Education</field><field name="pub_place">Dayton, OH</field><field name="language">English</field><field name="call_number">379.741 .O1d</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Dayton (Ohio) Superintendent of Schools</field><field name="title">Annual report of the superintendent of schools</field><field name="date">1924-1942</field><field name="keywords">Public schools</field><field name="notes">Title varies slightly, Cubberley Education Library holdings 1924/1926-1927/1928,1937/1938-1941/1942; Shelved in Cubberley Library Reading Room</field><field name="publisher">Dayton (Ohio) Superintendent of Schools</field><field name="pub_place">Dayton, OH</field><field name="language">English</field><field name="call_number">379.741 .O1</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Dayton (Ohio) Bureau of Municipal Research</field><field name="title">Over-age and progress in the public schools of Dayton</field><field name="year">1914</field><field name="date">10/1914</field><field name="pages">20</field><field name="keywords">School attendance</field><field name="keywords">Grading and marking</field><field name="keywords">Educational surveys</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Dayton (Ohio) Bureau of Municipal Research</field><field name="pub_place">Dayton, OH</field><field name="language">English</field><field name="call_number">379.741 .O1d 1914</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Cleveland Heights (Ohio) Board of Education</field><field name="title">Annual reports courses of study and rules and regulations for the schools of Cleveland Heights</field><field name="date">1915-1916</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1915/1916; Shelved in Cubberley Library Reading Room</field><field name="publisher">Cleveland Heights (Ohio) Board of Education</field><field name="pub_place">Cleveland Heights, OH</field><field name="language">English</field><field name="call_number">379.741 .O1clh</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Cleveland Heights (Ohio) Board of Education</field><field name="title">Annual report of the Cleveland Heights Schools</field><field name="date">1916-1931</field><field name="keywords">Public schools</field><field name="notes">Other titles Annual reports of the schools of Cleveland Heights<1916/1917>, Annual report of the superintendent Cleveland Heights Schools<1917/1918>, Annual report of the Cleveland Heights Schools and public library<1923/1924—1927/1928>; Cubberley Education Library holdings 1916/1917-1930/1932; Shelved in Cubberley Library Reading Room</field><field name="publisher">Cleveland Heights (Ohio) Board of Education</field><field name="pub_place">Cleveland Heights, OH</field><field name="language">English</field><field name="call_number">379.741 .O1clh</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Cleveland Heights (Ohio) Public Schools</field><field name="title">School directory</field><field name="year">1928</field><field name="date">11/1928</field><field name="pages">36</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room</field><field name="publisher">Cleveland Heights (Ohio) Public Schools</field><field name="pub_place">Cleveland Heights, OH</field><field name="language">English</field><field name="call_number">379.741 .O1clh 1928</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Lakewood (Ohio) City Board of Education</field><field name="title">Annual report of the superintendent and clerk Lakewood Schools</field><field name="date">1918-1927</field><field name="keywords">Public schools</field><field name="notes">Title varies, Cubberley Education Library holdings 1918/1919-1921/1922,1924/1925,1926/1927; Shelved in Cubberley Library Reading Room</field><field name="publisher">Lakewood (Ohio) City Board of Education</field><field name="pub_place">Lakewood, OH</field><field name="language">English</field><field name="call_number">379.741 .O1l</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Lancaster (Ohio) City Board of Education</field><field name="title">Lancaster public schools: the board of education and city superintendent’s report  for the year ending …including the financial report for …assignment of teachers</field><field name="date">1922-1930</field><field name="keywords">Public schools</field><field name="notes">Title varies slightly, Cubberley Education Library holdings 1921/1922,1923/1924,1925/1926-1929/1930; Shelved in Cubberley Library Reading Room</field><field name="publisher">Lancaster (Ohio) City Board of Education</field><field name="pub_place">Lancaster, OH</field><field name="language">English</field><field name="call_number">379.741 .O1la</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Lancaster (Ohio) City Board of Education</field><field name="title">Directory and reports of Lancaster public schools</field><field name="date">1931-1933</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1931/1932-1932/1933; Shelved in Cubberley Library Reading Room</field><field name="publisher">Lancaster (Ohio) City Board of Education</field><field name="pub_place">Lancaster, OH</field><field name="language">English</field><field name="call_number">379.741 .O1la</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Sandusky (Ohio) Board of Education</field><field name="title">Annual report of the Sandusky public schools for the school year ending…with the manual of the board of education, rules and regulations, and course of study</field><field name="date">1888-1889</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1888/1889; Shelved in Cubberley Library Reading Room</field><field name="publisher">Sandusky (Ohio) Board of Education</field><field name="pub_place">Sandusky, OH</field><field name="language">English</field><field name="call_number">379.741 .O1</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Springfield (Ohio) Board of Education</field><field name="title">Reports of the public schools of Springfield Ohio</field><field name="date">1890-1895</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1890/1893-1894/1895; Shelved in Cubberley Library Reading Room</field><field name="publisher">Springfield (Ohio) Board of Education</field><field name="pub_place">Springfield, OH</field><field name="language">English</field><field name="call_number">379.741 .O1sp</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Springfield (Ohio) Board of Education</field><field name="title">Annual report of the Board of Education</field><field name="date">1895-1941</field><field name="keywords">Public schools</field><field name="notes">Title varies,; Issues for 1924/1925-1926/1927 have title Annual report of the public schools of the Springfield City school district; Cubberley Education Library holdings 1895/1896-1899/1900,1902/1903,1904/1905-1914,1916-1917/1918,1920/1921-1922/1923,1924/1925-1925/1926,1936-1941; Shelved in Cubberley Library Reading Room</field><field name="publisher">Springfield (Ohio) Board of Education</field><field name="pub_place">Springfield, OH</field><field name="language">English</field><field name="call_number">379.741 .O1sp</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Springfield (Ohio) Board of Education</field><field name="title">Annual report of the Superintendent of schools of Springfield</field><field name="date">1926-1933</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1926/1927, 1928/1929-1932/1933; Shelved in Cubberley Library Reading Room</field><field name="publisher">Springfield (Ohio) Board of Education</field><field name="pub_place">Springfield, OH</field><field name="language">English</field><field name="call_number">379.741 .O1sp</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Springfield (Ohio) Board of Education</field><field name="title">Annual report of the public schools</field><field name="date">1942-1944</field><field name="keywords">Public schools</field><field name="notes">Other title Annual reports of the Springfield public schools<1943/1944>; Cubberley Education Library holdings 1942-1943/1944; Shelved in Cubberley Library Reading Room</field><field name="publisher">Springfield (Ohio) Board of Education</field><field name="pub_place">Springfield, OH</field><field name="language">English</field><field name="call_number">379.741 .O1sp</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="author">Filson, Davison</field><field name="title">Steubenville public school :being a history of the progress of the public schools of independent district, no. 5, the city of Steubenville, Ohio, from 1838 to 1889</field><field name="year">1892</field><field name="date">1892</field><field name="pages">144</field><field name="keywords">Schools</field><field name="notes">Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room</field><field name="pub_place">Steubenville, OH</field><field name="language">English</field><field name="call_number">379.741 .O1st</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Steubenville (Ohio) Board of Education</field><field name="title">Annual report of the Steubenville public schools for the school year ending... and course of study for the school year ending</field><field name="date">1888-1890</field><field name="keywords">Public schools</field><field name="notes">Cubberley Education Library holdings 1888/1890; Shelved in Cubberley Library Reading Room</field><field name="publisher">Steubenville (Ohio) Board of Education</field><field name="pub_place">Steubenville, OH</field><field name="language">English</field><field name="call_number">379.741 .O1st</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Toledo (Ohio) Board of Education</field><field name="title">Annual report of the public schools of the city of Toledo, Ohio including the manual training department for the school year ending</field><field name="date">1888-1894</field><field name="keywords">Public schools</field><field name="notes">Other titles Annual report of the public schools of the city of Toledo, Ohio for the school year ending...<1893/1894>, Cubberley Education Library holdings 1888/1889,1890/1891,1893/1894; Shelved in Cubberley Library Reading Room</field><field name="publisher">Toledo (Ohio) Board of Education</field><field name="pub_place">Toledo, OH</field><field name="language">English</field><field name="call_number">379.741 .O1t</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Toledo (Ohio) Board of Education</field><field name="title">Annual report of the Board of Education of the city of Toledo, Ohio</field><field name="date">1888-1894</field><field name="keywords">Public schools</field><field name="notes">Other title Report of the board of education of the Toledo school district <1908/1909->; Cubberley Education Library holdings 1898/1899,1902/1903,1908/1909,1910/1911; Shelved in Cubberley Library Reading Room</field><field name="publisher">Toledo (Ohio) Board of Education</field><field name="pub_place">Toledo, OH</field><field name="language">English</field><field name="call_number">379.741 .O1t</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Toledo (Ohio) Public Schools</field><field name="title">By-laws from the Chinese-Russian Study Center</field><field name="year">1971</field><field name="date">1971</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Toledo (Ohio) Public Schools</field><field name="pub_place">Toledo, OH</field><field name="language">English</field><field name="call_number">379.741 .O1t</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="author">Bartlow, Elton Oscar</field><field name="corp_author">Toledo (Ohio) Board of Education</field><field name="corp_author">Ohio State Board of Vocational Education</field><field name="title">Final report of findings, vocational survey, girls' and women's occupation, Toledo, Ohio</field><field name="year">1938</field><field name="date">08/1938</field><field name="pages">124</field><field name="keywords">Vocational guidance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Toledo (Ohio) Board of Education</field><field name="pub_place">Toledo, OH</field><field name="language">English</field><field name="call_number">379.741  .O1to 1938</field><field name="state_country">Ohio</field></doc>
-<doc><field name="type">Book</field><field name="author">Bartlow, Elton Oscar</field><field name="corp_author">Toledo (Ohio) Board of Education</field><field name="corp_author">Ohio State Board of Vocational Education</field><field name="title">Final report of findings, vocational survey, boys' and men's occupations, Toledo, Ohio</field><field name="year">1939</field><field name="date">06/1939</field><field name="pages">201</field><field name="keywords">Vocational guidance</field><field name="notes">Shelved in Cubberley Library Reading Room</field><field name="publisher">Toledo (Ohio) Board of Education</field><field name="pub_place">Toledo, OH</field><field name="language">English</field><field name="call_number">379.741 .O1to 1939</field><field name="state_country">Ohio</field></doc></add>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Akron (Ohio) Board of Education</field>
+<field name="title">Annual report of the public schools of the city of Akron, Ohio, for the year</field>
+<field name="date">1900-1923</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Other titles Report of the public schools of Akron, Ohio <1920/1921->; Cubberley Education Library holdings 1900/1901-1901/1902,1920/1921-1923; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Akron (Ohio) Board of Education</field>
+<field name="pub_place">Akron, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1a</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Akron (Ohio) Board of Education</field>
+<field name="title">High school course of study</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="pages">158</field>
+<field name="keywords">High school</field>
+<field name="keywords">Curricula</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Akron (Ohio) Board of Education</field>
+<field name="pub_place">Akron, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1a 1922</field>
+<field name="state_country">Ohio</field>
+<field name="grade_level_group">High school</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Essex, Martin</field>
+<field name="corp_author">Akron (Ohio) Public Schools</field>
+<field name="title">Administrative handbook, policies and procedures</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="pages">156</field>
+<field name="keywords">School management and organization</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="series_title">Akron Public Schools publication</field>
+<field name="series_vol">177</field>
+<field name="publisher">Akron (Ohio) Public Schools</field>
+<field name="pub_place">Akron, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1a 1964</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Akron (Ohio) Superintendent of Schools</field>
+<field name="title">A report of the superintendent of the Akron public schools, 1942-43</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Akron (Ohio) Superintendent of Schools</field>
+<field name="pub_place">Akron, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1a 1943</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Ashland (Ohio) Board of Education</field>
+<field name="title">Annual report of the Board of Education</field>
+<field name="date">1890-1891</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1890/1891; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Ashland (Ohio) Board of Education</field>
+<field name="pub_place">Ashland, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1as</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Canton (Ohio) Board of Education</field>
+<field name="title">Annual report of the public schools</field>
+<field name="date">1911-1912</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1911/1912; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Canton (Ohio) Board of Education</field>
+<field name="pub_place">Canton, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1ca</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland (Ohio) Board of Education</field>
+<field name="title">Your schools and your dollars; a discussion of school financial problems, and the ways in which they are being met</field>
+<field name="date">1938</field>
+<field name="pages">20</field>
+<field name="keywords">School finance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Cleveland (Ohio) Board of Education</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1cl 1938</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Plan for Action by Citizens in Education Association</field>
+<field name="title">Plan for action by citizens in education: goals for Greater Cleveland's elementary and secondary schools by 1970</field>
+<field name="year">1963</field>
+<field name="date">04/1963</field>
+<field name="pages">58</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Plan for Action by Citizens in Education Association</field>
+<field name="pub_place">Cleveland, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1cl</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dayton (Ohio) Board of Education</field>
+<field name="title">Annual report of the Board of Education, for the school year ending</field>
+<field name="date">1874-1928</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Annual report of the Board of Education of the City of Dayton, Ohio, for the school year ending August 31 ...; Annual report of the Board of Education of the City School District of Dayton, Ohio; Cubberley Education Library holdings 1874/1875-1877/1878, 1881/1882-1884/1885, 1890/1891-1891/1892, 1893/1894-1894/1895-1898/1899,1901/1902-1906/1907-1910/1911,1912/1913-1914/1915,1916/1917-1923/1924,1926/1927-1927/1928; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Dayton (Ohio) Board of Education</field>
+<field name="pub_place">Dayton, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1d</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dayton (Ohio) Superintendent of Schools</field>
+<field name="title">Annual report of the superintendent of schools</field>
+<field name="date">1924-1942</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Title varies slightly, Cubberley Education Library holdings 1924/1926-1927/1928,1937/1938-1941/1942; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Dayton (Ohio) Superintendent of Schools</field>
+<field name="pub_place">Dayton, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Dayton (Ohio) Bureau of Municipal Research</field>
+<field name="title">Over-age and progress in the public schools of Dayton</field>
+<field name="year">1914</field>
+<field name="date">10/1914</field>
+<field name="pages">20</field>
+<field name="keywords">School attendance</field>
+<field name="keywords">Grading and marking</field>
+<field name="keywords">Educational surveys</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Dayton (Ohio) Bureau of Municipal Research</field>
+<field name="pub_place">Dayton, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1d 1914</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Board of Education</field>
+<field name="title">Annual reports courses of study and rules and regulations for the schools of Cleveland Heights</field>
+<field name="date">1915-1916</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1915/1916; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Cleveland Heights (Ohio) Board of Education</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1clh</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Board of Education</field>
+<field name="title">Annual report of the Cleveland Heights Schools</field>
+<field name="date">1916-1931</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Other titles Annual reports of the schools of Cleveland Heights<1916/1917>, Annual report of the superintendent Cleveland Heights Schools<1917/1918>, Annual report of the Cleveland Heights Schools and public library<1923/1924—1927/1928>; Cubberley Education Library holdings 1916/1917-1930/1932; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Cleveland Heights (Ohio) Board of Education</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1clh</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Cleveland Heights (Ohio) Public Schools</field>
+<field name="title">School directory</field>
+<field name="year">1928</field>
+<field name="date">11/1928</field>
+<field name="pages">36</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Cleveland Heights (Ohio) Public Schools</field>
+<field name="pub_place">Cleveland Heights, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1clh 1928</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lakewood (Ohio) City Board of Education</field>
+<field name="title">Annual report of the superintendent and clerk Lakewood Schools</field>
+<field name="date">1918-1927</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Title varies, Cubberley Education Library holdings 1918/1919-1921/1922,1924/1925,1926/1927; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Lakewood (Ohio) City Board of Education</field>
+<field name="pub_place">Lakewood, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1l</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lancaster (Ohio) City Board of Education</field>
+<field name="title">Lancaster public schools: the board of education and city superintendent’s report  for the year ending …including the financial report for …assignment of teachers</field>
+<field name="date">1922-1930</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Title varies slightly, Cubberley Education Library holdings 1921/1922,1923/1924,1925/1926-1929/1930; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Lancaster (Ohio) City Board of Education</field>
+<field name="pub_place">Lancaster, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1la</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Lancaster (Ohio) City Board of Education</field>
+<field name="title">Directory and reports of Lancaster public schools</field>
+<field name="date">1931-1933</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1931/1932-1932/1933; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Lancaster (Ohio) City Board of Education</field>
+<field name="pub_place">Lancaster, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1la</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Sandusky (Ohio) Board of Education</field>
+<field name="title">Annual report of the Sandusky public schools for the school year ending…with the manual of the board of education, rules and regulations, and course of study</field>
+<field name="date">1888-1889</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1888/1889; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Sandusky (Ohio) Board of Education</field>
+<field name="pub_place">Sandusky, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Springfield (Ohio) Board of Education</field>
+<field name="title">Reports of the public schools of Springfield Ohio</field>
+<field name="date">1890-1895</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1890/1893-1894/1895; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Springfield (Ohio) Board of Education</field>
+<field name="pub_place">Springfield, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1sp</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Springfield (Ohio) Board of Education</field>
+<field name="title">Annual report of the Board of Education</field>
+<field name="date">1895-1941</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Title varies,; Issues for 1924/1925-1926/1927 have title Annual report of the public schools of the Springfield City school district; Cubberley Education Library holdings: 1895/1896-1899/1900, 1902/1903, 1904/1905-1914, 1916-1917/1918, 1920/1921-1922/1923,1924/1925-1925/1926, 1936-1941; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Springfield (Ohio) Board of Education</field>
+<field name="pub_place">Springfield, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1sp</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Springfield (Ohio) Board of Education</field>
+<field name="title">Annual report of the Superintendent of schools of Springfield</field>
+<field name="date">1926-1933</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1926/1927, 1928/1929-1932/1933; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Springfield (Ohio) Board of Education</field>
+<field name="pub_place">Springfield, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1sp</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Springfield (Ohio) Board of Education</field>
+<field name="title">Annual report of the public schools</field>
+<field name="date">1942-1944</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Other title Annual reports of the Springfield public schools<1943/1944>; Cubberley Education Library holdings 1942-1943/1944; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Springfield (Ohio) Board of Education</field>
+<field name="pub_place">Springfield, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1sp</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Filson, Davison</field>
+<field name="title">Steubenville public school :being a history of the progress of the public schools of independent district, no. 5, the city of Steubenville, Ohio, from 1838 to 1889</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="pages">144</field>
+<field name="keywords">Schools</field>
+<field name="notes">Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room</field>
+<field name="pub_place">Steubenville, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1st</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Steubenville (Ohio) Board of Education</field>
+<field name="title">Annual report of the Steubenville public schools for the school year ending... and course of study for the school year ending</field>
+<field name="date">1888-1890</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Cubberley Education Library holdings 1888/1890; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Steubenville (Ohio) Board of Education</field>
+<field name="pub_place">Steubenville, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1st</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Toledo (Ohio) Board of Education</field>
+<field name="title">Annual report of the public schools of the city of Toledo, Ohio including the manual training department for the school year ending</field>
+<field name="date">1888-1894</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Other titles Annual report of the public schools of the city of Toledo, Ohio for the school year ending...<1893/1894>, Cubberley Education Library holdings 1888/1889,1890/1891,1893/1894; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Toledo (Ohio) Board of Education</field>
+<field name="pub_place">Toledo, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1t</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Toledo (Ohio) Board of Education</field>
+<field name="title">Annual report of the Board of Education of the city of Toledo, Ohio</field>
+<field name="date">1888-1894</field>
+<field name="keywords">Public schools</field>
+<field name="notes">Other title Report of the board of education of the Toledo school district <1908/1909->; Cubberley Education Library holdings 1898/1899, 1902/1903, 1908/1909,1910/1911; Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Toledo (Ohio) Board of Education</field>
+<field name="pub_place">Toledo, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1t</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Toledo (Ohio) Public Schools</field>
+<field name="title">By-laws from the Chinese-Russian Study Center</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Toledo (Ohio) Public Schools</field>
+<field name="pub_place">Toledo, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1t</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bartlow, Elton Oscar</field>
+<field name="corp_author">Toledo (Ohio) Board of Education</field>
+<field name="corp_author">Ohio State Board of Vocational Education</field>
+<field name="title">Final report of findings, vocational survey, girls' and women's occupation, Toledo, Ohio</field>
+<field name="year">1938</field>
+<field name="date">08/1938</field>
+<field name="pages">124</field>
+<field name="keywords">Vocational guidance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Toledo (Ohio) Board of Education</field>
+<field name="pub_place">Toledo, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1to 1938</field>
+<field name="state_country">Ohio</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="author">Bartlow, Elton Oscar</field>
+<field name="corp_author">Toledo (Ohio) Board of Education</field>
+<field name="corp_author">Ohio State Board of Vocational Education</field>
+<field name="title">Final report of findings, vocational survey, boys' and men's occupations, Toledo, Ohio</field>
+<field name="year">1939</field>
+<field name="date">06/1939</field>
+<field name="pages">201</field>
+<field name="keywords">Vocational guidance</field>
+<field name="notes">Shelved in Cubberley Library Reading Room</field>
+<field name="publisher">Toledo (Ohio) Board of Education</field>
+<field name="pub_place">Toledo, OH</field>
+<field name="language">English</field>
+<field name="call_number">379.741 .O1to 1939</field>
+<field name="state_country">Ohio</field>
+</doc>
+</add>
