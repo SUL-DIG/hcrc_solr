@@ -1,0 +1,404 @@
+TY  - BOOK
+A2  - Akron (Ohio) Board of Education
+T1  - Annual report of the public schools of the city of Akron, Ohio, for the year
+D1  - 1900-1923
+KW  - Public schools
+N1  - Other titles Report of the public schools of Akron, Ohio <1920/1921->; Cubberley Education Library holdings 1900/1901-1901/1902,1920/1921-1923; Shelved in Cubberley Library Reading Room
+PB  - Akron (Ohio) Board of Education
+CY  - Akron, OH
+LA  - English
+CN  - 379.741 .O1a
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Akron (Ohio) Board of Education
+T1  - High school course of study
+Y1  - 1922
+D1  - 1922
+SP  - 158
+KW  - High schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Akron (Ohio) Board of Education
+CY  - Akron, OH
+LA  - English
+CN  - 379.741 .O1a 1922
+SC  - Ohio
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Essex, Martin
+A2  - Akron (Ohio) Public Schools
+T1  - Administrative handbook, policies and procedures
+Y1  - 1964
+D1  - 1964
+SP  - 156
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Akron Public Schools publication
+V1  - 177
+PB  - Akron (Ohio) Public Schools
+CY  - Akron, OH
+LA  - English
+CN  - 379.741 .O1a 1964
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Akron (Ohio) Superintendent of Schools
+T1  - A report of the superintendent of the Akron public schools, 1942-43
+Y1  - 1943
+D1  - 1943
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Akron (Ohio) Superintendent of Schools
+CY  - Akron, OH
+LA  - English
+CN  - 379.741 .O1a 1943
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Ashland (Ohio) Board of Education
+T1  - Annual report of the Board of Education
+D1  - 1890-1891
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890/1891; Shelved in Cubberley Library Reading Room
+PB  - Ashland (Ohio) Board of Education
+CY  - Ashland, OH
+LA  - English
+CN  - 379.741 .O1as
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Canotn (Ohio) Board of Education
+T1  - Annual report of the public schools
+D1  - 1911-1912
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1911/1912; Shelved in Cubberley Library Reading Room
+PB  - Canton (Ohio) Board of Education
+CY  - Canton, OH
+LA  - English
+CN  - 379.741 .O1ca
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Board of Education
+T1  - Your schools and your dollars; a discussion of school financial problems, and the ways in which they are being met
+D1  - 1938
+SP  - 20
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Cleveland (Ohio) Board of Education
+CY  - Cleveland, OH
+LA  - English
+CN  - 379.741 .o1cl 1938
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Plan for Action by Citizens in Education Association
+T1  - Plan for action by citizens in education: goals for Greater Cleveland's elementary and secondary schools by 1970
+Y1  - 1963
+D1  - 04/1963
+SP  - 58
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Plan for Action by Citizens in Education Association
+CY  - Cleveland, OH
+LA  - English
+CN  - 379.741 .O1cl
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Dayton (Ohio) Board of Education
+T1  - Annual report of the Board of Education, for the school year ending
+D1  - 1874-1928
+KW  - Public schools
+N1  - Annual report of the Board of Education of the City of Dayton, Ohio, for the school year ending August 31 ...; Annual report of the Board of Education of the City School District of Dayton, Ohio; Cubberley Education Library holdings 1874/1875-1877/1878, 1881/1882-1884/1885, 1890/1891-1891/1892, 1893/1894-1894/1895-1898/1899,1901/1902-1906/1907-1910/1911,1912/1913-1914/1915,1916/1917-1923/1924,1926/1927-1927/1928; Shelved in Cubberley Library Reading Room
+PB  - Dayton (Ohio) Board of Education
+CY  - Dayton, OH
+LA  - English
+CN  - 379.741 .O1d
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Dayton (Ohio) Superintendent of Schools
+T1  - Annual report of the superintendent of schools
+D1  - 1924-1942
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1924/1926-1927/1928,1937/1938-1941/1942; Shelved in Cubberley Library Reading Room
+PB  - Dayton (Ohio) Superintendent of Schools
+CY  - Dayton, OH
+LA  - English
+CN  - 379.741 .O1
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Dayton (Ohio) Bureau of Municipal Research
+T1  - Over-age and progress in the public schools of Dayton
+Y1  - 1914
+D1  - 10/1914
+SP  - 20
+KW  - School attendance
+KW  - Grading and marking
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Dayton (Ohio) Bureau of Municipal Research
+CY  - Dayton, OH
+LA  - English
+CN  - 379.741 .O1d 1914
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Board of Education
+T1  - Annual reports courses of study and rules and regulations for the schools of Cleveland Heights
+D1  - 1915-1916
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1915/1916; Shelved in Cubberley Library Reading Room
+PB  - Cleveland Heights (Ohio) Board of Education
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 379.741 .O1clh
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Board of Education
+T1  - Annual report of the Cleveland Heights Schools
+D1  - 1916-1931
+KW  - Public schools
+N1  - Other titles Annual reports of the schools of Cleveland Heights<1916/1917>, Annual report of the superintendent Cleveland Heights Schools<1917/1918>, Annual report of the Cleveland Heights Schools and public library<1923/1924—1927/1928>; Cubberley Education Library holdings 1916/1917-1930/1932; Shelved in Cubberley Library Reading Room
+PB  - Cleveland Heights (Ohio) Board of Education
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 379.741 .O1clh
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Cleveland Heights (Ohio) Public Schools
+T1  - School directory
+Y1  - 1928
+D1  - 11/1928
+SP  - 36
+KW  - Public schools
+N1  - Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+PB  - Cleveland Heights (Ohio) Public Schools
+CY  - Cleveland Heights, OH
+LA  - English
+CN  - 379.741 .O1clh 1928
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Lakewood (Ohio) City Board of Education
+T1  - Annual report of the superintendent and clerk Lakewood Schools
+D1  - 1918-1927
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1918/1919-1921/1922,1924/1925,1926/1927; Shelved in Cubberley Library Reading Room
+PB  - Lakewood (Ohio) City Board of Education
+CY  - Lakewood, OH
+LA  - English
+CN  - 379.741 .O1l
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Lancaster (Ohio) City Board of Education
+T1  - Lancaster public schools: the board of education and city superintendent’s report  for the year ending …including the financial report for …assignment of teachers
+D1  - 1922-1930
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1921/1922,1923/1924,1925/1926-1929/1930; Shelved in Cubberley Library Reading Room
+PB  - Lancaster (Ohio) City Board of Education
+CY  - Lancaster, OH
+LA  - English
+CN  - 379.741 .O1la
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Lancaster (Ohio) City Board of Education
+T1  - Directory and reports of Lancaster public schools
+D1  - 1931-1933
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1931/1932-1932/1933; Shelved in Cubberley Library Reading Room
+PB  - Lancaster (Ohio) City Board of Education
+CY  - Lancaster, OH
+LA  - English
+CN  - 379.741 .O1la
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Sandusky (Ohio) Board of Education
+T1  - Annual report of the Sandusky public schools for the school year ending…with the manual of the board of education, rules and regulations, and course of study
+D1  - 1888-1889
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1888/1889; Shelved in Cubberley Library Reading Room
+PB  - Sandusky (Ohio) Board of Education
+CY  - Sandusky, OH
+LA  - English
+CN  - 379.741 .O1
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Ohio) Board of Education
+T1  - Reports of the public schools of Springfield Ohio
+D1  - 1890-1895
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890/1893-1894/1895; Shelved in Cubberley Library Reading Room
+PB  - Springfield (Ohio) Board of Education
+CY  - Springfield, OH
+LA  - English
+CN  - 379.741 .O1sp
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Ohio) Board of Education
+T1  - Annual report of the Board of Education
+D1  - 1895-1941
+KW  - Public schools
+N1  - Title varies,; Issues for 1924/1925-1926/1927 have title Annual report of the public schools of the Springfield City school district; Cubberley Education Library holdings 1895/1896-1899/1900,1902/1903,1904/1905-1914,1916-1917/1918,1920/1921-1922/1923,1924/1925-1925/1926,1936-1941; Shelved in Cubberley Library Reading Room
+PB  - Springfield (Ohio) Board of Education
+CY  - Springfield, OH
+LA  - English
+CN  - 379.741 .O1sp
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Ohio) Board of Education
+T1  - Annual report of the Superintendent of schools of Springfield
+D1  - 1926-1933
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1926/1927, 1928/1929-1932/1933; Shelved in Cubberley Library Reading Room
+PB  - Springfield (Ohio) Board of Education
+CY  - Springfield, OH
+LA  - English
+CN  - 379.741 .O1sp
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Ohio) Board of Education
+T1  - Annual report of the public schools
+D1  - 1942-1944
+KW  - Public schools
+N1  - Other title Annual reports of the Springfield public schools<1943/1944>; Cubberley Education Library holdings 1942-1943/1944; Shelved in Cubberley Library Reading Room
+PB  - Springfield (Ohio) Board of Education
+CY  - Springfield, OH
+LA  - English
+CN  - 379.741 .O1sp
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Filson, Davison
+T1  - Steubenville public school :being a history of the progress of the public schools of independent district, no. 5, the city of Steubenville, Ohio, from 1838 to 1889
+Y1  - 1892
+D1  - 1892
+SP  - 144
+KW  - Schools
+N1  - Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+CY  - Steubenville, OH
+LA  - English
+CN  - 379.741 .O1st
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Steubenville (Ohio) Board of Education
+T1  - Annual report of the Steubenville public schools for the school year ending... and course of study for the school year ending
+D1  - 1888-1890
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1888/1890; Shelved in Cubberley Library Reading Room
+PB  - Steubenville (Ohio) Board of Education
+CY  - Steubenville, OH
+LA  - English
+CN  - 379.741 .O1st
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Toledo (Ohio) Board of Education
+T1  - Annual report of the public schools of the city of Toledo, Ohio including the manual training department for the school year ending
+D1  - 1888-1894
+KW  - Public schools
+N1  - Other titles Annual report of the public schools of the city of Toledo, Ohio for the school year ending...<1893/1894>, Cubberley Education Library holdings 1888/1889,1890/1891,1893/1894; Shelved in Cubberley Library Reading Room
+PB  - Toledo (Ohio) Board of Education
+CY  - Toledo, OH
+LA  - English
+CN  - 379.741 .O1t
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Toledo (Ohio) Board of Education
+T1  - Annual report of the Board of Education of the city of Toledo, Ohio
+D1  - 1888-1894
+KW  - Public schools
+N1  - Other title Report of the board of education of the Toledo school district <1908/1909->; Cubberley Education Library holdings 1898/1899,1902/1903,1908/1909,1910/1911; Shelved in Cubberley Library Reading Room
+PB  - Toledo (Ohio) Board of Education
+CY  - Toledo, OH
+LA  - English
+CN  - 379.741 .O1t
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A2  - Toledo (Ohio) Public Schools
+T1  - By-laws from the Chinese-Russian Study Center
+Y1  - 1971
+D1  - 1971
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Toledo (Ohio) Public Schools
+CY  - Toledo, OH
+LA  - English
+CN  - 379.741 .O1t
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Bartlow, Elton Oscar
+A2  - Toledo (Ohio) Board of Education
+A2  - Ohio State Board of Vocational Education
+T1  - Final report of findings, vocational survey, girls' and women's occupation, Toledo, Ohio
+Y1  - 1938
+D1  - 08/1938
+SP  - 124
+KW  - Vocational guidance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Toledo (Ohio) Board of Education
+CY  - Toledo, OH
+LA  - English
+CN  - 379.741  .O1to 1938
+SC  - Ohio
+ER  -
+
+TY  - BOOK
+A1  - Bartlow, Elton Oscar
+A2  - Toledo (Ohio) Board of Education
+A2  - Ohio State Board of Vocational Education
+T1  - Final report of findings, vocational survey, boys' and men's occupations, Toledo, Ohio
+Y1  - 1939
+D1  - 06/1939
+SP  - 201
+KW  - Vocational guidance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Toledo (Ohio) Board of Education
+CY  - Toledo, OH
+LA  - English
+CN  - 379.741 .O1to 1939
+SC  - Ohio
+ER  -
