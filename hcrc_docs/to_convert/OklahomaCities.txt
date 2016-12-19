@@ -1,0 +1,53 @@
+
+TY  - BOOK
+A2  - Muskogee (Oklahoma) Board of Education
+T1  - Annual report of the Superintendent of Schools
+D1  - 1922-1932
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1922,1926,1931/1932; Shelved in Cubberley Library Reading Room
+PB  - Muskogee (Oklahoma) Board of Education
+CY  - Muskogee, OK
+LA  - English
+CN  - 379.741 .O12m
+SC  - Oklahoma
+ER  -
+
+TY  - BOOK
+A2  - Pauls Valley (Oklahoma) Lay Committee on Education
+T1  - Pauls Valley's schools : a cooperative study of the Pauls Valley Public Schools
+Y1  - 1953
+D1  - 02/1953
+SP  - 169
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pauls Valley (Oklahoma) Lay Committee on Education
+CY  - Pauls Valley, OK
+LA  - English
+CN  - 379.741 .O12p
+SC  - Oklahoma
+ER  -
+
+TY  - BOOK
+T1  - An evaluation by former students of the educational program at Wright Junior High School
+Y1  - 1970
+D1  - 02/1970
+SP  - 11
+KW  - Public schools
+N1  - Note: city identified in pencil as Tulsa; Cubberley Education Library holdings; Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .O12t
+SC  - Oklahoma
+ER  -
+
+TY  - BOOK
+A2  - Tulsa (Oklahoma) Board of Education
+T1  - Report of the Superintendent of Tulsa public schools Independent School District no.1 Tulsa County Oklahoma
+D1  - 1971
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1971; Shelved in Cubberley Library Reading Room
+PB  - Tulsa (Oklahoma) Board of Education
+CY  - Tulsa, OK
+LA  - English
+CN  - 379.741 .O12t
+SC  - Oklahoma
+ER  -
