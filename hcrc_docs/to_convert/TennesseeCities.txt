@@ -1,0 +1,132 @@
+
+TY  - BOOK
+A2  - Knoxville (Tennessee) City Schools
+T1  - Annual report of the Knoxville city schools
+D1  - 1896-1899
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1896/1897-1898/1899; Shelved in Cubberley Library Reading Room
+PB  - Knoxville (Tennessee) City Schools
+CY  - Knoxville, TN
+LA  - English
+CN  - 379.741 .T1k
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Knoxville (Tennessee) Board of Education
+T1  - Knoxville public schools annual report for the school year ending
+D1  - 1932-1933
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1932/1933; Shelved in Cubberley Library Reading Room
+PB  - Knoxville (Tennessee) Board of Education
+CY  - Knoxville, TN
+LA  - English
+CN  - 379.741 .T1k
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Memphis (Tennessee) Board of Education
+T1  - Reports of the Board of Education of the City of Memphis
+D1  - 1903-1966
+KW  - Public schools
+N1  - Other titles Reports to the Board of Education of the City of Memphis (1908/1909,1910/1911); Report of the public schools by the Board of Education of the city of Memphis (1911/1912-1912/1913); Annual report (1965/1966); Cubberley Education Library holdings 1903/1905-1912/1913, 1965/1966; Shelved in Cubberley Library Reading Room
+PB  - Memphis (Tennessee) Board of Education
+CY  - Memphis, TN
+LA  - English
+CN  - 379.741 .T1m
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+T1  - Rules and regulations of the Memphis city schools
+Y1  - 1907
+D1  - 11/1907
+SP  - 41
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Memphis, TN
+LA  - English
+CN  - 379.741 .T1m 1907
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A1  - Counce, D. Shelby
+A2  - Superior and Talented Student Project, North Central Association
+T1  - The Memphis story: mobilizing a large school system and a community for the Superior and Talented Student Project
+D1  - 1965?
+SP  - 68
+KW  - Gifted children
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Superior and Talented Student Project, North Central Association
+CY  - Memphis, TN
+LA  - English
+CN  - 379.741 .T1m
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Memphis (Tennessee) Board of Education
+T1  - Building a better ... Memphis city school system
+KW  - Education
+N1  - Note: pamphlet title on back cover is “Dimensions of the Memphis city school system”; Shelved in Cubberley Library Reading Room
+PB  - Memphis (Tennessee) Board of Education
+CY  - Memphis, TN
+LA  - English
+CN  - 379.741 .T1m
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Memphis (Tennessee) Board of Education
+T1  - The role of public information in the Memphis city school system
+SP  - 9
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Memphis, TN
+LA  - English
+CN  - 379.741 .T1m
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Memphis (Tennessee) City Schools. Department of Instruction. Division of Secondary Education
+A2  - Memphis (Tennessee) Board of Education
+T1  -  Achievement emphasis project manual: Junior high schools
+Y1  - 1966
+D1  - 1966
+SP  - 14
+KW  - Junior high schools
+N1  - Shelved in Cubberley Library Reading Room
+ED  - 2nd rev
+PB  - Memphis (Tennessee) City Schools. Department of Instruction. Division of Secondary Education
+CY  - Memphis, TN
+LA  - English
+CN  - 379.741 .T1m
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+T1  - Memphis City Schools bulletin
+D1  - 1966
+KW  - Education
+N1  - Cubberley Education Library holdings October 1, 1966; Shelved in Cubberley Library Reading Room
+CY  - Memphis, TN
+LA  - English
+CN  - 379.741 .T1m
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Nashville (Tennessee) Board of Education
+T1  - Annual report of the public schools of Nashville, TN
+D1  - 1904-1921
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1904/1906-1920/1921; Shelved in Cubberley Library Reading Room
+PB  - Nashville (Tennessee) Board of Education
+CY  - Nashville, TN
+LA  - English
+CN  - 379.741 .T1n
+SC  - Tennessee
+ER  - 
