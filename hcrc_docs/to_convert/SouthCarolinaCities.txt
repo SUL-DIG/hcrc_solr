@@ -1,0 +1,65 @@
+
+TY  - BOOK
+A2  - Columbia (South Carolina) City Schools
+T1  - Annual report of the City Schools of Columbia, S.C
+D1  - 1890-1906
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890/1891-1891/1892, 1893/1894, 1895/1896-1905/1906; Shelved in Cubberley Library Reading Room
+PB  - Columbia (South Carolina) City Schools
+CY  - Columbia, SC
+LA  - English
+CN  - 379.741 .S1c
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - Columbia (South Carolina) Graded Schools
+T1  - Annual report of the Columbia graded schools
+D1  - 1886-1890
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1886/1887-1889/1890}; Shelved in Cubberley Library Reading Room
+PB  - Columbia (South Carolina) Graded Schools
+CY  - Columbia, SC
+LA  - English
+CN  - 379.741 .S1s
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - Columbia (South Carolina) Graded Schools
+T1  - Annual report of the public schools of Columbia, S.C
+D1  - 1906-1917
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1906/1907-1910/1911, 1912/1913-1916/1917; Shelved in Cubberley Library Reading Room
+PB  - Columbia (South Carolina) Graded Schools
+CY  - Columbia, SC
+LA  - English
+CN  - 379.741 .S1s
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - Columbia (South Carolina) Graded Schools
+T1  - Triennial report of the public schools of Columbia, S.C
+D1  - 1922-1928
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1922/1925-1925/1928; Shelved in Cubberley Library Reading Room
+PB  - Columbia (South Carolina) Graded Schools
+CY  - Columbia, SC
+LA  - English
+CN  - 379.741 .S1s
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - Spartanburg (South Carolina) Board of School Trustees
+T1  - Annual report of the city schools of Spartanburg, S.C.
+D1  - 1909-1932
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1909/1910-1911/1912, 1916/1917-1917/1918, 1920/1921-1931/1932; Shelved in Cubberley Library Reading Room
+PB  - Spartanburg (South Carolina) Board of School Trustees
+CY  - Spartanburg, SC
+LA  - English
+CN  - 379.741 .S1s
+SC  - South Carolina
+ER  -
