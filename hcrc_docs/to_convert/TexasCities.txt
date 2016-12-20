@@ -1,0 +1,444 @@
+
+TY  - BOOK
+A2  - Austin (Texas) Board of Public School Trustees
+T1  - Annual report of the Board of public school trustees of the city of Austin
+D1  - 1895-1902
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1895/1896,m1901/1902; Shelved in Cubberley Library Reading Room
+PB  - Austin (Texas) Board of Public School Trustees
+CY  - Austin, TX
+LA  - English
+CN  - 379.741 .T2a
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Austin (Texas) Public Schools
+T1  - Descriptive bulletin
+D1  - 1933
+KW  - Schools
+N1  - Cubberley Education Library holdings 1933; Shelved in Cubberley Library Reading Room
+PB  - Austin (Texas) Public Schools
+CY  - Austin, TX
+LA  - English
+CN  - 379.741 .T2a
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Austin (Texas) Public Schools
+T1  - Elementary schools, Austin TX
+Y1  - 1930
+D1  - 09/1930
+SP  - 44
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Austin (Texas) Public Schools
+CY  - Austin, TX
+LA  - English
+CN  - 379.741 .T2a
+SC  - Texas
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Beaumont (Texas) Superintendent of Schools
+A2  - Beaumont (Texas) Independent School District
+T1  - Annual report of the Superintendent
+D1  - 1921-1941
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1921/1922-1925/1926, 1927/1928-1932/1933, 1934/1935-1940/1941; Shelved in Cubberley Library Reading Room
+PB  - Beaumont (Texas) Superintendent of Schools
+CY  - Beaumont, TX
+LA  - English
+CN  - 379.741 .T2b
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Beaumont (Texas) Superintendent of Schools
+T1  - Quarterly report
+D1  - 1920
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1920; Shelved in Cubberley Library Reading Room
+PB  - Beaumont (Texas) Superintendent of Schools 
+CY  - Beaumont, TX
+LA  - English
+CN  - 379.741 .T2b
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Public Schools
+T1  - Annual report of the board of directors of the Dallas public schools
+D1  - 1894-1895
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1894/1895; Shelved in Cubberley Library Reading Room
+PB  - Dallas (Texas) Public Schools
+CY  - Dallas, TX
+LA  - English
+CN  - 379.741 .T2d
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Board of Education
+T1  - Annual report of the Board of Education of the Dallas public schools
+D1  - 1897-1915
+KW  - Public schools
+N1  - Other titles Biennial report of the board of education of the Dallas public schools (1900/1902), Biennial report of the Dallas public schools (1902/1904-1910/1912), Report of the public schools of the city of Dallas<1915>; Cubberley Education Library holdings 1897/1898, 1900/1902-1915; Shelved in Cubberley Library Reading Room
+PB  - Dallas (Texas) Board of Education
+CY  - Dallas, TX
+LA  - English
+CN  - 379.741 .T2d
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District
+T1  - Superintendent's annual report
+D1  - 1959
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1959; Shelved in Cubberley Library Reading Room
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 379.741 .T2d
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District 
+T1  - Plan of action a statement of philosophy
+Y1  - 1947
+D1  - 11/1947
+SP  - 20
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Dallas (Texas) Independent School District
+CY  - Dallas, TX
+LA  - English
+CN  - 379.741 .T2d 1947
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District 
+T1  - The visiting teacher in Dallas
+Y1  - 1957
+D1  - 1957
+SP  - 18
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Dallas (Texas) Independent School District 
+CY  - Dallas, TX
+LA  - English
+CN  - 379.741 .T2d
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District 
+T1  - Administrative policies and procedures 1959-1960
+Y1  - 1959
+D1  - 08/1959
+SP  - 249
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Dallas (Texas) Independent School District 
+CY  - Dallas, TX
+LA  - English
+CN  - 379.741 .T2d
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Dallas (Texas) Independent School District. Committee of the Whole 
+T1  - Agenda
+Y1  - 1976 
+D1  - 02/1976
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Dallas (Texas) Independent School District 
+CY  - Dallas, TX
+LA  - English
+CN  - 379.741 .T2d 1976
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Denison (Texas) Public Schools
+T1  - Report of the Denison public schools for the school year
+D1  - 1897-1898
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1897/1898; Shelved in Cubberley Library Reading Room
+PB  - Denison (Texas) Public Schools
+CY  - Denison, TX
+LA  - English
+CN  - 379.741 .T2de
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - El Paso (Texas) Public Schools
+T1  - Report of the public schools of El Paso Texas
+D1  - 1892-1917
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1892/1893, 1901/1902, 1908/1909, 1914/1916-1916/1917; Shelved in Cubberley Library Reading Room
+PB  - El Paso (Texas) Public Schools
+CY  - El Paso, TX
+LA  - English
+CN  - 379.741 .T2e
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - El Paso (Texas) Independent School District
+T1  - Report of Dr. Dennis Cooke on a study of school finances, teacher’s salary schedules, etc. of the Independent school district of El Paso, Texas
+Y1  - 1948
+D1  - 1948
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - El Paso (Texas) Independent School District
+CY  - El Paso, TX
+LA  - English
+CN  - 379.741 .T2e 1948
+SC  - Texas
+ER  -
+
+TY  - BOOK
+T1  - Toward greater excellence in education
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Fort Worth, TX
+LA  - English
+CN  - 379.741 .T2f
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Independent School District
+T1  - Population trends and estimates of school building needs in the Fort Worth independent school district
+Y1  - 1960
+D1  - 12/1960
+SP  - 218
+KW  - School facilities
+KW  - Demographic surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Fort Worth (Texas) Independent School District
+CY  - Fort Worth, TX
+LA  - English
+CN  - 379.741 .T2f
+SC  - Texas
+ER  -
+
+TY  - BOOK
+T1  - Look inside your schools a report to the citizenship
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Fort Worth, TX
+LA  - English
+CN  - 379.741 .T2f
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Independent School District
+T1  - The counselor at work a handbook of policies, procedures and information for the use of school administrators and counselors in the Fort Worth public schools
+Y1  - 1961
+D1  - 1961
+SP  - 113
+KW  - Counseling
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Fort Worth (Texas) Independent School District
+CY  - Fort Worth, TX
+LA  - English
+CN  - 379.741 .T2f 1961
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Independent School District
+T1  - Short term assessment of the middle school plan
+Y1  - 1970
+D1  - 08/1970
+SP  - 119
+KW  - Middle schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Fort Worth (Texas) Independent School District
+CY  - Fort Worth, TX
+LA  - English
+CN  - 379.741 .T2f 1970
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Independent School District
+T1  - A tentative evaluation of the extended day program
+Y1  - 1970
+D1  - 01/1970
+SP  - 45
+KW  - School day
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Fort Worth (Texas) Independent School District
+CY  - Fort Worth, TX
+LA  - English
+CN  - 379.741 .T2f 1970
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Gonzales (Texas) Public Schools
+T1  - Annual report of the public schools of the city of Gonzales
+D1  - 1890-1902
+KW  - Public schools
+N1  - Other titles Annual report of the public schools of Gonzales (1892/1893), Annual report Gonzales city schools (1902/1903); Cubberley Education Library holdings 1890/1891-1891/1892, 1893/1894,1901/1902; Shelved in Cubberley Library Reading Room
+PB  - Gonzales (Texas) Public Schools
+CY  - Gonzales, TX
+LA  - English
+CN  - 379.741 .T2g
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Houston (Texas) Public Schools
+T1  - Annual report of the public schools of the City of Houston
+D1  - 1892-1898
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1892/1893-1894/1895, 1897/1898; Shelved in Cubberley Library Reading Room
+PB  - Houston (Texas) Public Schools
+CY  - Houston, TX
+LA  - English
+CN  - 379.741 .T2h
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Annual report of the public schools of the independent school district of the  City of Houston
+D1  - 1905-1923
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1905/1906, 1908/1909, 1911/1912-1912/1913, 1914/1915, 1916/1917-1918/1919, 1920/1921-1921/1923; Shelved in Cubberley Library Reading Room
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 379.741 .T2h
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - Houston (Texas) Independent School District
+T1  - Annual report of finances
+D1  - 1963-1964
+KW  - School finance
+N1  - Title varies, Cubberley Education Library holdings 1963/1964; Shelved in Cubberley Library Reading Room
+PB  - Houston (Texas) Independent School District
+CY  - Houston, TX
+LA  - English
+CN  - 379.741 .T2h
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A1  - Davidson, Walter Craig
+A2  - Laredo (Texas) Independent School District, Federal Projects
+T1  - The Mexican American high school graduate of Laredo
+Y1  - 1971
+D1  - 07/1971
+SP  - 76
+KW  - Mexican Americans
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Laredo (Texas) Independent School District, Federal Projects
+CY  - Laredo, TX
+LA  - English
+CN  - 379.741 .T2l 1971
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A1  - Davidson, Walter Craig
+A2  - Laredo (Texas) Independent School District, Federal Projects
+T1  - The trauma of the dropout; A Laredo Independent School district study
+D1  - 1970
+SP  - 575
+KW  - Dropouts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Laredo (Texas) Independent School District, Federal Projects
+CY  - Laredo, TX
+LA  - English
+CN  - 379.741 .T2l 1970
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Waco (Texas) Public Schools
+T1  - Annual reports of the Waco public schools
+D1  - 1894-1896
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1894/1895/1895/1896; Shelved in Cubberley Library Reading Room
+PB  - Waco (Texas) Public Schools
+CY  - Waco, TX
+LA  - English
+CN  - 379.741 .T2w
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - San Antonio (Texas) School Board
+T1  - Annual report of the San Antonio School Board
+D1  - 1902-1905
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1902/1903-1904/1905; Shelved in Cubberley Library Reading Room
+PB  - San Antonio (Texas) School Board
+CY  - San Antonio, TX
+LA  - English
+CN  - 379.741 .T2s
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - San Antonio (Texas) Public Schools
+T1  - The school budget and unit costs
+Y1  - 1918
+D1  - 06/1918
+SP  - 52
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Antonio (Texas) Public Schools
+CY  - San Antonio, TX
+LA  - English
+CN  - 379.741 .T2s 1918
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - San Antonio (Texas) Public Schools
+T1  - Special phases of instruction
+Y1  - 1918
+D1  - 06/1918
+SP  - 88
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - San Antonio (Texas) Public Schools
+CY  - San Antonio, TX
+LA  - English
+CN  - 379.741 .T2s 1918
+SC  - Texas
+ER  -
+
+TY  - BOOK
+A2  - University of Texas
+T1  - A study of the building needs of San Antonio public schools
+Y1  - 1935
+D1  - 08/1935
+SP  - 95
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - University of Texas bulletin
+V1  - 3531
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 379.741 .T2s
+SC  - Texas
+ER  -
