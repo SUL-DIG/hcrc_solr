@@ -1,0 +1,274 @@
+
+TY  - BOOK
+A2  - Beatrice (Nebraska) Public schools
+T1  - Annual reports of the officers of the public schools of Beatrice, gage county, Nebraska with an appendix containing the rules and regulations of Board of Education the course of study etc. for the year
+D1  - 1889-1897
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1889/1890-1890/1891, 1892/1893, 1896/1897; Shelved in Cubberley Library Reading Room
+PB  - Beatrice (Nebraska) Public schools
+CY  - Beatrice, NE
+LA  - English
+CN  - 379.741 .N1b
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Beatrice (Nebraska) City Schools
+T1  - Official reports...Course of study
+D1  - 1906-1907
+KW  - Public schools
+KW  - Curricula
+N1  - Cubberley Education Library holdings 1906/1907; Shelved in Cubberley Library Reading Room
+PB  - Beatrice (Nebraska) City Schools
+CY  - Beatrice, NE
+LA  - English
+CN  - 379.741 .N1b
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Nebraska State Department of Public Instruction
+T1  - Special report of the Superintendent of Public Instruction and statistics
+Y1  - 1891
+D1  - 1891
+SP  - 50
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+T1  - Outline of course of study of the public schools of Lincoln, Nebraska
+Y1  - 1891
+D1  - 1891
+SP  - 20
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Public schools: nature study
+Y1  - 1893
+D1  - 12/1893
+SP  - 64
+KW  - Natural history
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Public schools: geography
+Y1  - 1893
+D1  - 1893
+SP  - 72
+KW  - Geography
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Public schools: geography
+Y1  - 1894
+D1  - 02/1894
+SP  - 18
+KW  - Mathematics
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Public schools: language
+Y1  - 1893
+D1  - 01/1893
+SP  - 24
+KW  - Language arts
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Public schools: physical exercise
+Y1  - 1894
+D1  - 02/1894
+SP  - 14
+KW  - Physical fitness
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Public schools: general lessons and United States history
+Y1  - 1894
+D1  - 03/1894
+SP  - 30
+KW  - History
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Manual and course of study for the Lincoln public schools
+Y1  - 1895
+D1  - 12/1895
+SP  - 60
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln High School. Lincoln (Nebraska)
+T1  - Course of study, Lincoln high school
+Y1  - 1900
+D1  - 1900
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Lincoln High School. Lincoln (Nebraska)
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Annual report of the Board of Education of the public schools of Lincoln, Nebraska
+D1  - 1896-1897
+KW  - Public schools
+N1  - 1896/1897; Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Lincoln (Nebraska) Board of Education
+T1  - Report of the Superintendent of Schools
+D1  - 1915-1919
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1915/1916/1916/1917-1917/1919; Shelved in Cubberley Library Reading Room
+PB  - Lincoln (Nebraska) Board of Education
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+ 
+TY  - BOOK
+T1  - School index
+D1  - 1901-1902
+KW  - Public schools
+N1  - Cubberley Education Library holdings v.1-2, 1901-1902; Shelved in Cubberley Library Reading Room
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Committee of Visiting Schools in Other Cities
+T1  - Report of the Committee of Visiting Schools in Other Cities in the interests of the Lincoln Building program
+Y1  - 1919
+D1  - 10/1919
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Committee of Visiting Schools in Other Cities
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.741 .N1l
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Omaha (Nebraska) City Schools. Board of Education
+T1  - Annual report of the Board of Education
+D1  - 1884-1887
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1884/1885, 1887; Shelved in Cubberley Library Reading Room
+PB  - Omaha (Nebraska) City Schools. Board of Education
+CY  - Omaha, NE
+LA  - English
+CN  - 379.741 .N1o
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Omaha (Nebraska) Public Schools. Board of Education
+T1  - Annual report of the Board of Education
+D1  - 1892-1914
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1892/1893-1894/1895, 1896/1897-1904/1905, 1907/1908-1911/1912, 1913/1914; Shelved in Cubberley Library Reading Room
+PB  - Omaha (Nebraska) Public Schools. Board of Education
+CY  - Omaha, NE
+LA  - English
+CN  - 379.741 .N1o
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+A2  - Omaha (Nebraska) Public Schools
+T1  - Course of study, Omaha public schools, School District of Omaha, Douglas County, Nebraska
+Y1  - 1898
+D1  - 01/1898
+SP  - 73
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Omaha (Nebraska) Public Schools
+CY  - Omaha, NE
+LA  - English
+CN  - 379.741 .N1o
+SC  - Nebraska
+ER  -
