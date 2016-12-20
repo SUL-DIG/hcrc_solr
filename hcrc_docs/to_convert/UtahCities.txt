@@ -1,0 +1,140 @@
+
+TY  - BOOK
+A1  - Moffitt, J.C
+T1  - A century of public education in Provo, Utah
+Y1  - 1944
+D1  - 1944
+SP  - 194
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Provo, UT
+LA  - English
+CN  - 379.741 .U1p 1944
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Provo (Utah) Board of Education
+T1  - Provo city schools, superintendent's annual report
+D1  - 1942-1944
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1942/1943-1943/1944; Shelved in Cubberley Library Reading Room
+PB  - Provo (Utah) Board of Education
+CY  - Provo, UT
+LA  - English
+CN  - 379.741 .U1p
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - Annual report of the Public Schools of the City of Salt Lake
+D1  - 1890-1965
+KW  - Public schools
+N1  - Other titles: Annual report of the public schools of Salt Lake City (1895/1896-1929/1930), Annual report Board of Education Salt Lake City schools (1930/1931-1932/1933), Annual report of the Board of Education (1933/1934-1934/1935), Annual report of the Salt Lake City Board of Education (1935/1936), Annual report/The Board of Education Salt Lake City (1936/1937-1940/1941), Annual report of the public schools of Salt Lake City (1941/1942-1960/1961), Annual report/Board of Education (1961/1963-1963/1965); Cubberley Education Library holdings 1890/1891-1914/1915, 1916/1917-1920/1921, 1923/1924-1942/1943, 1945/1946-1963/1965; Shelved in Cubberley Library Reading Room
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Hand-book of rules, courses, suggestions, etc., for the use of officers and teachers
+Y1  - 1900
+D1  - 1900
+SP  - 140
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Salt Lake City (Utah) Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Hand-book of rules, courses, suggestions, etc., for the use of officers and teachers 1898-99
+Y1  - 1898
+D1  - 1898
+SP  - 141
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Salt Lake City (Utah) Public Schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - Course of study for the public schools of Salt Lake City also rules, suggestions, etc.
+Y1  - 1903
+D1  - 09/1903
+SP  - 178
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - Directory of personnel: Salt Lake City schools
+D1  - 1964-1976
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1964/1965-1965/1966,1968/1969-1975/1976; Shelved in Cubberley Library Reading Room
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Rules and regulations
+D1  - 1929
+SP  - 20
+KW  - School management and administration
+PB  - Salt Lake City (Utah) Public schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s 1929
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Public Schools
+T1  - Rule, regulations and administrative policies
+Y!  - 1937
+D1  - 1937
+SP  - 105
+KW  - School management and administration
+PB  - Salt Lake City (Utah) Public schools
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s 1929
+SC  - Utah
+ER  -
+
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - Mission: follow through : how Salt Lake City Public Schools implemented the plan to extend the special training of Head Start children
+KW  - Head start programs
+KW  - Children wit social disabilities
+N1  - Cubberley Education Library holdings stage 1, stage 2; Shelved in Cubberley Library Reading Room
+PB  - Salt Lake City (Utah) Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.741 .U1s
+SC  - Utah
+ER  -
