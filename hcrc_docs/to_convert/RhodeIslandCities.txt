@@ -1,0 +1,266 @@
+
+TY  - BOOK
+A2  - Bristol (Rhode Island) School Committee
+T1  - Annual report of the school committee of the town of Bristol
+D1  - 1875-1943
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1875/1876, 1857/1858, 1872/1873-1876/1877, 1878/1879-1885/1886, 1887/1888-1890/1891, 1892/1893-1939/1940, 1941/1942-1942/1943,; Shelved in Cubberley Library Reading Room
+PB  - Bristol (Rhode Island) School Committee
+CY  - Bristol, RI
+LA  - English
+CN  - 379.741 .R1b
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Central Falls (Rhode Island) School Committee
+T1  - Annual report of the school committee
+D1  - 1896-1942
+KW  - Public schools
+N1  - other titles Annual report of the school department (1919/1920-1939/1940), Annual report of the central falls public schools (1940/1941-); Cubberley Education Library holdings 1896/1897, 1898/1899-1941/1942; Shelved in Cubberley Library Reading Room
+PB  - Central Falls (Rhode Island) School Committee
+CY  - Central Falls, RI
+LA  - English
+CN  - 379.741 .R1cr
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Cranston (Rhode Island) School Committee
+T1  - Report of the school committee of the City of Cranston, R.I
+D1  - 1911-1971
+KW  - Public schools
+N1  - Other title Annual school report (1965/1966-) Cubberley Education Library holdings 1911/1912-1952/1953, 1954/1955-1967/1968, 1969/1970-1970/1971; Shelved in Cubberley Library Reading Room
+PB  - Cranston (Rhode Island) School Committee
+CY  - Cranston, RI
+LA  - English
+CN  - 379.741 .R1cr
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Cranston (Rhode Island) School Committee
+T1  - By-Laws of the school committee of Cranston
+Y1  - 1938
+D1  - 1938
+SP  - 22
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Cranston (Rhode Island) School Committee
+CY  - Cranston, RI
+LA  - English
+CN  - 379.741 .R1cr
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - East Providence (Rhode Island) School Committee
+T1  - Report of school committee
+D1  - 1899-1909
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1899/1900-1902/1903, 1904/1905-1908/1909; Shelved in Cubberley Library Reading Room
+PB  - East Providence (Rhode Island) School Committee
+CY  - East providence, RI
+LA  - English
+CN  - 379.741 .R1ep
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Newport (Rhode Island) School Committee
+T1  - Annual report of the School Committee of the city of Newport, R.I.: together with the annual report of the Superintendent of Public Schools
+D1  - 1867-1901
+KW  - Public schools
+N1  - Note: some volumes have title: Annual report of the school committee of the city of Newport, R.I. together with the report of head master of the Rogers high school and annual report of Supt. of public schools; Cubberley Education Library holdings 1867/1868-1869/1870, 1871/1872-1900/1901; Shelved in Cubberley Library Reading Room
+PB  - Newport (Rhode Island) School Committee
+CY  - Newport, RI
+LA  - English
+CN  - 379.741 .R1n
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Newport (Rhode Island) School Committee
+T1  - Annual report of the Public School Department of the city of Newport, Rhode Island
+D1  - 1901-1942
+KW  - Public schools
+N1  - Other title Annual report of the school department of the City  of Newport Rhode island (1916/1917-); Cubberley Education Library holdings 1901/1902-1937/1938, 1941/1942; Shelved in Cubberley Library Reading Room
+PB  - Newport (Rhode Island) School Committee
+CY  - Newport, RI
+LA  - English
+CN  - 379.741 .R1n
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+T1  - Course of study for the public schools of the city of Newport, R.I
+Y1  - 1898
+D1  - 1898
+SP  - 84
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Newport, RI
+LA  - English
+CN  - 379.741 .R1n
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Pawtucket (Rhode Island) School Committee
+T1  - Annual report of the school committee of the city of Pawtucket, R.I
+D1  - 1890-1923
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890/1891-1914/1915, 1916/1917-1919/1920, 1921/1922-1922/1923; Shelved in Cubberley Library Reading Room
+PB  - Pawtucket (Rhode Island) School Committee
+CY  - Pawtucket, RI
+LA  - English
+CN  - 379.741 .R1p
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Pawtucket (Rhode Island) School Board
+T1  - Annual report of the school board of the city of Pawtucket, R.I
+D1  - 1923-1931
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1923/1924-1930/1931; Shelved in Cubberley Library Reading Room
+PB  - Pawtucket (Rhode Island) School Board
+CY  - Pawtucket, RI
+LA  - English
+CN  - 379.741 .R1p
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Pawtucket (Rhode Island) School Department
+T1  - Annual report of the school department of the city of Pawtucket, R.I
+D1  - 1931-1936
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1931/1932-1935/1936; Shelved in Cubberley Library Reading Room
+PB  - Pawtucket (Rhode Island) School Department
+CY  - Pawtucket, RI
+LA  - English
+CN  - 379.741 .R1p
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Pawtucket (Rhode Island) School Committee
+T1  - Rules and regulations of the school committee of the city of Pawtucket
+Y1  - 1915
+D1  - 1915
+SP  - 54
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pawtucket (Rhode Island) School Committee
+CY  - Pawtucket, RI
+LA  - English
+CN  - 379.741 .R1p 1915
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Providence (Rhode Island) School Committee
+T1  - Annual report of the school committee of the city of Providence
+D1  - 1863-1967
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1863, 1868, 1881-1883, 1885-1967; Shelved in Cubberley Library Reading Room
+PB  - Providence (Rhode Island) School Committee
+CY  - Providence, RI
+LA  - English
+CN  - 379.741 .R1pr
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+T1  - Course of study of the providence grammar schools
+Y1  - 1901
+D1  - 02/1901
+KW  - Curricula
+SP  - 26
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Providence, RI
+LA  - English
+CN  - 379.741 .R1pr
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Providence (Rhode Island) Public Schools
+T1  - Course of study for primary grades
+Y1  - 1902
+D1  - 02/1902
+SP  - 101
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Providence (Rhode Island) Public Schools
+CY  - Providence, RI
+LA  - English
+CN  - 379.741 .R1pr
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Warwick (Rhode Island) School Department
+T1  - Annual report of the department of public schools of the town of Warwick
+D1  - 1912-1941
+KW  - Public schools
+N1  - Note some title variation pre 1941, Other title Report of the department of public schools city of Warwick Rhode Island (1941/1943-); Cubberley Education Library holdings 1912-1919/1920, 1921/1922--1933/1934, 1935/1936-1940/1941; Shelved in Cubberley Library Reading Room
+PB  - Warwick (Rhode Island) School Department
+CY  - Warwick, RI
+LA  - English
+CN  - 379.741 .R1w
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Warwick (Rhode Island) Public Schools
+T1  - Warwick Rhode Island a career for you 
+SP  - 15
+KW  - Public schools
+N1  - Note; on cover “people who want to teach will want to teach in..... ; Shelved in Cubberley Library Reading Room
+PB  - Warwick (Rhode Island) Public Schools
+CY  - Warwick, RI
+LA  - English
+CN  - 379.741 .R1w
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Warwick (Rhode Island) School Department
+T1  - Directory of teachers
+D1  - 1940-1941
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1940/1941; Shelved in Cubberley Library Reading Room
+PB  - Warwick (Rhode Island) School Department
+CY  - Warwick, RI
+LA  - English
+CN  - 379.741 .R1w
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Woonsocket (Rhode Island) School Board
+T1  - Annual report of the school board to the city council of the city of Woonsocket R.I. with Superintendent’s and subordinate reports, course of study etc
+D1  - 1903-1904
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1903-1904; Shelved in Cubberley Library Reading Room
+PB  - Woonsocket (Rhode Island) School Board
+CY  - Woonsocket, RI
+LA  - English
+CN  - 379.741 .R1wo
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Woonsocket (Rhode Island) School Committee
+T1  - Annual report of the school committee of the city of Woonsocket
+D1  - 1905-1933
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1905-1911, 1915-1921, 1923-1933; Shelved in Cubberley Library Reading Room
+PB  - Woonsocket (Rhode Island) School Committee
+CY  - Woonsocket, RI
+LA  - English
+CN  - 379.741 .R1wo
+SC  - Rhode Island
+ER  -
