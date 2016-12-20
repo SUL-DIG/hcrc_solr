@@ -1,0 +1,328 @@
+
+TY  - BOOK
+A2  - Amesbury (Massachusetts) School Committee
+T1  - Annual report of the School Committee of the Town of Amesbury for the year ending Dec. 31
+D1  - 1905-1952
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1905-1909. 1920-1948, 1951-1952; Shelved in Cubberley Library Reading Room
+PB  - Amesbury (Massachusetts) School Committee
+CY  - Amesbury, MA
+LA  - English
+CN  - 379.741 .M2am
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Andover (Massachusetts) School Committee
+T1  - Report of the School Committee of the Town of Andover, Mass. for the school year
+D1  - 1894-1942
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1894-1897, 1899-1902, 1904-1906, 1908-1910. 1920-1932, 1934-1935, 1937-1939, 1941-1942; Shelved in Cubberley Library Reading Room
+PB  - Andover (Massachusetts) School Committee
+CY  - Andover, MA
+LA  - English
+CN  - 379.741 .M2an
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Annual report of the School Committee of the Town of Arlington
+T1  - Arlington (Massachusetts) School Committee
+D1  - 1904-1936
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1904/1905-1915/1916, 1917/1918-1920/1921, 1932/1933-1936; Shelved in Cubberley Library Reading Room
+PB  - (Massachusetts) School Committee
+CY  - Arlington, MA
+LA  - English
+CN  - 379.741 .M2ar
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Attleborough (Massachusetts) School Committee
+T1  - Annual report of the School Committee, Attleborough, Mass., for the year ending
+D1  - 1901-1955
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1901-1916, 1919-1947, 1950-1955; Shelved in Cubberley Library Reading Room
+PB  - Attleborough (Massachusetts) School Committee
+CY  - Attleborough, MA
+LA  - English
+CN  - 379.741 .M2at
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Town of Attleborough (Massachusetts)
+T1  - A course in reading and literature
+D1  - 1901
+Y1  - 1901
+SP  - 30
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Town of Attleborough (Massachusetts)
+CY  - Attleborough, MA
+LA  - English
+CN  - 379.741 .M2at
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Barnstable (Massachusetts) School Committee
+T1  - Annual report of the School Committee and Superintendent of Schools of the Town of Barnstable
+D1  - 1918-1946
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1918/1919-1946; Shelved in Cubberley Library Reading Room
+PB  - Barnstable (Massachusetts) School Committee
+CY  - Barnstable, MA
+LA  - English
+CN  - 379.741 .M2ba
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Beverly (Massachusetts) School Committee
+T1  - Annual report of the School Committee
+D1  - 1893-1963
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1893/1894-1906, 1909-1948, 1950, 1952-1959, 1961-1963; Shelved in Cubberley Library Reading Room
+PB  - Beverly (Massachusetts) School Committee
+CY  - Beverly, MA
+LA  - English
+CN  - 379.741 .M2be
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Town of Blandford (Massachusetts)
+T1  - Annual report of the town clerk, treasurer, selectmen, assessors, library trustees, school committee, Superintendent of Schools of the Town of Blandford
+D1  - 1920-1929
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1920/1921-1928/1929; Shelved in Cubberley Library Reading Room
+PB  - Town of Blandford (Massachusetts)
+CY  - Blandford, MA
+LA  - English
+CN  - 379.741 .M2bl
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Town of Blandford (Massachusetts)
+T1  - Annual report of the town officials and the Superintendent of Schools
+D1  - 1929-1936
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1929/1930-1931/1932, 1933/1934-1935/1936; Shelved in Cubberley Library Reading Room
+PB  - Town of Blandford (Massachusetts)
+CY  - Blandford, MA
+LA  - English
+CN  - 379.741 .M2bl
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A1  - Scudder, Charles L
+T1  - Special report to the School Committee on seating of pupils in the public schools
+Y1  - 1892
+D1  - 1892
+SP  - 20
+KW  - School furniture and equipment
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Boston School Committee School document
+V1  - 9
+PB  - Boston (Massachusetts) School Committee
+CY  - Boston, MA
+LA  - English
+CN  - 379.741 .M2bo 1892
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A1  - Boston (Massachusetts) School Committee
+T1  - Report of the director of physical training
+Y1  - 1891
+D1  - 1891
+SP  - 75
+KW  - Physical education and training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Boston School Committee School document
+V1  - 22
+PB  - Boston (Massachusetts) School Committee
+CY  - Boston, MA
+LA  - English
+CN  - 379.741 .M2bo 1891
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A1  - Boston (Massachusetts) School Committee
+T1  - Report of the director of physical training
+Y1  - 1894
+D1  - 1894
+SP  - 151
+KW  - Physical education and training
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Boston School Committee School document
+V1  - 8
+PB  - Boston (Massachusetts) School Committee
+CY  - Boston, MA
+LA  - English
+CN  - 379.741 .M2bo 1894
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A1  - Van Sickle, James A
+A2  - Boston (Massachusetts) Finance Commission
+T1  - Report of a study of certain phases of the public school system of Boston
+Y1  - 1916
+D1  - 1916
+SP  - 219
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Boston (Massachusetts) Finance Commission
+CY  - Boston, MA
+LA  - English
+CN  - 379.741 .M2bo 1916
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Boston (Massachusetts) School Committee
+T1  - Educational standards and educational measurement
+Y1  - 1914
+D1  - 1914
+SP  - 21
+KW  - Educational tests and measurements
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Boston School Committee School document
+V1  - 10
+PB  - Boston (Massachusetts) School Committee
+CY  - Boston, MA
+LA  - English
+CN  - 379.741 .M2bo 1914
+SC  -  Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - General Federation of Women's Clubs. Department of Education
+T1  - Public schools of a metropolis
+SP  - 65
+KW  - Public Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - General Federation of Women's Clubs. Department of Education
+LA  - English
+CN  - 379.741 .M2B74g
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Finance Commission
+T1  - The Business administration of the school of the city of Boston
+D1  - 1944?
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Boston (Massachusetts) Finance Commission
+CY  - Boston, MA
+LA  - English
+CN  - 379.741 .M2bo 1944
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+T1  - Directory of public schools - high schools
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+LA  - English
+CN  - 379.741 .M2bo
+SC  - Massachusetts
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Braintree (Massachusetts) School Committee
+T1  - Reports of the School Committee and Superintendent of Schools
+D1  - 1899-1941
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1899/1900, 1906/1907-1910/1911, 1912/1913-1940/1941; Shelved in Cubberley Library Reading Room
+PB  - Braintree (Massachusetts) School Committee
+CY  - Braintree, MA
+LA  - English
+CN  - 379.741 .M2br
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Brockton (Massachusetts) Superintendent of Schools
+T1  - Annual report of the Superintendent of Schools of the City of Brockton
+D1  - 1891-1901
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1891, 1893, 1896-1897, 1899-1901; Shelved in Cubberley Library Reading Room
+PB  - Brockton (Massachusetts) Superintendent of Schools
+CY  - Brockton, MA
+LA  - English
+CN  - 379.741 .M2brc
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Brockton (Massachusetts) School Committee
+T1  - Annual report of the School Committee of the City of Brockton
+D1  - 1902-1906
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1902-1906; Shelved in Cubberley Library Reading Room
+PB  - Brockton (Massachusetts) School Committee
+CY  - Brockton, MA
+LA  - English
+CN  - 379.741 .M2brc
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Brockton (Massachusetts) School Committee
+T1  - Annual report of the Schools of the City of Brockton
+D1  - 1907-1923
+KW  - Public schools
+N1  - Title varies slightly; Cubberley Education Library holdings 1907-1923; Shelved in Cubberley Library Reading Room
+PB  - Brockton (Massachusetts) School Committee
+CY  - Brockton, MA
+LA  - English
+CN  - 379.741 .M2brc
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Brockton (Massachusetts) School Department
+T1  - Annual report of the School Department
+D1  - 1924-1942
+KW  - Public schools
+N1  - Title varies slightly; Cubberley Education Library holdings 1924-1932, 1938-1942 Shelved in Cubberley Library Reading Room
+PB  - Brockton (Massachusetts) School Department
+CY  - Brockton, MA
+LA  - English
+CN  - 379.741 .M2brc
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+T1  - Brockton school directory
+D1  - 1939-1940
+KW  - Public Schools
+KW  - School directory
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Brockton, MA
+LA  - English
+CN  - 379.741 .M2brc
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Brookline (Massachusetts) School Committee
+T1  - Report of the School Committee of the Town of Brookline
+D1  - 1886-1924
+KW  - Public schools
+N1  - Title varies slightly; Cubberley Education Library holdings 1886/1887-1887/1888, 1889/1890-1920/1921, 1923/1924; Shelved in Cubberley Library Reading Room
+PB  - Brookline (Massachusetts) School Committee
+CY  - Brookline, MA
+LA  - English
+CN  - 379.741 .M2bro
+SC  - Massachusetts
+ER  - 
