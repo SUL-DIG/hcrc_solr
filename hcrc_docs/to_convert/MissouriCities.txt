@@ -1,0 +1,371 @@
+
+TY  - BOOK
+A2  - Hannibal (Missouri) Public Schools
+T1  - Course of study of the Hannibal public schools
+Y1  - 1892
+D1  - 1892
+SP  - 23
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Hannibal (Missouri) Public Schools
+CY  - Hannibal, MO
+LA  - English
+CN  - 379.741 .M6h
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Hannibal (Missouri) Board of Education
+T1  - Annual report of the Hannibal public schools
+D1  - 1896-1922
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1896/1897/1897/1898-1905/1906,1911/1912-1919/1920/1920/1921/1921/1922; Shelved in Cubberley Library Reading Room
+PB  - Hannibal (Missouri) Board of Education
+CY  - Hannibal, MO
+LA  - English
+CN  - 379.741 .M6h
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Board of Education
+T1  - Annual report of the Board of Education of the Kansas City public schools
+D1  - 1886-1917
+KW  - Public schools
+N1  - Other titles Annual report of the Kansas City public schools (1887-1890), Cubberley Education Library holdings 1886/1887-1892/1893, 1897/1898, 1899/1900-1910/1911, 1912/1913-1916/1917; Shelved in Cubberley Library Reading Room
+PB  - Kansas City (Missouri) Board of Education
+CY  - Kansas City, MO
+LA  - English
+CN  - 379.741 .M6k
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Superintendent of Schools
+T1  - Report of the Superintendent of Schools
+D1  - 1886-1941
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1917/1921-1940/1941; Shelved in Cubberley Library Reading Room
+PB  - Kansas City (Missouri) Superintendent of Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 379.741 .M6k
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Kansas City (Missouri) School District
+T1  - School facts; a report from your schools
+D1  - 1953-1962
+KW  - Schools
+N1  - Cubberley Education Library holdings 1953/1954, 1959/1960-1961/1962; Shelved in Cubberley Library Reading Room
+PB  - Kansas City (Missouri) School District
+CY  - Kansas City, MO
+LA  - English
+CN  - 379.741 .M6k
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Board of Education
+T1  - Annual report of the secretary and treasurer of the school district of Kansas City, Missouri for the year ending
+D1  - 1941-1942
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1941/1942, Shelved in Cubberley Library Reading Room
+PB  - Kansas City (Missouri) Board of Education
+CY  - Kansas City, MO
+LA  - English
+CN  - 379.741 .M6k
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Superintendent of Schools
+T1  - Administrative report
+D1  - 1941-1942
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1941/1942; Shelved in Cubberley Library Reading Room
+PB  - Kansas City (Missouri) Superintendent of Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 379.741 .M6k
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Kansas City (Missouri) Public Schools
+T1  - Report of the educational television project in Kansas City, Missouri public schools; 1958-59, 1959-60, 1960-61
+Y1  - 1963
+D1  - 07/1963
+KW  - Television in education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Kansas City (Missouri) Public Schools
+CY  - Kansas City, MO
+LA  - English
+CN  - 379.741 .M6k 1963
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Joseph (Missouri) School District
+T1  - Detailed financial report of the school district of Saint Joseph
+D1  - 1925-1928
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1925/1928; Shelved in Cubberley Library Reading Room
+PB  - Saint Joseph (Missouri) School District
+CY  - Saint Joseph, MO
+LA  - English
+CN  - 379.741 .M6s
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Joseph (Missouri) School District
+T1  - Condensed financial report of the school district of Saint Joseph
+D1  - 1918-1921
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1918/1921; Shelved in Cubberley Library Reading Room
+PB  - Saint Joseph (Missouri) School District
+CY  - Saint Joseph, MO
+LA  - English
+CN  - 379.741 .M6s
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Joseph (Missouri) Board of Education
+T1  - Condensed report of the Board of Education
+D1  - 1912/1914
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1912/1914; Shelved in Cubberley Library Reading Room
+PB  - Saint Joseph (Missouri) Board of Education
+CY  - Saint Joseph, MO
+LA  - English
+CN  - 379.741 .M6s
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - St. Louis Public Schools (Missouri) Board of Directors
+T1  - Annual report of the superintendent and secretary to the board of St. Louis public schools for the year ending
+D1  - 1859-1860
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1859/1860; Shelved in Cubberley Library Reading Room
+PB  - St. Louis Public Schools (Missouri) Board of Directors
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - St. Louis Public Schools (Missouri) Board of President and Directors
+T1  - Annual report of the board of directors of the St. Louis public schools
+D1  - 1866-1896
+KW  - Public schools
+N1  - Other title Annual report of the board of president and directors of the Saint Louis public schools for the year ending; Cubberley Education Library holdings 1866/1867-1879/1880, 1880/1881-1881/1882, 1884/1885-1895/1896; Shelved in Cubberley Library Reading Room
+PB  - St. Louis Public Schools (Missouri) Board of President and Directors
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Board of Education
+T1  - Annual report of the Board of Education of the Saint Louis public schools
+D1  - 1896-1949
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1896/1897-1897/1898, 1898/1899-1939/19401940/1941-1948/1949; Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Board of Education
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Superintendent of instruction
+T1  - Annual report of the Superintendent of instruction
+D1  - 1924-1932
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1924/1925-1926/1927, 1931/1932; Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Superintendent of instruction
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Superintendent of instruction
+T1  - As they learn a pictorial interpretation of life in the Saint Louis public schools presented as a supplement to the annual report of the Superintendent
+Y1  - 1940
+D1  - 02/1940
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Superintendent of instruction
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa 1940
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Superintendent of instruction
+T1  - Public school messenger
+D1  - 1916-1935
+KW  - Public schools
+N1  - Cubberley Education Library holdings [15-17,21-33, 1916-1919, 1924-1935]; Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Superintendent of instruction
+CY  - Satin Louis, MO
+LA  - English
+CN  - 379.741 .M6sa
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Board of Education
+T1  - A tale of two cities: a blueprint for equality of educational opportunity in the St. Louis public schools
+D1  - 1968?
+SP  - 92
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Board of Education
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa 1968
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A1  - Branom, Mendel
+A2  - Saint Louis (Missouri) Board of Education
+T1  - One hundred years of teacher education in the St. Louis public school system part 1: the St. Louis normal school 1857-1904
+Y1  - 1958
+D1  - 09/1958
+SP  - 87
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Board of Education of the City of St. Louis, Missouri research and survey series
+V1  - 20
+T2  - St. Louis Public School Journal
+V1  - 11
+IS  - 1
+PB  - Saint Louis (Missouri) Board of Education
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa 1958
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Board of Education
+T1  - History of the Saint Louis Board of Education
+Y1  - 1906
+D1  - 1906
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Board of Education
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Public Schools
+T1  - Senior college courses at the Harris Teachers College Spring term, beginning February 8, 1926
+D1  - 1926?
+SP  - 47
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Saint Louis Public Schools circular of information
+PB  - Saint Louis (Missouri) Public Schools
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa 1926
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Board of Education
+T1  - Illustrations of administrative procedure
+Y1  - 1936
+D1  - 06/1936
+SP  - 78
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Board of Education
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa 1936
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Saint Louis (Missouri) Superintendent of instruction
+T1  - Saint Louis Public Schools abstract from rules and regulations of the Department of Instruction
+SP  - 46
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Saint Louis (Missouri) Superintendent of instruction
+CY  - Saint Louis, MO
+LA  - English
+CN  - 379.741 .M6sa
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Missouri) Board of Education
+T1  - Superintendent's report on what the schools are doing to make democracy work better
+Y1  - 1938
+D1  - 1938
+SP  - 56
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Springfield (Missouri) Board of Education
+CY  - Springfield, MO
+LA  - English
+CN  - 379.741 .M6sp
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Missouri) Board of Education
+T1  - Annual report of the Board of Education of the public schools of Springfield with course of study, rules and regulations, and such other matters as are pertinent in such a document
+D1  - 1900-1907
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1900,1907; Shelved in Cubberley Library Reading Room
+PB  - Springfield (Missouri) Board of Education
+CY  - Springfield, MO
+LA  - English
+CN  - 379.741 .M6sp
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - Springfield (Missouri) Board of Education
+T1  - Directory of the Board of Education; teachers and janitors of the Springfield public schools
+D1  - 1909-1910
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1909/1910; Shelved in Cubberley Library Reading Room
+PB  - Springfield (Missouri) Board of Education
+CY  - Springfield, MO
+LA  - English
+CN  - 379.741 .M6sp
+SC  - Missouri
+ER  -
+
+TY  - BOOK
+A2  - University City (Missouri) Board of Education
+T1  - Yearbook of University City public schools
+D1  - 1937-1939
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1937/1938-1938/1939; Shelved in Cubberley Library Reading Room
+PB  - University City (Missouri) Board of Education
+CY  - University City, MO
+LA  - English
+CN  - 379.741 .M6u
+SC  - Missouri
+ER  -
