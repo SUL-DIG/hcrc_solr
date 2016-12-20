@@ -1,0 +1,455 @@
+
+TY  - BOOK
+A2  - Adrian (Michigan) Board of Education
+T1  - Report of the Board of Education
+D1  - 1895-1906
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890/1895-1895/1901, 1906; Shelved in Cubberley Library Reading Room
+PB  - Adrian (Michigan) Board of Education
+CY  - Adrian, MI
+LA  - English
+CN  - 379.741 .M3ad
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Adrian Public Schools (Adrian, Michigan)
+T1  - Directory
+D1  - 1912-1913
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1912/1913; Shelved in Cubberley Library Reading Room
+PB  - Adrian Public Schools (Adrian, Michigan)
+CY  - Adrian, MI
+LA  - English
+CN  - 379.741 .M3ad
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Adrian (Michigan) Board of Education
+T1  - Manual of the Adrian public schools
+Y1  - 1911
+D1  - 1911
+SP  - 52
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Adrian (Michigan) Board of Education
+CY  - Adrian, MI
+LA  - English
+CN  - 379.741 .M3ad
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Board of Education
+T1  - Annual reports of the Board of Education
+D1  - 1902-1919
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1902/1903, 1904/1905-1909/1910, 1911/1912-1918/1919; Shelved in Cubberley Library Reading Room
+PB  - Ann Arbor (Michigan) Board of Education
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 379.741 .M3an
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Hamtramck (Michigan) Board of Education
+T1  - Hamtramck public school bulletin
+D1  - 1927-1929
+KW  - Public schools
+N1  - Cubberley Education Library holdings v.1-2, 1927/1928-1928/1929; Shelved in Cubberley Library Reading Room
+PB  - Hamtramck (Michigan) Board of Education
+CY  - Hamtramck, MI
+LA  - English
+CN  - 379.741 .M3
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Hamtramck (Michigan) Board of Education
+T1  - Annual report Hamtramck public schools
+D1  - 1923-1938
+KW  - Public schools
+N1  - Other title Hamtramck public schools (1923/1924-1924/1925);Cubberley Education Library holdings: 1923/1924-1924/1925, 1935/1936-1937/1938; Shelved in Cubberley Library Reading Room
+PB  - Hamtramck (Michigan) Board of Education
+CY  - Hamtramck, MI
+LA  - English
+CN  - 379.741 .M3h
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Board of Education
+T1  - Annual report of the school district of Ann Arbor
+D1  - 1919-1930
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1919/1920-1924/1925, 1927/1928-1929/1930; Shelved in Cubberley Library Reading Room
+PB  - Ann Arbor (Michigan) Board of Education
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 379.741 .M3an
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Ann Arbor (Michigan) Board of Education
+T1  - Annual report of the Ann Arbor Public Schools
+D1  - 1930-1947
+KW  - Public schools
+N1  - Other titles Annual Report of the public schools of the city of Ann Arbor(1934/1935-), Cubberley Education Library holdings 1930/1931-1941/19421946/1947; Shelved in Cubberley Library Reading Room
+PB  - Ann Arbor (Michigan) Board of Education
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 379.741 .M3an
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Dearborn Public Schools (Dearborn, Michigan). Division of Instruction
+T1  - Highlights of curriculum committee activities in 1963-64 and some proposals for 1964-65
+Y1  - 1964
+D1  - 08/1964
+SP  - 13
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Dearborn Public Schools (Dearborn, Michigan). Division of Instruction
+CY  - Dearborn, MI
+LA  - English
+CN  - 379.741 .M3de 1964
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Metropolitan Detroit Science Club
+T1  - Metropolitan Detroit science review
+D1  - 1966
+KW  - Science
+N1  - Cubberley Education Library holdings may 1966; Shelved in Cubberley Library Reading Room
+PB  - Metropolitan Detroit Science Club
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Metropolitan Detroit Bureau of School Studies
+T1  - Annual reports on salary and wage policies in metropolitan Detroit schools, 1960-61; Report I teachers' salaries 1960-61
+Y1  - 1960
+D1  - 10/1960
+SP  - 42
+KW  - Teachers
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Metropolitan Detroit Bureau of School Studies
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1960
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A1  - French, Will
+A2  - Detroit (Michigan) Citizens Advisory Committee on School Needs
+T1  - Consultant's reports to the School Program (Curriculum) Sub-committee of the Citizens Advisory Committee on School Needs
+Y1  - 1958
+D1  - 07/1958
+SP  - 113
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Detroit (Michigan) Citizens Advisory Committee on School Needs
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1958
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Detroit (Michigan) Citizens Advisory Committee on School Needs
+T1  - Findings and recommendations (abridged) of the city-wide Citizens Advisory Committee on School Needs
+Y1  - 1958
+D1  - 11/1958
+SP  - 348
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Detroit (Michigan) Citizens Advisory Committee on School Needs
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1958
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Detroit (Michigan) Board of Education
+T1  - One year after a staff report on what has transpired since the Citizens Advisory Committee on School Needs made public its report and recommendations for the decade ahead
+Y1  - 1959
+D1  - 12/1959
+SP  - 89
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Detroit (Michigan) Board of Education
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1959
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Detroit (Michigan) Board of Education. Department of Planning and Building Studies
+A2  - Detroit (Michigan) Community Planning for Community Schools Project
+T1  - Recommendations for new Eastern High School and family center
+Y1  - 1963
+D1  - 01/1963
+SP  - 230
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Detroit (Michigan) Community Planning for Community Schools Project
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1963
+SC  - Michigan
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Cushman, Edward
+A2  - Detroit High School Study Commission
+T1  - The report of the Detroit High School Study Commission
+Y1  - 1968
+D1  - 06/1968
+SP  - 353
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Detroit High School Study Commission
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1968
+SC  - Michigan
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Detroit Public Schools Staff Journal
+D1  - 1971
+KW  - School personnel
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Cubberley Education Library holdings 1971:Autumn; Detroit (Michigan) Public Schools
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1971
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Detroit (Michigan) Board of Education
+T1  - A report on immediate needs of public schools in areas affected by civil disturbances of July 1967
+Y1  - 1967
+D1  - 09/1967
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Detroit (Michigan) Board of Education
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1967
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools. Office of Research
+T1  - Be proud aloud! a study of a project for building school pride in Region One's Northern High School
+Y1  - 1973
+D1  - 1973
+SP  - 47
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Detroit (Michigan) Public Schools. Office of Research
+CY  - Detroit, MI
+LA  - English
+CN  - 379.741 .M3det 1973
+SC  - Michigan
+G1  - High school
+ER  -
+
+TY  - BOOK
+A1  - Lenhardt, Leroy
+A2  - Fitzgerald (Michigan) Public Schools
+T1  - Official prospectus $4,000,000 Fitzgerald public schools Macomb county, Michigan, 1968 building and site serial bonds
+Y1  - 1968
+D1  - 04/1968
+SP  - 12
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Fitzgerald (Michigan) Public Schools
+LA  - English
+CN  - 379.741 .M3fi 1968
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Flint (Michigan) Board of Education. Graduate Training Office
+T1  - Curriculum for a Master’s degree program in community education
+D1  - 1965?
+SP  - 29
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Flint (Michigan) Board of Education. Graduate Training Office
+CY  - Flint, MI
+LA  - English
+CN  - 379.741 .M3fl
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Flint (Michigan) Board of Education
+T1  - Educational program and administrative study
+Y1  - 1959
+D1  - 1959
+KW  - Schools
+N1  - Cubberley Education Library holdings v.3,5; Shelved in Cubberley Library Reading Room
+PB  - Flint (Michigan) Board of Education
+CY  - Flint, MI
+LA  - English
+CN  - 379.741 .M3fl
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Fordson (Michigan) Public Schools
+T1  - Superintendents annual report
+D1  - 1940-1941
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1940/1941; Shelved in Cubberley Library Reading Room
+PB  - Fordson (Michigan) Public Schools
+LA  - English
+CN  - 379.741 .M3fo
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - Annual report of the Board of Education of the City of Grand Rapids
+D1  - 1883-1934
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1883/1884-1932/1933/1933/1934; Shelved in Cubberley Library Reading Room
+PB  - Grand Rapids (Michigan) Board of Education
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 379.741 .M3g
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Superintendent of Schools
+T1  - Fifth annual report of W.A. Greeson Superintendent of Schools of the City of Grand Rapids, Michigan
+Y1  - 1911
+D1  - 07/1911
+SP  - 47
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Grand Rapids (Michigan) Superintendent of Schools
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 379.741 .M3g
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Grand Rapids (Michigan) Board of Education
+T1  - Our Grand Rapids schools a brief statement of our philosophy, objectives, practices
+Y1  - 1950
+D1  - 1950
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Grand Rapids (Michigan) Board of Education
+CY  - Grand Rapids, MI
+LA  - English
+CN  - 379.741 .M3g 1950
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Hamtramck (Michigan) Board of Education
+T1  - Finance procedures; techniques in accounting, budgeting, and service of supplies of the Hamtramck, Michigan, public schools
+Y1  - 1928
+D1  - 1928
+SP  - 16
+KW  - Public schools
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Hamtramck public schools research series
+V1  - 3
+PB  - Hamtramck (Michigan) Board of Education
+CY  - Hamtramck, MI
+LA  - English
+CN  - 379.741 .M3h 1928
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Hamtramck (Michigan) Board of Education
+T1  - The public school code of the Hamtramck, Michigan public schools
+Y1  - 1927
+D1  - 1927
+SP  - 260
+KW  - Public schools
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Hamtramck public schools research series
+V1  - 2
+PB  - Hamtramck (Michigan) Board of Education
+CY  - Hamtramck, MI
+LA  - English
+CN  - 379.741 .M3h 1927
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Hamtramck (Michigan) Board of Education
+T1  - Housing the children : a community project
+Y1  -1926
+D1  - 1926
+SP  - 123
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Hamtramck public schools research series
+V1  - 1
+PB  - Hamtramck (Michigan) Board of Education
+CY  - Hamtramck, MI
+LA  - English
+CN  - 379.741 .M3h 1926
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Hamtramck (Michigan) Board of Education
+T1  - The budget procedure of the Hamtramck, Michigan public schools
+Y1  - 1929
+D1  - 1929
+SP  - 156
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Hamtramck public schools research series
+V1  - 4
+PB  - Hamtramck (Michigan) Board of Education
+CY  - Hamtramck, MI
+LA  - English
+CN  - 379.741 .M3h 1929
+SC  - Michigan
+ER  -
+
+TY  - BOOK
+A2  - Michigan State University. Bureau of Educational Research Services
+T1  - Planning for school-community development Highland Park, Michigan
+Y1  - 1957
+D1  - 01/1957
+SP  - 99
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Michigan State University. Bureau of Educational Research Services
+CY  - East Lansing, MI
+LA  - English
+CN  - 379.741 .M3hi
+SC  - Michigan
+ER  - 
