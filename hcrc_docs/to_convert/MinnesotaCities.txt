@@ -1,0 +1,190 @@
+
+TY  - BOOK
+A2  - Duluth (Minnesota) Board of Education
+T1  - Annual report of the Board of Education of the City of Duluth, Minnesota
+D1  - 1892-1941
+KW  - Public schools
+N1  - Other titles Report of the public schools by the Board of Education of the independent school district of the city of Duluth, Minnesota (1913/1914),Report Board of Education (1920-),Annual report of the Duluth public schools (1939/1940-); Cubberley Education Library holdings 1892, 1894, 1897-1898/1901, 1913/1914, 1920-1926, 1939/1940-1940/1942; Shelved in Cubberley Library Reading Room
+PB  - Duluth (Minnesota) Board of Education
+CY  - Duluth, MN
+LA  - English
+CN  - 379.741 .M4d
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Board of Education
+T1  - Annual report of the Board of Education of the City of Minneapolis
+D1  - 1893-1914
+KW  - Public schools
+N1  - Other title Report of the Board of Education of the City of Minneapolis (1912/1914), Cubberley Education Library holdings 1893/1894-1894/1895-1912/1914; Shelved in Cubberley Library Reading Room
+PB  - Minneapolis (Minnesota) Board of Education
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Course of study Minneapolis Public Schools 1893-1894
+D1  - 1894?
+SP  - 52
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A1  - Reed, Carroll Roscoe
+A2  - Minneapolis Public Schools (Minnesota) Board of Education
+T1  - The enrichment of adult life in Minneapolis report of the superintendent of schools to the Board of Education
+Y1  - 1931
+D1  - 06/1931
+SP  - 103
+KW  - Adult education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Minneapolis Public Schools (Minnesota) Board of Education
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m 1931
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A1  - Faunce, R.W.
+A2  - Minneapolis (Minnesota) Public Schools. Office of Research, Development and Federal Programs. Research Division
+T1  - Drugs: a pilot survey of Minneapolis secondary school students
+Y1  - 1970
+D1  - 10/1970
+SP  - 75
+KW  - Drug abuse
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Minneapolis (Minnesota) Public Schools. Office of Research, Development and Federal Programs. Research Division
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m 1970
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis Public Schools (Minnesota) Board of Education
+T1  - Your schools today and tomorrow
+Y1  - 1944
+D1  - 05/1944
+SP  - 71
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Minneapolis Public Schools (Minnesota) Board of Education
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m 1944
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis Public Schools (Minnesota) Board of Education
+T1  - Financing the Minneapolis schools; sources of revenue; expenditures; comparison of principal items of expenditure with corresponding items in twenty-four other cities
+Y1  - 1916
+D1  - 09/1916
+SP  - 56
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Minneapolis Public Schools monograph series
+V1  - 2
+PB  - Minneapolis Public Schools (Minnesota) Board of Education
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m 1916
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis Public Schools (Minnesota) Board of Education
+T1  - A million a year a five-year school building program, including discussion of some fundamental educational policies
+Y1  - 1916
+D1  - 08/1916
+SP  - 90
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Minneapolis Public Schools monograph series
+V1  - 1
+PB  - Minneapolis Public Schools (Minnesota) Board of Education
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m 1916
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Minneapolis Public Schools (Minnesota) Board of Education
+T1  - The price of progress: legislative program of the Board of Education ; calls for authorization of increased revenues through tax levies and bond issues, and independence of the Board of Education in fixing the tax rate for educational purposes, subject only to maximum rates established by the legislature
+Y1  - 1916
+D1  - 11/1916
+SP  - 33
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Minneapolis Public Schools monograph series
+V1  - 2a
+PB  - Minneapolis Public Schools (Minnesota) Board of Education
+CY  - Minneapolis, MN
+LA  - English
+CN  - 379.741 .M4m 1916
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Rochester (Minn.). Board of Education
+T1  - Rochester Public Schools; report of the Board of Education
+D1  - 1912-1918
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1912/1918; Shelved in Cubberley Library Reading Room
+PB  - Rochester (Minn.). Board of Education
+CY  - Rochester, MN
+LA  - English
+CN  - 379.741 .M4r
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Rochester (Minnesota) City Schools
+T1  - Annual report of the Superintendent
+D1  - 1925-1934
+KW  - Public schools
+N1  - Title varies slightly; Cubberley Education Library holdings 1925/1935, 1903/1931, 1933/1934;  Shelved in Cubberley Library Reading Room
+PB  - Rochester (Minnesota) City Schools
+CY  - Rochester, MN
+LA  - English
+CN  - 379.741 .M4r
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Saint Paul (Minnesota) Board of School Inspectors
+T1  - Annual report of the Board of School Inspectors of the City of St. Paul for the school year ending ... and manual for the school year
+D1  - 1890-1911
+KW  - Public schools
+N1  - Other title Annual report of the Superintendent of School to the Board of School Inspectors of the City of St Paul (1890/1891); Cubberley Education Library holdings 1890/1891, 1894/1895-1895/1896, 1897/1898, 1900/1901-1901/1902, 1904/1905-1904/1906, 1908/1910; Shelved in Cubberley Library Reading Room
+PB  - Saint Paul (Minnesota) Board of School Inspectors
+CY  - Saint Paul, MN
+LA  - English
+CN  - 379.741 .M4s
+SC  - Minnesota
+ER  -
+
+TY  - BOOK
+A2  - Saint Paul (Minnesota) Department of Education
+T1  - Official bulletin of the Department of Education of the City of Saint Paul
+D1  - 1918
+KW  - Education
+N1  - Cubberley Education Library holdings April 1918; Shelved in Cubberley Library Reading Room
+PB  - Saint Paul (Minnesota) Department of Education
+CY  - Saint Paul, MN
+LA  - English
+CN  - 379.741 .M4s
+SC  - Minnesota
+ER  -
