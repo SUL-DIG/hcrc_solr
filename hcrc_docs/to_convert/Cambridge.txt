@@ -1,0 +1,324 @@
+
+TY  - BOOK
+A2  - Cambridge (Massachusetts) School Committee
+T1  - Report on primary school instruction made by a special committee to the School Committee of the city of Cambridge, May 18, 1893
+Y1  - 1893
+D1  - 05/1893
+SP  - 19
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Cambridge (Massachusetts) School Committee
+CY  - Cambridge, MA
+LA  - English
+CN  - 379.741 .M2ca
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Cambridge (Massachusetts) School Committee
+T1  - Report on grammar school instruction made by a special committee to the School Committee of the city of Cambridge, June 2, 1892
+Y1  - 1892
+D1  - 06/1892
+SP  - 31
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Cambridge (Massachusetts) School Committee
+CY  - Cambridge, MA
+LA  - English
+CN  - 379.741 .M2ca
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Cambridge (Massachusetts) School Committee
+T1  - An address to the people of Cambridge from the School Committee concerning a recent case of corporal punishment in the Allston Grammar School
+Y1  - 1866
+D1  - 1866
+SP  - 24
+KW  - Corporal punishment of children
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Cambridge (Massachusetts) School Committee
+CY  - Cambridge, MA
+LA  - English
+CN  - 379.741 .M2ca
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Chelmsford (Massachusetts) School Committee
+T1  - Annual report of the School Committee and the Superintendent of Schools
+D1  - 1914-1923
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1914/1915-1919/1920, 1921/1922-1922/1923; Shelved in Cubberley Library Reading Room
+PB  - Chelmsford (Massachusetts) School Committee
+CY  - Chelmsford, MA
+LA  - English
+CN  - 379.741 .M2ch
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Chelsea (Massachusetts) School Committee
+T1  - Annual report of the School Committee of the city of Chelsea
+D1  - 1857-1942
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1857/1858-1858, 1860, 1887-1889, 1891, 1893-1912, 1914/1915-1941/1942; Shelved in Cubberley Library Reading Room
+PB  - Chelsea, MA
+CY  - Chelsea (Massachusetts) School Committee
+LA  - English
+CN  - 379.741 .M2che
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Chicopee (Massachusetts) School Committee
+T1  - Annual report of the School Committee and of the superintendent of schools of the City of Chicopee for the year ending
+D1  - 1907-1946
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1907-1945/1946; Shelved in Cubberley Library Reading Room
+PB  - Chicopee (Massachusetts) School Committee
+CY  - Chicopee, MA
+LA  - English
+CN  - 379.741 .M2chi
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Clinton (Massachusetts) School Department
+T1  - School report
+D1  - 1910-1915
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1910/1911-1914/1915; Shelved in Cubberley Library Reading Room
+PB  - Clinton (Massachusetts) School Department
+CY  - Clinton, MA
+LA  - English
+CN  - 379.741 .M2cl
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Clinton (Massachusetts) School Department
+T1  - Annual report of the School Department
+D1  - 1915-1969
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1915/1916-1968/1969; Shelved in Cubberley Library Reading Room
+PB  - Clinton (Massachusetts) School Department
+CY  - Clinton, MA
+LA  - English
+CN  - 379.741 .M2cl
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Concord (Massachusetts) School Committee
+T1  - Annual report of the School Committee of Concord, Massachusetts
+D1  - 1891-1938
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1891/1892-1901/1902, 1903/1904-1937/1938; Shelved in Cubberley Library Reading Room
+PB  - Concord (Massachusetts) School Committee
+CY  - Concord, MA
+LA  - English
+CN  - 379.741 .M2co
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Dedham (Massachusetts) School Committee
+T1  - Annual report of the school committee of the town of Dedham
+D1  - 1918-1947
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1918-1942/1943, 1944/1945, 1946/1947; Shelved in Cubberley Library Reading Room
+PB  - Dedham (Massachusetts) School Committee
+CY  - Dedham, MA
+LA  - English
+CN  - 379.741 .M2de
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Dudley (Massachusetts) School Committee
+T1  - Annual report of the school committee Superintendent of Schools and supervisors of the town of Dudley for the year ending
+D1  - 1902-1930
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1902-1903, 1920/1921-1929/1930; Shelved in Cubberley Library Reading Room
+PB  - Dudley (Massachusetts) School Committee
+CY  - Dudley, MA
+LA  - English
+CN  - 379.741 .M2du
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Dudley (Massachusetts)
+T1  - Annual report of the town officers of the town of Dudley Massachusetts for the year ending
+D1  - 1931-1934
+KW  - Public finance
+N1  - Cubberley Education Library holdings 1931/1932-1933/1934; Shelved in Cubberley Library Reading Room
+PB  - Dudley (Massachusetts)
+CY  - Dudley, MA
+LA  - English
+CN  - 379.741 .M2du
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - East Bridgewater (Massachusetts) School Committee
+T1  - Annual report of the school committee and  Superintendent of Schools of the town of East Bridgewater
+D1  - 1912-1925
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1912/1913-1925; Shelved in Cubberley Library Reading Room
+PB  - East Bridgewater (Massachusetts) School Committee
+CY  - East Bridgewater, MA
+LA  - English
+CN  - 379.741 .M2e
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Everett (Massachusetts) School Committee
+T1  - Annual report of the school committee and Superintendent for the town of Everett
+D1  - 1890-1894
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1890/1891, 1893-1894; Shelved in Cubberley Library Reading Room
+PB  - Everett (Massachusetts) School Committee
+CY  - Everett, MA
+LA  - English
+CN  - 379.741 .M2ev
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Everett (Massachusetts) School Board
+T1  - Annual report of the school board of the city of Everett
+D1  - 1894-1914
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1894/1895-1908/1909, 1910/1911; 1913/1914 Shelved in Cubberley Library Reading Room
+PB  - Everett (Massachusetts) School Committee
+CY  - Everett, MA
+LA  - English
+CN  - 379.741 .M2ev
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Everett (Massachusetts) School Committee
+T1  - Annual report of the school committee
+D1  - 1916-1968
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1916/1917-1921/1922, 1923/1924-1964/1965, 1966/1967-1967/1968; Shelved in Cubberley Library Reading Room
+PB  - Everett (Massachusetts) School Committee
+CY  - Everett, MA
+LA  - English
+CN  - 379.741 .M2ev
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Fall River (Massachusetts) School Committee
+T1  - Annual school report of the city of Fall River
+D1  - 1885-1911
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1885/1886-1911; Shelved in Cubberley Library Reading Room
+PB  - Fall River (Massachusetts) School Committee
+CY  - Fall River, MA
+LA  - English
+CN  - 379.741 .M2f
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Fall River (Massachusetts) School Committee
+T1  - Annual report of the public schools of the city of Fall River
+D1  - 1913-1945
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1913-1945; Shelved in Cubberley Library Reading Room
+PB  - Fall River (Massachusetts) School Committee
+CY  - Fall River, MA
+LA  - English
+CN  - 379.741 .M2f
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - American Council on Education
+T1  - Public education and public finance in Fall River, Massachusetts a memorandum to the Board of Finance from the Educational Advisory Committee
+Y1  - 1933
+D1  - 07/1933
+SP - 19
+KW  - Public schools
+KW  - School finance
+N1  - Reprinted from the Educational Record, v.14 no.3; Shelved in Cubberley Library Reading Room
+PB  - American Council on Education
+CY  - Washington, DC
+LA  - English
+CN  - 379.741 .M2f
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - City of Fall River (Massachusetts)
+T1  - Rules and regulations of the public schools of the city of Fall River
+Y1  - 1894
+D1  - 1894
+SP  - 63
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1925-Shelved in Cubberley Library Reading Room
+PB  - City of Fall River (Massachusetts)
+CY  - Fall River, MA
+LA  - English
+CN  - 379.741 .M2f
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Falmouth (Massachusetts) School Department
+T1  - School report
+D1  - 1924-1930
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1924-1930; Shelved in Cubberley Library Reading Room
+PB  - Falmouth (Massachusetts) School Department
+CY  - Falmouth, MA
+LA  - English
+CN  - 379.741 .M2fa
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Fitchberg (Massachusetts) School Committee
+T1  - Annual report of the school committee of the City of Fitchberg
+D1  - 1898-1923
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1898-1915, 1918/1919, 1922/1923; Shelved in Cubberley Library Reading Room
+PB  - Fitchberg (Massachusetts) School Committee
+CY  - Fitchberg, MA
+LA  - English
+CN  - 379.741 .M2fi
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Framington (Massachusetts) School Committee
+T1  - Annual report of the board of school committee and the Superintendent of schools of the town of Framington
+D1  - 1907-1914
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1907/1908-1913/1914; Shelved in Cubberley Library Reading Room
+PB  - Framington (Massachusetts) School Committee
+CY  - Framington, MA
+LA  - English
+CN  - 379.741 .M2fr
+SC  - Massachusetts
+ER  -
+
+TY  - BOOK
+A2  - Framington (Massachusetts) School Department
+T1  - Annual report of the school department
+D1  - 1923-1937
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1923-1932. 1934-1937; Shelved in Cubberley Library Reading Room
+PB  - Framington (Massachusetts) School Department
+CY  - Framington, MA
+LA  - English
+CN  - 379.741 .M2fr
+SC  - Massachusetts
+ER  - 
