@@ -1,0 +1,122 @@
+
+TY  - BOOK
+A2  - Union School District (Concord, New Hampshire)
+T1  - School reports of the City of Concord, New Hampshire
+D1  - 1901-1907
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1901, 1903-1907; Shelved in Cubberley Library Reading Room
+PB  - Union School District (Concord, New Hampshire)
+CY  - Concord, NH
+LA  - English
+CN  - 379.741 .N12c
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - Concord (New Hampshire) Board of Education
+T1  - Annual school report
+D1  - 1910-1948
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1910-1917, 1921-1941/1942, 1947-1948; Shelved in Cubberley Library Reading Room
+PB  - Concord (New Hampshire) Board of Education
+CY  - Concord, NH
+LA  - English
+CN  - 379.741 .N12c
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - Dover (New Hampshire) School Committee
+T1  - Annual report of the School Committee
+D1  - 1868-1929
+KW  - Public schools
+N1  - Title varies, Cubberley Education Library holdings 1868/1869-1869, 1870, 1883/1884-1885/1886, 1887/1888-1929; Shelved in Cubberley Library Reading Room
+PB  - Dover (New Hampshire) School Committee
+CY  - Dover, NH
+LA  - English
+CN  - 379.741 .N12d
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - Dover (New Hampshire) Department of Public Instruction
+A2  - Dover (New Hampshire) City School Committee
+T1  - Annual report of the City School Committee
+D1  - 1871-1882
+KW  - Public schools
+N1  - Other title Annual report of the Board of Instruction (1878/1879-)Cubberley Education Library holdings 1871/1872-1874/1875, 1878/1879, 1880/1881-1881/1882; Shelved in Cubberley Library Reading Room
+CY  - Dover, NH
+LA  - English
+CN  - 379.741 .N12d
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - Dover (New Hampshire) School Committee
+T1  - Rules of the School Committee with extracts from the city charter
+Y1  - 1883
+D1  - 1883
+SP  - 23
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Dover (New Hampshire) School Committee
+CY  - Dover, NH
+LA  - English
+CN  - 379.741 .N12d
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - Keene (New Hampshire) Board of Education
+T1  - Report of the Board of Education of Union School District of the City of Keene
+D1  - 1921-1948
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1921/1922, 1923/1924-1931/1932, 1933/1934-1944/1945, 1946/1947-1947/1948; Shelved in Cubberley Library Reading Room
+PB  - Keene (New Hampshire) Board of Education
+CY  - Keene, NH
+LA  - English
+CN  - 379.741 .N12k
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - District Number Eight Old Home Association (Londonderry, New Hampshire)
+T1  - Londonderry, New Hampshire, School District Number Eight
+Y1  - 1908
+D1  - 1908
+SP  - 59
+KW  - Londonderry, N.H
+KW  - History
+N1  - Shelved in Cubberley Library Reading Room
+PB  - District Number Eight Old Home Association (Londonderry, New Hampshire)
+CY  - Londonderry, NH
+LA  - English
+CN  - 379.741 .N
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - Nashua (New Hampshire) Board of Education
+T1  - Annual report of the Board of Education and superintendent of schools of the city of Nashua
+D1  - 1897-1942
+KW  - Public schools
+N1  - Other titles Report of the Board of Education of the city of Nashua (1908-),Report of the Board of Education for the financial year (1924), Report of the board of education for the year (1925-),Annual report of the board of education for the year(1927-) Cubberley Education Library holdings 1897, 1899, 1902-1906, 1908—1918, 1920, 1923-1930, 1939-1942; Shelved in Cubberley Library Reading Room
+PB  - Nashua (New Hampshire) Board of Education
+CY  - Nashua, NH
+LA  - English
+CN  - 379.741 .N12n
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - Nashua (New Hampshire)
+T1  - Annual report of the municipal government of the City of Nashua, N.H., for the financial year
+D1  - 1931-1938
+KW  - Municipal government
+N1  - Cubberley Education Library holdings 1931-1932, 1934—1938; Shelved in Cubberley Library Reading Room
+PB  - Nashua (New Hampshire)
+CY  - Nashua, NH
+LA  - English
+CN  - 379.741 .N12n
+SC  - New Hampshire
+ER  -
