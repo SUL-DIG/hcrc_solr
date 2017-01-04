@@ -1,0 +1,124 @@
+
+TY  - BOOK
+A2  - Asheville (North Carolina) City Schools
+A2  - Asheville (North Carolina) School Committee
+T1  - Annual Report of the public schools of Asheville
+D1  - 1900-1902
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1900/1901-1901/1902; Shelved in Cubberley Library Reading Room
+PB  - Asheville (North Carolina) City Schools
+CY  - Asheville, NC
+LA  - English
+CN  - 379.741 .N5a
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Asheville (North Carolina) City Schools
+A2  - Asheville (North Carolina) School Committee
+T1  - Report for the ... years of the public schools of Asheville, N.C
+D1  - 1902-1911
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1902/1904-1909/1911; Shelved in Cubberley Library Reading Room
+PB  - Asheville (North Carolina) City Schools
+CY  - Asheville, NC
+LA  - English
+CN  - 379.741 .N5a
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Asheville (North Carolina) City Schools
+T1  - Rules and regulations for the public schools of the city of Asheville adopted Jan.4 1888, revised July 31, 1890 and May 7, 1901
+D1  - 1901?
+SP  - 11
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Asheville (North Carolina) City Schools
+CY  - Asheville, NC
+LA  - English
+CN  - 379.741 .N5a
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Charlotte (North Carolina) Board of Education
+T1  - Annual report of the Board of Education, Charlotte, N.C. for
+D1  - 1900-1902
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1900/1901-1901/1902; Shelved in Cubberley Library Reading Room
+PB  - Charlotte (North Carolina) Board of Education
+CY  - Charlotte, NC
+LA  - English
+CN  - 379.741 .N5c
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Charlotte (North Carolina) Board of School Commissioners
+T1  - By-laws and rules of the Board of School Commissioners of the City of Charlotte for 1914-1915
+D1  - 1815?
+SP  - 114
+KW  - School boards
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Charlotte (North Carolina) Board of School Commissioners
+CY  - Charlotte, NC
+LA  - English
+CN  - 379.741 .N5c
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Charlotte (North Carolina) Board of School Commissioners
+T1  - Annual reports, course of study and By-laws for the guidance of the Board of school commissioners of the City of Charlotte
+D1  - 1917-1920
+KW  - School boards
+KW  - Curricula
+N1  - Cubberley Education Library holdings 1917/1918, 1919/1920; Shelved in Cubberley Library Reading Room
+PB  - Charlotte (North Carolina) Board of School Commissioners
+CY  - Charlotte, NC
+LA  - English
+CN  - 379.741 .N5c
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Charlotte (North Carolina) Board of School Commissioners
+T1  - Annual reports of the Charlotte city schools
+D1  - 1925-1926
+KW  - Schools
+KW  - Teachers
+KW  - African American teachers
+N1  - Cubberley Education Library holdings 1925/1926; Shelved in Cubberley Library Reading Room
+PB  - Charlotte (North Carolina) Board of School Commissioners
+CY  - Charlotte, NC
+LA  - English
+CN  - 379.741 .N5c
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Winston (North Carolina) Board of School Commissioners
+T1  - Annual Report of the public schools of the city of Winston
+D1  - 1910-1912
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1910/1911-1911/1912; Shelved in Cubberley Library Reading Room
+PB  - Winston (North Carolina) Board of School Commissioners
+CY  - Winston, NC
+LA  - English
+CN  - 379.741 .N5w
+SC  - North Carolina
+ER  -
+
+TY  - BOOK
+A2  - Winston-Salem (North Carolina) Board of School Commissioners
+T1  - Annual Report of the public schools of the city of Winston
+D1  - 1913-1921
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1913/1914-1915/1916, 1919/1920-1920/1921; Shelved in Cubberley Library Reading Room
+PB  - Winston-Salem (North Carolina) Board of School Commissioners
+CY  - Winston-Salem, NC
+LA  - English
+CN  - 379.741 .N5w
+SC  - North Carolina
+ER  -
