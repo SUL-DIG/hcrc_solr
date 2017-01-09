@@ -1,0 +1,471 @@
+
+TY  - BOOK
+A2  - Aberdeen (Washington) Board of Education
+T1  - Our children at school
+SP  - 27
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Aberdeen (Washington) Board of Education
+CY  - Aberdeen, WA
+LA  - English
+CN  - 379.741 .W1a
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Bellingham (Washington) Board of Education
+T1  - Annual report of the Superintendent of schools Bellingham Washington
+D1  - 1909-1915
+KW  - Public schools
+N1  - Other title Bi-ennial report of the Superintendent of Schools (1913/1915); Cubberley Education Library holdings 1909/1910-1913/1915; Shelved in Cubberley Library Reading Room
+PB  - Bellingham (Washington) Board of Education
+CY  - Bellingham, WA
+LA  - English
+CN  - 379.741 .W1b
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Bellingham (Washington) Board of Education
+T1  - Rules of the Board of Education and the public schools of Bellingham School district no.301
+Y1  - 1921
+D1  - 05/1921
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Bellingham (Washington) Board of Education
+CY  - Bellingham, WA
+LA  - English
+CN  - 379.741 .W1b 1921
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Bellingham (Washington) Comptroller’s Office
+T1  - Annual report
+D1  - 920
+KW  - Public finance
+N1  - Cubberley Education Library holdings 1920; Shelved in Cubberley Library Reading Room
+PB  - Bellingham (Washington) Comptroller’s Office
+CY  - Bellingham, WA
+LA  - English
+CN  - 379.741 .W1b
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Everett (Washington) School Committee
+T1  - Annual report of the school committee
+D1  - 1962-1966
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1962/1963-1963/1964, 1965/1966; Shelved in Cubberley Library Reading Room
+PB  - Everett (Washington) School Committee
+CY  - Everett, WA
+LA  - English
+CN  - 379.741 .W1e
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - New Whatcom (Washington) Public Schools
+T1  - Report of the public schools of New Whatcom, Washington for the year ending … with course of study, rules and regulations
+D1  - 1892/1893
+KW  - Curricula
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1892/1893; Shelved in Cubberley Library Reading Room
+PB  - New Whatcom (Washington) Public Schools
+CY  - New Whatcom, WA
+LA  - English
+CN  - 379.741 .W1n
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Olympia (Washington) Public Schools
+T1  - Annual report of the public schools of the city of Olympia, Washington
+D1  - 1890-1891
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890/1891; Shelved in Cubberley Library Reading Room
+PB  - Olympia (Washington) Public Schools
+CY  - Olympia, WA
+LA  - English
+CN  - 379.741 .W1o
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Board of Education
+T1  - Annual report of the Board of Education of the city of Seattle
+D1  - 18901-1893
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890/1891/1892/1893; Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Board of Education
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - Annual report of the Board of Directors of Seattle school district no.1
+D1  - 1911-1915
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1911/1912-1914/1915; Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s
+SC  - Washington
+ER 
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - Secretary’s financial and statistical report Seattle School District no.1
+D1  - 1915-1977
+KW  - Public schools
+N1  - Other titles Financial and statistical report Seattle School District no.1, Annual report of the public schools for the year ending, Annual report of the Seattle public schools for the year ending, Financial and statistical report of the Seattle public schools District no.1 for the year ending, Annual Financial and statistical report for the year ending..,; Cubberley Education Library holdings: 1915/1916, 1931/1932-1938/1939, 1940/1941-1946/1947, 1948/1949-1950/1951, 1952/1953-1976/1977; Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - Annual report of the Superintendent
+D1  - 1945-1946
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1945/1946; Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Superintendent of Schools
+T1  - The Seattle schools: course of study and plan of promotion and classification
+Y1  - 1899
+D1  - 1899
+SP  - 111
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Superintendent of Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Office of Policy Planning
+T1  - Report on enrollment and racial distribution in Seattle Public Schools
+Y1  - 1977
+D1  - 04/1977
+SP  - 38
+KW  - School integration
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Office of Policy Planning
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s 1977
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Ayer, Fred
+A2  - Seattle (Washington) Board of Education
+T1  - Studies in administrative research
+Y1  - 1924
+D1  - 06/1924
+SP  - 117
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Seattle Public Schools Department of Research bulletin
+V1  - 1
+PB  - Seattle (Washington) Board of Education
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s 1924
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - Review of school costs 1930-1934 and revenue needs to maintain schools at efficient standards for 1935-1936
+D1  - 1935?
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s 1935
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - University of Washington
+T1  - A comparative study of attitudes and factors influencing the decision of Negro parents of seventh grade students to participate in the Seattle school transfer program to improve racial balance
+Y1  - 1965
+D1  - 07/1965
+KW  - School integration
+N1  - Shelved in Cubberley Library Reading Room
+T2  - University of Washington research brief
+V1  - 3
+IS  - 1
+PB  - University of Washington
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s 1965
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - A decade of school history 1930 - 1940
+D1  - 1940?
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s 1940
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Seattle (Washington) Public Schools
+T1  - Financial memorandum
+D1  - 1935-1936
+KW  - School finance
+N1  - Cubberley Education Library holdings 1935/1936; Shelved in Cubberley Library Reading Room
+PB  - Seattle (Washington) Public Schools
+CY  - Seattle, WA
+LA  - English
+CN  - 379.741 .W1s
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Spokane (Washington) Board of Education
+T1  - Biennial report of the public schools of Spokane, Washington
+D1  - 1902-1918
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1902/1904-1916/1918; Shelved in Cubberley Library Reading Room
+PB  - Spokane (Washington) Board of Education
+CY  - Spokane, WA
+LA  - English
+CN  - 379.741 .W1sp
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools
+T1  - of the public schools of Spokane, Washington
+D1  - 1922-1941
+KW  - Public schools
+N1  - Other titles Annual report for the year ending(1918/1919-1919/1920), Biennial report of the public schools of Spokane Washington(1894/1896,1898/1900-1900/1902 1916/1918),Annual report of the Superintendent of Schools for the year ending …and a study of the Platoon plan of school organization(1921/1922), Annual Report of the Secretary (1922/1923, 1924/1925, 1926/1927, 1933/1934-1934/1935-1935/1936), Biennial report of the Superintendent of Schools(1923/1924),Annual report of the Spokane Public Schools(1925/1926-1926/1927, 1927/1928-1933/1934, 1936/1937, 1938/1939-1940/1941) Statistical report of the Spokane public schools(1937/1938);  Cubberley Education Library holdings 1890/1891, 1894/1896, 1898/1900-1900/1902-1933/1934, 1936/1937, 1938/1939-1940/1941; Shelved in Cubberley Library Reading Room
+PB  - Spokane (Washington) Public Schools
+CY  - Spokane, WA
+LA  - English
+CN  - 379.741 .W1sp
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Pratt, Orville Clyde
+T1  - Spokane Public Schools: a brief history
+Y1  - 1943
+D1  - 06/1943
+SP  - 69
+KW  - Public schools
+N1  - Note contains Annual report for 1941-42; Shelved in Cubberley Library Reading Room
+CY  - Spokane, WA
+LA  - English
+CN  - 379.741 .W1sp 1943
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Spokane (Washington) Board of Education
+T1  - Handbook for elementary school principals
+Y1  - 1958
+D1  - 1958
+SP  - 107
+KW  - School management and organization
+KW  - School principals
+N1  - Shelved in Cubberley Library Reading Room
+ED  - Rev
+PB  - Spokane (Washington) Board of Education
+CY  - Spokane, WA
+LA  - English
+CN  - 379.741 .W1sp 1958
+SC  - Washington
+G1  - Elementary
+ER  -
+
+TY  - BOOK
+A2  - Spokane (Washington) Board of Education
+T1  - Personnel policies for certificated employees of School District 81
+y1  - 1960
+D1  - 1960
+SP  - 14
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Spokane (Washington) Board of Education
+CY  - Spokane, WA
+LA  - English
+CN  - 379.741 .W1sp 1960
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Spokane (Washington) Public Schools. Research Department
+T1  - A study of policies concerning department heads in school districts located in cities of 100,000 - 300,000 population
+Y1  - 1962
+D1  - 12/1962
+KW  - School administrators
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Spokane public schools research department report
+V1  - 7
+PB  - Spokane (Washington) Public Schools. Research Department
+CY  - Spokane, WA
+LA  - English
+CN  - 379.741 .W1sp 1962
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Tacoma (Washington) School District #10
+T1  - Annual report
+D1  - 1890-1892
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1890-1892; Shelved in Cubberley Library Reading Room
+PB  - Tacoma (Washington) School District #10
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Tacoma (Washington) Board of Education
+T1  - Annual report Board of education Tacoma City schools
+D1  - 1892-1894
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1892/1893-1893/1894; Shelved in Cubberley Library Reading Room
+PB  - Tacoma (Washington) Board of Education
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Tacoma (Washington) Public Schools
+T1  - Superintendent’s annual report
+D1  - 1904-1905
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1904/1905; Shelved in Cubberley Library Reading Room
+PB  - Tacoma (Washington) Public Schools
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Tacoma (Washington) School District #10
+T1  - Secretary’s annual report
+D1  - 1911-1931
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings: 1911/1912, 1915/1916-1930/1931; Shelved in Cubberley Library Reading Room
+PB  - Tacoma (Washington) School District #10
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Tacoma (Washington) School District #10
+T1  - Annual report
+D1  - 1931
+KW  - Public schools
+N1  - Other title Annual financial report(1943/1944, 1947/1948-1952/1953); Cubberley Education Library holdings 1931/1932-1944/1945, 1947/1948-1952/1953; Shelved in Cubberley Library Reading Room
+PB  - Tacoma (Washington) School District #10
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Tacoma (Washington) High School
+T1  - Instructors, courses of study and general information 1891-92
+D1  - 1891?
+SP  - 6
+KW  - High schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Tacoma (Washington) High School
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+G1  - High school
+ER  -
+
+TY  - BOO
+T1  - Course of Study and manual of instruction for the public schools of Tacoma Washington
+Y1  - 1897
+D1  - 1897
+SP  - 132
+KW  - Curricula
+N1  - Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+ER  -
+
+TY  - BOOK
+T1  - Course of Study and manual of instruction for the public schools of Tacoma Washington
+Y1  - 1901
+D1  - 09/1901
+SP  - 143
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Tacoma, WA
+LA  - English
+CN  - 379.741 .W1t
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Walla Walla (Washington) Board of Education
+T1  - Annual report of the Board of Education
+D1  - 1912-1923
+KW  - Public schools
+N1  - other title Triennial report of the Board of Education of the city of Walla Walla(1912/1915); Extracts from the Annual report of the Board of Education(1922/1923); Cubberley Education Library holdings 1912/1915, 1916/1917-1922/1923; Shelved in Cubberley Library Reading Room
+PB  - Walla Walla (Washington) Board of Education
+CY  - Walla Walla, WA
+LA  - English
+CN  - 379.741 .W1w
+SC  - Washington
+ER  -
+
+TY  - BOOK
+T1  - Course of study and report public schools
+D1  - 1908?
+SP  - 60
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Walla Walla, WA
+LA  - English
+CN  - 379.741 .W1w 1908/09
+SC  - Washington
+ER  -
