@@ -1,0 +1,447 @@
+
+TY  - BOOK
+A2  - Appleton (Wisconsin) Public Schools
+T1  - Catalogue of the public schools of the city of Appleton
+D1  - 1893-1904
+KW  - Public schools
+N1  - Cubberley Education Library holdings: 1893, 1895, 1897, 1900, 1904; Shelved in Cubberley Library Reading Room
+PB  - Appleton (Wisconsin) Public Schools
+CY  - Appleton, WI
+LA  - English
+CN  - 379.741 .W2
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Appleton (Wisconsin) Public Schools
+T1  - Manual of the public schools of the City of Appleton
+Y1  - 1893
+D1  - 1893
+SP  - 36
+KW  - Public schools
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Appleton (Wisconsin) Public Schools
+CY  - Appleton, WI
+LA  - English
+CN  - 379.741 .W2a
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Appleton (Wisconsin) Board of Education
+T1  - Annual report of the superintendent of schools
+D1  - 1907-1919
+KW  - Public schools
+N1  - Note: Reports for (1917-) have title:; Annual report of the city superintendent of schools; Cubberley Education Library holdings 1907-1919; Shelved in Cubberley Library Reading Room
+PB  - Appleton (Wisconsin) Board of Education
+CY  - Appleton, WI
+LA  - English
+CN  - 379.741 .W2a
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Appleton (Wisconsin) Public Schools
+T1  - Annual report of the public schools of Appleton Wisconsin
+D1  - 1920-1927
+KW  - Public schools
+N1  - Cubberley Education Library holdings 920-1925/1927; Shelved in Cubberley Library Reading Room
+PB  - Appleton (Wisconsin) Public Schools
+CY  - Appleton, WI
+LA  - English
+CN  - 379.741 .W2a
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Appleton (Wisconsin) Industrial School
+T1  - Annual report of the industrial school by the Superintendent of Schools
+D1  - 1914-1915
+KW  - Trade schools
+N1  - Note: Report for (1914/1915-) have title:; Annual report of the Appleton Industrial school; Cubberley Education Library holdings 1914-1914/1915; Shelved in Cubberley Library Reading Room
+PB  - Appleton (Wisconsin) Industrial School
+CY  - Appleton, WI
+LA  - English
+CN  - 379.741 .W2a
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Joint City School District no.1 of the City of Green Bay (Wisconsin) et al
+T1  - 1969-1970 Supplement to project 00-164 ESEA Title I; A program of enrichment opportunities for disadvanteged children. Phase VI; "B" budget for 1970-1971 inservice
+Y1  - 1970
+D1  - 06/1970
+KW  - School finance
+KW  - Children with social disabilities
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Joint City School District no.1 of the City of Green Bay (Wisconsin) et al
+CY  - Green Bay, WI
+LA  - English
+CN  - 379.741 .W2g 1969-70
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Joint City School District no.1 of the City of Green Bay (Wisconsin) et al
+T1  - 1970-1971 Project 10-182 ESEA Title 1; A program of enrichment opportunities for disadvantaged children, Phase VI
+D1  - 1971?
+SP  - 178
+KW  - Public schools
+N1  - Cubberley Education Library holdings ; Shelved in Cubberley Library Reading Room
+PB  - Joint City School District no.1 of the City of Green Bay (Wisconsin) et al
+CY  - Green Bay, WI
+LA  - English
+CN  - 379.741 .W2g 1970-71
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Kenosha (Wisconsin) Board of Education
+T1  - Report of the public schools
+D1  - 1910-1927
+KW  - Public schools
+N1  - Other titles Annual report(1921/1922), Report of the Superintendent of Schools(1922/1923);  Cubberley Education Library holdings: 1910/1911, 1912/1913, 1915/1916, 1921/1922-1922/1923, 1924/1925-1925/1927; Shelved in Cubberley Library Reading Room
+PB  - Kenosha (Wisconsin) Board of Education
+CY  - Kenosha, WI
+LA  - English
+CN  - 379.741 .W2k
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - La Crosse (Wisconsin) Board of Education
+T1  - Report of public schools of La Crosse, Wisconsin
+D1  - 1902-1936
+KW  - Public schools
+N1  - Title varies slightly, Cubberley Education Library holdings 1902/1904-1934/1936; Shelved in Cubberley Library Reading Room
+PB  - La Crosse (Wisconsin) Board of Education
+CY  - La Crosse, WI
+LA  - English
+CN  - 379.741 .W2l
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A1  - Josten, H. Margaret
+T1  - La Crosse a century of growth 1842-1942; a study guide with references and suggested activities
+Y1  - 1941
+D1  - 1941
+SP  - 53
+KW  - Study skills
+N1  - Shelved in Cubberley Library Reading Room
+CY  - La Crosse, WI
+LA  - English
+CN  - 379.741 .W2l 1941
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - La Crosse Area Public Schools, Joint District No. 5 (Wisconsin) Superintendent of Schools
+T1  - La Crosse city District public schools meeting the needs of youth: report of the superintendent of schools, 1952-1955
+Y1  - 1955
+D1  - 06/1955
+SP  - 38
+KW  - Schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - La Crosse Area Public Schools, Joint District No. 5 (Wisconsin) Superintendent of Schools
+CY  - La Crosse, WI
+LA  - English
+CN  - 379.741 .W2l 1955
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Board of Education
+T1  - Annual report of the public schools of Madison Wisconsin
+D1  - 1885-1943
+KW  - Public schools
+N1  - Title varies, 1941/1943 issued as biennial report, Cubberley Education Library holdings: 1885-1888, 1889/1890-1915/1916. 1928/1929-1941/1943; Shelved in Cubberley Library Reading Room
+PB  - Madison (Wisconsin) Board of Education
+CY  - Madison, WI
+LA  - English
+CN  - 379.741 .W2m
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Superintendent of Schools
+T1  - Annual report of the Superintendent of schools
+D1  - 1923-1928
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1923/1924-1924/1925, 1927/1928; Shelved in Cubberley Library Reading Room
+PB  - Madison (Wisconsin) Superintendent of Schools
+CY  - Madison, WI
+LA  - English
+CN  - 379.741 .W2m
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Administrative Committee on the Washington School Project
+T1  - Report to the administrative committee of the Madison schools and the University of Wisconsin on the Washington school project in Madison, Wisconsin during the academic year
+D1  - 1959?
+SP  - 18
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Administrative Committee on the Washington School Project
+LA  - English
+CN  - 379.741 .W2m 1959-60
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A1  - Fowlkes, John Guy
+A2  - University of Wisconsin
+T1  - Teachers’ salaries in Madison today and tomorrow
+Y1  - 1958
+D1  - 1958
+SP  - 31
+KW  - Teachers
+KW  - School finance
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of Wisconsin
+CY  - Madison, WI
+LA  - English
+CN  - 379.741 .W2 1958
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) School Board
+T1  - Annual report of the school board of the city of Milwaukee
+D1  - 1879-1897
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1879/1880-1896/1897; Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) School Board
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Board of School Directors
+T1  - Annual report of the Board of school directors of the city of Milwaukee
+D1  - 1897-1937
+KW  - Public schools
+N1  - Cubberley Education Library holdings: 1897/1898-1908/1909, 1910/1911, 1918/1919-1919/1920, 1921/1922-1923/1924, 1926/1927-1927/1928, 1930/1931-1931/1932, 1935/1936-1936/1937; Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Board of School Directors
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools. Office of Superintendent
+T1  - Annual report of the superintendent of schools
+D1  - 1926-1967
+KW  - Public schools
+N1  - Other title Superintendents annual report; Cubberley Education Library holdings: 1926-1927, 1929-1935, 1938-1958, 1960-1963-1966/1967; Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Public Schools. Office of Superintendent
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Board of School Directors
+T1  - Facts and figures 1965-66
+D1  - 1965?
+SP  - 30
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Board of School Directors
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi 1966
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A1  - Modlinski, Jules
+T1  - Federation of independent community schools an alternative urban school system
+Y1  - 1970
+D1  - 04/1970
+SP  - 48
+KW  - Free schools
+KW  - Urban education
+N1  - Shelved in Cubberley Library Reading Room
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi 1970
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Board of School Directors
+T1  - A five-year school building and future sites program, 1961-1965
+Y1  - 1960
+D1  - 1960
+SP  - 95
+KW  - School buildings
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Board of School Directors
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi 1960
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Board of School Directors
+T1  - Rules of the Board of School Directors
+Y1  - 1961
+D1  - 08/1961
+SP  - 158
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Board of School Directors
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2 1961
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Manual and roster of the Milwaukee public schools
+D1  - 1963-1964
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1963-1964; Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Complaints procedures
+D1  - 1961?
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi 1965
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Public Schools
+T1  - Catalog of in-service training opportunities
+Y1  - 1964
+D1  - 01/1964
+SP  - 13
+KW  - Teachers
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Milwaukee (Wisconsin) Public Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 379.741 .W2mi 1964
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Racine (Wisconsin) Public Schools
+T1  - Course of study
+Y1  - 1913
+D1  - 1913
+SP  - 144
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Racine (Wisconsin) Public Schools
+CY  - Racine, WI
+LA  - English
+CN  - 379.741 .W2r
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Racine (Wisconsin) Board of Education
+T1  - Manual and report of the Racine Public Schools containing report of the Superintendent, Courses of study, Rules and by-laws of the Board of Education
+D1  - 1903-1904
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1903/1904; Shelved in Cubberley Library Reading Room
+PB  - Racine (Wisconsin) Board of Education
+CY  - Racine, WI
+LA  - English
+CN  - 379.741 .W2r
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Racine (Wisconsin) Board of Education
+T1  - Annual report of the public schools
+D1  - 1915-1930
+KW  - Public schools
+N1  - Cubberley Education Library holdings: 1915/1916, 1917/1918, 1920/1921, 1924/1925, 1929/1930; Shelved in Cubberley Library Reading Room
+PB  - Racine (Wisconsin) Board of Education
+CY  - Racine, WI
+LA  - English
+CN  - 379.741 .W2r
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Board of Education
+T1  - Report of the public schools of the city of Superior Wisconsin
+D1  - 1901-1913
+KW  - Public schools
+N1  - Cubberley Education Library holdings: 1901, 1902/1904, 1905/1907, 1909/1911, 1911/1912-1912/1913; Shelved in Cubberley Library Reading Room
+PB  - Superior (Wisconsin) Board of Education
+CY  - Superior, WI
+LA  - English
+CN  - 379.741 .W2s
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Superior (Wisconsin) Public Schools
+T1  - Courses in literature, history and sociology
+Y1  - 1900
+D1  - 1900
+SP  - 21
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Superior (Wisconsin) Public Schools
+CY  - Superior, WI
+LA  - English
+CN  - 379.741 .W2s 1900
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Superior (Wisconsin)
+T1  - Charter provisions, by-laws, rules and regulations, course of study and suggestions to teachers
+Y1  - 1892
+D1  - 1892
+SP  - 47
+KW  - Curricula
+KW  - School management and organization
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Superior (Wisconsin)
+CY  - Superior, WI
+LA  - English
+CN  - 379.741 .W2s
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Superior (Wisconsin)
+T1  - Outline of the course of study for the public schools of the city of superior Wisconsin
+Y1  - 1902
+D1  - 1902
+SP  - 69
+KW  - Curricula
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Superior (Wisconsin)
+CY  - Superior, WI
+LA  - English
+CN  - 379.741 .W2s
+SC  - Wisconsin
+ER  - 
