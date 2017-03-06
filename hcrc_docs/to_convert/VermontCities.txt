@@ -1,0 +1,248 @@
+
+TY  - BOOK
+A2  - Barre (Vermont) Board of School Commissioners
+T1  - Annual school report of the City of Barre
+D1  - 1925-1951
+KW  - Public schools
+N1  - Other titles Annual school report, City of Barre, VT, Annual report of the Board of Commissioners of the City of Barre, Vermont; Cubberley Education Library holdings 1925/1926-1950/1951; Shelved in Cubberley Library Reading Room
+PB  - Barre (Vermont) Board of School Commissioners
+CY  - Barre, VT
+LA  - English
+CN  - 379.741 .V1b
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Burlington (Vermont) Board of School Commissioners
+T1  - Annual report of the Superintendent of Schools of the City of Burlington to the City Council
+D1  - 1892-1916
+KW  - Public schools
+N1  - Other title Manual and annual report of the Superintendent of Schools of the City of Burlington to the City Council(1892); Cubberley Education Library holdings 1892, 1895-1898, 1900-1916; Shelved in Cubberley Library Reading Room
+PB  - Burlington (Vermont) Board of School Commissioners
+CY  - Burlington, VT
+LA  - English
+CN  - 379.741 .V1bu
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - Annual report of the Board of School Commissioners and Superintendent of Schools of the City of Montpelier
+D1  - 1911-1960
+KW  - Public schools
+N1  - Other titles Annual report of the Superintendent of Schools of the City of Montpelier(1912/1913-1914/1915), Annual school report of the  City of Montpelier(1915/1916-1921/1922, 1923/1924), Annual report(1960); Cubberley Education Library holdings 1911/1912-1921/1922, 1923/1924,1960; Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Rutland (Vermont) Board of School Commissioners
+T1  - Manual and annual report of the school commissioners and Superintendent of the public schools of the City of Rutland
+D1  - 1897-1938
+KW  - Public schools
+N1  - Other titles School Manual and annual report of the school commissioners and Superintendent of the public schools of the City of Rutland(1902-1903),Annual report of the school commissioners and Superintendent of the public schools of the City of Rutland(1911/1912,1913/1914),Annual report of the City of Rutland (1920/1921-); Cubberley Education Library holdings 1897, 1901-1903, 1911/1912, 1913/1914, 1920/1921-1921/1922, 1923/1924, 1925/1926-1926/1927, 1929/1930-1934/1935, 1936/1937-1937/1938; Shelved in Cubberley Library Reading Room
+PB  - Rutland (Vermont) Board of School Commissioners
+CY  - Rutland, VT
+LA  - English
+CN  - 379.741 .V1r
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Rutland (Vermont)
+T1  - Municipal affairs
+D1  - 1938-1941
+KW  - Municipal government
+N1  - Cubberley Education Library holdings 1938/1939-1941/1942; Shelved in Cubberley Library Reading Room
+PB  - Rutland (Vermont)
+CY  - Rutland, VT
+LA  - English
+CN  - 379.741 .V1r
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - St. Albans (Vermont) Board of School Commissioners
+T1  - Annual report of the Board of School Commissioners
+D1  - 1912-1921
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1912/1913-1920/1921; Shelved in Cubberley Library Reading Room
+PB  - St. Albans (Vermont) Board of School Commissioners
+CY  - St. Albans, VT
+LA  - English
+CN  - 379.741 .V1s
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - What does your school believe
+Y1  - 1938
+D1  - 08/1938
+SP  - 7
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 22
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - A new day in music
+Y1  - 1934
+D1  - 04/1934
+SP  - 15
+KW  - Music
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 16
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - A look at the record
+Y1  - 1937
+D1  - 08/1937
+SP  - 13
+KW  - Educational tests and measurements
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 21
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - High school curriculum
+Y1  - 1927
+D1  - 04/1927
+SP  - 34
+KW  - Curricula
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 4
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - Creative English
+Y1  - 1932
+D1  - 03/1932
+SP  - 20
+KW  - English language
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 12
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - Healthful living
+Y1  - 1933
+D1  - 05/1933
+SP  - 11
+KW  - Physical education and training
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 14
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - Living art
+Y1  - 1933
+D1  - 01/1933
+SP  - 11
+KW  - Arts
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 13
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - Three years
+Y1  - 1933
+D1  - 08/1933
+SP  - 36
+KW  - Education
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 15
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - The high school curriculum: a guidebook for parents and students
+Y1  - 1935
+D1  - 03/1935
+SP  - 46
+KW  - Curricula
+KW  - High schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+T2  - Montpelier public schools bulletin
+V1  - 17
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+G1  - High school
+ER  -
+
+TY  - BOOK
+A2  - Montpelier (Vermont) Board of School Commissioners
+T1  - Montpelier Public schools bulletin
+D1  - 1925-1938
+KW  - Education
+N1  - Cubberley Education Library holdings 1925-1938; Shelved in Cubberley Library Reading Room
+PB  - Montpelier (Vermont) Board of School Commissioners
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.741 .V1m
+SC  - Vermont
+ER  - 
