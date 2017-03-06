@@ -1,0 +1,42 @@
+
+TY  - BOOK
+A2  - Wheatland (Wyoming) School District no.9
+T1  - Plans for Kitchen facilities
+KW  - Public schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Wheatland (Wyoming) School District no.9
+CY  - Wheatland, WY
+LA  - English
+CN  - 379.741 .W3w
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - University of Wyoming. Bureau of Educational Research and Service
+T1  - A survey of the Douglas schools
+Y1  - 1951
+D1  - 05/1951
+SP  - 67
+KW  - Public schools
+KW  - School buildings
+KW  - Educational surveys
+N1  - Shelved in Cubberley Library Reading Room
+PB  - University of Wyoming. Bureau of Educational Research and Service
+CY  - Laramie, WY
+LA  - English
+CN  - 379.741 .W3l
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Cheyenne (Wyoming) Public Schools
+T1  - Annual report of the Cheyenne public schools
+D1  - 1885-1886
+KW  - Public schools
+N1  - Cubberley Education Library holdings 1885/1886; Shelved in Cubberley Library Reading Room
+PB  - Cheyenne (Wyoming) Public Schools
+CY  - Cheyenne, WY
+LA  - English
+CN  - 379.741 .W3c
+SC  - Wyoming
+ER  - 
