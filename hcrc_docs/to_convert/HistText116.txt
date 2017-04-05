@@ -1,0 +1,643 @@
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - Mathematics for basic education, grade 9: a tentative guide
+Y1  - 1967
+D1  - 09/1967
+KW  - Mathematics
+PB  - Baltimore County Public Schools
+CY  - Baltimore, MA
+LA  - English
+CN  - 511.6 .B19m v. 3
+SC  - Maryland
+G1  - High school
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - Mathematics for basic education, grade 8: a tentative guide
+Y1  - 1967
+D1  - 09/1967
+KW  - Mathematics
+PB  - Baltimore County Public Schools
+CY  - Baltimore, MA
+LA  - English
+CN  - 511.6 .B19m v. 2
+SC  - Maryland
+G1  - High school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - Mathematics for basic education, grade 7: a tentative guide
+Y1  - 1967
+D1  - 09/1967
+KW  - Mathematics
+PB  - Baltimore County Public Schools
+CY  - Baltimore, MA
+LA  - English
+CN  - 511.6 .B19m v. 1
+SC  - Maryland
+G1  - High school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore County (Maryland) Public Schools
+T1  - Mathematics for basic education, grade 10: a tentative guide
+Y1  - 1967
+D1  - 09/1967
+KW  - Mathematics
+PB  - Baltimore County Public Schools
+CY  - Baltimore, MA
+LA  - English
+CN  - 511.6 .B19m v. 4
+SC  - Maryland
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - Social studies, volume 1: course of study for grades three and four
+Y1  - 1932
+D1  - 1932
+SP  - 508
+KW  - Social sciences
+PB  - Berkeley Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.9S2 .B512 v. 1
+SC  - California
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Course of study for the Latin schools
+Y1  - 1931
+D1  - 1931
+SP  - 25
+KW  - High school
+KW  - Curricula
+T2  - Boston Public Schools. School document
+V1  - 4
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 375.15 .B74c 1931
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Tentative course of study: arithmetic - grade V
+Y1  - 1937
+D1  - 1937
+SP  - 7
+KW  - Arithmetic
+T2  - Boston Public Schools. School document
+V1  - 6
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 511.2 .B74t 1937
+SC  - Massachusetts
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Spelling: determining the degree of difficulty of spelling words
+Y1  - 1915
+D1  - 10/1915
+SP  - 48
+KW  - Spelling
+N1  - Bulletin no. IV of the Department of Educational Investigation and Measurement
+T2  - Boston Public Schools. School document
+V1  - 10
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 428.1 .B74s 1915
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - Report of the Commission appointed June, 1906, to report on matters relating to the health of children attending the first three grades
+Y1  - 1907
+D1  - 01/1907
+SP  - 21
+KW  - Health and hygiene
+T2  - Boston Public Schools. School document
+V1  - 2
+PB  - Boston Public Schools
+CY  - Boston, MA
+LA  - English
+CN  - 613 .B74r 1907
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Board of Education
+T1  - Annual attendance book (September series)
+Y1  - 1902
+D1  - 1902-1903
+KW  - School attendance
+PB  - Chicago Board of Education
+CY  - Chicago, IL
+LA  - English
+CN  - 379.741 .C53a 1902
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Chicago (Illinois) Public Schools. Bureau of Curriculum
+T1  - Course of study in arithmetic: grades 7 and 8
+Y1  - 1939
+D1  - 1939
+SP  - 75
+KW  - Arithmetic
+PB  - Chicago Public Schools
+CY  - Chicago, IL
+LA  - English
+CN  - 511.5 .C53c 1939
+SC  - Illinois
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Shaftel, George
+A2  - California State Department of Education
+T1  - Our California heritage: conservation reader for seventh grade
+SP  - 398
+KW  - Conservation of natural resources
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15oc
+SC  - California
+G1  - Middle school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Johnston, Verna
+A2  - California State Department of Natural Resources. Conservation Education Section
+T1  - Natural areas for schools: designed to show how natural areas can be acquired and used in effective teaching
+Y1  - 1959
+D1  - 1959
+SP  - 32
+KW  - Conservation of natural resources
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15na 1959
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Klumb, John J.
+A2  - California State Department of Education
+T1  - Outdoor science and conservation education in the california public schools, 1959-1960
+Y1  - 1960
+D1  - 08/1960
+SP  - 33
+KW  - Conservation of natural resources
+KW  - Science
+KW  - Outdoor education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 631 .C15os 1960
+SC  - California
+G1  - Middle school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Biological principles in agriculture: a manual for high school agriculture teachers integrating biological principles with instruction in agriculture
+Y1  - 1963
+D1  - 08/1963
+SP  - 133
+KW  - Agricultural education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 630 .C15bp 1963
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of California, Berkeley
+T1  - What am I? a unit on human physiology: Part I: how I began, a comparative study of the development of human and chick embryos: teacher's manual
+Y1  - 1963
+D1  - 1963
+SP  - 54
+KW  - Human physiology
+N1  - Copyright 1961, second printing 1963; preliminary edition
+PB  - University of California, Berkeley
+CY  - Berkeley, CA
+LA  - English
+CN  - 612 .C152w 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Fletcher, Leon
+A2  - California State Department of Education
+T1  - Spotlight on science
+Y1  - 1964
+D1  - 1964
+SP  - 26
+KW  - Science
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15sp 1964
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Looking ahead in science: a report of the production seminar and conference on the improvement of science education in the elementary school, October 5-10, 1959
+Y1  - 1960
+D1  - 1960
+SP  - 88
+KW  - Science
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15La 1960
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Science curriculum development in the elementary school
+Y1  - 1964
+D1  - 1964
+SP  - 37
+KW  - Science
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .C15sc 1964
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Public Health
+T1  - Experiments for the science classroom based on air pollution problems
+Y1  - 1962
+D1  - 1962
+SP  - 48
+KW  - Science
+KW  - Pollution
+ED  - Revised
+PB  - California State Department of Public Health
+CY  - Berkeley, CA
+LA  - English
+CN  - 519 .C151es 1962
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Study project on programs for gifted pupils
+Y1  - 1958
+D1  - 01/1958
+SP  - 5
+KW  - Gifted children
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15sp 1958 pt. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Study project on programs for gifted pupils
+Y1  - 1958
+D1  - 05/1958
+SP  - 4
+KW  - Gifted children
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15sp 1958 pt. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Division of Instruction
+T1  - Selected programs for gifted pupils in California schools
+Y1  - 1958
+D1  - 06/1958
+SP  - 47
+KW  - Gifted children
+T2  - California State Department of Education. Division of Instruction. Bulletin
+V1  - 1
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15sg 1958
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Division of Instruction
+T1  - Educational programs for gifted pupils: a preliminary report to the 1960 session of the California State Legislature
+Y1  - 1960
+D1  - 01/1960
+SP  - 73
+KW  - Gifted children
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.9 .C15ep 1960
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Serving the California visitor: a business training guide for those who serve
+Y1  - 1957
+D1  - 03/1957
+SP  - 173
+KW  - Vocational education
+KW  - Tourism
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.4 .C15sc 1957
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of Colorado. Biological Sciences Curriculum Study
+T1  - The evaluation of BSCS high school biology
+Y1  - 1961
+D1  - 11/1961
+SP  - 16
+KW  - Biology
+T2  - BSCS newsletter
+V1  - 10
+PB  - University of Colorado
+CY  - Boulder, CO
+LA  - English
+CN  - 570 .C711e 1961
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Colorado. Biological Sciences Curriculum Study
+T1  - Laboratory issue
+Y1  - 1966
+D1  - 09/1966
+SP  - 18
+KW  - Biology
+T2  - BSCS newsletter
+V1  - 29
+PB  - University of Colorado
+CY  - Boulder, CO
+LA  - English
+CN  - 570 .C711L 1966
+SC  - Colorado
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Burbank (California) Unified School District
+T1  - How children learn to read
+Y1  - 1950
+D1  - 12/1950
+KW  - Reading
+T2  - Burbank schools
+V1  - 18
+PB  - Burbank Unified School District
+CY  - Burbank, CA
+LA  - English
+CN  - 428.4 .B94h 1950
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Atlanta (Georgia) High Schools
+T1  - A suggested basis of orientation for science instruction eighth grade junior high schools
+Y1  - 1938
+D1  - 1938
+SP  - 48
+KW  - Science
+T2  - Junior high science bulletin
+V1  - 2
+PB  - Atlanta High Schools
+CY  - Atlanta, GA
+LA  - English
+CN  - 519 .A85sb 1938
+SC  - Georgia
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Arlington Heights (Illinois) Public Schools
+T1  - Team teaching: a critical evaluation
+Y1  - 1967
+D1  - 07/1967
+KW  - Teaching teams
+N1  - 1966-67 Pilot Project at Dunton and Ivy Hill Schools of Arlington Heights Public Schools District 25; completed under the direction of John P. Eyman, Curriculum Director.
+PB  - Arlington Heights Public Schools
+CY  - Arlington Heights, IL
+LA  - English
+CN  - 375.13 .A721t
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Cleveland (Ohio) Public Schools
+T1  - Junior high school mathematics
+Y1  - 1922
+D1  - 1922
+SP  - 45
+KW  - Mathematics
+KW  - Curricula
+T2  - Cleveland Public Schools. Course of study and syllabus
+PB  - Cleveland Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 511.5 .C63jh 1922
+SC  - Ohio
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Miller, Clyde R.
+A2  - Cleveland (Ohio) Public Schools
+T1  - Give yourself a fair start - go to high school what it is why it pays
+Y1  - 1922
+D1  - 05/1922
+SP  - 48
+KW  - High school
+KW  - Curricula
+ED  - 2nd
+PB  - Cleveland Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 375.15 .C63g 1922
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Winterbottom, Kathleen
+A2  - Cleveland (Ohio) Public Schools
+T1  - The story of early Cleveland: curriculum material for social studies
+Y1  - 1948
+D1  - 1948
+SP  - 101
+KW  - History
+KW  - Curricula
+PB  - Cleveland Public Schools
+CY  - Cleveland, OH
+LA  - English
+CN  - 977 .C63st 1948
+SC  - Ohio
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Adams, Olga
+A2  - University of Chicago. The Laboratory School
+T1  - Is it true?
+Y1  - 1947
+D1  - 1947
+SP  - 21
+KW  - Zoology
+KW  - Milk
+PB  - National Dairy Council
+CY  - Chicago, IL
+LA  - English
+CN  - 590 .C53i 1947
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Wilson, H. B.
+A2  - Berkeley (California) Public Schools
+T1  - The course of study in the work of the modern school
+Y1  - 1922
+D1  - 01/1922
+SP  - 14
+KW  - Curricula
+KW  - Public schools
+PB  - Berkeley Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.83 .B51cs 1922
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Dickson, Virgil E.
+A2  - Berkeley (California) Board of Education
+T1  - The use of mental tests in school administration
+Y1  - 1922
+D1  - 06/1922
+SP  - 44
+KW  - Evaluation
+KW  - School administrators
+T2  - Berkeley Board of Education. Monograph
+V1  - 4
+PB  - Berkeley Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 379.74 .B51u 1922
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Robbins, Fred W.
+A2  - Bethlehem (Pennsylvania) Superintendent of Schools
+T1  - Graded number work for primary schools for the use of teachers
+Y1  - 1907
+D1  - 1907
+SP  - 49
+KW  - Arithmetic
+KW  - Elementary education
+KW  - Curricula
+PB  - Bethlehem Superintendent of Schools
+CY  - Bethlehem, PA
+LA  - English
+CN  - 511.2 .B55g 1907
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Beaumont (California) Public Schools
+T1  - Annual report on tests and classification in Beaumont Schools for 1929-1931
+Y1  - 1931
+D1  - 1929-1931
+SP  - 20
+KW  - Testing
+KW  - Elementary education
+PB  - Beaumont Public Schools
+CY  - Beaumont, CA
+LA  - English
+CN  - 375.13 .B39t 1931
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Boston (Massachusetts) Public Schools
+T1  - General science for intermediate grades
+Y1  - 1946
+D1  - 06/1946
+SP  - 287
+KW  - Science
+KW  - Curricula
+T2  - Boston Public Schools. School document
+V1  - 4
+PB  - Boston Public Schools
+CY  - Boston, MA
+CN  - 519 .B74gs 1946
+SC  - Massachusetts
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - English High School Association (Boston, Massachusetts)
+T1  - The English High School Association: its origin, its purpose, and what it has accomplished: address of President R. C. Waterston at the annual meeting, May 11, 1881
+Y1  - 1881
+D1  - 1881
+SP  - 46
+KW  - High school
+KW  - School buildings
+PB  - English High School Association
+CY  - Boston, MA
+LA  - English
+CN  - 379.74 .B74eh 1881
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
