@@ -1,0 +1,1140 @@
+ 
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - A teachers' guide for curriculum development: elementary section
+Y1  - 1935
+D1  - 1935
+SP  - 193
+KW  - Curricula
+KW  - Elementary education
+T2  - The Arkansas Cooperative Program To Improve Instruction. Bulletin
+V1  - 3
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AR
+LA  - English
+CN  - 375.13 .A71tg 1935
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - Study program
+Y1  - 1933
+D1  - 1933
+SP  - 153
+KW  - Curricula
+T2  - The Arkansas Cooperative Program To Improve Instruction. Bulletin
+V1  - 3
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AR
+LA  - English
+CN  - 375.81 .A71sp 1933
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas Congress of Parents and Teachers
+T1  - Parent cooperation in the Arkansas Cooperative Program to Improve Instruction: study program
+Y1  - 1934
+D1  - 1934
+SP  - 86
+KW  - Curricula
+KW  - Parent-teacher relationships
+PB  - Arkansas Congress of Parents and Teachers
+CY  - Little Rock, AR
+LA  - English
+CN  - 375.81 .A705p 1934
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A2  - Arkansas State Department of Education
+T1  - Procedures in production of curriculum materials
+Y1  - 1934
+D1  - 1934
+SP  - 130
+KW  - Curricula
+KW  - Teaching aids
+T2  - The Arkansas Cooperative Program To Improve Instruction. Bulletin
+V1  - 2
+PB  - Arkansas State Department of Education
+CY  - Little Rock, AR
+LA  - English
+CN  - 375.81 .A71pr 1934
+SC  - Arkansas
+ER  - 
+
+TY  - BOOK
+A1  - Richardson, Charlotte Thomas
+A1  - Patrick, Hickman
+A1  - Halbert, Marie Goodwin
+A1  - Vanskee, Martha
+A2  - University of Kentucky. Bureau of School Service
+T1  - Jerry and Tim grow strawberries
+Y1  - 1943
+D1  - 1943
+SP  - 36
+KW  - Fruit-culture
+PB  - University of Kentucky
+LA  - English
+CN  - 634 .K37j 1943
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Thomas, Charlotte Wright
+A1  - Vanskee, Martha
+A2  - University of Kentucky. Bureau of School Service
+T1  - Fun at the fair
+Y1  - 1942
+D1  - 1942
+SP  - 61
+KW  - Agricultural education
+T2  - The Smith family
+V1  - J
+PB  - University of Kentucky
+LA  - English
+CN  - 630 .K37f 1942
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A1  - Brooker, John W.
+A2  - Kentucky State Department of Education
+T1  - The effectiveness of secondary school curricular offerings in the occupational activities of graduates who do not attend accredited institutions of higher learning
+Y1  - 1943
+D1  - 07/1943
+KW  - Vocational education
+KW  - High school
+T2  - Kentucky State Department of Education. Educational bulletin
+V1  - 11
+IS  - 5
+PB  - Kentucky State Department of Education
+CY  - Lexington, KY
+LA  - English
+CN  - 371.401 .K37es 1943
+SC  - Kentucky
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Kentucky. Bureau of School Service
+T1  - Scientists look at resources: first report from Gatlinburg Conference III
+Y1  - 1948
+D1  - 06/1948
+SP  - 160
+KW  - Science
+KW  - Agricultural education
+T2  - University of Kentucky. Bureau of School Service. Bulletin
+V1  - 20
+IS  - 4
+PB  - University of Kentucky
+LA  - English
+CN  - 519 .K37sL 1948
+SC  - Kentucky
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Handbook of information for elementary teachers
+Y1  - 1958
+D1  - 1958
+SP  - 160
+KW  - Elementary education
+T2  - Los Angeles (California) City School Districts. Division of Instructional Services. Publication
+V1  - 437
+PB  - Los Angeles (California) City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 375.13 .L87h 1958
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Aiken, Mary Louise
+A2  - Connecticut State Department of Education
+T1  - Educational implications of the air age
+Y1  - 1944
+D1  - 09/1944
+SP  - 100
+KW  - Aeronautics
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 521.9 .C75ed 1944
+SC  - Connecticut
+ER  - 
+
+TY  - BOOK
+A1  - Braun, Gertrude E.
+A1  - James, May Hall
+A2  - Connecticut State Department of Education
+T1  - Connecticut biography selected and annotated for high schools and colleges: a bibliography
+Y1  - 1944
+D1  - 08/1944
+SP  - 39
+KW  - Connecticut
+KW  - Biography
+T2  - Connecticut State Department of Education. Curriculum laboratory bulletin
+V1  - 7
+PB  - Connecticut State Department of Education
+CY  - Hartford, CT
+LA  - English
+CN  - 974 .C75co 1944
+SC  - Connecticut
+G1  - High school
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Committee on the Undergraduate Program in Mathematics
+T1  - Mathematics text materials for the undergraduate preparation of elementary school teachers
+Y1  - 1965
+D1  - 11/1965
+SP  - 20
+KW  - Mathematics
+KW  - Elementary education
+PB  - Committee on the Undergraduate Program in Mathematics
+CY  - Berkeley, Ca
+LA  - English
+CN  - 511.3 .C731m 1965
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Shriber, Joseph H.
+A1  - Hopkins, L. Thomas
+A2  - University of Colorado
+T1  - Improving rural school instruction and supervision in Colorado
+Y1  - 1925
+D1  - 01/1925
+SP  - 99
+KW  - Rural schools
+T2  - University of Colorado bulletin
+V1  - 25
+IS  - 1
+PB  - University of Colorado
+CY  - Boulder, CO
+LA  - English
+CN  - 375.84 .C711i 1925
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - University of Colorado
+T1  - Latin and Greek in education
+Y1  - 1914
+D1  - 09/1914
+SP  - 37
+KW  - Latin language
+KW  - Greek language
+T2  - University of Colorado bulletin
+V1  - 14
+IS  - 9
+PB  - University of Colorado
+CY  - Boulder, CO
+LA  - English
+CN  - 375.9L11 .C7111L 1914
+SC  - Colorado
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - General science (ninth grade) and biology (tenth grade) course of study
+Y1  - 1951
+D1  - 08/1951
+SP  - 83
+KW  - Biology
+KW  - Science
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 570 .N86g 1951
+SC  - North Dakota
+G1  - High school
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Education
+T1  - Course outline for North Dakota high schools: geology
+Y1  - 1952
+D1  - 1952
+SP  - 19
+KW  - Geology
+KW  - Curricula
+N1  - Cover title: Geology in secondary schools
+PB  - North Dakota State Department of Education
+CY  - Bismarck, ND
+LA  - English
+CN  - 550 .N873c 1952
+SC  - North Dakota
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - Elementary Education
+D1  - 1931?
+KW  - Elementary education
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.13 .B51e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Berkeley (California) Public Schools
+T1  - Kindergarten
+Y1  - 1931
+D1  - 1931
+KW  - Kindergarten
+KW  - Curricula
+T2  - Course of study monographs: elementary schools
+V1  - 16
+PB  - Berkeley (California) Public Schools
+CY  - Berkeley, CA
+LA  - English
+CN  - 375.12 .B51k 1931
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Baltimore (Maryland) Department of Education
+T1  - Course of study: art for secondary schools grades seven to twelve inclusive
+Y1  - 1945
+D1  - 1945
+KW  - Art
+PB  - Baltimore (Maryland) Department of Education
+CY  - Baltimore, MD
+LA  - English
+CN  - 740 .B19c 1945
+SC  - Maryland
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Improving instruction through audio-visual media: techniques in teaching mathematics, science, and modern foreign languages
+Y1  - 1963
+D1  - 1963
+SP  - 70
+KW  - Audio-visual materials
+KW  - Mathematics
+KW  - Science
+KW  - Modern languages
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.3095 .C15i 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - New Media and changing educational patterns
+Y1  - 1966
+D1  - 1966
+SP  - 83
+KW  - Audio-visual materials
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.3095 .C15n 1966
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Handbook of information on credentials for public school service
+Y1  - 1953
+D1  - 1953
+SP  - 70
+KW  - Teacher certification
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15h 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Board of Vocational Education
+A2  - California State Bureau of Agricultural Education
+T1  - Handbook for special teachers of food production war training classes
+Y1  - 1944
+D1  - 05/1944
+SP  - 50
+KW  - Agricultural education
+PB  - California State Board of Vocational Education
+CY  - San Luis Obispo, CA
+LA  - English
+CN  - 630 .C15h 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Aviation education in California public schools
+Y1  - 1944
+D1  - 09/1944
+SP  - 56
+KW  - Aeronautics
+T2  - California State Department of Education. Bulletin
+V1  - 13
+IS  - 5
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 521.9 .C15a 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education
+T1  - Radio log for the California listener
+Y1  - 1940
+D1  - 1940?
+KW  - Educational radio programs
+N1  - Prepared by Radio Division W.P.A. Education Program
+PB  - California State Department of Education
+CY  - San Francisco, CA
+LA  - English
+CN  - 371.3096 .C15r
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California Teachers Association
+A2  - California Association of School Administrators
+A2  - California Elementary School Administrators Association
+A2  - California Association of Secondary School Administrators
+A2  - California Junior College Association
+A2  - California Association for Supervision and Curriculum Development
+T1  - Judging and improving the schools: curent issues
+Y1  - 1960
+D1  - 1960
+SP  - 15
+KW  - Educational change
+T2  - California Teachers Association. Bulletin
+V1  - 6
+PB  - California Teachers Association
+CY  - Burlingame, CA
+LA  - English
+CN  - 370.6 .C1522b no. 6
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Division of State Colleges and Teacher Education
+T1  - Scholarships: a guide for counselors, parents, students, teachers
+Y1  - 1957
+D1  - 10/1957
+SP  - 50
+KW  - Scholarships
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.45 .C15s 1957
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Agricultural Education
+T1  - Housing and equipment for agricultural education
+Y1  - 1958
+D1  - 1958
+SP  - 39
+KW  - Agricultural education
+PB  - California State Department of Education
+CY  - Sacramento, CA
+LA  - English
+CN  - 379.74 .C15ho 1958
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Spring wildflowers
+Y1  - 1956
+D1  - 02/1956
+SP  - 16
+KW  - Wild flowers
+T2  - The Kansas school naturalist
+V1  - 2
+IS  - 3
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 581 .K14sp 1956
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Life in a pond
+Y1  - 1957
+D1  - 02/1957
+SP  - 16
+KW  - Pond ecology
+T2  - The Kansas school naturalist
+V1  - 3
+IS  - 3
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 591 .K14L 1957
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Children's books for nature study
+Y1  - 1956
+D1  - 12/1956
+SP  - 16
+KW  - Nature study
+KW  - Bibliography
+T2  - The Kansas school naturalist
+V1  - 3
+IS  - 2
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 519 .K14c 1956
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Turtles in Kansas
+Y1  - 1956
+D1  - 04/1956
+SP  - 16
+KW  - Turtles
+T2  - The Kansas school naturalist
+V1  - 2
+IS  - 4
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 598.1 .K14t 1956
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Hawks in Kansas
+Y1  - 1956
+D1  - 10/1956
+SP  - 16
+KW  - Hawks
+KW  - Birds
+T2  - The Kansas school naturalist
+V1  - 3
+IS  - 1
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 598.2 .K14h 1956
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Teachers College, Emporia
+T1  - Snow
+Y1  - 1955
+D1  - 12/1955
+SP  - 16
+KW  - Snow
+KW  - Weather
+T2  - The Kansas school naturalist
+V1  - 2
+IS  - 2
+PB  - Kansas State Teachers College
+CY  - Emporia, KS
+LA  - English
+CN  - 521.2 .K14s 1955
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+T1  - Teacher's handbook: consumer education
+D1  - 1941?
+SP  - 27
+KW  - Consumer education
+KW  - Bibliography
+ED  - Revised
+PB  - Grand Rapids Herald-Review
+CY  - Grand Rapids, MN
+LA  - English
+CN  - 339.4 .G75t
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Transportation
+Y1  - 1952
+D1  - 1952
+SP  - 116
+KW  - Transportation
+KW  - California
+T2  - Fresno County (California) Schools. Community life booklet
+V1  - 7
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 979.4 .F88c v. 7 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Our fruit crops in the San Joaquin Valley
+Y1  - 1952
+D1  - 1952
+SP  - 100
+KW  - Fruit culture
+KW  - Fruit trade
+KW  - California
+T2  - Fresno County (California) Schools. Community life booklet
+V1  - 6
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 979.4 .F88c v. 6 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Great Britain Board of Education
+T1  - Suggestions on health education for the consideration of teachers and others concerned in the health and education of school children
+Y1  - 1939
+D1  - 1939
+SP  - 118
+KW  - Health education
+PB  - His Majesty's Stationery Office
+CY  - London, UK
+LA  - English
+CN  - 613 .G786h 1939
+SC  - United Kingdom
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Music guide: integrating music with language arts and social studies
+Y1  - 1952
+D1  - 09/1952
+KW  - Music in education
+KW  - Language arts
+KW  - Social sciences
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F88m 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools. Audio-Visual Education Department
+T1  - Audio-Visual materials: intermediate catalog
+Y1  - 1953
+D1  - 02/1953
+SP  - 115
+KW  - Audio-visual materials
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 371.3095 .F88a 1953 v. 2
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools. Audio-Visual Education Department
+T1  - Audio-Visual materials for 7th and 8th grades
+Y1  - 1953
+D1  - 09/1953
+SP  - 133
+KW  - Audio-visual materials
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 371.3095 .F88a 1953 v. 3
+SC  - California
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools. Audio-Visual Education Department
+T1  - Audio-Visual materials for secondary schools: driver education
+Y1  - 1953
+D1  - 04/1953
+SP  - 10
+KW  - Audio-visual materials
+KW  - Automobile driver education
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 371.76 .F88a 1953
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools. Audio-Visual Education Department
+T1  - Audio-Visual materials for secondary schools: health and safety
+Y1  - 1953
+D1  - 09/1953
+SP  - 20
+KW  - Audio-visual materials
+KW  - Health education
+KW  - Safety education
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88a 1953
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Reed, Edgar
+T1  - A study of the relative achievement of pupils in class A, class B, and class C high schools in the state of Kansas
+Y1  - 1939
+D1  - 1939
+SP  - 34
+KW  - High schools
+N1  - "A thesis presented to the Graduate Faculty of the Fort Hays Kansas State College in partial fulfillment of the requirements for the Degree of Master of Science"
+PB  - Fort Hays Kansas State College
+CY  - Hays, KS
+LA  - English
+CN  - 375.15 .K16sp 1939
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Horn, W. R.
+T1  - A study of music education in the senior high schools of western Kansas
+Y1  - 1939
+D1  - 1939
+SP  - 55
+KW  - Music education
+KW  - High schools
+N1  - "A thesis presented to the Department of Education and the Graduate Council of the Fort Hays Kansas State College in partial fulfillment of the requirements for the Degree of Master of Science"
+PB  - Fort Hays Kansas State College
+CY  - Hays, KS
+LA  - English
+CN  - 780 .K16s 1939
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Frasher, Ernest E.
+A1  - Heckman, Archie
+A1  - Sinclair, Ida
+A1  - Barstad, Lars
+A2  - Fresno County (California) Schools
+T1  - A study of one European culture with emphasis on England
+Y1  - 1953
+D1  - 1953
+KW  - Great Britain
+KW  - History
+KW  - Social sciences
+N1  - Cover title: Seventh Grade Social Studies: a unit of work on one European culture; center of interest: England's contribution to civilization; For use in advance workshop, Fall, 1953.
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 942 .F88s 1953
+SC  - California
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A1  - Jowett, Harriet
+A1  - Doris, Ed
+A2  - Fresno County (California) Schools
+T1  - Growth of California: a unit in social studies for grade 4
+Y1  - 1953
+D1  - 0/1953
+SP  - 14
+KW  - California
+KW  - History
+KW  - Social sciences
+N1  - Cover title: California: a teacher's handbook for Growth of California; "This is one in a series of five social studies units for Grade 4."
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 979.4 .F88g 1953
+SC  - California
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Grain: a unit in social studies for grade 3
+Y1  - 1953
+D1  - 08/1953
+SP  - 15
+KW  - Social sciences
+N1  - Cover title: Grain teachers' handbook
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 641 .F88g 1953
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - The classroom teacher and the school health program
+Y1  - 1954
+D1  - 1954
+SP  - 10
+KW  - Health education
+KW  - Safety education
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88c 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Colonial life on the eastern seaboard
+Y1  - 1954
+D1  - 1954
+SP  - 26
+KW  - United States history
+KW  - Social sciences
+N1  - "A resource unit prepared for teachers of fifth grade social studies"
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 973 .F88c 1954
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Dairying and raising livestock
+Y1  - 1954
+D1  - 1954
+SP  - 28
+KW  - Dairying
+KW  - Livestock
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 637 .F88d 1954
+SC  - California
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - South American neighbors
+Y1  - 1954
+D1  - 1954
+SP  - 23
+KW  - South America
+KW  - Social sciences
+N1  - "A sixth grade social studies unit"
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 980 .F88s 1954
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Walker, Eve
+A2  - Fresno County (California) Schools
+T1  - Art: a plan for art experiences for the children of Fresno County
+Y1  - 1955
+D1  - 1955
+SP  - 173
+KW  - Art
+KW  - Curricula
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 740 .F88a 1955
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Helping children with reading difficulties
+Y1  - 1956
+D1  - 1956
+SP  - 32
+KW  - Reading
+N1  - "Suggestions for corrective work in Grades 4-8 for children who need reading instruction at a primary level"
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 428.4 .F88h 1956
+SC  - California
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - The sound way to good speech
+Y1  - 1956
+D1  - 1956
+SP  - 172
+KW  - Speech
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 428.7 .F88s 1956
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Teacher's library: professional books
+Y1  - 1957
+D1  - 1957
+SP  - 91
+KW  - Teaching
+KW  - Bibliography
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 016 .F88t 1957
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - Course of study for art in the secondary schools of Fresno, California
+SP  - 54
+KW  - Art
+KW  - Curricula
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 740 .F87c
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) City Unified School District
+T1  - Evaluation survey of secondary guidance
+Y1  - 1960
+D1  - 1959-1960
+SP  - 58
+KW  - Guidance
+KW  - Secondary education
+N1  - Cover title: Secondary guidance survey
+PB  - Fresno City Unified School District
+CY  - Fresno, CA
+LA  - English
+CN  - 371.45 .F87e 1960
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Geography of the United States
+Y1  - 1953
+D1  - Fall, 1953
+SP  - 34
+KW  - Geography
+KW  - United States
+KW  - Social sciences
+N1  - "A resource unit prepared for teachers of fifth grade social studies"; "Presented at the Workshop For Experienced Teachers, Fall, 1953"
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 910 .F88g 1953
+SC  - California
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education. Division of Negro Education
+T1  - Guide to life-related teaching in the negro high schools of Georgia
+Y1  - 1938
+D1  - 10/1938
+SP  - 84
+KW  - African Americans
+KW  - High schools
+N1  - Georgia Program for the Improvement of Instruction in the Public Schools
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.15 .G35g 1938
+SC  - Georgia
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+A2  - Georgia State Department of Natural Resources
+T1  - Natural resources of Georgia
+Y1  - 1938
+D1  - 07/1938
+SP  - 222
+KW  - Natural resources
+N1  - Georgia Program for the Improvement of Instruction in the Public Schools
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 631 .G35n 1938
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Georgia State Department of Education
+T1  - The new curriculum at work
+Y1  - 1938
+D1  - 05/1938
+SP  - 84
+KW  - Curricula
+N1  - Georgia Program for the Improvement of Instruction in the Public Schools
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 375.9 .G35n 1938
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Superintendent of Schools
+T1  - Kindergarten days
+SP  - 29
+KW  - Kindergarten
+PB  - Fresno County Superintendent of Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 375.12 .F88k
+SC  - California
+G1  - Elementary
+G2  - Kindergraten
+ER  - 
+
+TY  - BOOK
+A1  - Cook, Elaine Forsyth
+T1  - Map reading: a series of lessons for use in the junior high school
+Y1  - 1944
+D1  - 1944
+SP  - 62
+KW  - Map reading
+T2  - Geographic education series
+PB  - McKnight & McKnight
+CY  - Bloomington, IL
+LA  - English
+CN  - 912 .C765m
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Evans, Eva Knox
+A1  - Giles, Mary
+T1  - Let's raise pigs
+Y1  - 1943
+D1  - 1943
+SP  - 37
+KW  - Swine
+PB  - West Georgia College
+CY  - Carrollton, GA
+LA  - English
+CN  - 636 .W51L 1943
+SC  - Georgia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Evans, Eva Knox
+A1  - Giles, Mary
+T1  - Let's plant grass
+Y1  - 1944
+D1  - 1944
+SP  - 31
+KW  - Grasses
+PB  - West Georgia College
+CY  - Carrollton, GA
+LA  - English
+CN  - 633 .W51L 1944
+SC  - Georgia
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gilmor, Mary Martha
+A2  - Greater Johnstown (Pennsylvania) Public Schools
+T1  - A student's manual for a science fair
+KW  - Science
+KW  - Science projects
+PB  - Greater Johnstown Public Schools
+CY  - Johnstown, PA
+LA  - English
+CN  - 519 .J61s
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - The educational program for migrant children: What can we do? Suggestions for pilot activities
+Y1  - 1955
+D1  - 1954-1955
+SP  - 4
+KW  - Migrant education
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 379.74 .F88e
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Joseph L.
+A2  - Jefferson Township Senior High School
+T1  - Skills required of the high school principal
+Y1  - 1957
+D1  - 11/1957
+SP  - 8
+KW  - School principals
+PB  - Jefferson Township Senior High School
+LA  - English
+CN  - 379.41 .J452s 1957
+ER  - 
+
