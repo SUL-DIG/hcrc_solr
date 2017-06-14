@@ -9679,6 +9679,20 @@ grade fourteen</field>
 <doc>
 <field name="type">Book</field>
 <field name="corp_author">Kalamazoo (Michigan) Public Schools</field>
+<field name="title">Resource guide in social studies: Kindergarten through grade twelve</field>
+<field name="keywords">Social sciences</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="publisher">Kalamazoo (Michigan) Public Schools</field>
+<field name="pub_place">Kalamazoo, MI</field>
+<field name="language">English</field>
+<field name="call_number">371.33 .K14t 1949</field>
+<field name="state_country">Michigan</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Kalamazoo (Michigan) Public Schools</field>
 <field name="title">Tentative resource guide in social studies: part I Kindergarten-primary area</field>
 <field name="keywords">Social sciences</field>
 <field name="year">1950</field>
