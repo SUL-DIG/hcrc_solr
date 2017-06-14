@@ -1,0 +1,1307 @@
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Public Schools
+T1  - Homemaking education: a tentative course of study for junior and senior high schools
+Y1  - 1937
+D1  - 1937
+SP  - 195
+KW  - Home economics
+T2  - Fort Worth Public Schools. Curriculum bulletin
+V1  - 185
+PB  - Fort Worth Public Schools
+CY  - Forth Worth, TX
+LA  - English
+CN  - 640 .F73h 1937
+SC  - Texas
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Public Schools
+T1  - Commercial: a tentative course of study for typewriting I, II, and III
+Y1  - 1937
+D1  - 1937
+SP  - 75
+KW  - Typewriting
+T2  - Fort Worth Public Schools. Curriculum bulletin
+V1  - 190
+PB  - Fort Worth Public Schools
+CY  - Forth Worth, TX
+LA  - English
+CN  - 652 .F73c 1937
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Public Schools
+T1  - Commercial: a tentative course of study for salesmanship
+Y1  - 1937
+D1  - 1937
+SP  - 52
+KW  - Selling
+KW  - Commerce
+T2  - Fort Worth Public Schools. Curriculum bulletin
+V1  - 196
+PB  - Fort Worth Public Schools
+CY  - Forth Worth, TX
+LA  - English
+CN  - 380 .F73c 1937
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Fort Worth (Texas) Public Schools
+T1  - Commercial: a tentative course of study for business arithmetic
+Y1  - 1937
+D1  - 1937
+SP  - 36
+KW  - Business mathematics
+T2  - Fort Worth Public Schools. Curriculum bulletin
+V1  - 193
+PB  - Fort Worth Public Schools
+CY  - Forth Worth, TX
+LA  - English
+CN  - 657.1 .F73c 1937
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - Fort Smith (Arkansas) Public Schools
+T1  - A teacher's manual of pupil guidance in arithmetic for elementary grades
+Y1  - 1937
+D1  - 1937
+SP  - 95
+KW  - Arithmetic
+T2  - Fort Smith Public Schools. Curriculum guidance series
+PB  - Fort Smith Public Schools
+CY  - Forth Smith, AR
+LA  - English
+CN  - 511.2 .F73t 1937
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Smith (Arkansas) Public Schools
+T1  - A teacher's manual of pupil guidance in library for elementary grades
+Y1  - 1937
+D1  - 1937
+SP  - 63
+KW  - Library instruction
+T2  - Fort Smith Public Schools. Curriculum guidance series
+PB  - Fort Smith Public Schools
+CY  - Forth Smith, AR
+LA  - English
+CN  - 027.8 .F73t 1937
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Smith (Arkansas) Public Schools
+T1  - A teacher's manual of pupil guidance in science for elementary grades
+Y1  - 1937
+D1  - 1937
+SP  - 78
+KW  - Science
+T2  - Fort Smith Public Schools. Curriculum guidance series
+PB  - Fort Smith Public Schools
+CY  - Forth Smith, AR
+LA  - English
+CN  - 519 .F73t 1937
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fort Smith (Arkansas) Public Schools
+T1  - Pupil guidance in public schools
+Y1  - 1937
+D1  - 1937
+SP  - 77
+KW  - Guidance
+T2  - Fort Smith Public Schools. Curriculum guidance series
+PB  - Fort Smith Public Schools
+CY  - Forth Smith, AR
+LA  - English
+CN  - 371.45 .F73p 1937
+SC  - Arkansas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Educational conditions in Idaho with special reference to the state educational institutions
+Y1  - 1914
+D1  - 06/1914
+SP  - 30
+KW  - Education
+T2  - State Board of Education of Idaho. Bulletin
+V1  - 1
+PB  - Idaho State Department of Education
+LA  - English
+CN  - 379.74 .I18e 1914
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A1  - Davis, Beverly Jeanne
+T1  - Chant of the centuries: a history of the humanities: the visual arts and their parallels in music and literature. Teacher's manual
+Y1  - 1969
+D1  - 1969
+SP  - 32
+KW  - Arts
+KW  - History
+PB  - W. S. Benson and Company
+CY  - Austin, TX
+LA  - English
+CN  - 700 .D25c 1969
+ER  - 
+
+TY  - BOOK
+A1  - Bureloff, Morris
+T1  - Contemporary reading shade-ins: primary
+Y1  - 1975
+D1  - 1975
+SP  - 42
+KW  - Reading
+KW  - Puzzles
+PB  - Prentice-Hall Learning Systems
+CY  - Englewood Cliffs, NJ
+LA  - English
+CN  - 428.4 .B94c 1975
+ER  - 
+
+TY  - BOOK
+A1  - Curley, Ed
+A1  - Curley, Maureen
+T1  - The sacraments: puzzles, games and individual activities for religious education
+Y1  - 1973
+D1  - 1973
+KW  - Religious education
+KW  - Puzzles
+N1  - 24 spirit duplicating masters
+T2  - Children of the kingdom activities series
+V1  - 6 intermediate
+PB  - Creative Sights and Sounds
+CY  - Dayton, OH
+LA  - English
+CN  - 377.1 .C97c 1973 v. 6
+ER  - 
+
+TY  - BOOK
+A1  - Curley, Ed
+A1  - Curley, Maureen
+T1  - The church feasts and seasons: puzzles, games and individual activities for religious education
+Y1  - 1973
+D1  - 1973
+KW  - Religious education
+KW  - Puzzles
+N1  - 24 spirit duplicating masters
+T2  - Children of the kingdom activities series
+V1  - 5 primary
+PB  - Creative Sights and Sounds
+CY  - Dayton, OH
+LA  - English
+CN  - 377.1 .C97c 1973 v.5
+ER  - 
+
+TY  - BOOK
+A1  - Curley, Ed
+A1  - Curley, Maureen
+T1  - Jesus' miracles: puzzles, games and individual activities for religious education
+Y1  - 1973
+D1  - 1973
+KW  - Religious education
+KW  - Puzzles
+N1  - 24 spirit duplicating masters
+T2  - Children of the kingdom activities series
+V1  - 4 intermediate
+PB  - Creative Sights and Sounds
+CY  - Dayton, OH
+LA  - English
+CN  - 377.1 .C97c 1973 v.4
+ER  - 
+
+TY  - BOOK
+A1  - Curley, Ed
+A1  - Curley, Maureen
+T1  - God's early helpers: puzzles, games and individual activities for religious education
+Y1  - 1973
+D1  - 1973
+KW  - Religious education
+KW  - Puzzles
+N1  - 24 spirit duplicating masters
+T2  - Children of the kingdom activities series
+V1  - 3 intermediate
+PB  - Creative Sights and Sounds
+CY  - Dayton, OH
+LA  - English
+CN  - 377.1 .C97c 1973 v.3
+ER  - 
+
+TY  - BOOK
+A1  - Curley, Ed
+A1  - Curley, Maureen
+T1  - Jesus and his friends: puzzles, games and individual activities for religious education
+Y1  - 1973
+D1  - 1973
+KW  - Religious education
+KW  - Puzzles
+N1  - 24 spirit duplicating masters
+T2  - Children of the kingdom activities series
+V1  - 2 primary
+PB  - Creative Sights and Sounds
+CY  - Dayton, OH
+LA  - English
+CN  - 377.1 .C97c 1973 v.2
+ER  - 
+
+TY  - BOOK
+A1  - Curley, Ed
+A1  - Curley, Maureen
+T1  - The beginning, creation and me: puzzles, games and individual activities for religious education
+Y1  - 1973
+D1  - 1973
+KW  - Religious education
+KW  - Puzzles
+N1  - 24 spirit duplicating masters
+T2  - Children of the kingdom activities series
+V1  - 1 primary
+PB  - Creative Sights and Sounds
+CY  - Dayton, OH
+LA  - English
+CN  - 377.1 .C97c 1973 v.1
+ER  - 
+
+TY  - BOOK
+A2  - University of Pennsylvania. Graduate School of Education
+T1  - Communication is key at the Guion Bluford Elementary School
+SP  - 29
+KW  - Educational evaluation
+KW  - Elementary schools
+N1  - Taking Stock/Making Change: a collaborative action research project
+PB  - University of Pennsylvania Graduate School of Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 379.74 .P42t v. 1
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Pennsylvania. Graduate School of Education
+T1  - Focusing on student voices at AMY Northwest
+SP  - 26
+KW  - Educational evaluation
+KW  - Middle schools
+N1  - Taking Stock/Making Change: a collaborative action research project
+PB  - University of Pennsylvania Graduate School of Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 379.74 .P42t v. 3
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - University of Pennsylvania. Graduate School of Education
+T1  - Focusing on student voices at AMY Northwest
+SP  - 26
+KW  - Educational evaluation
+KW  - Elementary schools
+KW  - Middle schools
+N1  - Taking Stock/Making Change: a collaborative action research project
+PB  - University of Pennsylvania Graduate School of Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 379.74 .P42t v. 4
+SC  - Pennsylvania
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Superintendent of Public Instruction
+T1  - Social studies program for Idaho public schools
+Y1  - 1963
+D1  - 1963
+SP  - 15
+KW  - Social sciences
+PB  - Idaho State Superintendent of Public Instruction
+CY  - Boise, ID
+LA  - English
+CN  - 371.33 .I18so 1963
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Planning a unit for primary grades
+Y1  - 1948
+D1  - 1948
+SP  - 7
+KW  - Elementary education
+KW  - Curricula
+N1  - As suggested by second grade section 1948 teachers workshop
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 375.12 .F88p 1948
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Living in the town (a social studies unit for grade one)
+Y1  - 1954
+D1  - 1954
+SP  - 53
+KW  - Social sciences
+KW  - Curricula
+N1  - Reprinted 1957
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 371.33 .F88L 1954
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - A unit of work on living in the country (first grade social studies)
+Y1  - 1953
+D1  - 1953
+SP  - 26
+KW  - Social sciences
+KW  - Curricula
+N1  - Reprinted 1957
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 371.33 .F88u 1953
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Florida State University
+T1  - Probing the natural world
+Y1  - 1968
+D1  - Fall, 1968
+KW  - Science
+N1  - Excursions 1
+PB  - Florida State University
+CY  - Tallahassee, FL
+LA  - English
+CN  - 519 .F636p 1968
+SC  - Florida
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - State-adopted textbooks in Florida: a catalog
+Y1  - 1970
+D1  - 1970-1971
+SP  - 46
+KW  - Textbooks
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.156 .F63s 1970
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Lusk, Howard D.
+A2  - University of Kentucky. College of Education
+T1  - An investigation of science education in selected Kentucky public elementary schools
+Y1  - 1959
+D1  - 06/1959
+SP  - 80
+KW  - Science
+T2  - University of Kentucky. Bureau of School Service. Bulletin
+V1  - 31
+IS  - 4
+PB  - University of Kentucky College of Education
+CY  - Lexington, KY
+LA  - English
+CN  - 519 .K37i 1959
+SC  - Kentucky
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - California State Department of Education. Bureau of Pupil Personnel Services
+T1  - Books about pupil personnel services: a list of books and pamphlets published between 1955 and 1961
+Y1  - 1962
+D1  - 01/1962
+SP  - 9
+KW  - Counseling
+KW  - Guidance
+KW  - Bibliography
+PB  - California State Department of Education. Bureau of Pupil Personnel Services
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.45 .C15b 1962
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - International Kindergarten Union
+T1  - Selected list of poetry and stories for children in kindergarten, first and second grades
+Y1  - 1928
+D1  - 1926-1928
+SP  - 23
+KW  - Children's literature
+PB  - International Kindergarten Union
+CY  - Washington, DC
+LA  - English
+CN  - 428.5 .I61s
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Givens, W. B.
+T1  - Playground apparatus
+Y1  - 1914
+D1  - 09/1914
+SP  - 29
+KW  - Playground equipment and supplies
+PB  - Fresno State Normal School
+CY  - Fresno, CA
+LA  - English
+CN  - 790 .F884p 1914
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Dairying and raising livestock in Fresno County
+Y1  - 1948
+D1  - 1948
+SP  - 47
+KW  - Dairying
+KW  - Livestock
+T2  - Community Life Booklet
+V1  - 1
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 979.4 .F88c v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Growing cotton in Fresno County
+Y1  - 1949
+D1  - 1949
+SP  - 63
+KW  - Cotton
+T2  - Community Life Booklet
+V1  - 3
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 979.4 .F88c v. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Our grain crops in Fresno County
+Y1  - 1950
+D1  - 1950
+SP  - 64
+KW  - Grain
+T2  - Community Life Booklet
+V1  - 5
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 979.4 .F88c v. 5
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii State Office of Instructional Services
+T1  - Man in his relationship to the natural and cultural environment: resource guide
+Y1  - 1972
+D1  - 1972
+SP  - 72
+KW  - Social sciences
+N1  - "Unofficial, TAC 72-4532."
+PB  - Hawaii State Office of Instructional Service
+CY  - Honolulu, HI
+LA  - English
+CN  - 371.33 .H38m v. 2
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Denver (Colorado) Public Schools
+T1  - The age of wings
+Y1  - 1944
+D1  - 02/1944
+SP  - 47
+KW  - Aeronautics
+N1  - "An instructional unit written by teachers for use in the Denver Junior High Schools"
+PB  - Denver Public Schools
+CY  - Denver, CO
+LA  - English
+CN  - 521.9 .D41a 1944
+SC  - Colorado
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Developing understandings for living in an air age
+Y1  - 1946
+D1  - 01/1946
+SP  - 36
+KW  - Aeronautics
+N1  - "A curriculum guide for air age education in Florida elementary and secondary schools."
+T2  - Florida State Department of Education. Bulletin.
+V1  - 51
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 521.9 .F63d 1946
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Growing cotton in Fresno County
+Y1  - 1955
+D1  - 1949-1955
+SP  - 63
+KW  - Cotton
+T2  - Community life booklet
+V1  - 3
+ED  - Revised
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 633 .F88g 1955
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Suggested school health and safety policies: a handbook for administrators
+Y1  - 1949
+D1  - 04/1949
+SP  - 74
+KW  - Health education
+KW  - Safety measures
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 613 .F88s 1949
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - A first report on reading in the secondary schools
+Y1  - 1949
+D1  - 06/1949
+SP  - 78
+KW  - Reading
+N1  - "A part of the curriculum study in language arts of the Fresno County schools"
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 428.4 .F88f 1949
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - Tentative elementary master music program, grades one to six
+Y1  - 1937
+D1  - 01/1937
+KW  - Music education
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F87t 1937
+SC  - California
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - Tentative general music program for the junior high school level
+Y1  - 1941
+D1  - 09/1941
+KW  - Music education
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 780 .F87t 1941
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) Union High School District
+T1  - Basic furniture and equipment for a high school
+Y1  - 1958
+D1  - 12/1958
+KW  - School furniture and equipment
+KW  - High school
+PB  - Hayward Union High School District
+CY  - Hayward, CA
+LA  - English
+CN  - 375.15 .H42b 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Hayward (California) Union High School District
+T1  - Equipment lists developed in the Hayward Union High School District to support the educational program
+Y1  - 1957
+D1  - 11/1957
+KW  - School furniture and equipment
+KW  - High school
+PB  - Hayward Union High School District
+CY  - Hayward, CA
+LA  - English
+CN  - 375.15 .H42e 1957
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - Homemaking for grades seven, eight, and nine
+Y1  - 1942
+D1  - 09/1942
+SP  - 67
+KW  - Home economics
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 640 .F87h 1942
+SC  - California
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois. Committee on School Mathematics
+T1  - High school mathematics: unit 3: equations and inequations
+Y1  - 1960
+D1  - 1960
+KW  - Mathematics
+PB  - University of Illinois Committee on School Mathematics
+CY  - Urbana, IL
+LA  - English
+CN  - 511.6 .I29h v.3 1960
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - A tentative course in study in arithmetic, grades 1 to 8 inclusive
+Y1  - 1938
+D1  - 09/1938
+SP  - 72
+KW  - Arithmetic
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 511.2 .I18t 1938
+SC  - Idaho
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Social studies and science: a study bulletin , grades 1 to 8
+Y1  - 1938
+D1  - 09/1938
+SP  - 55
+KW  - Social sciences
+KW  - Science
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 371.33 .I18ss 1938
+SC  - Idaho
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+T1  - Our community and our state, present and past and other types of communities: experience units grades III-IV: social studies, language arts, related areas
+SP  - 40
+KW  - Social sciences
+KW  - Language arts
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 371.33 .I18oc
+SC  - Idaho
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Idaho State Department of Education
+A2  - Idaho State Curriculum Committee
+T1  - A study guide in curriculum thinking
+Y1  - 1940
+D1  - 1940
+SP  - 48
+KW  - Curricula
+PB  - Idaho State Department of Education
+CY  - Boise, ID
+LA  - English
+CN  - 375 .I18sg 1940
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - Home making outline
+Y1  - 1939
+D1  - 01/1939
+SP  - 13
+KW  - Home economics
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 640 .F87h 1939
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Fresno County (California) Schools
+T1  - Seventh annual conference and workshop for teachers in Fresno County Schools, Fresno State College, August 27-31, 1951: health, handwriting, spelling
+Y1  - 1951
+D1  - 08/1951
+KW  - Health education
+KW  - Penmanship
+KW  - Spelling
+PB  - Fresno County Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 421 .F88h 1951
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Hurd, Gwendolyn M.
+A1  - Rimmel, Erma L.
+A1  - Maurer, Bob
+A2  - Denver (Colorado) Public Schools
+T1  - Preparing your child for reading
+Y1  - 1961
+D1  - 1961
+SP  - 128
+KW  - Reading
+N1  - Includes a set of alphabet and phonic cards
+PB  - Houghton Mifflin
+LA  - English
+CN  - 428.4 .D41p 196
+ER  - 
+
+TY  - BOOK
+A2  - University of Idaho
+T1  - Guiding the gifted: a booklet by and for teachers
+Y1  - 1957
+D1  - Summer, 1957
+SP  - 31
+KW  - Guidance
+KW  - Gifted children
+PB  - University of Idaho
+CY  - Moscow, ID
+LA  - English
+CN  - 371.9 .I18g 1957
+SC  - Idaho
+ER  - 
+
+TY  - BOOK
+A2  - Hot Springs (Arkansas) Central High School
+T1  - Constitution and by-laws of the Cook Literary Society of Central High School
+Y1  - 1904
+D1  - 1904
+SP  - 15
+KW  - Literature
+KW  - Student activities
+PB  - Central High School
+CY  - Hot Springs, AR
+LA  - English
+CN  - 374.23 .H82c 1904
+SC  - Arkansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Solomonson, Myrtle B.
+A2  - Fresno (California) Public Schools
+T1  - Science grade I unit: circus and zoo animals
+Y1  - 1941
+D1  - 09/1941
+SP  - 7
+KW  - Science
+N1  - Bound with unit on gardening.
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s 1941
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Solomonson, Myrtle B.
+A2  - Fresno (California) Public Schools
+T1  - Science grade I: gardening
+Y1  - 1941
+D1  - 09/1941
+SP  - 8
+KW  - Science
+N1  - Bound with unit on circus and zoo animals.
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 519 .F87s 1941
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - Teacher's guide for the selection and use of units in elementary social studies and related fields: social studies, science, and health and safety. grades one to six
+Y1  - 1937
+D1  - 06/1937
+KW  - Social sciences
+KW  - Science
+KW  - Health education
+KW  - Safety education
+N1  - "Remimeographed, February 1938"
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 375.13 .F87tg 1937
+SC  - California
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Riley, B. C.
+A2  - University of Florida
+T1  - A state university offers practical education to adults
+Y1  - 1937
+D1  - 04/1937
+SP  - 31
+KW  - Adult education
+T2  - University of Florida General Extension Division Record
+V1  - 18
+IS  - 15
+PB  - University of Florida
+CY  - Gainesville, FL
+LA  - English
+CN  - 379.74 F63s 1937
+SC  - Florida
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Hawaii Curriculum Center
+T1  - Hawaii Curriculum Center: a new concept in curriculum development
+Y1  - 1966
+D1  - 07/1966
+SP  - 10
+KW  - Curricula
+KW  - Curriculum consultants
+PB  - Hawaii Curriculum Center
+CY  - Honolulu, HI
+LA  - English
+CN  - 379.74 .H1h 1966
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Curriculum materials center
+KW  - Library materials
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 371.3095 .F77c
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Human talent the great investment
+KW  - Philosophy of education
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 379.75 .F77h
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Fountain Vallel School District: where each individual is important
+Y1  - 1964
+D1  - 1964-1965
+KW  - Philosophy of education
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 379.75 .F77f 1964
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Language arts
+KW  - Language arts
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 428.2 .F77L
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Guiding today's children and youth
+KW  - Guidance
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 371.45 .F77g
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Basic skills classes for children with special learning needs
+KW  - Special education
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 371.9 .F77b
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Music is for everyone
+KW  - Music education
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 780 .F77m
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Building program
+KW  - School facilities
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 379.74 .F77b
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Reading phonics
+KW  - Reading
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 428.4 .F77r
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Seventh and eighth grade program
+KW  - Middle schools
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 375.14 .F77s
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - Patriotic poems
+KW  - Poetry
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 428.5 .F77p
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fountain Valley (California) School District
+T1  - An eleven month school year
+KW  - School year
+PB  - Fountain Valley School District
+CY  - Huntington Beach, CA
+LA  - English
+CN  - 379.741 .F77e
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Fresno (California) Public Schools
+T1  - A supplement to a course of study for art in the secondary schools of Fresno, California
+Y1  - 1942
+D1  - 09/1942
+SP  - 5
+KW  - Art
+KW  - Curricula
+PB  - Fresno Public Schools
+CY  - Fresno, CA
+LA  - English
+CN  - 740 .F87c suppl. 1942
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - The different child and his special education
+Y1  - 1960
+D1  - 1960
+KW  - Special education
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.9 .K16d 1960
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Social studies curriculum project reports
+SP  - 6
+KW  - Social sciences
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.33 .K16s
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Spencer, Claude E.
+A2  - Kansas State Department of Public Instruction
+T1  - Developing a professional library for the social sciences
+KW  - Social sciences
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.33 .K16d
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Spencer, Claude E.
+A2  - Kansas State Department of Public Instruction
+T1  - Sources of audio-visual materials for the social sciences
+SP  - 7
+KW  - Social sciences
+KW  - Audio-visual materials
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 371.33 .K16s
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Biography and travel for the high school library
+SP  - 9
+KW  - Biography
+KW  - Travel
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 973 .K16b
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Spencer, Claude E.
+A2  - Kansas State Department of Public Instruction
+T1  - A selected bibliography in the teaching of geography
+SP  - 2
+KW  - Geography
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 910 .K16s
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A1  - Cartwright, William H.
+A2  - Kansas State Department of Public Instruction
+T1  - A selected bibliography in the teaching of history
+SP  - 3
+KW  - History
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 924 .K16s
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Detroit (Michigan) Public Schools
+T1  - Psychological clinic bulletin
+Y1  - 1953
+D1  - 1953
+KW  - Child welfare
+N1  - I-A: "The health and growth of your children"; I-B: "Helping children to be pleasant"; I-C: The child's feelings about himself"; I-D: "Children's personal ideals"; II-A: "Children's habits at home"; II-B: "Children's social adjustment at home"; II-C: "Children's feelings about their home"; II-D: "Children's ideals about home"; III-A: "Your children's habits at school"; III-B: "Getting along with others in school"; III-C: "Children's feelings about school"; III-D: "Children's ideals about school"; IV-A: Your children's habits in the neighborhood"; IV-B: "Getting along with others in the neighborhood"; IV-C: "Children's feelings about the neighborhood"; IV-D: "Children's ideals about the neighborhood"
+PB  - Public School Publishing Co.
+CY  - Bloomington, IL
+LA  - English
+CN  - 371.71 .D48p 1953
+SC  - Michigan
+ER
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - A selected bibliography for course in economics
+SP  - 8
+KW  - Economics
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 330 .K16s
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Resource bibliography recommended for senior high school (American government)
+Y1  - 1963
+D1  - 09/1963
+SP  - 8
+KW  - Political science
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 320 .K16r 1963
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Resource bibliography recommended for senior high school (American history)
+SP  - 10
+KW  - United States history
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 973 .K16r
+SC  - Kansas
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - A bibliography of selected references in economics
+Y1  - 1964
+D1  - 1964
+SP  - 21
+KW  - Economics
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 330 .K16b 1964
+SC  - Kansas
+ER  - 
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Selected readings concerning current weaknesses in civic education and opportunities for improvement
+KW  - Political science
+KW  - Bibliography
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 320 .K16s
+SC  - Kansas
+G1  - High school
+ER  - 
+
