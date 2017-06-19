@@ -1,0 +1,427 @@
+
+TY  - BOOK
+A2  - Pennsylvania.  Department of Public Instruction
+T1  - School code of Pennsylvania and other laws relative to the public schools
+D1  - 1914-1917
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Cubberley Education Library holdings 1914-1915,1917; Pennsylvania.  Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.374 .P1
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania.  Department of Public Instruction
+T1  - School law
+D1  - 1919-1953
+KW  - Educational law and legislation
+N1  - Note: later title School laws of Pennsylvania; Cubberley Education Library holdings 1919,1921,1924,1925,1927,1929,1931,1933,1937,1941,1945,1951,1953; Cubberley Library School Legal Documents; ask at desk
+PB  - Pennsylvania.  Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.374 .P1
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania.  Department of Public Instruction
+T1  - School law
+D1  - 1919-1953
+KW  - Educational law and legislation
+N1  - Note: later title School laws of Pennsylvania; Cubberley Education Library holdings 1919,1921,1924,1925,1927,1929,1931,1933,1937,1941,1945,1951,1953; Cubberley Library School Legal Documents; ask at desk
+PB  - Pennsylvania.  Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.374 .P1
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+T1  - Purdon's Pennsylvania statutes annotated
+Y1  - 1962
+D1  - 1962
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - George T. Bisel Company
+CY  - Philadelphia, PA
+LA  - English
+CN  - 379.374 .P1 1962
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - The Hatfield case concerning the control of funds derived from extracurricular activities in the public schools : a report of the Joint State Government Commission to the General Assembly of the Commonwealth of Pennsylvania
+Y1  - 1949
+D1  - 11/1948
+SP  - 17
+KW  - Educational law and legislation
+KW  - School finance
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Pennsylvania. General Assembly. Joint State Government Commission
+LA  - English
+CN  - 379.374 .P1 1948
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. General Assembly. Joint State Government Commission
+T1  - The codification of the school laws
+Y1  - 1949
+D1  - 01/1949
+SP  - 21
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Pennsylvania. General Assembly. Joint State Government Commission
+LA  - English
+CN  - 379.374 .P1 1949
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania.  Department of Public Instruction
+T1  - Digest of school laws
+Y1  - 1939
+D1  - 11/1939
+SP  - 35
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+T2  - Pennsylvania Department of Public Instruction monthly bulletin
+V1  - 6
+IS  - 9
+PB  - Pennsylvania.  Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.374 .P1
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania.  Department of Public Instruction
+T1  - Proceedings of the Annual Meeting of the Board of Principals of the State Normal Schools of Pennsylvania held in the auditorium of the Department of Public Instruction
+Y1  - 1912
+D1  - 11/1912
+SP  - 16
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania.  Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1912
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania.  Department of Public Instruction
+T1  - Proceedings of the Annual Meeting of the Board of Principals of the State Normal Schools of Pennsylvania held in the office of the Department of Public Instruction
+Y1  - 1907
+D1  - 11/1907
+SP  - 39
+KW  - Universities and colleges
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania.  Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1907
+SC  - Pennsylvania
+G1  - Postsecondary
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Classification of public secondary schools 1928-1929
+Y1  - 1929
+D1  - 1929
+SP  - 143
+KW  - High schools
+KW  - Junior high schools
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1928-1929
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Outline of agriculture for the elementary schools of Pennsylvania
+Y1  - 1912
+D1  - 1912
+SP  - 42
+KW  - Agriculture
+N1  - Shelved in Cubberley Library Reading Room
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.74 .P1 1912
+SC  - Pennsylvania
+ER  -
+
+TY  - BOOK
+A2  - Puerto Rico Department of Education
+T1  - The school laws of Porto Rico
+D1  - 1914-1928
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1914,1927-1928; Cubberley Library School Legal Documents; ask at desk
+PB  - Puerto Rico Department of Education
+LA  - English
+CN  - 379.374 .P4
+SC  - Puerto RIco
+ER  -
+
+TY  - BOOK
+A1  - Stockwell, Thomas
+T1  - Public statutes and public laws of the state of Rhode Island pertaining to education, 1882-1893
+Y1  - 1893
+D1  - 1893
+SP  - 97
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - E.L. Freeman & Son
+CY  - Providence, RI
+LA  - English
+CN  - 379.374 .R1a 1893
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island Office of Commissioner of Education
+T1  - The school laws of Rhode Island
+Y1  - 1882
+D1  - 1882
+SP  - 87
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Rhode Island Office of Commissioner of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.374 .R1
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A1  - Carrol, Charles
+T1  - The school law of Rhode Island
+Y1  - 1914
+D1  - 1914
+SP  - 109
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - E.L. Freem Company
+CY  - Providence, RI
+LA  - English
+CN  - 379.374 .R1 1914
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  -  Rhode Island Office of Commissioner of Education
+T1  -  The school manual containing the school laws of Rhode Island; with decisions, remarks and forms, for the use of school officers
+Y1  - 1896
+D1  - 1896
+SP  - 439
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Rhode Island Office of Commissioner of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.374 .R1
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+T1  - Public laws pertaining to education
+D1  - 1905?
+SP  - 58
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .R1 1905
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island State Department of Education
+T1  - Laws of Rhode Island relating to education
+D1  - 1910-1924
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1910-1921,1923-1924 + suppls.; Cubberley Library School Legal Documents; ask at desk
+PB  - Rhode Island State Department of Education
+LA  - English
+CN  - 379.374 .R1a
+SC  - Rhode Island
+ER  -
+
+TY  - BOOK
+A2  - Rhode Island State Department of Education
+T1  - Title 16 of the general laws of Rhodes Island
+Y1  - 1968
+D1  - 01/1968
+SP  - 222
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Rhode Island State Department of Education
+CY  - Providence, RI
+LA  - English
+CN  - 379.374 .R1a
+SC  - Rhodes Island
+ER  -
+
+TY  - BOOK
+A2  - South Carolina. Commission to Examine and Revise the School Law.
+T1  - Report of the Commission to examine and revise the school law of the state and to recommend changes in the same
+D1  - 1910?
+SP  - 83
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - South Carolina. Commission to Examine and Revise the School Law.
+CY  - Columbia, SC
+LA  - English
+CN  - 379.374 .S1r
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina State Superintendent of Education
+T1  - School law of South Carolina
+D1  - 1884-1906
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1884,1892,1899,1906; Cubberley Library School Legal Documents; ask at desk
+PB  - South Carolina State Superintendent of Education
+CY  - Columbia, SC
+LA  - English
+CN  - 379.374 .S1
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Carolina General Assembly
+T1  - General school laws enacted by the legislature during the session of 1905
+Y1  - 1905
+D1  - 1905
+SP  - 4
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - South Carolina General Assembly
+LA  - English
+CN  - 379.374 .S1
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+T1  - General school law of South Carolina
+D1  - 1909-1936
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1909,1912,1916,1919,1924,1929,1936; Cubberley Library School Legal Documents; ask at desk
+CY  - Columbia, SC
+LA  - English
+CN  - 379.374 .S1
+SC  - South Carolina
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - School law of South Dakota :with session laws relating to public schools with notes and references
+Y1  - 1891
+D1  - 1891
+SP  - 100
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - South Dakota State Department of Public Instruction
+LA  - English
+CN  - 379.374 .S2
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - Amended school laws of the State of South Dakota
+Y1  - 1893
+D1  - 1893
+SP  - 46
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - South Dakota State Department of Public Instruction
+CY  - Pierre, SD
+LA  - English
+CN  - 379.374. S2
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - Compiled school laws of South Dakota with constitutional provisions and opinions of the attorney general
+Y1  - 1899
+D1  - 1899
+SP  - 106
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - South Dakota State Department of Public Instruction
+LA  - English
+CN  - 379.374 .S2
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+T1  - Compiled school laws of South Dakota and constitutional provisions
+Y1  - 1903
+D1  - 1903
+SP  - 59
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Aberdeen. SD
+LA  - English
+CN  - 379.374 .S2
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+T1  - School laws of South Dakota
+D1  - 1903-1911
+KW  - Educational law and legislation
+N1  - Title varies slightly, Cubberley Education Library holdings 1903,1909,1911; Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .S2
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+T1  - Public school laws of South Dakota
+D1  - 1931
+KW  - Educational law and legislation
+N1  - Title varies slightly, Cubberley Education Library holdings 1931,1933,1937,1943; Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .S2
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - Education laws of South Dakota containing statutes of a general and permanent nature comprising Title 13 of the South Dakota compiled laws 1967 and including an appendix of laws passed at the forty-third session (1968) of the Legislature
+Y1  - 1968
+D1  - 1968
+SP  - 770
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - South Dakota State Department of Public Instruction
+LA  - English
+CN  - 379.374 .S2
+SC  - South Dakota
+ER  -
+
+TY  - BOOK
+A2  - South Dakota State Department of Public Instruction
+T1  - Opinions of the Attorney General relative to school laws
+Y1  - 1904
+D1  - 1904
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - South Dakota State Department of Public Instruction
+LA  - English
+CN  - 379.374 .S2
+SC  - South Dakota
+ER  -
