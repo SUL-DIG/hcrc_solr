@@ -1,9 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?><add>
 
-<doc><field name="type">Book</field><field name="corp_author">Alabama State Department of Education</field><field name="title">General public school laws of Alabama</field><field name="year">1903-1915</field><field name="keywords">Educational law and legislation</field><field name="notes">Cubberley Education Library holdings 1903-1915; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="pub_place">Montgomery, AL</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Alabama State Department of Education</field><field name="title">General school laws enacted by the legislature of of Alabama</field><field name="year">1947</field><field name="keywords">Educational law and legislation</field><field name="notes">Cubberley Education Library holdings 1947; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="pub_place">Montgomery, AL</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Alabama State Department of Education</field><field name="title">School code, including all laws relating to education</field><field name="year">1919-1922</field><field name="keywords">Educational law and legislation</field><field name="notes">Cubberley Education Library holdings 1919-1922; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="pub_place"> Montgomery, AL</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
-<doc><field name="type">Book</field><field name="corp_author">Alabama State Department of Education</field><field name="title">School code of Alabama</field><field name="date">1924</field><field name="keywords">Educational law and legislation</field><field name="notes">Cubberley Education Library holdings 1924; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="pub_place">Montgomery, AL</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama State Department of Education</field>
+<field name="title">General public school laws of Alabama</field>
+<field name="year">1903-1915</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">Cubberley Education Library holdings 1903-1915; Cubberley Library School Legal Documents; ask at desk</field>
+<field name="publisher">Alabama State Department of Education</field>
+<field name="pub_place">Montgomery, AL</field>
+<field name="language">English</field>
+<field name="call_number">379.374 .A1</field>
+<field name="state_country">Alabama</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama State Department of Education</field>
+<field name="title">General school laws enacted by the legislature of of Alabama</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">Cubberley Education Library holdings 1947; Cubberley Library School Legal Documents; ask at desk</field>
+<field name="publisher">Alabama State Department of Education</field>
+<field name="pub_place">Montgomery, AL</field>
+<field name="language">English</field>
+<field name="call_number">379.374 .A1</field>
+<field name="state_country">Alabama</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama State Department of Education</field>
+<field name="title">School code, including all laws relating to education</field>
+<field name="date">1919-1922</field>
+<field name="keywords">Educational law and legislation</field>
+<field name="notes">Cubberley Education Library holdings 1919-1922; Cubberley Library School Legal Documents; ask at desk</field>
+<field name="publisher">Alabama State Department of Education</field>
+<field name="pub_place"> Montgomery, AL</field>
+<field name="language">English</field>
+<field name="call_number">379.374 .A1</field>
+<field name="state_country">Alabama</field>
+</doc>
+
+<doc>
+<field name="type">Book</field>
+<field name="corp_author">Alabama State Department of Education</field>
+<field name="title">School code of Alabama</field>
+<field name="date">1924</field><field name="keywords">Educational law and legislation</field><field name="notes">Cubberley Education Library holdings 1924; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="pub_place">Montgomery, AL</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
 <doc><field name="type">Book</field><field name="corp_author">Alabama State Department of Education</field><field name="title">School laws enacted by the legislature of alabama</field><field name="date">1931-1935</field><field name="keywords">Educational law and legislation</field><field name="notes">Cubberley Education Library holdings 1931-1932, 1935; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="pub_place">Montgomery, AL</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
 <doc><field name="type">Book</field><field name="corp_author">Alabama State Department of Education</field><field name="title">Alabama school laws annotated</field><field name="year">1941</field><field name="date">1941</field><field name="pages">258</field><field name="keywords">Educational law and legislation</field><field name="notes">Note: "reprinted from the code of Alabama, 1940"; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
 <doc><field name="type">Book</field><field name="corp_author">Alabama State Department of Education</field><field name="title">Public school laws of the State of Alabama annotated</field><field name="date">1960-1965</field><field name="keywords">Educational law and legislation</field><field name="notes">Cubberley Education Library holdings 1960, 1965; Cubberley Library School Legal Documents; ask at desk</field><field name="publisher">Alabama State Department of Education</field><field name="language">English</field><field name="call_number">379.374 .A1</field><field name="state_country">Alabama</field></doc>
