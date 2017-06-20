@@ -1,0 +1,437 @@
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida school laws comprising extracts from the constitution, the Florida school code, laws relating to the institutions of higher learning, and other general laws relating to education in Florida
+Y1  - 1939
+D1  - 07/1939
+SP  - 455
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Public Instruction
+T1  - School law of the state of Florida with the regulations, forms, and instructions of the department
+D1  - 1881-1885
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1881,1885; Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Public Instruction
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.374
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Public Instruction
+T1  - Digest and compilation of the school laws of the state of Florida with the forms, regulations, and instructions of the Department of Education
+D1  - 1893-1909
+KW  - Educational law and legislation
+N1  - Title varies, Cubberley Education Library holdings 1893,1909; Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Public Instruction
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+T1  - School laws of the state of Florida compiled from the revised statutes, and the acts of the legislatures of 1893, 1895, 1897 and 1899
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Public Instruction
+T1  - Digest of the school laws of the state of Florida with the regulations of the State board of education and the instructions and forms of the Department of education
+Y1  - 1915
+D1  - 1915
+SP  - 298
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Public Instruction
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Public Instruction
+T1  - Laws relating to education
+D1  - 1917-1925
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1917,1925; Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Public Instruction
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Compilation of the school laws of the state of Florida
+D1  - 1921-1925
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1921,1925; Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+T1  - General school laws of Florida
+D1  - 1927-1935
+KW  - Educational law and legislation
+N1  - Subtitle varies, Cubberley Education Library holdings 1927,1931,1935; Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Public Instruction
+T1  - The school laws of Florida (annotated): compiled under the direction of the Florida School Code Committee and published with the cooperation of the State Department of Public Instruction under authority of section 184, compiled general laws of Florida, 1927
+Y1  - 1936
+D1  - 03/1936
+SP  - 425
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Public Instruction
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Department of Education
+T1  - Florida school laws
+D1  - 1941-1967
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1941 suppl.,1959,1967; Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Department of Education
+CY  - Tallahassee, FL
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+A2  - Florida State Legislature
+T1  - Supplement to Florida statutes (unofficial), 1967
+Y1  - 1968
+D1  - 1968
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Florida State Legislature
+LA  - English
+CN  - 379.374 .F1
+SC  - Florida
+ER  -
+
+TY  - BOOK
+T1  - School law of 1896
+Y1  - 1896
+D1  - 1896
+SP  - 15
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .H1 1896
+SC  - Hawaii
+ER  -
+
+TY  - BOOK
+A2  - Hawaii Department of Public Instruction
+T1  - Revised school laws and revised rules and regulations of the Department of Public Instruction of the Territory of Hawaii
+Y1  - 1905
+D1  - 1905
+SP  - 35
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Hawaii Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 379.374 .H1
+SC  - Hawaii
+ER  -
+
+TY  - BOOK
+A2  - Hawaii Department of Public Instruction
+T1  - Rules and regulations of the department
+Y1  - 1921
+D1  - 05/1921
+SP  - 18
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Hawaii Department of Public Instruction
+LA  - English
+CN  - 379.374 .H1
+SC  - Hawaii
+ER  -
+
+TY  - BOOK
+A2  - Hawaii Department of Public Instruction
+T1  - School laws and laws relating to child welfare
+D1  - 1922-1928
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1922,1928; Cubberley Library School Legal Documents; ask at desk
+PB  - Hawaii Department of Public Instruction
+LA  - English
+CN  - 379.374 .H1
+SC  - Hawaii
+ER  -
+
+TY  - BOOK
+A2  - Hawaii Department of Public Instruction
+T1  - School code
+Y1  - 1935
+D1  - 01/1935
+SP  - 75
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Hawaii Department of Public Instruction 
+LA  - English
+CN  - 379.374 .H1
+SC  - Hawaii
+ER  -
+
+TY  - BOOK
+A2  - Hawaii State Department of Education
+T1  - Rules of the Department of Education Section 7200 of the 7000 series Department of Education Code 1969 edition
+Y1  - 1970
+D1  - 04/1970
+SP  - 36
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Hawaii State Department of Education
+LA  - English
+CN  - 379.374 .H1
+SC  - Hawaii
+ER  -
+
+TY  - BOOK
+A2  - Hawaii State Department of Education
+T1  - Laws relating to the Department of Education, 8000 series
+D1  - 1971-1972
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1971, 1972 suppl.; Cubberley Library School Legal Documents; ask at desk
+PB  - Hawaii State Department of Education
+LA  - English
+CN  - 379.374 .H1
+SC  - Hawaii
+ER  -
+
+TY  - BOOK
+A2  - Idaho State Superintendent of Public Instruction
+T1  - General school laws of the state of Idaho
+D1  - 1891-1911
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1891,1899/1900,1903,1905,1911; Cubberley Library School Legal Documents; ask at desk
+PB  - Idaho State Superintendent of Public Instruction
+CY  - Boise, ID
+LA  - English
+CN  - 379.374 .I1
+SC  - Idaho
+ER  -
+
+TY  - BOOK
+T1  - School law of the territory of Idaho
+Y1  - 1883
+D1  - 1883
+SP  - 23
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Boise, ID
+LA  - English
+CN  - 379.374 .I1
+SC  - Idaho
+ER  -
+
+TY  - BOOK
+A2  - Idaho State Superintendent of Public Instruction
+T1  - School laws of the state of Idaho
+D1  - 1915-1969
+KW  - Educational law and legislation
+N1  - Note:  Issued as Idaho bulletin of education, 1965 on have title school laws; Cubberley Education Library holdings 1915,1917,1921,1923,1925,1927,1931,1933,1937, 1937 suppl.,1941,1965,1967,1969 Cubberley Library School Legal Documents; ask at desk
+PB  - Idaho State Superintendent of Public Instruction
+CY  - Boise, ID
+LA  - English
+CN  - 379.374 .I1
+SC  - Idaho
+ER  -
+
+TY  - BOOK
+A2  - Idaho State Board of Education
+T1  - Compilation of laws pertaining to the State Board of Education and educational institutions of the state of Idaho
+Y1  - 1919
+D1  - 04/1919
+SP  - 140
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Idaho State Board of Education
+CY  - Boise, ID
+LA  - English
+CN  - 379.374 .I1
+SC  - Idaho
+ER  -
+
+TY  - BOOK
+T1  - The Illinois school law, 1889-1901. An act to establish and maintain a system of free schools. Approved May 21, 1889
+Y1  - 1899
+D1  - 05/1899
+SP  - 157
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Springfield, IL
+LA  - English
+CN  - 379.374 .I2
+SC  - Illinois
+ER  -
+
+TY  - BOOK
+A2  - Illinois State Superintendent of Public Instruction
+T1  - The school law of Illinois
+D1  - 1906-1953
+KW  - Educational law and legislation
+N1  - Title varies slightly, Cubberley Education Library holdings 1906-1907, 1909, 1912-1913, 1916-1917, 1919, 1921, 1923, 1925, 1927-1929, 1931, 1933, 1935, 1937 suppl., 1939, 1941 suppl., 1943 suppl., 1951, 1953 suppl.;  Cubberley Library School Legal Documents; ask at desk
+PB  - Illinois State Superintendent of Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 379.374 .I2
+SC  - Illinois
+ER  -
+
+TY  - BOOK
+T1  - Smith-Hurd Illinois Annotated statutes
+Y1  - 1961
+D1  - 1961
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Burdette Smith Company
+CY  - Chicago, IL
+LA  - English
+CN  - 379.374 .I2
+SC  - Illinois
+ER  -
+
+TY  - BOOK
+A2  - Illinois State Superintendent of Public Instruction
+T1  - The School code of Illinois with additional acts affecting schools
+Y1  - 1969
+D1  - 1969
+SP  - 730
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Illinois State Superintendent of Public Instruction
+LA  - English
+CN  - 379.374 .I2
+SC  - Illinois
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Board of Education
+T1  - Educational laws of the State of Iowa : passed by the Board of Education at its first and second sessions and by the General Assembly at its eighth regular session
+Y1  - 1860
+D1  - 1860
+SP  - 103
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Iowa State Board of Education
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.374 .I3
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+T1  - School laws of Iowa
+D1  - 1868-1967
+KW  - Educational law and legislation
+N1  - Title varies slightly; Cubberley Education Library holdings 1868, 1880, 1892, 1897, 1902, 1907, 1911, 1915, 1919, 1925, 1927 suppl., 1929, 1931 suppl., 1933 suppl., 1935, 1935 suppl., 1966,1967 suppl.; Cubberley Library School Legal Documents; ask at desk
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.374 .I3
+SC  - Iowa
+ER  -
+
+TY  - BOOK
+A2  - Iowa State Department of Public Instruction
+A2  - Iowa School Code Commission
+T1  - Report of the Iowa School Code Commission
+Y1  - 1942
+D1  - 11/1942
+SP  - 295
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Iowa State Department of Public Instruction
+CY  - Des Moines, IA
+LA  - English
+CN  - 379.374 .I3
+SC  - Iowa
+ER  - 
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - Laws of Indiana relating to the public school system
+D1  - 1917-1927
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1917, 1923, 1927; Cubberley Library School Legal Documents; ask at desk
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 379.374 I39
+SC  - Indiana
+ER  -
+
+TY  - BOOK
+A2  - Indiana State Department of Public Instruction
+T1  - School laws
+D1  - 1913-1946
+KW  - Educational law and legislation
+N1  - Title varies slightly, Cubberley Education Library holdings 1913, 1916, 1917 suppl.,  1923 suppl., 1927 suppl., 1932, 1935, 1935 suppl., 1939, 1939 suppl., 1946; Cubberley Library School Legal Documents; ask at desk
+PB  - Indiana State Department of Public Instruction
+CY  - Indianapolis, IN
+LA  - English
+CN  - 379.374 I39
+SC  - Indiana
+ER  -
+
+TY  - BOOK
+T1  - Resume of the school laws enacted in the 1935 legislature
+D1  - 1935?
+SP  - 4
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .I39
+SC  - Indiana
+ER  -
+
+TY  - BOOK
+A1  - Malan, Clement T
+T1  - Indiana school law
+Y1  - 1935
+D1  - 1935
+SP  - 721
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - C.E. Pauley & Co., Inc
+CY  - Indianapolis, IN
+LA  - English
+CN  - 379.374 .I391m
+SC  - Indiana
+ER  -
