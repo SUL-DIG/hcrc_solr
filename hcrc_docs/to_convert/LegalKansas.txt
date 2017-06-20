@@ -1,0 +1,319 @@
+
+TY  - BOOK
+T1  - Laws and forms relating to common schools in the state of Kansas, with list of school books
+Y1  - 1867
+D1  - 1867
+SP  - 85
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Leavenworth, KS
+LA  - English .K1
+SC  - Kansas
+ER  -
+
+TY  - BOOK
+T1  - School laws of cities of the second class
+Y1  - 1870
+D1  - 1870
+SP  - 10
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Topeka, KS
+LA  - English
+CN  - 379.374 .K1
+SC  - Kansas
+ER  -
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Laws for the regulation and support of the common schools
+D1  - 1877-1883
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1877,1883; Cubberley Library School Legal Documents; ask at desk
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 379.374 .K1
+SC  - Kansas
+ER  -
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Laws relating to the common schools of Kansas
+D1  - 1903-1920
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1903,1905,1907,1909,1911,1913,1915,1917,1919/1920; Cubberley Library School Legal Documents; ask at desk
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 379.374 .K1
+SC  - Kansas
+ER  -
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - Revised school laws of Kansas
+D1  - 1923-1948
+KW  - Educational law and legislation
+N1  - Other title Kansas school laws revised (1931-) Cubberley Education Library holdings 1923,1927,1931,1933,1937,1939,1948; Cubberley Library School Legal Documents; ask at desk
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 379.374 .K1
+SC  - Kansas
+ER  -
+
+TY  - BOOK
+A2  - Kansas State Department of Public Instruction
+T1  - New school laws of Kansas
+Y1  - 1925
+D1  - 1925
+SP  - 18
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Kansas State Department of Public Instruction
+CY  - Topeka, KS
+LA  - English
+CN  - 379.374 .K1
+SC  - Kansas
+ER  -
+
+TY  - BOOK
+A2  - Kansas State Department of Education
+T1  - School laws of Kansas
+Y1  - 1968
+D1  - 1968
+SP  - 857
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Kansas State Department of Education
+CY  - Topeka, KS
+LA  - English
+CN  - 379.374 .K1
+SC  - Kansas
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Public Instruction
+T1  - The common school laws of Kentucky
+D1  - 1890-1958
+KW  - Educational law and legislation
+N1  - Other title(s) Common school laws (1896-), Common school laws of the State of Kentucky (1910-1912) Cubberley Education Library holdings 1890,1894,1896,1902,1904,1910,1912,1918,1922,1926,1934,1936 suppl.,1938 suppl.,1940,1946,1958 suppl.; Cubberley Library School Legal Documents; ask at desk
+PB  - Kentucky State Department of Public Instruction
+CY  - Frankfort, KY
+LA  - English
+CN  - 379.374 .K3
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Public Instruction
+T1  - The School laws of Kentucky
+Y1  - 1908
+D1  - 1908
+SP  - 272
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Kentucky State Department of Public Instruction
+LA  - English
+CN  - 379.374 .K3
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+T1  - Supplement to Kentucky school laws enactments of 1920
+Y1  - 1920
+D1  - 1920
+SP  - 82
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .K3
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Board of Education
+T1  - Laws relating to education in Kentucky
+D1  - 1928-1930
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1928,1930,1932; Cubberley Library School Legal Documents; ask at desk
+PB  - Kentucky State Board of Education
+LA  - English
+CN  - 379.374 .K3
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+A2  - Kentucky State Department of Education
+T1  - School laws of Kentucky
+Y1  - 1967
+D1  - 01/1967
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .K3
+SC  - Kentucky
+ER  -
+
+TY  - BOOK
+T1  - Act no.81 in relation to free public schools, and to regulate public education in the State of Louisiana
+Y1  - 1888
+D1  - 1888
+SP  - 18
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+T1  - Public school laws of 1896 and 1898, with rules adopted by the state board of education
+Y1  - 1898
+D1  - 1898
+SP  - 30
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+T1  - Public school laws of Louisiana; sanitary regulations of the State board of health and the important decisions of the Supreme court of Louisiana, relative to schools
+Y1  - 1916
+D1  - 1916
+SP  - 144
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+ED  - 10
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+T1  - Public school laws of Louisiana and sanitary regulations of the State board of health
+Y1  - 1919
+D1  - 1919
+SP  - 208
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+ED  - 8
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Public school laws of Louisiana
+D1  - 1922-1936
+KW  - Educational law and legislation
+N1  - Other title Compilation of school laws, Cubberley Education Library holdings 1922,1926,1930,1932,1936; Cubberley Library School Legal Documents; ask at desk
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Louisiana State Department of Education
+T1  - Education acts legislative session of 1928
+Y1  - 1928
+D1  - 1928
+SP  - 45
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Louisiana State Department of Education
+CY  - Baton Rouge, LA
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+T1  - School laws enacted by the general Assembly of Louisiana
+Y1  - 1910
+D1  - 1910
+SP  - 32
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A1  - Ashwell, J.B.
+A2  - Louisiana State Superintendent of Public Education
+T1  - To school officials: this circular contains school laws enacted by the general assembly, under the Constitution of 1898
+Y1  - 1906
+D1  - 07/1906
+SP  - 15
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Louisiana State Superintendent of Public Education
+LA  - English
+CN  - 379.374 .L88
+SC  - Louisiana
+ER  -
+
+TY  - BOOK
+A2  - Maine State Superintendent of Public Schools
+T1  - Laws of Maine relating to public schools
+D1  - 1899-1968
+KW  - Educational law and legislation
+N1  - Other title Laws relating to public schools; Cubberley Education Library holdings 1899,1913,1915,1917,1919,1921,1923,1925,1930,1931,1933,1935,1945,1968; Cubberley Library School Legal Documents; ask at desk
+PB  - Maine State Superintendent of Public Schools
+CY  - Augusta, ME
+LA  - English
+CN  - 379.374 .M1
+SC  - Maine                                
+ER  -
+
+TY  - BOOK
+T1  - Acts and amendments passed by 88th and 89th legislatures 1937-1939
+D1  - 1940?
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Augusta, ME
+LA  - English
+CN  - 379.374 .M1
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Abstract of Maine school laws
+Y1  - 1941
+D1  - 1941
+SP  - 56
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.374 .M1
+SC  - Maine
+ER  -
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Laws relating to public schools revised statutes, 1944, Chapter 37, now in effect as amended by public laws of 1945
+Y1  - 1945
+D1  - 1945
+SP  - 114
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 379.374 .M1
+SC  - Maine
+ER  -
