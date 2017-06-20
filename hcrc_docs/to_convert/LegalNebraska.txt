@@ -1,0 +1,429 @@
+
+TY  - BOOK
+A2  - Nebraska State Department of Public Instruction
+T1  - Compulsory school attendance 1908 law
+Y1  - 1908
+D1  - 02/1908
+SP  - 19
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Nebraska State Department of Public Instruction
+CY  - Lincoln, NE
+LA  - English
+CN  - 379.374 .N1c 1908
+SC  - Nebraska
+ER  -
+
+TY  - BOOK
+T1  - Compilation of the school laws of New Mexico containing all laws and parts of laws relating to public schools of the territory of New Mexico
+Y1  - 1889
+D1  - 1889
+SP  - 57
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .N3
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - Territory of New Mexico
+T1  - Compilation of the school laws of New Mexico containing laws and parts of laws relating to public schools
+D1  - 1891-1909
+KW  - Educational law and legislation
+N1  - Title varies slightly, Cubberley Education Library holdings 1891,1895,1909 Cubberley Education Library holdings Cubberley Library School Legal Documents; ask at desk
+PB  - Territory of New Mexico
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.374 .N3
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - Public school laws
+D1  - 1957-1961
+KW  - Educational law and legislation
+N1  - Title varies slightly, Cubberley Education Library holdings 1957-1961; Cubberley Education Library holdings Cubberley Library School Legal Documents; ask at desk
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.374 .N3
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Legislature
+T1  - Educational laws passed by the fifth State Legislature of New Mexico
+Y1  - 1921
+D1  - 03/1921
+SP  - 8
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+T2  - Educational bulletin
+V1  - 8
+IS  - 1
+PB  - New Mexico State Legislature
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.374 .N3
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico Superintendent of Public Instruction
+T1  - New Mexico school code
+D1  - 1923-1931
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1923,1925,1927,1931; Cubberley Library School Legal Documents; ask at desk
+PB  - New Mexico Superintendent of Public Instruction
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.374 .N3
+SC  - new Mexico
+ER  -
+
+TY  - BOOK
+A2  - New Mexico State Department of Education
+T1  - New Mexico public school code
+D1  - 1938-1969
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1938,1941 suppl.,1953,1955 suppl; 1967,1969 suppl.; Cubberley Library School Legal Documents; ask at desk
+PB  - New Mexico State Department of Education
+CY  - Santa Fe, NM
+LA  - English
+CN  - 379.374 .N3
+SC  - New Mexico
+ER  -
+
+TY  - BOOK
+T1  - Laws of New Hampshire relating to common schools compiled from public statutes and session laws
+D1  - 1895-1903
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1895,1903; Cubberley Library School Legal Documents; ask at desk
+CY  - Concord, NH
+LA  - English
+CN  - 379.374 .N12
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - New Hampshire State Department of Public Instruction
+T1  - Laws of New Hampshire relating to public schools
+D1  - 1905-1941
+KW  - Educational law and legislation
+N1  - Title varies slightly, Cubberley Education Library holdings 1905,1907,1909,1911,1913,1915,1917,1923,1925,1927,1929,1931,1933,1935,1937,1939,1941 Cubberley Library School Legal Documents; ask at desk
+PB  - New Hampshire State Department of Public Instruction
+LA  - English
+CN  - 379.374 .N12
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - New Hampshire State Board of Education
+T1  - Educational legislation of 1947
+Y1  - 1947
+D1  - 1947
+SP  - 31
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - New Hampshire State Board of Education
+CY  - Concord, NH
+LA  - English
+CN  - 379.374 .N12 1947
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - New Hampshire State Board of Education
+T1  - New Hampshire's new school law, approved March 28, 1919: Proceedings at joint business conference of local school board and superintendents with the State Board of Education, at Representatives' Hall, State House, Concord, October 16, 1919
+Y1  - 1920
+D1  - 01/1920
+SP  - 49
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - New Hampshire State Board of Education
+CY  - Concord, NH
+LA  - English
+CN  - 379.374 .N12 1920
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - New Hampshire State Department of Education
+T1  - New Hampshire revised statutes annotated, relating to public schools, 1955 codification : Including session laws of 1955, 1957, 1959, 1961, 1963, 1965, 1967
+Y1  - 1968
+D1  - 1968
+SP  - 251
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - New Hampshire State Department of Education
+CY  - Concord, NH
+LA  - English
+CN  - 379.374 .N12
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - New Hampshire State Department of Education
+T1  - New Hampshire revised statutes annotated, relating to public schools, 1955 codification : Including session laws of 1955, 1957, 1959
+Y1  - 1959
+D1  - 1959
+SP  - 184
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - New Hampshire State Department of Education
+CY  - Concord, NH
+LA  - English
+CN  - 379.374 .N12
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A2  - New Hampshire State Department of Education
+T1  - New Hampshire revised statutes annotated, relating to public schools, 1955 codification : Including session laws of 1955,1957,1959,1961,1963,1965
+Y1  - 1965
+D1  - 1965
+SP  - 227
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - New Hampshire State Department of Education
+CY  - Concord, NH
+LA  - English
+CN  - 379.374 .N12
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+A1  - Streeter, Frank S
+A2  - New Hampshire State Board of Education
+T1  - The new school law : the joint responsibilities of the State Board, Commissioner, superintendents and local school boards; and the teacher problem
+Y1  - 1920
+D1  - 1920
+SP  - 12
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - New Hampshire State Board of Education. Conference of Superintendents and Headmasters
+CY  - Concord, NH
+LA  - English
+CN  - 379.374 .N12p
+SC  - New Hampshire
+ER  -
+
+TY  - BOOK
+T1  - School laws of Nevada
+D1  - 1865-1889
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1865,1889; Cubberley Library School Legal Documents; ask at desk
+CY  - Carson City, NV
+LA  - English
+CN  - 379.374 .N11
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada State Department of Education
+T1  - School law
+D1  - 1901-1909
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1901,1905,1907,1909; Cubberley Library School Legal Documents; ask at desk
+PB  - Nevada State Department of Education
+CY  - Carson City, NV
+LA  - English
+CN  - 379.374 .N11
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - Nevada Office of the Superintendent of Public Instruction
+A2  - Nevada State Department of Education
+T1  - School code
+D1  - 1913-1938
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1913,1915,1917,1919,1921,1923,1927,1931,1933,1935,1935 suppl.1939 suppl.; Cubberley Library School Legal Documents; ask at desk
+PB  - Nevada Office of the Superintendent of Public Instruction
+CY  - Carson City, NV
+LA  - English
+CN  - 379.374 .N11
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+T1  - An act concerning public schools of the State of Nevada, establishing and defining certain crimes and providing punishment therefor, and repealing certian acts and parts of acts relating thereto
+Y1  - 1947
+D1  - 1947
+SP  - 260
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .N11
+SC  - Nevada
+ER  -
+
+TY  - BOOK
+A2  - New Jersey State Superintendent of Public Instruction
+T1  - New Jersey school laws. Title 18 education
+D1  - 1867-1947
+KW  - Educational law and legislation
+N1  - Title varies; Cubberley Education Library holdings 1867,1883,1889,1893,1905,1908,1911,1912/1913 amendment, 1918, 1921, 1925, 1930-1933, 1935,1938-1940,1942,1944-1947; Cubberley Library School Legal Documents; ask at desk
+PB  - New Jersey State Superintendent of Public Instruction
+CY  - Trenton, NJ
+LA  - English
+CN  - 379.374 .N2
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+T1  - New Jersey statutes annotated
+D1  - 1963-1968
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1963,1940,1964,1968; Cubberley Library School Legal Documents; ask at desk
+CY  - Newark, NJ
+LA  - English
+CN  - 379.374 .N2
+SC  - New Jersey
+ER  -
+
+TY  - BOOK
+T1  - Consolidated laws of New York
+Y1  - 1953
+D1  - 1953
+KW  - Educational law and legislation
+N1  - Note: Title on cover McKinney's Consolidated laws of New York, issued in 3 parts; Cubberley Library School Legal Documents; ask at desk
+PB  - Edward Thompson Company
+CY  - Brooklyn, NY
+LA  - English
+CN  - 379.374 .N4
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Finegan, Thomas E
+A2  - University of the State of New York
+T1  - Special statutes and provisions of charters regulating school systems in the several cities of New York state.
+Y1  - 1915
+D1  - 1915
+SP  - 454
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.374 .N4
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Regulations of the Commissioner of Education of the State of New York
+Y1  - 1942
+D1  - 1942
+SP  - 245
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.374 .N4
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Legislature. Joint Legislative Committee on the State Education System
+T1  - Supplementary report of the Joint Legislative Committee to investigate procedures and methods of allocating state moneys for public school purposes and subversive activities
+Y1  - 1941
+D1  - 1941
+SP  - 8
+KW  - School finance
+KW  - Communism
+N1  - Shelved in Cubberley Library Reading Room
+PB  - New York State Legislature
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N4
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Department of Education
+T1  - Educational legislation of 1911
+Y1  - 1911
+D1  - 1911
+SP  - 30
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - New York State Department of Education
+LA  - English
+CN  - 379.374 .N4e
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State School Boards Association
+T1  - Handbook on New York State education law
+Y1  - 1952
+D1  - 1952
+SP  - 108
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+ED  - Rev
+PB  - New York State School Boards Association
+CY  - Albany, NY
+LA  - English
+CN  - 379.374
+SC  - New York
+ER  -
+
+TY  - BOOK
+A1  - Sullivan, James
+A2  - New York State Department of Education
+T1  - A summary of the compulsory attendance and child labor laws of the states and territories of the United States
+Y1  - 1907
+D1  - 1907
+SP  - 112
+KW  - Education and state
+KW  - Communism
+N1  - Cubberley Library School Legal Documents; ask at desk
+T2  - New York State Library bulletin
+V1  - 114
+PB  - New York State Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 379.374 .N45s
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Legislature. Joint Legislative Committee on the State Education System
+T1  - Supplementary report of The Joint Legislative Committee to investigate procedures and methods of allocating state moneys for public school purposes and subversive activities
+Y1  - 1941
+D1  - 1941
+SP  - 8
+KW  - Education and state
+KW  - Communism
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Legislative document
+V1  - 72
+PB  - New York State Legislature
+CY  - Albany, NY
+LA  - English
+CN  - 379.374 .N45s
+SC  - New York
+ER  -
+
+TY  - BOOK
+A2  - New York State Legislature. Joint Legislative Committee on the State Education System
+T1  - First report of the Joint Legislative Committee to investigate procedures and methods of allocating state moneys for public school purposes and subversive activities
+Y1  - 1941
+D1  - 1941
+SP  - 76
+KW  - Educational law and legislation
+N1  - Shelved in Cubberley Library Reading Room
+T2  - Legislative document
+V1  - 54
+PB  - New York State Legislature
+CY  - Albany, NY
+LA  - English
+CN  - 379.374 .N45s
+SC  - New York
+ER  -
