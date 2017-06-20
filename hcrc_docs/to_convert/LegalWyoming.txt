@@ -1,0 +1,427 @@
+
+TY  - BOOK
+A2  - Tennessee State Department of Public Instruction
+T1  - Compilation of Tennessee school laws topically arranged
+Y1  - 1917
+D1  - 1917
+SP  - 168
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Tennessee State Department of Public Instruction
+CY  - Nashville, TN
+LA  - English
+CN  - 379.374 .T1
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Tennessee State Board of Education
+T1  - Rules, regulations and minimum standards
+D1  - 1955-1959
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1955/1956-1957/1959; Cubberley Library School Legal Documents; ask at desk
+PB  - Tennessee State Board of Education
+CY  - Nashville, TN
+LA  - English
+CN  - 379.374 .T1
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A1  - Morgan, Allen
+T1  - An act to provide for the operation of the educational system of the state of by making appropriations therefor for the coming biennium, by regulating the expenditure of such appropriations and by providing for the powers of the institutions in such system
+D1  - 1946
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .T1
+SC  - Tennessee
+ER  -
+
+TY  - BOOK
+A2  - Utah State Department of Public Instruction
+T1  - School law of Utah
+D1  - 1897-
+KW  - Educational law and legislation
+N1  - Other titles School laws; school law, Cubberley Education Library holdings 1897, 1903,1907,1909,1911,1913,1919,1921,1923,1925,1927,1929,1931,1933,1937,1939,1943,1945,1969; Cubberley Library School Legal Documents; ask at desk
+PB  - Utah State Department of Public Instruction
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 379.374 .U1
+SC  - Utah
+ER  -
+
+TY  - BOOK
+T1  - School laws of the state of Vermont, enacted by the General Assembly in 1888
+Y1  - 1888
+D1  - 1888
+SP  - 50
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.374 .V1 1888
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A1  - Taylor, William H
+T1  - The school laws of Vermont in force April 1, A.D. 1893
+Y1  - 1893
+D1  - 1893
+SP  - 88
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Burlington, VT
+LA  - English
+CN  - 379.374 .V1 1893
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - School laws, acts of 1904
+D1  - 1904?
+SP  - 24
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+T2  - Circulars of educational information
+V1  - 16
+PB  - Vermont State Department of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.374 .V1 1904
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - School laws, acts of 1912
+D1  - 1912?
+SP  - 62
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+T2  - Circulars of educational information
+V1  - 7
+PB  - Vermont State Department of Education
+CY  - Essex Junction, VT
+LA  - English
+CN  - 379.374 .V1 1912
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - Vermont school laws, acts of 1915
+D1  - 1915?
+SP  - 74
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Vermont State Department of Education
+LA  - English
+CN  - 379.374 .V1 1915
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Public Instruction
+T1  - Public laws of the state of Vermont relating to public instruction
+D1  - 1895-1939
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1895,1910,1911,1934,1935,1939; Cubberley Library School Legal Documents; ask at desk
+PB  - Vermont State Department of Public Instruction
+CY  - Rutland, VT
+LA  - English
+CN  - 379.374 .V1
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Department of Education
+T1  - General laws of the state of Vermont relating to Department of Education
+D1  - 1921-1929
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1921,1923,1925,1927,1929; Cubberley Library School Legal Documents; ask at desk
+PB  - Vermont State Department of Education
+CY  - Rutland, VT
+LA  - English
+CN  - 379.374 .V1
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State Board of Education
+T1  - School laws, supplementary list of acts relating to education passed by the General Assembly of 1931
+Y1  - 1931
+D1  - 05/1931
+SP  - 95
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Vermont State Board of Education
+CY  - Montpelier, VT
+LA  - English
+CN  - 379.374 .V1
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+T1  - Vermont education laws
+D1  - 1960?
+SP  - 263
+KW  - Educational law and legislation
+N1  - Note: reprinted from Title 16 and others, Vermont Statutes Annotated; Cubberley Library School Legal Documents; ask at desk
+CY  - Oxford, NH
+LA  - English
+CN  - 379.374 .V1
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Vermont State School Directors Association
+T1  - A manual of school laws
+D1  - 1963-1969
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1963,1965-1969; Cubberley Library School Legal Documents; ask at desk
+LA  - English
+CN  - 379.374 .V1
+SC  - Vermont
+ER  -
+
+TY  - BOOK
+A2  - Virginia State Board of Education
+T1  - Virginia school laws
+D1  - 1892
+SP  - 1892-1969
+KW  - Educational law and legislation
+N1  - Note: some issues published as part of the bulletin, title varies slightly, Cubberley Education Library holdings 1892, 1903, 1905, 1907, 1910, 1915, 1920, 1923, 1928,1930,1936,1940,1944,1969; Cubberley Library School Legal Documents; ask at desk
+PB  - Virginia State Board of Education
+CY  - Richmond, VA
+LA  - English
+CN  - 379.374 .V2
+SC  - Virginia
+ER  -
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - School laws of the state of Washington
+D1  - 1890
+SP  - 1890-1893
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1890-1891,1893; Cubberley Library School Legal Documents; ask at desk
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.374 .W1
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Code of public instruction of the state of Washington
+D1  - 1897-1923
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1897,1903,1905,1907,1913,1917,1923; Cubberley Library School Legal Documents; ask at desk
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.374 .W1
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - School laws of Washington enacted by the legislature
+D1  - 1915-1969
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1915,1945,1947,1955,1969; Cubberley Library School Legal Documents; ask at desk
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.374 .W1
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Laws relating to public schools and school interests enacted by the legislatures of 1925 (regular and extraordinary sessions) and 1927 regular session
+Y1  - 1927
+D1  - 1927
+SP  - 52
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.374 .W1 1927
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Laws relating to public schools and school interests enacted by the legislatures of 1925 (regular and extraordinary sessions) and 1927, 1929 and 1931 regular sessions
+Y1  - 1931
+D1  - 1931
+SP  - 55
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.374 .W1 1931
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - Washington State Superintendent of Public Instruction
+T1  - Guidebook for school officers
+Y1  - 1933
+D1  - 1933
+SP  - 127
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Washington State Superintendent of Public Instruction
+CY  - Olympia, WA
+LA  - English
+CN  - 379.374 .W1
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Elwick, Andrew
+A2  - Washington State Department of Education
+T1  - One hundred and one answers to questions on school law
+Y1  - 1940
+D1  - 05/1940
+SP  - 24
+KW  - Educational law and legislation
+N1  - Note: issued as part of the Bulletin of the State Department of Education, Cubberley Library School Legal Documents; ask at desk
+PB  - Washington State Department of Education
+CY  - Olympia, WA
+LA  - English
+CN  - 379.374 .W1
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A1  - Thomas, Maurice J
+T1  - The Thomas code of public education, state of Washington
+Y1  - 1939
+D1  - 1939
+SP  - 555
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Seattle, WA
+LA  - English
+CN  - 379.374 .W1 1939
+SC  - Washington
+ER  -
+
+TY  - BOOK
+A2  - West Virginia State Superintendent of Free Schools
+T1  - School law of West Virginia
+D1  - 1891-1969
+KW  - Educational law and legislation
+N1  - Title varies, Cubberley Education Library holdings 1891,1897,1903,1908,1909 suppl.,1911,1913 suppl.,1915,1917,1919,1921,1925,1927,1929,1931,1935,1939,1943,1969; Cubberley Library School Legal Documents; ask at desk
+PB  - West Virginia State Superintendent of Free Schools
+CY  - Charleston, WV
+LA  - English
+CN  - 379.374 .W11
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+T1  - Sections of the school law of West Virginia as amended or repealed by the legislature at its session of 1893
+Y1  - 1893
+D1  - 1893
+SP  - 17
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+CY  - Charleston, WV
+LA  - English
+CN  - 379.374 .W11 1893
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A2  - West Virginia State Department of Education
+T1  - Special number on recent school legislation
+Y1  - 1941
+D1  - 03/1941
+SP  - 31
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+T2  - West Virginia educational bulletin
+V1  - 8
+IS  - 8
+PB  - West Virginia State Department of Education
+LA  - English
+CN  - 379.74 .W11 1941
+SC  - West Virginia
+ER  -
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Laws of Wisconsin relating to public schools
+D1  - 1938-1967
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1938,1957,1967; Cubberley Library School Legal Documents; ask at desk
+PB  - Wisconsin State Department of Public Instruction
+LA  - English
+CN  - 379.374 .W3
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Wisconsin State Department of Public Instruction
+T1  - Laws of Wisconsin relating to common schools
+D1  - 1934-1945
+KW  - Educational law and legislation
+N1  - Cubberley Education Library holdings 1934,1936,1942.1945; Cubberley Library School Legal Documents; ask at desk
+PB  - Wisconsin State Department of Public Instruction
+LA  - English
+CN  - 379.374 .W3
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+T1  - West's Wisconsin statutes annotated
+Y1  - 1957
+D1  - 1957
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - West Publishing Company
+CY  - Saint Paul, MN
+LA  - English
+CN  - 379.374 .W811
+SC  - Wisconsin
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Board of Education
+T1  - Wyoming school laws with annotations
+Y1  - 1967
+D1  - 1967
+SP  - 435
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Wyoming State Board of Education
+LA  - English
+CN  - 379.374 .W31
+SC  - Wyoming
+ER  -
+
+TY  - BOOK
+A2  - Wyoming State Department of Education
+T1  - The Wyoming education code of 1969 and other enactments of the 40th Wyoming Legislature pertaining ot the public schools
+Y1  - 1969
+D1  - 1969
+SP  - 89
+KW  - Educational law and legislation
+N1  - Cubberley Library School Legal Documents; ask at desk
+PB  - Wyoming State Department of Education
+CY  - Cheyenne, WY
+LA  - English
+CN  - 379.374 .W31
+SC  - Wyoming
+ER  -
+
