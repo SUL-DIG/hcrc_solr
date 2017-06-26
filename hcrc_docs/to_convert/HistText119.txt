@@ -1,0 +1,964 @@
+
+TY  - BOOK
+A1  - Sheel, M. Annette
+A1  - Hale, Paul B.
+T1  - Social studies teaching aids for a stronger America
+Y1  - 1955
+D1  - 05/1955
+SP  - 106
+KW  - Aeronautics
+KW  - Social sciences
+KW  - Curricula
+N1  - Prepared for the Illinois Curriculum Program--Aviation Education Project; Circular series A. No. 51; Illinois Curriculum Program Bulletin No. 22, Part D
+T2  - Our world of flight series
+PB  - National Aviation Education Council
+CY  - Washington, DC
+LA  - English
+CN  - 521.9 .N272s 1955
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Potthoff, Edward F.
+A2  - University of Illinois
+T1  - Simplifying the combinations of subjects assigned to high school teachers: a way to improved instruction in the high schools of Illinois
+Y1  - 1939
+D1  - 06/1939
+SP  - 66
+KW  - High school teachers
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 375.15 .I29s 1939
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Merwin, Jack C.
+A1  - Hale, Paul B.
+T1  - Mathematics teaching aids for a stronger America
+Y1  - 1955
+D1  - 03/1955
+SP  - 106
+KW  - Aeronautics
+KW  - Mathematics
+KW  - Curricula
+N1  - Prepared for the Illinois Curriculum Program--Aviation Education Project; Circular series A. No. 51; Illinois Curriculum Program Bulletin No. 22, Part B
+T2  - Our world of flight series
+PB  - National Aviation Education Council
+CY  - Washington, DC
+LA  - English
+CN  - 511.6 .N272m 1955
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Hand, Harold C.
+T1  - How to conduct the participation in extra-class activities study
+Y1  - 1949
+D1  - 05/1949
+SP  - 66
+KW  - Curricula
+N1  - Sponsored by the Illinois Secondary School Curriculum Program
+PB  - Illinois State Department of Public Instruction
+CY  - Springfield, IL
+T2  - Illinois Secondary School Curriculum Program Bulletin
+V1  - 5
+LA  - English
+CN  - 375.15 .I29h 1949
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Clevenger, Arthur W.
+A2  - University of Illinois
+T1  - Trends in school and grade reorganization
+Y1  - 1955
+D1  - 1955
+SP  - 55
+KW  - School management and organization
+N1  - Major departures from the traditional eight-four plan; The junior high school movement; The six-year secondary school
+PB  - University of Illinois
+LA  - English
+CN  - 379.74 .I27t 1955
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Kirk, Samuel A.
+A1  - Black, Martha E.
+A1  - Duffin, Russell M.
+A1  - Garrison, Ivan K.
+A1  - Johnson, G. Orville
+T1  - Educating the mentally handicapped in the secondary schools
+Y1  - 1951
+D1  - 01/1951
+SP  - 54
+KW  - Children with mental disabilities
+N1  - Circular Series A, No. 51 Illinois Secondary School Curriculum Program
+T2  - Illinois Secondary School Curriculum Program Bulletin
+V1  - 12
+PB  - Illinois State Department of Public Instruction
+CY  - Springfield, IL
+LA  - English
+CN  - 371.9 .I29e 1951
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Taylor, E. H.
+A2  - Eastern Illinois State Teacher College at Charleston
+T1  - Arithmetic teachers in the making
+Y1  - 1928
+D1  - 07/1928
+SP  - 15
+KW  - Arithmetic
+KW  - Teacher training
+N1  - Read at te Annual Meeting of the American Association of Teachers Colleges, Boston, February 24, 1928.
+T2  - The Teachers college bulletin
+V1  - 101
+PB  - Eastern Illinois State Teacher College at Charleston
+CY  - Charleston, IL
+LA  - English
+CN  - 379.74 .I32a 1928
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Department of Public Instruction. Division of Public Instruction
+T1  - Here's the job for your future...a career in special education of exceptional children
+Y1  - 1949
+D1  - 1949
+SP  - 26
+KW  - Special education
+PB  - Illinois State Department of Public Instruction
+LA  - English
+CN  - 371.9 .I29h 1949
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Department of Public Instruction
+T1  - "I quit?" report of the Illinois crusade dropout survey conducted 1966-1967
+Y1  - 1969
+D1  - 1969?
+SP  - 43
+KW  - Dropouts
+PB  - Illinois State Department of Public Instruction
+LA  - English
+CN  - 379.74 .I29i
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Illinois State Department of Public Instruction
+T1  - School bus transportation in Illinois
+SP  - 86
+KW  - School buses
+PB  - Illinois State Department of Public Instruction
+LA  - English
+CN  - 379.74 .I29s
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - Plotting your course, senior edition
+Y1  - 1954
+D1  - 1954
+SP  - 241
+KW  - Vocational guidance
+N1  - A vocational guidance handbook for high school seniors
+T2  - Los Angeles City Schools publication
+V1  - 581
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.41 .L87p 1954
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Davison, Donald G.
+A2  - Joint Council on Economic Education
+T1  - Strategies for teaching economics: primary level (grades 1-3)
+Y1  - 1977
+D1  - 1977
+SP  - 142
+KW  - Economics
+T2  - Master curriculum guide in economics for the nation's schools; JCEE checklist
+V1  - 257
+PB  - Joint Council on Economic Education
+CY  - New York, NY
+LA  - English
+CN  - 330 .J74s 1977
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Kouritsky, Marilyn
+A2  - Joint Council on Economic Education
+T1  - Strategies for teaching economics: intermediate level (grades 4-6)
+Y1  - 1978
+D1  - 1978
+SP  - 126
+KW  - Economics
+T2  - Master curriculum guide in economics for the nation's schools; JCEE checklist
+V1  - 258
+PB  - Joint Council on Economic Education
+CY  - New York, NY
+LA  - English
+CN  - 330 .J74s 1978
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - O'Neill, James B.
+A2  - Joint Council on Economic Education
+T1  - Strategies for teaching economics: United States history (secondary)
+Y1  - 1980
+D1  - 1980
+SP  - 117
+KW  - Economics
+KW  - United States history
+T2  - Master curriculum guide in economics for the nation's schools; JCEE checklist
+V1  - 260
+PB  - Joint Council on Economic Education
+CY  - New York, NY
+LA  - English
+CN  - 330 .J74s 1980
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - O'Neill, James B.
+A2  - Joint Council on Economic Education
+T1  - Strategies for teaching economics: world studies (secondary)
+Y1  - 1980
+D1  - 1980
+SP  - 106
+KW  - Economics
+T2  - Master curriculum guide in economics for the nation's schools; JCEE checklist
+V1  - 261
+PB  - Joint Council on Economic Education
+CY  - New York, NY
+LA  - English
+CN  - 330 .J74s 1980a
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Banaszak, Ronald A.
+A2  - Joint Council on Economic Education
+T1  - Strategies for teaching economics: junior high school level (grades 7-9)
+Y1  - 1981
+D1  - 1981
+SP  - 112
+KW  - Economics
+KW  - United States history
+T2  - Master curriculum guide in economicsfor the nation's schools; JCEE checklist
+V1  - 261
+PB  - Joint Council on Economic Education
+CY  - New York, NY
+LA  - English
+CN  - 330 .J74s 1981
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois
+T1  - Ways to better high schools in Illinois: improving the effectiveness of administration by developing and maintaining sound working relationships
+Y1  - 1941
+D1  - 04/1941
+SP  - 62
+KW  - High schools
+T2  - University of Illinois bulletin
+V1  - 38
+IS  - 33
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 373.14 .I29w 1941
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Howard, Jessie
+A1  - Roberts, Charles W.
+A2  - University of Illinois
+T1  - The problem of English composition in American colleges and universities
+Y1  - 1941
+D1  - 07/1941
+SP  - 94
+KW  - Universities and colleges
+KW  - Writing
+N1  - Studies in higher education, no. 1, Office of the Provost; part I - A summary of recent literature on the teaching of composition; Part II - A survey of requirements in English composition.
+T2  - University of Illinois bulletin
+V1  - 38
+IS  - 48
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 428.2 .I29p 1941
+SC  - Illinois
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois
+T1  - Living in the atomic age: a resource unit for teachers in secondary schools
+Y1  - 1946
+D1  - 12/1946
+SP  - 59
+KW  - Nuclear energy
+T2  - University of Illinois bulletin
+V1  - 38
+IS  - 33
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 327.73 .I29L 1946
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Bonser, Frederick Gordon
+A2  - University of Illinois
+T1  - A statistical study of Illinois high school
+Y1  - 1902
+D1  - 05/1902
+SP  - 59
+KW  - High schools
+T2  - University of Illinois publications
+V1  - 1
+IS  - 3
+PB  - University of Illinois
+CY  - Urbana, IL
+LA  - English
+CN  - 373.14 .I29s 1902
+SC  - Illinois
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of Illinois. Audio-visual Aids Services
+T1  - Science
+Y1  - 1959
+D1  - 1959
+SP  - 107
+KW  - Audio visual materials
+KW  - Science
+PB  - University of Illinois
+CY  - Champaign, IL
+LA  - English
+CN  - 519 .I27s 1959
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Florida Citizens Committee on Education
+T1  - Education and Florida's future: major problems and conclusions
+Y1  - 1947
+D1  - 1947?
+SP  - 31
+KW  - Educational planning
+PB  - Florida Citizens Committee on Education
+LA  - English
+CN  - 379.74 .F63e
+SC  - Florida
+ER  - 
+
+TY  - BOOK
+A1  - Todd, Elizabeth
+A2  - Georgia State Department of Education
+T1  - The Georgia homemaking curriculum: suggestions for planning learning experiences
+Y1  - 1938
+D1  - 1938
+SP  - 107
+KW  - Home economics
+KW  - Curriculum
+N1  - Georgia program for the improvement of instruction in the public schools
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 640 .G35g 1938
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Todd, Elizabeth
+A2  - Georgia State Department of Education
+T1  - General industrial arts laboratory: general shop a suggested program for industrial arts for the public schools of Georgia
+Y1  - 1939
+D1  - 04/1939
+SP  - 97
+KW  - Industrial arts
+KW  - Curriculum
+N1  - Georgia program for the improvement of instruction in the public schools
+PB  - Georgia State Department of Education
+CY  - Atlanta, GA
+LA  - English
+CN  - 680 .G35g 1939
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Hoeber, Ethel Smith
+A2  - Hawaii Department of Public Instruction
+T1  - The language arts in the elementary schools of Hawaii: kindergarten through grade 6
+Y1  - 1950
+D1  - 1950
+SP  - 106
+KW  - Language arts
+PB  - Hawaii Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 428.2 .H38L 1950
+SC  - Hawaii
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Lines, Alva B.
+A1  - Hogan, Glenn M.
+A2  - National Youth Administration of Georgia
+T1  - Occupational outlook for Georgia youth
+Y1  - 1939
+D1  - 07/1939
+SP  - 78
+KW  - Occupations
+N1  - Griffin, Georgia
+V1  - 4
+PB  - National Youth Administration of Georgia
+CY  - Atlanta, GA
+LA  - English
+CN  - 371.41 .N301o 1939 v. 4
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Kenney, Russell A.
+A2  - Kern County (California) Schools
+T1  - Teaching arithmetic fundamentals to Kern County children; part 2: purposeful experiences
+Y1  - 1953
+D1  - 05/1953
+SP  - 6
+KW  - Arithmetic
+V1  - 10
+IS  - 2
+PB  - Kern County (California) Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 511.2 .K39t v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Kenney, Russell A.
+A2  - Kern County (California) Schools
+T1  - Teaching arithmetic fundamentals to Kern County children; part 1: understanding
+Y1  - 1953
+D1  - 02/1953
+SP  - 13
+KW  - Arithmetic
+V1  - 10
+IS  - 1
+PB  - Kern County (California) Office of Superintendent of Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 511.2 .K39t v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Platt, Philip S.
+T1  - A statistical report of the activities of Palama Settlement for the year 1937
+Y1  - 1938
+D1  - 02/1938
+SP  - 46
+KW  - Community centers
+PB  - Palama Settlement
+CY  - Honolulu, HI
+LA  - English
+CN  - 379.74 .P16S 1938
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A1  - Barnes, Homer F.
+T1  - Some policies of the Kamehameha Schools
+Y1  - 1939
+D1  - 10/1939
+SP  - 31
+KW  - Public schools
+PB  - Kamehameha Schools
+CY  - Honolulu, HI
+LA  - English
+CN  - 375.83 .K144s 1939
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A2  - Hartford (Connecticut) Public Schools
+T1  - Science curriculum guide, kindergarten, grades 1-6
+Y1  - 1955
+D1  - 1955
+SP  - 93
+KW  - Science
+KW  - Curricula
+PB  - Hartford Public Schools
+CY  - Hartford, CT
+LA  - English
+CN  - 519 .H32s 1955
+SC  - Connecticut
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Nearing, Scott
+T1  - Soviet education: what does it offer to America?
+SP  - 30
+KW  - Soviet education
+PB  - American Russian Institute
+CY  - San Francisco, CA
+LA  - English
+CN  - 370.947 .N354s
+ER  - 
+
+TY  - BOOK
+A2  - Haddonfield (New Jersey) Schools
+T1  - A course of study in industrial arts for grades and high school 5-12 inclusive
+D1  - 1943?
+SP  - 87
+KW  - Industrial arts
+KW  - Curricula
+PB  - Haddonfield Schools
+CY  - Haddonfield, NJ
+LA  - English
+CN  - 680 .H181i
+SC  - New Jersey
+G1  - Elementary
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - McGovern, Elcy
+A1  - Liddell, Glenda L.
+A2  - Kern County (California) Schools
+T1  - Social studies - science: a guide for Kern County teachers
+Y1  - 1943
+D1  - 1943
+SP  - 248
+KW  - Social sciences
+KW  - Science
+KW  - Curricula
+PB  - Kern County Schools
+CY  - Bakersfield, CA
+LA  - English
+CN  - 371.33 .K39ss 1943
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Inglewood (California) Unified School District
+T1  - Important considerations in individual case study
+Y1  - 1954
+D1  - 11/1954
+KW  - Case studies
+KW  - Educational counseling
+PB  - Inglewood Unified School District
+CY  - Inglewood, CA
+LA  - English
+CN  - 371.45 .I51i 1954
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Reeve, Douglas
+A2  - Hawaii (Territory) Department of Public Instruction. Division of Adult Education
+T1  - Write away!
+Y1  - 1950
+D1  - 1950
+SP  - 27
+KW  - Writing
+KW  - Adult education
+PB  - Hawaii Department of Public Instruction
+CY  - Honolulu, HI
+LA  - English
+CN  - 428.2 .H38w
+SC  - Hawaii
+ER  - 
+
+TY  - BOOK
+A1  - Lines, Alva B.
+A1  - Hogan, Glenn M.
+A2  - National Youth Administration of Georgia
+T1  - Occupational outlook for Georgia youth
+Y1  - 1939
+D1  - 07/1939
+SP  - 271
+KW  - Occupations
+N1  - Atlanta, Georgia
+V1  - 5
+PB  - National Youth Administration of Georgia
+CY  - Atlanta, GA
+LA  - English
+CN  - 371.41 .N301o 1939 v. 5
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Hogan, Glenn M.
+A2  - National Youth Administration of Georgia
+T1  - Occupational outlook for Georgia youth
+Y1  - 1939
+D1  - 06/1939
+SP  - 250
+KW  - Occupations
+N1  - Volume II Columbus, GA; Volume III Albany, GA
+V1  - 2/3
+PB  - National Youth Administration of Georgia
+CY  - Atlanta, GA
+LA  - English
+CN  - 371.41 .N301o 1939 v. 2/3
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Evans, Eva Knox Evans
+A1  - Giles, Mary
+T1  - Let's cook lunch
+Y1  - 1944
+D1  - 1944
+SP  - 46
+KW  - Cooking
+T2  - "Let's do it now" series
+V1  - 4
+PB  - West Georgia College
+CY  - Carrollton, GA
+LA  - English
+CN  - 640 .W51L 1944
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A1  - Evans, Eva Knox Evans
+A1  - Giles, Mary
+T1  - The doctor is coming
+Y1  - 1943
+D1  - 1943
+SP  - 17
+KW  - Health and hygiene
+T2  - "Let's do it now" series
+V1  - 3
+PB  - West Georgia College
+CY  - Carrollton, GA
+LA  - English
+CN  - 613 .W51d 1943
+SC  - Georgia
+ER  - 
+
+TY  - BOOK
+A2  - Glencoe (Illinois) Pubic Schools
+T1  - Guidance in the Glencoe schools
+Y1  - 1940
+D1  - 1940
+SP  - 14
+KW  - Guidance
+PB  - Glencoe Public Schools
+CY  - Glencoe, IL
+LA  - English
+CN  - 371.45 .G55g 1940
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A2  - Glencoe (Illinois) Pubic Schools
+T1  - A guide to social education
+Y1  - 1944
+D1  - 09/1944
+SP  - 87
+KW  - Social sciences
+PB  - Glencoe Public Schools
+CY  - Glencoe, IL
+LA  - English
+CN  - 371.33 .G55gs 1944
+SC  - Illinois
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Russell, David H.
+T1  - The basic reading program in the modern school
+SP  - 8
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 1
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gates, Doris
+T1  - The literary aspects of a basic reading series
+SP  - 4
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 2
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Robison, Eleanor G.
+T1  - Helping parents understand the modern reading program
+SP  - 7
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 3
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Buckingham, B. R.
+T1  - Some applications of meaning theory to reading methods
+SP  - 5
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 4
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Ousley, Odille
+T1  - It happened one September
+SP  - 7
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 5
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Ousley, Odille
+T1  - The second September
+SP  - 8
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 6
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Russell, David H.
+A1  - Wulfing, Gretchen
+T1  - Eight controversial issues in the teaching of reading
+SP  - 8
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 7
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Robison, Eleanor G.
+T1  - A letter to parents
+SP  - 4
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 8
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Cox, Philena
+A1  - Hughes, Rosalind
+T1  - Effective choral speaking and reading
+SP  - 8
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 9
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - McCullough, Constance M.
+T1  - Independent reading activities
+SP  - 11
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 10
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Wulfing, Gretchen
+T1  - Helping the slow reader
+SP  - 6
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 11
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Gates, Doris
+T1  - Character training and the reading program
+SP  - 4
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 12
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Russell, David H.
+T1  - A reading program for the seventh and eighth grades
+SP  - 6
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 13
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Wulfing, Gretchen
+T1  - Helping the superior reader
+SP  - 6
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 14
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - McCullough, Constance M.
+T1  - Creative reading
+SP  - 6
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 15
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Worthington, Louise Willson
+T1  - Oral reading? Certainly!
+SP  - 8
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 16
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Lodge, William J.
+T1  - Reading the content subjects
+SP  - 7
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 17
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Russell, David H.
+A1  - Gates, Doris
+T1  - Learning to read whole books
+SP  - 6
+KW  - Reading
+T2  - Ginn and company contributions in reading
+V1  - 18
+PB  - Ginn and Company
+CY  - Boston, MA
+LA  - English
+CN  - 428.4 G49c
+G1  - Elementary
+ER  - 
+
