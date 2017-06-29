@@ -1,0 +1,1062 @@
+
+TY  - BOOK
+A1  - Biersteker, Joseph
+A1  - Bursheim, Jeanne
+A1  - Kraby, James
+A2  - Minnesota Mathematics and Science Teaching Project
+T1  - Angles and space
+Y1  - 1970
+D1  - 1970
+SP  - 152
+KW  - Geometry
+KW  - Mathematics
+T2  - Minnemast coordinated mathematics-science series
+V1  - 21
+PB  - Minnesota Mathematics and Science Teaching Project
+CY  - Minneapolis, MN
+LA  - English
+CN  - 513 .M655a 1970
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Vogt, Elaine E.
+A1  - Sohre, Beverly
+A1  - Forseth, Sonia
+A1  - Norman, Judith L.
+A2  - Minnesota Mathematics and Science Teaching Project
+T1  - Parts and pieces
+Y1  - 1970
+D1  - 1970
+SP  - 132
+KW  - Fractions
+KW  - Mathematics
+T2  - Minnemast coordinated mathematics-science series
+V1  - 22
+PB  - Minnesota Mathematics and Science Teaching Project
+CY  - Minneapolis, MN
+LA  - English
+CN  - 511,2 .M655p 1970
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Mishawaka (Indiana) Public Schools
+T1  - Course of study in English, grades 1-6
+Y1  - 1943
+D1  - 1943
+SP  - 82
+KW  - English language
+KW  - Curricula
+PB  - Mishawaka Public Schools
+CY  - Mishawaka, IN
+LA  - English
+CN  - 428.2 .M664c 1943
+SC  - Indiana
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Montana State Department of Public Instruction. Department of Vocational Education
+T1  - State plans for vocational education, 1937-1942
+SP  - 160
+KW  - Vocational education
+PB  - Montana State Department of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 371.401 .M75v
+SC  - Montana
+ER  - 
+
+TY  - BOOK
+A2  - Montana State Department of Public Instruction
+T1  - Course of study in English for Montana high schools
+Y1  - 1925
+D1  - 1925
+KW  - English language
+KW  - English literature
+PB  - Montana State Department of Public Instruction
+CY  - Helena, MT
+LA  - English
+CN  - 428.2 M75c 1925
+SC  - Montana
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New England Board of Higher Education
+T1  - Regional cooperation in New England higher education
+SP  - 24
+KW  - Higher education
+PB  - New England Board of Higher Education
+CY  - Winchester, MA
+LA  - English
+CN  - 379.74 .N502r
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Hartung, Ernest W.
+A2  - New England Board of Higher Education
+T1  - Some factors in the choice of a career in college teaching of biology
+Y1  - 1961
+D1  - 1961
+SP  - 35
+KW  - Biology
+KW  - Higher education
+PB  - New England Board of Higher Education
+CY  - Winchester, MA
+LA  - English
+CN  - 570 .N502s 1961
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Montebello (California) Unified School District
+T1  - A guide for speech improvement in the primary grades
+Y1  - 1954
+D1  - 01/1954
+SP  - 292
+KW  - Speech disorders
+PB  - Montebello Unified School District
+CY  - Montebello, CA
+LA  - English
+CN  - 371.9 .M77g 1954
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Marysville (California) Joint Unified School District
+T1  - Bilingual education for Mexican-American children...an experiment: a report of the second year
+Y1  - 1968
+D1  - 1967-1968
+SP  - 71
+KW  - Bilingual education
+KW  - Mexican Americans
+PB  - Marysville Joint Unified School District
+CY  - Marysville, CA
+LA  - English
+CN  - 428.211 .M39b 1968
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Guidance services for Minnesota schools, grades 1-12
+Y1  - 1951
+D1  - 1951
+SP  - 181
+KW  - Guidance
+T2  - Minnesota State Department of Education. Curriculum bulletin
+V1  - 16
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 371.45 .M66g 1951
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minnesota State Department of Education
+T1  - Extension program in cooperation: lesson materials for discussion groups
+SP  - 109
+KW  - Cooperative societies
+N1  - Part I. The consumer's cooperative movement; Part II. Producers' cooperation
+PB  - Minnesota State Department of Education
+CY  - St. Paul, MN
+LA  - English
+CN  - 374.9 .M66e
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools 
+T1  - Professional yearbook public schools Montgomery County, Maryland, 1938-1939: course of study issue
+D1  - 1938-1939
+KW  - Courses of study
+N1  - Two volumes: Part 1 pages 1-29a; part II pages 30-156
+PB  - Montgomery County Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 375.82 .M78p 1938-1939
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools 
+T1  - Professional yearbooks and course of study bulletin: democracy now
+Y1  - 1941
+D1  - 09/1941
+SP  - 65
+KW  - Courses of study
+T2  - Montgomery County Public Schools. Bulletin
+V1  - 60
+PB  - Montgomery County Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 375.82 .M78p 1941
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools 
+T1  - Elementary data bulletin: the community water supply
+Y1  - 1941
+D1  - 09/1941
+SP  - 24
+KW  - Water supply
+KW  - Courses of study
+KW  - Social sciences
+T2  - Montgomery County Public Schools. Bulletin
+V1  - 56
+PB  - Montgomery County Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 628 .M78e 1941
+SC  - Maryland
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools 
+T1  - Elementary data bulletin: the beaver - a social animal
+Y1  - 1941
+D1  - 09/1941
+SP  - 25
+KW  - Beavers
+KW  - Courses of study
+KW  - Social sciences
+T2  - Montgomery County Public Schools. Bulletin
+V1  - 56
+PB  - Montgomery County Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 599 .M78e 1941
+SC  - Maryland
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools 
+T1  - Curriculum guide: English language arts: structured program in composition
+Y1  - 1967
+D1  - 09/1967
+KW  - English language
+KW  - Writing
+T2  - Montgomery County Public Schools. Bulletin
+V1  - 154
+PB  - Montgomery County Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 428.2 .M78c 1967
+SC  - Maryland
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Montgomery County (Maryland) Public Schools 
+T1  - Elementary procedure bulletin: community living housing
+Y1  - 1941
+D1  - 09/1941
+SP  - 205
+KW  - Housing
+KW  - Community life
+KW  - Courses of study
+KW  - Social sciences
+T2  - Montgomery County Public Schools. Bulletin
+V1  - 51
+PB  - Montgomery County Public Schools
+CY  - Rockville, MD
+LA  - English
+CN  - 323 .M78e 1941
+SC  - Maryland
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Board of Control for Vocational Education
+T1  - Manual for training farmer-employers to use inexperienced labor
+Y1  - 1943
+D1  - 1943
+SP  - 35
+KW  - Vocational education
+KW  - Agricultural education
+N1  - Prepared by Teacher-Education staff in Agricultural Education Department of Education, Michigan State College and the Committee on Farmer-Employer Training in cooperation with the Michigan State Board of Control for Vocational Education; Official misc. 2116
+PB  - Michigan State Board of Control for Vocational Education
+CY  - Lansing, MI
+LA  - English
+CN  - 630 .M62m 1943
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Superintendent of Public Instruction
+T1  - Swords into ploughshares: what civilian education can learn from the training program of the armed forces
+Y1  - 1946
+D1  - 1946
+SP  - 44
+KW  - Military education
+PB  - Michigan State Superintendent of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 371.43 .M62s 1946
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan Department of Health
+T1  - Health education in the community school
+Y1  - 1947
+D1  - 01/1947
+SP  - 21
+KW  - Health education
+T2  - Michigan public health
+V1  - 35
+IS  - 1
+PB  - Michigan Department of Health
+CY  - Lansing, MI
+LA  - English
+CN  - 613 .M62h 1947
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Superintendent of Public Instruction
+A2  - Michigan Department of Aeronautics
+T1  - Air age education in Michigan
+Y1  - 1946
+D1  - 1946
+SP  - 95
+KW  - Aeronautics
+N1  - Published by the Superintendent of Public Instruction in cooperation with the Michigan Department of Aeronautics
+T2  - Michigan State Superintendent of Public Instruction. Bulletin
+V1  - 341
+PB  - Michigan State Superintendent of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 521.9 .M62a 1946
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Superintendent of Public Instruction
+T1  - Basic community survey
+Y1  - 1939
+D1  - 03/1939
+SP  - 9
+KW  - Community life
+KW  - Social sciences
+T2  - Michigan State Superintendent of Public Instruction. Bulletin
+V1  - 3014
+PB  - Michigan State Superintendent of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 323 .M62b 1939
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Superintendent of Public Instruction
+T1  - Basic instructional policy for the Michigan curriculum program (second tentative draft)
+Y1  - 1939
+D1  - 03/1939
+SP  - 7
+KW  - Curricula
+N1  - Instructional service series no. 12
+T2  - Michigan State Superintendent of Public Instruction. Bulletin
+V1  - 3012
+PB  - Michigan State Superintendent of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.81 .M62b 1939
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A1  - Sangren, Paul V.
+A2  - Western State Teachers College
+T1  - Improvement of reading through the use of tests
+Y1  - 1931
+D1  - Fall, 1931
+SP  - 207
+KW  - Reading
+KW  - Tests
+T2  - Western State Teachers College. Bulletin
+V1  - 27
+IS  - 2
+PB  - Western State Teachers College
+CY  - Kalamazoo, MI
+LA  - English
+CN  - 428.4 .W59i 1931
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Instructional guide for elementary schools
+Y1  - 1936
+D1  - 1936
+SP  - 163
+KW  - Elementary education
+T2  - Michigan State Department of Public Instruction. Bulletin
+V1  - 301
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.13 .M62i 1936
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - What does research say? A statement of the implications of educational research for teaching in the elementary school
+Y1  - 1937
+D1  - 1937
+SP  - 146
+KW  - Elementary education
+T2  - Michigan State Department of Public Instruction. Bulletin
+V1  - 308
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.13 .M62w 1937
+SC  - Michigan
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Board of Education
+T1  - Changing secondary education in the United States: report on a survey of modifications of secondary education
+Y1  - 1939
+D1  - 10/1939
+SP  - 72
+KW  - Secondary education
+PB  - Michigan State Board of Education
+CY  - Lansing, MI
+LA  - English
+CN  - 375.15 .M62ch 1939
+SC  - Michigan
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mishawaka (Indiana) Public Schools
+T1  - Elementary science: course of study in elementary science for grades four to six
+Y1  - 1939
+D1  - 1939
+SP  - 91
+KW  - Science
+KW  - Elementary education
+PB  - Mishawaka Public Schools
+CY  - Mishawaka, IN
+LA  - English
+CN  - 519 .M664e 1939
+SC  - Indiana
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Wagner, John
+A2  - Mathematical Association of America. Committee on the Undergraduate Program in Mathematics
+T1  - Mathematics text materials for the undergraduate preparation of elementary school teachers
+Y1  - 1963
+D1  - 02/1963
+SP  - 22
+KW  - Mathematics
+KW  - Elementary education
+T2  - CUPM study
+V1  - 2
+PB  - Mathematical Association of America. Committee on the Undergraduate Program in Mathematics
+LA  - English
+CN  - 511.6 .M426m 1963
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Milwaukee (Wisconsin) Superintendent of Schools
+T1  - The Milwaukee public schools make Americans: eighty-second annual report of the Superintendent of Schools, Milwaukee, Wisconsin, June 1941
+Y1  - 1941
+D1  - 06/1941
+SP  - 51
+KW  - Public schools
+PB  - Milwaukee Superintendent of Schools
+CY  - Milwaukee, WI
+LA  - English
+CN  - 375.83 .M66m 1941
+ER  - 
+
+TY  - BOOK
+A1  - Greenlee, Julian
+T1  - Teaching science to children
+Y1  - 1951
+D1  - 1951
+SP  - 58
+KW  - Science
+PB  - Wm. C. Brown Company
+CY  - Dubuque, IA
+LA  - English
+CN  - 519 .G801t 1951
+ER  - 
+
+TY  - BOOK
+A1  - Parker, W. E.
+A1  - Moyer, D. H.
+A2  - University of Michigan
+T1  - Vocational information: a bibliography for college and high school students
+Y1  - 1928
+D1  - 10/1928
+SP  - 236
+KW  - Vocational guidance
+KW  - Bibliography
+PB  - University of Michigan
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 371.411 .M62v 1928
+SC  - Michigan
+G1  - High school
+G1  - Post secondary
+ER  - 
+
+TY  - BOOK
+A2  - Delta Pi Epsilon, Kappa Chapter
+T1  - Directory of film evaluations for teachers of business subjects
+Y1  - 1951
+D1  - 1951
+KW  - Business education
+KW  - Audio-visual materials
+KW  - Bibliography
+ED  - Revised
+PB  - University of Michigan
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 371.49 .D39d 1951
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - St. Paul City Hall and Ramsey County Courthouse
+Y1  - 1939
+D1  - 01/1939
+SP  - 5
+KW  - School field trips
+T2  - Field trip bulletin
+V1  - E62a
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665s 1939
+SC  - Minnesota
+G1  - Middle school
+G1  - High school
+G2  - 6th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - Visiting a Minneapolis bank
+Y1  - 1940
+D1  - 02/1940
+SP  - 3
+KW  - School field trips
+T2  - Field trip bulletin
+V1  - E93b-c
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665v 1940
+SC  - Minnesota
+G1  - Middle school
+G1  - High school
+G2  - 9th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - The visit to Zinsmaster Baking Company
+Y1  - 1938
+D1  - 10/1938
+SP  - 2
+KW  - School field trips
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665vz 1938
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - Train ride to St. Paul via Hiawatha or Four Hundred to Minneapolis via Zephyr
+Y1  - 1939
+D1  - 08/1939
+SP  - 6
+KW  - School field trips
+T2  - Field trip bulletin
+V1  - E21b
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665t 1939
+SC  - Minnesota
+G1  - Elementary
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - List of institutions and situations available for field trips, 1939-1940
+Y1  - 1939
+D1  - 1939-1940
+KW  - School field trips
+T2  - Field trip bulletin
+V1  - B3b
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665L 1939
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - Power trip - Ford Motor Company Glass and Manufacturing Assembly Plant
+Y1  - 1938
+D1  - 10/1938
+SP  - 3
+KW  - School field trips
+T2  - Field trip bulletin
+V1  - E52b
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665pa 1938
+SC  - Minnesota
+G1  - Elementary
+G1  - High school
+G2  - 5th
+G2  - 9th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - Power trip - St. Anthony Falls - Washburn Crosby Mills
+Y1  - 1938
+D1  - 09/1938
+SP  - 8
+KW  - School field trips
+T2  - Field trip bulletin
+V1  - E51b
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665p 1938
+SC  - Minnesota
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Instruction
+T1  - Como Park - Botonical [sic] Garden
+Y1  - 1938
+D1  - 1938
+KW  - School field trips
+T2  - Field trip bulletin
+V1  - E41b
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.3 .M665c 1938
+SC  - Minnesota
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Elementary Education
+T1  - Social studies social units for grade 4
+Y1  - 1943
+D1  - 09/1943
+SP  - 96
+KW  - Social sciences
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.33 .M665s 1943
+SC  - Minnesota
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide for the teaching of mathematics, grades 7, 8, and 9
+Y1  - 1940
+D1  - 1940
+SP  - 155
+KW  - Mathematics
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 511.6 .M665g 1940
+SC  - Minnesota
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Division of Elementary Education
+T1  - A guide to teaching the social studies in the elementary school, kindergarten, grades 1-6
+Y1  - 1943
+D1  - 09/1943
+SP  - 76
+KW  - Social sciences
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 371.33 .M665g 1943
+SC  - Minnesota
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide to teaching arithmetic, kindergarten - grades seven
+Y1  - 1955
+D1  - 1955
+SP  - 238
+KW  - Arithmetic
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 511.2 .M665g 1955
+SC  - Minnesota
+G1  - Elementary
+G1  - Middle school
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - A guide to teaching mathematics
+Y1  - 1955
+D1  - 1955
+SP  - 210
+KW  - Mathematics
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 511.6 .M665g 1955
+SC  - Minnesota
+G1  - High school
+G1  - Middle school
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools
+T1  - Communication: a guide to the teaching of speaking and writing
+Y1  - 1953
+D1  - 1953
+SP  - 118
+KW  - Communication
+KW  - Speech
+KW  - Writing
+PB  - Minneapolis Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 428.2 .M665c 1953
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Bossing, Nelson L.
+A1  - Brueckner, Leo J.
+T1  - The impact of the war on the schools of Red Wing
+Y1  - 1945
+D1  - 05/1945
+SP  - 118
+KW  - War and education
+T2  - The community basis for postwar planning
+V1  - 5
+PB  - University of Minnesota Press
+CY  - Minnesota, MN
+LA  - English
+CN  - 309.1 .M666i 1945
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A1  - Chesley, A. J.
+A2  - Minnesota State Department of Health
+T1  - The teacher's part in the school and community health program
+Y1  - 1939
+D1  - 1939
+SP  - 20
+KW  - Public health
+KW  - Elementary education
+N1  - An outline to be used in conjunction with the state elementary curriculum and Standards to aid the teacher in administering certain technicalities of the health program.  Approved for school use by the State Department of Education.
+PB  - Minnesota State Department of Health
+CY  - Minneapolis, MN
+LA  - English
+CN  - 614 .M66t 1939
+SC  - Minnesota
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Lansing (Michigan) Department of Public Instruction
+T1  - Conservation education in the community school program
+Y1  - 1955
+D1  - 1955
+KW  - Conservation of natural resources
+PB  - Lansing Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 631 .L25c 1955
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Michigan Committee on the Articulation of High School and College English
+T1  - Preparation for college English
+Y1  - 1936
+D1  - 06/1936
+SP  - 52
+KW  - English language
+KW  - Writing
+T2  - University of Michigan Official Publication
+V1  - 37
+IS  - 58
+PB  - University of Michigan
+CY  - Ann Arbor, MI
+LA  - English
+CN  - 428.2 .M62p 1936
+SC  - Michigan
+G1  - High school
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - Electrical workers
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 1
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 1
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - Workers in machine shops
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 2
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 2
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - Girls in dressmaking shops
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 3
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 3
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - The calculating machine operator
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 4
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 4
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - The upholstery trade
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 5
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 5
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - The printing trades
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 6
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 6
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - The automobile mechanic
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 7
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 7
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - The stenographer
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 8
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 8
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - Beauty culture as an occupation
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 9
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 9
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - Department store work for juniors
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 10
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 10
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - Typing telegraphy
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 11
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 11
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Minneapolis (Minnesota) Public Schools. Department of Counseling
+T1  - The tailor
+Y1  - 1932
+D1  - 03/1932
+KW  - Vocational education
+T2  - Occupational bulletin
+V1  - 12
+PB  - Minneapolis (Minnesota) Public Schools
+CY  - Minneapolis, MN
+LA  - English
+CN  - 630 .M665o 1932 no. 12
+SC  - Minnesota
+ER  - 
+
+
