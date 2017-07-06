@@ -1,0 +1,762 @@
+
+TY  - BOOK
+A2  - Monterey (California) City Schools
+T1  - Health education, kindergarten through grade eight
+Y1  - 1950
+D1  - 09/1950
+SP  - 214
+KW  - Health education
+PB  - Monterey City Schools
+CY  - Monterey, CA
+LA  - English
+CN  - 613 .M77h 1950
+SC  - California
+G1  - Elementary
+G1  - Middle school
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Board of Education
+T1  - Social studies curriculum guide: working draft for pilot study, 1956-1957
+Y1  - 1956
+D1  - 1956
+SP  - 51
+KW  - Social sciences
+PB  - Monterey County Board of Education
+LA  - English
+CN  - 371.33 .M77s 1956
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Superintendent of Schools
+T1  - The more capable child: an overview
+Y1  - 1954
+D1  - 1954
+SP  - 8
+KW  - Gifted children
+T2  - Curriculum resource bulletins
+V1  - 1
+PB  - Monterey County Board of Education
+LA  - English
+CN  - 371.9 .M78m 1954 no. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Superintendent of Schools
+T1  - Characteristics of the more capable child
+Y1  - 1954
+D1  - 1954-1955
+SP  - 7
+KW  - Gifted children
+T2  - Curriculum resource bulletins
+V1  - 2
+PB  - Monterey County Board of Education
+LA  - English
+CN  - 371.9 .M78c 1954 no. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Monterey County (California) Superintendent of Schools
+T1  - Enriching the program for the more capable child
+Y1  - 1955
+D1  - 1955-1956
+SP  - 9
+KW  - Gifted children
+T2  - Curriculum resource bulletins
+V1  - 3
+PB  - Monterey County Board of Education
+LA  - English
+CN  - 371.9 .M78e 1955 no. 3
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Paul, Glen
+A1  - Schultz, William
+A2  - Modesto Junior College
+T1  - The occupational life of Greater Modesto: an analysis of the occupational and industrial distribution of workers in the community of Modesto, California
+Y1  - 1950
+D1  - 07/1950
+SP  - 211
+KW  - Occupations
+PB  - Modesto Junior College
+CY  - Modesto, CA
+LA  - English
+CN  - 371.41 .M69o 1950
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Missouri State Department of Education
+T1  - Art for the elementary schools
+Y1  - 1956
+D1  - 1956
+SP  - 164
+KW  - Art
+N1  - Missouri's elementary curriculum guide
+T2  - Missouri State Department of Education. Publication.
+V1  - 102G
+PB  - Missouri State Department of Education
+LA  - English
+CN  - 740 .M67a 1956
+SC  - Missouri
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Hartwig, Caroline E. E.
+A2  - Missouri State Superintendent of Public Schools
+T1  - The integration of Missouri history and American history for the senior high schools of Missouri
+Y1  - 1939
+D1  - 1939
+SP  - 47
+KW  - United States history
+KW  - Missouri
+N1  - Submitted in partial fulfilment of the requirements for the degree of doctor of philosophy
+T2  - Missouri at work on the public school curriculum. Secondary school series. Special bulletin
+PB  - Missouri State Superintendent of Public Schools
+CY  - Jefferson City, MO
+LA  - English
+CN  - 973 .M671i 1939
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Hartwig, Caroline E. E.
+A2  - Missouri State Superintendent of Public Schools
+T1  - A statement of philosophy, purposes, and design for the secondary schools of Missouri
+Y1  - 1940
+D1  - 1940
+SP  - 34
+KW  - Secondary education
+T2  - Missouri at work on the public school curriculum. Secondary school series. Bulletin
+V1  - 1
+PB  - Missouri State Superintendent of Public Schools
+CY  - Jefferson City, MO
+LA  - English
+CN  - 375.15 .M67s 1940
+SC  - Missouri
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Seamster, Frederick C.
+A2  - Missouri State Superintendent of Public Schools
+T1  - A handbook on occupational information and guidance
+Y1  - 1941
+D1  - 1941
+SP  - 109
+KW  - Occupations
+KW  - Vocational guidance
+PB  - Missouri State Superintendent of Public Schools
+CY  - Jefferson City, MO
+LA  - English
+CN  - 371.41 .M67h 1941
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A1  - Cooper, Alice Cecilia
+A2  - Modesto Junior College
+T1  - An outline for a suggested four-year course in English in a three-track classification in secondary schools
+SP  - 16
+KW  - English language
+PB  - Modesto Junior College
+CY  - Modesto, CA
+LA  - English
+CN  - 428.2 .M69o
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+A2  - Stanislaus County (California) Superintendent of Schools
+T1  - The English language arts - high school guide; progress report number II - the reading program, part I literature
+Y1  - 1957
+D1  - 06/1957
+SP  - 241
+KW  - Literature
+PB  - Modesto City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69e 1957
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Cline, Jay
+A1  - Stimmel, Roberta
+A1  - Ottoboni, Roy
+A1  - Moriconi, Ralph
+A2  - Modesto (California) City Schools
+T1  - English V-VI: the literature program, thematic approach, course of study
+Y1  - 1958
+D1  - 1958-1959
+SP  - 81
+KW  - Literature
+PB  - Modesto City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.5 .M69eL 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Ritter, Mary S.
+A1  - Spelts, Edna M.
+A2  - Modesto (California) City Schools
+T1  - Public speaking course of study
+Y1  - 1957
+D1  - 1957-1958
+SP  - 172
+KW  - Public speaking
+PB  - Modesto City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.7 .M69p 1957
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+T1  - The developmental writing program
+Y1  - 1960
+D1  - 1960-1961
+SP  - 64
+KW  - Writing
+PB  - Modesto City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.2 .M69d 1960
+SC  - California
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - University of Minnesota. General Extension Divison. Correspondence Study Department
+A2  - School Mathematics Study Group (SMSG)
+T1  - First course in algebra
+Y1  - 1962
+D1  - 1962
+KW  - Algebra
+N1  - Original manuscript based on materials prepared by School Mathematics Study Group (SMSG)
+ED  - Revised
+PB  - University of Minnesota
+CY  - Minneapolis, MN
+LA  - English
+CN  - 512 .M66c 1962
+SC  - Minnesota
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+A2  - Stanislaus County (California) Superintendent of Schools
+T1  - The English language arts - high school guide; progress report number I - the writing program
+Y1  - 1956
+D1  - 06/1956
+SP  - 140
+KW  - Writing
+PB  - Modesto City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.2 .M69e 1956
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Modesto (California) City Schools
+A2  - Stanislaus County (California) Superintendent of Schools
+T1  - The English language arts - secondary school guide; the reading program, part II reading instruction
+Y1  - 1958
+D1  - 1958
+SP  - 162
+KW  - Literature
+PB  - Modesto City Schools
+CY  - Modesto, CA
+LA  - English
+CN  - 428.4 .M69e 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rasmussen, Lore
+T1  - Mathematics laboratory materials: annotated discovery sheets sections L-X
+KW  - Mathematics
+KW  - Elementary education
+KW  - Curricula
+ED  - Experimental
+PB  - Learning Materials, Inc.
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .R21ma
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Rasmussen, Lore
+T1  - Mathematics laboratory materials, volume II: first grade diary, 1960-61
+Y1  - 1962
+D1  - 1962
+SP  - 236
+KW  - Mathematics
+KW  - Elementary education
+KW  - Curricula
+ED  - Experimental
+PB  - Learning Materials, Inc.
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .R21m 1962 v. 2
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A1  - Rasmussen, Lore
+T1  - Mathematics laboratory materials, volume I: notes to teachers
+Y1  - 1962
+D1  - 1962
+SP  - 33
+KW  - Mathematics
+KW  - Elementary education
+KW  - Curricula
+PB  - Learning Materials, Inc.
+CY  - Chicago, IL
+LA  - English
+CN  - 511.2 .R21m 1962 v. 1
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Massachusetts Department of Education
+T1  - Emphasizing character in the elementary school
+Y1  - 1937
+D1  - 1937
+SP  - 64
+KW  - Character education
+KW  - Elementary education
+T2  - The Commonwealth of Massachusetts Bulletin of the Department of Education
+V1  - 7
+IS  - 308
+PB  - Commonwealth of Massachusetts Department of Education
+LA  - English
+CN  - 377.2 .M41e 1937
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Mosaic
+A2  - South Boston High
+T1  - Coming of age in Boston: across the generations
+Y1  - 1984
+D1  - Spring, 1984
+SP  - 68
+KW  - Student publications
+PB  - Mosaic
+CY  - South Boston, MA
+LA  - English
+CN  - 373.176 .M89c 1984
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Singer, Kate
+A2  - Mosaic
+T1  - A teacher's guide to Mosaic's 1984 anthology, Coming of age in Boston
+Y1  - 1984
+D1  - Spring, 1985
+SP  - 29
+KW  - Student publications
+PB  - Mosaic
+CY  - South Boston, MA
+LA  - English
+CN  - 373.176 .M89t 1985
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mosaic
+A2  - South Boston High
+T1  - Your love is a language and you use it
+Y1  - 1985
+D1  - Spring, 1985
+SP  - 36
+KW  - Student publications
+PB  - Mosaic
+CY  - South Boston, MA
+LA  - English
+CN  - 373.176 .M89y 1985
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Singer, Kate
+A1  - Judith Sedwick
+A2  - Mosaic
+A2  - South Boston High
+T1  - Nothing to do but write
+Y1  - 1986
+D1  - 06/1986
+SP  - 53
+KW  - Student publications
+PB  - Mosaic
+CY  - South Boston, MA
+LA  - English
+CN  - 373.176 .M89n 1986
+SC  - Massachusetts
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Massachusetts State Department of Education
+T1  - A curriculum guide for primary grade teachers
+Y1  - 1953
+D1  - 1953
+SP  - 425
+KW  - Elementary education
+KW  - Curricula
+PB  - Massachusetts State Department of Education
+LA  - English
+CN  - 375.12 .M41c 1953
+SC  - Massachusetts
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A1  - Snedeker, Lendon
+A2  - Massachusetts Study of Child Health Services
+T1  - Health services for Massachusetts children
+Y1  - 1949
+D1  - 1949
+SP  - 132
+KW  - School health services
+PB  - American Academy of Arts and Sciences
+LA  - English
+CN  - 613 .M41h 1949
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - Memphis (Tennessee) Public Schools
+T1  - History 3 and 4: study guide sheets for pupils
+Y1  - 1938
+D1  - 09/1938
+SP  - 62
+KW  - World history
+N1  - High school course of study
+T2  - Memphis Public Schools. Bulletin
+V1  - 31
+PB  - Memphis Public Schools
+CY  - Memphis, TN
+LA  - English
+CN  - 925 .M53h 1938
+SC  - Tennessee
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mathematical Association of America
+T1  - Preparation for graduate study in mathematics
+Y1  - 1965
+D1  - 11/1965
+SP  - 22
+KW  - Mathematics
+PB  - Mathematical Association of America
+LA  - English
+CN  - 511.6 .M42p 1965
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Rogers, Frederick Rand
+T1  - An admirable New England high school physical education program
+SP  - 23
+KW  - Physical education and training
+PB  - Pleiades Company
+CY  - Newton, MA
+LA  - English
+CN  - 613.4 .R683a
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Lucy C.
+A2  - Malden (Massachusetts) Public Schools
+T1  - Course of study in art education for elementary schools
+Y1  - 1938
+D1  - 1938
+KW  - Art education
+KW  - Curricula
+PB  - Malden Public Schools
+CY  - Malden, MA
+LA  - English
+CN  - 740 .M26a 1938
+SC  - Massachusetts
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Daniel, James L.
+A2  - Merced (California) City Schools
+T1  - A curriculum guide for teaching English, grades 4-8
+KW  - English language
+KW  - Language arts
+PB  - Merced City Schools
+CY  - Merced, CA
+LA  - English
+CN  - 428.2 .M55c
+SC  - California
+G1  - Elementary
+G1  - Middle school
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Merced (California) City Schools
+T1  - A curriculum guide for eighth grade mathematics
+KW  - Mathematics
+PB  - Merced City Schools
+CY  - Merced, CA
+LA  - English
+CN  - 511.2 .M55c
+SC  - California
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - McDonald, Louise O.
+A1  - Taylor, John W.
+A2  - Mendocino County (California) Superintendent of Schools
+T1  - Elementary science workbook for the schools of Mendocino County California: unit II - bird life
+SP  - 26
+KW  - Birds
+PB  - Mendocino County  Superintendent of Schools
+LA  - English
+CN  - 598.2 .M53e
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan School Study Council (New York, N.Y.)
+T1  - Better high schools faster, second report: case studies in how change has been brought about
+Y1  - 1955
+D1  - 1955
+SP  - 39
+KW  - High schools
+PB  - Metropolitan School Study Council
+CY  - New York, NY
+LA  - English
+CN  - 375.15 .M59b 1955
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Metropolitan School Study Council (New York, N.Y.)
+T1  - "Touchstones" of literature
+Y1  - 1954
+D1  - 1954
+SP  - 61
+KW  - Literature
+PB  - Metropolitan School Study Council
+CY  - New York, NY
+LA  - English
+CN  - 428.5 .M59b 1955
+ER  - 
+
+TY  - BOOK
+A1  - Macomber, F. Glenn
+A1  - Siegel, Laurence
+A2  - Miami University
+T1  - Final report of the experimental study in instructional procedures
+Y1  - 1960
+D1  - 01/1960
+SP  - 96
+KW  - Higher education
+N1  - Project under grant from The Fund for the Advancement of Education
+PB  - Miami University
+CY  - Oxford, OH
+LA  - English
+CN  - 375.18 .M61f 1960
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Michigan State Department of Public Instruction
+T1  - Michigan today: its human and physical resources as they affect education
+Y1  - 1937
+D1  - 1937
+SP  - 301
+KW  - Michigan
+T2  - Michigan State Department of Public Instruction.  Bulletin
+V1  - 307
+PB  - Michigan State Department of Public Instruction
+CY  - Lansing, MI
+LA  - English
+CN  - 375.81 .M62m 1937
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Lynwood (California) Unified School District
+T1  - Workshop reports, volume II
+Y1  - 1952
+D1  - 10/1952
+SP  - 126
+KW  - Teachers
+PB  - Lynwood Unified School District
+CY  - Lynwood, CA
+LA  - English
+CN  - 370.72 .L98w 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Louisiana Rural Normal School
+T1  - Unit: improving interracial attitudes at Green Bay community
+Y1  - 1939
+D1  - 1939
+SP  - 21
+KW  - Race relations
+KW  - Curricula
+N1  - Contribution form the Curriculum Laboratory
+PB  - Louisiana Rural Normal School
+CY  - Grambling, LA
+LA  - English
+CN  - 323 .L881u
+SC  - Louisiana
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Blaney, Rosemarie B.
+A2  - Manhasset (New York) Public Schools
+T1  - Modern mathematics in our elementary schools
+Y1  - 1962
+D1  - 09/1962
+SP  - 40
+KW  - Mathematics
+PB  - Manhasset Public Schools
+CY  - Manhasset, NY
+LA  - English
+CN  - 511.2 .M27m 1962
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+A2  - Maine State Board for Vocational Education
+T1  - Plans and specifications for vocational education in the state of Maine for the five-year period from July 1, 1937 to July 1, 1942
+Y1  - 1942
+D1  - 1942
+SP  - 84
+KW  - Vocational education
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 371.401 .M22p 1942
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A1  - Brain, George B.
+A2  - Baltimore (Maryland) City Public Schools
+A2  - Baltimore Youth Commission
+A2  - Baltimore Department of Health
+A2  - Baltimore Department of Public Welfare
+A2  - Maryland State Department of Employment Security
+T1  - Project work: a cooperative training program for unemployed youth
+Y1  - 1963
+D1  - 07/1963
+SP  - 86
+KW  - Vocational education
+PB  - Baltimore City Public Schools
+CY  - Baltimore, MD
+LA  - English
+CN  - 371.401 .B19p 1963
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Mathematics
+Y1  - 1956
+D1  - 1956
+SP  - 36
+KW  - Mathematics
+N1  - Planning for effective learning
+PB  - Maryland State Department of Education
+LA  - English
+CN  - 511.6 .M39m 1956
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Maryland State Department of Education
+T1  - Science
+Y1  - 1956
+D1  - 1956
+SP  - 16
+KW  - Science
+N1  - Planning for effective learning
+PB  - Maryland State Department of Education
+LA  - English
+CN  - 519 .M39s 1956
+SC  - Maryland
+ER  - 
+
+TY  - BOOK
+A2  - Marysville (California) Public Schools
+T1  - Report of the director of research of the Yuba County Junior College and the Marysville Union High School on instructional measurement in the Marysville elementary schools
+Y1  - 1931
+D1  - 10/1931
+SP  - 36
+KW  - Elementary education
+KW  - Testing
+T2  - Marysville Public Schools. Research bulletin
+V1  - 2
+PB  - Marysville Public Schools
+CY  - Marysville, CA
+LA  - English
+CN  - 375.13 .M39r 1931
+SC  - California
+G1  - Elementary
+ER  - 
+
+
