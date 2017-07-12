@@ -1,0 +1,1052 @@
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District. Division of Instructional Services
+T1  - List of authorized textbooks for junior and senior high schools, 1957-1958
+Y1  - 1957
+D1  - 1957-1958
+SP  - 90
+KW  - Textbooks
+KW  - Bibliography
+T2  - Los Angeles Board of Education.; School publications
+V1  - 426
+ED  - Revised
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L879L 1957-1958
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California) Superintendent of Schools
+T1  - Geographic materials adopted for use in elementary schools
+Y1  - 1959
+D1  - 01/1959
+SP  - 3
+KW  - Geography
+PB  - Los Angeles Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 910 .L87g 1959
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City Schools
+T1  - A guide: work experience education and employment placement program
+Y1  - 1960
+D1  - 1960
+SP  - 27
+KW  - Vocational education
+T2  - Los Angeles (California) City Schools. Publication
+V1  - 403
+ED  - Revised
+PB  - Los Angeles City Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.9 .L87gw 1960
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Central Luzon Agricultural College. Department of Agricultural Engineering
+T1  - Irrigation and drainage structures
+Y1  - 1958
+D1  - 10/1958
+SP  - 88
+KW  - Irrigation
+PB  - Central Luzon Agricultural College
+LA  - English
+CN  - 628 .C393i 1958
+SC  - Philippines
+ER  - 
+
+TY  - BOOK
+A2  - Madison (Wisconsin) Public Schools
+T1  - A natural science program for the intermediate grades
+Y1  - 1937
+D1  - 06/1937
+SP  - 86
+KW  - Biology
+PB  - Madison Public Schools
+CY  - Madison, WI
+LA  - English
+CN  - 570 .M18n 1937
+SC  - Wisconsin
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Maine State Department of Education
+T1  - Safety education (elementary level)
+Y1  - 1952
+D1  - 1952
+SP  - 84
+KW  - Safety education
+PB  - Maine State Department of Education
+CY  - Augusta, ME
+LA  - English
+CN  - 371.76 .M22s 1952
+SC  - Maine
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bryan, Noah R.
+A2  - University of Maine
+T1  - Reorganization of mathematics curricula in liberal arts colleges: report on Coe Project number 50
+Y1  - 1942
+D1  - 12/1942
+SP  - 73
+KW  - Mathematics
+PB  - University of Maine
+CY  - Orono, ME
+LA  - English
+CN  - 517.2 .M221 1942
+SC  - Maine
+ER  - 
+
+TY  - BOOK
+A1  - Hawthorne, W. E.
+A2  - Louisville (Kentucky) Public Schools
+T1  - Handbook of physical training and games, grades 3-8
+Y1  - 1916
+D1  - 1916
+SP  - 151
+KW  - Physical education and training
+PB  - Louisville Public Schools
+CY  - Louisville, KY
+LA  - English
+CN  - 613.4 .L89h 1916
+SC  - Kentucky
+G1  - Elementary
+G1  - Middle school
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - People of early Los Angeles they founded a city
+Y1  - 1951
+D1  - 1951
+SP  - 62
+KW  - Los Angeles
+KW  - History
+T2  - Los Angeles (California) City School District. Curriculum Division Publication
+V1  - 514
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L86p 1951 no. 514
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - People of early Los Angeles their food
+Y1  - 1951
+D1  - 1951
+SP  - 146
+KW  - Los Angeles
+KW  - History
+T2  - Los Angeles (California) City School District. Curriculum Division Publication
+V1  - 517
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L86p 1951 no. 517
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - People of early Los Angeles brought water to their land and homes
+Y1  - 1951
+D1  - 1951
+SP  - 64
+KW  - Los Angeles
+KW  - History
+T2  - Los Angeles (California) City School District. Curriculum Division Publication
+V1  - 515
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L86p 1951 no. 515
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School District
+T1  - People of early Los Angeles their homes
+Y1  - 1951
+D1  - 1951
+SP  - 76
+KW  - Los Angeles
+KW  - History
+T2  - Los Angeles (California) City School District. Curriculum Division Publication
+V1  - 516
+PB  - Los Angeles City School District
+CY  - Los Angeles, CA
+LA  - English
+CN  - 979.4 .L86p 1951 no. 516
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Lash, Henry
+A2  - Los Angeles Trade-Technical Junior College
+T1  - Current literature in vocational guidance: an annotated bibliography
+Y1  - 1951
+D1  - 06/1951
+SP  - 23
+KW  - Vocational guidance
+KW  - Bibliography
+N1  - "Los Angeles Junior College chronicles issued from time to time"
+T2  - Los Angeles School Districts. Publication
+V1  - 521
+PB  - Los Angeles Trade-Technical Junior College
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.425 .L879c 1951
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles County (California). Office of Superintendent of Schools
+T1  - Teachers' institute
+Y1  - 1951
+D1  - 1951-1952
+SP  - 103
+KW  - Teachers' institutes
+PB  - Los Angeles County Superintendent of Schools
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.144 .L879t 1951
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Schwiering, Oscar C.
+A1  - Khan, F. M.
+A2  - Central Training College, Lahore, Pakistan
+T1  - A manual of instruction in the unit method
+Y1  - 1955
+D1  - 1955
+SP  - 198
+KW  - Unit methods
+KW  - Curricula
+N1  - "A project of Central Training College, Lahore and the State College of Washington, USA"
+PB  - Central Training College
+CY  - Lahore, Pakistan
+LA  - English
+CN  - 371.3096
+SC  - Pakistan
+ER  - 
+
+TY  - BOOK
+A1  - Berglund, Gladys
+A2  - Lassen County (California) Office of Education 
+T1  - A study of the survey of exceptional children conducted in Lassen County during 1950-51: a report presented to educators in Lassen County
+Y1  - 1951
+D1  - 12/1951
+SP  - 74
+KW  - Children with disabilities
+KW  - Gifted children
+PB  - Lassen County Office of Education
+LA  - English
+CN  - 371.87 .L34s 1951
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - La Porte (Indiana) Public Schools
+T1  - The kindergarten curriculum
+Y1  - 1952
+D1  - 1952
+SP  - 22
+KW  - Kindergarten
+KW  - Curricula
+PB  - La Porte Public Schools
+CY  - La Porte, IN
+LA  - English
+CN  - 375.12 .L31k 1952
+SC  - Indiana
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Use of California state textbooks in the elementary schools
+Y1  - 1960
+D1  - 1960
+SP  - 21
+KW  - Textbooks
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - EC-110
+ED  - Rev.
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.156 .L879u 1960
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - It's worth a visit: catalog of school journeys for secondary schools
+Y1  - 1960
+D1  - 1960
+SP  - 92
+KW  - School field trips
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - SC-460
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.3 .L879i 1960
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Catalog of sound effects: elementary and secondary grades
+Y1  - 1960
+D1  - 1960
+SP  - 34
+KW  - Sound recordings
+KW  - Sounds
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - C-407
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 781 .L879s 1960
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Foods (A8-A9) junior high school: an instructional guide, homemaking
+Y1  - 1960
+D1  - 1960
+SP  - 158
+KW  - Food
+KW  - Home economics
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - SC-575
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 641 .L87f 1960
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Instructional guide for first year Latin: junior and senior high schools
+Y1  - 1960
+D1  - 1960
+SP  - 86
+KW  - Latin language
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - SC-577
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 470 .L879i 1960
+SC  - California
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Introduction to Latin: pupil material, junior high school
+Y1  - 1960
+D1  - 1960
+SP  - 37
+KW  - Latin language
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - SC-578
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 470 .L879in 1960
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - The air age, part one: aircraft as a community service, pupil materials, social studies, grade four
+Y1  - 1959
+D1  - 1959
+SP  - 60
+KW  - Aeronautics
+KW  - Social sciences
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - EC-199
+ED  - Tentative
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 521.9 .L879a 1959
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Catalog of audio-visual materials for sixth grade social studies: geography, history, civics
+Y1  - 1959
+D1  - 1959
+SP  - 108
+KW  - Audio-visual materials
+KW  - Social sciences
+KW  - Catalogs
+KW  - Geography
+KW  - History
+KW  - Civics
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - EC-173
+ED  - Revised
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.3095 .L879c 1959
+SC  - California
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Instructional guide for shorthand, first year
+Y1  - 1959
+D1  - 1959
+SP  - 40
+KW  - Shorthand
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - SC-462
+ED  - Revised
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 653 .L87s 1959
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Magazines approved for purchase, 1959-61
+Y1  - 1959
+D1  - 1959
+SP  - 53
+KW  - Magazines
+KW  - Bibliography
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - SC-496
+ED  - Revised
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 027.8 .L879m 1959
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Instructional Services
+T1  - Life science I: instructional guide
+Y1  - 1958
+D1  - 1958
+SP  - 286
+KW  - Life sciences
+T2  - Los Angeles City School Districts. Division of Instructional Services. Publication
+V1  - SC-565
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 570 .L879L 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Extension and Higher Education
+T1  - An evaluation of closed-circuit instructional television in Los Angeles City College and Los Angeles Valley College - final report
+Y1  - 1959
+D1  - 1959
+SP  - 26
+KW  - Television in education
+KW  - Higher education
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.3095 .L879e 1959
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Extension and Higher Education
+T1  - Adult education - catalog 1958-1959
+Y1  - 1958
+D1  - 1958
+SP  - 102
+KW  - Adult education
+N1  - "Education at the adult level"
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.74 .L879a 1958
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts. Division of Elementary Education
+T1  - Primary playground organization
+Y1  - 1957
+D1  - 04/1957
+KW  - Playgrounds
+KW  - School recess breaks
+T2  - Los Angeles (California) City School Districts. Division of Elementary Education. Instructional bulletin
+V1  - 44
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 371.74 .L879p 1957
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Los Angeles (California) City School Districts
+T1  - Teacher training in the elementary school
+Y1  - 1957
+D1  - 1957
+SP  - 47
+KW  - Teacher training
+KW  - Elementary education
+N1  - Information for participants in the Teacher Training Program, Los Angeles City Elementary Schools
+T2  - Los Angeles (California) City School Districts. Publication
+V1  - 630
+ED  - Tentative
+PB  - Los Angeles City School Districts
+CY  - Los Angeles, CA
+LA  - English
+CN  - 379.74 .L879t 1957
+SC  - California
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Home economics in secondary schools (courses of study)
+Y1  - 1928
+D1  - 1928
+SP  - 101
+KW  - Home economics
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Revised reprint
+V1  - 9-8
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 640 .P41h 1928
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - The object-specimen-model as a visual and other sensory aid and a blackboard technique
+Y1  - 1929
+D1  - 1929
+SP  - 78
+KW  - Visual aids
+N1  - Visual education, the object-specimen-model and a blackboard technique
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Revised reprint
+V1  - 9-8
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.3095 .P41o 1929
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Courses of study in foreign languages: Latin
+Y1  - 1929
+D1  - 1929
+SP  - 53
+KW  - Latin language
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 51
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 470 .P41c 1929
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Physical education for small secondary schools
+Y1  - 1928
+D1  - 1928
+SP  - 60
+KW  - Physical education and training
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 49
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 613.4 .P41p 1928
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Home economics in secondary schools
+Y1  - 1928
+D1  - 1928
+SP  - 19
+KW  - Home economics
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 9-C
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 640 .P41hs 1928
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - A list of reference books in history and social science for senior high schools
+Y1  - 1925
+D1  - 1925
+SP  - 12
+KW  - History
+KW  - Social sciences
+KW  - Library materials
+KW  - Bibliography
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 22
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 027.8 .P41L 1925
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Shop equipment for vocational all day trade or industrial schools or departments
+Y1  - 1925
+D1  - 1925
+SP  - 25
+KW  - Vocational education
+KW  - Workshop equipment and supplies
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 10
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.414 .P41s 1925
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Industrial arts education in grades 7-8-9
+Y1  - 1925
+D1  - 1925
+SP  - 42
+KW  - Industrial arts
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 4
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41i 1925
+SC  - Pennsylvania
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Course in study in agriculture grades 7-12
+Y1  - 1925
+D1  - 1925
+SP  - 57
+KW  - Agricultural education
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 15
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 630 .P41c 1925
+SC  - Pennsylvania
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Organization and course of study for evening classes in bituminous coal mining
+Y1  - 1925
+D1  - 1925
+SP  - 68
+KW  - Coal mines and mining
+KW  - Evening and continuation schools
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 5
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 622 .P41o 1925
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Organization and courses of study in anthracite coal mining for mine foremen and assistant mine foremen
+Y1  - 1925
+D1  - 1925
+SP  - 24
+KW  - Coal mines and mining
+KW  - Evening and continuation schools
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 6
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 622 .P41oc 1925
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Home economics education
+Y1  - 1925
+D1  - 1925
+SP  - 122
+KW  - Home economics
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 9
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 640 .P41he 1925
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Part-time cooperative industrial education
+Y1  - 1925
+D1  - 1925
+SP  - 57
+KW  - Industrial arts
+KW  - Vocational education
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 1
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41pt 1925
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Continuation schools organization and administration
+Y1  - 1925
+D1  - 1925
+SP  - 53
+KW  - Evening and continuation schools
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 3
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 374.8 .P41c 1925
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Bureau of Employment Security
+A2  - Pennsylvania. Governor's Committee on Migratory Labor
+T1  - Trabajadores agrícolas de Puerto Rico/Puerto Rican farm workers
+Y1  - 1957
+D1  - 1957
+SP  - 45
+KW  - Migrant labor
+PB  - Pennsylvania Bureau of Employment Security
+CY  - Harrisburg, PA
+LA  - English
+LA  - Spanish
+CN  - 630 .P41tr 1957
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Steidle, Edward
+A2  - Pennsylvania State College. School of Mineral Industries
+T1  - Minerals and posterity
+Y1  - 1951
+D1  - 1951
+SP  - 48
+KW  - Mines and mineral resources
+PB  - Pennsylvania State College
+CY  - State College, PA
+LA  - English
+CN  - 622 .P41mp 1951
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - An eighth grade course in occupations
+Y1  - 1931
+D1  - 1931
+SP  - 22
+KW  - Vocational education
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 60
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41e 1931
+SC  - Pennsylvania
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Courses of study in modern languages: French, German, Spanish
+Y1  - 1930
+D1  - 1930
+SP  - 71
+KW  - French language
+KW  - German language
+KW  - Spanish language
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 55
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 440 .P41c 1930
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Commercial course in handwriting for junior and senior high schools
+Y1  - 1930
+D1  - 1930
+SP  - 71
+KW  - Penmanship
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 54
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 421 .P41c 1930
+SC  - Pennsylvania
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Course of study in shorthand for senior high schools
+Y1  - 1932
+D1  - 1932
+SP  - 104
+KW  - Shorthand
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 66
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 653 .P41c 1932
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Analysis of book material in the field of industrial education
+Y1  - 1931
+D1  - 1931
+SP  - 15
+KW  - Industrial arts
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 62
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 680 .P41a 1931
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Tentative course of study in health instruction for secondary schools
+Y1  - 1931
+D1  - 1931
+SP  - 169
+KW  - Health education
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 61
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 613 .P41t 1931
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Geographic education in elementary and junior high schools: suggestions for developing course of study in geography
+Y1  - 1935
+D1  - 1935
+SP  - 183
+KW  - Geography
+N1  - "Pennsylvania curriculum series"
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 91
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 910 .P41g 1935
+SC  - Pennsylvania
+G1  - Elementary
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Courses of study in history and social science, years VII-XII
+Y1  - 1923
+D1  - 1923
+SP  - 296
+KW  - History
+KW  - Social sciences
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 924 .P41c 1923
+SC  - Pennsylvania
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Pennsylvania program of literacy and citizenship education
+Y1  - 1938
+D1  - 1938
+SP  - 83
+KW  - Literacy
+KW  - Citizenship education
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 293
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.332 .P41p 1938
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - School living for social purposes: two illustrations of practice in the elementary school
+Y1  - 1939
+D1  - 1939
+SP  - 24
+KW  - Social sciences
+N1  - "One of a series of social studies bulletins"
+T2  - Commonwealth of Pennsylvania Department of Public Instruction. Bulletin
+V1  - 418
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.33 .P41s 1939
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - A tentative chart showing the scope and sequence of a social studies program
+Y1  - 1938
+D1  - 1938
+KW  - Social sciences
+N1  - One chart
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.33 .P41t 1938
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Perth Amboy (New Jersey) Public Schools
+T1  - Tentative course of study mathematics, part I, grades 4-5-6
+Y1  - 1938
+D1  - 1938
+SP  - 163
+KW  - Mathematics
+PB  - Perth Amboy Public Schools
+CY  - Perth Amboy, NJ
+LA  - English
+CN  - 511.1 .P47t 1938
+SC  - New Jersey
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
