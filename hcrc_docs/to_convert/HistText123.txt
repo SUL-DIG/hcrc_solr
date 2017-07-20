@@ -1,0 +1,1093 @@
+
+TY  - BOOK
+A1  - Merideth, George H.
+A2  - Pasadena (California) City Schools
+T1  - English -- social studies course for the seventh grade
+Y1  - 1946
+D1  - 08/1946
+SP  - 80
+KW  - English language
+KW  - Social sciences
+KW  - Curricula
+N1  - "Prepared by Junior high school teachers and curriculum assistants in English -- social studies"
+T2  - Pasadena (California) City Schools. Secondary curriculum publication
+V1  - 2
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.33 .P27e 1946
+SC  - California
+G1  - Middle school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - University of Missouri--Columbia
+T1  - Film catalog
+Y1  - 1959
+D1  - 03/1961
+SP  - 55
+KW  - Film catalogs
+T2  - University of Missouri--Columbia. Bulletin
+V1  - 70
+IS  - 8
+PB  - University of Missouri--Columbia
+CY  - Columbia, MO
+LA  - English
+CN  - 371.3095 .M671f 1969 suppl. 1
+SC  - Missouri
+ER  - 
+
+TY  - BOOK
+A1  - Doyle, Octavia
+A1  - Spangler, Gladiss
+A1  - Twining, Chester
+A2  - Pasadena (California) City Schools
+T1  - Organization of the faculty planning period
+Y1  - 1940
+D1  - 08/1940
+SP  - 6
+KW  - Teaching
+T2  - Pasadena (California) City Schools. Curriculum bulletin
+V1  - 3
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.32 .P27o 1940
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Sherred, Jane
+A2  - Pasadena (California) City Schools
+T1  - Unit of work on early American life (fifth grade)
+Y1  - 1942
+D1  - 1942-1943
+SP  - 45
+KW  - United States history
+KW  - Curricula
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 973 .P27u 1942
+SC  - California
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A1  - Byrne, Clara
+A2  - Pasadena (California) City Schools
+T1  - Bibliography on our America - past and present
+Y1  - 1940
+D1  - 10/1940
+SP  - 14
+KW  - United States history
+KW  - Bibliography
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 973 .P27b 1940
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Visual aids: early American life
+Y1  - 1944
+D1  - 01/1944
+KW  - United States history
+KW  - Audio-visual materials
+KW  - Bibliography
+ED  - Revised
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.3095 .P27v 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Byrne, Clara
+A2  - Pasadena (California) City Schools
+T1  - Bibliography for "My heritage" units to accompany curriculum monographs 8.3 a-h
+Y1  - 1940
+D1  - 08/1940
+SP  - 26
+KW  - United States history
+KW  - Bibliography
+T2  - Pasadena (California) City Schools. Curriculum bulletin
+V1  - 4
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 973 .P27bm 1940
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - The problems approach
+Y1  - 1940
+D1  - 08/1940
+SP  - 11
+KW  - Social sciences
+T2  - Pasadena (California) City Schools. Curriculum bulletin
+V1  - 1
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.33 .P27p 1940
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Suggestions to teachers in guiding pupil experiences
+Y1  - 1936
+D1  - 1936
+SP  - 720
+KW  - Elementary education
+KW  - Teaching
+ED  - Provisional
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 375.13 .P27s 1936
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Commonwealth of Pennsylvania Department of Public Instruction
+T1  - Course of study in school health: physical education grades I-VIII
+Y1  - 1923
+D1  - 1923
+SP  - 291
+KW  - School hygiene
+KW  - Physical education and training
+PB  - Commonwealth of Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 613.4 .P41c 1923
+SC  - Pennsylvania
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Merideth, George H.
+A2  - Pasadena (California) City Schools
+T1  - English -- social studies course for the tenth grade
+Y1  - 1946
+D1  - 08/1946
+SP  - 87
+KW  - English language
+KW  - Social sciences
+KW  - Curricula
+N1  - "Prepared by Junior high school teachers and curriculum assistants in English -- social studies"
+T2  - Pasadena (California) City Schools. Secondary curriculum publication
+V1  - 5
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.33 .P27es 1946
+SC  - California
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - A report of the 1952 summer conference on English skills
+Y1  - 1952
+D1  - 1952
+SP  - 71
+KW  - English language
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.2 .P27r 1952
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools
+T1  - Elementary film catalogue
+Y1  - 1953
+D1  - 09/1953
+KW  - Elementary education
+KW  - Audio-visual materials
+KW  - Bibliography
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.3095 .P27e 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Merideth, George H.
+A2  - Pasadena (California) City Schools
+T1  - How do current problems affect our attitudes, standards and ideals?
+Y1  - 1940
+D1  - 08/1940
+SP  - 12
+KW  - Social sciences
+N1  - "Prepared by tenth grade curriculum committee with the assistance of social education investigation staff"
+T2  - Pasadena (California) City Schools. Curriculum monograph
+V1  - 10.6
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 371.33 .P27hc 1940
+SC  - California
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A1  - Sherred, Jane
+A2  - Pasadena (California) City Schools
+T1  - Unit of work on China (sixth grade)
+Y1  - 1944
+D1  - 02/1944
+SP  - 19
+KW  - China
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 951 .P27u 1944
+SC  - California
+G1  - Middle school
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Elementary Curriculum Department
+T1  - Some questions and answers about reading in the elementary school program
+Y1  - 1946
+D1  - 09/1946
+SP  - 29
+KW  - Reading
+KW  - Elementary education
+T2  - Pasadena City Schools. Reading bulletin
+V1  - 1
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.4 .P27s 1946
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Elementary Curriculum Department
+T1  - Reading activities used in the Pasadena elementary schools
+Y1  - 1946
+D1  - 09/1946
+SP  - 55
+KW  - Reading
+KW  - Elementary education
+T2  - Pasadena City Schools. Reading bulletin
+V1  - 2
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 428.4 .P27r 1946
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Elementary Curriculum Department
+T1  - Unit of work on aeronautics
+Y1  - 1947
+D1  - 1947
+SP  - 59
+KW  - Aeronautics
+KW  - Elementary education
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 521.9 .P27u 1947
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Elementary Curriculum Department
+T1  - Unit of work on modern California
+Y1  - 1949
+D1  - 1949
+SP  - 50
+KW  - California
+KW  - Elementary education
+ED  - Revised
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 979.4 .P27u 1949
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Elementary Curriculum Department
+T1  - Unit of work on modern California
+Y1  - 1946
+D1  - 1946
+SP  - 63
+KW  - California
+KW  - Elementary education
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 979.4 .P27u 1946
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pasadena (California) City Schools. Elementary Curriculum Department
+T1  - Unit of work on the farm
+Y1  - 1949
+D1  - 1949
+SP  - 110
+KW  - Agricultural education
+KW  - Elementary education
+PB  - Pasadena City Schools
+CY  - Pasadena, CA
+LA  - English
+CN  - 630 .P27u 1949
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Throop, Joseph F.
+A1  - Assini, Lewis T.
+A1  - Boguslavsky, George W.
+A2  - Rensselaer Polytechnic Institute
+T1  - The effectiveness of laboratory instruction in strength of materials by closed-circuit television
+Y1  - 1958
+D1  - 11/1958
+SP  - 41
+KW  - Television in education
+PB  - Rensselaer Polytechnic Institute
+CY  - Troy, NY
+LA  - English
+CN  - 371.3095 .R42e 1958
+ER  - 
+
+TY  - BOOK
+A1  - Maloney, Henry B.
+A2  - Metropolitan Detroit Bureau of School Studies
+T1  - Dimensions in literature - 1965: report of the fifteenth annual English conference of the Metropolitan Detroit Bureau of School Studies
+Y1  - 1965
+D1  - 03/1965
+SP  - 71
+KW  - Literature
+PB  - Metropolitan Detroit Bureau of School Studies
+CY  - Detroit, MI
+LA  - English
+CN  - 428.5 .D6d 1965
+SC  - Michigan
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Some considerations in programs for educationally handicapped children
+Y1  - 1964
+D1  - 05/1964
+SP  - 49
+KW  - Children with mental disabilities
+T2  - Orange County Superintendent of Schools. Bulletin
+V1  - EM-3928
+PB  - Orange County Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 371.9 .O63s 1964
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Anthony
+A2  - Ontario Institute for Studies in Education
+T1  - The sun as a renewable energy source: learning materials for grades 9-10
+Y1  - 1983
+D1  - 1983
+SP  - 47
+KW  - Solar energy
+KW  - Energy conservation
+T2  - OISE Press. Informal series
+V1  - 52
+PB  - Ontario Institute for Studies in Education
+CY  - Toronto, Ontario
+LA  - English
+CN  - 631 .O59s 1983
+SC  - Canada
+G1  - High school
+G2  - 9th
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Orange County (California) Superintendent of Schools
+T1  - Language arts guide for elementary and secondary teachers
+Y1  - 1953
+D1  - 09/1953
+SP  - 75
+KW  - Language arts
+T2  - Orange County Superintendent of Schools. Bulletin
+V1  - A-1
+ED  - Revised
+PB  - Orange County Superintendent of Schools
+CY  - Santa Ana, CA
+LA  - English
+CN  - 428.2 .O63L 1953
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Ontario College of Education. The Department of Educational Research
+T1  - A study of various methods of appraising rate of reading
+Y1  - 1950
+D1  - 1950
+SP  - 19
+KW  - Reading
+T2  - Ontario College of Education. Educational research series
+V1  - 22
+PB  - Ontario College of Education
+CY  - Toronto, Ontario
+LA  - English
+CN  - 428.4 .T686s 1950
+SC  - Canada
+ER  - 
+
+TY  - BOOK
+A1  - Harris, Edgar E.
+A2  - Oklahoma State Department of Education
+T1  - Oklahoma schools move forward
+Y1  - 1945
+D1  - 01/1945
+SP  - 168
+KW  - Public schools
+KE  - Curricula
+T2  - Oklahoma State Department of Education. Bulletin
+V1  - 3
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma, OK
+LA  - English
+CN  - 375.81 .O41o 1945
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma State Department of Education
+T1  - A guide to study of the curriculum
+Y1  - 1941
+D1  - 02/1941
+SP  - 152
+KW  - Public schools
+KE  - Curricula
+T2  - Oklahoma State Department of Education. Bulletin
+V1  - 1
+PB  - Oklahoma State Department of Education
+CY  - Oklahoma, OK
+LA  - English
+CN  - 375.81 .O41g 1941
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Tentative English course of study, grades I-VI
+Y1  - 1936
+D1  - 07/1936
+SP  - 164
+KW  - English language
+N1  - Revised course of study English
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 428.2 .O41t 1936
+SC  - Oklahoma
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Barbe, Walter B.
+A1  - Stephen, Thomas M.
+A2  - Ohio State Department of Education
+T1  - Attention to the gifted a decade later
+Y1  - 1962
+D1  - 1962
+SP  - 61
+KW  - Gifted children
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37a 1962
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Lowdermilk, R. R.
+A1  - Tyler, I. Keith
+A2  - Ohio State University. Bureau of Educational Research
+T1  - Teaching with radio
+Y1  - 1938
+D1  - 1938
+SP  - 48
+KW  - Radio in education
+T2  - Radio bulletin
+V1  - 16
+PB  - Ohio State University
+CY  - Columbus, OH
+LA  - English
+CN  - 371.3095 .O37t 1938
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Dale, Edgar
+A1  - Chall, Jeanne S.
+A2  - Ohio State University. Bureau of Educational Research
+T1  - A formula for predicting readability
+Y1  - 1948
+D1  - 1948
+SP  - 28
+KW  - Reading
+PB  - Ohio State University
+CY  - Columbus, OH
+LA  - English
+CN  - 428.2 .O37f 1948
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Barbe, Walter
+A1  - Horn, R. A.
+A2  - Ohio State Superintendent of Public Instruction
+T1  - One in a thousand: a comparative study of highly and moderately gifted elementary school children
+Y1  - 1964
+D1  - 1964
+SP  - 78
+KW  - Gifted children
+PB  - Ohio State Superintendent of Public Instruction
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37o 1964
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Stephens, Thomas M.
+A1  - Gibson, Arthur R.
+A2  - Ohio State Superintendent of Public Instruction
+T1  - Pathways to progress: a research monograph from Ohio's program for the gifted child
+Y1  - 1963
+D1  - 1963
+SP  - 156
+KW  - Gifted children
+PB  - Ohio State Superintendent of Public Instruction
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37p 1963
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Barbe, Walter B.
+A2  - Ohio State Board of Education
+T1  - As if the chart were given: report of a demonstration project for gifted county elementary school children
+Y1  - 1963
+D1  - 1963
+SP  - 43
+KW  - Gifted children
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37a 1963
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Stephens, Thomas M.
+A1  - Gibson, Arthur R.
+A2  - Ohio State Department of Education
+T1  - Acceleration and the gifted
+Y1  - 1963
+D1  - 1963
+SP  - 73
+KW  - Gifted children
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37ac 1963
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Reid, Seerley
+A1  - Woelfel, Norman
+A2  - Ohio State University. The Evaluation of School Broadcasts
+T1  - How to judge a school broadcast
+Y1  - 1941
+D1  - 1941
+SP  - 24
+KW  - Reading
+T2  - Ohio State University. Pamphlet series
+V1  - 2
+PB  - Ohio State University
+CY  - Columbus, OH
+LA  - English
+CN  - 371.3095 .O37h 1941
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - University of Oklahoma. Department of Public Information
+T1  - Package library issues including plays and readings
+Y1  - 1939
+D1  - 06/1939
+SP  - 101
+KW  - Library materials
+T2  - University of Oklahoma bulletin
+V1  - 783
+PB  - University of Oklahoma
+CY  - Norman, OK
+LA  - English
+CN  - 027.8 .O41p 1939
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A1  - Dale, Edgar
+A1  - Sampson, Robert
+A2  - Ohio State University. Bureau of Educational Research
+T1  - A study of citizenship practices in Ohio schools
+Y1  - 1951
+D1  - 1951
+SP  - 39
+KW  - Citizenship education
+PB  - Ohio State University
+CY  - Columbus, OH
+LA  - English
+CN  - 320 .O37s 1951
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A2  - Ohio High School Principals' Association
+T1  - Studies in education
+Y1  - 1937
+D1  - 1937
+SP  - 132
+KW  - Curricula
+T2  - Studies in secondary education
+V1  - 1
+IS  - 1
+PB  - Ohio Education Association
+CY  - Columbus, OH
+CN  - 375.15 .O37st 1937
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Coon, Herbert L.
+A2  - Ohio State Board of Education
+T1  - Seminars for the gifted in Ohio high schools: a status study
+Y1  - 1962
+D1  - 1962
+SP  - 95
+KW  - Gifted children
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37se 1962
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Planning your future
+Y1  - 1964
+D1  - 02/1964
+KW  - Vocational guidance
+N1  - "A handbook for parents and students"
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 371.4 S193p 1964
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Garfield Junior High School (Richmond, Indiana)
+T1  - The highlight
+Y1  - 1916
+D1  - 02/1916
+SP  - 20
+SW  - Student publications
+V1  - 1
+IS  - 4
+PB  - Garfield Junior High School
+CY  - Richmond, IN
+LA  - English
+CN  - 373.176 .R532 1916
+SC  - Indiana
+ER  - 
+
+TY  - BOOK
+A1  - Hill, E. Merton
+A2  - Chaffey Union High School District (Ontario, California)
+T1  - A decade of rural education, 1911-1920
+Y1  - 1920
+D1  - 07/1920
+KW  - High schools
+KW  - Rural schools
+PB  - Chaffey Union High School District
+CY  - Ontario, CA
+LA  - English
+CN  - 375.84 .C42d 1920
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - The House of Childhood
+T1  - The Montessori didactic apparatus, manufactured and sold by the House of Childhood incorporated
+SP  - 30
+KW  - Montessori method of education
+KW  - Teaching aids
+KW  - Catalogs
+N1  - Library has two issues of the catalog that differ only in the illustrations of the baric sense tablets and cylindrical sound boxes (pp. 28-29). No dates of publication given, but not the 1915 ed.
+PB  - House of Childhood
+CY  - New York, NY
+LA  - English
+CN  - 372.15 .H841m
+G1  - Prek
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Oklahoma City (Oklahoma) Public Schools
+T1  - Preparation for teaching the disadvantaged
+Y1  - 1965
+D1  - 1965?
+SP  - 29
+KW  - Teacher training
+KW  - Children with social disabilities
+N1  - "Sponsored by Phi Delta Kappa International, Gamma Sigma Field Chapter, Oklahoma City Public Schools
+PB  - Oklahoma City Public Schools
+CY  - Oklahoma City, OK
+LA  - English
+CN  - 371.9 .O41pr 1965
+SC  - Oklahoma
+ER  - 
+
+TY  - BOOK
+A1  - Maris, Clarence
+A2  - Ohio State Superintendent of Public Instruction
+T1  - Dangers and chemistry of fire for grammar schools
+Y1  - 1921
+D1  - 1921
+SP  - 87
+KW  - Fire prevention
+PB  - Ohio State Superintendent of Public Instruction
+CY  - Columbus, OH
+LA  - English
+CN  - 614.8 .O37d 1921
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Drucker, Mary J.
+A2  - Ohio State Department of Education. Division of Vocational Education
+T1  - Evaluating an occupational information library
+Y1  - 1951
+D1  - 11/1951
+SP  - 7
+KW  - Library materials
+KW  - Vocational guidance
+N1  - "Guidance Services State of Ohio"
+T2  - Ohio State Department of Education. Bulletin
+V1  - GP-1
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 027.8 .O37e 1951
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Lowdermilk, R. R.
+A2  - Federal Radio Education Committee
+T1  - The school radio-sound system
+Y1  - 1941
+D1  - 1941
+KW  - Radio broadcasting
+KW  - Student activities
+PB  - Federal Radio Education Committee
+CY  - Washington, DC
+LA  - English
+CN  - 371.3095 .U59s 1941
+ER  - 
+
+TY  - BOOK
+A1  - Stephens, Thomas M.
+A1  - Gibson, Arthur R.
+A2  - Ohio State Board of Education
+T1  - Ohio's academically gifted, 1961-62: third annual progress report
+Y1  - 1963
+D1  - 12/1962
+SP  - 65
+KW  - Gifted children
+PB  - Ohio State Board of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 371.9 .O37oh 1963
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Mitchell, Helen J.
+A2  - Oakland (California) Public Schools
+T1  - A tentative guide for world history in the senior high school
+Y1  - 1959
+D1  - 07/1959
+SP  - 107
+KW  - World history
+KW  - Curricula
+N1  - Soc. Stud. 1959-1
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 925 .O11t 1959
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Cyr, Helen W.
+A2  - Oakland (California) Public Schools
+T1  - The Mexican Americans: books for young people
+Y1  - 1969
+D1  - 05/1969
+SP  - 27
+KW  - Mexican Americans
+KW  - Library materials
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 027.8 .O11ma 1969
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - A guide for world geography in the senior high school
+Y1  - 1958
+D1  - 06/1958
+SP  - 126
+KW  - Geography
+KW  - Curricula
+N1  - Soc. Stud. 1958-1
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 910 .O11g 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools. Herbert Hoover Junior High School
+T1  - Oakland the mellow city
+Y1  - 1969
+D1  - 1959
+SP  - 64
+KW  - Student publications
+KW  - Oakland, California
+N1  - "Written and illustrated by eighth grade students 1967-1968 of Herbert Hoover Junior High School"
+PB  - Oakland Public Schools Herbert Hoover Junior High School
+CY  - Oakland, CA
+LA  - English
+CN  - 373.176 .O11om 1969
+SC  - California
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Kretsinger, Richard W
+A1  - Grover, Charles C.
+A1  - Fratis, Sue L.
+A1  - Baxter, Bernice
+A2  - Oakland (California) Public Schools
+T1  - Tentative outline for the teaching of arithmetic in grades 3 through 6
+Y1  - 1937
+D1  - 07/1937
+SP  - 18
+KW  - Arithmetic
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 511.2 .O11ar 1937
+SC  - California
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - East Bay Adult Education Council. Committee for study and research
+T1  - Survey of adult education activities in the East bay region
+Y1  - 1938
+D1  - 1939
+SP  - 20
+KW  - Adult education
+PB  - East Bay Adult Education Council
+CY  - Oakland, CA
+LA  - English
+CN  - 379.74 .E131s 1939
+SC  - California
+ER  -
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Team game supplement to tentative guide physical education for girls junior high school (Phys. Ed. 1953-2)
+Y1  - 1954
+D1  - 08/1954
+SP  - 39
+KW  - Physical education
+N1  - Phys. Ed. 1954-3
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 613.4 .O11tgs 1954
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Teaching guide (tentative) ninth grade science
+Y1  - 1955
+D1  - 05/1955
+SP  - 117
+KW  - Science
+N1  - Science 1955-2
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 519 .O11tg 1955
+SC  - California
+G1  - Middle school
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - A tentative guide to facilitate instruction in modified physical education secondary schools
+Y1  - 1954
+D1  - 07/1954
+SP  - 21
+KW  - Physical education
+KW  - Children with disabilities
+N1  - Phys. Ed. 1954-7
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 613.4 .O11mp 1954
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Teaching guide folk dancing in the junior high school
+Y1  - 1952
+D1  - 02/1952
+SP  - 33
+KW  - Folk dancing
+N1  - Phys. Ed. 1952-2
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 613.4 .O11fd 1952
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Social dancing in the junior high school
+Y1  - 1948
+D1  - 06/1948
+SP  - 21
+KW  - Dance
+N1  - SB Phys. Ed. 1948-14
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 613.4 .O11sd 1948
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - A guide for United States history in the senior high school
+Y1  - 1958
+D1  - 06/1958
+SP  - 114
+KW  - United States history
+KW  - Curricula
+N1  - Soc. Stud. 1958-2
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 973 .O11g 1958
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - North Dakota State Department of Public Instruction
+T1  - Course of study for North Dakota high schools: industrial arts
+Y1  - 1938
+D1  - 1938
+SP  - 57
+KW  - Industrial arts
+KW  - Curricula
+PB  - North Dakota State Department of Public Instruction
+CY  - Bismarck, ND
+LA  - English
+CN  - 680 .N86c 1938
+SC  - North Dakota
+G1  - High school
+ER  - 
