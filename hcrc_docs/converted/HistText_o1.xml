@@ -4600,23 +4600,6 @@ minorities for Pennsylvania schools</field>
 
 <doc>
 <field name="type">Book</field>
-<field name="corp_author">University of the State of New York. Bureau of Secondary Curriculum Development</field>
-<field name="title">Citizenship education planning guide</field>
-<field name="keywords">Citizenship education</field>
-<field name="keywords">Civics</field>
-<field name="year">1956</field>
-<field name="date">1956</field>
-<field name="publisher">Bureau of Secondary Curriculum Development, New York State Education Dept</field>
-<field name="pub_place">Albany, NY</field>
-<field name="pages">61</field>
-<field name="language">English</field>
-<field name="notes">ill. ; 23 cm.; Note(s): "H634r-Ap56-25, 000."</field>
-<field name="state_country">New York</field>
-<field name="grade_level_group">High school</field>
-</doc>
-
-<doc>
-<field name="type">Book</field>
 <field name="corp_author">Pittsburgh (Pennsylvania) Board of Public Education</field>
 <field name="title">Citizenship Education Project</field>
 <field name="series_title">Pittsburgh Schools</field>

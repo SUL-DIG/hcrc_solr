@@ -1,0 +1,1269 @@
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Mathematics, 10-11-12; an integrated sequence for the senior high school grades
+Y1  - 1959
+D1  - 1959
+SP  - 87
+KW  - Mathematics
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 511.6 .N53m v. 3
+SC  - New York
+G1  - High school
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Social studies 7-8-9
+Y1  - 1961
+D1  - 1961
+SP  - 64
+KW  - Social sciences
+KW  - Curricula
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 371.33 .N531s v. 2
+SC  - New York
+G1  - Middle School
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Citizenship education 10-11-12
+Y1  - 1960
+d1  - 08/1960
+SP  - 63
+KW  - Civics
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 371.33 .N531c v. 3
+SC  - New York
+G1  - High school
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Applied music for pupils of secondary schools
+SP  - 15
+KW  - Music education
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 780.4 .N531a
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Bureau of Secondary Curriculum Development
+T1  - Syllabus for secondary schools
+SP  - 14
+KW  - Music education
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 780.4 .N531s
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Social studies grades three and four
+Y1  - 1949
+D1  - 01/1949
+SP  - 141
+KW  - Social sciences
+T2  - New York City Board of Education. Curriculum bulletin, 1947-48 series
+V1  - 5
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N532s 1949  v. 2
+SC  - New York
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Social studies kindergarten-grade two
+Y1  - 1947
+D1  - 09/1947
+SP  - 44
+KW  - Social sciences
+T2  - New York City Board of Education. Curriculum bulletin, 1947-48 series
+V1  - 4
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N532s 1947  v. 1
+SC  - New York
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A1  - Brown, Carl F.
+A1  - Walser, Richard
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: English language arts
+Y1  - 1959
+D1  - 1959
+SP  - 66
+KW  - English language
+KW  - Language arts
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 428.2 .N86en 1959
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Hostetler, Ivan
+A1  - Young, Talmage B.
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: industrial arts
+Y1  - 1959
+D1  - 1959
+SP  - 54
+KW  - Industrial arts
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 680 .N86in 1959
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Strawn, Alice
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: home economics
+Y1  - 1959
+D1  - 1959
+SP  - 29
+KW  - Home economics
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 640 .N86he 1959
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Kitchin, Kate Parks
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: guidance services
+Y1  - 1960
+D1  - 1960
+SP  - 44
+KW  - Educational counseling
+KW  - Guidance
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 371.45 .N86gs 1960
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Chase, John B.
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: science grades 1-12
+Y1  - 1959
+D1  - 1959
+SP  - 34
+KW  - Science
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 519 .N86sc 1959
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Eskridge, Eloise
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: readiness for learning
+Y1  - 1959
+D1  - 1959
+SP  - 28
+KW  - Readiness for school
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 370.21 .N86rL 1959
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A1  - Ladu, Tora Tuve
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: foreign language
+Y1  - 1958
+D1  - 1958
+SP  - 56
+KW  - Languages
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 400 .N86fL 1958
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Board of Education
+T1  - A guide to curriculum study: a course outline
+Y1  - 1959
+D1  - 1959
+SP  - 40
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.81 .N86co 1959
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Board of Education
+T1  - Progress report of curriculum study
+Y1  - 1960
+D1  - 05/1960
+SP  - 68
+KW  - Curricula
+PB  - North Carolina State Board of Education
+CY  - Raleigh, NC
+LA  - English
+CN  - 375.81 .N86pr 1960
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - Oakland (California) Public Schools
+T1  - Handbook of suggestions for use in atypical classes
+Y1  - 1922
+D1  - 11/1922
+SP  - 39
+KW  - Special education
+T2  - Oakland Pubic Schools Superintendent's bulletin. Course of study series
+V1  - 54
+ED  - Revised
+PB  - Oakland Public Schools
+CY  - Oakland, CA
+LA  - English
+CN  - 371.9 .O11hd 1922
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - East Carolina Teachers College
+T1  - Student activities
+Y1  - 1941
+D1  - 08/1941
+SP  - 54
+KW  - Student activities
+T2  - East Carolina Teachers College bulletin
+V1  - 32
+IS  - 3
+PB  - East Carolina Teachers College
+CY  - Greenville, NC
+LA  - English
+CN  - 373.17 .E132s 1941
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - North Carolina State Superintendent of Public Instruction
+T1  - Education for the air age
+Y1  - 1946
+D1  - 11/1946
+SP  - 57
+KW  - Aeronautics
+PB  - North Carolina State Superintendent of Public Instruction
+CY  - Raleigh, NC
+LA  - English
+CN  - 521.9 .N86e 1946
+SC  - North Carolina
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Public libraries and popular education
+Y1  - 1900
+D1  - 05/1900
+SP  - 271
+KW  - Libraries
+KW  - Adult education
+T2  - University of the State of New York. Home education bulletin
+V1  - 31
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 379.74 .N53pu 1900
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Torrie, Arthur
+T1  - The pool: a primary school bulletin
+Y1  - 1953
+D1  - 1953
+SP  - 32
+KW  - Stream ecology
+PB  - Government Printer
+CY  - Wellington, NZ
+LA  - English
+CN  - 570 .N54p 1953
+SC  - New Zealand
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Curriculum development in the elementary schools
+Y1  - 1955
+D1  - 1955
+SP  - 158
+KW  - Elementary education
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin, 1955-56 series
+V1  - 1
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .N532c 1955
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York State Education Department. Bureau of Elementary Curriculum Development
+T1  - Social studies
+Y1  - 1961
+D1  - 1961
+SP  - 87
+KW  - Social sciences
+N1  - The elementary school curriculum, grades K-6
+PB  - New York State Education Department
+CY  - Albany, NY
+LA  - English
+CN  - 371.33 N532ss 1961
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - How instructional television works in New York state
+Y1  - 1958
+D1  - 1958
+SP  - 12
+KW  - Television in education
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 371.3095 .N53it 1958
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Lewis, Dorothy
+T1  - Broadcasting to the youth of America: a report on present day activities in the field of children's radio programs
+Y1  - 1941
+D1  - 1941
+SP  - 78
+KW  - Radio in education
+PB  - National Association of Broadcasters
+CY  - Washington, DC
+LA  - English
+CN  - 371.3095 .N271b 1941
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education. Bureau of Reference, Research and Statistics. Division of Curriculum Research
+T1  - Selected references on curriculum development in language arts for secondary schools
+Y1  - 1948
+D1  - 10/1948
+SP  - 44
+KW  - Language arts
+KW  - Curricula
+T2  - Curriculum Division bulletin
+V1  - 5
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.2 .N532sr 1948 v.2
+SC  - New York
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education. Bureau of Reference, Research and Statistics. Division of Curriculum Research
+T1  - Selected references on curriculum development in language arts for elementary schools
+Y1  - 1948
+D1  - 10/1948
+SP  - 78
+KW  - Language arts
+KW  - Curricula
+T2  - Curriculum Division bulletin
+V1  - 4
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 428.2 .N532sr 1948 v. 1
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education. Bureau of Reference, Research and Statistics. Division of Elementary Schools
+T1  - Helping our young children to learn: suggestions for teachers of the first grade
+Y1  - 1947
+D1  - 01/1947
+SP  - 46
+KW  - Elementary education
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .N532ho 1947
+SC  - New York
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Mississippi Congress of Parents and Teachers
+T1  - A parents view of curriculum improvement in Mississippi: a bulletin to help parents understand suggested improvements in the school curriculum
+Y1  - 1935
+D1  - 1935
+SP  - 69
+KW  - Curricula
+PB  - Mississippi Congress of Parents and Teachers
+CY  - Jackson, MS
+LA  - English
+CN  - 375.81 M67pv 1935
+SC  - Mississippi
+ER  - 
+
+TY  - BOOK
+A1  - Bliss, Walton B.
+A1  - Ulery, C. B.
+A1  - Riegel, Vernon M.
+A2  - Ohio State Department of Education
+T1  - Reading: a manual of suggestions for the use of the elementary schools of Ohio
+Y1  - 1923
+D1  - 1923
+SP  - 62
+KW  - Reading
+T2  - Ohio State Department of Education. Course of study series
+V1  - 1
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 428.4 .O37rm 1923
+SC  - Ohio
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Ulery, C. B.
+A1  - Leland, R. G.
+A1  - Riegel, Vernon M.
+A2  - Ohio State Department of Education
+T1  - Physical education and hygiene: a course of study for the use of the schools of Ohio
+Y1  - 1924
+D1  - 1924
+SP  - 131
+KW  - Physical education and training
+T2  - Ohio State Department of Education. Course of study series
+V1  - 3
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 379.741 .O37pe 1924
+SC  - Ohio
+ER  - 
+
+TY  - BOOK
+A1  - Louthian, Lawrence
+A1  - Riegel, Vernon M.
+A2  - Ohio State Department of Education
+T1  - Evening high school bulletin
+Y1  - 1926
+D1  - 1926
+SP  - 14
+KW  - Evening and continuation schools
+PB  - Ohio State Department of Education
+CY  - Columbus, OH
+LA  - English
+CN  - 374.81 .O37eh 1926
+SC  - Ohio
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Runkle, Carl
+A2  - George Peabody College for Teachers. Division of Surveys and Field Studies. Curriculum Laboratory
+T1  - The present topics in world history
+Y1  - 1934
+D1  - 11/1934
+SP  - 32
+KW  - World history
+PB  - George Peabody College for Teachers
+CY  - Nashville, TN
+LA  - English
+CN  - 925 .M97pt 1934
+SC  - Tennessee
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - The war and the curriculum
+Y1  - 1942
+D1  - 11/1942
+SP  - 64
+KW  - War and education
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin
+V1  - 3
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 370.874 .N532wc 1942
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Museums, libraries, parks, zoos and gardens as educational resources
+Y1  - 1944
+D1  - 06/1944
+SP  - 69
+KW  - Museums
+KW  - Libraries
+T2  - New York City Board of Education. Curriculum bulletin 1942-3
+V1  - 13
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 371.3 .N532mL 1944
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - New York City Board of Education
+T1  - Science handbook for grades 7A-9B
+Y1  - 1945
+D1  - 09/1945
+SP  - 117
+KW  - Science
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin 1944-45
+V1  - 3
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N532sc 1944
+SC  - New York
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Schuck, Myrna Ingram
+A2  - New York City Board of Education
+T1  - The evolution of common things: unit 4--illumination
+Y1  - 1939
+D1  - 1939
+SP  - 49
+KW  - Lighting
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin
+V1  - 7
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 535 .N532ev 1939
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Berken, Ruth R.
+A2  - New York City Board of Education
+T1  - Our city
+Y1  - 1939
+D1  - 1939
+SP  - 36
+KW  - Community life
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin
+V1  - 6
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 323 .N532oc 1939
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Charney, Hattie
+A1  - Berken, Ruth R.
+A2  - New York City Board of Education. Division of Elementary Schools
+T1  - A year of nature study in our city
+Y1  - 1940
+D1  - 1940
+SP  - 72
+KW  - Nature study
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin
+V1  - 10
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 519 .N532yn 1940
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Grilli, Helen A.
+A1  - Mittelman, Hazel R.
+A2  - New York City Board of Education. Division of Elementary Schools
+T1  - Biography
+Y1  - 1939
+D1  - 1939
+SP  - 58
+KW  - Biography
+KW  - Curricula
+T2  - New York City Board of Education. Curriculum bulletin
+V1  - 8
+PB  - New York City Board of Education
+CY  - New York, NY
+LA  - English
+CN  - 973.4 .N532bio 1939
+SC  - New York
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Correlating audio-visual materials, grades 7-12
+Y1  - 1956
+D1  - 09/1956
+SP  - 75
+KW  - Audio-visual materials
+T2  - Mississippi school bulletin
+V1  - 144
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 371.3095 .M67ca 1956
+SC  - Mississippi
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - A suggested program of oral communication for Mississippi schools
+Y1  - 1953
+D1  - 07/1953
+SP  - 174
+KW  - Communication
+KW  - Speech
+T2  - Mississippi school bulletin
+V1  - 139
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 428.7 .M67s 1953
+SC  - Mississippi
+ER  - 
+
+TY  - BOOK
+A2  - Mississippi State Department of Education
+T1  - Progress report on war and post-war adjustments in Mississippi schools
+Y1  - 1944
+D1  - 01/1944
+SP  - 21
+KW  - War and education
+T2  - Mississippi school bulletin
+V1  - 139
+PB  - Mississippi State Department of Education
+CY  - Jackson, MS
+LA  - English
+CN  - 370.874 .M67w 1944
+SC  - Mississippi
+ER  - 
+
+TY  - BOOK
+A2  - New York Times School and College Service
+T1  - Curriculum aid materials
+Y1  - 1963
+D1  - 1963
+KW  - Newspapers in education
+N1  - Two-pocket folder with various pamphlets on using the New York Times in an educational setting.
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A1  - Austin, Louise
+A1  - Geise, Robert
+T1  - The New York Times: versatile aid in social studies
+SP  - 46
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - "A curriculum services booklet of the New York Times Office of Educational Activities"; part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A1  - Bernstein, Theodore M.
+T1  - Get more out of your newspaper: a guide to reading your newspaper for profit and pleasure every day
+Y1  - 1959
+D1  - 1959
+SP  - 47
+KW  - Newspapers
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A1  - Falon, Benjamin
+T1  - Public opinion: its role in a democracy: a unit of study for ninth year students based on intensive use of The New York Times
+Y1  - 1950
+D1  - 1950
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+G1  - High school
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Stockham, Catherine M.
+T1  - The New York Times in junior high school
+Y1  - 1959
+D1  - 1959
+SP  - 34
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A1  - Gastwirth, Mrs. Paul
+T1  - Enriching the curriculum with The New York Times
+Y1  - 1961
+D1  - 1961
+SP  - 22
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A1  - Pawling, Charles F.
+T1  - The New York Times: a basic text for problems of democracy courses
+Y1  - 1959
+D1  - 1959
+SP  - 18
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - "A curriculum services booklet of the New York Times Office of Educational Activities"; part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+T1  - Introduction to a good reading habit
+Y1  - 1962
+D1  - 1962
+SP  - 37
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - "A curriculum services booklet of the New York Times Office of Educational Activities"; part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A2  - New York Times Office of Educational Activities
+T1  - Newspaper study outline
+SP  - 8
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A2  - New York Times Office of Educational Activities
+T1  - Our changing world
+Y1  - 1963
+D1  - 09/1963
+SP  - 28
+KW  - Social sciences
+KW  - Newspapers in education
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A2  - New York Times Office of Educational Activities
+T1  - The New York Times current affairs test
+Y1  - 1963
+D1  - 05/1963
+KW  - Social sciences
+KW  - Newspapers in education
+KW  - Tests
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A2  - New York Times Office of Educational Activities
+T1  - The Civil War and Reconstruction
+Y1  - 1961
+D1  - 01/1961
+KW  - Newspapers in education
+KW  - United States history
+N1  - Part of Curriculum aid materials folder
+PB  - New York Times
+CY  - New York, NY
+LA  - English
+CN  - 371.33 .N535c
+ER  - 
+
+TY  - BOOK
+A2  - Napa County (California) Public Schools
+T1  - Reading through the use of charts
+Y1  - 1951
+D1  - 09/1951
+SP  - 5
+KW  - Reading
+PB  - Napa County Schools
+CY  - Napa, CA
+LA  - English
+CN  - 428.4 .N19r 1951
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Dye, Lucy Fellis
+A2  - Nashville (Tennesee) City Schools
+T1  - Cooking for a crowd
+SP  - 49
+KW  - Cooking
+KW  - Home economics
+PB  - Nashville City Schools
+CY  - Nashville, TN
+LA  - English
+CN  - 641 .N25c
+SC  - Tennessee
+ER  - 
+
+TY  - BOOK
+A2  - Nasco Science Materials
+T1  - [Catalog]
+SP  - 118
+KW  - Scientific equipment
+PB  - Nasco Science Materials
+CY  - Atkinson, WI
+LA  - English
+CN  - 519 .N24c
+ER  - 
+
+TY  - BOOK
+A2  - Mount Lebanon Public Schools (Pittsburg, Pa.)
+T1  - The curriculum guide for speech correction
+Y1  - 1960
+D1  - 1960
+KW  - Speech therapy
+PB  - Mount Lebanon Public Schools
+CY  - Pittsburg, PA
+LA  - English
+CN  - 371.9 .M92c 1960
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Mount Lebanon Public Schools (Pittsburg, Pa.)
+T1  - The curriculum guide for physical science
+Y1  - 1961
+D1  - 1961
+KW  - Physics
+PB  - Mount Lebanon Public Schools
+CY  - Pittsburg, PA
+LA  - English
+CN  - 519 .M921c 1961
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Mullen, Margaret J.
+T1  - A volunteer program in vocational information and career guidance for secondary schools
+Y1  - 1968
+D1  - 05/1968
+KW  - Vocational guidance
+PB  - Sequoia Union High School District
+CY  - Redwood City, CA
+LA  - English
+CN  - 371.41 .S47v 1968
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Diablo (California) Unified School District. Secondary Division
+T1  - Curriculum guide for secondary social studies program, grades 7-12
+Y1  - 1969
+D1  - 02/1969
+KW  - Social sciences
+KW  - Curricula
+PB  - Mt. Diablo Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 371.33 .M92ss 1969
+SC  - California
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Diablo (California) Unified School District
+T1  - Social studies curriculum, teachers' guide, 4th grade
+Y1  - 1955
+D1  - 07/1955
+KW  - Social sciences
+KW  - Curricula
+PB  - Mt. Diablo Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 371.33 .M92s 1955 4th
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Diablo (California) Unified School District
+T1  - Social studies curriculum, teachers' guide, combination grades 3 and 4
+Y1  - 1954
+D1  - 07/1954
+KW  - Social sciences
+KW  - Curricula
+PB  - Mt. Diablo Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 371.33 .M92s 1954
+SC  - California
+G1  - Elementary
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Diablo (California) Unified School District
+T1  - Social studies curriculum, teachers' guide, first grade
+Y1  - 1955
+D1  - 07/1955
+KW  - Social sciences
+KW  - Curricula
+PB  - Mt. Diablo Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 371.33 .M92s 1955 1st
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Diablo (California) Unified School District
+T1  - Social studies curriculum, teachers' guide, second grade
+Y1  - 1955
+D1  - 07/1955
+KW  - Social sciences
+KW  - Curricula
+PB  - Mt. Diablo Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 371.33 .M92s 1955 2nd
+SC  - California
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Diablo (California) Unified School District
+T1  - Social studies curriculum, teachers' guide, combination grades 2 and 3
+Y1  - 1955
+D1  - 07/1955
+KW  - Social sciences
+KW  - Curricula
+PB  - Mt. Diablo Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 371.33 .M92s 1955 2nd & 3rd
+SC  - California
+G1  - Elementary
+G2  - 2nd
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Mt. Diablo (California) Unified School District
+T1  - Social studies curriculum, teachers' guide, combination grades 1 and 2
+Y1  - 1955
+D1  - 07/1955
+KW  - Social sciences
+KW  - Curricula
+PB  - Mt. Diablo Unified School District
+CY  - Concord, CA
+LA  - English
+CN  - 371.33 .M92s 1955 1st & 2nd
+SC  - California
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Mount Holyoke College. Department of English
+T1  - Guide to the preparation of papers based on reading
+Y1  - 1940
+D1  - 1940
+SP  - 54
+KW  - Reading
+ED  - Fourth
+PB  - Mount Holyoke College
+CY  - South Hadley, MA
+LA  - English
+CN  - 094.5 .M928 ed. 4
+SC  - Massachusetts
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. College Department
+T1  - Professional examination papers for the academic year 1899
+Y1  - 1899
+D1  - 1899
+SP  - 188
+KW  - Examinations
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 378.24 .N53p 1899
+SC  - New York
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - New York State Department of Education
+T1  - Academic examinations papers for the academic year 1908-9
+Y1  - 1909
+D1  - 1909
+SP  - 383
+KW  - Examinations
+PB  - New York City Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 378.24 .N53a 1909
+SC  - New York
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York. Physical Education Standards Project
+T1  - Basic statement for physical education
+Y1  - 1951
+D1  - 03/1951
+SP  - 30
+KW  - Physical education and training
+T2  - University of the State of New York. Bulletin
+V1  - 1
+PB  - University of the State of New York
+CY  - Albany, NY
+LA  - English
+CN  - 613.4 .N532b
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Organ, Henry P.
+A2  - Nairobi Schools, Inc.
+T1  - The black community vs. the athletic industrial complex
+Y1  - 1974
+D1  - 04/1974
+SP  - 19
+KW  - African Americans
+KW  - Athletics
+T2  - The Nairobi Schools digest
+PB  - Nairobi Schools, Inc.
+CY  - Palo Alto, CA
+CN  - 613.4 .N15b 1974
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of the State of New York
+T1  - Standards manual for football, soccer and softball skills, boys, grades 7-12
+Y1  - 1951
+D1  - 02/1951
+SP  - 106
+KW  - Athletics
+T2  - University of the State of New York. Bulletin
+V1  - 3
+PB  - New York City Department of Education
+CY  - Albany, NY
+LA  - English
+CN  - 613.4 .N532st 1951
+SC  - New York
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - New York State Board of Education
+T1  - American history bibliography
+Y1  - 1956
+D1  - 04/1956
+SP  - 112
+KW  - United States history
+KW  - Bibliography
+PB  - New York State Board of Education
+CY  - Albany, NY
+LA  - English
+CN  - 973 .N53a 1956
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Syracuse University
+T1  - Bulletin of the curriculum laboratory
+Y1  - 1949
+D1  - 10/1949
+SP  - 6
+KW  - Curriculum enrichment
+PB  - Syracuse University
+CY  - Syracuse, NY
+LA  - English
+CN  - 027.8 .S99b 1949
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A1  - Doherty, Robert E.
+A2  - Cornell University. New York State School of Industrial and Labor Relations
+T1  - Teaching industrial relations in high schools: a survey
+Y1  - 1964
+D1  - 1964
+SP  - 100
+KW  - Industrial relations
+PB  - Cornell University. New York State School of Industrial and Labor Relations
+CY  - Ithaca, NY
+LA  - English
+CN  - 331 .C81t 1964
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Shaw, Edward R.
+T1  - Outline of a couse of study of elementary schools
+Y1  - 1899
+D1  - 1899
+KW  - Elementary education
+KW  - Curricula
+N1  - 1 poster-sized chart; 1st year through eighth; three columns: humanistic, scientific, economic
+PB  - F. M. Woodward
+CY  - New York, NY
+LA  - English
+CN  - 375.13 .S531o 1899
+SC  - New York
+G1  - Elementary
+ER  - 
+
