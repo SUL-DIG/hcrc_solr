@@ -1,0 +1,870 @@
+ 
+TY  - BOOK
+A1  - Diffin, C. W.
+A1  - Alyn, Katherine
+A1  - Wilson, G. L.
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Shadow the gray fox
+Y1  - 1939
+D1  - 1939
+KW  - Foxes
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 599 .S193s 1939
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Gay, DeForrest
+A1  - Bancroft, Sally
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Help yourself to music
+Y1  - 1940
+D1  - 1940
+SP  - 82
+KW  - Music
+N1  - An outgrowth of San Diego City Schools Curriculum Project
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 780 .S193h 1940
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Baker, John
+A1  - Baraceanu, Belle
+A1  - Bancroft, Sally
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Horton builds a city
+Y1  - 1940
+D1  - 1940
+SP  - 39
+KW  - Horton, Alonzo E.
+KW  - San Diego
+KW  - History
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 979.4 .S193h 1940
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Our animal friends, including suggestive activities and teaching materials for children's experience on the level of the second school year
+Y1  - 1938
+D1  - 1938-1939
+SP  - 24
+KW  - Animal ecology
+T2  - San Diego City Schools. Curriculum monograph Elementary school series
+V1  - 6
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 599 .S193o 1938
+SC  - California
+G1  - Elementary
+G2  - 2nd
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Living as nomads, including suggestive activities and teaching materials for children's experience on the level of the fourth school year
+Y1  - 1938
+D1  - 1938-1939
+SP  - 61
+KW  - Nomads
+T2  - San Diego City Schools. Curriculum monograph Elementary school series
+V1  - 12
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 371.33 .S193L 1938
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Living in a Chinese or a Japanese home, including suggestive activities and teaching materials for children's experience on the level of the third school year
+Y1  - 1938
+D1  - 1938-1939
+SP  - 82
+KW  - Japan
+KW  - China
+KW  - Family life
+T2  - San Diego City Schools. Curriculum monograph Elementary school series
+V1  - 9
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 371.33 .S193Lc 1938
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Our harbor, including suggestive activities and teaching materials for children's experience on the level of the second school year
+Y1  - 1938
+D1  - 1938-1939
+SP  - 82
+KW  - Harbors
+T2  - San Diego City Schools. Curriculum monograph Elementary school series
+V1  - 5
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 656.3 .S193o 1938
+SC  - California
+G1  - Elementary
+G2  - 2nd
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Textiles, including suggestive activities and teaching materials for children's experience on the level of the fifth school year
+Y1  - 1938
+D1  - 1938-1939
+SP  - 96
+KW  - Textile industry
+T2  - San Diego City Schools. Curriculum monograph Elementary school series
+V1  - 16
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 677 .S193t 1938
+SC  - California
+G1  - Elementary
+G2  - 5th
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Markets and marketing, including suggestive activities and teaching materials for children's experience on the level of the sixth school year
+Y1  - 1938
+D1  - 1938-1939
+SP  - 185
+KW  - Marketing
+T2  - San Diego City Schools. Curriculum monograph Elementary school series
+V1  - 19
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 658.7 .S193m 1938
+SC  - California
+G1  - Middle school
+G2  - 6th
+ER  - 
+ 
+TY  - BOOK
+A1  - Clarke, James
+A1  - Alyn, Katherine
+A1  - Preibisius, Hilda
+A1  - Barks, Frank C.
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - San Diego has five beaches
+Y1  - 1937
+D1  - 1937
+SP  - 39
+KW  - Beaches
+KW  - San Diego
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 551 .S193s 1937
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Thompson, Edith Osborne
+A1  - Boyce, Ruth M.
+A1  - Clearbrook, Bert
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Oranges
+Y1  - 1937
+D1  - 1937
+SP  - 60
+KW  - Oranges
+KW  - Fruit
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 634 .S193o 1937
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Pratt, Janette
+A1  - Zaccaria, Hubert
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Let's go to the zoo
+Y1  - 1936
+D1  - 1936
+SP  - 102
+KW  - Zoo animals
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 590 .S193Le 1936
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Pumphrey, Margaret B.
+A1  - Barks, Frank C.
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Highways and byways of San Diego
+Y1  - 1936
+D1  - 1936
+SP  - 95
+KW  - San Diego
+KW  - History
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 979.4 .S193hb 1936
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Diffin, Charles Willard
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Grapes
+Y1  - 1936
+D1  - 1936
+SP  - 54
+KW  - Grapes
+KW  - Fruit
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 634 .S193g 1936
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Clarke, James
+A1  - Floyd, John
+A1  - Barks, Frank C.
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Tuna clippers
+Y1  - 1936
+D1  - 1936
+SP  - 43
+KW  - Tuna
+KW  - Fisheries
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 597 .S193t 1936
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Clarke, James
+A1  - Sievers, Edward
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Big fish in little cans
+Y1  - 1936
+D1  - 1936
+SP  - 15
+KW  - Tuna
+KW  - Fisheries
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 597 .S193b 1936
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Clarke, James
+A1  - Stevens, George
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Fishing is a game
+Y1  - 1936
+D1  - 1936
+SP  - 13
+KW  - Fish
+KW  - Fishing
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 597 .S193f 1936
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Clower, Hardigain L.
+A2  - Works Progress Administration. City Schools Curriculum Project
+A2  - San Diego (California) City Schools
+T1  - Celery
+Y1  - 1936
+D1  - 1936
+SP  - 59
+KW  - Celery
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 633 .S193c 1936
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A1  - Kirsch, Lawrence
+A2  - San Diego (California) City Schools
+T1  - Military service obligations: a summary of the military obligations of young men and the various service programs by which these obligations may be fulfilled
+Y1  - 1959
+D1  - 07/1959
+SP  - 38
+KW  - Military service
+N1  - February 1956 (Revised October 1956 and July 1959); approved by the Instructional Council for experimental use.
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 633 .S193c 1936
+SC  - California
+G1  - High school
+G2  - 12th
+ER  - 
+ 
+TY  - BOOK
+A1  - Scott, Carroll De Wilton
+A2  - San Diego (California) City Schools
+T1  - Manual of nature education for San Diego elementary schools
+Y1  - 1927
+D1  - 1927
+SP  - 95
+KW  - Nature study
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 570 .S193m 1927
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Temporary course of study for the elementary public schools of the city of San Diego, California for the school year 1919-1920
+Y1  - 1919
+D1  - 1919
+SP  - 49
+KW  - Elementary education
+KW  - Curricula
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 375.13 .S193t 1919
+SC  - California
+G1  - Elementary
+ER  - 
+ 
+TY  - BOOK
+A2  - San Diego (California) City Schools
+T1  - Sample practice sheets for grade III 1B-71B
+Y1  - 1945
+D1  - 1945
+SP  - 81
+KW  - Arithmetic
+N1  - Teacher reference for use with handbook Supplementay [sic] arithmetic materials-addition and subtraction
+PB  - San Diego City Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 511.2 .S193s 1945
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+ 
+TY  - BOOK
+A2  - Salt Lake City (Utah) Board of Education
+T1  - Course of study in arithmetic, elementary grades
+Y1  - 1936
+D1  - 1936
+SP  - 174
+KW  - Arithmetic
+KW  - Curricula
+PB  - Salt Lake City Board of Education
+CY  - Salt Lake City, UT
+LA  - English
+CN  - 511.2 .S17c 1936
+SC  - Utah
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Antonio (Texas) Public Schools
+T1  - Arithmetic
+Y1  - 1936
+D1  - 1936
+SP  - 132
+KW  - Arithmetic
+KW  - Curricula
+T2  - San Antonio Public School. Course of study monographs elementary schools
+V1  - 3
+PB  - San Antonio Public Schools
+CY  - San Antonio, TX
+LA  - English
+CN  - 511.2 .S189a 1936
+SC  - Texas
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino County (California) Schools
+T1  - Teacher's guide for kindergarten education
+Y1  - 1950
+D1  - 1950
+SP  - 116
+KW  - Kindergarten
+PB  - San Bernardino County Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 375.12 .S19t 1950
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - San Bernardino County (California) Schools
+T1  - Standard supplies catalog
+Y1  - 1941
+D1  - 03/1941
+KW  - School furniture and equipment
+KW  - Catalogs
+PB  - San Bernardino County Schools
+CY  - San Bernardino, CA
+LA  - English
+CN  - 371.66 .S19s 1941
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study for music appreciation for junior high schools
+Y1  - 1941
+D1  - 05/1941
+SP  - 56
+KW  - Music appreciation
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 780.5 .S12cm 1941
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Course of study in instrumental music for junior high schools
+Y1  - 1943
+D1  - 10/1943
+SP  - 65
+KW  - Instrumental music
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 780.4 .S12ci 1943
+SC  - California
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Outline of courses of study: subject field: reading, grades four, five, six
+Y1  - 1941
+D1  - 01/1941
+KW  - Reading
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.4 .S12o 1941
+SC  - California
+G1  - Elementary
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Outline of courses of study: subject field: handwriting, grades 1 through 6
+Y1  - 1939
+D1  - 03/1939
+KW  - Penmanship
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 421 .S12o 1939
+SC  - California
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento State College. Instructional Laboratories
+T1  - Power in today's culture, grade six
+Y1  - 1950
+D1  - 09/1950
+SP  - 34
+KW  - Power resources
+N1  - Tentative draft for use in Sacramento and Yolo Counties
+PB  - Sacramento County (California) Superintendent of Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 537 .C151p 1950
+SC  - California
+G1  - Middle school
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento State College
+T1  - Language unit, Education 323
+SP  - 7
+KW  - Language arts
+PB  - Sacramento State College
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .C151L
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Teacher's manual for course of study in world history 3 and 4
+Y1  - 1948
+D1  - 06/1948
+KW  - World history
+N1  - Based on Smith, Muzzey, and Lloyd, World history: the struggle for civilization, Boston, Ginn and Company, 1946. 405pp; approved for trial
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 925 .S12tm 1948
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Brickley, M. J.
+A2  - Sacramento Junior College
+T1  - English history 5B
+KW  - Great Britain
+KW  - History
+PB  - Associated Students' Store
+CY  - Sacramento, CA
+LA  - English
+CN  - 942 .C151e v. 2
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Brickley, M. J.
+A2  - Sacramento Junior College
+T1  - English history 5A
+KW  - Great Britain
+KW  - History
+PB  - Associated Students' Store
+CY  - Sacramento, CA
+LA  - English
+CN  - 942 .C151e v. 1
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Ford, Oren
+A2  - C. K. McClatchy Senior High School
+T1  - Juan Rodriquez Cabrillo
+Y1  - 1947
+D1  - 1947
+SP  - 36
+KW  - Cabrillo, Juan Rodríguez, -1543
+KW  - History
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 979.4 .S12j 1947
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Teachers' guide for use with child life arithmetics, 7th and 8th grades
+Y1  - 1945
+D1  - 04/1945
+SP  - 40
+KW  - Arithmetic
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .S12tc 1945
+SC  - California
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A1  - Dean, Ray B.
+A1  - Brolliar, F. E.
+A1  - Roth, Minnie
+T1  - Pupil's individual arithmetic unit tests: decimals-percentage
+KW  - Arithmetic
+KW  - Tests
+N1  - Review of addition, subtraction, multiplication, division and fractions.
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .S12p
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Pupil's individual arithmetic unit tests: fourth grade
+KW  - Arithmetic
+KW  - Tests
+PB  - Sacramento City Unified School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .S12pu
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Pupil's individual arithmetic assignment booklet: long division fractions
+Y1  - 1936
+D1  - 09/1936
+KW  - Arithmetic
+N1  - Review of addition, subtraction, multiplication, and short division
+T2  - Sacramento City Public Schools. Course of study monograph
+V1  - 46
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .S12pa 1936
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Supplement to elementary science course, grades 1-6
+Y1  - 1934
+D1  - 1934
+SP  - 113
+KW  - Science
+KW  - Curricula
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .S12se 1934
+SC  - California
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Science: a tentative syllabus for elementary schools, grades 1-6
+Y1  - 1932
+D1  - 1932
+SP  - 142
+KW  - Science
+KW  - Curricula
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 519 .S12se 1932
+SC  - California
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Elementary social studies
+Y1  - 1931
+D1  - 06/1931
+SP  - 151
+KW  - Social sciences
+KW  - Curricula
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12es 1931
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Library reference books for social studies--sixth grade
+SP  - 154
+KW  - Social sciences
+KW  - Library materials
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 027.8 .S12L
+SC  - California
+G1  - Middle school
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Course in social studies for fourth grade
+Y1  - 1951
+D1  - 09/1951
+SP  - 48
+KW  - Social sciences
+KW  - Curricula
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12cs 1951
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Tentative course in social studies, fourth grade
+Y1  - 1936
+D1  - 01/1936
+SP  - 43
+KW  - Social sciences
+KW  - Curricula
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12t 1936 4th gr.
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Tentative course in social studies, fifth grade
+Y1  - 1936
+D1  - 01/1936
+SP  - 90
+KW  - Social sciences
+KW  - Curricula
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12t 1936 5th gr.
+SC  - California
+G1  - Elementary
+G2  - 5th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Public Schools
+T1  - Tentative course in social studies, sixth grade
+Y1  - 1936
+D1  - 01/1936
+SP  - 63
+KW  - Social sciences
+KW  - Curricula
+PB  - Sacramento City Public Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12t 1936 6th gr.
+SC  - California
+G1  - Middle school
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Schools
+T1  - Course in social studies, fourth grade
+Y1  - 1937
+D1  - 09/1937
+SP  - 49
+KW  - Social sciences
+KW  - Curricula
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 14
+IS  - 2
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12cs 1937
+SC  - California
+G1  - Elementary
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A1  - Hall, Roy M.
+A1  - Nugent, Donald G.
+A2  - University of Texas. Southwestern Cooperative Program in Educational Administration
+T1  - Democratic method and experience in educational meetings
+Y1  - 1952
+D1  - 1952?
+SP  - 41
+KW  - School management and organization
+N1  - Sponsored by the Southwestern Cooperative Program in Educational Administration, financed in part by the W. K. Kellogg Foundation
+PB  - University of Texas Southwestern Cooperative Program in Educational Administration
+CY  - Austin, TX
+LA  - English
+CN  - 379.74 .T35d
+SC  - Texas
+ER  - 
