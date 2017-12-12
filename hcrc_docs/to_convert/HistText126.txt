@@ -1,0 +1,1783 @@
+
+TY  - BOOK
+A2  - Sacramento (California) City Schools
+T1  - Course in social studies, third grade
+Y1  - 1937
+D1  - 09/1937
+SP  - 67
+KW  - Social sciences
+KW  - Curricula
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 14
+IS  - 1
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12cs 1937 3rd gr.
+SC  - California
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Schools
+T1  - Course in social studies, sixth grade
+Y1  - 1937
+D1  - 09/1937
+SP  - 80
+KW  - Social sciences
+KW  - Curricula
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 14
+IS  - 4
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.33 .S12cs 1937 6th gr.
+SC  - California
+G1  - Middle school
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Schools
+T1  - Pupil's individual arithmetic assignment booklet: multiplication short division, review of addition and subtraction
+Y1  - 1938
+D1  - 01/1938
+SP  - 100
+KW  - Arithmetic
+KW  - Curricula
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 46
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .S12pi 1938
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Schools
+T1  - Pupil's individual arithmetic assignment booklet: long division fractions, review of addition, subtraction, multiplication and short division
+Y1  - 1938
+D1  - 01/1938
+SP  - 58
+KW  - Arithmetic
+KW  - Curricula
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 46
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .S12pa 1938
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Schools
+T1  - Pupil's individual arithmetic assignment booklet: decimals percentage (Review of addition, subtraction, division and fractions
+Y1  - 1937
+D1  - 09/1937
+SP  - 84
+KW  - Arithmetic
+KW  - Curricula
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 46
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 511.2 .S12pi 1937
+SC  - California
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Elementary school libraries: manual and course of study kindergarten through 6th grade
+Y1  - 1937
+D1  - 09/1937
+SP  - 78
+KW  - Elementary education
+KW  - Curricula
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 37
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.13 .S12es 1937
+SC  - California
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A1  - Hansen, Henry Rex
+A2  - Sacramento State College
+T1  - The teacher's manual for use with Green gold a pupil text on the topic of Food and food processing in California
+SP  - 37
+KW  - Food industry and trade
+ED  - trial-run draft
+PB  - Sacramento State College
+CY  - Sacramento, CA
+LA  - English
+CN  - 641 .C151t
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Vanderpool, J. A.
+A2  - California Teachers Association
+A2  - Sacramento State College
+T1  - Resource materials for the workshop in teacher education
+Y1  - 1961
+D1  - 07/1961
+SP  - 20
+KW  - Teachers' workshops
+KW  - Teacher training
+N1  - "Sacramento State College, Sacramento, California, August 13-18, 1961"; compiled and distributed by California Teachers Association Commission on Teacher Education
+PB  - California Teachers Association
+CY  - Sacramento, CA
+LA  - English
+CN  - 371.144 .C15r 1961
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Schools
+T1  - Report of junior-primary curriculum committee
+Y1  - 1936
+D1  - 07/1936
+SP  - 52
+KW  - Elementary education
+KW  - Curricula
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 375.12 .S12r 1936
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Sacramento (California) City Unified School District
+T1  - Graded book list for elementary school libraries, grades 1 to 6
+Y1  - 1942
+D1  - 08/1942
+SP  - 37
+KW  - Library materials
+KW  - School libraries
+N1  - Adopted August 17, 1942
+T2  - Sacramento City Schools. Course of study monograph
+V1  - 50
+ED  - 3rd supplement
+PB  - Sacramento City Schools
+CY  - Sacramento, CA
+LA  - English
+CN  - 027.8 .S12gb 1942
+SC  - California
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Grant Union High School District
+T1  - Language arts guide
+Y1  - 1962
+D1  - 09/1962
+SP  - 61
+KW  - Language arts
+PB  - Grant Union High School District
+CY  - Sacramento, CA
+LA  - English
+CN  - 428.2 .S12La 1962
+SC  - California
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Toward social competence: a guide to the teaching of social studies in the elementary schools
+Y1  - 1950
+D1  - 1950
+SP  - 157
+KW  - Social sciences
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54ts 1950
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Rockefeller Brothers Fund
+T1  - The pursuit of excellence: education and the future of America
+Y1  - 1958
+D1  - 1958
+KW  - Educational change
+N1  - The "Rockefeller Report" on education. Reproductions of press clippings.
+T2  - America at Mid-century Series. Special Studies Project
+V1  - 5
+PB  - Rockefeller Brothers Fund
+LA  - English
+CN  - 379.73 .R681p 1958
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Source unit on consumer economics
+Y1  - 1938
+D1  - 1938
+SP  - 40
+KW  - Consumer education
+KW  - Economics
+T2  - Rocky Mountain Workshop
+V1  - 19
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 371.33 .R683ce 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Living in the home
+Y1  - 1938
+D1  - 1938
+SP  - 69
+KW  - Family life education
+T2  - Rocky Mountain Workshop
+V1  - 6
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 645 .R683Lh 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - How does the modern family provide for its material needs?
+Y1  - 1938
+D1  - 1938
+SP  - 28
+KW  - Family life education
+T2  - Rocky Mountain Workshop
+V1  - 8
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 645 .R683h 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Housing
+Y1  - 1938
+D1  - 1938
+SP  - 22
+KW  - Housing
+T2  - Rocky Mountain Workshop
+V1  - 7
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 643 .R683h 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Communication
+Y1  - 1938
+D1  - 1938
+SP  - 13
+KW  - Communication
+T2  - Rocky Mountain Workshop
+V1  - 10
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 655 .R683c 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - How does the family spend its leisure time
+Y1  - 1938
+D1  - 1938
+SP  - 31
+KW  - Family life education
+T2  - Rocky Mountain Workshop
+V1  - 9
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 645 .R683hd 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Physical science
+Y1  - 1938
+D1  - 1938
+SP  - 22
+KW  - Science
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 519 .R683p 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Course in high school biology
+Y1  - 1938
+D1  - 1938
+SP  - 39
+KW  - Biology
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 570 .R683c 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Social-civic
+Y1  - 1938
+D1  - 1938
+SP  - 72
+KW  - Social sciences
+KW  - Civics
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 371.33 .R683sc 1938
+ER  - 
+
+TY  - BOOK
+A1  - Protheroe, Chester F.
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - A suggested approach to the study of biology from a standpoint of probable student needs
+Y1  - 1938
+D1  - 1938
+SP  - 22
+KW  - Biology
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 570 .R683s 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - A source unit of democracy for junior and senior high schools
+Y1  - 1938
+D1  - 1938
+SP  - 23
+KW  - Civics
+KW  - Social sciences
+T2  - Rocky Mountain Workshop
+V1  - 41
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 371.33 .R683sd 1938
+G1  - Middle school
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Table of contents for problems related to communication
+Y1  - 1938
+D1  - 1938
+SP  - 31
+KW  - Communication
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 655 .R683t 1938
+ER  - 
+
+TY  - BOOK
+A2  - Rocky Mountain Workshop
+A2  - Progressive Education Association
+T1  - Orientation source for junior and senior high schools or how can I got along in this new school
+Y1  - 1938
+D1  - 1938
+SP  - 40
+KW  - Consumer education
+KW  - Economics
+N1  - Rocky Mountain Workshop, June 29 to August 9, 1938
+T2  - Rocky Mountain Workshop
+V1  - 12
+PB  - Rocky Mountain Workshop
+LA  - English
+CN  - 379.742 .R683o 1938
+ER  - 
+
+TY  - BOOK
+A1  - Conode, Willard
+A2  - Rosamond (Illinois) Superintendent of Schools
+T1  - Curriculum workshop: race tolerance
+SP  - 14
+KW  - Race relations
+KW  - Attitude change
+N1  - No date given but written during time Hitler was in power, probably late 1930s.
+PB  - Rosamond Superintendent of Schools
+CY  - Rosamond, IL
+LA  - English
+CN  - 572 .R81c
+SC  - Illinois
+ER  - 
+
+TY  - BOOK
+A1  - Ellingson, Mark
+A1  - Neblette, C. B.
+A2  - Rochester Athenaeum and Mechanics Institute
+T1  - "If you are considering photography"
+Y1  - 1936
+D1  - 1936
+SP  - 19
+KW  - Photography
+KW  - Vocational guidance
+PB  - Rochester Athenaeum and Mechanics Institute
+CY  - Rochester, NY
+LA  - English
+CN  - 371.417 .R66i 1936
+SC  - New York
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Course of study in eighth grade social studies non-regents: American life
+Y1  - 1936
+D1  - 1936
+SP  - 14
+KW  - Social sciences
+KW  - Curricula
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 371.33 .R67c 1936
+SC  - New York
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - General business IV--twelfth year, non-regents
+Y1  - 1937
+D1  - 1937
+SP  - 39
+KW  - Business education
+KW  - Curricula
+N1  - Cover title: "Course of study in general business - 4, non-regents"
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 650 .R67g 1937 4th
+SC  - New York
+G1  - High school
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - General business III, eleventh year--second semester, non-regents
+Y1  - 1937
+D1  - 1937
+SP  - 17
+KW  - Business education
+KW  - Curricula
+N1  - Cover title: "Course of study in general business - 3, non-regents, eleventh year, second semester"
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 650 .R67g 1937 3rd
+SC  - New York
+G1  - High school
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Suggested procedures for the re-teaching of arithmetic in grades 7-9, non-regents
+Y1  - 1937
+D1  - 1937
+SP  - 46
+KW  - Arithmetic
+KW  - Curricula
+N1  - Cover title: "Manual for teachers to accompany course in study in mathematics, non-regents"
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 511.2 .R67s 1937
+SC  - New York
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Course of study in mathematics, grades seven, eight and nine, non-regents
+Y1  - 1937
+D1  - 1937
+SP  - 112
+KW  - Mathematics
+KW  - Curricula
+N1  - Cover title: "Course of study in mathematics, non-regents, 7th, 8th, and 9th grades"
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 511.6 .R67c 1937
+SC  - New York
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Tentative course of study Smith-Hughes science 11 (three hour course)
+Y1  - 1938
+D1  - 1938
+SP  - 46
+KW  - Science
+KW  - Curricula
+N1  - Cover title: "Tentative course of study for Smith-Hughes classes, science 11"
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 519 .R67t 1938
+SC  - New York
+G1  - High school
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Rochester (New York) Board of Education
+T1  - Business mathematics and management
+Y1  - 1939
+D1  - 1939
+SP  - 30
+KW  - Business mathematics
+KW  - Management
+KW  - Curricula
+N1  - Cover title: "Course of study in business mathematics and management, eleventh year"
+PB  - Rochester Board of Education
+CY  - Rochester, NY
+LA  - English
+CN  - 657.1 .R67b 1939
+SC  - New York
+G1  - High school
+G2  - 11th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Course of study in industrial arts, grades one to four
+Y1  - 1937
+D1  - 1937
+SP  - 49
+KW  - Industrial arts
+KW  - Curricula
+PB  - Philadelphia Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 680 .P54c 1937
+SC  - Pennsylvania
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Board of Public Education
+T1  - Oral English (drill material), the correction of errors in expression
+Y1  - 1929
+D1  - 1929
+SP  - 82
+KW  - English language
+KW  - Curricula
+N1  - Reprint June, 1948
+PB  - Philadelphia Board of Public Education
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P54or 1929
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Socialized recess play program
+Y1  - 1964
+D1  - 02/1964
+SP  - 3
+KW  - Physical education and training
+N1  - File No. 19, Bulletin No. 66, February 3, 1964; supplement to physical education course materials in the elementary schools.
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54sr 1964
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Physical education lessons in regular classrooms
+Y1  - 1958
+D1  - 09/1958
+SP  - 7
+KW  - Physical education and training
+N1  - File No. 19, Bulletin No. 15A, September 8, 1958; supplement to physical education course materials in the elementary schools.
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54pe 1958
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Comparison of 1958-59-60-61 attendance figures: Belmont Southwest YWCA pool swimming
+Y1  - 1961
+D1  - 1961?
+KW  - Physical education and training
+KW  - Swimming
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54co 1961
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Summary of coordinated swim program
+Y1  - 1964
+D1  - 06/1964
+KW  - Physical education and training
+KW  - Swimming
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54sc 1964
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - To the principals of school participating in the...swimming program
+Y1  - 1964
+D1  - 09/1964
+KW  - Physical education and training
+KW  - Swimming
+N1  - File No. 19, Bulletin no. 5, September 9, 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54tp 1964
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - [Pertinent information in reference to the Elementary Schoolyear Playground Program
+Y1  - 1964
+D1  - 05/1964
+KW  - Physical education and training
+N1  - File No. 19, Bulletin no. 111, May 4, 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54pi 1964
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Swimming coaches clinic - November 26, 1963
+Y1  - 1963
+D1  - 11/1963
+KW  - Physical education and training
+KW  - Swimming
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54sw 1963
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Soccer coaches clinic - September 9 and 10, 1964
+Y1  - 1964
+D1  - 09/1964
+KW  - Physical education and training
+KW  - Soccer
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54so 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Playground teacher training in-service course, p.e. 7
+Y1  - 1964
+D1  - 09/1964
+SP  - 3
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 3, September 9, 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54pt 1964
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - [In-service course in gymnastics officiating]
+Y1  - 1964
+D1  - 09/1964
+SP  - 3
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 13, September 22, 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54is 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - [Physical fitness testing program for the 1964-65 schoolyear]
+Y1  - 1964
+D1  - 10/1964
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 11 and 11-A, October 1, 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54pf 1964
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Physical fitness tests for city-wide use in secondary schools
+Y1  - 1964
+D1  - 10/1964
+KW  - Physical education and training
+N1  - "This supplement was added to the Physical Education Course of Study in September 1963; reissued October 1, 1964."
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54ph 1964
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - [Forms dealing with the physical fitness tests]
+Y1  - 1964
+D1  - 10/1964
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 9, 9-A, and 9-B, October 1, 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54fd 1964
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - To the men teachers in the afterschool physical education program [regarding appointment]
+Y1  - 1962
+D1  - 09/1962
+SP  - 3
+KW  - Physical education and training
+N1  - Bulletin no. 1, September 1962
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54tm 1962
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - To the women teachers in the afterschool physical education program [regarding appointment]
+Y1  - 1964
+D1  - 09/1964
+SP  - 3
+KW  - Physical education and training
+N1  - Bulletin no. 1, September 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54tw 1964
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - To the teachers in the junior high schools afterschool physical education program [regarding appointment]
+Y1  - 1964
+D1  - 09/1964
+SP  - 2
+KW  - Physical education and training
+N1  - Bulletin no. 29, September 1964
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54tj 1964
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - [Forms for physical education supplies for secondary schools]
+SP  - 3
+KW  - Physical education and training
+N1  - Includes prices for sports equipment.
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54fm
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Money allotment for the afterschool physical education program (junior high schools)
+Y1  - 1963
+D1  - 12/1963
+SP  - 1
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 46, December 13, 1963
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54ma 1963
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Equipment and supplies for afterschool physical education program junior high schools
+Y1  - 1963
+D1  - 12/1963
+SP  - 1
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 45A, December 13, 1963; Includes prices for sports equipment.
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54eq 1963
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Money allotment for the afterschool physical education program (senior high and technical high schools)
+Y1  - 1963
+D1  - 12/1963
+SP  - 1
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 47, December 17, 1963
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54mah 1963
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Equipment and supplies for afterschool physical education program senior high and technical high schools
+Y1  - 1963
+D1  - 12/1963
+SP  - 3
+KW  - Physical education and training
+N1  - File no. 19, bulletin no. 44a, December 5, 1963; Includes prices for sports equipment.
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54eqh 1963
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A1  - Long, Paul E.
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Audio-visual and Museum Education
+T1  - To the presidents and program chairmen of home and school associations
+Y1  - 1964
+D1  - 05/1964
+SP  - 3
+KW  - Audio-visual materials
+KW  - Catalogs
+N1  - Letter written May 15, 1964 listing available films and filmstrips
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.3095 .P54tp 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Audio-visual and Museum Education
+T1  - The Philadelphia Museum of Art school program fall 1964
+Y1  - 1964
+D1  - Fall, 1964
+KW  - Museum and schools
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 374.27 .P54pm 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Audio-visual and Museum Education
+T1  - The Commercial Museum school program fall 1964
+Y1  - 1964
+D1  - Fall, 1964
+KW  - Museum and schools
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 374.27 .P54cm 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Audio-visual and Museum Education
+T1  - The Academy of Natural Sciences school program fall 1964
+Y1  - 1964
+D1  - Fall, 1964
+KW  - Museum and schools
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 374.27 .P54an 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Audio-visual and Museum Education
+T1  - Independence National Historical Park Independence Hall school program fall 1964
+Y1  - 1964
+D1  - Fall, 1964
+KW  - Museum and schools
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 374.27 .P54in 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Audio-visual and Museum Education
+T1  - The Franklin Institute school program fall 1964
+Y1  - 1964
+D1  - Fall, 1964
+KW  - Museum and schools
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 374.27 .P54fr 1964
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Functional lists of words: third year spelling (tentative)
+Y1  - 1963
+D1  - 1963
+SP  - 17
+KW  - English language
+KW  - Orthography and spelling
+KW  - Spellers
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.1 .P54p v. 2a
+SC  - Pennsylvania
+G1  - Elementary
+G2  - 3rd
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. The Curriculum Planning Committee for Arithmetic in the Elementary Schools
+T1  - Arithmetic: kindergarten through grade six scope and sequence chart
+Y1  - 1946
+D1  - 1946
+KW  - Arithmetic
+N1  - 1 poster-sized chart; reprinted 1960
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54ar 1946
+SC  - Pennsylvania
+G1  - Elementary
+G2  - Kindergarten
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Charting your course: a guide to the selection of a curriculum for grades nine through twelve
+Y1  - 1962
+D1  - 1962
+SP  - 51
+KW  - Guidance
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.45 .P54ch 1962
+SC  - Pennsylvania
+G1  - High school
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G3  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A supplement to English, an adapted course, grades 10-12: collateral reading and audio-visual instruction
+Y1  - 1962
+D1  - 1962
+SP  - 44
+KW  - English language
+KW  - Children with mental disabilities
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P54g 1962
+SC  - Pennsylvania
+G1  - High school
+G2  - 10th
+G2  - 11th
+G3  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Suggested list of textbooks for use with a guide to the teaching of English, an adapted course
+Y1  - 1960
+D1  - 06/1960
+SP  - 6
+KW  - English language
+KW  - Children with mental disabilities
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P54gt 1960
+SC  - Pennsylvania
+G1  - High school
+G2  - 10th
+G2  - 11th
+G3  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - General and business mathematics, adapted, Philadelphia senior and technical high schools
+Y1  - 1962
+D1  - 1962
+SP  - 134
+KW  - Business mathematics
+KW  - Children with mental disabilities
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 657.1 .P54gb 1962
+SC  - Pennsylvania
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - A guide to the teaching of general and business mathematics, grade 10
+Y1  - 1957
+D1  - 1957
+SP  - 60
+KW  - Business mathematics
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 657.1 .P54gt 1957
+SC  - Pennsylvania
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Our junior high schools--what are they like?
+Y1  - 1956
+D1  - 1956
+SP  - 39
+KW  - Junior high schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 373.3 .P54oj 1956
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Earning a living in Philadelphia
+Y1  - 1951
+D1  - 1951
+SP  - 112
+KW  - Vocational guidance
+N1  - Reprinted 1960; Workers Philadelphia Social Studies Series for the Philadelphia Public Elementary Schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .P54eL 1951
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Suggestions for the teaching of grammar, correct usage, vocabulary development
+Y1  - 1959
+D1  - 1959
+SP  - 19
+KW  - Language arts
+KW  - Grammar
+KW  - Vocabulary
+KW  - English language
+N1  - Reprinted 1961, 1963
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P54st 1959
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the teaching of American history and government in senior high and vocational-technical schools, terms 1, 2, 3, 4 (tentative)
+Y1  - 1960
+D1  - 1960
+SP  - 88
+KW  - United States history
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 973 .P54gt 1960
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Arithmetic supplement: problem solving
+Y1  - 1960
+D1  - 1960
+SP  - 19
+KW  - Arithmetic
+N1  - Prepared by the Subcommittee on Problem Solving for the Arithmetic Curriculum Committee of the Elementary Schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54as 1960
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Revisions to be made in arithmetic, Philadelphia Public Elementary Schools, 1946
+Y1  - 1959
+D1  - 1959
+SP  - 5
+KW  - Arithmetic
+N1  - Arithmetic Curriculum Committee of the Elementary Schools
+PB  - Philadelphia Public Schools
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.2 .P54a 1959
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Board of Public Education
+T1  - Suggestions and information for summer recreation playground teachers
+Y1  - 1955
+D1  - 1955
+SP  - 34
+KW  - Physical education and training
+N1  - Bulletin no. 105, book 2
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613.4 .P54si 1955
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the study of solid geometry
+Y1  - 1953
+D1  - 1953
+SP  - 51
+KW  - Geometry
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 513.3 .P54gs 1953
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia Suburban School Study Council
+T1  - A project on evaluation of the elementary school
+Y1  - 1957
+D1  - 1957?
+SP  - 16
+KW  - Geometry
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 375.13 .P54pe 1957
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Literature for the elementary school
+Y1  - 1952
+D1  - 1952
+SP  - 39
+KW  - Literature
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.5 .P54L 1952
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Chamber of Commerce
+T1  - Philadelphia facts: business and civic statistics. tables, diagrams, maps for city and area
+Y1  - 1948
+D1  - 1948
+SP  - 72
+KW  - Philadelphia, Pennsylvania
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54p 1948
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Tentative course of study in mathematics for grade 8b
+Y1  - 1946
+D1  - 1946
+SP  - 9
+KW  - Mathematics
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54t 1946
+SC  - Pennsylvania
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - The role of small business in our economy
+Y1  - 1950
+D1  - 09/1950
+SP  - 23
+KW  - Small business
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 330 .P54r
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A tentative guide to mathematics grades 7 and 8
+Y1  - 1947
+D1  - 09/1947
+SP  - 41
+KW  - Mathematics
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 511.6 .P54g 1947
+SC  - Pennsylvania
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Suggested resources for city planning and redevelopment
+Y1  - 1948
+D1  - 02/1948
+SP  - 13
+KW  - City planning
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54sr 1948
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Suggested resources for city planning and redevelopment
+Y1  - 1948
+D1  - 02/1948
+SP  - 13
+KW  - City planning
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54sr 1948
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - The neighborhood survey: a means toward planning and building a better community
+Y1  - 1948
+D1  - 03/1948
+SP  - 9
+KW  - City planning
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54ns 1948
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Planning a visit to the better Philadelphia exhibition
+Y1  - 1947
+D1  - 09/1947
+SP  - 18
+KW  - Philadelphia, Pennsylvania
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54pv 1947
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Living and learning: a program to unite study and action
+Y1  - 1945
+D1  - 1945
+SP  - 66
+KW  - Philadelphia, Pennsylvania
+KW  - Social sciences
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54LL 1945
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Course of study in introduction to foreign language study, grade 8b
+Y1  - 1936
+D1  - 1936
+SP  - 133
+KW  - Philadelphia, Pennsylvania
+KW  - Modern languages
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 400 .P54cs 1936
+SC  - Pennsylvania
+G1  - Middle school
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. Department of Superintendence. Division of Physical and Health Education.
+T1  - Course of study in health education grades 10, 11, and 12
+Y1  - 1950
+D1  - 02/1950
+SP  - 92
+KW  - Health education
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 613 .P54cs 1950
+SC  - Pennsylvania
+G1  - High school
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools
+T1  - Shelter through science: research and experiment have helped mankind to evolve better living conditions
+Y1  - 1945
+D1  - 09/1945
+SP  - 41
+KW  - Science
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 519 .P54st 1946
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Lane, May Rogers
+A2  - White-Williams Foundation
+T1  - Junior and juvenile wage earners in Philadelphia
+Y1  - 1923
+D1  - 06/1923
+SP  - 4
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Monograph series
+V1  - 6
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589j 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Woodruff, Ruth J.
+A2  - White-Williams Foundation
+T1  - The paper box industry
+Y1  - 1923
+D1  - 06/1923
+SP  - 4
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Monograph series
+V1  - 5
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589p 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Jennings, Florence B.
+A2  - White-Williams Foundation
+T1  - The librarian
+Y1  - 1923
+D1  - 06/1923
+SP  - 7
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Monograph series
+V1  - 2
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589L 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Woodruff, Ruth J.
+A2  - White-Williams Foundation
+T1  - The dental mechanic
+Y1  - 1923
+D1  - 06/1923
+SP  - 5
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Monograph series
+V1  - 4
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589d 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Woodruff, Ruth J.
+A2  - White-Williams Foundation
+T1  - The hair dresser
+Y1  - 1923
+D1  - 06/1923
+SP  - 5
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Monograph series
+V1  - 3
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589h 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Lane, May Rogers
+A2  - White-Williams Foundation
+T1  - The professional photographer
+Y1  - 1923
+D1  - 11/1923
+SP  - 52
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Bulletin series
+V1  - 2
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589pr 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Jennings, Florence B.
+A2  - White-Williams Foundation
+T1  - The pharmacist
+Y1  - 1923
+D1  - 06/1923
+SP  - 4
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Monograph series
+V1  - 1
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589ph 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Ives, James Briggs
+A2  - White-Williams Foundation
+T1  - The watchmaking and repair trade
+Y1  - 1923
+D1  - 09/1923
+SP  - 28
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Bulletin series
+V1  - 1
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589w 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Griscom, Anna Bassett
+A2  - White-Williams Foundation
+T1  - The working children of Philadelphia: a survey of the work and working conditions of the 3300 continuing school children
+Y1  - 1924
+D1  - 09/1924
+SP  - 45
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Bulletin series
+V1  - 3
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589wo 1924
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Keller, Charles
+A2  - White-Williams Foundation
+T1  - Electrical industries of Philadelphia: a survey of occupations concerned with the production, distribution, and sale of electric current and of electrical apparatus
+Y1  - 1924
+D1  - 11/1924
+SP  - 76
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Bulletin series
+V1  - 4
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589eL 1924
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - Woodruff, Ruth J.
+A2  - White-Williams Foundation
+T1  - The hosiery industry
+Y1  - 1925
+D1  - 04/1925
+SP  - 45
+KW  - Vocational guidance
+N1  - Co-operating with the Junior Employment Service, The Board of Public Education
+T2  - White-Williams Foundation. Bulletin series
+V1  - 5
+PB  - White-Williams Foundation
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.425 .W589ho 1925
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Board of Public Education
+T1  - Course of study in social studies: history, junior division grades 7B to 8B
+Y1  - 1937
+D1  - 1937
+SP  - 113
+KW  - History
+PB  - Pittsburgh Board of Public Education
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 924 ,P69cs 1937
+SC  - Pennsylvania
+G1  - Middle school
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. The Curriculum Planning Committee for Social Studies in the Elementary Schools
+T1  - Social studies in the kindergarten
+Y1  - 1948
+D1  - 05/194
+KW  - Social sciences
+N1  - Unit 1: transportation; unit 2: an airplane interest; unit 3: home and family interests; unit 4: home building interest; unit 5: firemen interest
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54ss 1948 Kindergarten
+SC  - Pennsylvania
+G1  - Elementary
+G2  - Kindergarten
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. The Curriculum Planning Committee for Social Studies in the Elementary Schools
+T1  - [Social studies in grade 1]
+Y1  - 1948
+D1  - 05/194
+KW  - Social sciences
+N1  - Unit 1: Our school; unit 2: The family - its relationships, its responsibilities
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54ss 1948 1st
+SC  - Pennsylvania
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. The Curriculum Planning Committee for Social Studies in the Elementary Schools
+T1  - [Social studies in grade 2]
+Y1  - 1948
+D1  - 05/194
+KW  - Social sciences
+N1  - Unit 1: Workers who come to our door; unit 2: Workers for health and safety (children - 2nd year, 7-8 year); unit 3: a mother's day gift
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54ss 1948 2nd
+SC  - Pennsylvania
+G1  - Elementary
+G2  - 2nd
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) School District. The Curriculum Planning Committee for Social Studies in the Elementary Schools
+T1  - [Social studies in grade 6]
+Y1  - 1948
+D1  - 05/194
+KW  - Social sciences
+N1  - Unit 3: Living in The Netherlands
+PB  - Philadelphia School District
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P54ss 1948 6th
+SC  - Pennsylvania
+G1  - Elementary
+G2  - 6th
+ER  - 
+
+
