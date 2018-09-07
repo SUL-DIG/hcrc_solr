@@ -1,0 +1,1225 @@
+
+TY  - BOOK
+A1  - Knight, J. D.
+A2  - San Diego County (California) Superintendent of Schools
+T1  - Catalog of motion picture films: an annotated list arranged by subject areas
+Y1  - 1944
+D1  - 10/1944
+SP  - 115
+KW  - Audio-visual materials
+KW  - Catalogs
+ED  - Preliminary
+PB  - San Diego County Superintendent of Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 371.3095 .S194c 1944
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+T1  - Visual aids: motion pictures, 16 mm. sound and silent
+Y1  - 1947
+D1  - 06/1947
+SP  - 178
+KW  - Audio-visual materials
+KW  - Catalogs
+T2  - The University of Texas Publication
+V1  - 4721
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 371.3095 .T35v 1947
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+T1  - Visual aids: motion pictures, 16 mm. sound and silent
+Y1  - 1945
+D1  - 09/1945
+SP  - 200
+KW  - Audio-visual materials
+KW  - Catalogs
+T2  - The University of Texas Publication
+V1  - 4535
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 371.3095 .T35v 1945
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - University of Texas
+T1  - Visual aids: motion pictures, 16 mm. sound and silent
+Y1  - 1947
+D1  - 06/1947
+SP  - 178
+KW  - Audio-visual materials
+KW  - Catalogs
+T2  - The University of Texas Publication
+V1  - 4721
+PB  - University of Texas
+CY  - Austin, TX
+LA  - English
+CN  - 371.3095 .T35v 1947
+SC  - Texas
+ER  - 
+
+TY  - BOOK
+A2  - San Diego County (California) Schools
+T1  - Motion picture catalog
+Y1  - 1946
+D1  - 10/1946
+SP  - 117
+KW  - Audio-visual materials
+KW  - Catalogs
+N1  - Includes Supplement 1: Films acquired fall semester 1946.
+T2  - San Diego County Schools Curriculum monograph
+V1  - 8
+IS  - Audio visual series 1
+PB  - San Diego County Schools
+CY  - San Diego, CA
+LA  - English
+CN  - 371.3095 .S194m 1946
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - San Francisco (California) Unified School District
+T1  - Audio-visual aids hand book
+Y1  - 1949
+D1  - 1949
+SP  - 423
+KW  - Audio-visual materials
+KW  - Catalogs
+PB  - San Francisco Unified School District
+CY  - San Francisco, CA
+LA  - English
+CN  - 371.3095 .S197a 1949
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Lamers, William M.
+A2  - National School Boards Association
+T1  - School boards plan for disaster problems
+D1  - 1950s
+SP  - 36
+KW  - Emergency management
+KW  - Schools
+PB  - National School Boards Association
+CY  - Chicago, IL
+LA  - English
+CN  - 370.8 .N532s
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Board of Public Education
+T1  - Social insurance
+Y1  - 1934
+D1  - 11/1934
+KW  - Social security
+T2  - Pittsburgh Public Schools, Department of Curriculum Studies. Current problems series
+V1  - 6
+PB  - Pittsburgh Board of Public Education
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 331.22 .P69s 1934
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Board of Public Education
+T1  - High school course of study in English, senior division grades ten to twelve
+Y1  - 1927
+D1  - 1927
+SP  - 176
+KW  - English literature
+T2  - Pittsburgh Public Schools, Department of Curriculum Study and Educational Measurement and Research. Bulletin
+V1  - 13
+PB  - Pittsburgh Board of Public Education
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 428.5 .P69h 1927
+SC  - Pennsylvania
+G1  - High school
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Board of Public Education
+T1  - Course of study in thrift: teachers' manual
+Y1  - 1921
+D1  - 1921
+SP  - 20
+KW  - Saving and thrift
+N1  - Cover title: Elementary course in thrift
+PB  - Pittsburgh Board of Public Education
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 650 .P69c 1921
+SC  - Pennsylvania
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Pittsburgh (Pennsylvania) Board of Public Education
+T1  - Spelling survey
+Y1  - 1924
+D1  - 05/1924
+SP  - 48
+KW  - Spelling
+KW  - Testing
+T2  - Pittsburgh Public Schools, Department of Curriculum Study and Educational Measurement and Research. Bulletin
+V1  - 5
+PB  - Pittsburgh Board of Public Education
+CY  - Pittsburgh, PA
+LA  - English
+CN  - 428.1 .P69s 1924
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Course of study in school health: hygiene and physiology grades IX-XII
+Y1  - 1923
+D1  - 1923
+SP  - 148
+KW  - Health and hygiene
+KW  - Health education
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 613 .P41c 1923 gr. 9-12
+SC  - Pennsylvania
+G1  - High school
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Course of study in school health: hygiene and physiology grades I-VII
+Y1  - 1923
+D1  - 1923
+SP  - 163
+KW  - Health and hygiene
+KW  - Health education
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 613 .P41c 1923 gr. 1-8
+SC  - Pennsylvania
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Course of study in English grades VII-XII
+Y1  - 1923
+D1  - 1923
+SP  - 60
+KW  - Reading
+KW  - Writing
+KW  - English language
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 420 .P41c 1923 gr. 7-12
+SC  - Pennsylvania
+G1  - Middle school
+G1  - High school
+G2  - 7th
+G2  - 8th
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Courses of study in agriculture
+Y1  - 1923
+D1  - 1923
+SP  - 137
+KW  - Agricultural education
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 630 .P41c 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Courses of study in commercial education
+Y1  - 1923
+D1  - 1923
+SP  - 167
+KW  - Business education
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 650 .P41c 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Course of study in music for elementary and high school
+Y1  - 1923
+D1  - 1923
+SP  - 39
+KW  - Music education
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 780 .P41c 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Courses of study in foreign languages: Latin, French, German, Spanish
+Y1  - 1923
+D1  - 1923
+SP  - 80
+KW  - Latin language
+KW  - French language
+KW  - German language
+KW  - Spanish language
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 430 .P41c 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Course of study in art education years I-XII
+Y1  - 1923
+D1  - 1923
+SP  - 39
+KW  - Art education
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 740 .P41cs 1923
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Pennsylvania age grade study, 1921-1924
+Y1  - 1926
+D1  - 09/1926
+SP  - 39
+KW  - Grading and marking
+T2  - Pennsylvania. Department of Public Instruction. Educational monographs
+V1  - 1
+IS  - 5
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.3 .P41p 1926
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A1  - James, Edmund J.
+A2  - Educational Club of Philadelphia
+T1  - Philadelphia's need of a commercial high school: a paper read before the Educational Club of Philadelphia : March 30, 1894
+Y1  - 1894
+D1  - 1894
+SP  - 23
+KW  - High schools
+KW  - Curricula
+PB  - Educational Club of Philadelphia
+CY  - Philadelphia, PA
+LA  - English
+CN  - 373.1 .E245p 1894
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the teaching of English: an adapted course in the basic skills of reading, writing, and speech for grades 10 to 12 (Tentative)
+Y1  - 1960
+D1  - 1960
+SP  - 102
+KW  - Reading
+KW  - Writing
+KW  - English language
+ED  - Tentative
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 420 .P554g 1960
+SC  - Pennsylvania
+G1  - High school
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Phoenix (Arizona) Union High School
+T1  - Art outline
+Y1  - 1959
+D1  - 05/1959
+KW  - Art education
+PB  - Phoenix Union High School
+CY  - Phoenix, AZ
+LA  - English
+CN  - 740 .P57ao 1959
+SC  - Arizona
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - A guide to the teaching of social studies in the Philadelphia junior high schools (Tentative)
+Y1  - 1953
+D1  - 07/1953
+SP  - 35
+KW  - Social sciences
+ED  - Tentative
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 371.33 .P554g 1953
+SC  - Pennsylvania
+G1  - Middle school
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Reference list no. 1: air-age education
+Y1  - 1947
+D1  - 09/1947
+SP  - 9
+KW  - Aeronautics
+KW  - Bibliography
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 521.9 .P554r 1947
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Suggestions for the teach of grammar, correct usage, vocabulary
+Y1  - 1959
+D1  - 1959
+SP  - 19
+KW  - Grammar
+KW  - English language
+N1  - Reprinted 1961
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 428.2 .P554s 1959
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Guide to the teaching of Italian in the secondary schools of Philadelphia, grades 9-12
+Y1  - 1961
+D1  - 1961
+SP  - 52
+KW  - Italian language
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 450 .P554g 1961
+SC  - Pennsylvania
+G1  - High school
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Supplementary bibliography for the teaching of Italian, terms 1 through 8
+Y1  - 1961
+D1  - 1961
+SP  - 10
+KW  - Italian language
+KW  - Bibliography
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 450 .P554g 1961 suppl.
+SC  - Pennsylvania
+G1  - High school
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Guide to the teaching of Spanish in the secondary schools of Philadelphia, grades 9-12
+Y1  - 1961
+D1  - 1961
+SP  - 54
+KW  - Spanish language
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 460 .P554g 1961
+SC  - Pennsylvania
+G1  - High school
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Philadelphia (Pennsylvania) Public Schools. Curriculum Office
+T1  - Supplementary bibliography for the teaching of Spanish, terms 1 through 8
+Y1  - 1961
+D1  - 1961
+SP  - 7
+KW  - Italian language
+KW  - Bibliography
+PB  - Philadelphia Public Schools. Curriculum Office
+CY  - Philadelphia, PA
+LA  - English
+CN  - 460 .P554g 1961 suppl.
+SC  - Pennsylvania
+G1  - High school
+G2  - 9th
+G2  - 10th
+G2  - 11th
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Suggestions for developing a social studies program in the secondary school
+Y1  - 1939
+D1  - 1939
+SP  - 32
+KW  - Social sciences
+T2  - Pennsylvania. Department of Public Instruction. Bulletin
+V1  - 411
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.33 .P41su 1939
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Course of study in the social studies for secondary schools: a progress report
+Y1  - 1951
+D1  - 1951
+SP  - 364
+KW  - Social sciences
+KW  - Curricula
+T2  - Pennsylvania. Department of Public Instruction. Bulletin
+V1  - 410
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.33 .P41c 1951
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Course of study in art education, years I-XII
+Y1  - 1927
+D1  - 1927
+SP  - 47
+KW  - Art education
+KW  - Curricula
+ED  - Revised reprint
+T2  - Pennsylvania. Department of Public Instruction. Bulletin
+V1  - 41
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 740 .P41cs 1927
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Visual education and the school journey
+Y1  - 1927
+D1  - 09/1927
+SP  - 94
+KW  - Visual education
+KW  - School field trips
+T2  - Pennsylvania. Department of Public Instruction. Educational monographs
+V1  - 1
+IS  - 6
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.3095 .P41vi 1927
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - A survey of the schools of Susquehanna Township, Dauphin County, Pennsylvania
+Y1  - 1928
+D1  - 07/1928
+SP  - 59
+KW  - Educational surveys
+T2  - Pennsylvania. Department of Public Instruction. Educational monographs
+V1  - 1
+IS  - 7
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 370.225 .P41s 1928
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - Science in the secondary school
+Y1  - 1926
+D1  - 08/1926
+SP  - 23
+KW  - Science
+T2  - Pennsylvania. Department of Public Instruction. Educational monographs
+V1  - 1
+IS  - 4
+PB  - Pennsylvania Department of Public Instruction 
+CY  - Harrisburg, PA
+LA  - English
+CN  - 519 .P41sc 1926
+SC  - Pennsylvania
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - A seventh grade course in school opportunities
+Y1  - 1928
+D1  - 1928
+SP  - 21
+KW  - Guidance
+T2  - Pennsylvania. Department of Public Instruction. Bulletin
+V1  - 48
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 371.426 .P41s 1928
+SC  - Pennsylvania
+G1  - Middle school
+G2  - 7th
+ER  - 
+
+TY  - BOOK
+A2  - Pennsylvania. Department of Public Instruction
+T1  - The schools of Pennsylvania: statistical data
+Y1  - 1926
+D1  - 05/1926
+SP  - 40
+KW  - Public schools
+KW  - Statistics
+T2  - Pennsylvania. Department of Public Instruction. Educational monographs
+V1  - 1
+IS  - 2
+PB  - Pennsylvania Department of Public Instruction
+CY  - Harrisburg, PA
+LA  - English
+CN  - 379.1 .P41s 1926
+SC  - Pennsylvania
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State College, Corvallis
+T1  - Vocation education - Ed488 & The conference method - IEd480
+Y1  - 1939
+D1  - 1939
+KW  - Vocational education
+N1  - In cooperation with the State Board for Vocational Education, Salem, Oregon
+PB  - Oregon State College
+CY  - Corvallis, OR
+LA  - English
+CN  - 371.401 .O66v 1939
+SC  - Oregon
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Intercultural education project: digest
+Y1  - 1962
+D1  - 01/1962
+SP  - 7
+KW  - Multicultural education
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 323 .P18i 1962
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - A handbook of practices in teaching reading: suggestions for strengthening reading skills
+Y1  - 1956
+D1  - 1955-1956
+SP  - 80
+KW  - Reading
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.4 .P18h
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - The challenge of the '60s: lectures delivered as part of the Intercultural program during the academic year 1960-1961
+Y1  - 1961
+D1  - 12/1961
+SP  - 125
+KW  - Multicultural education
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 323 .P18c 1961
+SC  - California
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - English language arts: resource workbook number one, grade 10
+Y1  - 1954
+D1  - Summer 1954
+KW  - Language arts
+KW  - English language
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.2 .P18e 1954
+SC  - California
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Teacher's guide: grade one
+Y1  - 1951
+D1  - 1951
+KW  - Elementary education
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 375.13 .P18t 1951
+SC  - California
+G1  - Elementary
+G2  - 1st
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Teacher's guide for English language arts: grade IX
+KW  - Language arts
+KW  - English language
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.2 .P18t
+SC  - California
+G1  - High school
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Anastasiow, Nicholas J.
+A2  - Palo Alto (California) Unified School District
+T1  - Research report: team teaching
+Y1  - 1963
+D1  - 11/1963
+KW  - Teaching teams
+KW  - English language
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 375 .P18r 1963
+SC  - California
+ER  - 
+
+TY  - BOOK
+A1  - Yabroff, William W.
+A2  - Palo Alto (California) Unified School District
+T1  - Two experiments in teaching decision-making to ninth grade students
+Y1  - 1964
+D1  - 06/1964
+KW  - Decision making
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 370.229 .P18t 1964
+SC  - California
+G1  - High school
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - English language arts: resource workbook number one: grade 10
+Y1  - 1956
+D1  - Summer, 1956
+KW  - Language arts
+KW  - English language
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.2 .P18e 1956
+SC  - California
+G1  - High school
+G2  - 10th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - English language arts: resource workbook number three: grade 12
+Y1  - 1957
+D1  - Summer, 1957
+KW  - Language arts
+KW  - English language
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 428.2 .P18e 1957
+SC  - California
+G1  - High school
+G2  - 12th
+ER  - 
+
+TY  - BOOK
+A2  - Palo Alto (California) Unified School District
+T1  - Social studies framework: grades 1-9
+Y1  - 1954
+D1  - 1953-1954
+KW  - Social sciences
+PB  - Palo Alto Unified School District
+CY  - Palo Alto, CA
+LA  - English
+CN  - 371.33 .P18s 1954
+SC  - California
+G1  - Elementary
+G1  - Middle school
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+G2  - 7th
+G2  - 8th
+G2  - 9th
+ER  - 
+
+TY  - BOOK
+A1  - Carleton, E.F
+A2  - Oregon State Department of Education
+T1  - A practical recreation manual for schools
+Y1  - 1925
+D1  - 1925
+SP  - 110
+KW  - Recreation
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 613.4 .O66p 1925
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon Elementary Principals' Association
+T1  - Improving the physical facilities of the elementary school
+Y1  - 1946
+D1  - 09/1946
+SP  - 46
+KW  - School facilities
+N1  - Submitted by the Committee for the Promotion of the Five-Year Study for the improvement of Elementary Education in Oregon
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 379.741 .O655i 1946
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A1  - Bain, V. D.
+A2  - Oregon State Department of Education
+T1  - Course of study: reading
+Y1  - 1939
+D1  - 1939
+SP  - 261
+KW  - Reading
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 428.2 .O66c 1939
+SC  - Oregon
+G1  - Elementary
+G2  - 1st
+G2  - 2nd
+G2  - 3rd
+G2  - 4th
+G2  - 5th
+G2  - 6th
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Handbook on curriculum study
+Y1  - 1937
+D1  - 12/1937
+SP  - 186
+KW  - Curricula
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+T2  - Oregon State Department of Education. Curriculum series, bulletin
+V1  - 1
+LA  - English
+CN  - 375.81 .O66h 1937
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Emerson, D.A.
+A1  - Bain, V. D.
+A2  - Oregon State Department of Education
+T1  - Course of study: language and penmanship
+Y1  - 1937
+D1  - 1937
+SP  - 107
+KW  - Language arts
+KW  - Penmanship
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 428.2 .O66c 1937
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Library
+A2  - Oregon State Department of Education
+T1  - Curtain calls: a selected list of readings and recitations for school and community use
+Y1  - 1936
+D1  - 1936
+SP  - 84
+KW  - Recitations
+KW  - Poetry
+N1  - Published cooperatively by the Oregon State Department of Education and the Oregon State Library
+PB  - Oregon State Library
+CY  - Salem, OR
+LA  - English
+CN  - 808.8 .O7c 1936
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Emerson, D.A.
+A1  - Miller, John M.
+A2  - Oregon State Department of Education
+T1  - Nature study: elementary schools (teacher's manual)
+Y1  - 1937
+D1  - 1937
+SP  - 93
+KW  - Nature study
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 518.3 .O66n 1937
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+T1  - Curriculum trends and recommendations for a 12-year language arts program
+Y1  - 1941
+D1  - 05/1941
+SP  - 49
+KW  - Language arts
+KW  - Curricula
+N1  - Prepared by a committee of the Oregon System of Higher Education Curriculum Class, Portland, Spring, 1941.
+T2  - University of Oregon. Curriculum bulletin
+V1  - 37
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 428.2 .O66c 1941
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon Reading Committee
+A2  - Oregon State Department of Education
+T1  - Essentials of a reading program
+Y1  - 1941
+D1  - 05/1941
+SP  - 66
+KW  - Reading
+T2  - Oregon State Department of Education. Reading bulletin
+V1  - 3
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 428.2 .O66e 1941
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon Music Teachers' Association
+A2  - Oregon State Department of Education
+T1  - Course of study in music: teachers' manual for pupils studying music outside of school
+Y1  - 1937
+D1  - 01/1937
+SP  - 64
+KW  - Music education
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 780 .O66c 1937
+SC  - Oregon
+G1  - High school
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Guide for elementary education in Oregon: primary division
+Y1  - 1949
+D1  - 1949
+SP  - 57
+KW  - Elementary education
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375.13 .O66ge 1949 v. 1
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Guide for elementary education in Oregon: intermediate division
+Y1  - 1949
+D1  - 1949
+SP  - 71
+KW  - Elementary education
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375.13 .O66ge 1949 v. 2
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Department of Education
+T1  - Guide for elementary education in Oregon: upper division
+Y1  - 1949
+D1  - 1949
+SP  - 45
+KW  - Elementary education
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 375.13 .O66ge 1949 v. 3
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - University of Oregon
+T1  - Annotated bibliography and comprehensive index for the Curriculum bulletins
+Y1  - 1969
+D1  - 12/1969
+SP  - 23
+KW  - Bibliography
+KW  - Curricula
+T2  - University of Oregon. Curriculum bulletin
+V1  - 25
+IS  - 309
+PB  - University of Oregon
+CY  - Eugene, OR
+LA  - English
+CN  - 010 .O66a 1969
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Wood, Hugh B.
+A1  - Beane, James A.
+A2  - American Education Foundation
+T1  - Still more sense and nonsense
+Y1  - 1979
+D1  - 11/1979
+SP  - 16
+KW  - Curricula
+N1  - Also "Reforming the high schools: a critique of the Saylor Report & "Annotated bibliography and comprehensive index for Curriculum bulletins no. 310-346
+T2  - University of Oregon. Curriculum bulletin
+V1  - 33
+IS  - 346
+PB  - American Education Foundation
+CY  - Oceanside, OR
+LA  - English
+CN  - 010 .O66s 1979
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Wood, Hugh B.
+A2  - American Education Foundation
+T1  - Historical notes on the Curriculum bulletin
+Y1  - 1979
+D1  - 12/1979
+KW  - Curricula
+PB  - American Education Foundation
+CY  - Oceanside, OR
+LA  - English
+CN  - 010 .O66h 1979
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Dobson, Russell
+A1  - Dobson, Judith Shelton
+A2  - American Education Foundation
+T1  - Back to basics: multiple perspectives
+Y1  - 1979
+D1  - 09/1979
+KW  - Curricula
+T2  - American Education Foundation. Curriculum bulletin
+V1  - 33
+IS  - 345
+PB  - American Education Foundation
+CY  - Oceanside, OR
+LA  - English
+CN  - 375.9 .O66b 1979
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Smith, Lendon H.
+A1  - Leavitt, Jerome E.
+A2  - American Education Foundation
+T1  - Nutrition, pressures, and disciplines: their impact on learning
+Y1  - 1979
+D1  - 01/1979
+KW  - Nutrition
+KW  - Educational psychology
+T2  - American Education Foundation. Curriculum bulletin
+V1  - 33
+IS  - 343
+PB  - American Education Foundation
+CY  - Oceanside, OR
+LA  - English
+CN  - 370.213 .A51n 1979
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A1  - Johnson, Simon O.
+A1  - Chaky, June
+A2  - American Education Foundation
+T1  - Climate for learning: a symposium
+Y1  - 1978
+D1  - 09/1978
+KW  - School environment
+T2  - American Education Foundation. Curriculum bulletin
+V1  - 32
+IS  - 341
+PB  - American Education Foundation
+CY  - Oceanside, OR
+LA  - English
+CN  - 370.15 .A51c 1978
+SC  - Oregon
+ER  - 
+
+TY  - BOOK
+A2  - Oregon State Board of Higher Education
+T1  - Progress of the unified system of higher education in Oregon
+Y1  - 1940
+D1  - 02/1940
+SP  - 13
+KW  - Higher education
+N1  - A report submitted by the Chancellor to the State Board of Higher Education at its meeting on January 23, 1940.
+PB  - Oregon State Board of Higher Education
+CY  - Eugene, OR
+LA  - English
+CN  - 379.74 .O66p 1940
+SC  - Oregon
+G1  - Postsecondary
+ER  - 
+
+TY  - BOOK
+A1  - Beardsley, Florence E.
+A1  - Hills, Joy
+A2  - Oregon State Department of Education
+T1  - Bulletin on social studies for elementary schools to be used with new state adoptions until course of study is issued
+Y1  - 1943
+D1  - 09/1943
+SP  - 15
+KW  - Social sciences
+PB  - Oregon State Department of Education
+CY  - Salem, OR
+LA  - English
+CN  - 371.33 .O66b 1943
+SC  - Oregon
+G1  - Elementary
+ER  - 
+
+TY  - BOOK
+A2  - Oregon Association of Secondary School Principals. Commission on Curriculum Development
+T1  - Your student council--a help or a headache?
+Y1  - 1954
+D1  - 05/1954
+SP  - 4
+KW  - Student government
+T2  - Oregon Association of Secondary School Principals. Commission on Curriculum Development. Secondary curriculum reports
+V1  - 1
+IS  - 10
+PB  - Oregon Association of Secondary School Principals
+LA  - English
+CN  - 371.171 .O654y 1954
+SC  - Oregon
+G1  - High school
+ER  - 
+
+
